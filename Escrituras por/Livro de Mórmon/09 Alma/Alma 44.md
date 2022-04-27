@@ -1,0 +1,91 @@
+---
+title: Alma 44
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# Alma 44
+[[Alma 43| <-- Alma 43]] | [[Alma]] | [[Alma 45|Alma 45 --> ]]
+
+[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/44?lang=por)
+
+---
+__Resumo__
+Morôni ordena aos lamanitas que façam um convênio de paz; do contrário serão destruídos — Zeraemna rejeita a oferta e a batalha recomeça — Os exércitos de Morôni derrotam os lamanitas. Aproximadamente 74–73 a.C.
+
+---
+###### 1 
+E aconteceu que pararam e recuaram um pouco. E Morôni disse a Zeraemna: Eis, Zeraemna, que não desejamos ser sanguinários. Sabeis que estais em nossas mãos, mas não vos desejamos matar.
+
+###### 2 
+Eis que não viemos batalhar contra vós para derramar vosso sangue pelo poder; nem desejamos reduzir ninguém ao jugo da escravidão. Esta, porém, é a verdadeira causa que vos levou a atacar-nos; sim, estais irados contra nós em virtude de nossa religião.
+
+###### 3 
+Agora, porém, vedes que o Senhor está conosco; e vedes que ele vos entregou em nossas mãos. E agora desejaria que compreendêsseis que isto nos acontece por causa de nossa religião e de nossa fé em Cristo. E agora vedes que não podeis destruir esta nossa fé.
+
+###### 4 
+Ora, vedes que esta é a verdadeira fé em Deus; sim, vedes que Deus nos manterá e conservará e preservará enquanto formos fiéis a ele e a nossa fé e a nossa religião; e nunca permitirá o Senhor que sejamos destruídos, a não ser que caiamos em transgressão e renunciemos a nossa fé.
+
+###### 5 
+E agora, Zeraemna, eu te ordeno, em nome do Deus Todo-Poderoso, que nos fortaleceu os braços, dando-nos poder sobre vós, por nossa fé, por nossa religião e por nossos ritos de adoração e por nossa igreja e pelo sagrado sustento que devemos a nossas esposas e nossos filhos, por essa liberdade que nos prende a nossas terras e nosso país; sim, e também pela observância da sagrada palavra de Deus, à qual devemos toda a nossa felicidade; e por tudo quanto nos é mais caro —
+
+###### 6 
+Sim, e isto não é tudo; ordeno-vos, por todo o amor que tiverdes pela vida, que nos entregueis vossas armas de guerra; e procuraremos não mais derramar vosso sangue, poupando-vos a vida se seguirdes vosso caminho e não tornardes a fazer guerra contra nós.
+
+###### 7 
+E agora, se não fizerdes isto, eis que estais em nossas mãos e ordenarei a meus homens que caiam sobre vós e desfiram golpes mortais em vosso corpo para exterminar-vos; e então veremos quem terá poder sobre este povo; sim, veremos quem será levado em cativeiro.
+
+###### 8 
+E então aconteceu que Zeraemna, ao ouvir estas palavras, adiantou-se e entregou sua espada e sua cimitarra e seu arco nas mãos de Morôni, dizendo-lhe: Eis nossas armas de guerra; nós vo-las entregaremos, mas não nos sujeitaremos a prestar-vos um juramento, o qual sabemos que nós, assim como nossos filhos, iremos quebrar; tomai, porém, nossas armas de guerra e permiti que partamos para o deserto; do contrário conservaremos nossas espadas e pereceremos ou conquistaremos.
+
+###### 9 
+Eis que não somos de vossa fé; não cremos que foi Deus quem nos entregou em vossas mãos, mas acreditamos é que foi vossa astúcia que vos salvou de nossas espadas. Eis que foram vossas couraças e vossos escudos que vos preservaram a vida.
+
+###### 10 
+E então, quando Zeraemna acabou de dizer estas palavras, Morôni devolveu-lhe a espada e as armas de guerra que havia recebido, dizendo: Eis que terminaremos a luta.
+
+###### 11 
+Ora, não posso revogar as palavras que proferi; por conseguinte, como vive o Senhor, não partireis a não ser sob o juramento de que não voltareis a pelejar contra nós. Ora, como estais em nossas mãos, derramaremos vosso sangue pelo chão a menos que vos submetais às condições que propus.
+
+###### 12 
+E então, quando Morôni disse estas palavras, Zeraemna tomou a espada e, irado contra Morôni, investiu contra ele com a intenção de matá-lo; mas ao levantar a espada, eis que um dos soldados de Morôni a golpeou, atirando-a por terra e quebrando-a pelo punho; e ele também golpeou Zeraemna, arrancando-lhe o couro cabeludo, que caiu por terra. E Zeraemna retrocedeu para o meio de seus soldados.
+
+###### 13 
+E aconteceu que o soldado que ali estava e que escalpelara Zeraemna pegou do chão o escalpo pelos cabelos e colocou-o na ponta de sua espada e estendeu-o em direção a eles, dizendo-lhes em alta voz:
+
+###### 14 
+Assim como caiu por terra este escalpo, que é o escalpo de vosso chefe, também caireis por terra se não depuserdes vossas armas de guerra e partirdes com um convênio de paz.
+
+###### 15 
+Ora, muitos, ao ouvirem estas palavras e verem o escalpo na espada, ficaram atemorizados; e muitos se adiantaram e depuseram suas armas aos pés de Morôni e fizeram um convênio de paz. E a todos os que fizeram esse convênio foi permitido partir para o deserto.
+
+###### 16 
+Ora, aconteceu que Zeraemna ficou muito irado e instigou o restante de seus soldados à cólera, para combaterem mais vigorosamente os nefitas.
+
+###### 17 
+E Morôni estava irado por causa da teimosia dos lamanitas; portanto, ordenou a seu povo que os atacasse e matasse. E aconteceu que começaram a matá-los; sim, e os lamanitas lutaram com suas espadas e sua força.
+
+###### 18 
+Mas eis que com a pele nua e a cabeça desprotegida, ficaram expostos às afiadas espadas dos nefitas; sim, eis que foram traspassados e feridos; sim, e caíram rapidamente ante as espadas dos nefitas e começaram a ser derrubados, como profetizara o soldado de Morôni.
+
+###### 19 
+Ora, Zeraemna, quando viu que estavam todos prestes a ser destruídos, clamou vigorosamente a Morôni, prometendo que ele e seu povo fariam convênio com eles de nunca mais tornarem a fazer guerra contra eles, se poupassem a vida dos restantes.
+
+###### 20 
+E aconteceu que Morôni fez com que cessasse outra vez a matança. Tirou as armas de guerra dos lamanitas e, após haverem feito com ele um convênio de paz, tiveram permissão de partir para o deserto.
+
+###### 21 
+Ora, o número de seus mortos não foi contado, por ser muito grande; sim, o número de seus mortos foi muito grande, tanto do lado dos nefitas quanto dos lamanitas.
+
+###### 22 
+E aconteceu que atiraram seus mortos nas águas do Sidon e eles foram levados e estão sepultados nas profundezas do mar.
+
+###### 23 
+E os exércitos dos nefitas, ou seja, de Morôni, voltaram para suas casas e suas terras.
+
+###### 24 
+E assim terminou o décimo oitavo ano em que os juízes governaram o povo de Néfi. E assim terminou o registro de Alma, que foi escrito nas placas de Néfi.
+

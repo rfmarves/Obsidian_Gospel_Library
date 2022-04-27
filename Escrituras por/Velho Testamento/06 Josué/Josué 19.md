@@ -1,0 +1,172 @@
+---
+title: Josué 19
+tags: #Escrituras\VelhoT
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# Josué 19
+[[Josué 18| <-- Josué 18]] | [[Josué]] | [[Josué 20|Josué 20 --> ]]
+
+[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/19?lang=por)
+
+---
+__Resumo__
+Simeão, Zebulom, Issacar, Aser, Naftali e Dã recebem sua herança por sorteio.
+
+---
+###### 1 
+E saiu a segunda sorte para Simeão, para a tribo dos filhos de Simeão, segundo as suas famílias; e foi a sua herança no meio da herança dos filhos de Judá.
+
+###### 2 
+E tiveram na sua herança: Berseba, e Seba, e Moladá,
+
+###### 3 
+E Hazar-Sual, e Balá, e Azem,
+
+###### 4 
+E Eltolade, e Betul, e Hormá,
+
+###### 5 
+E Ziclague, e Bete-Marcabote, e Hazar-Susa,
+
+###### 6 
+E Bete-Lebaote, e Saruém; treze cidades e as suas aldeias.
+
+###### 7 
+Aim, e Rimom, e Eter, e Asã; quatro cidades e as suas aldeias.
+
+###### 8 
+E todas as aldeias que  em redor dessas cidades, até Baalate-Ber,  Ramá do sul; essa  a herança da tribo dos filhos de Simeão, segundo as suas famílias.
+
+###### 9 
+A herança dos filhos de Simeão  entre o quinhão dos de Judá, porquanto a herança dos filhos de Judá era demasiadamente grande para eles, pelo que os filhos de Simeão tiveram a sua herança no meio deles.
+
+###### 10 
+E saiu a terceira sorte para os filhos de Zebulom, segundo as suas famílias; e foi o termo da sua herança até Saride.
+
+###### 11 
+E sobe o seu termo pelo ocidente a Maralá, e chega até Dabesete; chega também até o ribeiro que  defronte de Jocneão.
+
+###### 12 
+E de Saride volta para o oriente, para o nascente do sol, até o termo de Quislote-Tabor, e sai a Daberate, e vai subindo a Jafia.
+
+###### 13 
+E dali passa pelo oriente para o nascente, a Gate-Hefer, em Ete-Cazim; e sai a Rimom-Metoar,  Neá.
+
+###### 14 
+E dá volta este termo para o norte a Hanatom; e as suas saídas  o vale de Iftá-El,
+
+###### 15 
+E Catate, e Naalal, e Sinrom, e Idala, e Belém; doze cidades e as suas aldeias.
+
+###### 16 
+Essa  a herança dos filhos de Zebulom, segundo as suas famílias; essas cidades e as suas aldeias.
+
+###### 17 
+A quarta sorte saiu para Issacar; para os filhos de Issacar, segundo as suas famílias.
+
+###### 18 
+E foi o seu termo Jezreel, e Quesulote, e Suném,
+
+###### 19 
+E Hafaraim, e Siom, e Anaarate,
+
+###### 20 
+E Rabite, e Quisiom, e Ebes,
+
+###### 21 
+E Remete, e En-Ganim, e En-Hadá, e Bete-Pazez.
+
+###### 22 
+E chega este termo até Tabor, e Saazima, e Bete-Semes; e as saídas do seu termo  para o Jordão; dezesseis cidades e as suas aldeias.
+
+###### 23 
+Essa  a herança da tribo dos filhos de Issacar, segundo as suas famílias; essas cidades e as suas aldeias.
+
+###### 24 
+E saiu a quinta sorte para a tribo dos filhos de Aser, segundo as suas famílias.
+
+###### 25 
+E foi o seu termo Helcate, e Hali, e Béten, e Acsafe,
+
+###### 26 
+E Alameleque, e Amade, e Misal; e chega a Carmelo para o ocidente, e a Sior-Libnate;
+
+###### 27 
+E volta do nascente do sol a Bete-Dagom, e chega a Zebulom e ao vale de Iftá-El, ao norte de Bete-Emeque e de Neiel, e vem sair a Cabul pela esquerda,
+
+###### 28 
+E Hebrom, e Reobe, e Hamom, e Caná, até a grande Sidom.
+
+###### 29 
+E volta este termo a Ramá, e até a forte cidade de Tiro; então dá volta este termo a Hosa, e as suas saídas estão para o mar, desde o quinhão  até Aczibe;
+
+###### 30 
+E Umá, e Afeque, e Reobe; vinte e duas cidades e as suas aldeias.
+
+###### 31 
+Essa  a herança da tribo dos filhos de Aser, segundo as suas famílias; essas cidades e as suas aldeias.
+
+###### 32 
+E saiu a sexta sorte para os filhos de Naftali; para os filhos de Naftali, segundo as suas famílias.
+
+###### 33 
+E foi o seu termo desde Helefe e desde Alom em Zaananim, e Adami-Nequebe, e Jabneel, até Lacum; e estão as suas saídas no Jordão.
+
+###### 34 
+E volta este termo pelo ocidente a Aznote-Tabor, e dali passa a Hucoque; e chega a Zebulom para o sul, e chega a Aser para o ocidente, e a Judá pelo Jordão, para o nascente do sol.
+
+###### 35 
+E  as cidades fortificadas: Zidim, Zer, e Hamate, Racate, e Quinerete,
+
+###### 36 
+E Adamá, e Ramá, e Hazor,
+
+###### 37 
+E Quedes, e Edrei, e En-Hazor,
+
+###### 38 
+E Irom, e Migdal-El, Horém, e Bete-Anate, e Bete-Semes; dezenove cidades e as suas aldeias.
+
+###### 39 
+Essa  a herança da tribo dos filhos de Naftali, segundo as suas famílias; essas cidades e as suas aldeias.
+
+###### 40 
+A sétima sorte saiu para a tribo dos filhos de Dã, segundo as suas famílias.
+
+###### 41 
+E foi o termo da sua herança, Zorá, e Estaol, e Ir-Semes,
+
+###### 42 
+E Saalabim, e Aijalom, e Itla,
+
+###### 43 
+E Elom, e Timna, e Ecrom,
+
+###### 44 
+E Elteque, e Gibetom, e Baalate,
+
+###### 45 
+E Jeúde, e Bene-Beraque, e Gate-Rimom,
+
+###### 46 
+E Me-Jarcom, e Racom; com o termo defronte de Jope;
+
+###### 47 
+Saiu, porém, pequeno o termo aos filhos de Dã, pelo que subiram os filhos de Dã, e pelejaram contra Lesém, e a tomaram, e a feriram ao fio da espada, e a possuíram e habitaram nela, e a Lesém chamaram Dã, conforme o nome de Dã, seu pai.
+
+###### 48 
+Essa  a herança da tribo dos filhos de Dã, segundo as suas famílias; essas cidades e as suas aldeias.
+
+###### 49 
+Acabando, pois, de repartir a terra em herança segundo os seus termos, deram os filhos de Israel a Josué, filho de Num, herança no meio deles.
+
+###### 50 
+Segundo a ordem do  lhe deram a cidade que pediu, Timnate-Sera, na montanha de Efraim; e reedificou aquela cidade, e habitou nela.
+
+###### 51 
+Estas  as heranças que Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças dos pais das famílias por sorte em herança repartiram às tribos dos filhos de Israel em Siló, perante o , à porta da tenda da congregação. E  acabaram de repartir a terra.
+

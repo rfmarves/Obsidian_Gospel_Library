@@ -1,0 +1,91 @@
+---
+title: sw 2 Corinthians 8
+tags: #Scriptures\NewT
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# sw 2 Corinthians 8
+[[sw 2 Corinthians 7| <-- sw 2 Corinthians 7]] | [[2 Corinthians]] | [[sw 2 Corinthians 9|sw 2 Corinthians 9 --> ]]
+
+[Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/8?lang=eng)
+
+---
+__Summary__
+True Saints impart of their substance to the poor—Christ, out of His poverty, brought eternal riches.
+
+---
+###### 1 
+Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;
+
+###### 2 
+How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.
+
+###### 3 
+For to  power, I bear record, yea, and beyond  power  willing of themselves;
+
+###### 4 
+Praying us with much entreaty that we would receive the gift, and  the fellowship of the ministering to the saints.
+
+###### 5 
+And  not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God.
+
+###### 6 
+Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also.
+
+###### 7 
+Therefore, as ye abound in every  faith, and utterance, and knowledge, and  all diligence, and  your love to us,  that ye abound in this grace also.
+
+###### 8 
+I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.
+
+###### 9 
+For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.
+
+###### 10 
+And herein I give  advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago.
+
+###### 11 
+Now therefore perform the doing  that as  a readiness to will, so  a performance also out of that which ye have.
+
+###### 12 
+For if there be first a willing mind,  accepted according to that a man hath,  not according to that he hath not.
+
+###### 13 
+For  not that other men be eased, and ye burdened:
+
+###### 14 
+But by an equality,  now at this time your abundance  for their want, that their abundance also may be  for your want: that there may be equality:
+
+###### 15 
+As it is written, He that  much had nothing over; and he that  little had no lack.
+
+###### 16 
+But thanks  to God, which put the same earnest care into the heart of Titus for you.
+
+###### 17 
+For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you.
+
+###### 18 
+And we have sent with him the brother, whose praise  in the gospel throughout all the churches;
+
+###### 19 
+And not  only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and  your ready mind:
+
+###### 20 
+Avoiding this, that no man should blame us in this abundance which is administered by us:
+
+###### 21 
+Providing for honest things, not only in the sight of the Lord, but also in the sight of men.
+
+###### 22 
+And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which  in you.
+
+###### 23 
+Whether  of Titus,  my partner and fellowhelper concerning you: or our brethren  the messengers of the churches,  the glory of Christ.
+
+###### 24 
+Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf.
+

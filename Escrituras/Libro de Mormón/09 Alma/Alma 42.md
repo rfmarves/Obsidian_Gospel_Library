@@ -1,0 +1,112 @@
+---
+title: Alma 42
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# Alma 42
+[[Alma 41| <-- Alma 41]] | [[Alma]] | [[Alma 43|Alma 43 --> ]]
+
+[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=spa)
+
+---
+__Resumen__
+El estado terrenal es un tiempo de probación que permite al hombre arrepentirse y servir a Dios — La Caída trajo la muerte temporal y espiritual sobre todo el género humano — La redención se realiza por medio del arrepentimiento — Dios mismo expía los pecados del mundo — La misericordia es para aquellos que se arrepienten — Todos los demás quedan sujetos a la justicia de Dios — La misericordia viene a causa de la Expiación — Solo se salvan los que verdaderamente se arrepienten. Aproximadamente 74 a.C.
+
+---
+###### 1 
+Y ahora bien, hijo mío, percibo que hay algo más que inquieta tu mente, algo que no puedes comprender, y es concerniente a la justicia de Dios en el castigo del pecador; porque tratas de suponer que es una injusticia que el pecador sea consignado a un estado de miseria.
+
+###### 2 
+He aquí, hijo mío, te explicaré esto. Pues, he aquí, luego que el Señor Dios expulsó a nuestros primeros padres del Jardín de Edén, para cultivar la tierra de la que fueron tomados, sí, sacó al hombre, y colocó al extremo oriental del Jardín de Edén querubines, y una espada encendida que daba vueltas por todos lados, para guardar el árbol de la vida,
+
+###### 3 
+vemos, pues, que el hombre había llegado a ser como Dios, conociendo el bien y el mal; y para que no extendiera su mano, y tomara también del árbol de la vida, y comiera y viviera para siempre, el Señor Dios colocó querubines y la espada encendida, para que el hombre no comiera del fruto.
+
+###### 4 
+Y así vemos que le fue concedido al hombre un tiempo para que se arrepintiera; sí, un tiempo de probación, un tiempo para arrepentirse y servir a Dios.
+
+###### 5 
+Porque he aquí, si Adán hubiese extendido su mano inmediatamente, y comido del árbol de la vida, habría vivido para siempre, según la palabra de Dios, sin tener un tiempo para arrepentirse; sí, y también habría sido vana la palabra de Dios, y se habría frustrado el gran plan de salvación.
+
+###### 6 
+Mas he aquí, le fue señalado al hombre que muriera —por tanto, como fueron separados del árbol de la vida, así iban a ser separados de la faz de la tierra— y el hombre se vio perdido para siempre; sí, se tornó en hombre caído.
+
+###### 7 
+Y ahora bien, ves por esto que nuestros primeros padres fueron separados de la presencia del Señor, tanto temporal como espiritualmente; y así vemos que llegaron a ser personas libres de seguir su propia voluntad.
+
+###### 8 
+Y he aquí, no era prudente que el hombre fuese rescatado de esta muerte temporal, porque esto habría destruido el gran plan de felicidad.
+
+###### 9 
+Por tanto, como el alma nunca podía morir, y ya que la caída había traído una muerte espiritual, así como una temporal, sobre todo el género humano, es decir, fueron separados de la presencia del Señor, se hizo menester que la humanidad fuese rescatada de esta muerte espiritual.
+
+###### 10 
+Por tanto, ya que se habían vuelto carnales, sensuales y diabólicos por naturaleza, este estado de probación llegó a ser para ellos un estado para prepararse; se tornó en un estado preparatorio.
+
+###### 11 
+Y ten presente, hijo mío, que de no ser por el plan de redención (dejándolo a un lado), sus almas serían miserables en cuanto ellos murieran, por estar separados de la presencia del Señor.
+
+###### 12 
+Y no habría medio de redimir al hombre de este estado caído, que él mismo se había ocasionado por motivo de su propia desobediencia;
+
+###### 13 
+por tanto, según la justicia, el plan de redención no podía realizarse sino de acuerdo con las condiciones del arrepentimiento del hombre en este estado probatorio, sí, este estado preparatorio; porque a menos que fuera por estas condiciones, la misericordia no podría surtir efecto, salvo que destruyese la obra de la justicia. Pero la obra de la justicia no podía ser destruida; de ser así, Dios dejaría de ser Dios.
+
+###### 14 
+Y así vemos que toda la humanidad se hallaba caída, y que estaba en manos de la justicia; sí, la justicia de Dios que los sometía para siempre a estar separados de su presencia.
+
+###### 15 
+Ahora bien, no se podría realizar el plan de la misericordia salvo que se efectuase una expiación; por tanto, Dios mismo expía los pecados del mundo, para realizar el plan de la misericordia, para apaciguar las demandas de la justicia, para que Dios sea un Dios perfecto, justo y misericordioso también.
+
+###### 16 
+Mas el arrepentimiento no podía llegar a los hombres a menos que se fijara un castigo, igualmente eterno como la vida del alma, opuesto al plan de la felicidad, tan eterno también como la vida del alma.
+
+###### 17 
+Y, ¿cómo podría el hombre arrepentirse, a menos que pecara? ¿Cómo podría pecar, si no hubiese ley? Y, ¿cómo podría haber una ley sin que hubiese un castigo?
+
+###### 18 
+Mas se fijó un castigo, y se dio una ley justa, la cual trajo el remordimiento de conciencia al hombre.
+
+###### 19 
+Ahora bien, de no haberse dado una ley de que el hombre que asesina debe morir, ¿tendría miedo de morir si matase?
+
+###### 20 
+Y también, si no hubiese ninguna ley contra el pecado, los hombres no tendrían miedo de pecar.
+
+###### 21 
+Y si no se hubiese dado ninguna ley, ¿qué podría hacer la justicia si los hombres pecasen? ¿O la misericordia? Pues no tendrían derecho a reclamar al hombre.
+
+###### 22 
+Mas se ha dado una ley, y se ha fijado un castigo, y se ha concedido un arrepentimiento, el cual la misericordia reclama; de otro modo, la justicia reclama al ser humano y ejecuta la ley, y la ley impone el castigo; pues de no ser así, las obras de la justicia serían destruidas, y Dios dejaría de ser Dios.
+
+###### 23 
+Mas Dios no cesa de ser Dios, y la misericordia reclama al que se arrepiente; y la misericordia viene a causa de la expiación; y la expiación lleva a efecto la resurrección de los muertos; y la resurrección de los muertos lleva a los hombres de regreso a la presencia de Dios; y así son restaurados a su presencia, para ser juzgados según sus obras, de acuerdo con la ley y la justicia.
+
+###### 24 
+Pues he aquí, la justicia ejerce todos sus derechos, y también la misericordia reclama cuanto le pertenece; y así, nadie se salva sino los que verdaderamente se arrepienten.
+
+###### 25 
+¿Qué, supones tú que la misericordia puede robar a la justicia? Te digo que no, ni un ápice. Si fuera así, Dios dejaría de ser Dios.
+
+###### 26 
+Y de este modo realiza Dios sus grandes y eternos propósitos, que fueron preparados desde la fundación del mundo. Y así se realiza la salvación y la redención de los hombres, y también su destrucción y miseria.
+
+###### 27 
+Por tanto, oh hijo mío, el que quiera venir, puede venir a beber libremente de las aguas de la vida; y quien no quiera venir, no está obligado a venir; pero en el postrer día le será restaurado según sus hechos.
+
+###### 28 
+Si ha deseado hacer lo malo, y no se ha arrepentido durante sus días, he aquí, lo malo le será devuelto, según la restauración de Dios.
+
+###### 29 
+Y ahora bien, hijo mío, quisiera que no dejaras que te perturbaran más estas cosas, y solo deja que te preocupen tus pecados, con esa zozobra que te conducirá al arrepentimiento.
+
+###### 30 
+¡Oh hijo mío, quisiera que no negaras más la justicia de Dios! No trates de excusarte en lo más mínimo a causa de tus pecados, negando la justicia de Dios. Deja, más bien, que la justicia de Dios, y su misericordia y su longanimidad dominen por completo tu corazón; y permite que esto te humille hasta el polvo.
+
+###### 31 
+Y ahora bien, oh hijo mío, eres llamado por Dios para predicar la palabra a este pueblo. Ve, hijo mío; declara la palabra con verdad y con circunspección, para que lleves almas al arrepentimiento, a fin de que el gran plan de misericordia pueda reclamarlas. Y Dios te conceda según mis palabras. Amén.
+

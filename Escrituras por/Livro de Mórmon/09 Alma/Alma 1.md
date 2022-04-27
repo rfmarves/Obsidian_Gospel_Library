@@ -1,0 +1,123 @@
+---
+title: Alma 1
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# Alma 1
+[[Mosias 29| <-- Mosias 29]] | [[Alma]] | [[Alma 2|Alma 2 --> ]]
+
+[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=por)
+
+---
+Relato de Alma, que era filho de Alma e o primeiro juiz supremo do povo de Néfi e também o sumo sacerdote da Igreja. Um relato do governo dos juízes e das guerras e contendas do povo. E também o relato de uma guerra entre nefitas e lamanitas, segundo o registro de Alma, o primeiro juiz supremo.
+
+---
+
+---
+__Resumo__
+Neor ensina falsas doutrinas, organiza uma igreja, introduz artimanhas sacerdotais e mata Gideão — Neor é executado por seus crimes — Artimanhas sacerdotais e perseguições propagam-se entre o povo — Os sacerdotes trabalham para seu próprio sustento, o povo cuida dos pobres e a Igreja prospera. Aproximadamente 91–88 a.C.
+
+---
+###### 1 
+Ora, aconteceu que no primeiro ano em que os juízes governaram o povo de Néfi, e daí em diante, tendo o rei Mosias ido pelo caminho de toda a Terra, combatido um bom combate, andado retamente diante de Deus, não tendo deixado ninguém para reinar em seu lugar; não obstante, ele estabelecera leis e elas eram reconhecidas pelo povo; portanto, tinham a obrigação de submeter-se às leis que ele havia formulado.
+
+###### 2 
+E aconteceu que no primeiro ano do governo de Alma como juiz, foi-lhe apresentado um homem para ser julgado, um homem de grande estatura e notável pela sua grande força.
+
+###### 3 
+E ele saíra pregando ao povo o que chamava de palavra de Deus, opondo-se à igreja; declarando ao povo que todos os sacerdotes e mestres deveriam tornar-se populares; e que não deveriam trabalhar com as próprias mãos, mas deveriam ser sustentados pelo povo.
+
+###### 4 
+E ele também testificou ao povo que toda a humanidade seria salva no último dia e que não precisariam temer nem tremer, mas que podiam levantar a cabeça e regozijar-se; porque o Senhor havia criado todos os homens e também havia redimido todos os homens; e, no fim, todos os homens teriam vida eterna.
+
+###### 5 
+E aconteceu que tanto pregou estas coisas que muitos acreditaram em suas palavras; e foram tantos, que começaram a sustentá-lo e a dar-lhe dinheiro.
+
+###### 6 
+E ele começou a exaltar-se no orgulho de seu coração e a usar vestimentas custosas, sim, e até começou a organizar uma igreja de acordo com a sua pregação.
+
+###### 7 
+E aconteceu que enquanto andava assim pregando aos que acreditavam em suas palavras, encontrou um homem que pertencia à igreja de Deus, sim, precisamente um de seus mestres, e começou a discutir com ele asperamente, com o fim de afastar o povo da igreja; mas o homem opôs-lhe resistência, advertindo-o com as palavras de Deus.
+
+###### 8 
+Ora, esse homem chamava-se Gideão; e fora ele quem servira de instrumento nas mãos de Deus para livrar do cativeiro o povo de Lími.
+
+###### 9 
+Ora, porque Gideão lhe opôs resistência com as palavras de Deus, ele encolerizou-se contra Gideão e, tendo sacado da espada, começou a golpeá-lo. Ora, tendo Gideão idade avançada, não pôde resistir aos golpes; foi, portanto, morto pela espada.
+
+###### 10 
+E o homem que o havia matado foi aprisionado pelo povo da igreja e levado à presença de Alma para ser julgado pelos crimes que cometera.
+
+###### 11 
+E aconteceu que estando ele diante de Alma, defendeu-se com muita ousadia.
+
+###### 12 
+Mas Alma disse-lhe: Eis que esta é a primeira vez que artimanhas sacerdotais foram introduzidas no meio deste povo. E eis que tu não somente és culpado de artimanhas sacerdotais, mas também de teres tratado de impô-las pela espada; e se tais artimanhas tivessem sido impostas a este povo, teriam acarretado a sua total destruição.
+
+###### 13 
+E fizeste correr o sangue de um homem justo, sim, um homem que muito bem fez entre este povo; e se te poupássemos, o sangue dele recairia sobre nós como vingança.
+
+###### 14 
+Estás, portanto, condenado à morte, de acordo com a lei que nos foi dada por Mosias, nosso último rei, a qual foi reconhecida por este povo; portanto, este povo deve respeitar a lei.
+
+###### 15 
+E aconteceu que o levaram — e seu nome era Neor — e conduziram-no até o alto da colina de Mânti e lá ele foi obrigado a reconhecer, ou melhor, reconheceu entre os céus e a Terra que o que ensinara ao povo era contra a palavra de Deus; e ali sofreu uma ignominiosa morte.
+
+###### 16 
+Não obstante, isso não pôs fim à difusão de artimanhas sacerdotais na terra; porque havia muitos que gostavam das coisas vãs do mundo e continuavam a pregar falsas doutrinas; e isto faziam por causa de riquezas e honrarias.
+
+###### 17 
+No entanto não se atreviam a mentir, por temor à lei, pois os mentirosos eram punidos, se descobertos; consequentemente alegavam pregar de acordo com a sua crença; e a lei não tinha poder contra homem algum por causa de sua crença.
+
+###### 18 
+E não se atreviam a furtar, por medo da lei, pois seriam punidos; nem se atreviam a roubar nem a assassinar, pois aquele que assassinasse seria punido com a morte.
+
+###### 19 
+Mas aconteceu que todos os que não pertenciam à igreja de Deus começaram a perseguir aqueles que pertenciam à igreja de Deus e que haviam tomado sobre si o nome de Cristo.
+
+###### 20 
+Sim, eram perseguidos e afligidos com toda sorte de palavras, e isso por causa da sua humildade; porque não se exaltavam aos seus próprios olhos, e porque partilhavam a palavra de Deus, uns com os outros, sem dinheiro e sem preço.
+
+###### 21 
+Ora, havia entre o povo da igreja uma lei severa que proibia a qualquer homem que pertencesse à igreja perseguir aqueles que não pertencessem à igreja; e proibia perseguições entre eles mesmos.
+
+###### 22 
+Não obstante, havia muitos entre eles que começaram a tornar-se orgulhosos e a contender acaloradamente com seus adversários, chegando a bater-lhes; sim, golpeavam-se uns aos outros com seus punhos.
+
+###### 23 
+Ora, isto aconteceu no segundo ano do governo de Alma, causando à igreja muitas aflições; sim, isto foi causa de muitas tribulações na igreja.
+
+###### 24 
+Porque o coração de muitos se endureceu e seus nomes foram riscados, de modo que não mais foram lembrados entre o povo de Deus. E também muitos se afastaram do meio deles.
+
+###### 25 
+Ora, isso era uma grande provação para os que permaneciam firmes na fé; não obstante, foram firmes e inabaláveis na obediência aos mandamentos de Deus e suportaram com paciência as perseguições que se acumularam sobre eles.
+
+###### 26 
+E quando os sacerdotes deixavam seu trabalho para ensinar ao povo a palavra de Deus, o povo também deixava seus trabalhos para ouvir a palavra de Deus. E quando o sacerdote terminava de ensinar-lhes a palavra de Deus, voltavam todos diligentemente para seus trabalhos; e o sacerdote não se julgava superior a seus ouvintes, porque o pregador não era melhor que o ouvinte nem o mestre melhor que o discípulo; e assim eram todos iguais e todos trabalhavam, cada um de acordo com suas forças.
+
+###### 27 
+E eles repartiam os seus bens com os pobres e os necessitados e os doentes e os aflitos, cada um de acordo com o que possuía; e não usavam vestimentas custosas; contudo, eram asseados e formosos.
+
+###### 28 
+E assim eles organizaram os negócios da igreja; e assim começaram a ter paz contínua novamente, apesar de todas as perseguições.
+
+###### 29 
+E então, graças à solidez da igreja, começaram a enriquecer extremamente, tendo abundância de tudo que lhes era necessário — abundância de rebanhos e manadas e de animais cevados de toda espécie; e também abundância de grãos e de ouro e de prata e de coisas preciosas; e abundância de sedas e de finos tecidos de linho e de toda espécie de bons tecidos simples.
+
+###### 30 
+E assim, em sua prosperidade, não deixavam de atender a quem quer que estivesse nu ou faminto ou sedento ou doente ou que não tivesse sido alimentado; e o seu coração não estava nas riquezas; portanto, eram liberais com todos, tanto velhos como jovens, tanto escravos como livres, tanto homens como mulheres, pertencessem ou não à igreja, não fazendo acepção de pessoas no que se referia aos necessitados.
+
+###### 31 
+E assim prosperaram e tornaram-se muito mais ricos que aqueles que não pertenciam a sua igreja.
+
+###### 32 
+Pois aqueles que não pertenciam a sua igreja entregavam-se a feitiçarias e a idolatria ou ócio; e a tagarelices e a invejas e contendas, usando vestimentas custosas, exaltando-se segundo o orgulho de seus próprios olhos; perseguindo, mentindo, furtando, roubando, cometendo libertinagens e homícidios e toda espécie de iniquidades; não obstante, a lei era aplicada a todos os que a transgredissem, tanto quanto possível.
+
+###### 33 
+E aconteceu que, aplicando-se-lhes assim a lei, cada um sendo castigado de acordo com o que fizera, tornaram-se mais tranquilos e não se atreviam a cometer iniquidades abertamente; o povo de Néfi teve, portanto, muita paz até o quinto ano do governo dos juízes.
+

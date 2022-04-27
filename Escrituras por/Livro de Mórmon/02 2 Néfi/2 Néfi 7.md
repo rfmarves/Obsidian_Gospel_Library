@@ -1,0 +1,52 @@
+---
+title: 2 Néfi 7
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# 2 Néfi 7
+[[2 Néfi 6| <-- 2 Néfi 6]] | [[2 Néfi]] | [[2 Néfi 8|2 Néfi 8 --> ]]
+
+[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/7?lang=por)
+
+---
+__Resumo__
+Jacó continua a ler em Isaías: Isaías fala em linguagem messiânica — O Messias terá a língua dos instruídos — Ele oferecerá as Suas costas aos açoitadores — Não será confundido — Comparar com Isaías 50. Aproximadamente 559–545 a.C.
+
+---
+###### 1 
+Sim, pois assim diz o Senhor: Repudiei-te eu ou expulsei-te para sempre? Pois assim diz o Senhor: Onde está o libelo do divórcio de tua mãe? Para quem te apartei ou a qual de meus credores te vendi? Sim, a quem te vendi eu? Eis que por vossas iniquidades vos vendestes e por vossas transgressões é a vossa mãe repudiada.
+
+###### 2 
+Porque quando vim, não havia ninguém; quando chamei, ninguém respondeu. Ó casa de Israel, tanto se encolheu a minha mão que já não possa remir ou já não há em mim força para livrar? Eis que com a minha repreensão faço secar o mar, torno os seus rios em desertos e faço com que cheirem mal os seus peixes, porque secaram as águas e morrem de sede.
+
+###### 3 
+Eu visto os céus de negridão e ponho-lhes um saco por cobertura.
+
+###### 4 
+O Senhor Deus concedeu-me a língua dos instruídos, para que eu soubesse dizer no seu tempo uma palavra a ti, ó casa de Israel. Quando estais cansados, ele desperta todas as manhãs. Ele desperta-me o ouvido, para que ouça como o instruído.
+
+###### 5 
+O Senhor Deus abriu-me os ouvidos, e não fui rebelde nem retrocedi.
+
+###### 6 
+Ofereci as costas aos açoitadores e as faces aos que me arrancavam os cabelos. Não escondi a face da humilhação nem dos que me cuspiam.
+
+###### 7 
+Pois o Senhor Deus me ajudará; portanto, não serei confundido. Por isso, coloquei o rosto como uma pedra, e sei que não serei envergonhado.
+
+###### 8 
+E o Senhor está perto e justifica-me. Quem contenderá comigo? Compareçamos juntamente. Quem é o meu adversário? Que ele se chegue a mim, e eu o ferirei com a força da minha boca.
+
+###### 9 
+Pois o Senhor Deus me ajudará; e todos os que me condenarem, eis que todos, como vestidos, envelhecerão e a traça os comerá.
+
+###### 10 
+Quem há entre vós que tema ao Senhor, que obedeça à voz de seu servo, que ande em trevas e não tenha luz?
+
+###### 11 
+Eis que todos vós, que acendeis fogo e vos cingis com faíscas, andais na luz do vosso fogo e entre as faíscas que acendestes. Isto tereis de minha mão — em tormento jazereis.
+

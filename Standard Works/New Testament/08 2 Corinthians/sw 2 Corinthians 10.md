@@ -1,0 +1,73 @@
+---
+title: sw 2 Corinthians 10
+tags: #Scriptures\NewT
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# sw 2 Corinthians 10
+[[sw 2 Corinthians 9| <-- sw 2 Corinthians 9]] | [[2 Corinthians]] | [[sw 2 Corinthians 11|sw 2 Corinthians 11 --> ]]
+
+[Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/10?lang=eng)
+
+---
+__Summary__
+Bring every thought into obedience—Paul glories in the Lord.
+
+---
+###### 1 
+Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence  base among you, but being absent am bold toward you:
+
+###### 2 
+But I beseech  that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh.
+
+###### 3 
+For though we walk in the flesh, we do not war after the flesh:
+
+###### 4 
+(For the weapons of our warfare  not carnal, but mighty through God to the pulling down of strong holds;)
+
+###### 5 
+Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
+
+###### 6 
+And having in a readiness to revenge all disobedience, when your obedience is fulfilled.
+
+###### 7 
+Do ye look on things after the outward appearance? If any man trust to himself that he is Christ’s, let him of himself think this again, that, as he  Christ’s, even so  we Christ’s.
+
+###### 8 
+For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:
+
+###### 9 
+That I may not seem as if I would terrify you by letters.
+
+###### 10 
+For  letters, say they,  weighty and powerful; but  bodily presence  weak, and  speech contemptible.
+
+###### 11 
+Let such an one think this, that, such as we are in word by letters when we are absent, such  also in deed when we are present.
+
+###### 12 
+For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.
+
+###### 13 
+But we will not boast of things without  measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you.
+
+###### 14 
+For we stretch not ourselves beyond  as though we reached not unto you: for we are come as far as to you also in  the gospel of Christ:
+
+###### 15 
+Not boasting of things without  measure,  of other men’s labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,
+
+###### 16 
+To preach the gospel in the  beyond you,  not to boast in another man’s line of things made ready to our hand.
+
+###### 17 
+But he that glorieth, let him glory in the Lord.
+
+###### 18 
+For not he that commendeth himself is approved, but whom the Lord commendeth.
+

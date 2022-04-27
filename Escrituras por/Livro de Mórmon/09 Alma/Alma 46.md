@@ -1,0 +1,142 @@
+---
+title: Alma 46
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# Alma 46
+[[Alma 45| <-- Alma 45]] | [[Alma]] | [[Alma 47|Alma 47 --> ]]
+
+[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/46?lang=por)
+
+---
+__Resumo__
+Amaliquias conspira para ser rei — Morôni levanta o estandarte da liberdade — Ele conclama o povo a defender sua religião — Os verdadeiros crentes são chamados cristãos — Será preservado um remanescente de José — Amaliquias e os dissidentes fogem para a terra de Néfi — Os que não apoiam a causa da liberdade são executados. Aproximadamente 73–72 a.C.
+
+---
+###### 1 
+E aconteceu que todos os que não atenderam às palavras de Helamã e seus irmãos, uniram-se contra eles.
+
+###### 2 
+E então eis que ficaram muito irados, tanto que estavam determinados a matá-los.
+
+###### 3 
+Ora, o chefe dos que se haviam revoltado contra seus irmãos era um homem grande e forte; e seu nome era Amaliquias.
+
+###### 4 
+E Amaliquias desejava ser rei; e aqueles que estavam irados também desejavam que ele fosse seu rei; e a maioria deles eram juízes menores da terra e estavam em busca de poder.
+
+###### 5 
+E tinham sido convencidos, pelas lisonjas de Amaliquias, de que, se o apoiassem e fizessem dele o seu rei, ele os tornaria governantes do povo.
+
+###### 6 
+Assim, foram instigados por Amaliquias a promover dissensões, apesar das pregações de Helamã e seus irmãos; sim, apesar de seu enorme zelo pela igreja, pois eram sumos sacerdotes da igreja.
+
+###### 7 
+E houve muitos na igreja que acreditaram nas palavras lisonjeiras de Amaliquias; por conseguinte, separaram-se até da igreja; e assim, as condições do povo de Néfi eram muito precárias e perigosas, não obstante sua grande vitória sobre os lamanitas e seu enorme regozijo por terem sido libertados pela mão do Senhor.
+
+###### 8 
+Vemos, assim, quão rapidamente os filhos dos homens se esquecem do Senhor seu Deus; sim, quão rapidamente praticam iniquidades e deixam-se levar pelo maligno.
+
+###### 9 
+Sim, e também vemos a grande iniquidade que um homem muito iníquo pode fazer com que ocorra entre os filhos dos homens.
+
+###### 10 
+Sim, vemos que Amaliquias, por ser um homem de astutos ardis e um homem de muitas palavras lisonjeiras, incitou o coração de muitos a praticar iniquidades; sim, e a procurar destruir a igreja de Deus e a destruir o alicerce de liberdade que Deus lhes concedera, ou seja, a bênção que Deus enviara à face da terra por amor aos justos.
+
+###### 11 
+E então aconteceu que quando Morôni, que era o comandante geral dos exércitos nefitas, soube dessas dissensões, ficou irado contra Amaliquias.
+
+###### 12 
+E aconteceu que rasgou sua túnica e, pegando um pedaço dela, nele escreveu: Em lembrança de nosso Deus, nossa religião e nossa liberdade e nossa paz, nossas esposas e nossos filhos — e amarrou-o na ponta de um mastro.
+
+###### 13 
+E ele colocou seu capacete e sua couraça e seus escudos e cingiu os lombos com sua armadura; e pegou o mastro em cuja ponta se achava a túnica rasgada (a que ele chamou estandarte da liberdade); e inclinou-se até o solo e orou fervorosamente a seu Deus, a fim de que as bênçãos da liberdade repousassem sobre seus irmãos enquanto restasse um grupo de cristãos para habitar a terra —
+
+###### 14 
+Porque assim eram chamados todos os verdadeiros crentes em Cristo, que pertenciam à igreja de Deus, pelos que não pertenciam à igreja.
+
+###### 15 
+E os que pertenciam à igreja eram fiéis; sim, todos os que eram crentes verdadeiros em Cristo tomavam sobre si alegremente o nome de Cristo, ou seja, de cristãos, como eram chamados em virtude de sua crença no Cristo que haveria de vir.
+
+###### 16 
+E assim, nessa ocasião Morôni orou para que fosse favorecida a causa dos cristãos e a liberdade da terra.
+
+###### 17 
+E aconteceu que depois de haver derramado a alma a Deus, chamou toda a terra que ficava situada ao sul da terra de Desolação, sim, resumindo, toda a terra, tanto ao norte como ao sul, de terra escolhida e terra da liberdade.
+
+###### 18 
+E disse: Certamente Deus não permitirá que nós, que somos desprezados por tomar sobre nós o nome de Cristo, sejamos pisados e destruídos até provocarmos isso com nossas próprias transgressões.
+
+###### 19 
+E tendo dito estas palavras, Morôni foi para o meio do povo fazendo tremular a parte rasgada de sua túnica no ar, para que todos vissem o que havia escrito na parte rasgada; e clamou em alta voz, dizendo:
+
+###### 20 
+Eis que todos os que desejarem defender este estandarte na terra, aproximem-se na força do Senhor e façam convênio de que defenderão seus direitos e sua religião, para que o Senhor Deus os abençoe.
+
+###### 21 
+E aconteceu que quando Morôni disse estas palavras, eis que o povo se aproximou com os lombos cingidos por suas armaduras, rasgando as vestes como símbolo, ou melhor, como convênio de que não abandonariam o Senhor seu Deus; ou, em outras palavras, se eles transgredissem os mandamentos de Deus, ou melhor, se caíssem em transgressão e se envergonhassem de tomar sobre si o nome de Cristo, o Senhor os destroçaria da mesma forma que haviam rasgado as suas vestes.
+
+###### 22 
+Ora, esse foi o convênio que fizeram; e atiraram suas vestes aos pés de Morôni, dizendo: Fazemos convênio com nosso Deus de que seremos destruídos, assim como o foram nossos irmãos da terra do norte, se cairmos em transgressão; sim, ele pode atirar-nos aos pés de nossos inimigos, assim como atiramos nossas vestes a teus pés para serem pisadas, se cairmos em transgressão.
+
+###### 23 
+Morôni disse-lhes: Eis que somos um remanescente da semente de Jacó; sim, somos um remanescente da semente de José, cuja túnica foi rasgada em muitos pedaços por seus irmãos; sim, e agora, eis que devemos lembrar-nos de guardar os mandamentos de Deus; caso contrário, nossas vestes serão rasgadas por nossos irmãos e seremos atirados na prisão ou vendidos ou mortos.
+
+###### 24 
+Sim, preservemos nossa liberdade, como um remanescente de José; sim, lembremo-nos das palavras de Jacó, antes de sua morte, pois eis que ele viu que uma parte do que restou da túnica de José fora preservada e não se havia estragado. E ele disse: Assim como este remanescente das vestes de meu filho foi preservado, também um remanescente da semente de meu filho será preservado pela mão de Deus, que o tomará para si, enquanto o restante da semente de José perecerá, como o restante de sua túnica.
+
+###### 25 
+Ora, eis que isto me enche a alma de dor; não obstante, minha alma alegra-se por meu filho, uma vez que essa parte de sua semente será conduzida a Deus.
+
+###### 26 
+Ora, eis que foi essa a linguagem de Jacó.
+
+###### 27 
+E agora, quem sabe se o remanescente da semente de José, que perecerá como suas vestes, não são esses que divergiram de nós? Sim, e talvez sejamos nós mesmos, se não nos mantivermos firmes na fé em Cristo.
+
+###### 28 
+E então aconteceu que, tendo pronunciado estas palavras, Morôni foi e também enviou seus homens a todas as partes da terra onde havia dissensões; e congregou todos os que desejavam conservar sua liberdade para se oporem a Amaliquias e aos dissidentes, que se chamavam amaliquiaítas.
+
+###### 29 
+E aconteceu que quando Amaliquias viu que o povo de Morôni era mais numeroso que os amaliquiaítas — e viu também que seu povo duvidava da justiça da causa que havia abraçado — portanto, temendo não poder conseguir seu objetivo, partiu para a terra de Néfi com os que o quiseram acompanhar;
+
+###### 30 
+Ora, Morôni julgou não ser conveniente que os lamanitas se fortalecessem mais; assim, pensou em interceptar o povo de Amaliquias ou capturá-lo e trazê-lo de volta e matar Amaliquias; sim, porque sabia que ele iria incitar os lamanitas contra eles e fazer com que os lamanitas batalhassem contra eles; e sabia que Amaliquias faria isso para alcançar seus propósitos.
+
+###### 31 
+Portanto, Morôni julgou oportuno tomar seus exércitos, que se haviam reunido e se armado e que haviam feito o convênio de preservar a paz — E aconteceu que ele tomou seu exército e marchou com suas tendas para o deserto, a fim de interceptar Amaliquias no deserto.
+
+###### 32 
+E aconteceu que ele agiu de acordo com seus desejos e marchou para o deserto e deteve os exércitos de Amaliquias.
+
+###### 33 
+E aconteceu que Amaliquias fugiu com um pequeno número de seus homens; e os restantes foram entregues nas mãos de Morôni e levados de volta para a terra de Zaraenla.
+
+###### 34 
+Ora, Morôni, sendo um homem que fora nomeado pelos juízes supremos e pela voz do povo, tinha, por conseguinte, poder segundo a sua vontade sobre os exércitos nefitas, para estabelecer e exercer autoridade sobre eles.
+
+###### 35 
+E aconteceu que todos os amaliquiaítas que se recusaram a fazer convênio de apoiar a causa da liberdade, a fim de manterem um governo livre, ele condenou à morte; e foram poucos os que renegaram o convênio de liberdade.
+
+###### 36 
+E aconteceu também que ele fez com que o estandarte da liberdade fosse hasteado em todas as torres de toda a terra ocupada pelos nefitas; e assim Morôni plantou o estandarte da liberdade entre os nefitas.
+
+###### 37 
+E eles começaram a ter novamente paz na terra; e assim mantiveram a paz naquela terra até quase o fim do décimo nono ano do governo dos juízes.
+
+###### 38 
+E Helamã e os sumos sacerdotes mantinham também a ordem na igreja; sim, pelo espaço de quatro anos tiveram muita paz e regozijo na igreja.
+
+###### 39 
+E aconteceu que muitos morreram, crendo firmemente que sua alma estava redimida pelo Senhor Jesus Cristo; assim, saíram do mundo regozijando-se.
+
+###### 40 
+E houve alguns que morreram de febres que, em certas épocas do ano, eram muito frequentes na terra — muitos, porém, não morreram de febres por causa das excelentes qualidades das muitas plantas e raízes que Deus havia preparado para remover as causas das enfermidades a que estavam sujeitos devido à natureza do clima —
+
+###### 41 
+Muitos houve que morreram de velhice; e os que morreram com a fé em Cristo são felizes com ele, como necessariamente devemos crer.
+

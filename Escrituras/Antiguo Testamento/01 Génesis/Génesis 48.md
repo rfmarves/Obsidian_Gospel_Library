@@ -1,0 +1,85 @@
+---
+title: Génesis 48
+tags: #Escrituras\AntiguoT
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# Génesis 48
+[[Génesis 47| <-- Génesis 47]] | [[Génesis]] | [[Génesis 49|Génesis 49 --> ]]
+
+[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/48?lang=spa)
+
+---
+__Resumen__
+Jacob narra la aparición de Dios a él en Luz — Adopta a Efraín y a Manasés como sus propios hijos — Jacob bendice a José — Pone a Efraín antes que a Manasés — La descendencia de Efraín formará multitud de naciones — Los hijos de Israel volverán a la tierra de sus padres.
+
+---
+###### 1 
+Y sucedió después de estas cosas que se le dijo a José: He aquí tu padre está enfermo. Y él tomó consigo a sus dos hijos, Manasés y Efraín.
+
+###### 2 
+Y se le hizo saber a Jacob, diciendo: He aquí tu hijo José viene a ti. Entonces se esforzó Israel, y se sentó sobre la cama
+
+###### 3 
+y dijo a José: El Dios Omnipotente se me apareció en Luz, en la tierra de Canaán, y me bendijo
+
+###### 4 
+y me dijo: He aquí, yo te haré crecer, y te multiplicaré y te pondré por estirpe de pueblos; y daré esta tierra a tu descendencia después de ti por heredad perpetua.
+
+###### 5 
+Y ahora tus dos hijos, Efraín y Manasés, que te nacieron en la tierra de Egipto, antes que viniese a ti a la tierra de Egipto, míos son; como Rubén y Simeón, serán míos.
+
+###### 6 
+Y los que después de ellos has engendrado serán tuyos; por el nombre de sus hermanos serán llamados en sus heredades.
+
+###### 7 
+Porque cuando yo venía de Padán-aram, se me murió Raquel en la tierra de Canaán, en el camino, como a media legua de tierra viniendo a Efrata; y la sepulté allí en el camino de Efrata, que es Belén.
+
+###### 8 
+Y vio Israel a los hijos de José y dijo: ¿Quiénes son estos?
+
+###### 9 
+Y respondió José a su padre: Son mis hijos, que Dios me ha dado aquí. Y él dijo: Acércalos ahora a mí, y los bendeciré.
+
+###### 10 
+Y los ojos de Israel estaban tan agravados por la vejez que no podía ver. Los hizo, pues, acercarse a él, y él los besó y los abrazó.
+
+###### 11 
+Y dijo Israel a José: No pensaba yo ver tu rostro, y he aquí Dios me ha hecho ver también a tu descendencia.
+
+###### 12 
+Entonces José los sacó de entre sus rodillas y se inclinó a tierra.
+
+###### 13 
+Y los tomó José a ambos, Efraín a su derecha, a la izquierda de Israel, y a Manasés a su izquierda, a la derecha de Israel; y los hizo acercarse a él.
+
+###### 14 
+Entonces Israel extendió su mano derecha y la puso sobre la cabeza de Efraín, que era el menor, y su mano izquierda sobre la cabeza de Manasés, colocando  sus manos adrede, aunque Manasés era el primogénito.
+
+###### 15 
+Y bendijo a José y dijo: El Dios en cuya presencia anduvieron mis padres Abraham e Isaac, el Dios que me mantiene desde que yo soy hasta este día,
+
+###### 16 
+el Ángel que me redime de todo mal, bendiga a estos jóvenes; y mi nombre sea llamado en ellos y el nombre de mis padres Abraham e Isaac; y multiplíquense en gran manera en medio de la tierra.
+
+###### 17 
+Al ver José que su padre ponía la mano derecha sobre la cabeza de Efraín, le causó esto disgusto; y asió la mano de su padre para cambiarla de sobre la cabeza de Efraín a la cabeza de Manasés.
+
+###### 18 
+Y dijo José a su padre: No así, padre mío, porque este es el primogénito; pon tu mano derecha sobre su cabeza.
+
+###### 19 
+Mas su padre no quiso y dijo: Lo sé, hijo mío, lo sé; también él vendrá a ser un pueblo y será también engrandecido; pero su hermano menor será más grande que él, y su descendencia será multitud de naciones.
+
+###### 20 
+Y los bendijo aquel día, diciendo: En ti bendecirá Israel, diciendo: Hágate Dios como a Efraín y como a Manasés. Y puso a Efraín antes que a Manasés.
+
+###### 21 
+Y dijo Israel a José: He aquí, yo muero, mas Dios estará con vosotros y os hará volver a la tierra de vuestros padres.
+
+###### 22 
+Y yo te he dado a ti una parte más que a tus hermanos, la cual tomé yo de manos del amorreo con mi espada y con mi arco.
+

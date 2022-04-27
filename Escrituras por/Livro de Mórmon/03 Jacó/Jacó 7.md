@@ -1,0 +1,100 @@
+---
+title: Jacó 7
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# Jacó 7
+[[Jacó 6| <-- Jacó 6]] | [[Jacó]] | [[Enos 1|Enos 1 --> ]]
+
+[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/7?lang=por)
+
+---
+__Resumo__
+Serém nega a Cristo, contende com Jacó, exige um sinal e é ferido por Deus — Todos os profetas falaram sobre Cristo e Sua Expiação — Os nefitas viveram seus dias como errantes, nascidos em meio a tribulações e odiados pelos lamanitas. Aproximadamente 544–421 a.C.
+
+---
+###### 1 
+E então aconteceu que, passados alguns anos, apareceu entre o povo de Néfi um homem cujo nome era Serém.
+
+###### 2 
+E aconteceu que ele começou a pregar ao povo e a declarar-lhes que não haveria Cristo algum. E pregou muitas coisas que eram lisonjeiras para o povo; e isto fez a fim de destruir a doutrina de Cristo.
+
+###### 3 
+E trabalhou diligentemente para desviar o coração do povo, tanto que conseguiu desviar muitos corações; e sabendo que eu, Jacó, tinha fé no Cristo que haveria de vir, procurou muito uma oportunidade para encontrar-se comigo.
+
+###### 4 
+E ele era instruído, de modo que tinha perfeito conhecimento da língua do povo; podia, portanto, usar de muita lisonja e muita eloquência, de acordo com o poder do diabo.
+
+###### 5 
+E tinha esperança de afastar-me da fé, não obstante as muitas revelações e o muito que eu vira com referência a estas coisas; porque eu verdadeiramente vira anjos e recebera o seu ministério. E também ouvira a voz do Senhor, verdadeiramente me falando de tempos em tempos; portanto, eu não podia ser abalado.
+
+###### 6 
+E aconteceu que ele veio a mim e desta maneira falou-me, dizendo: Irmão Jacó, procurei muito esta oportunidade de falar-te, porque ouvi e também sei que tens andado muito, pregando o que chamas de evangelho, ou seja, a doutrina de Cristo.
+
+###### 7 
+E tu tens desviado muitos deste povo, de maneira que pervertem o caminho correto de Deus e não guardam a lei de Moisés, que é o caminho correto; e convertes a lei de Moisés na adoração de um ser que dizes que virá daqui a muitos séculos. E agora eis que eu, Serém, declaro-te que isso é blasfêmia; pois nenhum homem sabe de tais coisas, porque não pode falar de coisas futuras. E desta maneira Serém contendia comigo.
+
+###### 8 
+Mas eis que o Senhor Deus me derramou na alma o seu Espírito, de maneira que eu o confundi em todas as suas palavras.
+
+###### 9 
+E disse-lhe: Negas o Cristo que virá? E ele disse: Se houvesse um Cristo, eu não o negaria; sei, porém, que não existe Cristo algum, nem existiu, nem existirá.
+
+###### 10 
+E disse-lhe eu: Crês nas escrituras? E ele disse: Sim.
+
+###### 11 
+E eu disse: Então não as entendes, porque elas verdadeiramente testificam de Cristo. Eis que te digo que nenhum dos profetas escreveu nem profetizou sem ter falado sobre esse Cristo.
+
+###### 12 
+E isto não é tudo — foi-me manifestado, porque eu vi e ouvi; e foi-me também manifestado pelo poder do Espírito Santo; sei, portanto, que, se não houver expiação, toda a humanidade certamente se perderá.
+
+###### 13 
+E aconteceu que ele me disse: Mostra-me um sinal, por esse poder do Espírito Santo mediante o qual sabes tanto.
+
+###### 14 
+E eu disse-lhe: Quem sou eu para tentar a Deus, a fim de mostrar-te um sinal do que tu sabes ser verdade? Não obstante, tu negá-lo-ás, porque és do diabo. Contudo, não seja feita a minha vontade; mas se Deus te ferir, que seja esse um sinal para ti de que ele tem poder tanto nos céus como na Terra; e também de que Cristo virá. E seja feita a tua vontade, ó Senhor, e não a minha.
+
+###### 15 
+E aconteceu que quando eu, Jacó, disse estas palavras, o poder do Senhor desceu sobre ele, de modo que ele caiu por terra. E aconteceu que foi alimentado pelo espaço de muitos dias.
+
+###### 16 
+E aconteceu que ele disse ao povo: Reuni-vos amanhã, porque vou morrer; portanto, desejo falar ao povo antes de morrer.
+
+###### 17 
+E aconteceu que no dia seguinte a multidão se reuniu; e ele falou-lhes claramente, negou as coisas que havia ensinado e confessou o Cristo e o poder do Espírito Santo e o ministério de anjos.
+
+###### 18 
+E disse-lhes claramente que havia sido enganado pelo poder do diabo. E falou do inferno e da eternidade e do castigo eterno.
+
+###### 19 
+E disse: Temo haver cometido o pecado imperdoável, porque menti a Deus; pois neguei o Cristo e disse que acreditava nas escrituras; e elas verdadeiramente testificam dele. E por haver assim mentido a Deus, tenho muito medo de que a minha situação seja terrível; mas a Deus confesso-me.
+
+###### 20 
+E aconteceu que após ter dito estas palavras, nada mais pôde dizer e entregou o espírito.
+
+###### 21 
+E a multidão, tendo testemunhado que ele dissera estas coisas quando estava prestes a entregar o espírito, ficou muito assombrada; tanto que o poder de Deus desceu sobre eles e foram dominados, de modo que caíram por terra.
+
+###### 22 
+Ora, isso agradou a mim, Jacó, pois havia-o pedido a meu Pai, que estava no céu; ele ouvira, pois, o meu clamor e respondera a minha oração.
+
+###### 23 
+E aconteceu que a paz e o amor de Deus foram mais uma vez restaurados entre o povo; e eles examinaram as escrituras e não mais deram ouvidos às palavras desse homem iníquo.
+
+###### 24 
+E aconteceu que muitos meios foram imaginados para regenerar os lamanitas e reconduzi-los ao conhecimento da verdade; mas tudo foi em vão, pois eles deleitavam-se em guerras e derramamento de sangue e tinham um ódio eterno contra nós, seus irmãos. E procuravam continuamente destruir-nos com o poder de suas armas.
+
+###### 25 
+Portanto, o povo de Néfi se fortaleceu contra eles, com suas armas e com todo o seu poder, confiando no Deus e rocha de sua salvação; portanto, se tornaram, até aquele momento, vencedores de seus inimigos.
+
+###### 26 
+E aconteceu que eu, Jacó, comecei a envelhecer; e como o registro deste povo está sendo escrito nas outras placas de Néfi, termino, portanto, este registro, declarando que escrevi segundo o melhor do meu conhecimento, dizendo que o tempo passou para nós e nossa vida também passou como se fosse um sonho, sendo nós um povo solitário e solene, errante, expulso de Jerusalém, nascido em meio a tribulações num deserto e odiado por nossos irmãos, o que causou guerras e contendas; assim, lamentamo-nos até o fim de nossos dias.
+
+###### 27 
+E eu, Jacó, vi que logo deveria baixar à sepultura; portanto, disse ao meu filho Enos: Toma estas placas. E transmiti-lhe as coisas que meu irmão Néfi me ordenara; e Enos prometeu obediência às ordens. E termino meu registro nestas placas, tendo escrito pouco; e despeço-me do leitor, esperando que muitos de meus irmãos possam ler as minhas palavras. Irmãos, adeus.
+

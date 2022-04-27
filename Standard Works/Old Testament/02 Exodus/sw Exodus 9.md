@@ -1,0 +1,124 @@
+---
+title: sw Exodus 9
+tags: #Scriptures\OldT
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# sw Exodus 9
+[[sw Exodus 8| <-- sw Exodus 8]] | [[Exodus]] | [[sw Exodus 10|sw Exodus 10 --> ]]
+
+[Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/9?lang=eng)
+
+---
+__Summary__
+The Lord destroys the cattle of the Egyptians, but not of the Israelites—Boils and blains are sent upon the Egyptians—The Lord sends hail and fire upon the people of Pharaoh, but not upon the people of Israel.
+
+---
+###### 1 
+Then the  said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the  God of the Hebrews, Let my people go, that they may serve me.
+
+###### 2 
+For if thou refuse to let  go, and wilt hold them still,
+
+###### 3 
+Behold, the hand of the  is upon thy cattle which  in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep:  a very grievous murrain.
+
+###### 4 
+And the  shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all  the children’s of Israel.
+
+###### 5 
+And the  appointed a set time, saying, To morrow the  shall do this thing in the land.
+
+###### 6 
+And the  did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one.
+
+###### 7 
+And Pharaoh sent, and, behold, there was not one of the cattle of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people go.
+
+###### 8 
+And the  said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh.
+
+###### 9 
+And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth  blains upon man, and upon beast, throughout all the land of Egypt.
+
+###### 10 
+And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth  blains upon man, and upon beast.
+
+###### 11 
+And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians.
+
+###### 12 
+And the  hardened the heart of Pharaoh, and he hearkened not unto them; as the  had spoken unto Moses.
+
+###### 13 
+And the  said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith the  God of the Hebrews, Let my people go, that they may serve me.
+
+###### 14 
+For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that  none like me in all the earth.
+
+###### 15 
+For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth.
+
+###### 16 
+And in very deed for this  have I raised thee up, for to shew  thee my power; and that my name may be declared throughout all the earth.
+
+###### 17 
+As yet exaltest thou thyself against my people, that thou wilt not let them go?
+
+###### 18 
+Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now.
+
+###### 19 
+Send therefore now,  gather thy cattle, and all that thou hast in the field;  every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.
+
+###### 20 
+He that feared the word of the  among the servants of Pharaoh made his servants and his cattle flee into the houses:
+
+###### 21 
+And he that regarded not the word of the  left his servants and his cattle in the field.
+
+###### 22 
+And the  said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt.
+
+###### 23 
+And Moses stretched forth his rod toward heaven: and the  sent thunder and hail, and the fire ran along upon the ground; and the  rained hail upon the land of Egypt.
+
+###### 24 
+So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation.
+
+###### 25 
+And the hail smote throughout all the land of Egypt all that  in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field.
+
+###### 26 
+Only in the land of Goshen, where the children of Israel  was there no hail.
+
+###### 27 
+And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the   righteous, and I and my people  wicked.
+
+###### 28 
+Entreat the  (for  enough) that there be no  mighty thunderings and hail; and I will let you go, and ye shall stay no longer.
+
+###### 29 
+And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the ;  the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth  the ’s.
+
+###### 30 
+But as for thee and thy servants, I know that ye will not yet fear the  God.
+
+###### 31 
+And the flax and the barley was smitten: for the barley  in the ear, and the flax  bolled.
+
+###### 32 
+But the wheat and the rie were not smitten: for they  not grown up.
+
+###### 33 
+And Moses went out of the city from Pharaoh, and spread abroad his hands unto the : and the thunders and hail ceased, and the rain was not poured upon the earth.
+
+###### 34 
+And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants.
+
+###### 35 
+And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the  had spoken by Moses.
+

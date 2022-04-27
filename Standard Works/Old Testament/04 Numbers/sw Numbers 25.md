@@ -1,0 +1,73 @@
+---
+title: sw Numbers 25
+tags: #Scriptures\OldT
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# sw Numbers 25
+[[sw Numbers 24| <-- sw Numbers 24]] | [[Numbers]] | [[sw Numbers 26|sw Numbers 26 --> ]]
+
+[Online](https://churchofjesuschrist.org/study/scriptures/ot/num/25?lang=eng)
+
+---
+__Summary__
+The Israelites who worship false gods are slain—Phinehas slays the adulterers and stays the plague—Israel is commanded to vex the Midianites who beguiled them.
+
+---
+###### 1 
+And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.
+
+###### 2 
+And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods.
+
+###### 3 
+And Israel joined himself unto Baal-peor: and the anger of the  was kindled against Israel.
+
+###### 4 
+And the  said unto Moses, Take all the heads of the people, and hang them up before the  against the sun, that the fierce anger of the  may be turned away from Israel.
+
+###### 5 
+And Moses said unto the judges of Israel, Slay ye every one his men that were joined unto Baal-peor.
+
+###### 6 
+And, behold, one of the children of Israel came and brought unto his brethren a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who  weeping  the door of the tabernacle of the congregation.
+
+###### 7 
+And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw  he rose up from among the congregation, and took a javelin in his hand;
+
+###### 8 
+And he went after the man of Israel into the tent, and thrust both of them through, the man of Israel, and the woman through her belly. So the plague was stayed from the children of Israel.
+
+###### 9 
+And those that died in the plague were twenty and four thousand.
+
+###### 10 
+And the  spake unto Moses, saying,
+
+###### 11 
+Phinehas, the son of Eleazar, the son of Aaron the priest, hath turned my wrath away from the children of Israel, while he was zealous for my sake among them, that I consumed not the children of Israel in my jealousy.
+
+###### 12 
+Wherefore say, Behold, I give unto him my covenant of peace:
+
+###### 13 
+And he shall have it, and his seed after him,  the covenant of an everlasting priesthood; because he was zealous for his God, and made an atonement for the children of Israel.
+
+###### 14 
+Now the name of the Israelite that was slain,  that was slain with the Midianitish woman,  Zimri, the son of Salu, a prince of a chief house among the Simeonites.
+
+###### 15 
+And the name of the Midianitish woman that was slain  Cozbi, the daughter of Zur; he  head over a people,  of a chief house in Midian.
+
+###### 16 
+And the  spake unto Moses, saying,
+
+###### 17 
+Vex the Midianites, and smite them:
+
+###### 18 
+For they vex you with their wiles, wherewith they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor’s sake.
+

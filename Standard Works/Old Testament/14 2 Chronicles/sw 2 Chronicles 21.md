@@ -1,0 +1,79 @@
+---
+title: sw 2 Chronicles 21
+tags: #Scriptures\OldT
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# sw 2 Chronicles 21
+[[sw 2 Chronicles 20| <-- sw 2 Chronicles 20]] | [[2 Chronicles]] | [[sw 2 Chronicles 22|sw 2 Chronicles 22 --> ]]
+
+[Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/21?lang=eng)
+
+---
+__Summary__
+Jehoram slays his brothers, marries Ahab’s daughter, and reigns in wickedness—Elijah prophesies a plague upon the people and the death of Jehoram—The Philistines and others war against Judah—Jehoram dies of sore diseases.
+
+---
+###### 1 
+Now Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David. And Jehoram his son reigned in his stead.
+
+###### 2 
+And he had brethren the sons of Jehoshaphat, Azariah, and Jehiel, and Zechariah, and Azariah, and Michael, and Shephatiah: all these  the sons of Jehoshaphat king of Israel.
+
+###### 3 
+And their father gave them great gifts of silver, and of gold, and of precious things, with fenced cities in Judah: but the kingdom gave he to Jehoram; because he  the firstborn.
+
+###### 4 
+Now when Jehoram was risen up to the kingdom of his father, he strengthened himself, and slew all his brethren with the sword, and  also of the princes of Israel.
+
+###### 5 
+Jehoram  thirty and two years old when he began to reign, and he reigned eight years in Jerusalem.
+
+###### 6 
+And he walked in the way of the kings of Israel, like as did the house of Ahab: for he had the daughter of Ahab to wife: and he wrought  evil in the eyes of the .
+
+###### 7 
+Howbeit the  would not destroy the house of David, because of the covenant that he had made with David, and as he promised to give a light to him and to his sons for ever.
+
+###### 8 
+In his days the Edomites revolted from under the dominion of Judah, and made themselves a king.
+
+###### 9 
+Then Jehoram went forth with his princes, and all his chariots with him: and he rose up by night, and smote the Edomites which compassed him in, and the captains of the chariots.
+
+###### 10 
+So the Edomites revolted from under the hand of Judah unto this day. The same time  did Libnah revolt from under his hand; because he had forsaken the  God of his fathers.
+
+###### 11 
+Moreover he made high places in the mountains of Judah, and caused the inhabitants of Jerusalem to commit fornication, and compelled Judah 
+
+###### 12 
+And there came a writing to him from Elijah the prophet, saying, Thus saith the  God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah,
+
+###### 13 
+But hast walked in the way of the kings of Israel, and hast made Judah and the inhabitants of Jerusalem to go a whoring, like to the whoredoms of the house of Ahab, and also hast slain thy brethren of thy father’s house,  better than thyself:
+
+###### 14 
+Behold, with a great plague will the  smite thy people, and thy children, and thy wives, and all thy goods:
+
+###### 15 
+And thou  great sickness by disease of thy bowels, until thy bowels fall out by reason of the sickness day by day.
+
+###### 16 
+Moreover the  stirred up against Jehoram the spirit of the Philistines, and of the Arabians, that  near the Ethiopians:
+
+###### 17 
+And they came up into Judah, and brake into it, and carried away all the substance that was found in the king’s house, and his sons also, and his wives; so that there was never a son left him, save Jehoahaz, the youngest of his sons.
+
+###### 18 
+And after all this the  smote him in his bowels with an incurable disease.
+
+###### 19 
+And it came to pass, that in process of time, after the end of two years, his bowels fell out by reason of his sickness: so he died of sore diseases. And his people made no burning for him, like the burning of his fathers.
+
+###### 20 
+Thirty and two years old was he when he began to reign, and he reigned in Jerusalem eight years, and departed without being desired. Howbeit they buried him in the city of David, but not in the sepulchres of the kings.
+

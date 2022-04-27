@@ -1,0 +1,115 @@
+---
+title: 2 Nefi 24
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# 2 Nefi 24
+[[2 Nefi 23| <-- 2 Nefi 23]] | [[2 Nefi]] | [[2 Nefi 25|2 Nefi 25 --> ]]
+
+[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/24?lang=spa)
+
+---
+__Resumen__
+Israel será recogido y disfrutará de reposo milenario — Lucifer fue echado del cielo por su rebelión — Israel triunfará sobre Babilonia (el mundo) — Compárese con Isaías 14. Aproximadamente 559–545 a.C.
+
+---
+###### 1 
+Porque el Señor tendrá piedad de Jacob, y todavía escogerá a Israel, y lo establecerá en su propia tierra; y extranjeros se juntarán con ellos y se unirán a la casa de Jacob.
+
+###### 2 
+Y los pueblos los tomarán y los llevarán a su lugar; sí, desde lejos hasta los extremos de la tierra; y retornarán a sus tierras de promisión. Y la casa de Israel los poseerá, y la tierra del Señor será para siervos y siervas; y cautivarán a aquellos de quienes fueron cautivos; y regirán a sus opresores.
+
+###### 3 
+Y sucederá en aquel día, que el Señor te hará descansar de tu angustia y de tu temor, y del duro cautiverio en el que te viste obligado a servir.
+
+###### 4 
+Y acontecerá en aquel día, que tomarás este proverbio contra el rey de Babilonia, y dirás: ¡Cómo ha cesado el opresor, cómo ha fenecido la ciudad de oro!
+
+###### 5 
+El Señor ha quebrantado la vara de los impíos, el cetro de los gobernantes.
+
+###### 6 
+El que hería al pueblo en ira con golpe continuo, aquel que gobernaba a las naciones con saña, es perseguido, y nadie lo impide.
+
+###### 7 
+Toda la tierra descansa y está en paz; los hombres prorrumpen en cantos.
+
+###### 8 
+Sí, los abetos se regocijan por causa de ti, y también los cedros del Líbano, diciendo: Desde que tú caíste, no ha subido cortador contra nosotros.
+
+###### 9 
+El infierno abajo se conmueve para recibirte a tu llegada; te ha despertado a los muertos, sí, a todos los príncipes de la tierra; a todos los reyes de las naciones ha levantado de sus tronos.
+
+###### 10 
+Todos estos darán voces y te dirán: ¿También tú te debilitaste como nosotros? ¿Como nosotros has llegado a ser?
+
+###### 11 
+Tu pompa descendió al sepulcro; ya no se oye sonido de tus liras; gusanos son tu lecho, y gusanos te cubren.
+
+###### 12 
+¡Cómo caíste del cielo, oh Lucifer, hijo de la mañana! ¡Has sido cortado hasta el suelo, tú que debilitabas a las naciones!
+
+###### 13 
+Porque dijiste en tu corazón: Ascenderé hasta el cielo; por encima de las estrellas de Dios levantaré mi trono, y me sentaré también sobre el monte de la congregación, hacia los lados del norte;
+
+###### 14 
+ascenderé por encima de las alturas de las nubes; seré semejante al Altísimo.
+
+###### 15 
+Mas tú precipitado serás hasta el infierno, a los lados del abismo.
+
+###### 16 
+Te mirarán de cerca los que te vieren, y te contemplarán y dirán: ¿Es este el hombre que hizo temblar la tierra, que sacudió los reinos;
+
+###### 17 
+que hizo del mundo un desierto, y destruyó sus ciudades, y nunca abrió la cárcel a sus presos?
+
+###### 18 
+Todos los reyes de las naciones, sí, todos yacen en gloria, cada uno en su propia casa;
+
+###### 19 
+mas tú echado eres de tu sepulcro como rama abominable, como residuo de aquellos que fueron muertos, atravesados por la espada, que descienden a las piedras del abismo; como cadáver hollado bajo los pies.
+
+###### 20 
+No serás sepultado junto con ellos, porque has desolado tu tierra y has hecho perecer a tu pueblo; la posteridad de los malhechores para siempre no será reconocida.
+
+###### 21 
+Preparad matanza para sus hijos por las iniquidades de sus padres; para que no se levanten, ni posean la tierra, ni llenen de ciudades la faz del mundo.
+
+###### 22 
+Porque yo me levantaré contra ellos, dice el Señor de los Ejércitos; y raeré de Babilonia el nombre y residuo, hijo y sobrino, dice el Señor.
+
+###### 23 
+Y la convertiré en morada de avetoros y en lagunas de agua; y la barreré con escoba de destrucción, dice el Señor de los Ejércitos.
+
+###### 24 
+El Señor de los Ejércitos ha jurado, diciendo: Ciertamente como lo he pensado, así sucederá; y como lo he propuesto, así será confirmado;
+
+###### 25 
+que al asirio traeré a mi tierra, y en mis collados lo hollaré; entonces será apartado de ellos el yugo de él, y la carga de él será quitada de sus hombros.
+
+###### 26 
+Este es el propósito que se ha determinado sobre toda la tierra; y esta, la mano que se extiende sobre todas las naciones.
+
+###### 27 
+Porque el Señor de los Ejércitos ha propuesto y, ¿quién lo abrogará? Su mano está extendida y, ¿quién la hará tornar atrás?
+
+###### 28 
+El año en que murió el rey Acaz fue esta carga.
+
+###### 29 
+No te regocijes tú, Filistea toda, por haberse quebrado la vara del que te hería; porque de la raíz de la culebra saldrá el áspid, y su fruto será una ardiente serpiente voladora.
+
+###### 30 
+Y los primogénitos de los pobres comerán, y los menesterosos reposarán seguros; y haré morir de hambre a tu raíz, y él matará a tu residuo.
+
+###### 31 
+¡Aúlla, oh puerta! ¡Clama, oh ciudad! Tú, Filistea entera, disuelta estás; porque del norte vendrá un humo, y ninguno quedará solo en su tiempo determinado.
+
+###### 32 
+¿Qué responderán entonces los mensajeros de las naciones? Que el Señor fundó a Sion, y que los pobres de su pueblo se acogerán a ella.
+

@@ -1,0 +1,97 @@
+---
+title: Helamã 4
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# Helamã 4
+[[Helamã 3| <-- Helamã 3]] | [[Helamã]] | [[Helamã 5|Helamã 5 --> ]]
+
+[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/4?lang=por)
+
+---
+__Resumo__
+Dissidentes nefitas e os lamanitas unem forças e tomam a terra de Zaraenla — As derrotas dos nefitas ocorrem por causa de sua iniquidade — A Igreja decai e o povo torna-se fraco, da mesma forma que os lamanitas. Aproximadamente 38–30 a.C.
+
+---
+###### 1 
+E aconteceu que no quinquagésimo quarto ano houve muitas dissensões na igreja e houve também uma contenda entre o povo, de modo que muito sangue foi derramado.
+
+###### 2 
+E os rebeldes foram mortos e expulsos da terra e uniram-se ao rei dos lamanitas.
+
+###### 3 
+E aconteceu que fizeram o possível para incitar os lamanitas a lutarem contra os nefitas; mas eis que os lamanitas estavam de tal forma amedrontados que não deram ouvidos às palavras desses dissidentes.
+
+###### 4 
+Mas aconteceu que no quinquagésimo sexto ano do governo dos juízes houve dissidentes que se passaram dos nefitas para os lamanitas; e conseguiram, com os outros, incitá-los à ira contra os nefitas; e passaram todo aquele ano preparando-se para a guerra.
+
+###### 5 
+E no quinquagésimo sétimo ano desceram para atacar os nefitas, principiando assim a obra de morte; sim, de tal forma que no quinquagésimo oitavo ano do governo dos juízes conseguiram apoderar-se da terra de Zaraenla; sim, e também de todas as terras, até a terra que ficava próxima à terra de Abundância.
+
+###### 6 
+E os nefitas e os exércitos de Moronia foram rechaçados para a terra de Abundância.
+
+###### 7 
+E ali se fortificaram contra os lamanitas, desde o mar do oeste até o leste; e essa linha que haviam fortificado e guarnecido de tropas para a defesa da região norte tinha a extensão de um dia de viagem para um nefita.
+
+###### 8 
+E assim, aqueles dissidentes dos nefitas, com o auxílio de um numeroso exército de lamanitas, apoderaram-se de todos os territórios dos nefitas que ficavam na terra do sul. E tudo isso ocorreu no quinquagésimo oitavo e no quinquagésimo nono ano do governo dos juízes.
+
+###### 9 
+E aconteceu, no sexagésimo ano do governo dos juízes, que Moronia conseguiu ocupar, com seus exércitos, muitas partes da terra; sim, eles reconquistaram muitas cidades que haviam caído nas mãos dos lamanitas.
+
+###### 10 
+E aconteceu que no sexagésimo primeiro ano do governo dos juízes conseguiram reconquistar a metade de todas as suas terras.
+
+###### 11 
+Ora, essa grande perda dos nefitas e a terrível carnificina havida entre eles não teriam acontecido se não fosse pelas iniquidades e abominações existentes em seu meio; sim, mesmo entre os que professavam pertencer à igreja de Deus.
+
+###### 12 
+E foi pelo orgulho de seu coração, por causa de suas imensas riquezas, sim, em virtude de oprimirem os pobres, negando alimento aos que tinham fome e roupa aos que estavam nus, esbofeteando seus humildes irmãos, zombando de tudo quanto era sagrado, negando o espírito de profecia e de revelação, assassinando, roubando, mentindo, furtando, cometendo adultério, levantando-se em grandes contendas e desertando para a terra de Néfi, entre os lamanitas —
+
+###### 13 
+E por causa dessa sua grande iniquidade e vanglória pela própria força, foram abandonados a sua própria força; portanto, não prosperaram, mas foram afligidos e perseguidos e expulsos pelos lamanitas até perderem quase todas as suas terras.
+
+###### 14 
+Mas eis que Moronia pregou muitas coisas ao povo, por causa da iniquidade deles; e também Néfi e Leí, que eram os filhos de Helamã, pregaram muitas coisas ao povo, sim, e muitas coisas profetizaram-lhes, relativas às iniquidades deles, e ao que lhes adviria se não se arrependessem de seus pecados.
+
+###### 15 
+E aconteceu que se arrependeram e, à medida que se arrependeram, começaram a prosperar.
+
+###### 16 
+Pois Moronia, ao ver que eles se haviam arrependido, aventurou-se a conduzi-los de lugar em lugar e de cidade em cidade até reconquistarem a metade de suas propriedades e a metade de suas terras.
+
+###### 17 
+E assim terminou o sexagésimo primeiro ano do governo dos juízes.
+
+###### 18 
+E aconteceu que no sexagésimo segundo ano do governo dos juízes, Moronia já não conseguiu tomar territórios dos lamanitas.
+
+###### 19 
+Por essa razão desistiram do propósito de reconquistar o restante de suas terras, porque tão numerosos eram os lamanitas que se tornou impossível aos nefitas sobrepujá-los; portanto, Moronia empregou todos os seus exércitos para conservar as partes que haviam retomado.
+
+###### 20 
+E aconteceu que, devido ao grande número de lamanitas, os nefitas ficaram com muito medo de serem dominados e pisados e mortos e destruídos.
+
+###### 21 
+Sim, começaram a lembrar-se das profecias de Alma, bem como das palavras de Mosias; e viram que tinham sido um povo obstinado e que haviam rejeitado os mandamentos de Deus.
+
+###### 22 
+E que haviam alterado e menosprezado as leis de Mosias, ou seja, as que o Senhor o encarregara de dar ao povo; e viram que as suas leis se haviam corrompido e que o povo se tornara iníquo, à semelhança dos lamanitas.
+
+###### 23 
+E em virtude de sua iniquidade, a igreja começou a decair; e eles começaram a perder a crença no espírito de profecia e no espírito de revelação; e defrontaram-se com os julgamentos de Deus.
+
+###### 24 
+E viram que se haviam tornado fracos como seus irmãos, os lamanitas, e que o Espírito do Senhor não mais os preservava; sim, havia-se afastado deles, porque o Espírito do Senhor não habita em templos impuros —
+
+###### 25 
+Portanto, o Senhor deixou de protegê-los com seu miraculoso e incomparável poder, porque haviam caído em um estado de descrença e terrível iniquidade; e viram que os lamanitas eram muito mais numerosos do que eles e que, a não ser que se apegassem ao Senhor seu Deus, inevitavelmente pereceriam.
+
+###### 26 
+Pois eis que viram ser a força dos lamanitas tão grande quanto a sua, homem por homem. E assim haviam caído nessa grande transgressão; sim, dessa maneira em poucos anos haviam-se tornado fracos por causa de suas transgressões.
+

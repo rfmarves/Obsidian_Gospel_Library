@@ -1,0 +1,142 @@
+---
+title: sw Numbers 22
+tags: #Scriptures\OldT
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# sw Numbers 22
+[[sw Numbers 21| <-- sw Numbers 21]] | [[Numbers]] | [[sw Numbers 23|sw Numbers 23 --> ]]
+
+[Online](https://churchofjesuschrist.org/study/scriptures/ot/num/22?lang=eng)
+
+---
+__Summary__
+Balak offers money, cattle, and great honors to Balaam to curse Israel—The Lord forbids Balaam to do so—An angel opposes Balaam on the way.
+
+---
+###### 1 
+And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan  Jericho.
+
+###### 2 
+And Balak the son of Zippor saw all that Israel had done to the Amorites.
+
+###### 3 
+And Moab was sore afraid of the people, because they  many: and Moab was distressed because of the children of Israel.
+
+###### 4 
+And Moab said unto the elders of Midian, Now shall this company lick up all  round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor  king of the Moabites at that time.
+
+###### 5 
+He sent messengers therefore unto Balaam the son of Beor to Pethor, which  by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:
+
+###### 6 
+Come now therefore, I pray thee, curse me this people; for they  too mighty for me: peradventure I shall prevail,  we may smite them, and  I may drive them out of the land: for I wot that he whom thou blessest  blessed, and he whom thou cursest is cursed.
+
+###### 7 
+And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak.
+
+###### 8 
+And he said unto them, Lodge here this night, and I will bring you word again, as the  shall speak unto me: and the princes of Moab abode with Balaam.
+
+###### 9 
+And God came unto Balaam, and said, What men  these with thee?
+
+###### 10 
+And Balaam said unto God, Balak the son of Zippor, king of Moab, hath sent unto me, 
+
+###### 11 
+Behold,  a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out.
+
+###### 12 
+And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people: for they  blessed.
+
+###### 13 
+And Balaam rose up in the morning, and said unto the princes of Balak, Get you into your land: for the  refuseth to give me leave to go with you.
+
+###### 14 
+And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us.
+
+###### 15 
+And Balak sent yet again princes, more, and more honourable than they.
+
+###### 16 
+And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:
+
+###### 17 
+For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people.
+
+###### 18 
+And Balaam answered and said unto the servants of Balak, If Balak would give me his house full of silver and gold, I cannot go beyond the word of the  my God, to do less or more.
+
+###### 19 
+Now therefore, I pray you, tarry ye also here this night, that I may know what the  will say unto me more.
+
+###### 20 
+And God came unto Balaam at night, and said unto him, If the men come to call thee, rise up,  go with them; but yet the word which I shall say unto thee, that shalt thou do.
+
+###### 21 
+And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab.
+
+###### 22 
+And God’s anger was kindled because he went: and the angel of the  stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants  with him.
+
+###### 23 
+And the ass saw the angel of the  standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way.
+
+###### 24 
+But the angel of the  stood in a path of the vineyards, a wall  on this side, and a wall on that side.
+
+###### 25 
+And when the ass saw the angel of the , she thrust herself unto the wall, and crushed Balaam’s foot against the wall: and he smote her again.
+
+###### 26 
+And the angel of the  went further, and stood in a narrow place, where  no way to turn either to the right hand or to the left.
+
+###### 27 
+And when the ass saw the angel of the , she fell down under Balaam: and Balaam’s anger was kindled, and he smote the ass with a staff.
+
+###### 28 
+And the  opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?
+
+###### 29 
+And Balaam said unto the ass, Because thou hast mocked me: I would there were a sword in mine hand, for now would I kill thee.
+
+###### 30 
+And the ass said unto Balaam,  not I thine ass, upon which thou hast ridden ever since  thine unto this day? was I ever wont to do so unto thee? And he said, Nay.
+
+###### 31 
+Then the  opened the eyes of Balaam, and he saw the angel of the  standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face.
+
+###### 32 
+And the angel of the  said unto him, Wherefore hast thou smitten thine ass these three times? behold, I went out to withstand thee, because  way is perverse before me:
+
+###### 33 
+And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain thee, and saved her alive.
+
+###### 34 
+And Balaam said unto the angel of the , I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again.
+
+###### 35 
+And the angel of the  said unto Balaam, Go with the men: but only the word that I shall speak unto thee, that thou shalt speak. So Balaam went with the princes of Balak.
+
+###### 36 
+And when Balak heard that Balaam was come, he went out to meet him unto a city of Moab, which  in the border of Arnon, which  in the utmost coast.
+
+###### 37 
+And Balak said unto Balaam, Did I not earnestly send unto thee to call thee? wherefore camest thou not unto me? am I not able indeed to promote thee to honour?
+
+###### 38 
+And Balaam said unto Balak, Lo, I am come unto thee: have I now any power at all to say any thing? the word that God putteth in my mouth, that shall I speak.
+
+###### 39 
+And Balaam went with Balak, and they came unto Kirjath-huzoth.
+
+###### 40 
+And Balak offered oxen and sheep, and sent to Balaam, and to the princes that  with him.
+
+###### 41 
+And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that thence he might see the utmost  of the people.
+

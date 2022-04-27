@@ -1,0 +1,46 @@
+---
+title: Morôni 6
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# Morôni 6
+[[Morôni 5| <-- Morôni 5]] | [[Morôni]] | [[Morôni 7|Morôni 7 --> ]]
+
+[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/6?lang=por)
+
+---
+__Resumo__
+Pessoas arrependidas são batizadas e integradas na Igreja — Membros da Igreja que se arrependem são perdoados — Reuniões são dirigidas pelo poder do Espírito Santo. Aproximadamente 401–421 d.C.
+
+---
+###### 1 
+E agora falo a respeito do batismo. E eis que eram batizados élderes, sacerdotes e mestres; e não eram batizados, a menos que seus frutos mostrassem serem eles dignos do batismo.
+
+###### 2 
+Nem recebiam pessoa alguma para o batismo, a menos que se apresentasse com um coração quebrantado e um espírito contrito e testificasse à igreja que verdadeiramente se havia arrependido de todos os seus pecados.
+
+###### 3 
+E ninguém era recebido para batismo, a menos que tomasse sobre si o nome de Cristo, com a firme resolução de servi-lo até o fim.
+
+###### 4 
+E depois de haverem sido recebidos pelo batismo, de haverem sido moldados e purificados pelo poder do Espírito Santo, eram contados com o povo da igreja de Cristo; e seus nomes eram registrados, para que fossem lembrados e nutridos pela boa palavra de Deus, a fim de mantê-los no caminho certo e mantê-los continuamente atentos à oração, confiando somente nos méritos de Cristo, autor e aperfeiçoador de sua fé.
+
+###### 5 
+E a igreja reunia-se frequentemente para jejuar e orar e para falar a respeito do bem-estar de suas almas.
+
+###### 6 
+E reuniam-se frequentemente para partilhar o pão e o vinho, em lembrança do Senhor Jesus.
+
+###### 7 
+E eram muito cuidadosos de que não houvesse iniquidade entre eles; e todos os que eram descobertos praticando iniquidade e eram acusados perante os élderes por três testemunhas da igreja e que não se arrependiam nem confessavam, tinham os nomes apagados e não mais eram contados com o povo de Cristo.
+
+###### 8 
+Sempre, porém, que se arrependiam e pediam perdão com verdadeiro intento, eram perdoados.
+
+###### 9 
+E suas reuniões eram dirigidas pela igreja, segundo as manifestações do Espírito e pelo poder do Espírito Santo; porque se o poder do Espírito Santo os levava a pregar ou a exortar ou a orar ou a suplicar ou a cantar, assim o faziam.
+

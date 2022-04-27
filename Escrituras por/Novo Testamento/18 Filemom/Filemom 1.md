@@ -1,0 +1,96 @@
+---
+title: Filemom 1
+tags: #Escrituras\NovoT
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# Filemom 1
+[[Tito 3| <-- Tito 3]] | [[Filemom]] | [[Hebreus 1|Hebreus 1 --> ]]
+
+[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/philem/1?lang=por)
+
+---
+__Resumo__
+O evangelho transforma um servo em um irmão.
+
+---
+###### 1 
+Paulo, prisioneiro de Jesus Cristo, e o irmão Timóteo, ao amado Filemom, nosso cooperador,
+
+###### 2 
+E à amada Áfia, e a Arquipo, nosso companheiro de lutas, e à igreja que está em tua casa:
+
+###### 3 
+Graça a vós e paz da parte de Deus nosso Pai, e do Senhor Jesus Cristo.
+
+###### 4 
+Graças dou ao meu Deus, lembrando-me sempre de ti nas minhas orações;
+
+###### 5 
+Ouvindo da tua caridade e da fé que tens para com o Senhor Jesus Cristo, e para com todos os santos;
+
+###### 6 
+Para que a comunhão da tua fé seja eficaz no conhecimento de todo o bem que em vós há por Cristo Jesus.
+
+###### 7 
+Porque tive grande alegria e consolação na tua caridade, porque por ti, ó irmão, o coração dos santos foi reanimado.
+
+###### 8 
+Pelo que, ainda que tenha em Cristo grande confiança para te mandar  o que convém,
+
+###### 9 
+ peço- antes por caridade, sendo eu tal como sou, Paulo, o velho, e também agora prisioneiro de Jesus Cristo.
+
+###### 10 
+Peço-te por meu filho Onésimo, que gerei nas minhas prisões;
+
+###### 11 
+O qual dantes te era inútil, mas agora a ti e a mim, muito útil; eu to tornei a enviar;
+
+###### 12 
+E tu, recebe-o, ele que é o meu próprio coração.
+
+###### 13 
+Eu bem o quisera reter comigo, para que por ti me servisse nas prisões do evangelho;
+
+###### 14 
+Porém nada quis fazer sem o teu parecer, para que o teu benefício não fosse como por força, mas voluntário.
+
+###### 15 
+Porque bem pode ser que ele se tenha por isso apartado  por algum tempo, para que o retivesses para sempre,
+
+###### 16 
+Não já como servo, antes, mais do que servo,  irmão amado, particularmente para mim; e quanto mais para ti, assim na carne como no Senhor?
+
+###### 17 
+Assim, pois, se me tens por companheiro, recebe-o como a mim mesmo.
+
+###### 18 
+E se te fez algum dano, ou te deve  põe-no na minha conta.
+
+###### 19 
+Eu, Paulo, de minha própria mão o escrevi: Eu o pagarei; para não te dizer que tu me deves até a ti mesmo.
+
+###### 20 
+Sim, irmão, eu me regozijarei de ti no Senhor; reanima o meu coração no Senhor.
+
+###### 21 
+Escrevi-te confiado na tua obediência, sabendo que ainda farás mais do que digo.
+
+###### 22 
+E ao mesmo tempo prepara-me também pousada, porque espero que pelas vossas orações vos hei de ser concedido.
+
+###### 23 
+Saúdam-te Epafras, meu companheiro de prisão por Cristo Jesus,
+
+###### 24 
+Marcos, Aristarco, Demas e Lucas, meus cooperadores.
+
+###### 25 
+A graça de nosso Senhor Jesus Cristo  com o vosso espírito. Amém.
+
+Escrita de Roma a Filemom, por Onésimo, um servo.
+

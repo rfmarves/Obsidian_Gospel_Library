@@ -1,0 +1,109 @@
+---
+title: Omni 1
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# Omni 1
+[[Jarom 1| <-- Jarom 1]] | [[Omni]] | [[Palabras de Mormón 1|Palabras de Mormón 1 --> ]]
+
+[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/omni/1?lang=spa)
+
+---
+__Resumen__
+Omni, Amarón, Quemis, Abinadom y Amalekí, cada uno, a su vez, llevan los anales — Mosíah descubre el pueblo de Zarahemla, el cual había llegado de Jerusalén en la época de Sedequías — Mosíah es nombrado rey — Los mulekitas habían descubierto a Coriántumr, el último de los jareditas — El rey Benjamín sucede a Mosíah — Los hombres deben ofrecer su alma como ofrenda a Cristo. Aproximadamente 323–130 a.C.
+
+---
+###### 1 
+He aquí, sucedió que yo, Omni, habiéndome mandado mi padre Jarom que escribiera algo sobre estas planchas, para preservar nuestra genealogía,
+
+###### 2 
+quisiera, por tanto, que supieseis que durante el curso de mi vida combatí mucho con la espada para preservar a mi pueblo, los nefitas, de caer en manos de los lamanitas, sus enemigos. Mas he aquí, en cuanto a mí, yo soy inicuo, y no he guardado los estatutos y mandamientos del Señor como debía haberlo hecho.
+
+###### 3 
+Y sucedió que habían transcurrido doscientos setenta y seis años, y habíamos tenido muchas épocas de paz; y habíamos tenido muchas épocas de serias guerras y derramamiento de sangre. Sí, y en fin habían pasado doscientos ochenta y dos años, y yo había guardado estas planchas según los mandatos de mis padres; y las entregué a mi hijo Amarón. Y así termino.
+
+###### 4 
+Y ahora yo, Amarón, escribo las cosas que vaya a escribir, y que son pocas, en el libro de mi padre.
+
+###### 5 
+He aquí, sucedió que habían pasado ya trescientos veinte años, y la parte más inicua de los nefitas fue destruida.
+
+###### 6 
+Porque el Señor no quiso permitir, después que los hubo sacado de la tierra de Jerusalén, y guardado y preservado de caer en las manos de sus enemigos, sí, no quiso permitir que dejasen de verificarse las palabras que habló a nuestros padres, diciendo: Si no guardáis mis mandamientos, no prosperaréis en la tierra.
+
+###### 7 
+Por tanto, el Señor los visitó con grandes juicios; no obstante, preservó a los justos para que no perecieran, y los libró de las manos de sus enemigos.
+
+###### 8 
+Y sucedió que entregué las planchas a mi hermano Quemis.
+
+###### 9 
+Ahora yo, Quemis, lo poco que escribo lo hago en el mismo libro que mi hermano; pues he aquí, vi que lo último que escribió, él lo escribió de su propia mano; y lo escribió el mismo día en que me lo entregó. Y de este modo llevamos los anales, porque es según los mandamientos de nuestros padres. Y así termino.
+
+###### 10 
+He aquí, yo, Abinadom, soy hijo de Quemis. He aquí, sucedió que vi mucha guerra y contención entre mi pueblo, los nefitas, y los lamanitas; y con mi propia espada he quitado la vida a muchos de los lamanitas en defensa de mis hermanos.
+
+###### 11 
+Y he aquí, la historia de este pueblo está grabada sobre planchas que guardan los reyes, según las generaciones; y yo no sé de ninguna revelación salvo lo que se ha escrito, ni profecía tampoco; por tanto, es suficiente lo que está escrito. Y con esto concluyo.
+
+###### 12 
+He aquí, soy Amalekí hijo de Abinadom. He aquí, os hablaré algo concerniente a Mosíah, que fue hecho rey de la tierra de Zarahemla; pues he aquí, le advirtió el Señor que huyera de la tierra de Nefi, y que cuantos quisieran escuchar la voz del Señor también deberían partir de la tierra con él hacia el desierto.
+
+###### 13 
+Y sucedió que obró según el Señor le había mandado. Y cuantos quisieron escuchar la voz del Señor salieron de la tierra para el desierto, y fueron conducidos por muchas predicaciones y profecías. Y continuamente fueron amonestados por la palabra de Dios, y guiados por el poder de su brazo a través del desierto, hasta que llegaron a la tierra que se llama la tierra de Zarahemla.
+
+###### 14 
+Y descubrieron a un pueblo llamado el pueblo de Zarahemla. Ahora bien, hubo gran alegría entre el pueblo de Zarahemla; y también Zarahemla se regocijó en extremo porque el Señor había enviado al pueblo de Mosíah con las planchas de bronce que contenían los anales de los judíos.
+
+###### 15 
+Y he aquí, sucedió que Mosíah descubrió que la gente de Zarahemla había salido de Jerusalén en la época en que Sedequías, rey de Judá, fue llevado cautivo a Babilonia.
+
+###### 16 
+Y viajaron por el desierto, y la mano del Señor los condujo, a través de las grandes aguas, a la tierra donde Mosíah los encontró; y allí habían morado desde aquel tiempo.
+
+###### 17 
+Y en la época en que Mosíah los descubrió, habían llegado a ser numerosos en extremo. No obstante, habían tenido muchas guerras y graves contiendas, y de cuando en cuando habían caído por la espada; y su idioma se había corrompido, y no habían llevado anales consigo, y negaban la existencia de su Creador; y ni Mosíah ni su pueblo podían entenderlos.
+
+###### 18 
+Pero aconteció que Mosíah hizo que se les enseñara su idioma. Y sucedió que después de haber sido instruidos en el idioma de Mosíah, Zarahemla dio una genealogía de sus padres, según su memoria; y está escrita, mas no en estas planchas.
+
+###### 19 
+Y aconteció que el pueblo de Zarahemla y el de Mosíah se unieron; y Mosíah fue nombrado para ser su rey.
+
+###### 20 
+Y acaeció que en los días de Mosíah se le trajo una piedra grande con grabados; y él interpretó los grabados por el don y poder de Dios.
+
+###### 21 
+Y relataban la historia de un tal Coriántumr y la matanza de su pueblo. Y el pueblo de Zarahemla descubrió a Coriántumr; y vivió con ellos por el término de nueve lunas.
+
+###### 22 
+También relataban algunas palabras acerca de los padres de Coriántumr. Y sus primeros padres vinieron de la torre, en la ocasión en que el Señor confundió el lenguaje del pueblo; y el rigor del Señor cayó sobre ellos, de acuerdo con sus juicios, que son justos; y sus huesos se hallan esparcidos en la tierra del norte.
+
+###### 23 
+He aquí yo, Amalekí, nací en los días de Mosíah, y he vivido hasta ver su muerte; y su hijo Benjamín reina en su lugar.
+
+###### 24 
+Y he aquí, he visto una guerra seria en los días del rey Benjamín, y mucho derramamiento de sangre entre nefitas y lamanitas. Mas he aquí, que los nefitas los superaron en gran manera; sí, a tal grado que el rey Benjamín arrojó a los lamanitas de la tierra de Zarahemla.
+
+###### 25 
+Y aconteció que empecé a envejecer; y no teniendo descendencia, y sabiendo que el rey Benjamín es un varón justo ante el Señor, le entregaré, por tanto, estas planchas, exhortando a todos los hombres a que vengan a Dios, el Santo de Israel, y crean en la profecía y en revelaciones y en la ministración de ángeles, en el don de hablar en lenguas, en el don de interpretación de lenguas, y en todas las cosas que son buenas; porque nada hay, que sea bueno, que no venga del Señor; y lo que es malo viene del diablo.
+
+###### 26 
+Y ahora bien, mis amados hermanos, quisiera que vinieseis a Cristo, el cual es el Santo de Israel, y participaseis de su salvación y del poder de su redención. Sí, venid a él y ofrecedle vuestras almas enteras como ofrenda, y continuad ayunando y orando, y perseverad hasta el fin; y así como vive el Señor, seréis salvos.
+
+###### 27 
+Y ahora quisiera decir algo concerniente a cierto grupo que fue al desierto para volver a la tierra de Nefi; porque había muchos que deseaban poseer la tierra de su herencia.
+
+###### 28 
+De modo que partieron para el desierto. Y su caudillo, siendo un hombre fuerte, poderoso y obstinado, provocó, por tanto, una contienda entre ellos; y todos, menos cincuenta, fueron muertos en el desierto, y estos retornaron a la tierra de Zarahemla.
+
+###### 29 
+Y aconteció que también llevaron consigo a otros, hasta un número considerable, y otra vez emprendieron su viaje para el desierto.
+
+###### 30 
+Y yo, Amalekí, tenía un hermano que también fue con ellos; y desde entonces nada he sabido de ellos. Y estoy para descender a mi sepultura; y estas planchas están llenas. Y doy fin a mi narración.
+

@@ -1,0 +1,87 @@
+---
+title: 1 Néfi 1
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# 1 Néfi 1
+[[Breve Explicação sobre o Livro de Mórmon| <-- Breve Explicação sobre o Livro de Mórmon]] | [[1 Néfi]] | [[1 Néfi 2|1 Néfi 2 --> ]]
+
+[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=por)
+
+1 Néfi
+Seu Governo e Ministério
+
+---
+Relato sobre Leí, sua mulher Saria e seus quatro filhos, que se chamavam (a começar pelo mais velho) Lamã, Lemuel, Sam e Néfi. O Senhor avisa Leí que saia da terra de Jerusalém, porque ele profetiza ao povo acerca de sua iniquidade e eles procuram tirar-lhe a vida. Ele viaja durante três dias através do deserto, com a sua família. Néfi toma os seus irmãos e volta à terra de Jerusalém, em busca do registro dos judeus. O relato dos seus sofrimentos. Tomam as filhas de Ismael para esposas. Tomam as suas famílias e vão para o deserto. Seus sofrimentos e aflições no deserto. Rota das suas viagens. Chegam às grandes águas. Rebelião dos irmãos contra Néfi. Ele confunde-os e constrói um barco. Dão ao lugar o nome de Abundância. Atravessam as grandes águas, indo para a terra da promissão, e assim por diante. Isto, segundo o relato de Néfi; ou, em outras palavras, eu, Néfi, escrevi este registro.
+
+---
+
+---
+__Resumo__
+Néfi inicia o registro de seu povo — Em visão, Leí vê uma coluna de fogo e lê um livro de profecias — Louva a Deus, prediz a vinda do Messias e profetiza a destruição de Jerusalém — É perseguido pelos judeus. Aproximadamente 600 a.C.
+
+---
+###### 1 
+Eu, Néfi, tendo nascido de bons pais, recebi, portanto, alguma instrução em todo o conhecimento de meu pai; e tendo passado muitas aflições no decurso de meus dias, fui, não obstante, altamente favorecido pelo Senhor em todos os meus dias; sim, havendo adquirido um grande conhecimento da bondade e dos mistérios de Deus, faço, por isso, um registro de meus feitos durante minha vida.
+
+###### 2 
+Sim, faço um registro na língua de meu pai, que consiste no conhecimento dos judeus e na língua dos egípcios.
+
+###### 3 
+E sei que o registro que faço é verdadeiro; e faço-o com minhas próprias mãos e faço-o de acordo com o meu conhecimento.
+
+###### 4 
+Pois aconteceu no começo do primeiro ano do reinado de Zedequias, rei de Judá (tendo meu pai, Leí, morado todos os seus dias em Jerusalém); e apareceram muitos profetas, nesse mesmo ano, profetizando ao povo que todos deveriam arrepender-se ou a grande cidade de Jerusalém precisaria ser destruída.
+
+###### 5 
+Portanto, aconteceu que meu pai, Leí, enquanto seguia seu caminho, orou ao Senhor, sim, de todo o coração, em favor de seu povo.
+
+###### 6 
+E aconteceu que enquanto ele orava ao Senhor, apareceu uma coluna de fogo que permaneceu sobre uma rocha, diante dele; e foi muito o que ele viu e ouviu; e tremeu e estremeceu intensamente por causa das coisas que viu e ouviu.
+
+###### 7 
+E aconteceu que ele retornou para sua casa em Jerusalém e jogou-se sobre a cama, dominado pelo Espírito e pelas coisas que vira.
+
+###### 8 
+E estando desta maneira dominado pelo Espírito, foi arrebatado em uma visão e viu os céus abertos e pensou ter visto Deus sentado em seu trono, rodeado por inumeráveis multidões de anjos, na atitude de cantar e louvar a seu Deus.
+
+###### 9 
+E aconteceu que ele viu Um que descia do meio do céu; e viu que o seu resplendor era maior que o do sol ao meio-dia.
+
+###### 10 
+E viu também doze outros que o seguiam; e seu brilho excedia ao das estrelas no firmamento.
+
+###### 11 
+E eles desceram e andaram pela face da Terra; e o primeiro veio e colocou-se diante de meu pai; e deu-lhe um livro e ordenou-lhe que o lesse.
+
+###### 12 
+E aconteceu que, enquanto lia, ele ficou cheio do Espírito do Senhor.
+
+###### 13 
+E ele leu, dizendo: Ai, ai de Jerusalém, pois vi tuas abominações! Sim, e meu pai leu muitas coisas concernentes a Jerusalém — que ela seria destruída, assim como seus habitantes; muitos morreriam pela espada e muitos seriam levados cativos para a Babilônia.
+
+###### 14 
+E aconteceu que depois de ter lido e visto muitas coisas grandes e maravilhosas, meu pai prorrompeu em exclamações ao Senhor, tais como: Grandes e maravilhosas são as tuas obras, ó Senhor Deus Todo-Poderoso! Alto nos céus está o teu trono; e teu poder e bondade e misericórdia estendem-se sobre todos os habitantes da Terra; e porque és misericordioso, não permitirás que pereçam aqueles que vierem a ti.
+
+###### 15 
+E era desta maneira que meu pai falava, ao louvar ao seu Deus; pois sua alma regozijava-se e todo o seu coração estava cheio por causa das coisas que vira, sim, que o Senhor lhe havia mostrado.
+
+###### 16 
+E agora eu, Néfi, não faço um relato completo das coisas que meu pai escreveu, pois ele escreveu muitas coisas que viu em visões e em sonhos; e também escreveu muitas coisas que profetizou e disse a seus filhos, das quais não farei um relato completo.
+
+###### 17 
+Farei, porém, um relato dos meus feitos em meus dias. Eis que escrevo um resumo do registro de meu pai nas placas que fiz com minhas próprias mãos; então, depois de haver resumido o registro de meu pai, farei um relato de minha própria vida.
+
+###### 18 
+Portanto, quero que saibais que, depois de o Senhor ter mostrado a meu pai, Leí, tantas coisas maravilhosas, sim, referentes à destruição de Jerusalém, eis que este se dirigiu ao povo e começou a profetizar e a declarar as coisas que vira e ouvira.
+
+###### 19 
+E aconteceu que os judeus escarneceram dele pelas coisas que testificava a respeito deles; pois verdadeiramente testificava a respeito de suas iniquidades e abominações; e testificava que as coisas que vira e ouvira, e também as coisas que havia lido no livro manifestavam claramente a vinda de um Messias, e também a redenção do mundo.
+
+###### 20 
+E quando ouviram estas coisas, os judeus iraram-se contra ele; sim, como haviam feito com os profetas antigos, a quem tinham expulsado e apedrejado e matado; e procuraram também tirar-lhe a vida. E eis, porém, que eu, Néfi, vos mostrarei que as ternas misericórdias do Senhor estão sobre todos aqueles que ele escolheu por causa de sua fé, para torná-los fortes com o poder de libertação.
+

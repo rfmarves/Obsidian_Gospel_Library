@@ -1,0 +1,114 @@
+---
+title: Alma 36
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# Alma 36
+[[Alma 35| <-- Alma 35]] | [[Alma]] | [[Alma 37|Alma 37 --> ]]
+
+[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=por)
+
+---
+Mandamentos de Alma a seu filho Helamã.
+
+---
+
+---
+__Resumo__
+Alma testifica a Helamã sua conversão depois de ter visto um anjo — Ele sofreu as dores de uma alma condenada; invocou o nome de Jesus, e então nasceu de Deus — Doce alegria encheu-lhe a alma — Ele viu multidões de anjos louvando a Deus — Muitos conversos experimentaram o que ele experimentou e viu. Aproximadamente 74 a.C.
+
+---
+###### 1 
+Meu filho, ouve minhas palavras; pois juro-te que, se guardares os mandamentos de Deus, prosperarás na terra.
+
+###### 2 
+Eu quisera que fizesses como eu fiz, lembrando-te do cativeiro de nossos pais; porque estavam em servidão e ninguém os poderia salvar a não ser o Deus de Abraão e o Deus de Isaque e o Deus de Jacó; e ele certamente os livrou de suas aflições.
+
+###### 3 
+E agora, ó Helamã, meu filho, eis que estás na juventude; peço-te, portanto, que ouças as minhas palavras e aprendas de mim; porque sei que aqueles que confiarem em Deus serão auxiliados em suas tribulações e em suas dificuldades e em suas aflições; e serão elevados no último dia.
+
+###### 4 
+E eu não quero que penses que sei por mim mesmo — não pelo que é físico, mas pelo espiritual; não pela mente carnal, mas por Deus.
+
+###### 5 
+Ora, eis que te digo que, se eu não houvesse nascido de Deus, não saberia estas coisas; Deus, porém, pela boca de seu santo anjo fez-me conhecer estas coisas, não por mérito algum meu.
+
+###### 6 
+Porque andei com os filhos de Mosias, procurando destruir a igreja de Deus; mas eis que Deus enviou seu santo anjo para deter-nos no caminho.
+
+###### 7 
+E eis que nos falou como se fosse a voz do trovão e toda a terra tremeu debaixo de nossos pés; e caímos todos por terra, porque o temor de Deus se apoderou de nós.
+
+###### 8 
+Mas eis que a voz me disse: Levanta-te! E levantei-me e pus-me de pé e vi o anjo.
+
+###### 9 
+E ele disse-me: A menos que queiras destruir-te, não mais procures destruir a igreja de Deus.
+
+###### 10 
+E aconteceu que caí por terra; e pelo espaço de três dias e três noites não pude abrir a boca nem fazer uso das pernas e dos braços.
+
+###### 11 
+E o anjo falou-me mais coisas, que foram ouvidas por meus irmãos, mas eu não as ouvi; porque quando ouvi as palavras — A menos que queiras destruir-te, não mais procures destruir a igreja de Deus — fui tomado de grande medo e espanto, temendo ser destruído; e caí por terra, nada mais ouvindo.
+
+###### 12 
+Mas fui torturado com eterno tormento, porque minha alma estava atribulada no mais alto grau e atormentada por todos os meus pecados.
+
+###### 13 
+Sim, lembrei-me de todos os meus pecados e iniquidades, pelos quais me vi atormentado com as penas do inferno; sim, vi que me havia rebelado contra o meu Deus e que não guardara seus santos mandamentos.
+
+###### 14 
+Sim, e que havia assassinado muitos de seus filhos, ou melhor, que os levara à destruição; sim, resumindo, tão grandes haviam sido minhas iniquidades que a simples ideia de entrar na presença de meu Deus atormentava-me a alma com inexprimível horror.
+
+###### 15 
+Oh! pensei eu, se pudesse ser banido e aniquilado em corpo e alma, para não ser levado à presença de meu Deus a fim de ser julgado pelas minhas obras!
+
+###### 16 
+E durante três dias e três noites fui atormentado pelas dores de uma alma condenada.
+
+###### 17 
+E aconteceu que enquanto eu estava sendo assim atormentado e enquanto eu estava perturbado pela lembrança de tantos pecados, eis que me lembrei também de ter ouvido meu pai profetizar ao povo sobre a vinda de um Jesus Cristo, um Filho de Deus, para expiar os pecados do mundo.
+
+###### 18 
+Ora, tendo fixado a mente nesse pensamento, clamei em meu coração: Ó Jesus, tu que és Filho de Deus, tem misericórdia de mim que estou no fel da amargura e rodeado pelas eternas correntes da morte.
+
+###### 19 
+E então, eis que quando pensei isto, já não me lembrei de minhas dores; sim, já não fui atormentado pela lembrança de meus pecados.
+
+###### 20 
+E oh! que alegria e que luz maravilhosa contemplei! Sim, minha alma encheu-se de tanta alegria quanta havia sido minha dor.
+
+###### 21 
+Sim, digo-te, meu filho, que nada pode haver tão intenso e cruciante como o foram minhas dores. Sim, meu filho, digo-te também que, por outro lado, nada pode haver tão belo e doce como o foi minha alegria.
+
+###### 22 
+Sim, parecia-me ver, assim como nosso pai Leí viu, Deus sentado em seu trono, rodeado por inúmeras multidões de anjos na atitude de cantar e louvar a Deus; e minha alma sentia o desejo de lá estar.
+
+###### 23 
+Mas eis que meus membros recobraram as forças e levantei-me e declarei ao povo que eu havia nascido de Deus.
+
+###### 24 
+Sim, e desde aquela ocasião até agora tenho trabalhado sem cessar para conseguir trazer almas ao arrependimento; para fazer com que elas experimentem a intensa alegria que eu experimentei; para que também nasçam de Deus e encham-se do Espírito Santo.
+
+###### 25 
+Sim, e agora eis que, meu filho, o Senhor me concede imensa alegria com o fruto de meus labores.
+
+###### 26 
+Pois por causa da palavra que me transmitiu, eis que muitos nasceram de Deus e experimentaram, como eu experimentei, e viram olho a olho, como eu vi; portanto, conhecem, como eu conheço, as coisas sobre as quais falei; e o conhecimento que possuo é de Deus.
+
+###### 27 
+E fui amparado em provações e dificuldades de toda espécie, sim, em todo tipo de aflições; sim, Deus livrou-me da prisão e de grilhões e da morte; sim, e ponho minha confiança nele e ele ainda me libertará.
+
+###### 28 
+E sei que me levantará no último dia para viver em glória com ele; sim, e louvá-lo-ei para sempre, pois tirou nossos pais do Egito e fez com que os egípcios se afogassem no Mar Vermelho; levou nossos pais, por seu poder, para a terra da promissão; sim, e libertou-os da servidão e do cativeiro de tempos em tempos.
+
+###### 29 
+Sim, e também tirou nossos pais da terra de Jerusalém; e, ainda, por seu sempiterno poder livrou-os do cativeiro e da servidão, de tempos em tempos até o dia presente. E lembro-me sempre de seu cativeiro; sim, e tu também deves guardar na lembrança o seu cativeiro, como eu o fiz.
+
+###### 30 
+Mas eis que isto não é tudo, meu filho; pois deves saber, assim como eu sei, que, se guardares os mandamentos de Deus, prosperarás na terra; e também deves saber que, se não guardares os mandamentos de Deus, serás afastado de sua presença. Ora, isto é segundo a sua palavra.
+

@@ -1,0 +1,112 @@
+---
+title: Eter 14
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# Eter 14
+[[Eter 13| <-- Eter 13]] | [[Eter]] | [[Eter 15|Eter 15 --> ]]
+
+[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/14?lang=spa)
+
+---
+__Resumen__
+La iniquidad del pueblo trae una maldición sobre la tierra — Coriántumr emprende la guerra contra Gilead, después contra Lib y después contra Shiz — Sangre y mortandad cubren la tierra.
+
+---
+###### 1 
+Y empezó a haber una grande maldición sobre toda la tierra a causa de la iniquidad del pueblo, por lo cual, si un hombre dejaba su herramienta o espada sobre su alacena, o en el lugar donde solía guardarla, he aquí, a la mañana siguiente, no la podía encontrar, tan grande era la maldición sobre esa tierra.
+
+###### 2 
+Así que todo hombre tomó entre sus manos lo que era suyo, y ni pedía prestado ni prestaba; y todo hombre conservaba el puño de su espada en su mano derecha, en defensa de su propiedad, su vida y la de sus esposas e hijos.
+
+###### 3 
+Y ahora bien, después del espacio de dos años, y después de la muerte de Shared, he aquí, se levantó el hermano de Shared y fue a la batalla contra Coriántumr, en la cual este lo venció y lo persiguió hasta el desierto de Akish.
+
+###### 4 
+Y acaeció que el hermano de Shared le dio batalla en el desierto de Akish; y la lucha se agravó en extremo, y muchos miles cayeron por la espada.
+
+###### 5 
+Y sucedió que Coriántumr le puso sitio en el desierto; y el hermano de Shared salió del desierto durante la noche, y mató a una parte del ejército de Coriántumr, mientras estaban borrachos.
+
+###### 6 
+Y avanzó a la tierra de Morón, y se colocó sobre el trono de Coriántumr.
+
+###### 7 
+Y sucedió que Coriántumr moró con su ejército en el desierto por el término de dos años, y durante este tiempo recibió gran fuerza para su ejército.
+
+###### 8 
+Y el hermano de Shared, que se llamaba Gilead, también recibió gran fuerza para su ejército, por causa de las combinaciones secretas.
+
+###### 9 
+Y aconteció que su sumo sacerdote lo asesinó mientras se hallaba sentado sobre el trono.
+
+###### 10 
+Y sucedió que a él lo asesinó uno de los miembros de las combinaciones secretas en un paso oculto, y obtuvo el reino para sí; y se llamaba Lib, y era un hombre de gran estatura, mayor que la de cualquier otro hombre entre todo el pueblo.
+
+###### 11 
+Y aconteció que en el primer año de Lib, Coriántumr subió a la tierra de Morón y dio batalla a Lib.
+
+###### 12 
+Y acaeció que sostuvo una lucha con Lib, en la cual Lib le asestó un golpe en el brazo y lo dejó herido; no obstante, el ejército de Coriántumr arremetió contra Lib, por lo que este huyó hacia la frontera a orillas del mar.
+
+###### 13 
+Y ocurrió que Coriántumr lo persiguió; y Lib le hizo frente a orillas del mar.
+
+###### 14 
+Y sucedió que Lib hirió al ejército de Coriántumr, de modo que huyeron de nuevo al desierto de Akish.
+
+###### 15 
+Y sucedió que Lib lo persiguió hasta que llegó a las llanuras de Agosh. Y Coriántumr se había llevado consigo a todo el pueblo mientras huía de Lib en aquella parte de la tierra por donde huía.
+
+###### 16 
+Y cuando llegó a las llanuras de Agosh, dio batalla a Lib, y lo hirió hasta que murió; no obstante, el hermano de Lib vino contra Coriántumr en su lugar, y la batalla se agravó en extremo, por lo cual Coriántumr huyó otra vez delante del ejército del hermano de Lib.
+
+###### 17 
+Y el nombre del hermano de Lib era Shiz. Y sucedió que Shiz persiguió a Coriántumr, y destruyó muchas ciudades; y mataba tanto a mujeres como a niños, e incendiaba las ciudades.
+
+###### 18 
+Y el temor a Shiz se esparció por toda la tierra; sí, por toda la tierra se oía el grito: ¿Quién puede resistir al ejército de Shiz? ¡He aquí, barre la tierra por donde pasa!
+
+###### 19 
+Y sucedió que los del pueblo empezaron a congregarse en ejércitos por toda la superficie de la tierra.
+
+###### 20 
+Y se dividieron; y parte de ellos huyeron al ejército de Shiz, y parte de ellos al ejército de Coriántumr.
+
+###### 21 
+Y tan grande y tan larga había sido la guerra, y tanto había durado aquel cuadro de efusión de sangre y mortandad, que toda la superficie de la tierra se hallaba cubierta de cadáveres.
+
+###### 22 
+Y tan rápida y acelerada era la guerra, que no quedaba nadie para sepultar a los muertos, sino que marchaban de una efusión de sangre a otra, dejando los cadáveres, tanto de hombres como de mujeres y de niños, tirados a flor de tierra, para convertirse en presa de los gusanos de la carne.
+
+###### 23 
+Y el hedor se extendió por la faz de la tierra, sí, por toda la superficie de la tierra; por lo que el pueblo se sintió molesto de día y de noche por causa del mal olor.
+
+###### 24 
+No obstante, Shiz no cesó de perseguir a Coriántumr; porque había jurado vengarse de Coriántumr por la sangre de su hermano que había sido muerto; y la voz del Señor que llegó a Éter fue que Coriántumr no caería por la espada.
+
+###### 25 
+Y así vemos que el Señor los visitó con la plenitud de su ira, y su iniquidad y abominaciones habían preparado la vía para su eterna destrucción.
+
+###### 26 
+Y sucedió que Shiz persiguió a Coriántumr hacia el este, aun hasta las fronteras junto al mar, y allí combatió a Shiz por el espacio de tres días.
+
+###### 27 
+Y tan terrible fue la destrucción entre los ejércitos de Shiz, que las gentes empezaron a tener miedo, y comenzaron a huir ante los ejércitos de Coriántumr; y huyeron a la tierra de Corihor, y exterminaban a los habitantes delante de ellos, a todos los que no querían unirse a ellos.
+
+###### 28 
+Y plantaron sus tiendas en el valle de Corihor; y Coriántumr plantó las suyas en el valle de Shurr. Este valle de Shurr estaba situado cerca del cerro Comnor; por tanto, Coriántumr reunió a sus ejércitos sobre el cerro Comnor, e hizo tocar la trompeta a los ejércitos de Shiz para invitarlos al combate.
+
+###### 29 
+Y sucedió que avanzaron, pero fueron rechazados; y volvieron por segunda vez, y de nuevo fueron rechazados. Y sucedió que llegaron por tercera vez, y el combate se agravó en extremo.
+
+###### 30 
+Y aconteció que Shiz hirió a Coriántumr de modo que le ocasionó muchas heridas profundas; y se desmayó Coriántumr por la pérdida de sangre, y lo llevaron como si estuviese muerto.
+
+###### 31 
+Y tan grande fue la pérdida de hombres, mujeres y niños en ambos partidos, que Shiz dio órdenes a su pueblo de no perseguir a los ejércitos de Coriántumr; de modo que se volvieron a su campamento.
+

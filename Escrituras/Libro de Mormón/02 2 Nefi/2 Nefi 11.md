@@ -1,0 +1,43 @@
+---
+title: 2 Nefi 11
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# 2 Nefi 11
+[[2 Nefi 10| <-- 2 Nefi 10]] | [[2 Nefi]] | [[2 Nefi 12|2 Nefi 12 --> ]]
+
+[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/11?lang=spa)
+
+---
+__Resumen__
+Jacob vio a su Redentor — La ley de Moisés simboliza a Cristo y prueba que Él vendrá. Aproximadamente 559–545 a.C.
+
+---
+###### 1 
+Ahora bien, Jacob habló muchas otras cosas a mi pueblo en esa ocasión; sin embargo, solamente he hecho escribir estas cosas, porque lo que he escrito me basta.
+
+###### 2 
+Y ahora yo, Nefi, escribo más de las palabras de Isaías, porque mi alma se deleita en sus palabras. Porque compararé sus palabras a mi pueblo, y las enviaré a todos mis hijos, pues él verdaderamente vio a mi Redentor, tal como yo lo he visto.
+
+###### 3 
+Y mi hermano Jacob también lo ha visto como lo he visto yo; por tanto, transmitiré las palabras de ellos a mis hijos, para probarles que mis palabras son verdaderas. Por tanto, ha dicho Dios, por las palabras de tres estableceré mi palabra. No obstante, Dios envía más testigos y confirma todas sus palabras.
+
+###### 4 
+He aquí, mi alma se deleita en comprobar a mi pueblo la verdad de la venida de Cristo; porque con este fin se ha dado la ley de Moisés; y todas las cosas que han sido dadas por Dios al hombre, desde el principio del mundo, son símbolo de él.
+
+###### 5 
+Y mi alma también se deleita en los convenios que el Señor ha hecho a nuestros antepasados; sí, mi alma se deleita en su gracia, y en su justicia, y poder, y misericordia en el gran y eterno plan de liberación de la muerte.
+
+###### 6 
+Y mi alma se deleita en comprobar a mi pueblo que salvo que Cristo venga, todos los hombres deben perecer.
+
+###### 7 
+Porque si no hay Cristo, no hay Dios; y si Dios no existe, nosotros no existimos, porque no habría habido creación. Mas hay un Dios, y es Cristo; y él viene en la plenitud de su propio tiempo.
+
+###### 8 
+Y ahora escribo algunas de las palabras de Isaías, para que aquellos de mi pueblo que vean estas palabras eleven sus corazones y se regocijen por todos los hombres. Ahora bien, estas son las palabras, y podéis compararlas a vosotros y a todos los hombres.
+

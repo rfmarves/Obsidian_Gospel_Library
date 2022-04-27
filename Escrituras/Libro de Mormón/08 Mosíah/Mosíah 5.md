@@ -1,0 +1,64 @@
+---
+title: Mosíah 5
+tags: #Escrituras\LdM
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# Mosíah 5
+[[Mosíah 4| <-- Mosíah 4]] | [[Mosíah]] | [[Mosíah 6|Mosíah 6 --> ]]
+
+[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=spa)
+
+---
+__Resumen__
+Los santos llegan a ser hijos e hijas de Cristo por medio de la fe — Entonces son llamados por el nombre de Cristo — El rey Benjamín los exhorta a ser firmes e inmutables en buenas obras. Aproximadamente 124 a.C.
+
+---
+###### 1 
+Y ahora bien, aconteció que cuando el rey Benjamín hubo hablado así a su pueblo, mandó indagar entre ellos, deseando saber si creían las palabras que les había hablado.
+
+###### 2 
+Y todos clamaron a una voz, diciendo: Sí, creemos todas las palabras que nos has hablado; y además, sabemos de su certeza y verdad por el Espíritu del Señor Omnipotente, el cual ha efectuado un potente cambio en nosotros, o sea, en nuestros corazones, por lo que ya no tenemos más disposición a obrar mal, sino a hacer lo bueno continuamente.
+
+###### 3 
+Y también nosotros mismos, por medio de la infinita bondad de Dios y las manifestaciones de su Espíritu, tenemos grandes visiones de aquello que está por venir; y si fuere necesario, podríamos profetizar de todas las cosas.
+
+###### 4 
+Y es la fe que hemos tenido en las cosas que nuestro rey nos ha hablado lo que nos ha llevado a este gran conocimiento, por lo que nos regocijamos con un gozo tan sumamente grande.
+
+###### 5 
+Y estamos dispuestos a concertar un convenio con nuestro Dios de hacer su voluntad y ser obedientes a sus mandamientos en todas las cosas que él nos mande, todo el resto de nuestros días, para que no traigamos sobre nosotros un tormento sin fin, como lo ha declarado el ángel, para que no bebamos del cáliz de la ira de Dios.
+
+###### 6 
+Ahora bien, estas palabras eran las que de ellos deseaba el rey Benjamín; y por lo tanto, les dijo: Habéis declarado las palabras que yo deseaba; y el convenio que habéis hecho es un convenio justo.
+
+###### 7 
+Ahora pues, a causa del convenio que habéis hecho, seréis llamados progenie de Cristo, hijos e hijas de él, porque he aquí, hoy él os ha engendrado espiritualmente; pues decís que vuestros corazones han cambiado por medio de la fe en su nombre; por tanto, habéis nacido de él y habéis llegado a ser sus hijos y sus hijas.
+
+###### 8 
+Y bajo este título sois librados, y no hay otro título por medio del cual podáis ser librados. No hay otro nombre dado por el cual venga la salvación; por tanto, quisiera que tomaseis sobre vosotros el nombre de Cristo, todos vosotros que habéis hecho convenio con Dios de ser obedientes hasta el fin de vuestras vidas.
+
+###### 9 
+Y sucederá que quien hiciere esto, se hallará a la diestra de Dios, porque sabrá el nombre por el cual es llamado; pues será llamado por el nombre de Cristo.
+
+###### 10 
+Y acontecerá que quien no tome sobre sí el nombre de Cristo, tendrá que ser llamado por algún otro nombre; por tanto, se hallará a la izquierda de Dios.
+
+###### 11 
+Y quisiera que también recordaseis que este es el nombre que dije que os daría, el cual nunca sería borrado, sino por transgresión; por tanto, tened cuidado de no transgredir, para que el nombre no sea borrado de vuestros corazones.
+
+###### 12 
+Yo os digo: Quisiera que os acordaseis de conservar siempre escrito este nombre en vuestros corazones para que no os halléis a la izquierda de Dios, sino que oigáis y conozcáis la voz por la cual seréis llamados, y también el nombre por el cual él os llamará.
+
+###### 13 
+Porque ¿cómo conoce un hombre al amo a quien no ha servido, que es un extraño para él, y se halla lejos de los pensamientos y de las intenciones de su corazón?
+
+###### 14 
+Y además, ¿toma un hombre un asno que pertenece a su vecino, y lo guarda? Yo os digo que no; ni siquiera permitirá que pazca entre sus rebaños, sino que lo ahuyentará y lo echará fuera. Os digo que así será entre vosotros si no sabéis el nombre por el cual se os llame.
+
+###### 15 
+Por tanto, quisiera que fueseis firmes e inmutables, abundando siempre en buenas obras para que Cristo, el Señor Dios Omnipotente, pueda sellaros como suyos, a fin de que seáis llevados al cielo, y tengáis salvación sin fin, y vida eterna mediante la sabiduría, y poder, y justicia, y misericordia de aquel que creó todas las cosas en el cielo y en la tierra, el cual es Dios sobre todo. Amén.
+

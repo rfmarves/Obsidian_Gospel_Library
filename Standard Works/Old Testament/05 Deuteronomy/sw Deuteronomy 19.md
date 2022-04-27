@@ -1,0 +1,82 @@
+---
+title: sw Deuteronomy 19
+tags: #Scriptures\OldT
+
+cssclass: scriptures
+publish: false
+people:
+---
+
+# sw Deuteronomy 19
+[[sw Deuteronomy 18| <-- sw Deuteronomy 18]] | [[Deuteronomy]] | [[sw Deuteronomy 20|sw Deuteronomy 20 --> ]]
+
+[Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/19?lang=eng)
+
+---
+__Summary__
+Cities of refuge are appointed for cases of manslaughter—Murderers will be put to death—Two or three witnesses are required in court cases—False witnesses will be punished.
+
+---
+###### 1 
+When the  thy God hath cut off the nations, whose land the  thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;
+
+###### 2 
+Thou shalt separate three cities for thee in the midst of thy land, which the  thy God giveth thee to possess it.
+
+###### 3 
+Thou shalt prepare thee a way, and divide the coasts of thy land, which the  thy God giveth thee to inherit, into three parts, that every slayer may flee thither.
+
+###### 4 
+And this  the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;
+
+###### 5 
+As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:
+
+###### 6 
+Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he  not worthy of death, inasmuch as he hated him not in time past.
+
+###### 7 
+Wherefore I command thee, saying, Thou shalt separate three cities for thee.
+
+###### 8 
+And if the  thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;
+
+###### 9 
+If thou shalt keep all these commandments to do them, which I command thee this day, to love the  thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:
+
+###### 10 
+That innocent blood be not shed in thy land, which the  thy God giveth thee  an inheritance, and  blood be upon thee.
+
+###### 11 
+But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:
+
+###### 12 
+Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.
+
+###### 13 
+Thine eye shall not pity him, but thou shalt put away  innocent blood from Israel, that it may go well with thee.
+
+###### 14 
+Thou shalt not remove thy neighbour’s landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the  thy God giveth thee to possess it.
+
+###### 15 
+One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.
+
+###### 16 
+If a false witness rise up against any man to testify against him  wrong;
+
+###### 17 
+Then both the men, between whom the controversy  shall stand before the , before the priests and the judges, which shall be in those days;
+
+###### 18 
+And the judges shall make diligent inquisition: and, behold,  the witness  a false witness,  hath testified falsely against his brother;
+
+###### 19 
+Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you.
+
+###### 20 
+And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you.
+
+###### 21 
+And thine eye shall not pity;  life  for life, eye for eye, tooth for tooth, hand for hand, foot for foot.
+
