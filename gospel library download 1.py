@@ -6,12 +6,18 @@ from bs4 import BeautifulSoup
 #### CHANGE THIS LINE BEFORE USING ####
 LibraryPath = "C:/Users/[your user here]/Notes/Library/"
 
-OnlineText = "Online"
-
 # Gets URL from clipboard
 win32clipboard.OpenClipboard()
 url = win32clipboard.GetClipboardData()
 win32clipboard.CloseClipboard()
+
+lang_code = url[-3:]
+
+OnlineText = "Online"
+if lang_code == "spa":
+    OnlineText = "En línea"
+elif lang_code == "por"
+    OnlineText = "em linha"
 
 # validates clipboard data, quits if not a Gospel Library address
 gospel_library_snip = "www.churchofjesuschrist.org/study/"

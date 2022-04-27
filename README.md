@@ -23,6 +23,19 @@ Inspirado por otros repositorios en Github (sólo en inglés), empecé a hacer e
     4.  Si desea personalizar el encabezado de metadata, busque el comentario `#Construct YAML heading for each md file`. El encabezado de metadata está construido en las líneas que le siguen.
 4.  Ya que terminó de personalizar, corra download.py. Requiere que tenga instalado Python, con los módulos os, requests, y BeautifulSoup instalados. Utilicé Python 3.10, con las últimas versiones de todo al 24 de abril, 2022.
 
+## gospel library download 1.py
+
+Este pequeño programa toma un enlace de la biblioteca del evangelio que esté en el portapapeles y lo agrega a su biblioteca del evangelio en Obsidian. Para poder usarlo hay que:
+
+1.  Descargar `gospel library download 1.py`.
+2.  Abrirlo para editarlo y cambiar la variable `LibraryPath` para ser la dirección en el disco duro donde está guardada la biblioteca de Obsidian. Es tan simple como navegar ahí en el explorador, copiar la dirección de la carpeta, pegarla ahí y reemplazar los `\` con `/`.
+3.  Después de hecha esta configuración, usarlo es simple:
+    1.  Copie la dirección del artículo de la biblioteca que desee incluir y deje la dirección en el portapapeles.
+    2.  Ejecute el programita haciendo doble click en él.
+    3.  El artículo aparecerá en su biblioteca automáticamente.
+
+Actualmente se encuentra configurado para mostrar el enlace a la página de origen en inglés, español o portugués, dependiendo del enlace de origen. Si desea agregar soporte para más idiomas, puede agregar las líneas fácilmente al inicio. Requiere que tenga instalado Python con los módulos `os`, `requests`, `win32clipboard`, y `BeautifulsSoup`.
+
 # Markdown Scriptures/Standard Works for use in Obsidian
 
 Inspired by other repositories found in GitHub (only in English) I started to get mine in Spanish and here I’m sharing the Python script and file used to make this, along with the markdown files result in 3 languages.
@@ -47,3 +60,16 @@ Inspired by other repositories found in GitHub (only in English) I started to ge
     3.  Change `OnlineText` to read to whatever you want to have displayed as the text to the online version of each markdown file.
     4.  If you want to customize the metadata header, look for the `#Construct YAML heading for each md file` comment. The metadata header is constructed in the lines after that.
 4.  Once you’re done customizing, run the `download.py` script. It requires that you have Python installed, with the `os`, `requests`, and `BeautifulSoup` modules installed. I used Python 3.10, with the latest version of everything as of April 24, 2022.
+
+## gospel library download 1.py
+
+This small script takes a Gospel Library link from the clipboard and adds it to your Obisian Gospel Library. To use it, you have to:
+
+1.  Download Descargar `gospel library download 1.py`.
+2.  Open it for editing and change the LibraryPath variable to be the hard drive location where you have your Obsidian Gospel Library. It’s as simple as navigating there in the file explorer, copying the address of the folder and pasting it there, replacing the `\` with `/`.
+3.  After this configuration is complete, using it is simple:
+    1.  Copy the url of the Gospel Library article and leave it in the clipboard.
+    2.  Execute the script by double clicking it.
+    3.  The article will appear in your library automatically.
+
+It is currently configured to show the link back to the original web page in English, Spanish or Portuguese, depending on the source language. If you want to add additional language support, you may easily do so in the beginning lines of the script. It requires that you have Python installed, with the `os`, `requests`, `win32clipboard`, and `BeautifulsSoup` modules.
