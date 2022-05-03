@@ -1,27 +1,25 @@
 ---
 title: 2 Nefi 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 1
 [[1 Nefi 22| <-- 1 Nefi 22]] | [[2 Nefi]] | [[2 Nefi 2|2 Nefi 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/1?lang=spa)
 
----
+```
 Relación de la muerte de Lehi. Los hermanos de Nefi se rebelan en contra de él. El Señor amonesta a Nefi a salir para el desierto. Sus viajes por el desierto, etc.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Lehi profetiza acerca de una tierra de libertad — Los de su posteridad serán dispersados y afligidos si rechazan al Santo de Israel — Exhorta a sus hijos a ceñirse con la armadura de la rectitud. Aproximadamente 588–570 a.C.
 
----
 ###### 1 
 Y aconteció que después que yo, Nefi, hube concluido de enseñar a mis hermanos, nuestro padre Lehi les habló muchas cosas también, y les recordó cuán grandes cosas el Señor había hecho por ellos al sacarlos de la tierra de Jerusalén,
 

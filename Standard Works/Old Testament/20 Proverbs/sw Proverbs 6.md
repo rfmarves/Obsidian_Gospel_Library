@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Six things that the Lord hates are named—Those who commit adultery destroy their own souls.
 
----
 ###### 1 
 My son, if thou be surety for thy friend,  thou hast stricken thy hand with a stranger,
 

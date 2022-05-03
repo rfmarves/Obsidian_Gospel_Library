@@ -1,22 +1,21 @@
 ---
 title: Alma 55
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 55
 [[Alma 54| <-- Alma 54]] | [[Alma]] | [[Alma 56|Alma 56 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/55?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/55?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moroni se niega a canjear prisioneros — Se induce a los guardias lamanitas a embriagarse y se libera a todos los prisioneros nefitas — Se toma la ciudad de Gid sin derramamiento de sangre. Aproximadamente 63–62 a.C.
 
----
 ###### 1 
 Y sucedió que cuando Moroni hubo recibido esta epístola, se enojó aún más, porque sabía que Ammorón tenía un conocimiento perfecto de su fraude; sí, sabía que Ammorón sabía que no era una causa justa la que lo había llevado a emprender la guerra contra el pueblo de Nefi.
 

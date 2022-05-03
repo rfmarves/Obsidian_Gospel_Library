@@ -1,25 +1,24 @@
 ---
 title: Moisés 5
-tags: #Escrituras\PdGP
+tags: Escrituras\PdGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moisés 5
 [[Moisés 4| <-- Moisés 4]] | [[Moisés]] | [[Moisés 6|Moisés 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/pgp/moses/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/pgp/moses/5?lang=spa)
 
 Moisés
 (De junio a octubre de 1830)
 
----
-__Resumen__
+> __Resumen__
 Adán y Eva tienen hijos — Adán ofrece sacrificios y sirve a Dios — Nacen Caín y Abel — Caín se rebela, ama a Satanás más que a Dios y llega a ser Perdición — Se multiplican el asesinato y la iniquidad — Se predica el Evangelio desde el principio.
 
----
 ###### 1 
 Y sucedió que, después que yo, Dios el Señor, los hube expulsado, Adán empezó a cultivar la tierra, y a ejercer dominio sobre todas las bestias del campo, y a comer su pan con el sudor de su rostro, como yo, el Señor, le había mandado; y Eva, su esposa, también se afanaba con él.
 

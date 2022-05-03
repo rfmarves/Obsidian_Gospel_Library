@@ -1,22 +1,21 @@
 ---
 title: 2 Pedro 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Pedro 2
 [[2 Pedro 1| <-- 2 Pedro 1]] | [[2 Pedro]] | [[2 Pedro 3|2 Pedro 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os falsos mestres entre os santos são condenados — Os santos concupiscentes perecerão em sua própria corrupção.
 
----
 ###### 1 
 E também houve entre o povo falsos profetas, como entre vós haverá também falsos mestres, que introduzirão encobertamente heresias destruidoras, e negarão o Senhor que os resgatou, trazendo sobre si mesmos repentina destruição.
 

@@ -1,22 +1,21 @@
 ---
 title: Isaías 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 5
 [[Isaías 4| <-- Isaías 4]] | [[Isaías]] | [[Isaías 6|Isaías 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La viña de Jehová (Israel) será asolada y Su pueblo será esparcido — Les sobrevendrán calamidades en su estado apóstata y esparcido — Jehová alzará estandarte a las naciones y recogerá a Israel — Compárese con 2 Nefi 15.
 
----
 ###### 1 
 Ahora cantaré a mi amado el cantar de mi amado acerca de su viña. Tenía mi amado una viña en una ladera fértil.
 

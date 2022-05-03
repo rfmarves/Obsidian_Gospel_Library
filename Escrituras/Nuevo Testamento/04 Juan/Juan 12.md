@@ -1,22 +1,21 @@
 ---
 title: Juan 12
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 12
 [[Juan 11| <-- Juan 11]] | [[Juan]] | [[Juan 13|Juan 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 María unge los pies de Jesús — Se relata la entrada triunfal del Señor en Jerusalén — Él predice Su muerte — Recibir a Cristo es recibir al Padre.
 
----
 ###### 1 
 Y Jesús, seis días antes de la Pascua, fue a Betania, donde estaba Lázaro, el que había estado muerto, a quien había resucitado de entre los muertos.
 

@@ -1,22 +1,21 @@
 ---
 title: Juan 19
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 19
 [[Juan 18| <-- Juan 18]] | [[Juan]] | [[Juan 20|Juan 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Azotan a Jesús y lo crucifican — Deja Su madre al cuidado de Juan — Jesús muere, y le traspasan el costado con una lanza — Lo sepultan en la tumba de José de Arimatea.
 
----
 ###### 1 
 Así que, entonces tomó Pilato a Jesús y le azotó.
 

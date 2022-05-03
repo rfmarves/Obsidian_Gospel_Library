@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 18
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus explains how we are to treat our offending brethren—The Son of Man came to save that which was lost—All of the Twelve receive the keys of the kingdom—Jesus explains why we should forgive.
 
----
 ###### 1 
 At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?
 

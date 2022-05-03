@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Aaron and Miriam complain against Moses, the most meek of all men—The Lord promises to speak to Moses mouth to mouth and to reveal to him the similitude of the Lord—Miriam becomes leprous for a week.
 
----
 ###### 1 
 And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
 

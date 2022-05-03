@@ -1,10 +1,11 @@
 ---
 title: sw Moses 3
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moses 3
@@ -15,11 +16,9 @@ people:
 Moses
 (June–October 1830)
 
----
-__Summary__
+> __Summary__
 God created all things spiritually before they were naturally upon the earth—He created man, the first flesh, upon the earth—Woman is a help meet for man.
 
----
 ###### 1 
 Thus the heaven and the earth were finished, and all the host of them.
 

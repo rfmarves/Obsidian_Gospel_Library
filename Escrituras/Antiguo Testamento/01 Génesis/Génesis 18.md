@@ -1,22 +1,21 @@
 ---
 title: Génesis 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 18
 [[Génesis 17| <-- Génesis 17]] | [[Génesis]] | [[Génesis 19|Génesis 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Abraham atiende a tres hombres santos — Ellos prometen que Sara tendrá un hijo — Abraham mandará a sus hijos ser justos — Jehová se le aparece — Conversan sobre la destrucción de Sodoma y Gomorra.
 
----
 ###### 1 
 Y se le apareció Jehová en el valle de Mamre, estando él sentado a la puerta de su tienda en el calor del día.
 

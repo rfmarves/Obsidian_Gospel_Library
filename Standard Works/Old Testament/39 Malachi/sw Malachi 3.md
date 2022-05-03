@@ -1,10 +1,11 @@
 ---
 title: sw Malachi 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Malachi 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord’s messenger will prepare the way for the Second Coming—The Lord will sit in judgment—The people of Israel are commanded to pay tithes and offerings—They keep a book of remembrance.
 
----
 ###### 1 
 Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the  of hosts.
 

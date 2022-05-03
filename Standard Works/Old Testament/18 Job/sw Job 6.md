@@ -1,10 +1,11 @@
 ---
 title: sw Job 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job bemoans his grief—He prays that God will grant his petitions—Those who are afflicted should be pitied—How forcible are right words!
 
----
 ###### 1 
 But Job answered and said,
 

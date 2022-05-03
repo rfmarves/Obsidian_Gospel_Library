@@ -1,22 +1,21 @@
 ---
 title: Salmos 147
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 147
 [[Salmos 146| <-- Salmos 146]] | [[Salmos]] | [[Salmos 148|Salmos 148 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/147?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/147?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Louvai ao Senhor por Seu poder — Seu entendimento é infinito — Ele envia Seus mandamentos, Sua palavra, Seus estatutos e Seus juízos a Israel.
 
----
 ###### 1 
 Louvai ao , porque  bom cantar louvores ao nosso Deus, porque  agradável; decoroso  o louvor.
 

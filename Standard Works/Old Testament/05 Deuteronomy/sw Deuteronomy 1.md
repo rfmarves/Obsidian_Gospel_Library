@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses begins the recitation of all that befell Israel during forty years in the wilderness—The children of Israel are commanded to go into and possess Canaan—Judges and rulers are chosen to assist Moses—Israel’s spies bring an evil report—The adults of Israel will perish—The Amorites defeat the armies of Israel.
 
----
 ###### 1 
 These  the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red  between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.
 

@@ -1,22 +1,21 @@
 ---
 title: Mosíah 21
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 21
 [[Mosíah 20| <-- Mosíah 20]] | [[Mosíah]] | [[Mosíah 22|Mosíah 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los lamanitas hieren y derrotan al pueblo de Limhi — Llega Ammón y el pueblo de Limhi se convierte — Le hablan a Ammón de las veinticuatro planchas jareditas. Aproximadamente 122–121 a.C.
 
----
 ###### 1 
 Y aconteció que Limhi y su pueblo volvieron a la ciudad de Nefi, y nuevamente empezaron a habitar la tierra en paz.
 

@@ -1,22 +1,21 @@
 ---
 title: Mosias 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 5
 [[Mosias 4| <-- Mosias 4]] | [[Mosias]] | [[Mosias 6|Mosias 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos tornam-se filhos e filhas de Cristo por meio da fé — Passam a ser chamados pelo nome de Cristo — O rei Benjamim exorta-os a serem firmes e imutáveis nas boas obras. Aproximadamente 124 a.C.
 
----
 ###### 1 
 E então aconteceu que, tendo o rei Benjamim assim falado a seu povo, mandou investigar se seu povo acreditara nas palavras que lhe dissera.
 

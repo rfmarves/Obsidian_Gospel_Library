@@ -1,22 +1,21 @@
 ---
 title: Mórmon 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mórmon 4
 [[Mórmon 3| <-- Mórmon 3]] | [[Mórmon]] | [[Mórmon 5|Mórmon 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Continuam as guerras e carnificinas — O iníquo pune o iníquo — A iniquidade é maior do que nunca em toda Israel — Mulheres e crianças são sacrificadas a ídolos — Os lamanitas começam a varrer os nefitas de diante de si. Aproximadamente 363–375 d.C.
 
----
 ###### 1 
 E então aconteceu que no tricentésimo sexagésimo terceiro ano os nefitas saíram da terra de Desolação e subiram com seus exércitos para atacar os lamanitas.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 18
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/18?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David, the servant of the Lord, who spake unto the Lord the words of this song in the day that the Lord delivered him from the hand of all his enemies, and from the hand of Saul: And he said,
+```
 
----
-
----
-__Summary__
+> __Summary__
 David praises the Lord for His greatness and preserving care—The Lord’s way is perfect—The Lord has given marvelous blessings—David testifies, The Lord lives, and blessed be my Rock.
 
----
 ###### 1 
 I will love thee, O , my strength.
 

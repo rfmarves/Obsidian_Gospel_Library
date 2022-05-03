@@ -1,10 +1,11 @@
 ---
 title: sw Alma 37
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 37
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=eng)
 
----
-__Summary__
+> __Summary__
 The plates of brass and other scriptures are preserved to bring souls to salvation—The Jaredites were destroyed because of their wickedness—Their secret oaths and covenants must be kept from the people—Counsel with the Lord in all your doings—As the Liahona guided the Nephites, so the word of Christ leads men to eternal life. About 74 B.C.
 
----
 ###### 1 
 And now, my son Helaman, I command you that ye take the records which have been entrusted with me;
 

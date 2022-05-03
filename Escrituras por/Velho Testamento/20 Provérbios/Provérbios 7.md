@@ -1,22 +1,21 @@
 ---
 title: Provérbios 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 7
 [[Provérbios 6| <-- Provérbios 6]] | [[Provérbios]] | [[Provérbios 8|Provérbios 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A mulher imoral conduz o homem à destruição como o boi que vai para o matadouro — A casa da mulher adúltera é o caminho para o inferno.
 
----
 ###### 1 
 Filho meu, guarda as minhas palavras, e entesoura dentro de ti os meus mandamentos.
 

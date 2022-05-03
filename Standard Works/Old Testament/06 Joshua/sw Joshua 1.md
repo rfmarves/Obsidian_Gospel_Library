@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord speaks to Joshua—He is commanded to be of good courage, to meditate upon the law, and to keep the commandments—He prepares Israel to enter Canaan.
 
----
 ###### 1 
 Now after the death of Moses the servant of the  it came to pass, that the  spake unto Joshua the son of Nun, Moses’ minister, saying,
 

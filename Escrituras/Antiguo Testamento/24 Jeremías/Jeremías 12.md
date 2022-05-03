@@ -1,22 +1,21 @@
 ---
 title: Jeremías 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 12
 [[Jeremías 11| <-- Jeremías 11]] | [[Jeremías]] | [[Jeremías 13|Jeremías 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías se queja de la prosperidad de los malvados — Si otras naciones aprenden los caminos de Israel, serán contadas con Israel.
 
----
 ###### 1 
 Justo eres tú, oh Jehová, cuando yo contiendo contigo; sin embargo, hablaré contigo sobre tus juicios. ¿Por qué es prosperado el camino de los malvados,  les va bien a todos los que se portan deslealmente?
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 25
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 25
 [[1 Crónicas 24| <-- 1 Crónicas 24]] | [[1 Crónicas]] | [[1 Crónicas 26|1 Crónicas 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se asignan por suertes los deberes de los cantores y de los músicos levitas.
 
----
 ###### 1 
 Asimismo David y los jefes del ejército apartaron para el servicio a los hijos de Asaf, y de Hemán y de Jedutún, los que habían de profetizar con arpas, con salterios y con címbalos; y el número de hombres para la obra según su servicio fue:
 

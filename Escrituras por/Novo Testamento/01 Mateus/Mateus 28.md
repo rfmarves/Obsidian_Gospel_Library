@@ -1,22 +1,21 @@
 ---
 title: Mateus 28
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 28
 [[Mateus 27| <-- Mateus 27]] | [[Mateus]] | [[Marcos 1|Marcos 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/28?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/28?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo, o Senhor, ressuscita — Ele aparece a muitos — Ele tem todo o poder no céu e na Terra — Ele envia os Apóstolos para ensinar e batizar todas as nações.
 
----
 ###### 1 
 E no fim do sábado, quando já despontava o primeiro  da semana, Maria Madalena e a outra Maria foram ver o sepulcro;
 

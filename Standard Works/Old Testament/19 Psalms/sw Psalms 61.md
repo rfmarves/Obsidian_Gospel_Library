@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 61
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 61
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/61?lang=eng)
 
----
+```
 To the chief Musician upon Neginah, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David finds shelter in the Lord, abides in the Lord’s presence, and keeps his own vows.
 
----
 ###### 1 
 Hear my cry, O God; attend unto my prayer.
 

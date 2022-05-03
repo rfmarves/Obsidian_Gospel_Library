@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Elijah is sent to meet Ahab—Obadiah saves a hundred prophets and meets Elijah—Elijah challenges the prophets of Baal to call down fire from heaven—They fail—He calls down fire, slays the prophets of Baal, and opens the heavens for rain.
 
----
 ###### 1 
 And it came to pass  many days, that the word of the  came to Elijah in the third year, saying, Go, shew thyself unto Ahab; and I will send rain upon the earth.
 

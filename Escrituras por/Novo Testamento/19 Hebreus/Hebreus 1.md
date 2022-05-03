@@ -1,22 +1,21 @@
 ---
 title: Hebreus 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreus 1
 [[Filemom 1| <-- Filemom 1]] | [[Hebreus]] | [[Hebreus 2|Hebreus 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Filho é a expressa imagem da pessoa do Pai — Cristo é o Filho Unigênito e está, portanto, acima dos anjos.
 
----
 ###### 1 
 Havendo Deus antigamente falado muitas vezes, e de muitas maneiras, aos pais, pelos profetas,
 

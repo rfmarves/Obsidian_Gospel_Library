@@ -1,22 +1,21 @@
 ---
 title: Eclesiastes 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastes 7
 [[Eclesiastes 6| <-- Eclesiastes 6]] | [[Eclesiastes]] | [[Eclesiastes 8|Eclesiastes 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A sabedoria dá vida ao seu possuidor — Todos os homens são pecadores — Deus fez o homem reto.
 
----
 ###### 1 
 Melhor  a  fama do que o melhor unguento; e o dia da morte, do que o dia do nascimento de alguém.
 

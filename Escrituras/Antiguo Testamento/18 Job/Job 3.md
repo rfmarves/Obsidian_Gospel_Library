@@ -1,22 +1,21 @@
 ---
 title: Job 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 3
 [[Job 2| <-- Job 2]] | [[Job]] | [[Job 4|Job 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Job maldice las circunstancias de su nacimiento — Él pregunta: ¿Por qué no morí en la matriz?
 
----
 ###### 1 
 Después de esto abrió Job su boca y maldijo su día.
 

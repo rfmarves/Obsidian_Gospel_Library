@@ -1,22 +1,21 @@
 ---
 title: 2 Corintios 7
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Corintios 7
 [[2 Corintios 6| <-- 2 Corintios 6]] | [[2 Corintios]] | [[2 Corintios 8|2 Corintios 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La tristeza (derivada del pecado) que es según Dios produce arrepentimiento — La tristeza del mundo produce muerte.
 
----
 ###### 1 
 Así que, amados, ya que tenemos estas promesas, limpiémonos de toda inmundicia de carne y de espíritu, perfeccionando la santidad en el temor de Dios.
 

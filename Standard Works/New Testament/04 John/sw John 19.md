@@ -1,10 +1,11 @@
 ---
 title: sw John 19
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus is scourged and crucified—He places His mother in John’s care—He dies and His side is pierced with a spear—He is buried in the tomb of Joseph of Arimathæa.
 
----
 ###### 1 
 Then Pilate therefore took Jesus, and scourged 
 

@@ -1,22 +1,21 @@
 ---
 title: Joel 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Joel 2
 [[Joel 1| <-- Joel 1]] | [[Joel]] | [[Joel 3|Joel 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/joel/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/joel/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Guerra e desolação precederão a Segunda Vinda — O sol e a lua escurecerão — O Senhor vai derramar o Seu Espírito sobre toda a carne — Haverá sonhos e visões.
 
----
 ###### 1 
 Tocai a buzina em Sião, e clamai em alta voz no monte da minha santidade; perturbem-se todos os moradores da terra, porque o dia do  vem, porque  perto;
 

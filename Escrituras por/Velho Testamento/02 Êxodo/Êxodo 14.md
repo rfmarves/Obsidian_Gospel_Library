@@ -1,22 +1,21 @@
 ---
 title: Êxodo 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 14
 [[Êxodo 13| <-- Êxodo 13]] | [[Êxodo]] | [[Êxodo 15|Êxodo 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel sai do Egito — Israel atravessa o Mar Vermelho em terra seca — O Senhor derrota os egípcios no meio do mar.
 
----
 ###### 1 
 Então falou o  a Moisés, dizendo:
 

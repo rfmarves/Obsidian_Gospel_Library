@@ -1,22 +1,21 @@
 ---
 title: Helamán 15
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 15
 [[Helamán 14| <-- Helamán 14]] | [[Helamán]] | [[Helamán 16|Helamán 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Señor disciplinó a los nefitas porque los amaba — Los lamanitas convertidos son firmes e inmutables en la fe — El Señor será misericordioso con los lamanitas en los días postreros. Aproximadamente 6 a.C.
 
----
 ###### 1 
 Y ahora bien, amados hermanos míos, he aquí, os declaro que a menos que os arrepintáis, vuestras casas os quedarán desiertas.
 

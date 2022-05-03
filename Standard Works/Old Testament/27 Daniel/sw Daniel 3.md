@@ -1,10 +1,11 @@
 ---
 title: sw Daniel 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Daniel 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nebuchadnezzar creates a golden image and commands all men to worship it—Shadrach, Meshach, and Abed-nego refuse and are cast into the fiery furnace—They are preserved and come out unharmed.
 
----
 ###### 1 
 Nebuchadnezzar the king made an image of gold, whose height  threescore cubits,  the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon.
 

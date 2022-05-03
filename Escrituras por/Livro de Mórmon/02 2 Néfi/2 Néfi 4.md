@@ -1,22 +1,21 @@
 ---
 title: 2 Néfi 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Néfi 4
 [[2 Néfi 3| <-- 2 Néfi 3]] | [[2 Néfi]] | [[2 Néfi 5|2 Néfi 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Leí aconselha e abençoa sua posteridade — Morre e é sepultado — Néfi gloria-se na bondade de Deus — Néfi deposita sua confiança no Senhor para sempre. Aproximadamente 588–570 a.C.
 
----
 ###### 1 
 E agora eu, Néfi, falo sobre as profecias mencionadas por meu pai, referentes a José que foi levado para o Egito.
 

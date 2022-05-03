@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses and Aaron ask Pharaoh to free Israel—Pharaoh responds, Who is the Lord?—He places greater burdens upon the children of Israel.
 
----
 ###### 1 
 And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the  God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.
 

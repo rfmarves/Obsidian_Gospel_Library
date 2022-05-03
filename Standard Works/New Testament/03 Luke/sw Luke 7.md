@@ -1,10 +1,11 @@
 ---
 title: sw Luke 7
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus heals the centurion’s servant—Jesus raises from death the son of the widow of Nain—He praises John the Baptist as more than a prophet—A woman anoints Jesus’ feet, and He forgives her sins.
 
----
 ###### 1 
 Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.
 

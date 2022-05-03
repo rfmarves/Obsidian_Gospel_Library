@@ -1,22 +1,21 @@
 ---
 title: Gênesis 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 22
 [[Gênesis 21| <-- Gênesis 21]] | [[Gênesis]] | [[Gênesis 23|Gênesis 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ordena-se a Abraão que sacrifique seu filho Isaque — Tanto o pai quanto o filho se submetem à vontade de Deus — A semente de Abraão será tão numerosa quanto as estrelas do céu e como a areia da praia — Em sua semente todas as nações serão abençoadas — Betuel gera Rebeca.
 
----
 ###### 1 
 E aconteceu, depois dessas coisas, que Deus pôs à prova Abraão, e disse-lhe: Abraão! E ele disse: Eis-me 
 

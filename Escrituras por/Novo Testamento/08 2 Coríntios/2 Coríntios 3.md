@@ -1,22 +1,21 @@
 ---
 title: 2 Coríntios 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Coríntios 3
 [[2 Coríntios 2| <-- 2 Coríntios 2]] | [[2 Coríntios]] | [[2 Coríntios 4|2 Coríntios 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O evangelho supera a lei de Moisés — Onde está o Espírito do Senhor, aí há liberdade.
 
----
 ###### 1 
 Porventura começamos outra vez a recomendar-nos a nós mesmos? Ou necessitamos, como alguns, de cartas de recomendação para vós, ou de recomendação de vós?
 

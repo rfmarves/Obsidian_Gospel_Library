@@ -1,10 +1,11 @@
 ---
 title: sw Zechariah 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zechariah 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Zechariah crowns Joshua, the high priest, in similitude of Christ, the Branch, who will come—Christ will be a priest upon His throne forever.
 
----
 ###### 1 
 And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains  mountains of brass.
 

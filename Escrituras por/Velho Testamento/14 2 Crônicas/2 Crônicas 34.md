@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 34
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 34
 [[2 Crônicas 33| <-- 2 Crônicas 33]] | [[2 Crônicas]] | [[2 Crônicas 35|2 Crônicas 35 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/34?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/34?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Josias acaba com a idolatria em Judá — O povo de Judá repara a casa do Senhor — Hilquias descobre um livro da lei — Hulda, a profetisa, revela as desolações que hão de vir sobre o povo — Josias e o povo fazem convênio de servir ao Senhor.
 
----
 ###### 1 
 Tinha Josias oito anos quando começou a reinar, e trinta e um anos reinou em Jerusalém.
 

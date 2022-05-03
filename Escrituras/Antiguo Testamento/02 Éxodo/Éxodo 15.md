@@ -1,22 +1,21 @@
 ---
 title: Éxodo 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 15
 [[Éxodo 14| <-- Éxodo 14]] | [[Éxodo]] | [[Éxodo 16|Éxodo 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel canta el cántico de Moisés — Israel enaltece a Jehová como varón de guerra y se regocija en su liberación de Egipto — Las aguas de Mara son sanadas — Jehová promete librar a Israel de las enfermedades de Egipto.
 
----
 ###### 1 
 Entonces cantaron Moisés y los hijos de Israel este cántico a Jehová y dijeron:
 

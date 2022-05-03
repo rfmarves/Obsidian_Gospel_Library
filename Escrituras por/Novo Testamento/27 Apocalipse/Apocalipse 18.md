@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 18
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 18
 [[Apocalipse 17| <-- Apocalipse 17]] | [[Apocalipse]] | [[Apocalipse 19|Apocalipse 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos são chamados para fora da Babilônia, para que não participem de seus pecados — Ela cai e seus seguidores lamentam por ela.
 
----
 ###### 1 
 E depois dessas  vi descer do céu outro anjo, que tinha grande poder, e a terra foi iluminada com sua glória.
 

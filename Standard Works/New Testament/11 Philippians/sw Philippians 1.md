@@ -1,10 +1,11 @@
 ---
 title: sw Philippians 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Philippians 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/philip/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 All that happened to Paul furthered the gospel cause—Our conduct should be worthy of the gospel.
 
----
 ###### 1 
 Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
 

@@ -1,22 +1,21 @@
 ---
 title: Proverbios 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 4
 [[Proverbios 3| <-- Proverbios 3]] | [[Proverbios]] | [[Proverbios 5|Proverbios 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Guarda los mandamientos y vivirás — Con todo lo que adquieras, adquiere entendimiento — No vayas por el camino de los malvados.
 
----
 ###### 1 
 
 

@@ -1,22 +1,21 @@
 ---
 title: Levítico 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 7
 [[Levítico 6| <-- Levítico 6]] | [[Levítico]] | [[Levítico 8|Levítico 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Enumeram-se as leis que regem diversos sacrifícios — Proíbe-se aos filhos de Israel comer gordura ou sangue — Eles adoram por meio de sacrifício — Por meio de sacrifício, recebem o perdão, fazem votos, consagram propriedades, dão graças e se reconciliam com Deus.
 
----
 ###### 1 
 E esta  a lei da oferta pela culpa; coisa santíssima 
 

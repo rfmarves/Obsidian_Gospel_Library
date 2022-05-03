@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Zedekiah and the people of Judah will be cursed and scattered—Some will be gathered back from Chaldea to serve the Lord.
 
----
 ###### 1 
 The  shewed me, and, behold, two baskets of figs  set before the temple of the , after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon.
 

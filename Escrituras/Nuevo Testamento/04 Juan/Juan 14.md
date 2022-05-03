@@ -1,22 +1,21 @@
 ---
 title: Juan 14
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 14
 [[Juan 13| <-- Juan 13]] | [[Juan]] | [[Juan 15|Juan 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús habla de muchas moradas — Dice que Él es el camino, la verdad y la vida, y que verle a Él es ver al Padre — Promete el primer y el segundo Consolador.
 
----
 ###### 1 
 No se turbe vuestro corazón; creéis en Dios, creed también en mí.
 

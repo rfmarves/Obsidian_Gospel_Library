@@ -1,10 +1,11 @@
 ---
 title: sw 2 Corinthians 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Corinthians 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The gospel surpasses the law of Moses—Where the Spirit of the Lord is, there is liberty.
 
----
 ###### 1 
 Do we begin again to commend ourselves? or need we, as some  epistles of commendation to you, or  of commendation from you?
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 43
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 43
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/43?lang=eng)
 
----
-__Summary__
+> __Summary__
 The righteous praise God and cry, Send out Thy light and Thy truth.
 
----
 ###### 1 
 Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.
 

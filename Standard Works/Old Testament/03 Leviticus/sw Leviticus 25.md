@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 Each seventh year is to be kept as a sabbath year—Each fiftieth year is to be one of jubilee, in which liberty is proclaimed throughout the land—Laws are revealed for the sale and redemption of lands, houses, and servants—The land is the Lord’s, as are the servants—Usury is forbidden.
 
----
 ###### 1 
 And the  spake unto Moses in mount Sinai, saying,
 

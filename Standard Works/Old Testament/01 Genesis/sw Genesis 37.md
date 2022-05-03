@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 37
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 37
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/37?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob loves and favors Joseph, who is hated by his brothers—Joseph dreams that his parents and brothers make obeisance to him—His brothers sell him into Egypt.
 
----
 ###### 1 
 And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.
 

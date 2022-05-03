@@ -1,10 +1,11 @@
 ---
 title: sw Daniel 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Daniel 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Daniel fasts, confesses, and prays for all Israel—Gabriel reveals the time of the coming of the Messiah, who will make reconciliation for iniquity—The Messiah will be cut off.
 
----
 ###### 1 
 In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;
 

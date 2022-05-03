@@ -1,16 +1,17 @@
 ---
 title: Introducción del Libro de Mormón
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Introducción del Libro de Mormón
 [[Portada del Libro de Mormón| <-- Portada del Libro de Mormón]] | [[Introducción y Testimonios]] | [[Testimonio de Tres Testigos|Testimonio de Tres Testigos --> ]]
 
-[En línea](https://www.churchofjesuschrist.org/study/scriptures/bofm/introduction?lang=spa)
+[en línea](https://www.churchofjesuschrist.org/study/scriptures/bofm/introduction?lang=spa)
 
 El Libro de Mormón es un volumen de escritura sagrada semejante a la Biblia. Es una historia de la comunicación de Dios con antiguos habitantes de las Américas y contiene la plenitud del Evangelio eterno.
 

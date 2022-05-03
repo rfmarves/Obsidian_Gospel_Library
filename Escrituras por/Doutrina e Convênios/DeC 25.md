@@ -1,22 +1,21 @@
 ---
 title: DeC 25
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 25
 [[DeC 24| <-- DeC 24]] | [[DeC]] | [[DeC 26|DeC 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–6, Emma Smith, uma mulher eleita, é chamada para ajudar e consolar o marido; 7–11, Ela também é chamada para escrever, explicar as escrituras e selecionar hinos; 12–14, O canto dos justos é uma prece ao Senhor; 15–16, Os princípios de obediência contidos nesta revelação aplicam-se a todos.
 
----
 ###### 1 
 Escuta a voz do Senhor teu Deus, enquanto me dirijo a ti, Emma Smith, minha filha; pois em verdade eu te digo: Todos os que recebem meu evangelho são filhos e filhas em meu reino.
 

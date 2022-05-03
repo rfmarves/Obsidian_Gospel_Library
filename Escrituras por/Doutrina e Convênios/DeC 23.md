@@ -1,22 +1,21 @@
 ---
 title: DeC 23
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 23
 [[DeC 22| <-- DeC 22]] | [[DeC]] | [[DeC 24|DeC 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–7, Estes primeiros discípulos são chamados para pregar, exortar e fortalecer a Igreja.
 
----
 ###### 1 
 Eis que te digo algumas palavras, Oliver. Eis que abençoado és e não estás sob condenação alguma. Acautela-te, porém, contra o orgulho, para que não caias em tentação.
 

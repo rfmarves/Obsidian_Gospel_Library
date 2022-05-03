@@ -1,10 +1,11 @@
 ---
 title: sw Alma 55
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 55
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/55?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moroni refuses to exchange prisoners—The Lamanite guards are enticed to become drunk, and the Nephite prisoners are freed—The city of Gid is taken without bloodshed. About 63–62 B.C.
 
----
 ###### 1 
 Now it came to pass that when Moroni had received this epistle he was more angry, because he knew that Ammoron had a perfect knowledge of his fraud; yea, he knew that Ammoron knew that it was not a just cause that had caused him to wage a war against the people of Nephi.
 

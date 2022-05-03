@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 13
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 13
 [[Apocalipse 12| <-- Apocalipse 12]] | [[Apocalipse]] | [[Apocalipse 14|Apocalipse 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 João vê bestas de aparência feroz que representam reinos terrenos degenerados, controlados por Satanás — O diabo realiza milagres e engana os homens.
 
----
 ###### 1 
 E eu pus-me sobre a areia do mar, e vi subir do mar uma besta que tinha sete cabeças e dez chifres, e sobre os seus chifres, dez diademas, e sobre as suas cabeças, um nome de blasfêmia.
 

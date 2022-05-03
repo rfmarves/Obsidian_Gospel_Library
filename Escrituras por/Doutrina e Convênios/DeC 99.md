@@ -1,22 +1,21 @@
 ---
 title: DeC 99
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 99
 [[DeC 98| <-- DeC 98]] | [[DeC]] | [[DeC 100|DeC 100 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/99?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/99?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–8, John Murdock é chamado para proclamar o evangelho; e os que receberem John Murdock receberão o Senhor e obterão misericórdia.
 
----
 ###### 1 
 Eis que assim diz o Senhor a meu servo John Murdock: Tu és chamado para ir às regiões do leste, de casa em casa, de povoado em povoado e de cidade em cidade, a fim de proclamar o evangelho eterno a seus habitantes, em meio a perseguições e iniquidades.
 

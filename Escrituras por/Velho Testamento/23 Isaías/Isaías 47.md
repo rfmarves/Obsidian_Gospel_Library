@@ -1,22 +1,21 @@
 ---
 title: Isaías 47
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 47
 [[Isaías 46| <-- Isaías 46]] | [[Isaías]] | [[Isaías 48|Isaías 48 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/47?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/47?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Babilônia e Caldeia serão destruídas por suas iniquidades — Ninguém as salvará.
 
----
 ###### 1 
 Desce, e assenta-te no pó, ó virgem filha de Babilônia; assenta-te no chão;  não  trono, ó filha dos caldeus, porque nunca mais serás chamada a tenra nem a delicada.
 

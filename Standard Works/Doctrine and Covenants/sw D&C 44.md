@@ -1,10 +1,11 @@
 ---
 title: sw D&C 44
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 44
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/44?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, Elders are to assemble in conference; 4–6, They are to organize according to the laws of the land and to care for the poor.
 
----
 ###### 1 
 Behold, thus saith the Lord unto you my servants, it is expedient in me that the elders of my church should be called together, from the east and from the west, and from the north and from the south, by letter or some other way.
 

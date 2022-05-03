@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 2
 [[Ezequiel 1| <-- Ezequiel 1]] | [[Ezequiel]] | [[Ezequiel 3|Ezequiel 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se llama a Ezequiel a llevar la palabra de Jehová a Israel — Ve un libro en el que están escritos gemidos y lamentaciones.
 
----
 ###### 1 
 Y me dijo: Hijo de hombre, ponte sobre tus pies, y hablaré contigo.
 

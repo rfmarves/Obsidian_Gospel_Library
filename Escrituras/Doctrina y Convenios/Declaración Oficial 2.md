@@ -1,16 +1,17 @@
 ---
 title: Declaración Oficial 2
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Declaración Oficial 2
 [[Declaración Oficial 1| <-- Declaración Oficial 1]] | [[Declaración Oficial]] |
 
-[En línea](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/2?lang=spa)
+[en línea](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/2?lang=spa)
 
 A quien corresponda:
 

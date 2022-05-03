@@ -1,22 +1,21 @@
 ---
 title: Jueces 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 18
 [[Jueces 17| <-- Jueces 17]] | [[Jueces]] | [[Jueces 19|Jueces 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La tribu de Dan envía hombres para buscar una heredad — Toman las imágenes y al sacerdote de Micaía; incendian la ciudad de Lais y establecen la idolatría.
 
----
 ###### 1 
 En aquellos días no había rey en Israel. Y en aquellos días la tribu de Dan buscaba para sí heredad donde morar, porque hasta entonces no había obtenido su heredad entre las tribus de Israel.
 

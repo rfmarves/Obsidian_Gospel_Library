@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 An immoral woman leads a man to destruction as an ox to the slaughter—The house of an adulterous woman is the way to hell.
 
----
 ###### 1 
 My son, keep my words, and lay up my commandments with thee.
 

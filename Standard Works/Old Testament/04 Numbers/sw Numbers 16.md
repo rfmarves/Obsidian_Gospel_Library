@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Korah, Dathan, Abiram, and 250 leaders rebel and seek priestly offices—The earth swallows the three rebels and their families—Fire from the Lord consumes the 250 rebels—Israel murmurs against Moses and Aaron for slaying the people—The Lord sends a plague, from which 14,700 die.
 
----
 ###### 1 
 Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took 
 

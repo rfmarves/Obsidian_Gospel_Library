@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 21
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 The stem of Jesse (Christ) will judge in righteousness—The knowledge of God will cover the earth in the Millennium—The Lord will raise an ensign and gather Israel—Compare Isaiah 11. About 559–545 B.C.
 
----
 ###### 1 
 And there shall come forth a rod out of the stem of Jesse, and a branch shall grow out of his roots.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Juan 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Juan 2
 [[1 Juan 1| <-- 1 Juan 1]] | [[1 Juan]] | [[1 Juan 3|1 Juan 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cristo es nuestro abogado ante el Padre — Conocemos a Dios por medio de la obediencia — No améis al mundo — En los últimos días habrá anticristos.
 
----
 ###### 1 
 Hijitos míos, estas cosas os escribo para que no pequéis; pero si alguno ha pecado, abogado tenemos para con el Padre, a Jesucristo, el justo;
 

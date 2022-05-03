@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 6
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Church members should not fight one another in the courts—The unrighteous will not be saved—True Saints are the temple of the Holy Ghost.
 
----
 ###### 1 
 Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?
 

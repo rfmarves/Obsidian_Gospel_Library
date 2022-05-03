@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 4
 [[2 Reyes 3| <-- 2 Reyes 3]] | [[2 Reyes]] | [[2 Reyes 5|2 Reyes 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Eliseo aumenta el aceite de la viuda — Promete un hijo a una mujer sunamita — El niño muere y Eliseo le restaura la vida — Él hace que el potaje envenenado no haga daño — Se multiplican el pan y el trigo para que la gente coma.
 
----
 ###### 1 
 Una mujer, de las esposas de los hijos de los profetas, clamó a Eliseo, diciendo: Tu siervo, mi marido, ha muerto, y tú sabes que tu siervo era temeroso de Jehová; y ha venido el acreedor para llevarse a dos hijos míos como siervos.
 

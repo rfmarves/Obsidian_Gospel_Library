@@ -1,22 +1,21 @@
 ---
 title: Mosíah 22
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 22
 [[Mosíah 21| <-- Mosíah 21]] | [[Mosíah]] | [[Mosíah 23|Mosíah 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se hacen planes para que el pueblo se libre del yugo de los lamanitas — Se emborracha a los lamanitas — El pueblo se escapa, vuelve a Zarahemla y se hace súbdito del rey Mosíah. Aproximadamente 121–120 a.C.
 
----
 ###### 1 
 Y aconteció que Ammón y el rey Limhi empezaron a consultar con el pueblo en cuanto a cómo podrían librarse del cautiverio; y aun hicieron reunir a todo el pueblo; y así obraron para saber el parecer del pueblo tocante al asunto.
 

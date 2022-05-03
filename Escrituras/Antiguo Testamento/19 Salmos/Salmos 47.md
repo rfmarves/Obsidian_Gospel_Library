@@ -1,27 +1,25 @@
 ---
 title: Salmos 47
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 47
 [[Salmos 46| <-- Salmos 46]] | [[Salmos]] | [[Salmos 48|Salmos 48 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/47?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/47?lang=spa)
 
----
+```
 Al músico principal. Salmo de los hijos de Coré.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Jehová es Rey sobre toda la tierra — Cantad alabanzas a Su nombre, porque Él reina sobre todo.
 
----
 ###### 1 
 
 

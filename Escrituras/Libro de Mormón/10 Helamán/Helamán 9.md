@@ -1,22 +1,21 @@
 ---
 title: Helamán 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 9
 [[Helamán 8| <-- Helamán 8]] | [[Helamán]] | [[Helamán 10|Helamán 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los mensajeros encuentran al juez superior muerto en el asiento judicial — Son encarcelados y más adelante se les pone en libertad — Por inspiración, Nefi identifica a Seántum como el asesino — Algunos aceptan a Nefi como profeta. Aproximadamente 23–21 a.C.
 
----
 ###### 1 
 Y he aquí, aconteció que cuando Nefi hubo hablado estas palabras, ciertos hombres que estaban entre ellos corrieron al asiento judicial; sí, y eran cinco los que fueron, y decían entre sí, mientras iban:
 

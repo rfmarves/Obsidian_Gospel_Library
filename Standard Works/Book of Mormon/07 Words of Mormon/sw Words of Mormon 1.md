@@ -1,10 +1,11 @@
 ---
 title: sw Words of Mormon 1
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Words of Mormon 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/w-of-m/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mormon abridges the large plates of Nephi—He puts the small plates with the other plates—King Benjamin establishes peace in the land. About A.D. 385.
 
----
 ###### 1 
 And now I, Mormon, being about to deliver up the record which I have been making into the hands of my son Moroni, behold I have witnessed almost all the destruction of my people, the Nephites.
 

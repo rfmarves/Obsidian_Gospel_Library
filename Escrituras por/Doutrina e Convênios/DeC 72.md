@@ -1,22 +1,21 @@
 ---
 title: DeC 72
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 72
 [[DeC 71| <-- DeC 71]] | [[DeC]] | [[DeC 73|DeC 73 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/72?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/72?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–8, Os élderes devem prestar contas de sua mordomia ao bispo; 9–15, O bispo mantém o armazém e cuida dos pobres e necessitados; 16–26, Os bispos devem fornecer certificados da dignidade dos élderes.
 
----
 ###### 1 
 Escutai e dai ouvidos à voz do Senhor, ó vós que vos reunistes, que sois os sumos sacerdotes de minha igreja, a quem foram dados o reino e o poder.
 

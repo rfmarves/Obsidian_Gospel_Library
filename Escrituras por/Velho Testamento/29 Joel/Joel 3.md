@@ -1,22 +1,21 @@
 ---
 title: Joel 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Joel 3
 [[Joel 2| <-- Joel 2]] | [[Joel]] | [[Amós 1|Amós 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/joel/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/joel/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Todas as nações estarão em guerra — Multidões estarão no vale da decisão quando a Segunda Vinda se aproximar — O Senhor habitará em Sião.
 
----
 ###### 1 
 Porque, eis que naqueles dias, e naquele tempo, em que farei retornar do cativeiro Judá e Jerusalém,
 

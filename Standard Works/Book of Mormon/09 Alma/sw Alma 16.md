@@ -1,10 +1,11 @@
 ---
 title: sw Alma 16
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lamanites destroy the people of Ammonihah—Zoram leads the Nephites to victory over the Lamanites—Alma and Amulek and many others preach the word—They teach that after His Resurrection Christ will appear to the Nephites. About 81–77 B.C.
 
----
 ###### 1 
 And it came to pass in the eleventh year of the reign of the judges over the people of Nephi, on the fifth day of the second month, there having been much peace in the land of Zarahemla, there having been no wars nor contentions for a certain number of years, even until the fifth day of the second month in the eleventh year, there was a cry of war heard throughout the land.
 

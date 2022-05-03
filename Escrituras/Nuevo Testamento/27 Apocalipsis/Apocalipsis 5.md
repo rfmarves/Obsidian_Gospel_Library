@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 5
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 5
 [[Apocalipsis 4| <-- Apocalipsis 4]] | [[Apocalipsis]] | [[Apocalipsis 6|Apocalipsis 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Juan ve el libro sellado con siete sellos y a los redimidos de todas las naciones — Él oye a toda criatura alabando a Dios y al Cordero.
 
----
 ###### 1 
 Y vi en la mano derecha del que estaba sentado en el trono un libro escrito por dentro y por fuera, sellado con siete sellos.
 

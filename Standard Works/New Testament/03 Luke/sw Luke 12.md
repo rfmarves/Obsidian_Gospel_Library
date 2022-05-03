@@ -1,10 +1,11 @@
 ---
 title: sw Luke 12
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus teaches, Beware of hypocrisy; lay up treasures in heaven rather than on earth; prepare for the coming of the Lord; where much is given, much is required; preaching the gospel causes division.
 
----
 ###### 1 
 In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.
 

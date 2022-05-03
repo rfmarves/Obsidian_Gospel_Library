@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 43
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 43
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/43?lang=eng)
 
----
-__Summary__
+> __Summary__
 The glory of God fills the temple—His throne is there, and He promises to dwell in the midst of Israel forever—Ezekiel sees the altar and the ordinances of the altar.
 
----
 ###### 1 
 Afterward he brought me to the gate,  the gate that looketh toward the east:
 

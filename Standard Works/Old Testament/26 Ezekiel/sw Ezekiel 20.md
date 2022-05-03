@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 From the time of their deliverance from Egypt to the day of Ezekiel, the people of Israel have rebelled and failed to keep the commandments—In the last days, the Lord will gather Israel and restore His gospel covenant.
 
----
 ###### 1 
 And it came to pass in the seventh year, in the fifth  the tenth  of the month,  certain of the elders of Israel came to inquire of the , and sat before me.
 

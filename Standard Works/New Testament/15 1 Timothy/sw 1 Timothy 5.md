@@ -1,10 +1,11 @@
 ---
 title: sw 1 Timothy 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Timothy 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saints are to care for their worthy poor—Policies concerning elders are given.
 
----
 ###### 1 
 Rebuke not an elder, but entreat  as a father;  the younger men as brethren;
 

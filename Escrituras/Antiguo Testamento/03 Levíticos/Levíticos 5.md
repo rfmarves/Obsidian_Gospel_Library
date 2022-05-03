@@ -1,22 +1,21 @@
 ---
 title: Levíticos 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 5
 [[Levíticos 4| <-- Levíticos 4]] | [[Levíticos]] | [[Levíticos 6|Levíticos 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El pueblo debe confesar sus pecados y hacer restitución por ellos — El perdón es posible mediante una ofrenda por la culpa — Los sacerdotes hacen ofrenda de expiación por el pecado.
 
----
 ###### 1 
 Y si alguna persona peca al oír la voz de juramento, y es testigo de lo que vio o supo y no lo denuncia, llevará su culpa.
 

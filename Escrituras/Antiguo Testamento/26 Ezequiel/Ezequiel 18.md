@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 18
 [[Ezequiel 17| <-- Ezequiel 17]] | [[Ezequiel]] | [[Ezequiel 19|Ezequiel 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hombres serán castigados por sus propios pecados — Los pecadores morirán y los justos ciertamente vivirán — El hombre justo que peque será condenado y el pecador que se arrepienta será salvo.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

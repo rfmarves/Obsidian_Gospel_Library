@@ -1,22 +1,21 @@
 ---
 title: 1 Timoteo 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Timoteo 3
 [[1 Timoteo 2| <-- 1 Timoteo 2]] | [[1 Timoteo]] | [[1 Timoteo 4|1 Timoteo 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se dan los requisitos que deben cumplir los obispos y los diáconos — Grande es el misterio de la divinidad.
 
----
 ###### 1 
 Palabra fiel: Si alguno desea el cargo de obispo, buena obra desea.
 

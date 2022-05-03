@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 40
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 40
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/40?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A messianic psalm of David—The Messiah will come and preach righteousness—He will declare salvation—The righteous will say, The Lord be magnified.
 
----
 ###### 1 
 I waited patiently for the ; and he inclined unto me, and heard my cry.
 

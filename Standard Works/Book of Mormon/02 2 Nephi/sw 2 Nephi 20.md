@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 20
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 The destruction of Assyria is a type of the destruction of the wicked at the Second Coming—Few people will be left after the Lord comes again—The remnant of Jacob will return in that day—Compare Isaiah 10. About 559–545 B.C.
 
----
 ###### 1 
 Wo unto them that decree unrighteous decrees, and that write grievousness which they have prescribed;
 

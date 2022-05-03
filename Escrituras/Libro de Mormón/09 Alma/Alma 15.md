@@ -1,22 +1,21 @@
 ---
 title: Alma 15
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 15
 [[Alma 14| <-- Alma 14]] | [[Alma]] | [[Alma 16|Alma 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Alma y Amulek van a Sidom y establecen una iglesia — Alma sana a Zeezrom, el cual se une a la Iglesia — Muchos son bautizados, y la Iglesia prospera — Alma y Amulek parten para Zarahemla. Aproximadamente 81 a.C.
 
----
 ###### 1 
 Y sucedió que se mandó a Alma y Amulek que salieran de aquella ciudad; y partieron y llegaron a la tierra de Sidom; y he aquí, en ese lugar hallaron a todos los que habían salido de la tierra de Ammoníah, los cuales habían sido expulsados y apedreados porque creyeron en las palabras de Alma.
 

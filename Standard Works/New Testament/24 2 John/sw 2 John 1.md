@@ -1,10 +1,11 @@
 ---
 title: sw 2 John 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 John 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-jn/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 John rejoices because the children of the elect lady are true and faithful.
 
----
 ###### 1 
 The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;
 

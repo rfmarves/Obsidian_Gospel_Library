@@ -1,10 +1,11 @@
 ---
 title: sw Job 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job, a just and perfect man, is blessed with great riches—Satan obtains permission from the Lord to tempt and try Job—Job’s property and children are destroyed, and yet he praises and blesses the Lord.
 
----
 ###### 1 
 There was a man in the land of Uz, whose name  Job; and that man was perfect and upright, and one that feared God, and eschewed evil.
 

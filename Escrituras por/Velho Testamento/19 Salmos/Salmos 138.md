@@ -1,27 +1,25 @@
 ---
 title: Salmos 138
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 138
 [[Salmos 137| <-- Salmos 137]] | [[Salmos]] | [[Salmos 139|Salmos 139 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/138?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/138?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi louva ao Senhor por Sua benignidade e verdade — Ele adora voltado para o santo templo.
 
----
 ###### 1 
 Eu te louvarei,  de todo o meu coração; na presença dos deuses a ti cantarei louvores.
 

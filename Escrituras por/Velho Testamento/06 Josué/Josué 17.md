@@ -1,22 +1,21 @@
 ---
 title: Josué 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 17
 [[Josué 16| <-- Josué 16]] | [[Josué]] | [[Josué 18|Josué 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Tanto Manassés quanto Efraim recebem herança adicional — Efraim há de expulsar os cananeus da região montanhosa.
 
----
 ###### 1 
 Também caiu a sorte à tribo de Manassés, porquanto era o primogênito de José,  Maquir, o primogênito de Manassés, pai de Gileade, porquanto era homem de guerra, recebeu Gileade e Basã.
 

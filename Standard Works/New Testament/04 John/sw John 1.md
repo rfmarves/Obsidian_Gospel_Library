@@ -1,10 +1,11 @@
 ---
 title: sw John 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ is the Word of God—He created all things and was made flesh—John baptizes Jesus and testifies that He is the Lamb of God—John, Andrew, Simon, Philip, and Nathanael believe in Christ and follow Him.
 
----
 ###### 1 
 In the beginning was the Word, and the Word was with God, and the Word was God.
 

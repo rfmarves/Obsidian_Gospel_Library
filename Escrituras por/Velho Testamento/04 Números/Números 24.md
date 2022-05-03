@@ -1,22 +1,21 @@
 ---
 title: Números 24
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 24
 [[Números 23| <-- Números 23]] | [[Números]] | [[Números 25|Números 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Balaão tem uma visão e profetiza o destino de Israel — Ele profetiza a respeito do Messias: Uma estrela procederá de Jacó, e um cetro subirá de Israel.
 
----
 ###### 1 
 Vendo Balaão que bem parecia aos olhos do  que abençoasse Israel, não foi esta vez como antes ao encontro dos agouros, mas voltou o seu rosto para o deserto.
 

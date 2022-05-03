@@ -1,22 +1,21 @@
 ---
 title: Proverbios 27
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 27
 [[Proverbios 26| <-- Proverbios 26]] | [[Proverbios]] | [[Proverbios 28|Proverbios 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Deja que otro te alabe — El hombre prudente prevé el mal — El Seol y la perdición nunca se sacian.
 
----
 ###### 1 
 
 

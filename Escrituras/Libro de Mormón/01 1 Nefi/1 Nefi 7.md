@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 7
 [[1 Nefi 6| <-- 1 Nefi 6]] | [[1 Nefi]] | [[1 Nefi 8|1 Nefi 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de Lehi vuelven a Jerusalén e invitan a Ismael y a su familia a unirse a ellos en su viaje — Lamán y otros se rebelan — Nefi exhorta a sus hermanos a tener fe en el Señor — Lo atan con cuerdas y proyectan quitarle la vida — Es librado por el poder de la fe — Sus hermanos le piden perdón — Lehi y los que lo acompañan ofrecen sacrificios y holocaustos. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 Y ahora quisiera que supieseis que cuando mi padre Lehi hubo concluido de profetizar concerniente a su posteridad, el Señor le habló de nuevo, diciendo que no convenía que él, Lehi, llevase a su familia sola al desierto; sino que sus hijos debían tomar mujeres por esposas para levantar posteridad para el Señor en la tierra de promisión.
 

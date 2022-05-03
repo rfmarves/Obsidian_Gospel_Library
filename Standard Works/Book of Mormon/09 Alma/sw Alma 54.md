@@ -1,10 +1,11 @@
 ---
 title: sw Alma 54
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 54
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/54?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ammoron and Moroni negotiate for the exchange of prisoners—Moroni demands that the Lamanites withdraw and cease their murderous attacks—Ammoron demands that the Nephites lay down their arms and become subject to the Lamanites. About 63 B.C.
 
----
 ###### 1 
 And now it came to pass in the commencement of the twenty and ninth year of the judges, that Ammoron sent unto Moroni desiring that he would exchange prisoners.
 

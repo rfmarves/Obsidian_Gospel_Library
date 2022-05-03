@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 11
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 11
 [[2 Nefi 10| <-- 2 Nefi 10]] | [[2 Nefi]] | [[2 Nefi 12|2 Nefi 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob vio a su Redentor — La ley de Moisés simboliza a Cristo y prueba que Él vendrá. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Ahora bien, Jacob habló muchas otras cosas a mi pueblo en esa ocasión; sin embargo, solamente he hecho escribir estas cosas, porque lo que he escrito me basta.
 

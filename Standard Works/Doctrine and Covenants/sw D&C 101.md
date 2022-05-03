@@ -1,10 +1,11 @@
 ---
 title: sw D&C 101
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 101
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/101?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–8, The Saints are chastened and afflicted because of their transgressions; 9–15, The Lord’s indignation will fall upon the nations, but His people will be gathered and comforted; 16–21, Zion and her stakes will be established; 22–31, The nature of life during the Millennium is set forth; 32–42, The Saints will be blessed and rewarded then; 43–62, The parable of the nobleman and the olive trees signifies the troubles and eventual redemption of Zion; 63–75, The Saints are to continue gathering together; 76–80, The Lord established the Constitution of the United States; 81–101, The Saints are to importune for the redress of grievances, according to the parable of the woman and the unjust judge.
 
----
 ###### 1 
 Verily I say unto you, concerning your brethren who have been afflicted, and persecuted, and cast out from the land of their inheritance—
 

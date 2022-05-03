@@ -1,27 +1,25 @@
 ---
 title: Salmos 28
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 28
 [[Salmos 27| <-- Salmos 27]] | [[Salmos]] | [[Salmos 29|Salmos 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/28?lang=spa)
 
----
+```
 Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David suplica a Jehová que oiga su voz y le conceda sus peticiones — David ruega: Salva a Tu pueblo y bendice a Tu heredad.
 
----
 ###### 1 
 
 

@@ -1,22 +1,21 @@
 ---
 title: Malaquías 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Malaquías 2
 [[Malaquías 1| <-- Malaquías 1]] | [[Malaquías]] | [[Malaquías 3|Malaquías 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se reprende a los sacerdotes por no haber guardado los convenios que han hecho y por no haber enseñado al pueblo — Se condena a los judíos por actuar pérfidamente los unos con los otros y con sus esposas.
 
----
 ###### 1 
 Ahora pues, oh sacerdotes, para vosotros es este mandamiento:
 

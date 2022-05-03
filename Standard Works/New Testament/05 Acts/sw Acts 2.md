@@ -1,10 +1,11 @@
 ---
 title: sw Acts 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Spirit is poured out on the day of Pentecost—Peter testifies of Jesus’ resurrection—He tells how to gain salvation and speaks of the gift of the Holy Ghost—Many believe and are baptized.
 
----
 ###### 1 
 And when the day of Pentecost was fully come, they were all with one accord in one place.
 

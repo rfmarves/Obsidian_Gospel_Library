@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 13
 [[2 Samuel 12| <-- 2 Samuel 12]] | [[2 Samuel]] | [[2 Samuel 14|2 Samuel 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Amnón desea a Tamar, su hermana, y la fuerza — Se le da muerte por mandato de Absalón — Absalón huye a Gesur.
 
----
 ###### 1 
 Aconteció después de esto que, teniendo Absalón hijo de David una hermana muy hermosa que se llamaba Tamar, Amnón hijo de David se enamoró de ella.
 

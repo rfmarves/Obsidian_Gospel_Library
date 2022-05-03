@@ -1,22 +1,21 @@
 ---
 title: Mormón 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mormón 1
 [[4 Nefi 1| <-- 4 Nefi 1]] | [[Mormón]] | [[Mormón 2|Mormón 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ammarón da instrucciones a Mormón concernientes a los anales sagrados — Comienza la guerra entre los nefitas y los lamanitas — Se retira a los Tres Nefitas — Prevalecen la iniquidad, la incredulidad, los sortilegios y las hechicerías. Aproximadamente 321–326 d.C.
 
----
 ###### 1 
 Y ahora yo, Mormón, hago una relación de las cosas que he visto y oído; y la llamo el Libro de Mormón.
 

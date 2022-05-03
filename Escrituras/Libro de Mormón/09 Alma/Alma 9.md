@@ -1,27 +1,25 @@
 ---
 title: Alma 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 9
 [[Alma 8| <-- Alma 8]] | [[Alma]] | [[Alma 10|Alma 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/9?lang=spa)
 
----
+```
 Las palabras de Alma y también las palabras de Amulek, que se declararon al pueblo que se hallaba en la tierra de Ammoníah. Además, son encarcelados y librados por el milagroso poder de Dios que estaba en ellos, según los anales de Alma.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Alma manda al pueblo de Ammoníah que se arrepienta — El Señor será misericordioso para con los lamanitas en los últimos días — Si los nefitas abandonan la luz, serán destruidos por los lamanitas — El Hijo de Dios viene pronto — Él redimirá a aquellos que se arrepientan, se bauticen y tengan fe en Su nombre. Aproximadamente 82 a.C.
 
----
 ###### 1 
 Y además, yo, Alma, habiéndome mandado Dios que tomara a Amulek y fuera y predicara de nuevo a este pueblo, o sea, el pueblo que vivía en la ciudad de Ammoníah, sucedió que al empezar yo a predicarles, ellos comenzaron a contender conmigo diciendo:
 

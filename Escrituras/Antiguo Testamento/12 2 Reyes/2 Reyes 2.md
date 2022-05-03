@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 2
 [[2 Reyes 1| <-- 2 Reyes 1]] | [[2 Reyes]] | [[2 Reyes 3|2 Reyes 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Eliseo y los profetas saben que Elías el Profeta ha de ser trasladado — Elías el Profeta divide las aguas del Jordán y es llevado al cielo en un torbellino — El manto de Elías el Profeta recae sobre Eliseo, quien también divide las aguas del Jordán — Eliseo sana las aguas de Jericó — Dos osas despedazan a algunos muchachos por haberse burlado de Eliseo.
 
----
 ###### 1 
 Y aconteció que cuando Jehová iba a alzar a Elías en un torbellino al cielo, Elías venía con Eliseo de Gilgal.
 

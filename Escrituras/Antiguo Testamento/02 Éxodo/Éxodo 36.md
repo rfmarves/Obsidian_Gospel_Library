@@ -1,22 +1,21 @@
 ---
 title: Éxodo 36
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 36
 [[Éxodo 35| <-- Éxodo 35]] | [[Éxodo]] | [[Éxodo 37|Éxodo 37 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/36?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/36?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se escoge a hombres sabios de corazón para la obra del tabernáculo — Moisés pide al pueblo que deje de donar más materiales.
 
----
 ###### 1 
 Hicieron, pues, Bezaleel y Aholiab, y todo hombre sabio de corazón a quien Jehová dio sabiduría e inteligencia para saber hacer toda la obra del servicio del santuario, todas las cosas que había mandado Jehová.
 

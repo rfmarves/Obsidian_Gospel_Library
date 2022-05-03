@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 3
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joseph in Egypt saw the Nephites in vision—He prophesied of Joseph Smith, the latter-day seer; of Moses, who would deliver Israel; and of the coming forth of the Book of Mormon. About 588–570 B.C.
 
----
 ###### 1 
 And now I speak unto you, Joseph, my last-born. Thou wast born in the wilderness of mine afflictions; yea, in the days of my greatest sorrow did thy mother bear thee.
 

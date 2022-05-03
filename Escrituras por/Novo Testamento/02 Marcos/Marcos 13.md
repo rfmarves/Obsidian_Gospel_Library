@@ -1,22 +1,21 @@
 ---
 title: Marcos 13
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 13
 [[Marcos 12| <-- Marcos 12]] | [[Marcos]] | [[Marcos 14|Marcos 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus prediz as calamidades e sinais que precederão a Segunda Vinda — Haverá falsos cristos e falsos profetas — Ele conta a parábola da figueira.
 
----
 ###### 1 
 E saindo ele do templo, disse-lhe um dos seus discípulos: Mestre, olha que pedras, e que edifícios!
 

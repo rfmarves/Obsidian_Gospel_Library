@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Calamities will befall the inhabitants of Jerusalem—For them the harvest is past, the summer is ended, and they are not saved.
 
----
 ###### 1 
 At that time, saith the , they shall bring out the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves:
 

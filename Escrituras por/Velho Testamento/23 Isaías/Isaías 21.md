@@ -1,22 +1,21 @@
 ---
 title: Isaías 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 21
 [[Isaías 20| <-- Isaías 20]] | [[Isaías]] | [[Isaías 22|Isaías 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Caiu, caiu Babilônia! — Outras nações também são destruídas.
 
----
 ###### 1 
 Peso do deserto  do mar. Como os tufões de vento passam por meio  do sul,  do deserto virá, da terra horrível.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 18
 [[1 Samuel 17| <-- 1 Samuel 17]] | [[1 Samuel]] | [[1 Samuel 19|1 Samuel 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jônatas ama Davi como a si mesmo — Saul põe Davi sobre os seus exércitos — Davi é honrado pelo povo, e Saul sente inveja — Davi se casa com Mical, filha de Saul.
 
----
 ###### 1 
 E sucedeu que, acabando ele de falar com Saul, a alma de Jônatas se ligou com a alma de Davi; e Jônatas o amou, como à sua  alma.
 

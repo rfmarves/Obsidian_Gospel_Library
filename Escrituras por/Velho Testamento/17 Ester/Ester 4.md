@@ -1,22 +1,21 @@
 ---
 title: Ester 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 4
 [[Ester 3| <-- Ester 3]] | [[Ester]] | [[Ester 5|Ester 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mardoqueu e os judeus pranteiam e jejuam por causa do decreto do rei — Arriscando a vida, Ester prepara-se para entrar na presença do rei.
 
----
 ###### 1 
 Quando Mardoqueu soube tudo quanto se havia passado, rasgou Mardoqueu as suas vestes, e vestiu-se de saco e de cinza, e saiu pelo meio da cidade, e clamou com grande e amargo clamor;
 

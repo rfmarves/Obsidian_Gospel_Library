@@ -1,22 +1,21 @@
 ---
 title: Jeremias 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 11
 [[Jeremias 10| <-- Jeremias 10]] | [[Jeremias]] | [[Jeremias 12|Jeremias 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo de Judá é amaldiçoado por quebrar o convênio de obediência — O Senhor não ouvirá suas orações.
 
----
 ###### 1 
 A palavra que veio a Jeremias, da parte do , dizendo:
 

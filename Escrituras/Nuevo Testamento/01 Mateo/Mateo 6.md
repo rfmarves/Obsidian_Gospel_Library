@@ -1,22 +1,21 @@
 ---
 title: Mateo 6
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 6
 [[Mateo 5| <-- Mateo 5]] | [[Mateo]] | [[Mateo 7|Mateo 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús continúa con el Sermón del Monte — Enseña a los discípulos la manera de orar — Se les manda buscar primeramente el reino de Dios y Su justicia.
 
----
 ###### 1 
 Mirad que no deis vuestra limosna delante de los hombres para ser vistos por ellos; de otra manera, no tendréis recompensa de vuestro Padre que está en los cielos.
 

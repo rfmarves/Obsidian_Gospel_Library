@@ -1,22 +1,21 @@
 ---
 title: Levítico 25
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 25
 [[Levítico 24| <-- Levítico 24]] | [[Levítico]] | [[Levítico 26|Levítico 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cada sétimo ano deverá ser um ano de repouso — Cada quinquagésimo ano deverá ser um ano de jubileu, em que se proclamará liberdade por toda a terra — Revelam-se as leis para a venda e o resgate de terras, casas e servos — A terra é do Senhor, assim como os servos — Proíbe-se a usura.
 
----
 ###### 1 
 Falou mais o  a Moisés no monte Sinai, dizendo:
 

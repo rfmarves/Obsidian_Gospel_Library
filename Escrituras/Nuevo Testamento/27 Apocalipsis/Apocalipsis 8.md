@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 8
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 8
 [[Apocalipsis 7| <-- Apocalipsis 7]] | [[Apocalipsis]] | [[Apocalipsis 9|Apocalipsis 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Juan ve fuego y desolación que se derraman durante el séptimo sello y que preceden a la Segunda Venida.
 
----
 ###### 1 
 Y cuando él abrió el séptimo sello, hubo silencio en el cielo casi por media hora.
 

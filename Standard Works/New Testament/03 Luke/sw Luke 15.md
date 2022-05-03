@@ -1,10 +1,11 @@
 ---
 title: sw Luke 15
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus gives the parables of the lost sheep, the piece of silver, and the prodigal son.
 
----
 ###### 1 
 Then drew near unto him all the publicans and sinners for to hear him.
 

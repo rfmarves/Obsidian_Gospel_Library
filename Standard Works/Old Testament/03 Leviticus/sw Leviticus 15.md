@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Laws, rites, and sacrifices are revealed for cleansing those who have a discharge and other types of uncleanness.
 
----
 ###### 1 
 And the  spake unto Moses and to Aaron, saying,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Alma 33
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 33
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/33?lang=eng)
 
----
-__Summary__
+> __Summary__
 Zenos taught that men should pray and worship in all places, and that judgments are turned away because of the Son—Zenock taught that mercy is bestowed because of the Son—Moses had lifted up in the wilderness a type of the Son of God. About 74 B.C.
 
----
 ###### 1 
 Now after Alma had spoken these words, they sent forth unto him desiring to know whether they should believe in one God, that they might obtain this fruit of which he had spoken, or how they should plant the seed, or the word of which he had spoken, which he said must be planted in their hearts; or in what manner they should begin to exercise their faith.
 

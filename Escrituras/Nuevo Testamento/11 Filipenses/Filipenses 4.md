@@ -1,22 +1,21 @@
 ---
 title: Filipenses 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Filipenses 4
 [[Filipenses 3| <-- Filipenses 3]] | [[Filipenses]] | [[Colosenses 1|Colosenses 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/philip/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/philip/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Permaneced firmes en el Señor — Creemos en ser honestos, verídicos y castos.
 
----
 ###### 1 
 Así que, hermanos míos, amados y añorados, gozo y corona mía, permaneced así firmes en el Señor, amados.
 

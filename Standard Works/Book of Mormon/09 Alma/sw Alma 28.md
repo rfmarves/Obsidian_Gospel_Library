@@ -1,10 +1,11 @@
 ---
 title: sw Alma 28
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lamanites are defeated in a tremendous battle—Tens of thousands are slain—The wicked are consigned to a state of endless woe; the righteous attain a never-ending happiness. About 77–76 B.C.
 
----
 ###### 1 
 And now it came to pass that after the people of Ammon were established in the land of Jershon, and a church also established in the land of Jershon, and the armies of the Nephites were set round about the land of Jershon, yea, in all the borders round about the land of Zarahemla; behold the armies of the Lamanites had followed their brethren into the wilderness.
 

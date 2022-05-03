@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 2
 [[1 Crónicas 1| <-- 1 Crónicas 1]] | [[1 Crónicas]] | [[1 Crónicas 3|1 Crónicas 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se mencionan los descendientes de Israel, de Judá, de Isaí, de Caleb y de otros.
 
----
 ###### 1 
 Estos son los hijos de Israel: Rubén, Simeón, Leví, y Judá, Isacar, y Zabulón,
 

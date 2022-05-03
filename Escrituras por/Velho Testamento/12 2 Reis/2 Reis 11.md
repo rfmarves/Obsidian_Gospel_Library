@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 11
 [[2 Reis 10| <-- 2 Reis 10]] | [[2 Reis]] | [[2 Reis 12|2 Reis 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Atalia destrói a família real em Judá e reina sozinha em Judá — A vida de Joás é preservada e ele é coroado rei aos sete anos de idade — Joiada, o sacerdote, destrói a casa de Baal.
 
----
 ###### 1 
 Vendo, pois, Atalia, mãe de Acazias, que seu filho estava morto, levantou-se, e destruiu toda a semente real.
 

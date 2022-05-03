@@ -1,22 +1,21 @@
 ---
 title: Lamentações 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lamentações 5
 [[Lamentações 4| <-- Lamentações 4]] | [[Lamentações]] | [[Ezequiel 1|Ezequiel 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lam/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lam/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias recita em oração a situação aflitiva de Sião.
 
----
 ###### 1 
 Lembra-te, , do que nos sucedeu; considera, e olha o nosso opróbrio.
 

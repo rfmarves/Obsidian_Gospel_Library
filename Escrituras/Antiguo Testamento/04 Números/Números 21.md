@@ -1,22 +1,21 @@
 ---
 title: Números 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 21
 [[Números 20| <-- Números 20]] | [[Números]] | [[Números 22|Números 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de Israel destruyen a los cananeos que luchan contra ellos — Jehová envía a los israelitas una plaga de serpientes ardientes — Moisés levanta una serpiente de bronce para salvar a los que la miren — Israel derrota a los amorreos, destruye al pueblo de Basán y ocupa sus tierras.
 
----
 ###### 1 
 Y cuando el cananeo, el rey de Arad, el cual habitaba al sur, oyó que venía Israel por el camino de los centinelas, peleó contra Israel y tomó de él prisioneros.
 

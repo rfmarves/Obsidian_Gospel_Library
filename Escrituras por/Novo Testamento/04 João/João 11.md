@@ -1,22 +1,21 @@
 ---
 title: João 11
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 11
 [[João 10| <-- João 10]] | [[João]] | [[João 12|João 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus testifica que Ele é a Ressurreição e a Vida — Maria e Marta prestam testemunho Dele — Ele levanta Lázaro dos mortos — Caifás fala profeticamente da morte de Jesus.
 
----
 ###### 1 
 Estava então enfermo um  Lázaro, de Betânia, aldeia de Maria e de Marta, sua irmã.
 

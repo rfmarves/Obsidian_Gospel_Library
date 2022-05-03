@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people are to confess and make amends for their sins—Forgiveness comes through a trespass offering—Priests thereby make an atonement for sin.
 
----
 ###### 1 
 And if a soul sin, and hear the voice of swearing, and  a witness, whether he hath seen or known  if he do not utter  then he shall bear his iniquity.
 

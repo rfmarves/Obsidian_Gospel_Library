@@ -1,22 +1,21 @@
 ---
 title: DyC 63
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 63
 [[DyC 62| <-- DyC 62]] | [[DyC]] | [[DyC 64|DyC 64 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/63?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/63?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–6, Un día de ira sobrevendrá a los inicuos; 7–12, Las señales vienen por la fe; 13–19, Los de corazón adúltero negarán la fe y serán arrojados al lago de fuego; 20, Los fieles recibirán una herencia sobre la tierra transfigurada; 21, No se ha revelado aún el relato completo de los acontecimientos acaecidos sobre el monte de la Transfiguración; 22–23, Los obedientes reciben los misterios del reino; 24–31, Se han de comprar tierras o heredades en Sion; 32–35, El Señor decreta guerras, y los inicuos matan a los inicuos; 36–48, Los santos se han de congregar en Sion y proporcionar dinero para edificarla; 49–54, Se aseguran las bendiciones sobre los fieles en la Segunda Venida, en la Resurrección y durante el Milenio; 55–58, Este es un día de amonestación; 59–66, Aquellos que usan el nombre del Señor sin autoridad lo toman en vano.
 
----
 ###### 1 
 Escuchad, oh pueblo, abrid vuestro corazón y dad oído desde lejos; escuchad, vosotros los que os llamáis el pueblo del Señor, oíd su palabra y su voluntad concerniente a vosotros.
 

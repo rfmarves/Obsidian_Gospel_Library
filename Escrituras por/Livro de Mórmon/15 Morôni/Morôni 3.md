@@ -1,22 +1,21 @@
 ---
 title: Morôni 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Morôni 3
 [[Morôni 2| <-- Morôni 2]] | [[Morôni]] | [[Morôni 4|Morôni 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os élderes ordenam sacerdotes e mestres pela imposição de mãos. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 Maneira pela qual os discípulos, que eram chamados de élderes da igreja, ordenavam sacerdotes e mestres —
 

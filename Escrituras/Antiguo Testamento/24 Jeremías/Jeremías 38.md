@@ -1,22 +1,21 @@
 ---
 title: Jeremías 38
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 38
 [[Jeremías 37| <-- Jeremías 37]] | [[Jeremías]] | [[Jeremías 39|Jeremías 39 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/38?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/38?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los príncipes echan a Jeremías en una cisterna con cieno — Es liberado por Ebed-melec, un etíope, y lo ponen en el patio de la cárcel — Jeremías aconseja a Sedequías con respecto a la guerra.
 
----
 ###### 1 
 Y oyeron Sefatías hijo de Matán, y Gedalías hijo de Pasur, y Jucal hijo de Selemías y Pasur hijo de Malquías las palabras que Jeremías hablaba a todo el pueblo, diciendo:
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 4
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nephi slays Laban at the Lord’s command and then secures the plates of brass by stratagem—Zoram chooses to join Lehi’s family in the wilderness. About 600–592 B.C.
 
----
 ###### 1 
 And it came to pass that I spake unto my brethren, saying: Let us go up again unto Jerusalem, and let us be faithful in keeping the commandments of the Lord; for behold he is mightier than all the earth, then why not mightier than Laban and his fifty, yea, or even than his tens of thousands?
 

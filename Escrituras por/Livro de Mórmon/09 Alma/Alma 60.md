@@ -1,22 +1,21 @@
 ---
 title: Alma 60
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 60
 [[Alma 59| <-- Alma 59]] | [[Alma]] | [[Alma 61|Alma 61 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/60?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/60?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Morôni queixa-se a Paorã da negligência do governo com os exércitos — O Senhor permite que os justos sejam mortos — Os nefitas devem usar todo o seu poder e os seus meios para livrarem-se de seus inimigos — Morôni ameaça lutar contra o governo, a menos que seus exércitos recebam ajuda. Aproximadamente 62 a.C.
 
----
 ###### 1 
 E aconteceu que ele tornou a escrever ao governador da terra, que era Paorã; e estas são as palavras que escreveu, dizendo: Eis que dirijo minha epístola a Paorã, na cidade de Zaraenla, o qual é juiz supremo e governador da terra, e a todos os que foram escolhidos por este povo para governar e dirigir os negócios desta guerra.
 

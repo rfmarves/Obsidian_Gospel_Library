@@ -1,22 +1,21 @@
 ---
 title: Jueces 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 19
 [[Jueces 18| <-- Jueces 18]] | [[Jueces]] | [[Jueces 20|Jueces 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La concubina de un levita vuelve a casa de su padre — Su esposo la busca y se alojan una noche en Gabaa — Los hombres de Gabaa abusan de la concubina y ella muere — El esposo levita la corta en doce pedazos y los envía a las tribus de Israel.
 
----
 ###### 1 
 En aquellos días, cuando no había rey en Israel, hubo un levita que moraba como forastero en la parte más remota de los montes de Efraín, el cual había tomado para sí como concubina a una mujer de Belén de Judá.
 

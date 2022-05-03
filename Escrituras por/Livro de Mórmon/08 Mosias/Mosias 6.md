@@ -1,22 +1,21 @@
 ---
 title: Mosias 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 6
 [[Mosias 5| <-- Mosias 5]] | [[Mosias]] | [[Mosias 7|Mosias 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O rei Benjamim registra os nomes das pessoas e designa sacerdotes para ensiná-las — Mosias reina como um rei justo. Aproximadamente 124–121 a.C.
 
----
 ###### 1 
 E então o rei Benjamim achou que seria conveniente, depois de ter acabado de falar ao povo, anotar o nome de todos os que haviam feito convênio com Deus de guardar seus mandamentos.
 

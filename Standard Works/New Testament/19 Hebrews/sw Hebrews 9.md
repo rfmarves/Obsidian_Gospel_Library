@@ -1,10 +1,11 @@
 ---
 title: sw Hebrews 9
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hebrews 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Mosaic ordinances prefigured Christ’s ministry—Christ is the Mediator of the new covenant.
 
----
 ###### 1 
 Then verily the first  had also ordinances of divine service, and a worldly sanctuary.
 

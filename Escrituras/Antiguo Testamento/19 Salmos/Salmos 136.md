@@ -1,22 +1,21 @@
 ---
 title: Salmos 136
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 136
 [[Salmos 135| <-- Salmos 135]] | [[Salmos]] | [[Salmos 137|Salmos 137 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/136?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/136?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Alabad a Dios por todas las cosas, porque Su misericordia es para siempre.
 
----
 ###### 1 
 
 

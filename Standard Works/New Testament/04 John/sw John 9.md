@@ -1,10 +1,11 @@
 ---
 title: sw John 9
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus, on the Sabbath, heals a man born blind—The Jews accuse Him of Sabbath violation—He lectures them on spiritual blindness.
 
----
 ###### 1 
 And as  passed by, he saw a man which was blind from  birth.
 

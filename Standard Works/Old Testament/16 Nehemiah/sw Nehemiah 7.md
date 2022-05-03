@@ -1,10 +1,11 @@
 ---
 title: sw Nehemiah 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nehemiah 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Provision is made to protect Jerusalem—The genealogy is given of the Jews who returned from Babylon—Priests without genealogical records are denied the priesthood.
 
----
 ###### 1 
 Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed,
 

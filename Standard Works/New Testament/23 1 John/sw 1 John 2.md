@@ -1,10 +1,11 @@
 ---
 title: sw 1 John 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 John 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ is our Advocate with the Father—We know God by obedience—Love not the world—Anti-Christs will come in the last days.
 
----
 ###### 1 
 My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:
 

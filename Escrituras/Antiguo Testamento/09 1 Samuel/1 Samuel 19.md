@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 19
 [[1 Samuel 18| <-- 1 Samuel 18]] | [[1 Samuel]] | [[1 Samuel 20|1 Samuel 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Saúl procura matar a David — Mical salva a David por estratagema — David se une a Samuel y a un grupo de profetas.
 
----
 ###### 1 
 Y habló Saúl a Jonatán, su hijo, y a todos sus criados, para que matasen a David; mas Jonatán hijo de Saúl apreciaba a David en gran manera.
 

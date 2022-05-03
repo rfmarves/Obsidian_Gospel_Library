@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 5
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 5
 [[1 Coríntios 4| <-- 1 Coríntios 4]] | [[1 Coríntios]] | [[1 Coríntios 6|1 Coríntios 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A Igreja não pode se associar com pecadores — Cristo, nossa Páscoa, foi sacrificado por nós.
 
----
 ###### 1 
 Geralmente se ouve  há entre vós fornicação, e fornicação tal, qual nem ainda entre os gentios se menciona, como é haver quem abuse da mulher de seu pai.
 

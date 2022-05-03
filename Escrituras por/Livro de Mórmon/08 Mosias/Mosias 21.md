@@ -1,22 +1,21 @@
 ---
 title: Mosias 21
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 21
 [[Mosias 20| <-- Mosias 20]] | [[Mosias]] | [[Mosias 22|Mosias 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo de Lími é ferido e derrotado pelos lamanitas — Eles encontram Amon e são convertidos — Falam a Amon sobre as vinte e quatro placas jareditas. Aproximadamente 122–121 a.C.
 
----
 ###### 1 
 E aconteceu que Lími e seu povo voltaram para a cidade de Néfi e começaram a viver novamente em paz na terra.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 129
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 129
 [[Salmos 128| <-- Salmos 128]] | [[Salmos]] | [[Salmos 130|Salmos 130 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/129?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/129?lang=por)
 
----
+```
 Cântico das subidas.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 O Senhor é justo — Sejam envergonhados todos os que odeiam Sião.
 
----
 ###### 1 
 Muitas vezes me angustiaram desde a minha mocidade, diga agora Israel;
 

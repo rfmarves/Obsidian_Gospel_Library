@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 8
 [[1 Reis 7| <-- 1 Reis 7]] | [[1 Reis]] | [[1 Reis 9|1 Reis 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A arca, que contém as duas tábuas de pedra, é colocada no Santo dos Santos — A glória do Senhor enche o templo — Salomão profere a oração dedicatória — Ele pede bênçãos temporais e espirituais para o arrependido e fervoroso Israel — O povo sacrifica e adora por quatorze dias.
 
----
 ###### 1 
 Então congregou Salomão os anciãos de Israel, e todos os cabeças das tribos, os príncipes dos pais, dentre os filhos de Israel, ao rei Salomão em Jerusalém, para fazerem subir a arca da aliança do  da cidade de Davi, que  Sião.
 

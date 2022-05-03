@@ -1,22 +1,21 @@
 ---
 title: Santiago 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Santiago 1
 [[Hebreos 13| <-- Hebreos 13]] | [[Santiago]] | [[Santiago 2|Santiago 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/james/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/james/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Si alguno de vosotros tiene falta de sabiduría, pídala a Dios — Resistid la tentación — Sed hacedores de la palabra — Santiago explica cómo reconocer la religión pura.
 
----
 ###### 1 
 Santiago, siervo de Dios y del Señor Jesucristo, a las doce tribus que están esparcidas: Salud.
 

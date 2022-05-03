@@ -1,10 +1,11 @@
 ---
 title: sw D&C 68
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 68
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, The words of the elders when moved upon by the Holy Ghost are scripture; 6–12, Elders are to preach and baptize, and signs will follow true believers; 13–24, The firstborn among the sons of Aaron may serve as the Presiding Bishop (that is, hold the keys of presidency as a bishop) under the direction of the First Presidency; 25–28, Parents are commanded to teach the gospel to their children; 29–35, The Saints are to observe the Sabbath, labor diligently, and pray.
 
----
 ###### 1 
 My servant, Orson Hyde, was called by his ordination to proclaim the everlasting gospel, by the Spirit of the living God, from people to people, and from land to land, in the congregations of the wicked, in their synagogues, reasoning with and expounding all scriptures unto them.
 

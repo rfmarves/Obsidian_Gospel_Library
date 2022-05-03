@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord’s vineyard (Israel) will become desolate, and His people will be scattered—Woes will come upon them in their apostate and scattered state—The Lord will lift an ensign and gather Israel—Compare 2 Nephi 15.
 
----
 ###### 1 
 Now will I sing to my wellbeloved a song of my beloved touching his vineyard. My wellbeloved hath a vineyard in a very fruitful hill:
 

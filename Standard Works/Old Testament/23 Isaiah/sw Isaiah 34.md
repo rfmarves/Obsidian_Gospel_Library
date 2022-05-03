@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 34
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 34
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/34?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Second Coming will be a day of vengeance and judgment—The indignation of the Lord will be upon all nations—His sword will fall upon the world.
 
----
 ###### 1 
 Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joshua sends spies to Jericho—They are received and concealed by Rahab—They promise to preserve Rahab and her household.
 
----
 ###### 1 
 And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there.
 

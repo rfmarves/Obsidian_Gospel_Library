@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 44
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 44
 [[Ezequiel 43| <-- Ezequiel 43]] | [[Ezequiel]] | [[Ezequiel 45|Ezequiel 45 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/44?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/44?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A glória do Senhor enche a casa do Senhor — Nenhum estrangeiro pode entrar no santuário — Explicam-se os serviços dos sacerdotes no templo.
 
----
 ###### 1 
 Então me fez voltar para o caminho da porta do santuário exterior, que dá para o oriente, a qual  fechada.
 

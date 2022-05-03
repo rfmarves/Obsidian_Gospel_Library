@@ -1,10 +1,11 @@
 ---
 title: sw Galatians 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Galatians 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/gal/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Stand fast in gospel liberty—Seek faith, love, Christ, and the Spirit—The works of the flesh and the fruits of the Spirit are named.
 
----
 ###### 1 
 Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.
 

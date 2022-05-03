@@ -1,22 +1,21 @@
 ---
 title: Isaías 41
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 41
 [[Isaías 40| <-- Isaías 40]] | [[Isaías]] | [[Isaías 42|Isaías 42 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/41?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/41?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová dice a Israel: Vosotros sois Mis siervos; yo os sustentaré — Los ídolos nada son — Se llevarán buenas nuevas a Jerusalén.
 
----
 ###### 1 
 Guardad silencio ante mí, oh islas, y renueven fuerzas los pueblos; acérquense y entonces hablen; vengamos juntos a juicio.
 

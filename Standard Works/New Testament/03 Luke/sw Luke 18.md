@@ -1,10 +1,11 @@
 ---
 title: sw Luke 18
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus gives the parables of the unjust judge and the Pharisee and publican—He invites little children to come unto Him and teaches how to gain eternal life—He tells of His coming death and resurrection and gives sight to a blind man.
 
----
 ###### 1 
 And he spake a parable unto them  that men ought always to pray, and not to faint;
 

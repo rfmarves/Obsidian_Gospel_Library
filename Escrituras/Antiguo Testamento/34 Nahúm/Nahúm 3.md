@@ -1,22 +1,21 @@
 ---
 title: Nahúm 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nahúm 3
 [[Nahúm 2| <-- Nahúm 2]] | [[Nahúm]] | [[Habacuc 1|Habacuc 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/nahum/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/nahum/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se predice la espantosa caída de Nínive.
 
----
 ###### 1 
 ¡Ay de la ciudad sanguinaria, toda llena de mentira y de rapiña, de incesante pillaje!
 

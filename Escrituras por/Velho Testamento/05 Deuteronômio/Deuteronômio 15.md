@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 15
 [[Deuteronômio 14| <-- Deuteronômio 14]] | [[Deuteronômio]] | [[Deuteronômio 16|Deuteronômio 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A cada sete anos, todas as dívidas serão perdoadas — Exorta-se o povo a cuidar dos pobres — Os servos hebreus devem ser libertados e receber presentes no sétimo ano — Os primogênitos dos rebanhos e do gado são do Senhor.
 
----
 ###### 1 
 Ao fim dos sete anos farás remissão.
 

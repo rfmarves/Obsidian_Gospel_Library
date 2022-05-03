@@ -1,22 +1,21 @@
 ---
 title: Marcos 10
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 10
 [[Marcos 9| <-- Marcos 9]] | [[Marcos]] | [[Marcos 11|Marcos 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus ensina a lei maior do casamento — Ele abençoa as criancinhas — Jesus aconselha o jovem rico, prediz Sua própria morte e cura o cego Bartimeu.
 
----
 ###### 1 
 E levantando-se dali, foi para os termos da Judeia, além do Jordão, e a multidão se reuniu em torno dele; e tornou a ensiná-los, como tinha por costume.
 

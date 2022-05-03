@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 24
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 24
 [[Deuteronômio 23| <-- Deuteronômio 23]] | [[Deuteronômio]] | [[Deuteronômio 25|Deuteronômio 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 São dadas leis referentes ao divórcio, aos recém-casados, ao comércio de escravos, aos penhores, à lepra, à opressão dos servos e às sobras da colheita deixadas no campo.
 
----
 ###### 1 
 Quando um homem tomar uma mulher, e se casar com ela, então acontecerá que, se não achar graça aos seus olhos, por nela achar coisa indecente, ele lhe escreverá carta de divórcio, e lha dará na sua mão, e a despedirá da sua casa.
 

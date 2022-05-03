@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 12
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/12?lang=eng)
 
----
+```
 To the chief Musician upon Sheminith, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David decries flattering lips and proud tongues—He says, The words of the Lord are pure words.
 
----
 ###### 1 
 Help, ; for the godly man ceaseth; for the faithful fail from among the children of men.
 

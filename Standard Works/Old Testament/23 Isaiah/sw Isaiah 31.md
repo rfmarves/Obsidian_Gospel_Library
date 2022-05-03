@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 31
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 31
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/31?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is reproved for turning to Egypt for help—When the Lord comes, He will defend and preserve His people.
 
----
 ###### 1 
 Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because  many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the !
 

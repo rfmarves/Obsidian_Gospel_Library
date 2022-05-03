@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 14
 [[2 Crônicas 13| <-- 2 Crônicas 13]] | [[2 Crônicas]] | [[2 Crônicas 15|2 Crônicas 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Asa reina em Judá, reconstrói as cidades e derrota e saqueia os etíopes, que atacam Judá.
 
----
 ###### 1 
 E Abias dormiu com seus pais, e o sepultaram na cidade de Davi; e Asa, seu filho, reinou em seu lugar; nos seus dias esteve a terra em paz dez anos.
 

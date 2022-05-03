@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 2
 [[1 Reis 1| <-- 1 Reis 1]] | [[1 Reis]] | [[1 Reis 3|1 Reis 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi manda Salomão guardar os mandamentos e andar nos caminhos do Senhor — O rei Davi morre, e Salomão reina — Adonias, Joabe e Simei são mortos, e Abiatar é rejeitado como sumo sacerdote — Estabelece-se o reino com Salomão.
 
----
 ###### 1 
 E aproximaram-se os dias da morte de Davi; e deu ele ordem a Salomão, seu filho, dizendo:
 

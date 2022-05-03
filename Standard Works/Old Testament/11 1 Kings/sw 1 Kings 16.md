@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jehu prophesies evil upon Baasha and his house—Elah, Zimri, Omri, and Ahab reign in wickedness—Zimri destroys the house of Baasha—Ahab marries Jezebel, worships Baal, and provokes the Lord to anger.
 
----
 ###### 1 
 Then the word of the  came to Jehu the son of Hanani against Baasha, saying,
 

@@ -1,22 +1,21 @@
 ---
 title: Jeremias 42
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 42
 [[Jeremias 41| <-- Jeremias 41]] | [[Jeremias]] | [[Jeremias 43|Jeremias 43 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/42?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/42?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias promete paz e segurança a Joanã e aos remanescentes de Judá, se eles permanecerem em Judá, mas espada, fome e pestilência se forem para o Egito.
 
----
 ###### 1 
 Então chegaram todos os príncipes dos exércitos, e Joanã, filho de Careá, e Jezanias, filho de Hosaías, e todo o povo, desde o menor até o maior,
 

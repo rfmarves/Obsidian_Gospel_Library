@@ -1,22 +1,21 @@
 ---
 title: Juan 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 4
 [[Juan 3| <-- Juan 3]] | [[Juan]] | [[Juan 5|Juan 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús enseña a una mujer samaritana — Todos deben adorar al Padre en espíritu y en verdad — Quienes cosechan almas obtienen la vida eterna — Muchos samaritanos creen — Jesús sana al hijo de un noble.
 
----
 ###### 1 
 De manera que cuando Jesús supo que los fariseos habían oído que Jesús hacía y bautizaba más discípulos que Juan
 

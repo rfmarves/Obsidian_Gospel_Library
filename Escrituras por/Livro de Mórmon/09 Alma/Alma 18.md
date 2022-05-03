@@ -1,22 +1,21 @@
 ---
 title: Alma 18
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 18
 [[Alma 17| <-- Alma 17]] | [[Alma]] | [[Alma 19|Alma 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O rei Lamôni supõe que Amon seja o Grande Espírito — Amon ensina o rei a respeito da criação, dos procedimentos de Deus para com os homens e da redenção recebida por meio de Cristo — Lamôni crê e cai por terra, como se estivesse morto. Aproximadamente 90 a.C.
 
----
 ###### 1 
 E aconteceu que o rei Lamôni fez com que seus servos se apresentassem e testificassem todas as coisas que haviam visto concernentes ao assunto.
 

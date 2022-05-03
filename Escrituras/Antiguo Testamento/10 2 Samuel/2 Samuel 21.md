@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 21
 [[2 Samuel 20| <-- 2 Samuel 20]] | [[2 Samuel]] | [[2 Samuel 22|2 Samuel 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová envía una hambruna — David comprende que la hambruna se debe a que Saúl mató a los gabaonitas, acto contrario al juramento de Israel — David entrega siete hijos de Saúl a los gabaonitas para que los ahorquen — Israel y los filisteos continúan sus guerras.
 
----
 ###### 1 
 Y en los días de David hubo hambre durante tres años consecutivos. Y David consultó a Jehová, y Jehová le dijo: Es por causa de Saúl, y por aquella casa sanguinaria, porque mató a los gabaonitas.
 

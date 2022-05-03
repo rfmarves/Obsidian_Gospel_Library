@@ -1,10 +1,11 @@
 ---
 title: sw Acts 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Peter and John heal a man lame since birth—Peter preaches repentance—He also speaks of the age of restoration preceding the Second Coming—He identifies Christ as the prophet of whom Moses spoke.
 
----
 ###### 1 
 Now Peter and John went up together into the temple at the hour of prayer,  the ninth 
 

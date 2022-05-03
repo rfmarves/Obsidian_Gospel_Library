@@ -1,22 +1,21 @@
 ---
 title: Miqueas 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Miqueas 6
 [[Miqueas 5| <-- Miqueas 5]] | [[Miqueas]] | [[Miqueas 7|Miqueas 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/micah/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/micah/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 A pesar de toda Su bondad para con ellos, el pueblo no ha servido a Jehová ni en espíritu ni en verdad — Deben actuar rectamente, amar la misericordia y andar con humildad delante de Él.
 
----
 ###### 1 
 Oíd ahora lo que dice Jehová: Levántate, contiende con los montes, y oigan los collados tu voz.
 

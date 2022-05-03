@@ -1,22 +1,21 @@
 ---
 title: Génesis 34
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 34
 [[Génesis 33| <-- Génesis 33]] | [[Génesis]] | [[Génesis 35|Génesis 35 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/34?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/34?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Siquem deshonra a Dina — Los heveos procuran concertar matrimonios con la familia de Jacob — Muchos, habiendo sido circuncidados, son muertos por Simeón y Leví — Jacob reprende a sus hijos.
 
----
 ###### 1 
 Y salió Dina, la hija de Lea que esta había dado a luz a Jacob, a ver a las hijas del país.
 

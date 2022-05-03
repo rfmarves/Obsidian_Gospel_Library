@@ -1,10 +1,11 @@
 ---
 title: sw Ezra 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezra 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Many Jews intermarry with the Canaanites and others and follow their abominations—Ezra prays and confesses the sins of all the people.
 
----
 ###### 1 
 Now when these things were done, the princes came to me, saying, The people of Israel, and the priests, and the Levites, have not separated themselves from the people of the lands,  according to their abominations,  of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 12
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, Laborers in the vineyard are to gain salvation; 7–9, All who desire and are qualified may assist in the Lord’s work.
 
----
 ###### 1 
 A great and marvelous work is about to come forth among the children of men.
 

@@ -1,22 +1,21 @@
 ---
 title: Alma 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 8
 [[Alma 7| <-- Alma 7]] | [[Alma]] | [[Alma 9|Alma 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Alma predica y bautiza en Melek — Es rechazado en Ammoníah y parte de allí — Un ángel le manda que vuelva y proclame el arrepentimiento al pueblo — Amulek lo recibe y los dos predican en Ammoníah. Aproximadamente 82 a.C.
 
----
 ###### 1 
 Y sucedió que Alma retornó de la tierra de Gedeón, después de haber enseñado al pueblo de Gedeón muchas cosas que no pueden ser escritas, habiendo establecido allí el orden de la iglesia, como lo había hecho anteriormente en la tierra de Zarahemla, sí, volvió a su propia casa en Zarahemla, para descansar de las obras que había efectuado.
 

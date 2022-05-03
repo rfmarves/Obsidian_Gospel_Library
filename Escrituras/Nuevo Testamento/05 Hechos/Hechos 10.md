@@ -1,22 +1,21 @@
 ---
 title: Hechos 10
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 10
 [[Hechos 9| <-- Hechos 9]] | [[Hechos]] | [[Hechos 11|Hechos 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Un ángel ministra a Cornelio — Se manda a Pedro en visión llevar el Evangelio a los gentiles — Se enseña el Evangelio por medio de testigos — El Espíritu Santo desciende sobre los gentiles.
 
----
 ###### 1 
 Y había en Cesarea un varón llamado Cornelio, centurión de la compañía que se llamaba la Italiana,
 

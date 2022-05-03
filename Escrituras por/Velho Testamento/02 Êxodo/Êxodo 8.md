@@ -1,22 +1,21 @@
 ---
 title: Êxodo 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 8
 [[Êxodo 7| <-- Êxodo 7]] | [[Êxodo]] | [[Êxodo 9|Êxodo 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor envia pragas de rãs, de piolhos e de moscas sobre o Egito — Faraó endurece o coração.
 
----
 ###### 1 
 Depois disse o  a Moisés: Vai a Faraó, e dize-lhe: Assim diz o : Deixa ir o meu povo, para que me sirva.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 9
 [[2 Reis 8| <-- 2 Reis 8]] | [[2 Reis]] | [[2 Reis 10|2 Reis 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Um profeta unge Jeú como rei sobre Israel e profetiza a destruição da casa de Acabe e a morte de Jezabel — Jeú mata Jorão no campo de Nabote — Jezabel é morta por Jeú e devorada por cães.
 
----
 ###### 1 
 Então o profeta Eliseu chamou um dos filhos dos profetas, e lhe disse: Cinge os teus lombos, e toma este vaso de azeite na tua mão, e vai-te a Ramote-Gileade;
 

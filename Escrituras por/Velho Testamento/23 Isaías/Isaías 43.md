@@ -1,22 +1,21 @@
 ---
 title: Isaías 43
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 43
 [[Isaías 42| <-- Isaías 42]] | [[Isaías]] | [[Isaías 44|Isaías 44 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/43?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/43?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor diz a Israel: Eu sou teu Deus; reunirei os teus descendentes; além de mim não há Salvador; sois as minhas testemunhas.
 
----
 ###### 1 
 Porém agora, assim diz o  que te criou, ó Jacó, e que te formou, ó Israel: Não temas, porque eu te redimi; chamei-te pelo teu nome, tu  meu.
 

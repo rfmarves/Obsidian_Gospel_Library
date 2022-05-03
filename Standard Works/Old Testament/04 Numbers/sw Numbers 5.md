@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Lepers are put out of the camp—Sinners must confess and make restitution to gain forgiveness—Women believed to be immoral undergo a trial of jealousy before the priests.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

@@ -1,22 +1,21 @@
 ---
 title: Provérbios 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 13
 [[Provérbios 12| <-- Provérbios 12]] | [[Provérbios]] | [[Provérbios 14|Provérbios 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O caminho do transgressor é árduo — O mal persegue os pecadores — Aquele que não disciplina seus filhos os odeia.
 
----
 ###### 1 
 O filho sábio  a correção do pai, mas o escarnecedor não ouve a repreensão.
 

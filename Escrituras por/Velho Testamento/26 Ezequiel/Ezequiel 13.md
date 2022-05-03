@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 13
 [[Ezequiel 12| <-- Ezequiel 12]] | [[Ezequiel]] | [[Ezequiel 14|Ezequiel 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ezequiel reprova os falsos profetas, tanto homens quanto mulheres, que contam mentiras e com quem Deus não falou.
 
----
 ###### 1 
 E veio a mim a palavra do , dizendo:
 

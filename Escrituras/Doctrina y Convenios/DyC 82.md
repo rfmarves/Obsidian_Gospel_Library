@@ -1,22 +1,21 @@
 ---
 title: DyC 82
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 82
 [[DyC 81| <-- DyC 81]] | [[DyC]] | [[DyC 83|DyC 83 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, Donde mucho se da, mucho se requiere; 5–7, Las tinieblas reinan en el mundo; 8–13, El Señor está obligado cuando hacemos lo que Él dice; 14–18, Sion debe aumentar en belleza y santidad; 19–24, Todo hombre debe procurar el bienestar de su prójimo.
 
----
 ###### 1 
 De cierto, de cierto os digo, mis siervos, que por cuanto os habéis perdonado el uno al otro vuestras transgresiones, así también yo, el Señor, os perdono.
 

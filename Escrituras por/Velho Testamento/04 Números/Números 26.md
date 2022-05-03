@@ -1,22 +1,21 @@
 ---
 title: Números 26
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 26
 [[Números 25| <-- Números 25]] | [[Números]] | [[Números 27|Números 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés e Eleazar contam os israelitas nas planícies de Moabe, perto de Jericó — Os homens de vinte anos e acima, excluindo os levitas, somam 601.730 — Restam somente Calebe e Josué dos que foram contados em Sinai.
 
----
 ###### 1 
 Aconteceu, pois, que depois daquela praga, falou o  a Moisés, e a Eleazar, filho de Aarão, o sacerdote, dizendo:
 

@@ -1,22 +1,21 @@
 ---
 title: Mateo 15
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 15
 [[Mateo 14| <-- Mateo 14]] | [[Mateo]] | [[Mateo 16|Mateo 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Escribas y fariseos discuten con Jesús — Él sana a la hija de una mujer gentil — Alimenta a cuatro mil personas.
 
----
 ###### 1 
 Entonces se acercaron a Jesús ciertos escribas y fariseos de Jerusalén, diciendo:
 

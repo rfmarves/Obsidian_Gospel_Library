@@ -1,10 +1,11 @@
 ---
 title: sw John 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus turns water into wine in Cana—He attends the Passover, cleanses the temple, foretells His death and resurrection, and performs miracles.
 
----
 ###### 1 
 And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
 

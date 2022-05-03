@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 70
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 70
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/70?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David, to bring to remembrance.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David proclaims, Let God be magnified.
 
----
 ###### 1 
  O God, to deliver me; make haste to help me, O .
 

@@ -1,22 +1,21 @@
 ---
 title: Mateo 5
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 5
 [[Mateo 4| <-- Mateo 4]] | [[Mateo]] | [[Mateo 6|Mateo 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús predica el Sermón del Monte — Sus enseñanzas reemplazan la ley de Moisés y trascienden algunos aspectos de esta — Se manda a todos ser perfectos como Su Padre que está en los cielos.
 
----
 ###### 1 
 Y al ver las multitudes, subió al monte y se sentó. Y vinieron a él sus discípulos.
 

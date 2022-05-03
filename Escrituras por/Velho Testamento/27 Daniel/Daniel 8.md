@@ -1,22 +1,21 @@
 ---
 title: Daniel 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 8
 [[Daniel 7| <-- Daniel 7]] | [[Daniel]] | [[Daniel 9|Daniel 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Daniel tem a visão de um carneiro (Média e Pérsia), um bode (Grécia), quatro outros reis e depois, nos últimos dias, um rei feroz que destruirá o povo santo — Esse rei será derrubado quando se levantar contra o Príncipe dos Príncipes.
 
----
 ###### 1 
 No ano terceiro do reinado do rei Belsazar apareceu-me uma visão, a mim, Daniel, depois daquela que me apareceu no princípio.
 

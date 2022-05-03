@@ -1,22 +1,21 @@
 ---
 title: 2 Corintios 11
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Corintios 11
 [[2 Corintios 10| <-- 2 Corintios 10]] | [[2 Corintios]] | [[2 Corintios 12|2 Corintios 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Mantened la sencillez que es en Cristo — Satanás envía falsos apóstoles — Pablo se gloría en sus sufrimientos por Cristo.
 
----
 ###### 1 
 Ojalá me toleraseis un poco de locura; sí, toleradme.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 52
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 52
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/52?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jerusalem is besieged and taken by the Chaldeans—Many people and the vessels of the house of the Lord are carried into Babylon.
 
----
 ###### 1 
 Zedekiah  one and twenty years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother’s name  Hamutal the daughter of Jeremiah of Libnah.
 

@@ -1,22 +1,21 @@
 ---
 title: Mateo 8
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 8
 [[Mateo 7| <-- Mateo 7]] | [[Mateo]] | [[Mateo 9|Mateo 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús sana a un leproso, cura al siervo de un centurión y a otras personas, calma la tempestad y echa fuera demonios — Los demonios entran en un hato de cerdos.
 
----
 ###### 1 
 Y cuando  descendió del monte, le seguía mucha gente.
 

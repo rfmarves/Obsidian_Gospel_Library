@@ -55,6 +55,7 @@ mdFile += "tags: " + "\n"
 mdFile += "cssclass: scriptures" + "\n"
 mdFile += "publish: false" + "\n"
 mdFile += "people:" + "\n"
+mdFile += "obsidianUIMode: preview" + "\n"
 mdFile += "---" + "\n" + "\n"
 #print(mdFile)
 
@@ -84,16 +85,15 @@ if ChapterSubtitle != None:
 # Introduction if there is one (like the one on 1 Nephi 1)
 ChapterIntro = soup.find('p', class_='intro')
 if ChapterIntro != None:
-    mdFile += "---" + "\n"
-    mdFile += ChapterIntro.text + "\n" + "\n"
-    mdFile += "---" + "\n" + "\n"
+    mdFile += "```" + "\n"
+    mdFile += ChapterIntro.text + "\n"
+    mdFile += "```" + "\n" + "\n"
 
 # Adds Chapter summary, if there is one.
 ChapterSummary = soup.find('p', class_='study-summary')
 if ChapterSummary != None:
-    mdFile += "---" + "\n" + "__" + SummaryText + "__" + "\n"
+    mdFile += "> __" + SummaryText + "__" + "\n"
     mdFile += ChapterSummary.text + "\n" + "\n"
-    mdFile += "---" + "\n"
 
 # Used in debugging
 #print(mdFile)

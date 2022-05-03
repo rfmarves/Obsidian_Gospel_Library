@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 31
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 31
 [[Deuteronômio 30| <-- Deuteronômio 30]] | [[Deuteronômio]] | [[Deuteronômio 32|Deuteronômio 32 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/31?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/31?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés aconselha Josué e todo o Israel a serem fortes e corajosos — A lei deve ser lida para todo o Israel a cada sete anos — Os filhos de Israel seguirão deuses falsos e se corromperão.
 
----
 ###### 1 
 Depois foi Moisés, e falou estas palavras a todo o Israel;
 

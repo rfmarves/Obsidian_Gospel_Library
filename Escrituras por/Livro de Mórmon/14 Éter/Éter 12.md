@@ -1,22 +1,21 @@
 ---
 title: Éter 12
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éter 12
 [[Éter 11| <-- Éter 11]] | [[Éter]] | [[Éter 13|Éter 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O profeta Éter exorta o povo a crer em Deus — Morôni relata as maravilhas e prodígios feitos pela fé — A fé permitiu que o irmão de Jarede visse Cristo — O Senhor dá fraqueza aos homens para que sejam humildes — O irmão de Jarede moveu o Monte Zerim pela fé — Fé, esperança e caridade são essenciais à salvação — Morôni viu Jesus face a face.
 
----
 ###### 1 
 E aconteceu que Éter viveu nos dias de Coriântumr; e Coriântumr era rei de toda a terra.
 

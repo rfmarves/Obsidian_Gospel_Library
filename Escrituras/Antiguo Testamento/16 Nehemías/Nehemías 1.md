@@ -1,22 +1,21 @@
 ---
 title: Nehemías 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nehemías 1
 [[Esdras 10| <-- Esdras 10]] | [[Nehemías]] | [[Nehemías 2|Nehemías 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nehemías llora, ayuna y ora por los judíos que están en Jerusalén.
 
----
 ###### 1 
 Palabras de Nehemías hijo de Hacalías. Y acaeció en el mes de Quisleu, en el año veinte, que estando yo en la ciudadela de Susa,
 

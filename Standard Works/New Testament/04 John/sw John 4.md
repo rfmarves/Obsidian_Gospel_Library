@@ -1,10 +1,11 @@
 ---
 title: sw John 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus teaches a woman of Samaria—All must worship the Father in spirit and truth—Those who harvest souls gain eternal life—Many Samaritans believe—Jesus heals a nobleman’s son.
 
----
 ###### 1 
 When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,
 

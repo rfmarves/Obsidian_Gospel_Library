@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel symbolically illustrates the siege and famine that will befall Jerusalem.
 
----
 ###### 1 
 Thou also, son of man, take thee a tile, and lay it before thee, and portray upon it the city,  Jerusalem:
 

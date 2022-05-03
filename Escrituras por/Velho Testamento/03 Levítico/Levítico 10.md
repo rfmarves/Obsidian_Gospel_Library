@@ -1,22 +1,21 @@
 ---
 title: Levítico 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 10
 [[Levítico 9| <-- Levítico 9]] | [[Levítico]] | [[Levítico 11|Levítico 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nadabe e Abiú realizam sacrifícios não autorizados e são mortos por fogo que sai de diante do Senhor — Proíbe-se que Aarão e seus outros filhos lamentem a morte deles — Aarão e seus filhos devem abster-se de vinho e de bebida forte — Devem ensinar tudo o que o Senhor revelou a Moisés.
 
----
 ###### 1 
 E os filhos de Aarão, Nadabe e Abiú, tomaram cada um o seu incensário, e puseram neles fogo, e puseram incenso sobre ele, e trouxeram fogo estranho perante a face do , o que não lhes ordenara.
 

@@ -1,22 +1,21 @@
 ---
 title: Juízes 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 19
 [[Juízes 18| <-- Juízes 18]] | [[Juízes]] | [[Juízes 20|Juízes 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A concubina de um levita retorna à casa do pai — O marido a toma de volta, e eles se alojam em Gibeá para passar a noite — Os homens de Gibeá abusam da concubina, e ela morre — O marido levita a corta em doze pedaços e os envia às tribos de Israel.
 
----
 ###### 1 
 Aconteceu também naqueles dias, em que não  rei em Israel, que houve um homem levita que, peregrinando nos lados da montanha de Efraim, tomou para si  mulher concubina, de Belém de Judá.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 132
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 132
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/132?lang=eng)
 
----
+```
 A Song of degrees.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A messianic psalm—Of the fruit of David’s loins will the Lord set One upon His throne—The Lord will bless Zion, and her Saints will shout for joy.
 
----
 ###### 1 
 , remember David,  all his afflictions:
 

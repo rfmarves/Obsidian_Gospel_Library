@@ -1,27 +1,25 @@
 ---
 title: Salmos 80
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 80
 [[Salmos 79| <-- Salmos 79]] | [[Salmos]] | [[Salmos 81|Salmos 81 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/80?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/80?lang=spa)
 
----
+```
 Al músico principal: al son de aSusan-Hedut. Salmo de Asaf.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Israel suplica al Pastor de Israel liberación, salvación y que Su faz resplandezca sobre ellos.
 
----
 ###### 1 
 
 

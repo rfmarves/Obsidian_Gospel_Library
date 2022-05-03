@@ -1,22 +1,21 @@
 ---
 title: Eclesiastes 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastes 12
 [[Eclesiastes 11| <-- Eclesiastes 11]] | [[Eclesiastes]] | [[Cantares de Salomão 1|Cantares de Salomão 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Na morte, o espírito volta a Deus que o deu — As palavras dos sábios são como aguilhões — O dever de todo homem é temer a Deus e guardar os Seus mandamentos.
 
----
 ###### 1 
 Lembra-te do teu Criador nos dias da tua mocidade, antes que venham os maus dias, e cheguem os anos dos quais venhas a dizer: Não tenho neles contentamento;
 

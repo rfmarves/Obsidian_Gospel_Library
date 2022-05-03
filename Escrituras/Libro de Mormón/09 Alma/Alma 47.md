@@ -1,22 +1,21 @@
 ---
 title: Alma 47
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 47
 [[Alma 46| <-- Alma 46]] | [[Alma]] | [[Alma 48|Alma 48 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/47?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/47?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Amalickíah se vale de la traición, el asesinato y la intriga para hacerse rey de los lamanitas — Los disidentes nefitas son más inicuos y feroces que los lamanitas. Aproximadamente 72 a.C.
 
----
 ###### 1 
 Volvemos ahora, en nuestros anales, a Amalickíah y a los que huyeron con él al desierto; pues he aquí, él había tomado a los que lo habían seguido, y se fue a la tierra de Nefi entre los lamanitas, e incitó a los lamanitas a la ira contra el pueblo de Nefi, al grado de que el rey de los lamanitas expidió una proclamación por toda su tierra, entre todo su pueblo, de que se juntasen otra vez para ir a la lucha contra los nefitas.
 

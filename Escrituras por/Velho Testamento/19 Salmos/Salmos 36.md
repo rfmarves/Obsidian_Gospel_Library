@@ -1,27 +1,25 @@
 ---
 title: Salmos 36
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 36
 [[Salmos 35| <-- Salmos 35]] | [[Salmos]] | [[Salmos 37|Salmos 37 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/36?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/36?lang=por)
 
----
+```
 Salmo de Davi, servo do Senhor; para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi louva ao Senhor por Sua misericórdia, Sua retidão e Sua benignidade — O manancial da vida está no Senhor.
 
----
 ###### 1 
 A transgressão do ímpio diz no íntimo do seu coração: Não há temor de Deus perante os seus olhos.
 

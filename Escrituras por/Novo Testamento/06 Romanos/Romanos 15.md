@@ -1,22 +1,21 @@
 ---
 title: Romanos 15
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 15
 [[Romanos 14| <-- Romanos 14]] | [[Romanos]] | [[Romanos 16|Romanos 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos verdadeiros confraternizam uns com os outros — Paulo relata sua diligência em pregar o evangelho — Os dons do Espírito são derramados sobre os gentios.
 
----
 ###### 1 
 Mas nós, que somos fortes, devemos suportar as fraquezas dos fracos, e não agradar a nós mesmos.
 

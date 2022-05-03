@@ -1,22 +1,21 @@
 ---
 title: Levítico 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 16
 [[Levítico 15| <-- Levítico 15]] | [[Levítico]] | [[Levítico 17|Levítico 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Explica-se como e quando Aarão deve entrar no santuário — Sacrifícios são oferecidos para reconciliar Israel com Deus — O bode expiatório levará sobre si os pecados do povo — Os pecados de todo o Israel são perdoados no Dia da Expiação.
 
----
 ###### 1 
 E falou o  a Moisés, depois que morreram os dois filhos de Aarão, quando se chegaram diante do  e morreram.
 

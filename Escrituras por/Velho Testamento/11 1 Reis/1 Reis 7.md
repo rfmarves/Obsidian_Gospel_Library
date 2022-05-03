@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 7
 [[1 Reis 6| <-- 1 Reis 6]] | [[1 Reis]] | [[1 Reis 8|1 Reis 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Salomão constrói para si uma casa — Hirão de Tiro constrói para o templo as duas colunas, o mar de fundição, as dez bases, as dez pias e todos os utensílios — O mar de fundição (pia batismal) apóia-se sobre o dorso de doze bois.
 
----
 ###### 1 
 Porém a sua casa edificou Salomão em treze anos; e acabou toda a sua casa.
 

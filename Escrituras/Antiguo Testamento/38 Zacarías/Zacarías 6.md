@@ -1,22 +1,21 @@
 ---
 title: Zacarías 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarías 6
 [[Zacarías 5| <-- Zacarías 5]] | [[Zacarías]] | [[Zacarías 7|Zacarías 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Zacarías corona a Josué, el sumo sacerdote, a semejanza de Cristo, el Renuevo, que vendrá — Cristo será sacerdote sobre Su trono para siempre.
 
----
 ###### 1 
 Y me volví, y alcé mis ojos y miré, y he aquí cuatro carros que salían de entre dos montes; y aquellos montes eran montes de bronce.
 

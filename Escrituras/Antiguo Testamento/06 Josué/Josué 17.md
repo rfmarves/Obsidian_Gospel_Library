@@ -1,22 +1,21 @@
 ---
 title: Josué 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 17
 [[Josué 16| <-- Josué 16]] | [[Josué]] | [[Josué 18|Josué 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Manasés y Efraín reciben una heredad adicional — Efraín ha de expulsar a los cananeos de la región montañosa.
 
----
 ###### 1 
 Y también se echaron suertes para la tribu de Manasés, porque era el primogénito de José. A Maquir, primogénito de Manasés,  padre de Galaad, que fue hombre de guerra, le tocó Galaad y Basán.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 9
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob explains that the Jews will be gathered in all their lands of promise—The Atonement ransoms man from the Fall—The bodies of the dead will come forth from the grave, and their spirits from hell and from paradise—They will be judged—The Atonement saves from death, hell, the devil, and endless torment—The righteous are to be saved in the kingdom of God—Penalties for sins are set forth—The Holy One of Israel is the keeper of the gate. About 559–545 B.C.
 
----
 ###### 1 
 And now, my beloved brethren, I have read these things that ye might know concerning the covenants of the Lord that he has covenanted with all the house of Israel—
 

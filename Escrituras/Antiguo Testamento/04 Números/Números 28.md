@@ -1,22 +1,21 @@
 ---
 title: Números 28
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 28
 [[Números 27| <-- Números 27]] | [[Números]] | [[Números 29|Números 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los sacrificios han de ofrecerse cada mañana y cada noche, en el día de reposo, en el primer día de cada mes, en la Pascua, en cada día de la Fiesta de los Panes sin Levadura y en la Fiesta de las Primicias.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

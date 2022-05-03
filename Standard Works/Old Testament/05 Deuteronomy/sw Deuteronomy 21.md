@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 How amends are made for murders by unknown persons—Equity is required in dealing with wives and children—Stubborn and rebellious sons will be put to death.
 
----
 ###### 1 
 If  be found slain in the land which the  thy God giveth thee to possess it, lying in the field,  it be not known who hath slain him:
 

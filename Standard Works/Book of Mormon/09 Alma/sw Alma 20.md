@@ -1,10 +1,11 @@
 ---
 title: sw Alma 20
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord sends Ammon to Middoni to deliver his imprisoned brethren—Ammon and Lamoni meet Lamoni’s father, who is king over all the land—Ammon compels the old king to approve the release of his brethren. About 90 B.C.
 
----
 ###### 1 
 And it came to pass that when they had established a church in that land, that king Lamoni desired that Ammon should go with him to the land of Nephi, that he might show him unto his father.
 

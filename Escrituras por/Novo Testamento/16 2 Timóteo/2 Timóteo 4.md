@@ -1,22 +1,21 @@
 ---
 title: 2 Timóteo 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Timóteo 4
 [[2 Timóteo 3| <-- 2 Timóteo 3]] | [[2 Timóteo]] | [[Tito 1|Tito 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo dá um solene encargo de pregar o evangelho numa época de apostasia — A exaltação é assegurada a Paulo e a todos os santos.
 
----
 ###### 1 
 Conjuro- pois, diante de Deus, e do Senhor Jesus Cristo, que há de julgar os vivos e os mortos, na sua vinda e  seu reino,
 

@@ -1,22 +1,21 @@
 ---
 title: Gálatas 5
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gálatas 5
 [[Gálatas 4| <-- Gálatas 4]] | [[Gálatas]] | [[Gálatas 6|Gálatas 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/gal/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/gal/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Permaneced firmes en la libertad del Evangelio — Buscad la fe, el amor y también a Cristo y al Espíritu — Se nombran las obras de la carne y los frutos del Espíritu.
 
----
 ###### 1 
 Permaneced, pues, firmes en la libertad con que Cristo nos hizo libres, y no volváis otra vez a ser presos en el yugo de esclavitud.
 

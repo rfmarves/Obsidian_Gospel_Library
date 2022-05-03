@@ -1,10 +1,11 @@
 ---
 title: sw D&C 127
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 127
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/127?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, Joseph Smith glories in persecution and tribulation; 5–12, Records must be kept relative to baptisms for the dead.
 
----
 ###### 1 
 Forasmuch as the Lord has revealed unto me that my enemies, both in Missouri and this State, were again in the pursuit of me; and inasmuch as they pursue me without a cause, and have not the least shadow or coloring of justice or right on their side in the getting up of their prosecutions against me; and inasmuch as their pretensions are all founded in falsehood of the blackest dye, I have thought it expedient and wisdom in me to leave the place for a short season, for my own safety and the safety of this people. I would say to all those with whom I have business, that I have left my affairs with agents and clerks who will transact all business in a prompt and proper manner, and will see that all my debts are canceled in due time, by turning out property, or otherwise, as the case may require, or as the circumstances may admit of. When I learn that the storm is fully blown over, then I will return to you again.
 

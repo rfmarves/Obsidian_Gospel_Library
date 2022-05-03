@@ -1,22 +1,21 @@
 ---
 title: DeC 48
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 48
 [[DeC 47| <-- DeC 47]] | [[DeC]] | [[DeC 49|DeC 49 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/48?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/48?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, Os santos de Ohio devem repartir suas terras com os irmãos; 4–6, Os santos devem comprar terras, construir uma cidade e seguir os conselhos dos oficiais que os presidem.
 
----
 ###### 1 
 É necessário que, por enquanto, permaneçais em vossas moradias, como convenha à vossa condição.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Amaziah reigns well in Judah—Israel defeats Judah in battle—Jeroboam reigns in wickedness in Israel.
 
----
 ###### 1 
 In the second year of Joash son of Jehoahaz king of Israel reigned Amaziah the son of Joash king of Judah.
 

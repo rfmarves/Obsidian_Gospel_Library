@@ -1,22 +1,21 @@
 ---
 title: Malaquias 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Malaquias 3
 [[Malaquias 2| <-- Malaquias 2]] | [[Malaquias]] | [[Malaquias 4|Malaquias 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O mensageiro do Senhor preparará o caminho para a Segunda Vinda — O Senhor se assentará para julgar — O povo de Israel é ordenado a pagar dízimos e ofertas — Eles mantêm um livro de recordações.
 
----
 ###### 1 
 Eis que eu envio o meu mensageiro, que preparará o caminho diante de mim; e de repente virá ao seu templo o Senhor, a quem vós buscais, e o mensageiro do convênio, em quem vos deleitais; eis que ele vem, diz o  dos Exércitos.
 

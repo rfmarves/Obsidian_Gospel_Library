@@ -1,22 +1,21 @@
 ---
 title: 2 Timóteo 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Timóteo 3
 [[2 Timóteo 2| <-- 2 Timóteo 2]] | [[2 Timóteo]] | [[2 Timóteo 4|2 Timóteo 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo descreve a apostasia e os tempos trabalhosos dos últimos dias — As escrituras conduzem o homem à salvação.
 
----
 ###### 1 
 Sabe, porém, isto, que nos últimos dias sobrevirão tempos trabalhosos.
 

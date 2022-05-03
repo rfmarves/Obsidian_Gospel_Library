@@ -1,27 +1,25 @@
 ---
 title: Salmos 47
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 47
 [[Salmos 46| <-- Salmos 46]] | [[Salmos]] | [[Salmos 48|Salmos 48 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/47?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/47?lang=por)
 
----
+```
 Salmo para o músico-mor, entre os filhos de Coré.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 O Senhor é Rei sobre toda a Terra — Cantai louvores a Seu nome, porque Ele reina sobre todos.
 
----
 ###### 1 
 Aplaudi com as mãos, todos os povos; cantai a Deus com voz de triunfo.
 

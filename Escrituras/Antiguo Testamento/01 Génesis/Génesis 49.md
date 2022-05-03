@@ -1,22 +1,21 @@
 ---
 title: Génesis 49
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 49
 [[Génesis 48| <-- Génesis 48]] | [[Génesis]] | [[Génesis 50|Génesis 50 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/49?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/49?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob bendice a sus hijos y a su descendencia — Rubén, Simeón y Leví son castigados — Judá legislará hasta que Siloh (Cristo) venga — José es una rama fructífera junto a una fuente — Sus vástagos (los nefitas y los lamanitas) han de extenderse sobre el muro — El Pastor y Roca de Israel (Cristo) bendecirá a José temporal y espiritualmente — Jacob desea ser sepultado con sus padres en Canaán — Jacob expira y es reunido con sus padres.
 
----
 ###### 1 
 Y llamó Jacob a sus hijos y dijo: Reuníos y os declararé lo que os ha de acontecer en los postreros días.
 

@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 33
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 33
 [[Ezequiel 32| <-- Ezequiel 32]] | [[Ezequiel]] | [[Ezequiel 34|Ezequiel 34 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/33?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/33?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los atalayas que alcen la voz de amonestación salvarán sus propias almas — Los pecadores que se arrepientan serán salvos — Los justos que pequen serán condenados — El pueblo de Judá en Jerusalén es destruido por causa de sus pecados.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

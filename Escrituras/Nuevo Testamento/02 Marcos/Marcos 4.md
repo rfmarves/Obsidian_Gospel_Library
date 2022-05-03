@@ -1,22 +1,21 @@
 ---
 title: Marcos 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 4
 [[Marcos 3| <-- Marcos 3]] | [[Marcos]] | [[Marcos 5|Marcos 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús enseña las parábolas del sembrador, de la luz debajo del almud, de la semilla que crece en secreto y del grano de mostaza — Jesús calma la tempestad.
 
----
 ###### 1 
 Y otra vez comenzó a enseñar junto al mar, y se reunió alrededor de él tanta gente, que entró él en una barca y se sentó en ella; y toda la gente estaba en tierra junto al mar.
 

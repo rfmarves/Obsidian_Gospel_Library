@@ -1,22 +1,21 @@
 ---
 title: Alma 56
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 56
 [[Alma 55| <-- Alma 55]] | [[Alma]] | [[Alma 57|Alma 57 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/56?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/56?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Helamán envía una epístola a Moroni en la que le relata el estado de la guerra con los lamanitas — Antipus y Helamán logran una gran victoria sobre los lamanitas — Los dos mil jóvenes bajo el mando de Helamán luchan con fuerza milagrosa, y ninguno de ellos muere. Versículo 1, aproximadamente 62 a.C.; versículos 2–19, aproximadamente 66 a.C.; y versículos 20–57, aproximadamente 65–64 a.C.
 
----
 ###### 1 
 Y sucedió que al principiar el año treinta del gobierno de los jueces, el segundo día del primer mes, Moroni recibió una epístola de Helamán en la que le relataba los asuntos del pueblo en aquella parte de la tierra.
 

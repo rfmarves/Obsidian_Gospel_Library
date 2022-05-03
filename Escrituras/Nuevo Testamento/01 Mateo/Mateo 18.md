@@ -1,22 +1,21 @@
 ---
 title: Mateo 18
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 18
 [[Mateo 17| <-- Mateo 17]] | [[Mateo]] | [[Mateo 19|Mateo 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús explica cómo tratar a los hermanos que nos ofenden — El Hijo del Hombre vino a salvar lo que se había perdido — Los Doce reciben las llaves del reino — Jesús explica por qué debemos perdonar.
 
----
 ###### 1 
 En aquel tiempo se acercaron los discípulos a Jesús, diciendo: ¿Quién es el mayor en el reino de los cielos?
 

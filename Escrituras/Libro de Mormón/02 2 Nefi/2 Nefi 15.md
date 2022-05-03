@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 15
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 15
 [[2 Nefi 14| <-- 2 Nefi 14]] | [[2 Nefi]] | [[2 Nefi 16|2 Nefi 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La viña del Señor (Israel) será asolada, y Su pueblo será esparcido — Les sobrevendrán calamidades en su estado apóstata y de esparcimiento — El Señor alzará estandarte a las naciones y recogerá a Israel — Compárese con Isaías 5. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Y entonces cantaré a mi muy amado el cantar de mi amado respecto de su viña. Mi amado tenía una viña en un collado muy fértil.
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 126
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 126
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/126?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, Brigham Young is commended for his labors and is relieved of future travel abroad.
 
----
 ###### 1 
 Dear and well-beloved brother, Brigham Young, verily thus saith the Lord unto you: My servant Brigham, it is no more required at your hand to leave your family as in times past, for your offering is acceptable to me.
 

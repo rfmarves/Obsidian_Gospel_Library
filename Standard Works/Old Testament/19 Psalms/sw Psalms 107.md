@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 107
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 107
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/107?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people of Israel are to praise and thank the Lord when they are gathered and redeemed—Oh, that men would praise the Lord!—The Lord’s providences prevail in the lives of men.
 
----
 ###### 1 
 O give thanks unto the , for  good: for his mercy  for ever.
 

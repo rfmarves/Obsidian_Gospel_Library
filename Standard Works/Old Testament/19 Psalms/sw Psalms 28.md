@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 28
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 28
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/28?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David pleads with the Lord to hear his voice and grant his petitions—David prays, Save Thy people and bless Thine inheritance.
 
----
 ###### 1 
 Unto thee will I cry, O  my rock; be not silent to me: lest,  thou be silent to me, I become like them that go down into the pit.
 

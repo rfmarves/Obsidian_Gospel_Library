@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 16
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/16?lang=eng)
 
----
+```
 Michtam of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A messianic psalm of David—He rejoices in the Saints who are on the earth, in his own future redemption from hell, in the fact that God will not suffer His Holy One (the Messiah) to see corruption, and in the fulness of joy that is found in the Lord’s presence.
 
----
 ###### 1 
 Preserve me, O God: for in thee do I put my trust.
 

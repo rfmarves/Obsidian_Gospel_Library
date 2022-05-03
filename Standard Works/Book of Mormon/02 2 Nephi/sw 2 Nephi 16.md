@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 16
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Isaiah sees the Lord—Isaiah’s sins are forgiven—He is called to prophesy—He prophesies of the rejection by the Jews of Christ’s teachings—A remnant will return—Compare Isaiah 6. About 559–545 B.C.
 
----
 ###### 1 
 In the year that king Uzziah died, I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.
 

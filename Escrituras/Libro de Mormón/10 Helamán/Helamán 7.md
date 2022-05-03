@@ -1,27 +1,25 @@
 ---
 title: Helamán 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 7
 [[Helamán 6| <-- Helamán 6]] | [[Helamán]] | [[Helamán 8|Helamán 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/7?lang=spa)
 
----
+```
 La profecía de Nefi, el Hijo de Helamán — Dios amenaza al pueblo de Nefi con visitarlo en su ira, hasta su entera destrucción, a menos que se arrepienta de sus iniquidades. Dios hiere a los del pueblo de Nefi con una peste; se arrepienten y vuelven a él. Samuel, un lamanita, profetiza a los nefitas.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Nefi es rechazado en el norte y vuelve a Zarahemla — Ora en la torre de su jardín y luego dice al pueblo que si no se arrepiente perecerá. Aproximadamente 23–21 a.C.
 
----
 ###### 1 
 He aquí, aconteció que en el año sesenta y nueve del gobierno de los jueces sobre los nefitas, Nefi, el hijo de Helamán, volvió de la tierra del norte a la tierra de Zarahemla,
 

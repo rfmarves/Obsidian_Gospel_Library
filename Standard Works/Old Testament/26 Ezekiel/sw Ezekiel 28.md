@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 28
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 Tyre and Sidon will fall and be destroyed—The Lord will gather the people of Israel to their own land—They will then dwell safely.
 
----
 ###### 1 
 The word of the  came again unto me, saying,
 

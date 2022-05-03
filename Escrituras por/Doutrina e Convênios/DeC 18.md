@@ -1,22 +1,21 @@
 ---
 title: DeC 18
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 18
 [[DeC 17| <-- DeC 17]] | [[DeC]] | [[DeC 19|DeC 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, As escrituras mostram como edificar a Igreja; 6–8, O mundo está amadurecendo em iniquidade; 9–16, O valor das almas é grande; 17–25, A fim de alcançar a salvação, os homens precisam tomar sobre si o nome de Cristo; 26–36, Revelados o chamado e a missão dos Doze; 37–39, Oliver Cowdery e David Whitmer devem procurar os Doze; 40–47, Para alcançar salvação, os homens precisam arrepender-se, ser batizados e guardar os mandamentos.
 
----
 ###### 1 
 Agora, eis que por causa daquilo que tu, meu servo Oliver Cowdery, desejaste saber de mim, digo-te estas palavras:
 

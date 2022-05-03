@@ -1,22 +1,21 @@
 ---
 title: Ester 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 3
 [[Ester 2| <-- Ester 2]] | [[Ester]] | [[Ester 4|Ester 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Mardoqueo, el judío, rehúsa inclinarse ante Amán — Amán prepara un decreto para matar a todos los judíos que había en el reino.
 
----
 ###### 1 
 Después de estas cosas, el rey Asuero ascendió de posición a Amán hijo de Hamedata, el agagueo, y le honró y puso su sitial sobre todos los príncipes que estaban con él.
 

@@ -1,22 +1,21 @@
 ---
 title: Isaías 30
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 30
 [[Isaías 29| <-- Isaías 29]] | [[Isaías]] | [[Isaías 31|Isaías 31 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/30?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/30?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel es esparcido por haber rechazado a los videntes y a los profetas — El pueblo de Israel será recogido y bendecido temporal y espiritualmente — Jehová vendrá en un día de apostasía para juzgar y destruir a los inicuos.
 
----
 ###### 1 
 ¡Ay de los hijos rebeldes, dice Jehová, que toman consejo, pero no de mí; que se entrelazan con cubierta, pero no de mi espíritu, añadiendo pecado sobre pecado!
 

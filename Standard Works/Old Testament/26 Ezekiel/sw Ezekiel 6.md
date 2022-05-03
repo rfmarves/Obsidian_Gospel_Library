@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people of Israel will be destroyed for their idolatry—A remnant only will be saved and scattered.
 
----
 ###### 1 
 And the word of the  came unto me, saying,
 

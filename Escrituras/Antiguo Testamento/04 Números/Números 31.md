@@ -1,22 +1,21 @@
 ---
 title: Números 31
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 31
 [[Números 30| <-- Números 30]] | [[Números]] | [[Números 32|Números 32 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/31?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/31?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moisés envía doce mil guerreros y estos destruyen a los madianitas — Se reparte el botín en Israel — No hay pérdidas en los ejércitos de Israel.
 
----
 ###### 1 
 Y Jehová habló a Moisés, diciendo:
 

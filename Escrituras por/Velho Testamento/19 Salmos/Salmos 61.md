@@ -1,27 +1,25 @@
 ---
 title: Salmos 61
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 61
 [[Salmos 60| <-- Salmos 60]] | [[Salmos]] | [[Salmos 62|Salmos 62 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/61?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/61?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor, sobre Neginote.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi encontra abrigo no Senhor, habita na presença do Senhor e cumpre seus próprios votos.
 
----
 ###### 1 
 Ouve, ó Deus, o meu clamor; atende à minha oração.
 

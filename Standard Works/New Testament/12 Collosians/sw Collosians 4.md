@@ -1,10 +1,11 @@
 ---
 title: sw Collosians 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Collosians 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/col/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Saints are told to be wise in all things—Luke and others greet the Colossians.
 
----
 ###### 1 
 Masters, give unto  servants that which is just and equal; knowing that ye also have a Master in heaven.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Sinners are forgiven through sin offerings of animals without blemish—Priests thereby make an atonement for the sins of the people.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

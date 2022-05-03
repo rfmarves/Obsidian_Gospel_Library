@@ -1,22 +1,21 @@
 ---
 title: Lucas 17
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 17
 [[Lucas 16| <-- Lucas 16]] | [[Lucas]] | [[Lucas 18|Lucas 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús habla de las ofensas, del perdón y de la fe — Aun los fieles son siervos inútiles — Se sana a diez leprosos — Jesús habla sobre la Segunda Venida.
 
----
 ###### 1 
 Y  dijo a sus discípulos: Imposible es que no vengan tropiezos; mas, ¡ay de aquel por quien vienen!
 

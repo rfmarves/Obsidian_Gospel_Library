@@ -1,22 +1,21 @@
 ---
 title: Eter 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eter 1
 [[Mormón 9| <-- Mormón 9]] | [[Eter]] | [[Eter 2|Eter 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moroni compendia los escritos de Éter — Se declara la genealogía de Éter — No se confunde el lenguaje de los jareditas en la Torre de Babel — El Señor promete conducirlos a una tierra escogida y hacer de ellos una gran nación.
 
----
 ###### 1 
 Y ahora yo, Moroni, procedo a hacer una relación de esos antiguos habitantes que fueron destruidos por la mano del Señor sobre la superficie de este país del norte.
 

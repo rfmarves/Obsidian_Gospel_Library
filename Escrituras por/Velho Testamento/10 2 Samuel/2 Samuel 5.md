@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 5
 [[2 Samuel 4| <-- 2 Samuel 4]] | [[2 Samuel]] | [[2 Samuel 6|2 Samuel 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Todo o Israel unge Davi como rei — Ele toma Jerusalém e é abençoado pelo Senhor — Ele conquista os filisteus.
 
----
 ###### 1 
 Então todas as tribos de Israel foram a Davi, a Hebrom, e falaram, dizendo: Eis-nos aqui, teus ossos e tua carne 
 

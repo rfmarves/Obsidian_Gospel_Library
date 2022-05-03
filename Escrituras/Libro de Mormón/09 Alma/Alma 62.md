@@ -1,22 +1,21 @@
 ---
 title: Alma 62
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 62
 [[Alma 61| <-- Alma 61]] | [[Alma]] | [[Alma 63|Alma 63 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/62?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/62?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moroni parte para ayudar a Pahorán en la tierra de Gedeón — Se ejecuta a los realistas que se niegan a defender su país — Pahorán y Moroni se apoderan nuevamente de la ciudad de Nefíah — Muchos de los lamanitas se unen al pueblo de Ammón — Teáncum mata a Ammorón y es muerto a su vez — Los lamanitas son arrojados de la tierra, y se establece la paz — Helamán vuelve al ministerio y edifica a la Iglesia. Aproximadamente 62–57 a.C.
 
----
 ###### 1 
 Y aconteció que cuando Moroni hubo recibido esta epístola, su corazón cobró ánimo y se llenó de un gozo sumamente grande a causa de la fidelidad de Pahorán, de que no era él también un traidor a la libertad ni a la causa de su patria.
 

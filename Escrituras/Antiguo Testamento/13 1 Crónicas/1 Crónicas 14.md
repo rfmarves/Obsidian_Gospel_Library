@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 14
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 14
 [[1 Crónicas 13| <-- 1 Crónicas 13]] | [[1 Crónicas]] | [[1 Crónicas 15|1 Crónicas 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David toma mujeres por esposas, engendra hijos, derrota a los filisteos y su fama se esparce por todas las naciones.
 
----
 ###### 1 
 E Hiram, rey de Tiro, envió mensajeros a David, y madera de cedro, y albañiles y carpinteros, para que le edificasen una casa.
 

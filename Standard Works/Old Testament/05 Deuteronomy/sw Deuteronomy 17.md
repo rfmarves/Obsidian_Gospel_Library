@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Those who worship false gods will be put to death—Priests and judges are to determine the hard cases—Kings are not to acquire horses, wives, or gold for themselves—The king must study the laws of God daily.
 
----
 ###### 1 
 Thou shalt not sacrifice unto the  thy God  bullock, or sheep, wherein is blemish,  any evilfavouredness: for that  an abomination unto the  thy God.
 

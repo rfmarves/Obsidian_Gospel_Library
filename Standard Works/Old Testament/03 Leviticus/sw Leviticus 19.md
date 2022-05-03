@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is commanded: Be holy, live righteously, love your neighbor, and keep the commandments—The Lord reveals and reaffirms sundry laws and commandments—Enchantments, wizardry, prostitution, and all evil practices are forbidden.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

@@ -1,22 +1,21 @@
 ---
 title: João 18
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 18
 [[João 17| <-- João 17]] | [[João]] | [[João 19|João 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus é traído e preso — Ele é interrogado e maltratado perante Anás, depois perante Caifás — Pedro nega conhecer Jesus — Jesus é levado perante Pilatos.
 
----
 ###### 1 
 Tendo Jesus dito essas  saiu com os seus discípulos para além do ribeiro de Cedrom, onde havia um horto, no qual ele entrou, e seus discípulos.
 

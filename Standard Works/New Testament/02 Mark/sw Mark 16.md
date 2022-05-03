@@ -1,10 +1,11 @@
 ---
 title: sw Mark 16
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ is risen—He appears to Mary Magdalene, then to others—He sends the Apostles to preach and promises that signs will follow faith—He ascends into heaven.
 
----
 ###### 1 
 And when the sabbath was past, Mary Magdalene, and Mary the  of James, and Salome, had bought sweet spices, that they might come and anoint him.
 

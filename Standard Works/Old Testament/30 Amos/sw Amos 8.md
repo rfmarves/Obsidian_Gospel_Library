@@ -1,10 +1,11 @@
 ---
 title: sw Amos 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Amos 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Amos prophesies the downfall of Israel—There will be a famine of hearing the word of the Lord.
 
----
 ###### 1 
 Thus hath the Lord  shewed unto me: and behold a basket of summer fruit.
 

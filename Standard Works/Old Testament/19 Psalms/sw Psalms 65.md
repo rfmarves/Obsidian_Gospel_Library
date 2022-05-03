@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 65
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 65
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/65?lang=eng)
 
----
+```
 To the chief Musician, A Psalm and Song of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David speaks of the blessedness of God’s chosen—The Lord sends rain and good things upon the earth.
 
----
 ###### 1 
 Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.
 

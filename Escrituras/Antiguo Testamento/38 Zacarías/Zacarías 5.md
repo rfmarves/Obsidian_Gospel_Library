@@ -1,22 +1,21 @@
 ---
 title: Zacarías 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarías 5
 [[Zacarías 4| <-- Zacarías 4]] | [[Zacarías]] | [[Zacarías 6|Zacarías 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Un ángel revela verdades a Zacarías, valiéndose de representaciones simbólicas.
 
----
 ###### 1 
 Y me volví, y alcé mis ojos y miré, y he aquí un rollo que volaba.
 

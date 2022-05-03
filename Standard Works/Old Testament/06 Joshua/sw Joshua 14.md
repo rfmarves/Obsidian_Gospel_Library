@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 The land is divided by lot among 9½ tribes—Caleb inherits Hebron as a special reward for his faithfulness.
 
----
 ###### 1 
 And these  which the children of Israel inherited in the land of Canaan, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, distributed for inheritance to them.
 

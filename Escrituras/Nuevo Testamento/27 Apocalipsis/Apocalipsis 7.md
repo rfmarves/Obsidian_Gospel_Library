@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 7
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 7
 [[Apocalipsis 6| <-- Apocalipsis 6]] | [[Apocalipsis]] | [[Apocalipsis 8|Apocalipsis 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Juan ve también en el sexto sello la restauración del Evangelio, el sellamiento de los ciento cuarenta y cuatro mil y las huestes de los que han sido exaltados de entre todas las naciones.
 
----
 ###### 1 
 Y después de estas cosas vi a cuatro ángeles que estaban de pie en los cuatro ángulos de la tierra, deteniendo los cuatro vientos de la tierra, para que no soplase viento alguno sobre la tierra, ni sobre el mar ni sobre ningún árbol.
 

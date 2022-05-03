@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 7
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus concludes the Sermon on the Mount—He commands, Judge not; ask of God; beware of false prophets—He promises salvation to those who do the will of the Father.
 
----
 ###### 1 
 Judge not, that ye be not judged.
 

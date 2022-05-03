@@ -1,10 +1,11 @@
 ---
 title: sw Nehemiah 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nehemiah 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people and their overseers are elected by lot to dwell in Jerusalem and the other cities.
 
----
 ###### 1 
 And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts  in  cities.
 

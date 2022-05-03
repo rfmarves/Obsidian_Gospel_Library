@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 28
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 Many false churches will be built up in the last days—They will teach false, vain, and foolish doctrines—Apostasy will abound because of false teachers—The devil will rage in the hearts of men—He will teach all manner of false doctrines. About 559–545 B.C.
 
----
 ###### 1 
 And now, behold, my brethren, I have spoken unto you, according as the Spirit hath constrained me; wherefore, I know that they must surely come to pass.
 

@@ -1,22 +1,21 @@
 ---
 title: Josué 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 1
 [[Deuteronomio 34| <-- Deuteronomio 34]] | [[Josué]] | [[Josué 2|Josué 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová habla a Josué — Se le manda ser valiente, meditar en la ley y guardar los mandamientos — Josué prepara a Israel para entrar en Canaán.
 
----
 ###### 1 
 Y aconteció después de la muerte de Moisés, siervo de Jehová, que Jehová habló a Josué hijo de Nun, ayudante de Moisés, diciendo:
 

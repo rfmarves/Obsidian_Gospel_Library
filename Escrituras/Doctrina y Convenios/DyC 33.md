@@ -1,22 +1,21 @@
 ---
 title: DyC 33
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 33
 [[DyC 32| <-- DyC 32]] | [[DyC]] | [[DyC 34|DyC 34 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/33?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/33?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, Se llaman obreros para declarar el Evangelio en la hora undécima; 5–6, La Iglesia está establecida, y los escogidos han de ser recogidos; 7–10, Arrepentíos, porque el reino de los cielos está cerca; 11–15, La Iglesia está edificada sobre la roca del Evangelio; 16–18, Preparaos para la venida del Esposo.
 
----
 ###### 1 
 He aquí, os digo, mis siervos Ezra y Northrop, destapad vuestros oídos y escuchad la voz del Señor vuestro Dios, cuya palabra es viva y poderosa, más cortante que una espada de dos filos, que penetra hasta partir las coyunturas y los tuétanos, el alma y el espíritu; y discierne los pensamientos y las intenciones del corazón.
 

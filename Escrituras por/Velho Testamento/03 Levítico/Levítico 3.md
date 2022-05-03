@@ -1,22 +1,21 @@
 ---
 title: Levítico 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 3
 [[Levítico 2| <-- Levítico 2]] | [[Levítico]] | [[Levítico 4|Levítico 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os sacrifícios pacíficos são realizados com animais sem defeito, cujo sangue é espargido no altar — Proíbe-se Israel de comer gordura ou sangue.
 
----
 ###### 1 
 E se a sua oferta  sacrifício pacífico; se  oferecer de gado, macho ou fêmea, oferecê-la-á sem defeito diante do .
 

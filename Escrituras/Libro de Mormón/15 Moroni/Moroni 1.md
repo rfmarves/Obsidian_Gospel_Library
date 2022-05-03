@@ -1,22 +1,21 @@
 ---
 title: Moroni 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moroni 1
 [[Eter 15| <-- Eter 15]] | [[Moroni]] | [[Moroni 2|Moroni 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moroni escribe para el beneficio de los lamanitas — Se mata a todo nefita que no niegue al Cristo. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 Ahora bien, yo, Moroni, después de haber acabado de compendiar los anales del pueblo de Jared, había pensado no escribir más, pero no he perecido todavía; y no me doy a conocer a los lamanitas, no sea que me destruyan.
 

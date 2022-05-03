@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 10
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 10
 [[1 Coríntios 9| <-- 1 Coríntios 9]] | [[1 Coríntios]] | [[1 Coríntios 11|1 Coríntios 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo é o Deus de Israel e a Rocha espiritual que os guiou — A antiga Israel rebelou-se contra Cristo — Paulo contrasta os sacramentos verdadeiros e os falsos.
 
----
 ###### 1 
 Ora, irmãos, não quero que ignoreis que nossos pais estiveram todos debaixo da nuvem, e todos passaram pelo mar.
 

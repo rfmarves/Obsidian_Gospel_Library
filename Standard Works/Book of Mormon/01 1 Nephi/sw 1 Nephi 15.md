@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 15
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Lehi’s seed are to receive the gospel from the Gentiles in the latter days—The gathering of Israel is likened unto an olive tree whose natural branches will be grafted in again—Nephi interprets the vision of the tree of life and speaks of the justice of God in dividing the wicked from the righteous. About 600–592 B.C.
 
----
 ###### 1 
 And it came to pass that after I, Nephi, had been carried away in the Spirit, and seen all these things, I returned to the tent of my father.
 

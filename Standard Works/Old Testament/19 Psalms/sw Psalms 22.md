@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 22
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/22?lang=eng)
 
----
+```
 To the chief Musician upon Aijeleth Shahar, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A messianic psalm of David—He foretells events in the Messiah’s life—The Messiah will say, My God, my God, why hast Thou forsaken me?—They will pierce His hands and feet—He will yet govern among all nations.
 
----
 ###### 1 
 My God, my God, why hast thou forsaken me?  far from helping me,  the words of my roaring?
 

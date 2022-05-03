@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 15
 [[1 Samuel 14| <-- 1 Samuel 14]] | [[1 Samuel]] | [[1 Samuel 16|1 Samuel 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se manda a Saúl atacar y destruir a los amalecitas y todo lo que poseen — Aparta algunos animales para sacrificarlos — Saúl es rechazado como rey y se le dice que el obedecer es mejor que el sacrificio — Samuel destruye a Agag.
 
----
 ###### 1 
 Y Samuel dijo a Saúl: Jehová me envió a que te ungiese como rey sobre su pueblo Israel; escucha, pues, la voz de las palabras de Jehová.
 

@@ -1,22 +1,21 @@
 ---
 title: Eclesiastes 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastes 1
 [[Provérbios 31| <-- Provérbios 31]] | [[Eclesiastes]] | [[Eclesiastes 2|Eclesiastes 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Tudo o que se faz debaixo do sol é vaidade e aflição de espírito — Aquele que aumenta em conhecimento aumenta em sofrimento.
 
----
 ###### 1 
 Palavras do pregador, filho de Davi, rei em Jerusalém:
 

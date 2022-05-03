@@ -1,22 +1,21 @@
 ---
 title: DyC 50
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 50
 [[DyC 49| <-- DyC 49]] | [[DyC]] | [[DyC 51|DyC 51 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, Hay muchos espíritus falsos que andan por la tierra; 6–9, Ay de los hipócritas y de aquellos que son separados de la Iglesia; 10–14, Los élderes deben predicar el Evangelio por el Espíritu; 15–22, Es preciso que tanto los predicadores como los oyentes sean iluminados por el Espíritu; 23–25, Lo que no edifica no es de Dios; 26–28, Los fieles son poseedores de todas las cosas; 29–36, Las oraciones de los que son purificados son contestadas; 37–46, Cristo es el Buen Pastor y la Roca de Israel.
 
----
 ###### 1 
 Escuchad, oh élderes de mi iglesia, y dad oído a la voz del Dios viviente; y prestad atención a las palabras de sabiduría que os serán dadas, según lo que habéis preguntado y acordado, en relación con la iglesia y los espíritus que andan por la tierra.
 

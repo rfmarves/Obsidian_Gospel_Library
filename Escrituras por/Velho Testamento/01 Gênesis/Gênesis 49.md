@@ -1,22 +1,21 @@
 ---
 title: Gênesis 49
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 49
 [[Gênesis 48| <-- Gênesis 48]] | [[Gênesis]] | [[Gênesis 50|Gênesis 50 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/49?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/49?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó abençoa seus filhos e a semente deles — Rúben, Simeão e Levi são castigados — Judá governará até que venha Siló (Cristo) — José é um ramo frutífero junto à fonte — Seus ramos (os nefitas e os lamanitas) se estenderão sobre o muro — O Pastor e a Pedra de Israel (Cristo) abençoará José temporal e espiritualmente — Jacó exige ser sepultado com seus pais em Canaã — Jacó morre e é reunido a seus pais.
 
----
 ###### 1 
 Depois Jacó chamou seus filhos, e disse: Ajuntai-vos, e anunciar-vos-ei o que vos há de acontecer nos últimos dias.
 

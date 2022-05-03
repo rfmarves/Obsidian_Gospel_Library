@@ -1,22 +1,21 @@
 ---
 title: Provérbios 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 14
 [[Provérbios 13| <-- Provérbios 13]] | [[Provérbios]] | [[Provérbios 15|Provérbios 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Afasta-te da presença do homem insensato — A testemunha verdadeira livra almas — A retidão exalta a nação.
 
----
 ###### 1 
 Toda mulher sábia edifica a sua casa, mas a tola a derruba com as suas mãos.
 

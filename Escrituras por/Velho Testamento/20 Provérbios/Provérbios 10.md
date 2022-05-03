@@ -1,22 +1,21 @@
 ---
 title: Provérbios 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 10
 [[Provérbios 9| <-- Provérbios 9]] | [[Provérbios]] | [[Provérbios 11|Provérbios 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O filho sábio alegra seu pai — A boca do justo é fonte de vida — Aquele que divulga má fama é insensato — O desejo dos justos será concedido.
 
----
 ###### 1 
 Provérbios de Salomão. O filho sábio alegra seu pai, mas o filho tolo  a tristeza de sua mãe.
 

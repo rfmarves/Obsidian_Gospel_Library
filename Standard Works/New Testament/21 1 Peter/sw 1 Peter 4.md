@@ -1,10 +1,11 @@
 ---
 title: sw 1 Peter 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Peter 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Peter explains why the gospel is preached to the dead—Saints should speak as the oracles of God—The righteous will be tried and tested in all things.
 
----
 ###### 1 
 Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;
 

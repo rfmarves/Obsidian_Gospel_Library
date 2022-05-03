@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses is appointed to give the word of the Lord to Pharaoh—The Lord will multiply signs and wonders in Egypt—Aaron’s rod becomes a serpent—The river is turned into blood—The magicians imitate the miracles of Moses and Aaron.
 
----
 ###### 1 
 And the  said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet.
 

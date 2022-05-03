@@ -1,22 +1,21 @@
 ---
 title: Gênesis 41
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 41
 [[Gênesis 40| <-- Gênesis 40]] | [[Gênesis]] | [[Gênesis 42|Gênesis 42 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/41?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/41?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Faraó sonha com as vacas e as espigas — José interpreta os sonhos como sete anos de fartura e sete anos de fome — Ele propõe um programa de armazenamento de trigo — Faraó faz dele governante de todo o Egito — José se casa com Azenate — Ele ajunta trigo como a areia do mar — Azenate dá à luz Manassés e Efraim — José vende trigo aos egípcios e a outras pessoas durante a época de fome.
 
----
 ###### 1 
 E aconteceu que, ao fim de dois anos inteiros, Faraó sonhou, e eis que estava em pé junto ao rio,
 

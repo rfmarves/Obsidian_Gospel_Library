@@ -1,10 +1,11 @@
 ---
 title: sw Romans 6
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Baptism is in similitude of the death, burial, and resurrection of Christ—The wages of sin is death—Christ brings eternal life.
 
----
 ###### 1 
 What shall we say then? Shall we continue in sin, that grace may abound?
 

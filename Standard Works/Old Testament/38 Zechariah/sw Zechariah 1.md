@@ -1,10 +1,11 @@
 ---
 title: sw Zechariah 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zechariah 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Zechariah calls upon Judah to repent—He is shown in vision that the cities of Judah and the temple will be rebuilt.
 
----
 ###### 1 
 In the eighth month, in the second year of Darius, came the word of the  unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,
 

@@ -1,22 +1,21 @@
 ---
 title: Juan 5
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 5
 [[Juan 4| <-- Juan 4]] | [[Juan]] | [[Juan 6|Juan 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús sana a un paralítico en el día de reposo — Explica por qué los hombres deben honrar al Hijo — Jesús promete llevar el Evangelio a los muertos — Por el Hijo, el hombre será resucitado y juzgado, y recibirá la gloria que merezca — Jesús obedece la ley divina de los testigos.
 
----
 ###### 1 
 Después de estas cosas, había una fiesta de los judíos, y subió Jesús a Jerusalén.
 

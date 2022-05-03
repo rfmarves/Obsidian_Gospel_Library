@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord tested the children of Israel in the wilderness for forty years—Eating manna taught them that man lives by the word of God—Their clothing did not wear out—The Lord chastened them—If they serve other gods, they will perish.
 
----
 ###### 1 
 All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the  sware unto your fathers.
 

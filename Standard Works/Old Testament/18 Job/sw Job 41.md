@@ -1,10 +1,11 @@
 ---
 title: sw Job 41
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 41
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/41?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord points to His power in the leviathan—All things under the whole heaven are the Lord’s.
 
----
 ###### 1 
 Canst thou draw out leviathan with an hook? or his tongue with a cord  thou lettest down?
 

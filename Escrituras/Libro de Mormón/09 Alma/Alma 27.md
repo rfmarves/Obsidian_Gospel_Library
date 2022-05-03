@@ -1,22 +1,21 @@
 ---
 title: Alma 27
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 27
 [[Alma 26| <-- Alma 26]] | [[Alma]] | [[Alma 28|Alma 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Señor manda a Ammón que conduzca al pueblo de Anti-Nefi-Lehi a un lugar donde esté seguro — Al encontrarse con Alma, el gozo de Ammón es tan grande que se le agotan las fuerzas — Los nefitas ceden a sus hermanos del pueblo de Anti-Nefi-Lehi la tierra de Jersón — Se les llama el pueblo de Ammón. Aproximadamente 90–77 a.C.
 
----
 ###### 1 
 Y aconteció que cuando aquellos lamanitas que habían ido a la guerra contra los nefitas vieron, después de sus muchos esfuerzos por destruirlos, que era en vano procurar su destrucción, se volvieron otra vez a la tierra de Nefi.
 

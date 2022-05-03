@@ -1,22 +1,21 @@
 ---
 title: DyC 75
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 75
 [[DyC 74| <-- DyC 74]] | [[DyC]] | [[DyC 76|DyC 76 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/75?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/75?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, Los élderes fieles que predican el Evangelio lograrán la vida eterna; 6–12, Se debe orar para recibir al Consolador, el cual enseña todas las cosas; 13–22, Los élderes juzgarán a aquellos que rechacen su mensaje; 23–36, Las familias de los misioneros deben recibir ayuda de la Iglesia.
 
----
 ###### 1 
 De cierto, de cierto os digo yo, que hablo por la voz de mi Espíritu, sí, el Alfa y la Omega, vuestro Señor y vuestro Dios:
 

@@ -1,22 +1,21 @@
 ---
 title: Mosíah 12
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 12
 [[Mosíah 11| <-- Mosíah 11]] | [[Mosíah]] | [[Mosíah 13|Mosíah 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Abinadí es encarcelado por profetizar la destrucción del pueblo y la muerte del rey Noé — Los sacerdotes falsos citan las Escrituras y fingen observar la ley de Moisés — Abinadí comienza a enseñarles los Diez Mandamientos. Aproximadamente 148 a.C.
 
----
 ###### 1 
 Y aconteció que después de dos años, Abinadí vino entre ellos disfrazado, de modo que no lo conocieron, y empezó a profetizar entre ellos, diciendo: Así me ha mandado el Señor, diciendo: Abinadí, ve y profetiza a los de mi pueblo, porque han endurecido su corazón en contra de mis palabras; no se han arrepentido de sus malas obras; por lo tanto, los visitaré con mi ira; sí, con mi furiosa ira los visitaré en sus iniquidades y abominaciones.
 

@@ -1,22 +1,21 @@
 ---
 title: Amós 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 4
 [[Amós 3| <-- Amós 3]] | [[Amós]] | [[Amós 5|Amós 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor retém a chuva, envia fome e peste, e destrói vinhas e pomares como juízo sobre o Seu povo, mas eles não retornam ao Senhor.
 
----
 ###### 1 
 Ouvi esta palavra, vós, vacas de Basã,  que  no monte de Samaria,  que oprimis os pobres, que quebrantais os necessitados,  que dizeis a seus senhores: Dai cá, para que bebamos.
 

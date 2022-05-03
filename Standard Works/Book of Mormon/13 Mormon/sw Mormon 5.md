@@ -1,10 +1,11 @@
 ---
 title: sw Mormon 5
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mormon 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mormon again leads the Nephite armies in battles of blood and carnage—The Book of Mormon will come forth to convince all Israel that Jesus is the Christ—Because of their unbelief, the Lamanites will be scattered, and the Spirit will cease to strive with them—They will receive the gospel from the Gentiles in the latter days. About A.D. 375–84.
 
----
 ###### 1 
 And it came to pass that I did go forth among the Nephites, and did repent of the oath which I had made that I would no more assist them; and they gave me command again of their armies, for they looked upon me as though I could deliver them from their afflictions.
 

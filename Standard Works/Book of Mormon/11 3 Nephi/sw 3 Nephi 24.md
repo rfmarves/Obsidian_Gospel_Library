@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 24
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord’s messenger will prepare the way for the Second Coming—Christ will sit in judgment—Israel is commanded to pay tithes and offerings—A book of remembrance is kept—Compare Malachi 3. About A.D. 34.
 
----
 ###### 1 
 And it came to pass that he commanded them that they should write the words which the Father had given unto Malachi, which he should tell unto them. And it came to pass that after they were written he expounded them. And these are the words which he did tell unto them, saying: Thus said the Father unto Malachi—Behold, I will send my messenger, and he shall prepare the way before me, and the Lord whom ye seek shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in; behold, he shall come, saith the Lord of Hosts.
 

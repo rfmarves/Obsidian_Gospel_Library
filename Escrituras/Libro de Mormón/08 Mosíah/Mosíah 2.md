@@ -1,22 +1,21 @@
 ---
 title: Mosíah 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 2
 [[Mosíah 1| <-- Mosíah 1]] | [[Mosíah]] | [[Mosíah 3|Mosíah 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El rey Benjamín habla a los de su pueblo — Refiere la equidad, justicia y espiritualidad de su reino — Les aconseja servir a su Rey Celestial — Los que se rebelen contra Dios padecerán una angustia semejante a un fuego inextinguible. Aproximadamente 124 a.C.
 
----
 ###### 1 
 Y sucedió que después que Mosíah hubo hecho lo que su padre le había mandado, y hubo proclamado por toda la tierra, el pueblo se congregó de todas partes, a fin de subir hasta el templo para oír las palabras que el rey Benjamín les iba a hablar.
 

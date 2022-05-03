@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 56
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 56
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/56?lang=eng)
 
----
+```
 To the chief Musician upon Jonath-elem-rechokim, Michtam of David, when the Philistines took him in Gath.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David seeks mercy, trusts in and praises the Lord, and thanks Him for deliverance.
 
----
 ###### 1 
 Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.
 

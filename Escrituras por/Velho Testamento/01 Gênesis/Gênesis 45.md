@@ -1,22 +1,21 @@
 ---
 title: Gênesis 45
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 45
 [[Gênesis 44| <-- Gênesis 44]] | [[Gênesis]] | [[Gênesis 46|Gênesis 46 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/45?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/45?lang=por)
 
----
-__Resumo__
+> __Resumo__
 José se dá a conhecer aos seus irmãos — Eles se regozijam juntos — Faraó convida Jacó e sua família a morar no Egito e a comer da fartura da terra.
 
----
 ###### 1 
 Então José não se pôde conter diante de todos os que estavam com ele; e clamou: Fazei sair de minha presença todos os homens; e ninguém ficou com ele, quando José se deu a conhecer a seus irmãos.
 

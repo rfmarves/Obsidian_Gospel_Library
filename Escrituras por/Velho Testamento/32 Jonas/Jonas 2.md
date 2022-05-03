@@ -1,22 +1,21 @@
 ---
 title: Jonas 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jonas 2
 [[Jonas 1| <-- Jonas 1]] | [[Jonas]] | [[Jonas 3|Jonas 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jonah/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jonah/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jonas ora ao Senhor, e o peixe o vomita em terra seca.
 
----
 ###### 1 
 E orou Jonas ao  seu Deus, das entranhas do peixe.
 

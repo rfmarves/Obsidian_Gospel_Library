@@ -1,22 +1,21 @@
 ---
 title: DeC 1
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 1
 | [[DeC]] | [[DeC 2|DeC 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–7, A voz de advertência dirige-se a todos os povos; 8–16, Apostasia e iniquidade precedem a Segunda Vinda; 17–23, Joseph Smith chamado para restaurar na Terra as verdades e os poderes do Senhor; 24–33, O Livro de Mórmon é trazido à luz e a verdadeira Igreja é estabelecida; 34–36, A paz será tirada da Terra; 37–39, Examinai estes mandamentos.
 
----
 ###### 1 
 Escutai, ó povo da minha igreja, diz a voz daquele que habita no alto e cujos olhos estão sobre todos os homens; sim, em verdade vos digo: Escutai, ó povos distantes e vós, que estais nas ilhas do mar, escutai juntamente.
 

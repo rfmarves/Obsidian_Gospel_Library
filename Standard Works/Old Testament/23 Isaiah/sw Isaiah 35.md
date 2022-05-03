@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 35
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 35
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/35?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the day of restoration, the desert will blossom, the Lord will come, Israel will be gathered, and Zion will be built up.
 
----
 ###### 1 
 The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose.
 

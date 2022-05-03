@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 138
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 138
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/138?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David praises the Lord for His loving kindness and truth—He worships toward the holy temple.
 
----
 ###### 1 
 I will praise thee with my whole heart: before the gods will I sing praise unto thee.
 

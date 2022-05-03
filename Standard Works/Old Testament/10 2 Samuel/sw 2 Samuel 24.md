@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 David sins in numbering Israel and Judah—The men of war total 1,300,000—The Lord destroys 70,000 men by pestilence—David sees an angel, offers sacrifice, and the plague is stayed.
 
----
 ###### 1 
 And again the anger of the  was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah.
 

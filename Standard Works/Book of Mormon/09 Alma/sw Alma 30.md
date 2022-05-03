@@ -1,10 +1,11 @@
 ---
 title: sw Alma 30
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 30
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng)
 
----
-__Summary__
+> __Summary__
 Korihor, the anti-Christ, ridicules Christ, the Atonement, and the spirit of prophecy—He teaches that there is no God, no fall of man, no penalty for sin, and no Christ—Alma testifies that Christ will come and that all things denote there is a God—Korihor demands a sign and is struck dumb—The devil had appeared to Korihor as an angel and taught him what to say—Korihor is trodden down and dies. About 76–74 B.C.
 
----
 ###### 1 
 Behold, now it came to pass that after the people of Ammon were established in the land of Jershon, yea, and also after the Lamanites were driven out of the land, and their dead were buried by the people of the land—
 

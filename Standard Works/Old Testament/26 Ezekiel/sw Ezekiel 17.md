@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel shows in a parable how Israel, while subject to Babylon, wrongfully sought help from Egypt—Yet the Lord will bring forth in the last days a goodly tree from the cedars of Lebanon.
 
----
 ###### 1 
 And the word of the  came unto me, saying,
 

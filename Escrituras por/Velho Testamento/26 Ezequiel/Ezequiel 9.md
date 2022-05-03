@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 9
 [[Ezequiel 8| <-- Ezequiel 8]] | [[Ezequiel]] | [[Ezequiel 10|Ezequiel 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ezequiel vê a identificação dos justos e a matança de todos os outros, começando pelo santuário do Senhor.
 
----
 ###### 1 
 Então me gritou aos ouvidos  grande voz, dizendo: Fazei chegar os encarregados da cidade, cada um com as suas armas destruidoras na mão.
 

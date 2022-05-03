@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 A messianic psalm—The heathen will rage against the Lord’s anointed—The Lord speaks of His Son, whom He has begotten.
 
----
 ###### 1 
 Why do the heathen rage, and the people imagine a vain thing?
 

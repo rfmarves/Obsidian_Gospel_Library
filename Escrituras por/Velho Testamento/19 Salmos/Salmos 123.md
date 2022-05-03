@@ -1,27 +1,25 @@
 ---
 title: Salmos 123
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 123
 [[Salmos 122| <-- Salmos 122]] | [[Salmos]] | [[Salmos 124|Salmos 124 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/123?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/123?lang=por)
 
----
+```
 Cântico das subidas.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Levantai os vossos olhos ao Senhor e implorai-Lhe misericórdia.
 
----
 ###### 1 
 A ti levanto os meus olhos, ó tu que habitas nos céus.
 

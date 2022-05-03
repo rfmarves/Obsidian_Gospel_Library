@@ -1,22 +1,21 @@
 ---
 title: Isaías 58
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 58
 [[Isaías 57| <-- Isaías 57]] | [[Isaías]] | [[Isaías 59|Isaías 59 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Estabelece-se a verdadeira lei do jejum, com seus propósitos e as bênçãos que a acompanham — Dá-se o mandamento de guardar o Sábado.
 
----
 ###### 1 
 Clama em alta voz, não te retenhas, levanta a tua voz como a trombeta e anuncia ao meu povo a sua transgressão, e à casa de Jacó, os seus pecados.
 

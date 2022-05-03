@@ -1,22 +1,21 @@
 ---
 title: Romanos 10
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 10
 [[Romanos 9| <-- Romanos 9]] | [[Romanos]] | [[Romanos 11|Romanos 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A salvação vem pela retidão para os que acreditam em Cristo — A fé vem pelo ouvir o evangelho ensinado por ministros autorizados enviados por Deus.
 
----
 ###### 1 
 Irmãos, o bom desejo do meu coração e a oração a Deus por Israel é para  salvação.
 

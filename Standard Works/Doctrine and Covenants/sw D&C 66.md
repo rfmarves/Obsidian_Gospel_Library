@@ -1,10 +1,11 @@
 ---
 title: sw D&C 66
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 66
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/66?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, The everlasting covenant is the fulness of the gospel; 5–8, Elders are to preach, testify, and reason with the people; 9–13, Faithful ministerial service ensures an inheritance of eternal life.
 
----
 ###### 1 
 Behold, thus saith the Lord unto my servant William E. McLellin—Blessed are you, inasmuch as you have turned away from your iniquities, and have received my truths, saith the Lord your Redeemer, the Savior of the world, even of as many as believe on my name.
 

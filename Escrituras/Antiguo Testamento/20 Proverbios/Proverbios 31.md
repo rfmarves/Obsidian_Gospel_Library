@@ -1,22 +1,21 @@
 ---
 title: Proverbios 31
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 31
 [[Proverbios 30| <-- Proverbios 30]] | [[Proverbios]] | [[Eclesiastés 1|Eclesiastés 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/31?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/31?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se condenan el vino y la bebida fuerte — Defended la causa del pobre y del menesteroso — La mujer virtuosa es más valiosa que las piedras preciosas.
 
----
 ###### 1 
 Palabras del rey Lemuel; la profecía que le enseñó su madre:
 

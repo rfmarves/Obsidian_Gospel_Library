@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 8
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Lehi sees a vision of the tree of life—He partakes of its fruit and desires his family to do likewise—He sees a rod of iron, a strait and narrow path, and the mists of darkness that enshroud men—Sariah, Nephi, and Sam partake of the fruit, but Laman and Lemuel refuse. About 600–592 B.C.
 
----
 ###### 1 
 And it came to pass that we had gathered together all manner of seeds of every kind, both of grain of every kind, and also of the seeds of fruit of every kind.
 

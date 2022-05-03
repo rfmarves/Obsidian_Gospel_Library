@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 57
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 57
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/57?lang=eng)
 
----
+```
 To the chief Musician, Al-taschith, Michtam of David, when he fled from Saul in the cave.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David pleads for mercy and acclaims the glory and exaltation of God.
 
----
 ###### 1 
 Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until  calamities be overpast.
 

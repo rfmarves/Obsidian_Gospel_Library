@@ -1,27 +1,25 @@
 ---
 title: Salmos 84
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 84
 [[Salmos 83| <-- Salmos 83]] | [[Salmos]] | [[Salmos 85|Salmos 85 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/84?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/84?lang=por)
 
----
+```
 Para o músico-mor, sobre Gitite. Salmo para os filhos de Coré.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Os justos clamam ao Deus vivo — É melhor estar à porta da casa do Senhor do que habitar nas tendas dos ímpios — Nenhuma coisa boa é retida daqueles que andam em retidão.
 
----
 ###### 1 
 Quão amáveis  os teus tabernáculos,  dos Exércitos.
 

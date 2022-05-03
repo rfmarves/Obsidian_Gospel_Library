@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saul, the son of Kish, a Benjamite, is a choice and goodly person—He is sent to seek his father’s asses—The Lord reveals to Samuel the seer that Saul is to be king—Saul goes to Samuel and is entertained by him.
 
----
 ###### 1 
 Now there was a man of Benjamin, whose name  Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power.
 

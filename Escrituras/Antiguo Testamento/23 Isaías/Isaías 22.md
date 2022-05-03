@@ -1,22 +1,21 @@
 ---
 title: Isaías 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 22
 [[Isaías 21| <-- Isaías 21]] | [[Isaías]] | [[Isaías 23|Isaías 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jerusalén será atacada y azotada — El pueblo será llevado cautivo — El Mesías tendrá la llave de la casa de David, heredará gloria y será clavado como un clavo en un lugar seguro.
 
----
 ###### 1 
 Profecía sobre el valle de la visión: ¿Qué tienes ahora, que con todos los tuyos has subido sobre los terrados?
 

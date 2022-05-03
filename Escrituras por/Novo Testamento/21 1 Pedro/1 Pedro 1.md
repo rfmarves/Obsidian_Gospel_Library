@@ -1,22 +1,21 @@
 ---
 title: 1 Pedro 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Pedro 1
 [[Tiago 5| <-- Tiago 5]] | [[1 Pedro]] | [[1 Pedro 2|1 Pedro 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A prova de nossa fé precede a salvação — Cristo foi preordenado para ser o Redentor.
 
----
 ###### 1 
 Pedro, apóstolo de Jesus Cristo, aos estrangeiros dispersos no Ponto, Galácia, Capadócia, Ásia e Bitínia;
 

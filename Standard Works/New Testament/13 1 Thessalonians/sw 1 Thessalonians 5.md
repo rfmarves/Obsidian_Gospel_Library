@@ -1,10 +1,11 @@
 ---
 title: sw 1 Thessalonians 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Thessalonians 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Saints will know the season of the Second Coming of Christ—Live the way Saints should live—Rejoice evermore—Do not despise prophesyings.
 
----
 ###### 1 
 But of the times and the seasons, brethren, ye have no need that I write unto you.
 

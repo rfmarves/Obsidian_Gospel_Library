@@ -1,22 +1,21 @@
 ---
 title: Neemias 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Neemias 4
 [[Neemias 3| <-- Neemias 3]] | [[Neemias]] | [[Neemias 5|Neemias 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os inimigos dos judeus procuram impedi-los de reconstruir as muralhas de Jerusalém — Neemias arma os trabalhadores e mantém o progresso da obra.
 
----
 ###### 1 
 E sucedeu que, ouvindo Sambalate que edificávamos o muro, ardeu em ira, e se indignou muito, e escarneceu dos judeus.
 

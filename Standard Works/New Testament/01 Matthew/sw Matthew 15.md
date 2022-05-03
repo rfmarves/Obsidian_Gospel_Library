@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 15
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 The scribes and Pharisees contend against Jesus—He heals the daughter of a gentile woman—He feeds the four thousand.
 
----
 ###### 1 
 Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,
 

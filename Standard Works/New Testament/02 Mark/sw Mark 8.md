@@ -1,10 +1,11 @@
 ---
 title: sw Mark 8
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus feeds the four thousand—He counsels, Beware of the leaven of the Pharisees—He heals a blind man in Bethsaida—Peter testifies that Jesus is the Christ.
 
----
 ###### 1 
 In those days the multitude being very great, and having nothing to eat, Jesus called his disciples  and saith unto them,
 

@@ -1,22 +1,21 @@
 ---
 title: DeC 29
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 29
 [[DeC 28| <-- DeC 28]] | [[DeC]] | [[DeC 30|DeC 30 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–8, Cristo reúne Seus eleitos; 9–11, Sua vinda inaugura o Milênio; 12–13, Os Doze julgarão toda a Israel; 14–21, Sinais, pragas e desolações precederão a Segunda Vinda; 22–28, A última ressurreição e o julgamento final seguir-se-ão ao Milênio; 29–35, Todas as coisas são espirituais para o Senhor; 36–39, O diabo e suas hostes foram expulsos do céu para tentar o homem; 40–45, A queda e a expiação trazem a salvação; 46–50, As criancinhas são redimidas por meio da expiação.
 
----
 ###### 1 
 Dai ouvidos à voz de Jesus Cristo, vosso Redentor, o Grande , cujo braço de misericórdia expiou vossos pecados;
 

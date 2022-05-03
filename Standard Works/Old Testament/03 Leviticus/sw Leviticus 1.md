@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Animals without blemish are sacrificed as an atonement for sins—Burnt offerings are a sweet savor unto the Lord.
 
----
 ###### 1 
 And the  called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,
 

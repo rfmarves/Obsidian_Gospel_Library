@@ -1,22 +1,21 @@
 ---
 title: Alma 42
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 42
 [[Alma 41| <-- Alma 41]] | [[Alma]] | [[Alma 43|Alma 43 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El estado terrenal es un tiempo de probación que permite al hombre arrepentirse y servir a Dios — La Caída trajo la muerte temporal y espiritual sobre todo el género humano — La redención se realiza por medio del arrepentimiento — Dios mismo expía los pecados del mundo — La misericordia es para aquellos que se arrepienten — Todos los demás quedan sujetos a la justicia de Dios — La misericordia viene a causa de la Expiación — Solo se salvan los que verdaderamente se arrepienten. Aproximadamente 74 a.C.
 
----
 ###### 1 
 Y ahora bien, hijo mío, percibo que hay algo más que inquieta tu mente, algo que no puedes comprender, y es concerniente a la justicia de Dios en el castigo del pecador; porque tratas de suponer que es una injusticia que el pecador sea consignado a un estado de miseria.
 

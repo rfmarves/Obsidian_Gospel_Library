@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord will not answer those who worship false gods and work iniquity—Ezekiel preaches repentance—The people would not be saved though Noah, Daniel, and Job ministered among them.
 
----
 ###### 1 
 Then came certain of the elders of Israel unto me, and sat before me.
 

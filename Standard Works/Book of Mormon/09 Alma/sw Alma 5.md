@@ -1,10 +1,11 @@
 ---
 title: sw Alma 5
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 5
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=eng)
 
----
+```
 The words which Alma, the High Priest according to the holy order of God, delivered to the people in their cities and villages throughout the land.
+```
 
----
-
----
-__Summary__
+> __Summary__
 To gain salvation, men must repent and keep the commandments, be born again, cleanse their garments through the blood of Christ, be humble and strip themselves of pride and envy, and do the works of righteousness—The Good Shepherd calls His people—Those who do evil works are children of the devil—Alma testifies of the truth of his doctrine and commands men to repent—The names of the righteous will be written in the book of life. About 83 B.C.
 
----
 ###### 1 
 Now it came to pass that Alma began to deliver the word of God unto the people, first in the land of Zarahemla, and from thence throughout all the land.
 

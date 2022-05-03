@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jerusalem, as a useless vine, will be burned.
 
----
 ###### 1 
 And the word of the  came unto me, saying,
 

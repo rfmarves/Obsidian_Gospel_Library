@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 7
 [[2 Reyes 6| <-- 2 Reyes 6]] | [[2 Reyes]] | [[2 Reyes 8|2 Reyes 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Eliseo profetiza una gran abundancia en Samaria — Las huestes sirias huyen ante el clamor de una batalla y abandonan sus posesiones — Israel toma el botín de los sirios.
 
----
 ###### 1 
 Dijo entonces Eliseo: Oíd la palabra de Jehová: Así dice Jehová: Mañana a estas horas  el seah de flor de harina un siclo, y dos seahs de cebada un siclo, a la puerta de Samaria.
 

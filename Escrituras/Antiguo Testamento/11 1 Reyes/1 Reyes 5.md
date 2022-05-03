@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 5
 [[1 Reyes 4| <-- 1 Reyes 4]] | [[1 Reyes]] | [[1 Reyes 6|1 Reyes 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Salomón solicita la ayuda de Hiram para conseguir madera para construir el templo, y este se la da — Los israelitas labran piedras y cortan madera para el templo.
 
----
 ###### 1 
 E Hiram, rey de Tiro, envió sus siervos a Salomón cuando oyó que lo habían ungido rey en lugar de su padre, porque Hiram siempre había amado a David.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 4
 [[2 Crônicas 3| <-- 2 Crônicas 3]] | [[2 Crônicas]] | [[2 Crônicas 5|2 Crônicas 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Salomão faz o mar de fundição e o coloca sobre doze bois — São feitos o altar, as bacias, as caldeiras e vários utensílios.
 
----
 ###### 1 
 Também fez um altar de bronze de vinte côvados de comprimento, e de vinte côvados de largura, e de dez côvados de altura.
 

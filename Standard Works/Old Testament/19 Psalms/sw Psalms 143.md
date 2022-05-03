@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 143
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 143
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/143?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David prays for favor in judgment—He meditates on the Lord’s works and trusts in Him.
 
----
 ###### 1 
 Hear my prayer, O , give ear to my supplications: in thy faithfulness answer me,  in thy righteousness.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Mark 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus is baptized by John—He preaches the gospel, calls disciples, casts out devils, heals the sick, and cleanses a leper.
 
----
 ###### 1 
 The beginning of the gospel of Jesus Christ, the Son of God;
 

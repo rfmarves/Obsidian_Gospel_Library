@@ -1,22 +1,21 @@
 ---
 title: Isaías 56
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 56
 [[Isaías 55| <-- Isaías 55]] | [[Isaías]] | [[Isaías 57|Isaías 57 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/56?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/56?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Todos os que guardam os mandamentos serão exaltados — Outros povos se unirão a Israel — O Senhor reunirá outros na casa de Israel.
 
----
 ###### 1 
 Assim diz o : Guardai o juízo, e fazei justiça, porque  a minha salvação  prestes a vir, e a minha justiça, a se manifestar.
 

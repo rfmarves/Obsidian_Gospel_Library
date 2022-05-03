@@ -1,22 +1,21 @@
 ---
 title: DeC 80
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 80
 [[DeC 79| <-- DeC 79]] | [[DeC]] | [[DeC 81|DeC 81 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/80?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/80?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, Stephen Burnett e Eden Smith são chamados para pregar onde quer que desejarem.
 
----
 ###### 1 
 Em verdade, assim diz o Senhor a ti, meu servo Stephen Burnett: Sai, sai pelo mundo e prega o evangelho a toda criatura que esteja ao alcance da tua voz.
 

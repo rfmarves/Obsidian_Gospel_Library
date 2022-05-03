@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 35
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 35
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/35?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Rechabites are commended and blessed for their obedience.
 
----
 ###### 1 
 The word which came unto Jeremiah from the  in the days of Jehoiakim the son of Josiah king of Judah, saying,
 

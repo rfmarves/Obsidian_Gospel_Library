@@ -1,10 +1,11 @@
 ---
 title: sw Moroni 4
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moroni 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 How elders and priests administer the sacramental bread is explained. About A.D. 401–21.
 
----
 ###### 1 
 The manner of their elders and priests administering the flesh and blood of Christ unto the church; and they administered it according to the commandments of Christ; wherefore we know the manner to be true; and the elder or priest did minister it—
 

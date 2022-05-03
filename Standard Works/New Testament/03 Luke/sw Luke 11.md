@@ -1,10 +1,11 @@
 ---
 title: sw Luke 11
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus gives the Lord’s Prayer—He discusses the casting out of devils—He acclaims Himself as greater than Jonah and Solomon—He rebukes the Pharisees and says that the blood of all the prophets may be required of their generation.
 
----
 ###### 1 
 And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
 

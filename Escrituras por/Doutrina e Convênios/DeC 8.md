@@ -1,22 +1,21 @@
 ---
 title: DeC 8
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 8
 [[DeC 7| <-- DeC 7]] | [[DeC]] | [[DeC 9|DeC 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, As revelações são dadas pelo poder do Espírito Santo; 6–12, O conhecimento dos mistérios de Deus e o poder para traduzir registros antigos vêm-nos pela fé.
 
----
 ###### 1 
 Oliver Cowdery, em verdade em verdade eu te digo que, tão certamente quanto vive o Senhor, que é teu Deus e teu Redentor, tão certamente receberás conhecimento de todas as coisas que pedires com fé, com um coração honesto, crendo que receberás conhecimento concernente a gravações de velhos registros que são antigos, os quais contêm aquelas partes de minhas escrituras das quais se falou pela manifestação de meu Espírito.
 

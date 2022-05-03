@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 David and Jonathan make a covenant of friendship and peace—They take leave of each other.
 
----
 ###### 1 
 And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what  mine iniquity? and what  my sin before thy father, that he seeketh my life?
 

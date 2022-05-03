@@ -1,10 +1,11 @@
 ---
 title: sw Ecclesiastes 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ecclesiastes 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 None have power to avoid death—It will not be well with the wicked; he turns to pleasure and cannot find wisdom.
 
----
 ###### 1 
 Who  as the wise  and who knoweth the interpretation of a thing? a man’s wisdom maketh his face to shine, and the boldness of his face shall be changed.
 

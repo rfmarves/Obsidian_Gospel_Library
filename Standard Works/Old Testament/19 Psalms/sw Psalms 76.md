@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 76
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 76
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/76?lang=eng)
 
----
+```
 To the chief Musician on Neginoth, A Psalm or Song of Asaph.
+```
 
----
-
----
-__Summary__
+> __Summary__
 God is known in Judah and dwells in Zion—He will save the meek of the earth.
 
----
 ###### 1 
 In Judah  God known: his name  great in Israel.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Hosea 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hosea 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord uses prophets, visions, and similitudes to guide His people, but they become rich and will not wait on the Lord—Ephraim provokes Him most bitterly.
 
----
 ###### 1 
 Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.
 

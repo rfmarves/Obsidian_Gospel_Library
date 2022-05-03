@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 3
 [[1 Reis 2| <-- 1 Reis 2]] | [[1 Reis]] | [[1 Reis 4|1 Reis 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Salomão ama ao Senhor e guarda Seus mandamentos — O Senhor aparece a Salomão e lhe promete um coração sábio e entendido — Salomão julga a causa de duas prostitutas e determina quem é a mãe de um menino.
 
----
 ###### 1 
 E Salomão se aparentou com Faraó, rei do Egito; e tomou a filha de Faraó, e a trouxe à cidade de Davi, até que acabasse de edificar a sua casa, e a casa do , e a muralha de Jerusalém em redor.
 

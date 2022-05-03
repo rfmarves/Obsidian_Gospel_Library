@@ -1,22 +1,21 @@
 ---
 title: Salmos 95
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 95
 [[Salmos 94| <-- Salmos 94]] | [[Salmos]] | [[Salmos 96|Salmos 96 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/95?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/95?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cantemos ao Senhor — Adoremos e prostremo-nos diante Dele — Israel provocou o Senhor e não entrou no Seu repouso.
 
----
 ###### 1 
 Vinde, cantemos ao ; jubilemos à rocha da nossa salvação.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 23
 [[2 Crônicas 22| <-- 2 Crônicas 22]] | [[2 Crônicas]] | [[2 Crônicas 24|2 Crônicas 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Joiada, o sacerdote, faz Joás rei — Atalia é morta — A adoração ao Senhor é restaurada, e o sacerdote de Baal é morto.
 
----
 ###### 1 
 Porém no sétimo ano Joiada se fortaleceu, e tomou consigo em aliança os chefes de cem: Azarias, filho de Jorão, e Ismael, filho de Joanã, e Azarias, filho de Obede, e Maaseias, filho de Adaías, e Elisafate, filho de Zicri.
 

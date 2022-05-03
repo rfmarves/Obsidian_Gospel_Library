@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 25
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 25
 [[1 Crônicas 24| <-- 1 Crônicas 24]] | [[1 Crônicas]] | [[1 Crônicas 26|1 Crônicas 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os cantores e músicos levitas são designados a seus deveres por sorteio.
 
----
 ###### 1 
 E Davi, juntamente com os capitães do exército, separou para o ministério os filhos de Asafe, e de Hemã, e de Jedutum, para profetizarem com harpas, com alaúdes, e com saltérios; e  foi o número dos homens aptos para a obra do seu ministério:
 

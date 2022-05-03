@@ -1,10 +1,11 @@
 ---
 title: sw Job 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job asks, Is there an appointed time for man on earth? What is man that Thou shouldst magnify him? Why dost Thou not pardon my transgression?
 
----
 ###### 1 
  not an appointed time to man upon earth?  his days also like the days of an hireling?
 

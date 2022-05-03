@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord calls Samuel—The house of Eli will not be purged by sacrifices and offerings—Samuel is recognized as a prophet by all Israel—The Lord appears to him.
 
----
 ###### 1 
 And the child Samuel ministered unto the  before Eli. And the word of the  was precious in those days;  no open vision.
 

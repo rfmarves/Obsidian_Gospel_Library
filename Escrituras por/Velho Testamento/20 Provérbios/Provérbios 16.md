@@ -1,22 +1,21 @@
 ---
 title: Provérbios 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 16
 [[Provérbios 15| <-- Provérbios 15]] | [[Provérbios]] | [[Provérbios 17|Provérbios 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Melhor é adquirir sabedoria do que ouro — A soberba precede a ruína — Os cabelos brancos do justo são uma coroa de honra.
 
----
 ###### 1 
 Do homem  as preparações do coração, mas  do  a resposta da boca.
 

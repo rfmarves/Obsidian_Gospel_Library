@@ -1,22 +1,21 @@
 ---
 title: Alma 40
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 40
 [[Alma 39| <-- Alma 39]] | [[Alma]] | [[Alma 41|Alma 41 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo efetua a ressurreição de todos os homens — Os mortos que foram justos vão para o paraíso; e os que foram iníquos, para as trevas exteriores, a fim de aguardarem o dia de sua ressurreição — Na ressurreição todas as coisas serão restauradas na sua própria e perfeita estrutura. Aproximadamente 74 a.C.
 
----
 ###### 1 
 Agora, meu filho, eis aqui algo mais que tenho a dizer-te, pois percebo que tua mente está preocupada a respeito da ressurreição dos mortos.
 

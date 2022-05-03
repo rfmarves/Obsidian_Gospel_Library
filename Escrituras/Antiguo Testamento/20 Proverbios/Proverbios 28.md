@@ -1,22 +1,21 @@
 ---
 title: Proverbios 28
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 28
 [[Proverbios 27| <-- Proverbios 27]] | [[Proverbios]] | [[Proverbios 29|Proverbios 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El malvado huye sin que nadie lo persiga — El que camina con integridad será salvo — El hombre fiel tendrá muchas bendiciones.
 
----
 ###### 1 
 
 

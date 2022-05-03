@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 5
 [[1 Reis 4| <-- 1 Reis 4]] | [[1 Reis]] | [[1 Reis 6|1 Reis 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Salomão solicita e recebe ajuda de Hirão na obtenção de madeira para a construção do templo — Os israelitas lavram pedras e cortam madeira para o templo.
 
----
 ###### 1 
 E enviou Hirão, rei de Tiro, os seus servos a Salomão (porque ouvira que tinham ungido Salomão rei em lugar de seu pai), porquanto Hirão sempre tinha amado Davi.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Joel 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joel 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/joel/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 All nations will be at war—Multitudes will stand in the valley of decision as the Second Coming draws near—The Lord will dwell in Zion.
 
----
 ###### 1 
 For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,
 

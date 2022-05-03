@@ -1,22 +1,21 @@
 ---
 title: Moroni 10
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moroni 10
 [[Moroni 9| <-- Moroni 9]] | [[Moroni]] |
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se recibe un testimonio del Libro de Mormón por el poder del Espíritu Santo — Los dones del Espíritu se dan a los fieles — Los dones espirituales siempre acompañan a la fe — Las palabras de Moroni hablan desde el polvo — Venid a Cristo, perfeccionaos en Él y santificad vuestras almas. Aproximadamente 421 d.C.
 
----
 ###### 1 
 Y ahora yo, Moroni, escribo algo según me parezca bien; y escribo a mis hermanos los lamanitas; y quiero que sepan que ya han pasado más de cuatrocientos veinte años desde que se dio la señal de la venida de Cristo.
 

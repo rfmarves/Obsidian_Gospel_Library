@@ -1,22 +1,21 @@
 ---
 title: Isaías 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 8
 [[Isaías 7| <-- Isaías 7]] | [[Isaías]] | [[Isaías 9|Isaías 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo será como pedra de escândalo e penha de tropeço — Consultai ao Senhor, e não adivinhos que murmuram — Voltai-vos à lei e ao testemunho para receber orientação — Comparar com 2 Néfi 18.
 
----
 ###### 1 
 Disse-me também o : Toma uma ardósia grande, e escreve nela com cinzel de homem: Apressando-se ao despojo, apressou-se à presa.
 

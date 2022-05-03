@@ -1,10 +1,11 @@
 ---
 title: sw D&C 83
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 83
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/83?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, Women and children have claim upon their husbands and fathers for their support; 5–6, Widows and orphans have claim upon the Church for their support.
 
----
 ###### 1 
 Verily, thus saith the Lord, in addition to the laws of the church concerning women and children, those who belong to the church, who have lost their husbands or fathers:
 

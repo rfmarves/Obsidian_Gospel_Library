@@ -1,10 +1,11 @@
 ---
 title: sw Luke 13
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus teaches, Repent or perish—He gives the parable of the barren fig tree, heals a woman on the Sabbath, and likens the kingdom of God to a mustard seed—He discusses whether few or many are saved and laments over Jerusalem.
 
----
 ###### 1 
 There were present at that season some that told him of the Galilæans, whose blood Pilate had mingled with their sacrifices.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 6
 [[1 Reyes 5| <-- 1 Reyes 5]] | [[1 Reyes]] | [[1 Reyes 7|1 Reyes 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Salomón construye el templo — Jehová promete morar entre los israelitas si son obedientes — Se describen los adornos del templo.
 
----
 ###### 1 
 Y aconteció que en el año cuatrocientos ochenta después que los hijos de Israel salieron de Egipto, el cuarto año del reinado de Salomón sobre Israel, en el mes de Zif, que es el mes segundo, comenzó él a edificar la casa de Jehová.
 

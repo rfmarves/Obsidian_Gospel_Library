@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 44
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 44
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/44?lang=eng)
 
----
+```
 To the chief Musician for the sons of Korah, Maschil.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The Saints praise the Lord and boast in His name forever—They are persecuted, maligned, and considered as sheep for the slaughter.
 
----
 ###### 1 
 We have heard with our ears, O God, our fathers have told us,  work thou didst in their days, in the times of old.
 

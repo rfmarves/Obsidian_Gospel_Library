@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 He who is glad at calamities will be punished—A friend loves at all times—Even a fool, when he holds his peace, is counted wise.
 
----
 ###### 1 
 Better  a dry morsel, and quietness therewith, than an house full of sacrifices  strife.
 

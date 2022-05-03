@@ -1,10 +1,11 @@
 ---
 title: sw Hosea 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hosea 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people of Israel are taken into captivity for their sins—Ephraim will be a wanderer among the nations.
 
----
 ###### 1 
 Rejoice not, O Israel, for joy, as  people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor.
 

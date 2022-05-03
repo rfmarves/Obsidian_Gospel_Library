@@ -1,10 +1,11 @@
 ---
 title: sw Acts 23
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul is smitten at Ananias’s order—The Lord again appears to Paul—Forty Jews plot his death—He is delivered over to Felix.
 
----
 ###### 1 
 And Paul, earnestly beholding the council, said, Men  brethren, I have lived in all good conscience before God until this day.
 

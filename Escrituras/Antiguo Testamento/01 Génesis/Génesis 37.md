@@ -1,22 +1,21 @@
 ---
 title: Génesis 37
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 37
 [[Génesis 36| <-- Génesis 36]] | [[Génesis]] | [[Génesis 38|Génesis 38 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/37?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/37?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob ama y favorece a José, quien es aborrecido por sus hermanos — José sueña que sus padres y hermanos se inclinan ante él — Sus hermanos lo venden para Egipto.
 
----
 ###### 1 
 Y habitó Jacob en la tierra donde había peregrinado su padre, en la tierra de Canaán.
 

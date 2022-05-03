@@ -1,22 +1,21 @@
 ---
 title: Levíticos 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 19
 [[Levíticos 18| <-- Levíticos 18]] | [[Levíticos]] | [[Levíticos 20|Levíticos 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se manda a Israel: Sed santos, vivid rectamente, amad a vuestro prójimo y guardad los mandamientos — Jehová revela y reitera diversas leyes y mandamientos — Se prohíben las hechicerías, la adivinación, la prostitución y toda práctica inicua.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

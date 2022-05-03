@@ -1,22 +1,21 @@
 ---
 title: 2 Corintios 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Corintios 4
 [[2 Corintios 3| <-- 2 Corintios 3]] | [[2 Corintios]] | [[2 Corintios 5|2 Corintios 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La luz del Evangelio resplandece en los santos — Las pruebas de la vida terrenal no son nada comparadas con la gloria eterna.
 
----
 ###### 1 
 Por lo cual, teniendo nosotros este ministerio según la misericordia que hemos alcanzado, no desfallecemos;
 

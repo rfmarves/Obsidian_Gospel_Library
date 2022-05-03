@@ -1,22 +1,21 @@
 ---
 title: Mosias 20
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 20
 [[Mosias 19| <-- Mosias 19]] | [[Mosias]] | [[Mosias 21|Mosias 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Filhas dos lamanitas são raptadas pelos sacerdotes de Noé — Os lamanitas fazem guerra contra Lími e seu povo — Eles são repelidos e pacificados. Aproximadamente 145–123 a.C.
 
----
 ###### 1 
 Ora, havia um lugar em Senlon onde as filhas dos lamanitas se reuniam para cantar e dançar e divertir-se.
 

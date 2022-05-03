@@ -1,22 +1,21 @@
 ---
 title: 2 Coríntios 5
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Coríntios 5
 [[2 Coríntios 4| <-- 2 Coríntios 4]] | [[2 Coríntios]] | [[2 Coríntios 6|2 Coríntios 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos andam pela fé e buscam um tabernáculo de glória imortal — O evangelho reconcilia o homem com Deus — Os ministros de Deus levam a palavra de reconciliação ao mundo.
 
----
 ###### 1 
 Porque sabemos que, se a nossa casa terrestre  tabernáculo se desfizer, temos de Deus  edifício, uma casa não feita por mãos, eterna nos céus.
 

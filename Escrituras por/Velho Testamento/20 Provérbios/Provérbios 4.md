@@ -1,22 +1,21 @@
 ---
 title: Provérbios 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 4
 [[Provérbios 3| <-- Provérbios 3]] | [[Provérbios]] | [[Provérbios 5|Provérbios 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Guarda os mandamentos e vive — Com tudo o que possuis, adquire o entendimento — Não andes pelo caminho dos maus.
 
----
 ###### 1 
 Ouvi, filhos, a correção do pai, e estai atentos para conhecerdes o entendimento.
 

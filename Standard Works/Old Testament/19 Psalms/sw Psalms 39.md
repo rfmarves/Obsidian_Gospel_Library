@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 39
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 39
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/39?lang=eng)
 
----
+```
 To the chief Musician, even to Jeduthun, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David seeks to control his tongue—Man is altogether vanity—He is a stranger and a sojourner on the earth.
 
----
 ###### 1 
 I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.
 

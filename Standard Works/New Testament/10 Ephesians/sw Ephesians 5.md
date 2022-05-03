@@ -1,10 +1,11 @@
 ---
 title: sw Ephesians 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ephesians 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/eph/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Saints are exhorted to avoid uncleanness and walk uprightly—Husbands and wives should love each other.
 
----
 ###### 1 
 Be ye therefore followers of God, as dear children;
 

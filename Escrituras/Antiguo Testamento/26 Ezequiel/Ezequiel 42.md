@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 42
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 42
 [[Ezequiel 41| <-- Ezequiel 41]] | [[Ezequiel]] | [[Ezequiel 43|Ezequiel 43 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/42?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/42?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequiel ve en el templo las cámaras de los sacerdotes.
 
----
 ###### 1 
 Me sacó luego al atrio exterior, hacia el norte, y me llevó a la cámara que estaba delante del espacio abierto que quedaba enfrente del edificio, hacia el norte.
 

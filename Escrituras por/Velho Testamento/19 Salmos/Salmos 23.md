@@ -1,27 +1,25 @@
 ---
 title: Salmos 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 23
 [[Salmos 22| <-- Salmos 22]] | [[Salmos]] | [[Salmos 24|Salmos 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/23?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi proclama: O Senhor é o meu pastor.
 
----
 ###### 1 
 O   o meu pastor, nada me faltará.
 

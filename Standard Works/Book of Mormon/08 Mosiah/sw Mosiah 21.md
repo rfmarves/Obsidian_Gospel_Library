@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 21
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Limhi’s people are smitten and defeated by the Lamanites—Limhi’s people meet Ammon and are converted—They tell Ammon of the twenty-four Jaredite plates. About 122–121 B.C.
 
----
 ###### 1 
 And it came to pass that Limhi and his people returned to the city of Nephi, and began to dwell in the land again in peace.
 

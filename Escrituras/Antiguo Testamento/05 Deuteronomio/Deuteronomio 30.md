@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 30
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 30
 [[Deuteronomio 29| <-- Deuteronomio 29]] | [[Deuteronomio]] | [[Deuteronomio 31|Deuteronomio 31 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/30?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/30?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los israelitas esparcidos serán recogidos de todas las naciones cuando recuerden el convenio — Moisés pone delante del pueblo la vida o la muerte, la bendición o la maldición.
 
----
 ###### 1 
 Y acontecerá que cuando hayan venido sobre ti todas estas cosas, la bendición y la maldición que he puesto delante de ti, y las recuerdes en tu corazón en medio de todas las naciones en las cuales Jehová tu Dios te haya dispersado,
 

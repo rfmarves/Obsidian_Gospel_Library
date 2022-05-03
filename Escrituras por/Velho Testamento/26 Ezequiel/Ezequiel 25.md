@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 25
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 25
 [[Ezequiel 24| <-- Ezequiel 24]] | [[Ezequiel]] | [[Ezequiel 26|Ezequiel 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A vingança do Senhor cairá sobre os amonitas, sobre os moabitas e os edomitas, e sobre os filisteus.
 
----
 ###### 1 
 E veio a mim a palavra do , dizendo:
 

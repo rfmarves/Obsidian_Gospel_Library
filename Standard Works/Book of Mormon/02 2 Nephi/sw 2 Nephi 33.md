@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 33
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 33
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/33?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nephi’s words are true—They testify of Christ—Those who believe in Christ will believe Nephi’s words, which will stand as a witness before the judgment bar. About 559–545 B.C.
 
----
 ###### 1 
 And now I, Nephi, cannot write all the things which were taught among my people; neither am I mighty in writing, like unto speaking; for when a man speaketh by the power of the Holy Ghost the power of the Holy Ghost carrieth it unto the hearts of the children of men.
 

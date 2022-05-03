@@ -1,22 +1,21 @@
 ---
 title: Jeremias 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 10
 [[Jeremias 9| <-- Jeremias 9]] | [[Jeremias]] | [[Jeremias 11|Jeremias 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Não aprendais o caminho de outras nações — Seus deuses são ídolos e imagens de fundição — O Senhor é o Deus verdadeiro e vivo.
 
----
 ###### 1 
 Ouvi a palavra que o  vos fala a vós, ó casa de Israel.
 

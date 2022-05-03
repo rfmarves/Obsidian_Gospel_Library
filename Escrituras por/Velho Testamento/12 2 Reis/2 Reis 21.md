@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 21
 [[2 Reis 20| <-- 2 Reis 20]] | [[2 Reis]] | [[2 Reis 22|2 Reis 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Manassés faz Judá voltar-se à idolatria, chegando a sacrificar um filho a um deus pagão — A destruição de Judá e Jerusalém é predita por profetas — A iniquidade continua no reinado de Amom.
 
----
 ###### 1 
 Tinha Manassés doze anos de idade quando começou a reinar, e cinquenta e cinco anos reinou em Jerusalém; e  o nome de sua mãe Hefzibá.
 

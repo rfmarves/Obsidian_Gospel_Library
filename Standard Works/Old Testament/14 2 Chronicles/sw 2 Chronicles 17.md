@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jehoshaphat reigns well and prospers in Judah—Priests travel and teach out of the book of the law of the Lord.
 
----
 ###### 1 
 And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel.
 

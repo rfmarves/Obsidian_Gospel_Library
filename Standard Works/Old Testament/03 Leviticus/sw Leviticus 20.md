@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 The death penalty is prescribed for sacrificing children to Molech, cursing father and mother, adultery, homosexual behavior, bestiality, spiritualism, and other abominations—Various laws and ordinances are listed.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

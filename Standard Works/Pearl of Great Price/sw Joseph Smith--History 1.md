@@ -1,10 +1,11 @@
 ---
 title: sw Joseph Smith--History 1
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joseph Smith--History 1
@@ -15,11 +16,9 @@ people:
 Joseph Smith--History
 Extracts from the History of Joseph Smith, the Prophet
 
----
-__Summary__
+> __Summary__
 Joseph Smith tells of his ancestry, family members, and their early abodes—An unusual excitement about religion prevails in western New York—He determines to seek wisdom as directed by James—The Father and the Son appear, and Joseph is called to his prophetic ministry. (Verses 1–20.)
 
----
 Joseph Smith tells of his ancestry, family members, and their early abodes—An unusual excitement about religion prevails in western New York—He determines to seek wisdom as directed by James—The Father and the Son appear, and Joseph is called to his prophetic ministry. (Verses 1–20.)
 
 ###### 1 

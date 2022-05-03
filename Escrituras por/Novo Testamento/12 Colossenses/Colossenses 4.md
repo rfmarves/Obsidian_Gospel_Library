@@ -1,22 +1,21 @@
 ---
 title: Colossenses 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Colossenses 4
 [[Colossenses 3| <-- Colossenses 3]] | [[Colossenses]] | [[1 Tessalonicenses 1|1 Tessalonicenses 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/col/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/col/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos são exortados a ser sábios em todas as coisas — Lucas e outros saúdam os colossenses.
 
----
 ###### 1 
 Vós, senhores, fazei o que for de justiça e equidade a  servos, sabendo que também tendes um Senhor nos céus.
 

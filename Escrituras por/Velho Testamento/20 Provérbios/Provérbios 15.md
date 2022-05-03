@@ -1,22 +1,21 @@
 ---
 title: Provérbios 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 15
 [[Provérbios 14| <-- Provérbios 14]] | [[Provérbios]] | [[Provérbios 16|Provérbios 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A resposta branda desvia o furor — O filho sábio alegra seu pai — Abomináveis ao Senhor são os pensamentos do mau — Adiante da honra vai a humildade.
 
----
 ###### 1 
 A resposta branda desvia o furor, mas a palavra dura suscita a ira.
 

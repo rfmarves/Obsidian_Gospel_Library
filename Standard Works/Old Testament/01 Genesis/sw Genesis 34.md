@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 34
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 34
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/34?lang=eng)
 
----
-__Summary__
+> __Summary__
 Shechem defiles Dinah—The Hivites seek to arrange marriages with Jacob’s family—Many, having been circumcised, are slain by Simeon and Levi—Jacob reproves his sons.
 
----
 ###### 1 
 And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.
 

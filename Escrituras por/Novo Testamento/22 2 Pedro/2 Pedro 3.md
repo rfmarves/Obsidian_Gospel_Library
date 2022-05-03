@@ -1,22 +1,21 @@
 ---
 title: 2 Pedro 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Pedro 3
 [[2 Pedro 2| <-- 2 Pedro 2]] | [[2 Pedro]] | [[1 João 1|1 João 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nos últimos dias, alguns duvidarão da Segunda Vinda — Os elementos derreterão na vinda do Senhor.
 
----
 ###### 1 
 Amados, escrevo-vos agora esta segunda carta, em  as quais desperto com exortação o vosso ânimo sincero;
 

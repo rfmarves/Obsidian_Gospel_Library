@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 6
 [[1 Samuel 5| <-- 1 Samuel 5]] | [[1 Samuel]] | [[1 Samuel 7|1 Samuel 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filisteus enviam a arca de volta com uma oferta — O Senhor fere e mata os israelitas de Bete-Semes que olham para dentro da arca.
 
----
 ###### 1 
 Havendo, pois, estado a arca do  na terra dos filisteus sete meses,
 

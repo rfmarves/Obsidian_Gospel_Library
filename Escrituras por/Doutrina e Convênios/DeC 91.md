@@ -1,22 +1,21 @@
 ---
 title: DeC 91
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 91
 [[DeC 90| <-- DeC 90]] | [[DeC]] | [[DeC 92|DeC 92 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/91?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/91?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, Os Apócrifos estão, na maior parte, traduzidos corretamente, mas contêm muitos acréscimos feitos pelas mãos de homens, que não são verdadeiros; 4–6, Beneficiam os que são iluminados pelo Espírito.
 
----
 ###### 1 
 Em verdade, assim vos diz o Senhor com referência aos Apócrifos: Há muitas coisas neles que são verdadeiras e estão, na maior parte, traduzidas corretamente.
 

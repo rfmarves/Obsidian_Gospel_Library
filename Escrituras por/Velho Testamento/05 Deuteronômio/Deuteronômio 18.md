@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 18
 [[Deuteronômio 17| <-- Deuteronômio 17]] | [[Deuteronômio]] | [[Deuteronômio 19|Deuteronômio 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O modo como são sustentados os sacerdotes — As adivinhações, o ocultismo e coisas semelhantes são abominações — Um Profeta (Cristo) se levantará como Moisés.
 
----
 ###### 1 
 Os sacerdotes levitas, toda a tribo de Levi, não terão parte nem herança em Israel; das ofertas queimadas do  e da sua herança comerão.
 

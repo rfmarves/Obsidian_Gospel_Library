@@ -1,22 +1,21 @@
 ---
 title: Zacarías 14
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarías 14
 [[Zacarías 13| <-- Zacarías 13]] | [[Zacarías]] | [[Malaquías 1|Malaquías 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová luchará por Israel en Su segunda venida — Sus pies se afirmarán sobre el monte de los Olivos — Será Rey sobre toda la tierra — Plagas destruirán a los inicuos.
 
----
 ###### 1 
 He aquí, el día de Jehová viene, y tus despojos serán repartidos en medio de ti.
 

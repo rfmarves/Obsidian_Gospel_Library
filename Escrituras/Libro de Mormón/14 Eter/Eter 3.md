@@ -1,22 +1,21 @@
 ---
 title: Eter 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eter 3
 [[Eter 2| <-- Eter 2]] | [[Eter]] | [[Eter 4|Eter 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El hermano de Jared ve el dedo del Señor al tocar Este las dieciséis piedras — Cristo le muestra el cuerpo de Su espíritu al hermano de Jared — Es imposible impedir que penetren el velo aquellos que poseen un conocimiento perfecto — Se proporcionan intérpretes para que puedan salir a luz los anales de los jareditas.
 
----
 ###### 1 
 Y sucedió que el hermano de Jared (y era ocho el número de los barcos que habían sido preparados) subió al monte que llamaban el monte de Shelem, a causa de su extremada altura, y de una roca fundió dieciséis piedras pequeñas; y eran blancas y diáfanas, como cristal transparente; y las llevó en sus manos a la cima del monte, y nuevamente clamó al Señor, diciendo:
 

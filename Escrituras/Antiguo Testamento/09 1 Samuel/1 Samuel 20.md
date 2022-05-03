@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 20
 [[1 Samuel 19| <-- 1 Samuel 19]] | [[1 Samuel]] | [[1 Samuel 21|1 Samuel 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David y Jonatán hacen un pacto de amistad y paz — Se separan el uno del otro.
 
----
 ###### 1 
 Y David huyó de Naiot, en Ramá, y fue delante de Jonatán y dijo: ¿Qué he hecho yo? ¿Cuál es mi maldad, o cuál mi pecado contra tu padre, para que él busque mi vida?
 

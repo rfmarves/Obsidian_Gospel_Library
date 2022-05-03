@@ -1,10 +1,11 @@
 ---
 title: sw D&C 128
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 128
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/128?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, Local and general recorders must certify to the fact of baptisms for the dead; 6–9, Their records are binding and recorded on earth and in heaven; 10–14, The baptismal font is a similitude of the grave; 15–17, Elijah restored power relative to baptism for the dead; 18–21, All of the keys, powers, and authorities of past dispensations have been restored; 22–25, Glad and glorious tidings are acclaimed for the living and the dead.
 
----
 ###### 1 
 As I stated to you in my letter before I left my place, that I would write to you from time to time and give you information in relation to many subjects, I now resume the subject of the baptism for the dead, as that subject seems to occupy my mind, and press itself upon my feelings the strongest, since I have been pursued by my enemies.
 

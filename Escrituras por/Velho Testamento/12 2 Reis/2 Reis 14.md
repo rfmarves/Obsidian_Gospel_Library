@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 14
 [[2 Reis 13| <-- 2 Reis 13]] | [[2 Reis]] | [[2 Reis 15|2 Reis 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amazias reina bem em Judá — Israel derrota Judá em batalha — Jeroboão reina iniquamente em Israel.
 
----
 ###### 1 
 No segundo ano de Jeoás, filho de Joacaz, rei de Israel, começou a reinar Amazias, filho de Joás, rei de Judá.
 

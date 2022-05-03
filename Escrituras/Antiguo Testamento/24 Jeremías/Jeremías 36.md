@@ -1,22 +1,21 @@
 ---
 title: Jeremías 36
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 36
 [[Jeremías 35| <-- Jeremías 35]] | [[Jeremías]] | [[Jeremías 37|Jeremías 37 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/36?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/36?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Baruc escribe las profecías de Jeremías y las lee en la casa de Jehová — Joacim, el rey, quema el libro y le sobreviene el juicio de Jehová — Jeremías dicta las profecías de nuevo y añade muchas más.
 
----
 ###### 1 
 Y aconteció en el cuarto año de Joacim hijo de Josías, rey de Judá, que vino esta palabra a Jeremías de parte de Jehová, diciendo:
 

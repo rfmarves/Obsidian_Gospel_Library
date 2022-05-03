@@ -1,22 +1,21 @@
 ---
 title: Levíticos 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 12
 [[Levíticos 11| <-- Levíticos 11]] | [[Levíticos]] | [[Levíticos 13|Levíticos 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová revela la ley de la purificación de la mujer después del parto, lo que incluye una ofrenda por el pecado.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

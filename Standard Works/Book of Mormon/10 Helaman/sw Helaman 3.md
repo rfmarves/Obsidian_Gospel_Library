@@ -1,10 +1,11 @@
 ---
 title: sw Helaman 3
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Helaman 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Many Nephites migrate to the land northward—They build houses of cement and keep many records—Tens of thousands are converted and baptized—The word of God leads men to salvation—Nephi the son of Helaman fills the judgment seat. About 49–39 B.C.
 
----
 ###### 1 
 And now it came to pass in the forty and third year of the reign of the judges, there was no contention among the people of Nephi save it were a little pride which was in the church, which did cause some little dissensions among the people, which affairs were settled in the ending of the forty and third year.
 

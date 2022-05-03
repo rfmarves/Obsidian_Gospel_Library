@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 19
 [[2 Crônicas 18| <-- 2 Crônicas 18]] | [[2 Crônicas]] | [[2 Crônicas 20|2 Crônicas 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Josafá é repreendido por ajudar o iníquo Acabe — Ele ajuda o povo a voltar para o Senhor, estabelece juízes e administra justiça.
 
----
 ###### 1 
 E Josafá, rei de Judá, voltou à sua casa em paz, a Jerusalém.
 

@@ -1,22 +1,21 @@
 ---
 title: DeC 65
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 65
 [[DeC 64| <-- DeC 64]] | [[DeC]] | [[DeC 66|DeC 66 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/65?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/65?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–2, As chaves do reino de Deus são conferidas ao homem na Terra; a causa do evangelho triunfará; 3–6, No milênio, o reino do céu virá unir-se ao reino de Deus na Terra.
 
----
 ###### 1 
 Escutai e ouvi uma voz como a de alguém enviado do alto, que é forte e poderoso, cujas idas chegam aos confins da Terra, sim, cuja voz se dirige aos homens: Preparai o caminho do Senhor, endireitai suas veredas.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Corintios 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Corintios 1
 [[1 Corintios 16| <-- 1 Corintios 16]] | [[2 Corintios]] | [[2 Corintios 2|2 Corintios 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dios consuela a Sus santos y cuida de ellos — Los santos son sellados y reciben la confirmación del Espíritu en el corazón.
 
----
 ###### 1 
 Pablo, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo, a la iglesia de Dios que está en Corinto, con todos los santos que están en toda Acaya:
 

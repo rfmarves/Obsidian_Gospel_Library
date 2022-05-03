@@ -1,22 +1,21 @@
 ---
 title: DyC 69
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 69
 [[DyC 68| <-- DyC 68]] | [[DyC]] | [[DyC 70|DyC 70 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/69?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/69?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–2, John Whitmer ha de acompañar a Oliver Cowdery a Misuri; 3–8, También ha de predicar, recopilar, anotar y escribir datos históricos.
 
----
 ###### 1 
 Escuchadme, dice el Señor vuestro Dios, por el bien de mi siervo Oliver Cowdery. No me parece prudente que se le confíen los mandamientos ni el dinero que llevará a la tierra de Sion, salvo que vaya con él uno que sea leal y fiel.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ahithophel’s counsel is overthrown by Hushai’s—David is warned and flees over the Jordan—Ahithophel hangs himself—The people prepare for war.
 
----
 ###### 1 
 Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night:
 

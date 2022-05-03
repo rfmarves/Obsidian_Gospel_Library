@@ -1,10 +1,11 @@
 ---
 title: sw Jacob 5
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jacob 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob quotes Zenos relative to the allegory of the tame and wild olive trees—They are a likeness of Israel and the Gentiles—The scattering and gathering of Israel are prefigured—Allusions are made to the Nephites and Lamanites and all the house of Israel—The Gentiles will be grafted into Israel—Eventually the vineyard will be burned. About 544–421 B.C.
 
----
 ###### 1 
 Behold, my brethren, do ye not remember to have read the words of the prophet Zenos, which he spake unto the house of Israel, saying:
 

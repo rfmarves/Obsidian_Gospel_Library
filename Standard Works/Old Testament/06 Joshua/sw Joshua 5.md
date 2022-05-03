@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The inhabitants of Canaan fear Israel—The males of Israel are circumcised—Israel keeps the Passover, eats the fruit of the land, and manna ceases—The captain of the Lord’s host appears to Joshua.
 
----
 ###### 1 
 And it came to pass, when all the kings of the Amorites, which  on the side of Jordan westward, and all the kings of the Canaanites, which  by the sea, heard that the  had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.
 

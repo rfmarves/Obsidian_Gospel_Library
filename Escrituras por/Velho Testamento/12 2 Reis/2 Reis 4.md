@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 4
 [[2 Reis 3| <-- 2 Reis 3]] | [[2 Reis]] | [[2 Reis 5|2 Reis 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Eliseu multiplica o azeite da viúva — Ele promete um filho a uma mulher sunamita — A criança morre, e Eliseu a faz reviver — Ele torna inofensiva a comida envenenada — Multiplicam-se pão e trigo para o povo comer.
 
----
 ###### 1 
 E uma mulher das mulheres dos filhos dos profetas clamou a Eliseu, dizendo: Meu marido, teu servo, morreu; e tu sabes que o teu servo temia ao ; e veio o credor, para levar os meus dois filhos para serem servos.
 

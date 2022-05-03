@@ -1,27 +1,25 @@
 ---
 title: Salmos 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 15
 [[Salmos 14| <-- Salmos 14]] | [[Salmos]] | [[Salmos 16|Salmos 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/15?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi pergunta: Quem morará no santo monte do Senhor? — Ele responde: Os justos, os retos, os íntegros.
 
----
 ###### 1 
 , quem habitará no teu tabernáculo? Quem morará no teu santo monte?
 

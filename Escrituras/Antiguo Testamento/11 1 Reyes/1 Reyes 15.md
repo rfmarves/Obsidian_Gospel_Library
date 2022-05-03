@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 15
 [[1 Reyes 14| <-- 1 Reyes 14]] | [[1 Reyes]] | [[1 Reyes 16|1 Reyes 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En Judá, Abiam reina con iniquidad y posteriormente Asa reina con rectitud — Nadab y después Baasa reinan con iniquidad en Israel — Baasa destruye la casa de Jeroboam.
 
----
 ###### 1 
 Y en el año dieciocho del rey Jeroboam hijo de Nabat, Abiam comenzó a reinar sobre Judá.
 

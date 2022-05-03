@@ -1,22 +1,21 @@
 ---
 title: DeC 44
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 44
 [[DeC 43| <-- DeC 43]] | [[DeC]] | [[DeC 45|DeC 45 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/44?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/44?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, Os élderes devem reunir-se em conferência; 4–6, Devem organizar-se de acordo com as leis do país e cuidar dos pobres.
 
----
 ###### 1 
 Eis que assim diz o Senhor a vós, meus servos: É-me conveniente que os élderes de minha igreja sejam convocados, do leste e do oeste, do norte e do sul, por carta ou algum outro meio.
 

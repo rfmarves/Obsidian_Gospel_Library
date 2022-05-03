@@ -1,22 +1,21 @@
 ---
 title: Alma 47
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 47
 [[Alma 46| <-- Alma 46]] | [[Alma]] | [[Alma 48|Alma 48 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/47?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/47?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amaliquias usa de traição, assassinatos e intrigas para tornar-se rei dos lamanitas — Os dissidentes nefitas são mais iníquos e ferozes que os lamanitas. Aproximadamente 72 a.C.
 
----
 ###### 1 
 Voltaremos agora, em nossos registros, a Amaliquias e aos que com ele fugiram para o deserto; porque eis que ele, com aqueles que o seguiram, subiu à terra de Néfi, entre os lamanitas, e instigou-os contra o povo de Néfi a tal ponto que o rei dos lamanitas enviou uma proclamação por toda a sua terra, a todo o seu povo, para que voltassem a reunir-se, a fim de batalhar contra os nefitas.
 

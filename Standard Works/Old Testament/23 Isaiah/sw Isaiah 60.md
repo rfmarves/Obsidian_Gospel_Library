@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 60
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 60
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/60?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, Israel will rise again as a mighty nation—The gentile peoples will join with and serve Israel—Zion will be established—Finally, Israel will dwell in celestial splendor.
 
----
 ###### 1 
 Arise, shine; for thy light is come, and the glory of the  is risen upon thee.
 

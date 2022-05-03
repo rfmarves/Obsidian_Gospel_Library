@@ -1,22 +1,21 @@
 ---
 title: Helamã 12
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamã 12
 [[Helamã 11| <-- Helamã 11]] | [[Helamã]] | [[Helamã 13|Helamã 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os homens são instáveis, insensatos e rápidos na prática do mal — O Senhor castiga Seu povo — A nulidade dos homens é comparada com o poder de Deus — No dia do julgamento os homens alcançarão vida eterna ou condenação eterna. Aproximadamente 6 a.C.
 
----
 ###### 1 
 E assim podemos ver quão falso e também quão inconstante é o coração dos filhos dos homens; sim, podemos ver como o Senhor, na grandeza de sua infinita bondade, abençoa e faz prosperar os que colocam nele a sua confiança.
 

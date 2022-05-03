@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Elisha multiplies the widow’s oil—He promises a son to a Shunammite woman—The child dies and is raised to life by Elisha—He makes the poisonous food harmless—Bread and grain are multiplied for the people to eat.
 
----
 ###### 1 
 Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the : and the creditor is come to take unto him my two sons to be bondmen.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 46
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 46
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/46?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah prophesies the conquest of Egypt by Babylon—Jacob will be saved and will return to his own land.
 
----
 ###### 1 
 The word of the  which came to Jeremiah the prophet against the Gentiles;
 

@@ -1,22 +1,21 @@
 ---
 title: Isaías 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 10
 [[Isaías 9| <-- Isaías 9]] | [[Isaías]] | [[Isaías 11|Isaías 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A destruição da Assíria é um símbolo da destruição dos iníquos na Segunda Vinda — Poucas pessoas restarão depois que o Senhor voltar — O remanescente de Jacó retornará naquele dia — Comparar com 2 Néfi 20.
 
----
 ###### 1 
 Ai dos que decretam leis injustas, e dos que prescrevem decretos opressores,
 

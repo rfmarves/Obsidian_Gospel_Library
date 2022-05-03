@@ -1,22 +1,21 @@
 ---
 title: Lucas 22
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 22
 [[Lucas 21| <-- Lucas 21]] | [[Lucas]] | [[Lucas 23|Lucas 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus institui o sacramento — Ele sofre no Getsêmani e é traído e preso — Pedro nega conhecê-Lo — Jesus é ferido e escarnecido.
 
----
 ###### 1 
 Estava, pois, perto a festa dos  ázimos, chamada a páscoa.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 144
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 144
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/144?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David blesses the Lord for deliverance and temporal prosperity—Happy is that people whose God is the Lord.
 
----
 ###### 1 
 Blessed  the  my strength, which teacheth my hands to war,  my fingers to fight:
 

@@ -1,22 +1,21 @@
 ---
 title: Morôni 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Morôni 8
 [[Morôni 7| <-- Morôni 7]] | [[Morôni]] | [[Morôni 9|Morôni 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O batismo de crianças pequenas é uma abominação maligna — As criancinhas estão vivas em Cristo por causa da Expiação — Fé, arrependimento, mansidão e humildade, recebimento do Espírito Santo e perseverança até o fim, levam à salvação. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 Uma epístola de meu pai, Mórmon, escrita a mim, Morôni; e ela foi-me escrita logo após meu chamado para o ministério. E desta maneira ele me escreveu:
 

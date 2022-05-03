@@ -1,22 +1,21 @@
 ---
 title: 1 Juan 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Juan 4
 [[1 Juan 3| <-- 1 Juan 3]] | [[1 Juan]] | [[1 Juan 5|1 Juan 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Discernid entre los espíritus — Dios es amor y mora en los que le aman.
 
----
 ###### 1 
 Amados, no creáis a todo espíritu, sino discernid entre los espíritus  si son de Dios; porque muchos falsos profetas han salido al mundo.
 

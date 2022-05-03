@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 39
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 39
 [[Ezequiel 38| <-- Ezequiel 38]] | [[Ezequiel]] | [[Ezequiel 40|Ezequiel 40 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/39?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/39?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Gog y la tierra de Magog serán destruidos — Los habitantes de las ciudades de Israel quemarán sus armas de guerra durante siete años — Enterrarán a sus muertos durante siete meses — Entonces se celebrará la cena del gran Dios y el continuo recogimiento de Israel.
 
----
 ###### 1 
 Tú, pues, hijo de hombre, profetiza contra Gog, y di: Así ha dicho Jehová el Señor: He aquí, yo estoy contra ti, oh Gog, príncipe soberano de Mesec y Tubal.
 

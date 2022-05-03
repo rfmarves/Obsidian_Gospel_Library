@@ -1,10 +1,11 @@
 ---
 title: sw Alma 56
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 56
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/56?lang=eng)
 
----
-__Summary__
+> __Summary__
 Helaman sends an epistle to Moroni, recounting the state of the war with the Lamanites—Antipus and Helaman gain a great victory over the Lamanites—Helaman’s two thousand stripling sons fight with miraculous power, and none of them are slain. Verse 1, about 62 B.C.; verses 2–19, about 66 B.C.; and verses 20–57, about 65–64 B.C.
 
----
 ###### 1 
 And now it came to pass in the commencement of the thirtieth year of the reign of the judges, on the second day in the first month, Moroni received an epistle from Helaman, stating the affairs of the people in that quarter of the land.
 

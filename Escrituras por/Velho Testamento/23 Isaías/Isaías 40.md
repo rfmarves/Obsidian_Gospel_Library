@@ -1,22 +1,21 @@
 ---
 title: Isaías 40
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 40
 [[Isaías 39| <-- Isaías 39]] | [[Isaías]] | [[Isaías 41|Isaías 41 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Isaías fala a respeito do Messias — Preparai o caminho do Senhor — Ele apascentará o Seu rebanho como um pastor — O Deus de Israel é incomparavelmente grande.
 
----
 ###### 1 
 Consolai, consolai o meu povo, diz o vosso Deus.
 

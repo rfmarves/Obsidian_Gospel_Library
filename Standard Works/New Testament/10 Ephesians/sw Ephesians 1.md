@@ -1,10 +1,11 @@
 ---
 title: sw Ephesians 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ephesians 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/eph/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Saints are foreordained to receive the gospel—The gospel is to be restored in the latter days—The Saints are sealed by the Holy Spirit of Promise—They know God and Christ by revelation.
 
----
 ###### 1 
 Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
 

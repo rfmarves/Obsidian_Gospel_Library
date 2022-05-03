@@ -1,22 +1,21 @@
 ---
 title: Sofonías 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Sofonías 2
 [[Sofonías 1| <-- Sofonías 1]] | [[Sofonías]] | [[Sofonías 3|Sofonías 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zeph/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zeph/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Buscad justicia; buscad mansedumbre — Descenderá juicio tanto sobre los filisteos como sobre los moabitas, así como sobre los hijos de Amón, los etíopes y los asirios.
 
----
 ###### 1 
 Congregaos y reuníos, oh nación sin pudor,
 

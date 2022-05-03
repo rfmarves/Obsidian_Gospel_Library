@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Labor not to be rich—As a man thinks in his heart, so is he—Withhold not correction from a child—Be not among drunkards.
 
----
 ###### 1 
 When thou sittest to eat with a ruler, consider diligently what  before thee:
 

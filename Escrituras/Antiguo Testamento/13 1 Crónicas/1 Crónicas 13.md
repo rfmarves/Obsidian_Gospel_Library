@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 13
 [[1 Crónicas 12| <-- 1 Crónicas 12]] | [[1 Crónicas]] | [[1 Crónicas 14|1 Crónicas 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David trae el arca desde Quiriat-jearim — Uza es muerto por Jehová cuando sostiene el arca — La casa de Obed-edom prospera porque ellos cuidan del arca.
 
----
 ###### 1 
 Entonces David tomó consejo de los capitanes de millares y de centenas, y de todos los jefes.
 

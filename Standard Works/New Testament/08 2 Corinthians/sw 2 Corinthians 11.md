@@ -1,10 +1,11 @@
 ---
 title: sw 2 Corinthians 11
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Corinthians 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Maintain the simplicity that is in Christ—Satan sends forth false apostles—Paul glories in his sufferings for Christ.
 
----
 ###### 1 
 Would to God ye could bear with me a little in  folly: and indeed bear with me.
 

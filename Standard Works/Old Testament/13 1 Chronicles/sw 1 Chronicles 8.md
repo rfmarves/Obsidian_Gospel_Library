@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 The sons and chief men of Benjamin are named.
 
----
 ###### 1 
 Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,
 

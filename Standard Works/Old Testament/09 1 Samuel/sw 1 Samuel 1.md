@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 1
@@ -15,11 +16,9 @@ people:
 1 Samuel
 Otherwise Called the First Book of the Kings
 
----
-__Summary__
+> __Summary__
 Hannah prays for a son and vows to give him to the Lord—Eli the priest blesses her—Samuel is born—Hannah loans him to the Lord.
 
----
 ###### 1 
 Now there was a certain man of Ramathaim-zophim, of mount Ephraim, and his name  Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite:
 

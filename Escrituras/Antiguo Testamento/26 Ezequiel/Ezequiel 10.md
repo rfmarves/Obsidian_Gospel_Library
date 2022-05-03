@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 10
 [[Ezequiel 9| <-- Ezequiel 9]] | [[Ezequiel]] | [[Ezequiel 11|Ezequiel 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequiel vuelve a ver, en visión, las ruedas, los querubines, el trono y la gloria de Jehová.
 
----
 ###### 1 
 Y miré, y he aquí, en el firmamento que estaba sobre la cabeza de los querubines había como una piedra de zafiro, que tenía el aspecto de un trono que apareció sobre ellos.
 

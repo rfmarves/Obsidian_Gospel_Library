@@ -1,22 +1,21 @@
 ---
 title: 1 Tesalonisenses 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Tesalonisenses 2
 [[1 Tesalonisenses 1| <-- 1 Tesalonisenses 1]] | [[1 Tesalonisenses]] | [[1 Tesalonisenses 3|1 Tesalonisenses 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los ministros verdaderos predican con santidad — Los conversos son la gloria y el gozo de los misioneros.
 
----
 ###### 1 
 Porque, hermanos, vosotros mismos sabéis que nuestra visita a vosotros no fue en vano,
 

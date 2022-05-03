@@ -1,22 +1,21 @@
 ---
 title: Juízes 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 15
 [[Juízes 14| <-- Juízes 14]] | [[Juízes]] | [[Juízes 16|Juízes 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sansão queima a seara dos filisteus — Eles queimam a mulher e o sogro dele — Sansão mata mil filisteus em Leí com a queixada de um jumento.
 
----
 ###### 1 
 E aconteceu, depois  dias, que na ceifa do trigo Sansão visitou sua mulher com um cabrito, e disse: Irei à minha mulher, no quarto. Porém o pai dela não o deixou entrar.
 

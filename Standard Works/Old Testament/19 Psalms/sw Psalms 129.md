@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 129
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 129
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/129?lang=eng)
 
----
+```
 A Song of degrees.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The Lord is righteous—Let those be confounded who hate Zion.
 
----
 ###### 1 
 Many a time have they afflicted me from my youth, may Israel now say:
 

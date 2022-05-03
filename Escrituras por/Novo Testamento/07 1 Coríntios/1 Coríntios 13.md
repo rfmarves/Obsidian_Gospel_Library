@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 13
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 13
 [[1 Coríntios 12| <-- 1 Coríntios 12]] | [[1 Coríntios]] | [[1 Coríntios 14|1 Coríntios 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo fala da excelência da caridade — A caridade, um amor puro, excede e supera quase todas as outras coisas.
 
----
 ###### 1 
 Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse caridade, seria como o metal que soa ou como o sino que tine.
 

@@ -1,22 +1,21 @@
 ---
 title: Salmos 97
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 97
 [[Salmos 96| <-- Salmos 96]] | [[Salmos]] | [[Salmos 98|Salmos 98 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/97?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/97?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor reina em glória milenar — Os montes derretem em Sua presença — Aqueles que amam ao Senhor odeiam o mal.
 
----
 ###### 1 
 O  reina; regozije-se a terra; alegrem-se as muitas ilhas.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 9
 [[2 Samuel 8| <-- 2 Samuel 8]] | [[2 Samuel]] | [[2 Samuel 10|2 Samuel 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David procura honrar a la casa de Saúl — Encuentra a Mefi-boset hijo de Jonatán a quien restituye toda la tierra de Saúl.
 
----
 ###### 1 
 Y dijo David: ¿Ha quedado alguno de la casa de Saúl a quien haga yo misericordia por amor a Jonatán?
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 29
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 29
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/29?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David counsels, Worship the Lord in the beauty of holiness—David sets forth the wonder and power of the voice of the Lord.
 
----
 ###### 1 
 Give unto the , O ye mighty, give unto the  glory and strength.
 

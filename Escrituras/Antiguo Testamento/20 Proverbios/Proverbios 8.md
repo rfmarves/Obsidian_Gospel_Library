@@ -1,22 +1,21 @@
 ---
 title: Proverbios 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 8
 [[Proverbios 7| <-- Proverbios 7]] | [[Proverbios]] | [[Proverbios 9|Proverbios 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La sabiduría ha de desearse en gran manera — Jehová y los hijos de los hombres poseían sabiduría en la vida preterrenal.
 
----
 ###### 1 
 
 

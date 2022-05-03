@@ -1,22 +1,21 @@
 ---
 title: Génesis 41
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 41
 [[Génesis 40| <-- Génesis 40]] | [[Génesis]] | [[Génesis 42|Génesis 42 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/41?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/41?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Faraón sueña con las vacas y con las espigas — José interpreta los sueños como siete años de abundancia y siete de hambruna — José propone un programa de almacenamiento de grano — Faraón lo hace gobernador de todo Egipto — José se casa con Asenat — José recoge grano como la arena del mar — Asenat da a luz a Manasés y a Efraín — José vende grano a los egipcios y a otras personas durante la hambruna.
 
----
 ###### 1 
 Y aconteció que pasados dos años tuvo Faraón un sueño: Le parecía que estaba junto al río,
 

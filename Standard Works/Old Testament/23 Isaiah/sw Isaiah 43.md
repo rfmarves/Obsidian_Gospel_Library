@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 43
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 43
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/43?lang=eng)
 
----
-__Summary__
+> __Summary__
 To Israel the Lord says, I am your God; I will gather your descendants; beside me there is no Savior; you are my witnesses.
 
----
 ###### 1 
 But now thus saith the  that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called  by thy name; thou  mine.
 

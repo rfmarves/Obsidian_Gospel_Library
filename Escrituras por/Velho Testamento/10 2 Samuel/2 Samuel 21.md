@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 21
 [[2 Samuel 20| <-- 2 Samuel 20]] | [[2 Samuel]] | [[2 Samuel 22|2 Samuel 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor envia uma fome — Davi compreende que a fome se deve ao fato de Saul ter matado os gibeonitas, contrariando o juramento de Israel — Davi entrega sete filhos de Saul aos gibeonitas, para que os enforquem — Israel e os filisteus continuam suas guerras.
 
----
 ###### 1 
 E houve nos dias de Davi uma fome de três anos, ano após ano; e Davi consultou ao , e o  lhe disse: É por causa de Saul e da sua casa sanguinária, porque matou os gibeonitas.
 

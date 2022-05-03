@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Levite singers and musicians are assigned their duties by lot.
 
----
 ###### 1 
 Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was:
 

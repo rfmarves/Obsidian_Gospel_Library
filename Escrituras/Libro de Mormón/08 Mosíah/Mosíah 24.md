@@ -1,22 +1,21 @@
 ---
 title: Mosíah 24
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 24
 [[Mosíah 23| <-- Mosíah 23]] | [[Mosíah]] | [[Mosíah 25|Mosíah 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Amulón persigue a Alma y a su pueblo — Se les quitará la vida si oran — El Señor alivia sus cargas para que les parezcan ligeras — Los libra de la servidumbre y vuelven a Zarahemla. Aproximadamente 145–120 a.C.
 
----
 ###### 1 
 Y aconteció que Amulón halló gracia a los ojos del rey de los lamanitas; por tanto, este les concedió a él y a sus hermanos que fuesen nombrados maestros de su pueblo; sí, del pueblo que se hallaba en la tierra de Shemlón, y en la tierra de Shilom, y en la tierra de Amulón.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Alma 15
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Alma and Amulek go to Sidom and establish a church—Alma heals Zeezrom, who joins the Church—Many are baptized, and the Church prospers—Alma and Amulek go to Zarahemla. About 81 B.C.
 
----
 ###### 1 
 And it came to pass that Alma and Amulek were commanded to depart out of that city; and they departed, and came out even into the land of Sidom; and behold, there they found all the people who had departed out of the land of Ammonihah, who had been cast out and stoned, because they believed in the words of Alma.
 

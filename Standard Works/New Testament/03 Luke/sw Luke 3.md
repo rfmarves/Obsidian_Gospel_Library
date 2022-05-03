@@ -1,10 +1,11 @@
 ---
 title: sw Luke 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 John the Baptist preaches and baptizes—Jesus is baptized, and God acclaims Him as His Son—Jesus’ genealogy back to Adam is given.
 
----
 ###### 1 
 Now in the fifteenth year of the reign of Tiberius Cæsar, Pontius Pilate being governor of Judæa, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituræa and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,
 

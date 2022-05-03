@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 3
 [[2 Reis 2| <-- 2 Reis 2]] | [[2 Reis]] | [[2 Reis 4|2 Reis 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jorão, de Israel, e Josafá, de Judá, unem forças contra Moabe — Eliseu promete-lhes água para os animais e vitória na guerra — Os moabitas são derrotados.
 
----
 ###### 1 
 E Jorão, filho de Acabe, começou a reinar sobre Israel em Samaria no décimo oitavo ano de Josafá, rei de Judá; e reinou doze anos.
 

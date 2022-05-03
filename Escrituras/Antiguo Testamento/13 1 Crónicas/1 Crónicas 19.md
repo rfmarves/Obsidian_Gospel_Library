@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 19
 [[1 Crónicas 18| <-- 1 Crónicas 18]] | [[1 Crónicas]] | [[1 Crónicas 20|1 Crónicas 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los amonitas insultan a los mensajeros de David y planean la guerra contra Israel — David derrota a los amonitas y a los sirios.
 
----
 ###### 1 
 Después de estas cosas aconteció que murió Nahas, rey de los hijos de Amón, y reinó en su lugar su hijo.
 

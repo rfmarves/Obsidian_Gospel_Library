@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Hezekiah is told he will die and pleads with the Lord; his life is lengthened fifteen years—The shadow goes back ten degrees on the sundial of Ahaz—Isaiah prophesies the Babylonian captivity of Judah.
 
----
 ###### 1 
 In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the , Set thine house in order; for thou shalt die, and not live.
 

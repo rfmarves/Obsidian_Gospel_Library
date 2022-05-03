@@ -1,9 +1,11 @@
 ---
 title: sw The Articles of Faith 1
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
+
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw The Articles of Faith 1

@@ -1,22 +1,21 @@
 ---
 title: Efésios 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Efésios 3
 [[Efésios 2| <-- Efésios 2]] | [[Efésios]] | [[Efésios 4|Efésios 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/eph/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/eph/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os gentios são co-herdeiros com Israel — O amor de Cristo excede todo o entendimento.
 
----
 ###### 1 
 Por essa causa eu, Paulo,  o prisioneiro de Jesus Cristo por vós, os gentios;
 

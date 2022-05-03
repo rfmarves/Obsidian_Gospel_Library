@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jezebel seeks the life of Elijah—An angel sends him to Horeb—The Lord speaks to Elijah, not in the wind nor the earthquake nor the fire, but in a still, small voice—Elisha joins Elijah.
 
----
 ###### 1 
 And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword.
 

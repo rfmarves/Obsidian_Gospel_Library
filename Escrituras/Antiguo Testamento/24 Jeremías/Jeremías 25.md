@@ -1,22 +1,21 @@
 ---
 title: Jeremías 25
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 25
 [[Jeremías 24| <-- Jeremías 24]] | [[Jeremías]] | [[Jeremías 26|Jeremías 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Una vez que sea llevada cautiva, Judá servirá a Babilonia durante setenta años — Varias naciones serán derribadas — En los últimos días, todos los habitantes de la tierra estarán en guerra.
 
----
 ###### 1 
 La palabra que vino a Jeremías acerca de todo el pueblo de Judá en el año cuarto de Joacim hijo de Josías, rey de Judá, el cual era el año primero de Nabucodonosor, rey de Babilonia;
 

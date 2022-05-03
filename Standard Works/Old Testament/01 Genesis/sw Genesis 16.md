@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Sarai gives Hagar to Abram as his wife—Hagar flees from Sarai—An angel commands Hagar to return and submit herself to Sarai—Hagar bears Ishmael.
 
----
 ###### 1 
 Now Sarai Abram’s wife bare him no children: and she had an handmaid, an Egyptian, whose name  Hagar.
 

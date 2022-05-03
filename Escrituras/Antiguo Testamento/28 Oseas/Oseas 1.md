@@ -1,22 +1,21 @@
 ---
 title: Oseas 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseas 1
 [[Daniel 12| <-- Daniel 12]] | [[Oseas]] | [[Oseas 2|Oseas 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Oseas y su familia son una señal para Israel — En el día del recogimiento, los del pueblo de Israel llegarán a ser los hijos del Dios viviente.
 
----
 ###### 1 
 La palabra de Jehová que vino a Oseas hijo de Beeri, en días de Uzías, Jotam, Acaz  Ezequías, reyes de Judá, y en días de Jeroboam hijo de Joás, rey de Israel.
 

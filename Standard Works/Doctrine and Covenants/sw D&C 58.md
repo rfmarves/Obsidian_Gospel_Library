@@ -1,10 +1,11 @@
 ---
 title: sw D&C 58
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 58
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, Those who endure tribulation will be crowned with glory; 6–12, The Saints are to prepare for the marriage of the Lamb and the supper of the Lord; 13–18, Bishops are judges in Israel; 19–23, The Saints are to obey the laws of the land; 24–29, Men should use their agency to do good; 30–33, The Lord commands and revokes; 34–43, To repent, men must confess and forsake their sins; 44–58, The Saints are to purchase their inheritance and gather in Missouri; 59–65, The gospel must be preached unto every creature.
 
----
 ###### 1 
 Hearken, O ye elders of my church, and give ear to my word, and learn of me what I will concerning you, and also concerning this land unto which I have sent you.
 

@@ -1,22 +1,21 @@
 ---
 title: Zacarías 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarías 7
 [[Zacarías 6| <-- Zacarías 6]] | [[Zacarías]] | [[Zacarías 8|Zacarías 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová reprueba la hipocresía en el ayuno — Exhorta al pueblo a mostrar misericordia y compasión y a llevar una vida piadosa.
 
----
 ###### 1 
 Y aconteció que, en el año cuarto del rey Darío, vino la palabra de Jehová a Zacarías a los cuatro  del mes noveno, que es Quisleu,
 

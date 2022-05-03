@@ -1,10 +1,11 @@
 ---
 title: sw D&C 117
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 117
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/117?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–9, The Lord’s servants should not covet temporal things, for “what is property unto the Lord?”; 10–16, They are to forsake littleness of soul, and their sacrifices will be sacred unto the Lord.
 
----
 ###### 1 
 Verily thus saith the Lord unto my servant William Marks, and also unto my servant Newel K. Whitney, let them settle up their business speedily and journey from the land of Kirtland, before I, the Lord, send again the snows upon the earth.
 

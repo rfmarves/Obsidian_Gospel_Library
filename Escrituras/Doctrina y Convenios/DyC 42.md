@@ -1,22 +1,21 @@
 ---
 title: DyC 42
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 42
 [[DyC 41| <-- DyC 41]] | [[DyC]] | [[DyC 43|DyC 43 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–10, Los élderes son llamados a predicar el Evangelio, a bautizar conversos y a edificar la Iglesia; 11–12, Deben ser llamados y ordenados y han de enseñar los principios del Evangelio que se encuentran en las Escrituras; 13–17, Han de enseñar y profetizar por el poder del Espíritu; 18–29, Se manda a los santos no matar, ni robar, ni mentir, ni codiciar, ni cometer adulterio ni hablar mal de los demás; 30–39, Se indican las leyes que rigen la consagración de bienes; 40–42, Se condenan el orgullo y la ociosidad; 43–52, Los enfermos han de ser sanados por medio de bendiciones del sacerdocio y por la fe; 53–60, Las Escrituras rigen a la Iglesia y se han de proclamar al mundo; 61–69, El sitio de la Nueva Jerusalén y los misterios del reino han de ser revelados; 70–73, Los bienes consagrados se han de usar para apoyar a los oficiales de la Iglesia; 74–93, Se dan a conocer las leyes que rigen la fornicación, el adulterio, el asesinato, el robo y la confesión de pecados.
 
----
 ###### 1 
 Escuchad, oh élderes de mi iglesia, que os habéis congregado en mi nombre, a saber, Jesucristo el Hijo del Dios viviente, el Salvador del mundo, por cuanto creéis en mi nombre y guardáis mis mandamientos.
 

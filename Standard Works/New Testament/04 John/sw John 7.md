@@ -1,10 +1,11 @@
 ---
 title: sw John 7
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus’ kinsmen do not believe—He teaches His Father’s doctrine and proclaims His divine sonship—Truth may be known through obedience—Jesus offers living water to all people—The people have various opinions concerning Him.
 
----
 ###### 1 
 After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.
 

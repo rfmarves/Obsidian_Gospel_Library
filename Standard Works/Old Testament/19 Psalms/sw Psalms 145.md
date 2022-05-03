@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 145
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 145
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/145?lang=eng)
 
----
+```
 David’s Psalm of praise.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David proclaims the greatness and majesty of God—The Lord is good to all—His kingdom is an everlasting kingdom—He is near to all who call upon Him, and He preserves those who love Him.
 
----
 ###### 1 
 I will extol thee, my God, O king; and I will bless thy name for ever and ever.
 

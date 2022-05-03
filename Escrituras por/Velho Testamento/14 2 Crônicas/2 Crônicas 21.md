@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 21
 [[2 Crônicas 20| <-- 2 Crônicas 20]] | [[2 Crônicas]] | [[2 Crônicas 22|2 Crônicas 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jorão mata seus irmãos, casa-se com a filha de Acabe e reina iniquamente — Elias profetiza uma praga sobre o povo e a morte de Jorão — Os filisteus e outros povos guerreiam contra Judá — Jorão morre de grave enfermidade.
 
----
 ###### 1 
 Depois, Josafá dormiu com seus pais, e o sepultaram com seus pais na cidade de Davi; e Jorão, seu filho, reinou em seu lugar.
 

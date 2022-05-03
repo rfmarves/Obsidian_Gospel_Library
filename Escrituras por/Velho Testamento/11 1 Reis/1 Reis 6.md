@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 6
 [[1 Reis 5| <-- 1 Reis 5]] | [[1 Reis]] | [[1 Reis 7|1 Reis 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Salomão constrói o templo — O Senhor promete habitar no meio dos israelitas se forem obedientes — São descritos os ornamentos do templo.
 
----
 ###### 1 
 E sucedeu que no ano de quatrocentos e oitenta, depois de saírem os filhos de Israel do Egito, no ano quarto do reinado de Salomão sobre Israel, no mês de Zive (este é o mês segundo), ele  edificar a casa do .
 

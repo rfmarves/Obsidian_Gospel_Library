@@ -1,22 +1,21 @@
 ---
 title: Mórmon 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mórmon 3
 [[Mórmon 2| <-- Mórmon 2]] | [[Mórmon]] | [[Mórmon 4|Mórmon 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mórmon clama arrependimento aos nefitas — Eles conseguem uma grande vitória e vangloriam-se de sua própria força — Mórmon recusa-se a chefiá-los e suas orações por eles são sem fé — O Livro de Mórmon convida as doze tribos de Israel a crerem no evangelho. Aproximadamente 360–362 d.C.
 
----
 ###### 1 
 E aconteceu que os lamanitas não voltaram a guerrear até que se passaram mais dez anos. E eis que eu havia empregado meu povo, os nefitas, no preparo de suas terras e de suas armas, para o dia da batalha.
 

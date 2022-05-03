@@ -1,22 +1,21 @@
 ---
 title: Jeremias 27
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 27
 [[Jeremias 26| <-- Jeremias 26]] | [[Jeremias]] | [[Jeremias 28|Jeremias 28 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/27?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor anuncia a muitas nações que elas hão de servir a Babilônia — Os utensílios da casa do Senhor serão levados para a Babilônia.
 
----
 ###### 1 
 No princípio do reinado de Joaquim, filho de Josias, rei de Judá, veio esta palavra a Jeremias da parte do , dizendo:
 

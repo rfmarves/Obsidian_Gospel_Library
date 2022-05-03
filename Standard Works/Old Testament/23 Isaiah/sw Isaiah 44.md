@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 44
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 44
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/44?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord’s Spirit will be poured out on the descendants of Israel—Idols of wood are as fuel for a fire—The Lord will gather, bless, and redeem Israel and rebuild Jerusalem.
 
----
 ###### 1 
 Yet now hear, O Jacob my servant; and Israel, whom I have chosen:
 

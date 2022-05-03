@@ -1,27 +1,25 @@
 ---
 title: Jacob 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jacob 1
 [[2 Nefi 33| <-- 2 Nefi 33]] | [[Jacob]] | [[Jacob 2|Jacob 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/1?lang=spa)
 
----
+```
 Palabras de su predicación a sus hermanos. Confunde a un hombre que trata de derribar la doctrina de Cristo. Algunas palabras acerca de la historia del pueblo de Nefi.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Jacob y José procuran persuadir a los hombres a creer en Cristo y a guardar Sus mandamientos — Muere Nefi — Predomina la iniquidad entre los nefitas. Aproximadamente 544–421 a.C.
 
----
 ###### 1 
 Porque he aquí, aconteció que ya habían pasado cincuenta y cinco años desde que Lehi había salido de Jerusalén; por tanto, Nefi me dio a mí, Jacob, un mandato respecto de las planchas menores sobre las cuales estas cosas están grabadas.
 

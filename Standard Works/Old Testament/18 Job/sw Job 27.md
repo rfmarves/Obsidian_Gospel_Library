@@ -1,10 +1,11 @@
 ---
 title: sw Job 27
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job asserts his righteousness—When the wicked are buried in death, terrors will take hold of them.
 
----
 ###### 1 
 Moreover Job continued his parable, and said,
 

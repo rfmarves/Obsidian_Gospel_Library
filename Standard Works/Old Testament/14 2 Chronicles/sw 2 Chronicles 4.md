@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Solomon makes a basin and places it on twelve oxen—The altar, basins, pots, and various items are made.
 
----
 ###### 1 
 Moreover he made an altar of brass, twenty cubits the length thereof, and twenty cubits the breadth thereof, and ten cubits the height thereof.
 

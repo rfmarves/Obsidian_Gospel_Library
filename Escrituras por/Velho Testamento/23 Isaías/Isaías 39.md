@@ -1,22 +1,21 @@
 ---
 title: Isaías 39
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 39
 [[Isaías 38| <-- Isaías 38]] | [[Isaías]] | [[Isaías 40|Isaías 40 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/39?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/39?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ezequias revela sua riqueza a Babilônia — Isaías profetiza o cativeiro babilônico.
 
----
 ###### 1 
 Naquele tempo enviou Merodaque-Baladã, filho de Baladã, rei de Babilônia, cartas e um presente a Ezequias, porque tinha ouvido dizer que havia estado doente e que  tinha convalescido.
 

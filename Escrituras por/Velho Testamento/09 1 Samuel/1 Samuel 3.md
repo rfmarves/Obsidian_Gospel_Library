@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 3
 [[1 Samuel 2| <-- 1 Samuel 2]] | [[1 Samuel]] | [[1 Samuel 4|1 Samuel 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor chama Samuel — A casa de Eli não será purificada por sacrifícios e ofertas — Samuel é reconhecido como profeta por todo o Israel — O Senhor aparece a ele.
 
----
 ###### 1 
 E o jovem Samuel servia ao  perante Eli; e a palavra do  era de muita valia naqueles dias; não  visão manifesta.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Micah 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Micah 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/micah/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Though the people of Israel have rebelled, yet in the last days the Lord will have mercy on them—He will have compassion and pardon their iniquities.
 
----
 ###### 1 
 Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage:  no cluster to eat: my soul desired the firstripe fruit.
 

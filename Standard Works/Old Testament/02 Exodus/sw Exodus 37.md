@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 37
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 37
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/37?lang=eng)
 
----
-__Summary__
+> __Summary__
 Bezaleel makes the ark, the mercy seat, and the cherubims—He makes the table, the vessels, the candlestick, the incense altar, the holy anointing oil, and the sweet incense.
 
----
 ###### 1 
 And Bezaleel made the ark  shittim wood: two cubits and a half  the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it:
 

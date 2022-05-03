@@ -1,10 +1,11 @@
 ---
 title: sw Romans 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The gospel is the power of God unto salvation through Jesus Christ—The wrath of God rests on those guilty of murder, homosexual practices, fornication, and other sins if the guilty do not repent.
 
----
 ###### 1 
 Paul, a servant of Jesus Christ, called  an apostle, separated unto the gospel of God,
 

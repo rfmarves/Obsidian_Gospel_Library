@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 27
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 The tabernacle is to contain an altar for burnt offerings and a court surrounded by pillars—A light is to burn always in the tabernacle of the congregation.
 
----
 ###### 1 
 And thou shalt make an altar  shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof  three cubits.
 

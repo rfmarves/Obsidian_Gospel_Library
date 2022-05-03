@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 32
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 32
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/32?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob sees angels—He asks God to preserve him from Esau, for whom he prepares presents—He wrestles all night with a messenger of God—Jacob’s name is changed to Israel—He sees God face to face.
 
----
 ###### 1 
 And Jacob went on his way, and the angels of God met him.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Alma 1
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 1
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=eng)
 
----
+```
 The account of Alma, who was the son of Alma, the first and chief judge over the people of Nephi, and also the high priest over the Church. An account of the reign of the judges, and the wars and contentions among the people. And also an account of a war between the Nephites and the Lamanites, according to the record of Alma, the first and chief judge.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Nehor teaches false doctrines, establishes a church, introduces priestcraft, and slays Gideon—Nehor is executed for his crimes—Priestcrafts and persecutions spread among the people—The priests support themselves, the people care for the poor, and the Church prospers. About 91–88 B.C.
 
----
 ###### 1 
 Now it came to pass that in the first year of the reign of the judges over the people of Nephi, from this time forward, king Mosiah having gone the way of all the earth, having warred a good warfare, walking uprightly before God, leaving none to reign in his stead; nevertheless he had established laws, and they were acknowledged by the people; therefore they were obliged to abide by the laws which he had made.
 

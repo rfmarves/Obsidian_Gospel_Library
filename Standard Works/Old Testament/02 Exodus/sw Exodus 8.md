@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord sends plagues of frogs, lice, and flies upon Egypt—Pharaoh hardens his heart.
 
----
 ###### 1 
 And the  spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the , Let my people go, that they may serve me.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Hebrews 7
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hebrews 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Melchizedek Priesthood brings exaltation and administers the gospel—It is received with an oath and covenant—The superiority of the Melchizedek Priesthood over the Aaronic Priesthood is explained—Salvation comes through the intercession of Christ.
 
----
 ###### 1 
 For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;
 

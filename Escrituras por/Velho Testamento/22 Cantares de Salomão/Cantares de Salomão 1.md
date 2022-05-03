@@ -1,22 +1,21 @@
 ---
 title: Cantares de Salomão 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Cantares de Salomão 1
 [[Eclesiastes 12| <-- Eclesiastes 12]] | [[Cantares de Salomão]] | [[Cantares de Salomão 2|Cantares de Salomão 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O poeta canta sobre o amor e a devoção.
 
----
 ###### 1 
 Cântico dos cânticos, que  de Salomão.
 

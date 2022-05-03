@@ -1,22 +1,21 @@
 ---
 title: Helamã 15
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamã 15
 [[Helamã 14| <-- Helamã 14]] | [[Helamã]] | [[Helamã 16|Helamã 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor castigou os nefitas porque Ele os amava — Os lamanitas convertidos são firmes e perseverantes na fé — O Senhor será misericordioso com os lamanitas nos últimos dias. Aproximadamente 6 a.C.
 
----
 ###### 1 
 E agora, meus queridos irmãos, eis que vos declaro que, se não vos arrependerdes, vossas casas ficarão desertas.
 

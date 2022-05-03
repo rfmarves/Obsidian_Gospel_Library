@@ -1,22 +1,21 @@
 ---
 title: Jeremías 29
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 29
 [[Jeremías 28| <-- Jeremías 28]] | [[Jeremías]] | [[Jeremías 30|Jeremías 30 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/29?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías dice a los judíos que están en Babilonia que se preparen para setenta años de cautiverio — Los que todavía quedan en Jerusalén serán esparcidos — Semaías profetiza falsamente y es maldecido.
 
----
 ###### 1 
 Y estas son las palabras de la carta que el profeta Jeremías envió desde Jerusalén a los ancianos que habían quedado de los del cautiverio, y a los sacerdotes, y a los profetas y a todo el pueblo que Nabucodonosor llevó cautivo de Jerusalén a Babilonia
 

@@ -1,22 +1,21 @@
 ---
 title: Levíticos 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 7
 [[Levíticos 6| <-- Levíticos 6]] | [[Levíticos]] | [[Levíticos 8|Levíticos 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se establecen las leyes que rigen diversos sacrificios — Se prohíbe a los hijos de Israel comer la grasa y la sangre — Israel adora por medio del sacrificio — A través del sacrificio logran el perdón, hacen votos, consagran sus bienes, dan gracias y se reconcilian con Dios.
 
----
 ###### 1 
 Asimismo esta es la ley de la ofrenda por la culpa; es cosa santísima.
 

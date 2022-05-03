@@ -1,22 +1,21 @@
 ---
 title: Daniel 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 9
 [[Daniel 8| <-- Daniel 8]] | [[Daniel]] | [[Daniel 10|Daniel 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Daniel ayuna, confiesa y ora por todo Israel — Gabriel revela el tiempo de la venida del Mesías, quien hará expiación por la iniquidad — Se quitará la vida al Mesías.
 
----
 ###### 1 
 En el año primero de Darío hijo de Asuero, de la descendencia de los medos, que vino a ser rey sobre el reino de los caldeos,
 

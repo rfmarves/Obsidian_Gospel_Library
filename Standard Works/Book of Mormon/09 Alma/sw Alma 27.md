@@ -1,10 +1,11 @@
 ---
 title: sw Alma 27
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord commands Ammon to lead the people of Anti-Nephi-Lehi to safety—Upon meeting Alma, Ammon’s joy exhausts his strength—The Nephites give the Anti-Nephi-Lehies the land of Jershon—They are called the people of Ammon. About 90–77 B.C.
 
----
 ###### 1 
 Now it came to pass that when those Lamanites who had gone to war against the Nephites had found, after their many struggles to destroy them, that it was in vain to seek their destruction, they returned again to the land of Nephi.
 

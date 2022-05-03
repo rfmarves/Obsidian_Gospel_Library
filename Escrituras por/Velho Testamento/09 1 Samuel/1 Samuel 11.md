@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 11
 [[1 Samuel 10| <-- 1 Samuel 10]] | [[1 Samuel]] | [[1 Samuel 12|1 Samuel 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os amonitas sitiam os israelitas de Jabes-Gileade — Saul os resgata e derrota os amonitas — Seu reinado é renovado em Gilgal.
 
----
 ###### 1 
 Então subiu Naás, amonita, e sitiou Jabes-Gileade; e disseram todos os homens de Jabes a Naás: Faze aliança conosco, e te serviremos.
 

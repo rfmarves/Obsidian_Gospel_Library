@@ -1,22 +1,21 @@
 ---
 title: Colosenses 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Colosenses 4
 [[Colosenses 3| <-- Colosenses 3]] | [[Colosenses]] | [[1 Tesalonisenses 1|1 Tesalonisenses 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/col/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/col/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se exhorta a los santos a ser sabios en todas las cosas — Lucas y otros saludan a los colosenses.
 
----
 ###### 1 
 Amos, haced lo que es justo y equitativo con vuestros siervos, sabiendo que también vosotros tenéis un Amo en los cielos.
 

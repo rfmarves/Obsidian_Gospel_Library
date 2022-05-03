@@ -1,22 +1,21 @@
 ---
 title: Salmos 107
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 107
 [[Salmos 106| <-- Salmos 106]] | [[Salmos]] | [[Salmos 108|Salmos 108 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/107?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/107?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El pueblo de Israel alabará y dará gracias a Jehová cuando sean recogidos y redimidos — ¡Oh, que los hombres alaben a Jehová! — Las bendiciones de Jehová abundan en la vida de los hombres.
 
----
 ###### 1 
 
 

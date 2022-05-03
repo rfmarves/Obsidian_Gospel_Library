@@ -1,10 +1,11 @@
 ---
 title: sw 2 Corinthians 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Corinthians 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saints should love and forgive one another—They always triumph in Christ.
 
----
 ###### 1 
 But I determined this with myself, that I would not come again to you in heaviness.
 

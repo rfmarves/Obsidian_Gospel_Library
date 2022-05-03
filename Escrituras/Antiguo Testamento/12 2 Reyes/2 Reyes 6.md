@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 6
 [[2 Reyes 5| <-- 2 Reyes 5]] | [[2 Reyes]] | [[2 Reyes 7|2 Reyes 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Eliseo hace flotar un hacha — Él revela al rey cómo conducir la guerra contra Siria — Caballos y carros de fuego protegen a Eliseo — Los sirios son heridos con ceguera — Ben-adad sitia Samaria y los alimentos se venden a un alto precio.
 
----
 ###### 1 
 Los hijos de los profetas dijeron a Eliseo: He aquí, el lugar en el que moramos contigo es demasiado estrecho para nosotros.
 

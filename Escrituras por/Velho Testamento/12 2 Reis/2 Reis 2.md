@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 2
 [[2 Reis 1| <-- 2 Reis 1]] | [[2 Reis]] | [[2 Reis 3|2 Reis 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Eliseu e os profetas sabem que Elias, o profeta, há de ser transladado — Elias divide as águas do Jordão e é levado para o céu em um redemoinho — O manto de Elias cai sobre Eliseu, que também divide as águas do Jordão — Eliseu cura as águas de Jericó — Alguns jovens são despedaçados por ursas por zombarem de Eliseu.
 
----
 ###### 1 
 Sucedeu, pois, que, havendo o  de elevar Elias num redemoinho ao céu, Elias partiu com Eliseu de Gilgal.
 

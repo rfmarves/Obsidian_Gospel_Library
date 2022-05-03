@@ -1,22 +1,21 @@
 ---
 title: Proverbios 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 13
 [[Proverbios 12| <-- Proverbios 12]] | [[Proverbios]] | [[Proverbios 14|Proverbios 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El camino del transgresor es duro — El mal persigue a los pecadores — El que no disciplina a sus hijos los aborrece.
 
----
 ###### 1 
 
 

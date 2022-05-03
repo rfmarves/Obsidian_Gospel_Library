@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 13
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Judah and Jerusalem will be punished for their disobedience—The Lord pleads for and judges His people—The daughters of Zion are cursed and tormented for their worldliness—Compare Isaiah 3. About 559–545 B.C.
 
----
 ###### 1 
 For behold, the Lord, the Lord of Hosts, doth take away from Jerusalem, and from Judah, the stay and the staff, the whole staff of bread, and the whole stay of water—
 

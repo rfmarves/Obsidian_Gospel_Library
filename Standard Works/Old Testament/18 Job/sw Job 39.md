@@ -1,10 +1,11 @@
 ---
 title: sw Job 39
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 39
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/39?lang=eng)
 
----
-__Summary__
+> __Summary__
 Man’s weakness and ignorance are compared with God’s mighty works—Does man even know how the laws of nature operate?
 
----
 ###### 1 
 Knowest thou the time when the wild goats of the rock bring forth?  canst thou mark when the hinds do calve?
 

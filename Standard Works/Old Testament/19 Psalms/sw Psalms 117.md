@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 117
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 117
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/117?lang=eng)
 
----
-__Summary__
+> __Summary__
 Praise the Lord for His mercy and truth.
 
----
 ###### 1 
 O praise the , all ye nations: praise him, all ye people.
 

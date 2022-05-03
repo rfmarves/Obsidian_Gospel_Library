@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Aaron and his sons are called to minister in the priest’s office—Levites are called to minister in the service of the tabernacle—Levites receive no land inheritance but are supported by the tithes of the people.
 
----
 ###### 1 
 And the  said unto Aaron, Thou and thy sons and thy father’s house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood.
 

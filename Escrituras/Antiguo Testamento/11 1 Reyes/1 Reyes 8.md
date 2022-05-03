@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 8
 [[1 Reyes 7| <-- 1 Reyes 7]] | [[1 Reyes]] | [[1 Reyes 9|1 Reyes 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El arca, que contiene las dos tablas de piedra, es colocada en el lugar santísimo — La gloria de Jehová llena el templo — Salomón ofrece la oración dedicatoria — Pide bendiciones temporales y espirituales sobre el Israel arrepentido y suplicante — El pueblo ofrece sacrificios y adora durante catorce días.
 
----
 ###### 1 
 Entonces reunió Salomón ante sí, en Jerusalén, a los ancianos de Israel, y a todos los jefes de las tribus y a los principales de las familias de los hijos de Israel, para hacer subir el arca del convenio de Jehová de la ciudad de David, que es Sion.
 

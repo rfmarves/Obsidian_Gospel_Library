@@ -1,22 +1,21 @@
 ---
 title: Números 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 12
 [[Números 11| <-- Números 11]] | [[Números]] | [[Números 13|Números 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Aarón y María se quejan contra Moisés, el más manso de todos los hombres — Jehová promete hablar a Moisés cara a cara y mostrarle a él la similitud con Jehová — María queda leprosa por una semana.
 
----
 ###### 1 
 Y hablaron María y Aarón contra Moisés a causa de la mujer etíope que había tomado, porque él había tomado por esposa a una mujer etíope.
 

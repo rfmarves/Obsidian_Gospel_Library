@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 A soft answer turns away wrath—A wise son makes a glad father—The thoughts of the wicked are an abomination to the Lord—Before honor comes humility.
 
----
 ###### 1 
 A soft answer turneth away wrath: but grievous words stir up anger.
 

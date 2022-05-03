@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 2
 [[Deuteronômio 1| <-- Deuteronômio 1]] | [[Deuteronômio]] | [[Deuteronômio 3|Deuteronômio 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Israel avançam para a sua terra prometida — Eles passam pelas terras de Esaú e de Amom em paz, mas destroem os amorreus.
 
----
 ###### 1 
 Depois viramo-nos, e caminhamos para o deserto, pelo caminho do Mar Vermelho, como o  me dissera, e muitos dias rodeamos o monte Seir.
 

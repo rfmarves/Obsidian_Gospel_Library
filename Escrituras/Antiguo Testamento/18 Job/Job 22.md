@@ -1,22 +1,21 @@
 ---
 title: Job 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 22
 [[Job 21| <-- Job 21]] | [[Job]] | [[Job 23|Job 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Elifaz acusa a Job de varios pecados y le exhorta a arrepentirse.
 
----
 ###### 1 
 Y respondió Elifaz, el temanita, y dijo:
 

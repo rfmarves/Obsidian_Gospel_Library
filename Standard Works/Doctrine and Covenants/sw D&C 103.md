@@ -1,10 +1,11 @@
 ---
 title: sw D&C 103
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 103
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/103?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, Why the Lord permitted the Saints in Jackson County to be persecuted; 5–10, The Saints will prevail if they keep the commandments; 11–20, The redemption of Zion will come by power, and the Lord will go before His people; 21–28, The Saints are to gather in Zion, and those who lay down their lives will find them again; 29–40, Various brethren are called to organize Zion’s Camp and go to Zion; they are promised victory if they are faithful.
 
----
 ###### 1 
 Verily I say unto you, my friends, behold, I will give unto you a revelation and commandment, that you may know how to act in the discharge of your duties concerning the salvation and redemption of your brethren, who have been scattered on the land of Zion;
 

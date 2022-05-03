@@ -1,22 +1,21 @@
 ---
 title: Éxodo 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 1
 [[Génesis 50| <-- Génesis 50]] | [[Éxodo]] | [[Éxodo 2|Éxodo 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de Israel se multiplican — Son puestos en servidumbre por los egipcios — Faraón procura destruir a los hijos varones nacidos de mujeres hebreas.
 
----
 ###### 1 
 Estos son los nombres de los hijos de Israel que entraron en Egipto con Jacob; cada uno entró con su familia:
 

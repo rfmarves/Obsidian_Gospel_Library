@@ -1,22 +1,21 @@
 ---
 title: DeC 64
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 64
 [[DeC 63| <-- DeC 63]] | [[DeC]] | [[DeC 65|DeC 65 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–11, Ordena-se que os santos se perdoem uns aos outros, para que não permaneça neles o pecado maior; 12–22, Os que não se arrependerem serão levados perante a Igreja; 23–25, O que paga o dízimo não será queimado na vinda do Senhor; 26–32, Adverte-se aos santos que não tenham dívidas; 33–36, Os rebeldes serão expulsos de Sião; 37–40, A Igreja julgará as nações; 41–43, Sião florescerá.
 
----
 ###### 1 
 Eis que assim vos diz o Senhor vosso Deus: Ó élderes da minha igreja, atendei e ouvi, e recebei a minha vontade concernente a vós.
 

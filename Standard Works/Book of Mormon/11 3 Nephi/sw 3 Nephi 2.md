@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 2
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Wickedness and abominations increase among the people—The Nephites and Lamanites unite to defend themselves against the Gadianton robbers—Converted Lamanites become white and are called Nephites. About A.D. 5–16.
 
----
 ###### 1 
 And it came to pass that thus passed away the ninety and fifth year also, and the people began to forget those signs and wonders which they had heard, and began to be less and less astonished at a sign or a wonder from heaven, insomuch that they began to be hard in their hearts, and blind in their minds, and began to disbelieve all which they had heard and seen—
 

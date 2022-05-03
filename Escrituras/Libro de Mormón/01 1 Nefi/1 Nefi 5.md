@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 5
 [[1 Nefi 4| <-- 1 Nefi 4]] | [[1 Nefi]] | [[1 Nefi 6|1 Nefi 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Saríah se queja contra Lehi — Ambos se regocijan por el regreso de sus hijos — Ofrecen sacrificios — Las planchas de bronce contienen los escritos de Moisés y de los profetas — En ellas se indica que Lehi es descendiente de José — Lehi profetiza acerca de sus descendientes y de la preservación de las planchas. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 Y aconteció que después de haber viajado por el desierto hasta donde estaba nuestro padre, he aquí, este se llenó de gozo; y también mi madre Saríah se regocijó en extremo, porque verdaderamente se había afligido por nosotros;
 

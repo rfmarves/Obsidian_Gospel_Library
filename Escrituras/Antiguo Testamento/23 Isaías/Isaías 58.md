@@ -1,22 +1,21 @@
 ---
 title: Isaías 58
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 58
 [[Isaías 57| <-- Isaías 57]] | [[Isaías]] | [[Isaías 59|Isaías 59 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se definen la ley verdadera del ayuno, sus propósitos y las bendiciones que la acompañan — Se da el mandamiento de guardar el día de reposo.
 
----
 ###### 1 
 ¡Clama a voz en cuello; no te contengas! Alza tu voz como trompeta, y declara a mi pueblo su transgresión y a la casa de Jacob su pecado.
 

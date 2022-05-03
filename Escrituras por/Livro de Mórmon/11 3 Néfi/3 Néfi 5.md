@@ -1,22 +1,21 @@
 ---
 title: 3 Néfi 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Néfi 5
 [[3 Néfi 4| <-- 3 Néfi 4]] | [[3 Néfi]] | [[3 Néfi 6|3 Néfi 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os nefitas arrependem-se e abandonam seus pecados — Mórmon escreve a história de seu povo e declara-lhes a palavra eterna — Israel será reunida após longa dispersão. Aproximadamente 22–26 d.C.
 
----
 ###### 1 
 E então eis que não havia uma só alma, entre todos os nefitas, que tivesse a menor dúvida quanto às palavras proferidas por todos os santos profetas; pois todos sabiam ser necessário que elas se cumprissem.
 

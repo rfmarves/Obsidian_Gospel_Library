@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 11
 [[2 Crônicas 10| <-- 2 Crônicas 10]] | [[2 Crônicas]] | [[2 Crônicas 12|2 Crônicas 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Roboão fortalece o reino de Judá mas é proibido de subjugar Israel — Jeroboão conduz o reino de Israel à idolatria — Roboão toma muitas esposas e concubinas.
 
----
 ###### 1 
 Chegando, pois, Roboão a Jerusalém, ajuntou da casa de Judá e Benjamim cento e oitenta mil escolhidos, destros na guerra, para pelejarem contra Israel, e para restituírem o reino a Roboão.
 

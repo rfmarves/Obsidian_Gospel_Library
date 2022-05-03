@@ -1,22 +1,21 @@
 ---
 title: João 7
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 7
 [[João 6| <-- João 6]] | [[João]] | [[João 8|João 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os parentes de Jesus não acreditam — Ele ensina a doutrina de Seu Pai e proclama Sua filiação divina — A verdade pode ser conhecida por intermédio da obediência — Jesus oferece água viva a todas as pessoas — As pessoas têm diferentes opiniões a respeito Dele.
 
----
 ###### 1 
 E depois disso Jesus andava pela Galileia, e  não queria andar pela Judeia, porquanto os judeus procuravam matá-lo.
 

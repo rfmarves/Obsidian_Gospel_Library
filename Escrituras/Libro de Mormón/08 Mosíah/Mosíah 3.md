@@ -1,22 +1,21 @@
 ---
 title: Mosíah 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 3
 [[Mosíah 2| <-- Mosíah 2]] | [[Mosíah]] | [[Mosíah 4|Mosíah 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El rey Benjamín continúa su discurso — El Señor Omnipotente ministrará entre los hombres en un tabernáculo de barro — La sangre le brotará de cada poro al expiar los pecados del mundo — Su nombre es el único mediante el cual llega la salvación — Los seres humanos pueden despojarse del hombre natural y hacerse santos por medio de la Expiación — El tormento de los inicuos será como un lago de fuego y azufre. Aproximadamente 124 a.C.
 
----
 ###### 1 
 Y otra vez quisiera llamaros la atención, hermanos míos, porque tengo algo más que declararos; pues he aquí, tengo cosas que deciros sobre lo que está por venir.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 87
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 87
 [[Salmos 86| <-- Salmos 86]] | [[Salmos]] | [[Salmos 88|Salmos 88 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/87?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/87?lang=por)
 
----
+```
 Salmo e canto para os filhos de Coré.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 O Senhor ama as portas de Sião, e Ele próprio estabelecerá Sião.
 
----
 ###### 1 
 O seu fundamento  nos montes santos.
 

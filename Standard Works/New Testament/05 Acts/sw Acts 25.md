@@ -1,10 +1,11 @@
 ---
 title: sw Acts 25
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul, before Festus, appeals unto Cæsar—Agrippa desires to hear Paul.
 
----
 ###### 1 
 Now when Festus was come into the province, after three days he ascended from Cæsarea to Jerusalem.
 

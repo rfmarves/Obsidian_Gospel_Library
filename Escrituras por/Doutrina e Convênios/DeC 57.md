@@ -1,22 +1,21 @@
 ---
 title: DeC 57
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 57
 [[DeC 56| <-- DeC 56]] | [[DeC]] | [[DeC 58|DeC 58 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/57?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/57?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, Independence, Missouri, é o local para a Cidade de Sião e para o templo; 4–7, Os santos devem comprar terras e receber heranças nessa região; 8–16, Sidney Gilbert deve montar uma loja, William W. Phelps, ser tipógrafo e Oliver Cowdery, preparar material para publicação.
 
----
 ###### 1 
 Escutai, ó élderes de minha igreja, diz o Senhor vosso Deus, vós, que de acordo com meus mandamentos vos haveis reunido nesta terra, que é a terra de Missouri, terra que designei e consagrei para a reunião dos santos.
 

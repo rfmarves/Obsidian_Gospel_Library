@@ -1,22 +1,21 @@
 ---
 title: Mosíah 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 4
 [[Mosíah 3| <-- Mosíah 3]] | [[Mosíah]] | [[Mosíah 5|Mosíah 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El rey Benjamín continúa su discurso — La salvación llega por causa de la Expiación — Creed en Dios para que seáis salvos — Retened la remisión de vuestros pecados mediante la fidelidad — Impartid de vuestros bienes a los pobres — Haced todas las cosas con prudencia y en orden. Aproximadamente 124 a.C.
 
----
 ###### 1 
 Y ahora bien, aconteció que cuando el rey Benjamín hubo concluido de hablar las palabras que le habían sido comunicadas por el ángel del Señor, miró a su alrededor hacia la multitud, y he aquí, habían caído a tierra, porque el temor del Señor había venido sobre ellos.
 

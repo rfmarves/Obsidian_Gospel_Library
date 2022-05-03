@@ -1,10 +1,11 @@
 ---
 title: sw D&C 33
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 33
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/33?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, Laborers are called to declare the gospel in the eleventh hour; 5–6, The Church is established, and the elect are to be gathered; 7–10, Repent, for the kingdom of heaven is at hand; 11–15, The Church is built upon the gospel rock; 16–18, Prepare for the coming of the Bridegroom.
 
----
 ###### 1 
 Behold, I say unto you, my servants Ezra and Northrop, open ye your ears and hearken to the voice of the Lord your God, whose word is quick and powerful, sharper than a two-edged sword, to the dividing asunder of the joints and marrow, soul and spirit; and is a discerner of the thoughts and intents of the heart.
 

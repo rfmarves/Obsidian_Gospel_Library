@@ -1,10 +1,11 @@
 ---
 title: sw D&C 19
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, Christ has all power; 4–5, All men must repent or suffer; 6–12, Eternal punishment is God’s punishment; 13–20, Christ suffered for all, that they might not suffer if they would repent; 21–28, Preach the gospel of repentance; 29–41, Declare glad tidings.
 
----
 ###### 1 
 I am Alpha and Omega, Christ the Lord; yea, even I am he, the beginning and the end, the Redeemer of the world.
 

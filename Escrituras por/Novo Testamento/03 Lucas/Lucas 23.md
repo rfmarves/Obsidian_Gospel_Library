@@ -1,22 +1,21 @@
 ---
 title: Lucas 23
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 23
 [[Lucas 22| <-- Lucas 22]] | [[Lucas]] | [[Lucas 24|Lucas 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus é levado perante Pilatos, em seguida perante Herodes e depois novamente perante Pilatos — Barrabás é libertado — Jesus é crucificado entre dois ladrões — Ele é sepultado no sepulcro de José de Arimateia.
 
----
 ###### 1 
 E levantando-se toda a multidão deles, o levaram a Pilatos.
 

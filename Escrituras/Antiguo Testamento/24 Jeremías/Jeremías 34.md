@@ -1,22 +1,21 @@
 ---
 title: Jeremías 34
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 34
 [[Jeremías 33| <-- Jeremías 33]] | [[Jeremías]] | [[Jeremías 35|Jeremías 35 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/34?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/34?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías profetiza el cautiverio de Sedequías — El pueblo de Judá será entregado en manos de todos los reinos de la tierra.
 
----
 ###### 1 
 La palabra que vino a Jeremías de parte de Jehová cuando Nabucodonosor, rey de Babilonia, y todo su ejército, y todos los reinos de la tierra bajo el señorío de su mano, y todos los pueblos, peleaban contra Jerusalén y contra todas sus ciudades, diciendo:
 

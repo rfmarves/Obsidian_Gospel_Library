@@ -1,22 +1,21 @@
 ---
 title: Morôni 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Morôni 6
 [[Morôni 5| <-- Morôni 5]] | [[Morôni]] | [[Morôni 7|Morôni 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Pessoas arrependidas são batizadas e integradas na Igreja — Membros da Igreja que se arrependem são perdoados — Reuniões são dirigidas pelo poder do Espírito Santo. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 E agora falo a respeito do batismo. E eis que eram batizados élderes, sacerdotes e mestres; e não eram batizados, a menos que seus frutos mostrassem serem eles dignos do batismo.
 

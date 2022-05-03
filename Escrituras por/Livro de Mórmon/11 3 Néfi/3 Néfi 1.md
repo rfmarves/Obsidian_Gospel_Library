@@ -1,27 +1,25 @@
 ---
 title: 3 Néfi 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Néfi 1
 [[Helamã 16| <-- Helamã 16]] | [[3 Néfi]] | [[3 Néfi 2|3 Néfi 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/1?lang=por)
 
----
+```
 E Helamã era filho de Helamã, que era filho de Alma, que era filho de Alma, descendente de Néfi, que era filho de Leí, que saiu de Jerusalém no primeiro ano do reinado de Zedequias, rei de Judá.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Néfi, filho de Helamã, deixa a terra e seu filho Néfi encarrega-se dos registros — Embora haja abundância de sinais e maravilhas, os iníquos planejam matar os justos — Chega a noite do nascimento de Cristo — É dado o sinal e surge uma nova estrela — Aumentam as mentiras e os enganos e os ladrões de Gadiânton matam muita gente. Aproximadamente 1–4 d.C.
 
----
 ###### 1 
 Ora, aconteceu que terminou o nonagésimo primeiro ano e haviam-se passado seiscentos anos desde que Leí saíra de Jerusalém; e nesse ano Laconeu era o juiz supremo e governador de toda a terra.
 

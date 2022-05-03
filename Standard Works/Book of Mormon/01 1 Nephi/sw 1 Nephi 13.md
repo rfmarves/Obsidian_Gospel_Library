@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 13
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nephi sees in vision the church of the devil set up among the Gentiles, the discovery and colonizing of America, the loss of many plain and precious parts of the Bible, the resultant state of gentile apostasy, the restoration of the gospel, the coming forth of latter-day scripture, and the building up of Zion. About 600–592 B.C.
 
----
 ###### 1 
 And it came to pass that the angel spake unto me, saying: Look! And I looked and beheld many nations and kingdoms.
 

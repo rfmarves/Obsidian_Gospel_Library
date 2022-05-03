@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 15
 [[Ezequiel 14| <-- Ezequiel 14]] | [[Ezequiel]] | [[Ezequiel 16|Ezequiel 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jerusalém será queimada como uma vinha inútil.
 
----
 ###### 1 
 E veio a mim a palavra do , dizendo:
 

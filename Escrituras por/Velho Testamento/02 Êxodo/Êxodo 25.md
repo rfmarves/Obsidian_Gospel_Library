@@ -1,22 +1,21 @@
 ---
 title: Êxodo 25
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 25
 [[Êxodo 24| <-- Êxodo 24]] | [[Êxodo]] | [[Êxodo 26|Êxodo 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ordena-se a Israel que doem materiais e construam um tabernáculo, a arca do testemunho (com o propiciatório e os querubins), uma mesa (para o pão da proposição) e o candelabro, tudo de acordo com o modelo mostrado a Moisés no monte.
 
----
 ###### 1 
 Então falou o  a Moisés, dizendo:
 

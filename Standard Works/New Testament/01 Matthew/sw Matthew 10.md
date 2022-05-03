@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 10
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus instructs and empowers the Twelve Apostles and sends them forth to preach, minister, and heal the sick—Those who receive the Twelve receive the Lord.
 
----
 ###### 1 
 And when he had called unto  his twelve disciples, he gave them power  unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.
 

@@ -1,27 +1,25 @@
 ---
 title: Helamán 13
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 13
 [[Helamán 12| <-- Helamán 12]] | [[Helamán]] | [[Helamán 14|Helamán 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/13?lang=spa)
 
----
+```
 La profecía de Samuel el Lamanita a los nefitas.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Samuel el Lamanita profetiza la destrucción de los nefitas, a menos que se arrepientan — Ellos y sus riquezas son maldecidos — Rechazan y apedrean a los profetas, los rodean los demonios y buscan la felicidad cometiendo iniquidades. Aproximadamente 6 a.C.
 
----
 ###### 1 
 Y sucedió que en el año ochenta y seis persistieron los nefitas todavía en sus maldades, sí, en gran iniquidad, mientras que los lamanitas se esforzaron rigurosamente por guardar los mandamientos de Dios, según la ley de Moisés.
 

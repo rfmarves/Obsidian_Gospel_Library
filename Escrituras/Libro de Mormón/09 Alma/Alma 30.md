@@ -1,22 +1,21 @@
 ---
 title: Alma 30
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 30
 [[Alma 29| <-- Alma 29]] | [[Alma]] | [[Alma 31|Alma 31 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Korihor, el anticristo, se burla de Cristo, de la Expiación y del espíritu de profecía — Enseña que no hay Dios, ni caída del hombre, ni castigo por el pecado, ni Cristo — Alma testifica que Cristo vendrá y que todas las cosas indican que hay un Dios — Korihor exige una señal y queda mudo — El diablo se le había aparecido a Korihor en forma de ángel y le había enseñado lo que debía decir — Atropellan a Korihor y lo pisotean hasta que muere. Aproximadamente 76–74 a.C.
 
----
 ###### 1 
 He aquí, aconteció que después que el pueblo de Ammón quedó establecido en la tierra de Jersón, sí, y también después que los lamanitas fueron arrojados del país, y sus muertos fueron sepultados por la gente de esa tierra
 

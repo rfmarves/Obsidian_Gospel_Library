@@ -1,22 +1,21 @@
 ---
 title: Génesis 25
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 25
 [[Génesis 24| <-- Génesis 24]] | [[Génesis]] | [[Génesis 26|Génesis 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Abraham se casa de nuevo, tiene descendencia, muere y es sepultado en la cueva de Macpela — Se enumera su descendencia a través de Ismael — Rebeca concibe, y Jacob y Esaú luchan en su vientre — Jehová revela el destino de ellos a Rebeca — Esaú vende su primogenitura por un plato de guisado.
 
----
 ###### 1 
 Y Abraham tomó otra esposa, cuyo nombre era Cetura,
 

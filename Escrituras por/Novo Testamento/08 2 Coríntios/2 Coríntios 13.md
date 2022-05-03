@@ -1,22 +1,21 @@
 ---
 title: 2 Coríntios 13
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Coríntios 13
 [[2 Coríntios 12| <-- 2 Coríntios 12]] | [[2 Coríntios]] | [[Gálatas 1|Gálatas 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos devem pôr a si mesmos à prova no tocante à retidão — Sede perfeitos e de uma só mente; vivei em paz.
 
----
 ###### 1 
 É esta a terceira  vou ter convosco. Pela boca de duas ou três testemunhas será confirmada toda palavra.
 

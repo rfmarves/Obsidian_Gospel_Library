@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 11
 [[1 Samuel 10| <-- 1 Samuel 10]] | [[1 Samuel]] | [[1 Samuel 12|1 Samuel 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los amonitas suben contra los israelitas de Jabes de Galaad y los sitian — Saúl los rescata y derrota a los amonitas — Se confirma su reinado en Gilgal.
 
----
 ###### 1 
 Y subió Nahas, el amonita, contra Jabes de Galaad y la sitió. Y todos los de Jabes dijeron a Nahas: Haz alianza con nosotros, y te serviremos.
 

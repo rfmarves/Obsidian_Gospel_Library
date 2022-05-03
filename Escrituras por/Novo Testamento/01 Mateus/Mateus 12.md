@@ -1,22 +1,21 @@
 ---
 title: Mateus 12
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 12
 [[Mateus 11| <-- Mateus 11]] | [[Mateus]] | [[Mateus 13|Mateus 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus proclama-Se o Senhor do Sábado e cura no dia do Sábado — Ele é acusado de expulsar demônios pelo poder de Belzebu — Ele fala da blasfêmia contra o Espírito Santo e diz que uma geração má e adúltera pede sinais.
 
----
 ###### 1 
 Naquele tempo passou Jesus pelas searas, em um sábado; e os seus discípulos tinham fome, e começaram a colher espigas, e a comer.
 

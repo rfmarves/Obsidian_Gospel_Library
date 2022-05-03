@@ -1,22 +1,21 @@
 ---
 title: Génesis 40
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 40
 [[Génesis 39| <-- Génesis 39]] | [[Génesis]] | [[Génesis 41|Génesis 41 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/40?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/40?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 José interpreta tanto el sueño del jefe de los coperos como el del jefe de los panaderos de Faraón — El copero se olvida de hablar acerca de José a Faraón.
 
----
 ###### 1 
 Y aconteció después de estas cosas que el copero del rey de Egipto y el panadero delinquieron contra su señor, el rey de Egipto.
 

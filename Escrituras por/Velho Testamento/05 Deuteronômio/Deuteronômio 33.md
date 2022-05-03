@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 33
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 33
 [[Deuteronômio 32| <-- Deuteronômio 32]] | [[Deuteronômio]] | [[Deuteronômio 34|Deuteronômio 34 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/33?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/33?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés abençoa as tribos de Israel — Levi é abençoado para ensinar os juízos do Senhor e Sua lei — José é o mais abençoado de todos; o Senhor reunirá Israel nos últimos dias — Israel triunfará.
 
----
 ###### 1 
 E esta  a bênção com que Moisés, homem de Deus, abençoou os filhos de Israel antes da sua morte.
 

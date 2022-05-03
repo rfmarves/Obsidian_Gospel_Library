@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 38
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 38
 [[Ezequiel 37| <-- Ezequiel 37]] | [[Ezequiel]] | [[Ezequiel 39|Ezequiel 39 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/38?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/38?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La batalla de Gog, de la tierra de Magog contra Israel precederá a la Segunda Venida — Jehová vendrá en medio de guerra y de pestilencia, y todos los hombres temblarán ante Su presencia.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

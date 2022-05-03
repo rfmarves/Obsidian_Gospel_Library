@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Sacrifices are to be offered only to the Lord at the tabernacle of the congregation—Israel is forbidden to sacrifice to devils—All eating of blood is forbidden—Shedding of blood is required for an atonement for sins.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

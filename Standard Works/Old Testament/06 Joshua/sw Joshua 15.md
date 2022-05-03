@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Judah is given an inheritance in Canaan—The Jebusites dwell with Judah at Jerusalem.
 
----
 ###### 1 
  then was the lot of the tribe of the children of Judah by their families;  to the border of Edom the wilderness of Zin southward  the uttermost part of the south coast.
 

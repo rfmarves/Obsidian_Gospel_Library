@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 102
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 102
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/102?lang=eng)
 
----
+```
 A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the Lord.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The psalmist offers a prayer of the afflicted—Zion will be built up when the Lord appears in His glory—Though the heaven and earth perish, the Lord who created them will endure forever.
 
----
 ###### 1 
 Hear my prayer, O , and let my cry come unto thee.
 

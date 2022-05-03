@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 25
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 25
 [[3 Nefi 24| <-- 3 Nefi 24]] | [[3 Nefi]] | [[3 Nefi 26|3 Nefi 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En la Segunda Venida, los soberbios y los inicuos serán quemados como rastrojo — Elías el Profeta volverá antes de ese día grande y terrible — Compárese con Malaquías 4. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Porque he aquí, viene el día que arderá como un horno; y todos los soberbios, sí, y todos los que obran inicuamente serán rastrojo; y aquel día que viene los abrasará, dice el Señor de los Ejércitos, de modo que no les dejará ni raíz ni rama.
 

@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 48
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 48
 [[Ezequiel 47| <-- Ezequiel 47]] | [[Ezequiel]] | [[Daniel 1|Daniel 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/48?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/48?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se mencionan las porciones de tierra que corresponderán a cada tribu — Las puertas de la ciudad llevan los nombres de las tribus — El nombre de la ciudad será: Jehová-sama (Jehová está allí).
 
----
 ###### 1 
 Y estos son los nombres de las tribus: Desde el extremo norte por la vía de Hetlón viniendo a Hamat, Hazar-enán, el límite de Damasco, al norte, hacia Hamat,  Dan una  estando sus extremos al oriente y al occidente.
 

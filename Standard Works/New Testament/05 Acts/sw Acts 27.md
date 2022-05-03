@@ -1,10 +1,11 @@
 ---
 title: sw Acts 27
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul, in a perilous voyage, travels toward Rome—An angel comforts him—He uses the gift of seership—He is shipwrecked.
 
----
 ###### 1 
 And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto  named Julius, a centurion of Augustus’ band.
 

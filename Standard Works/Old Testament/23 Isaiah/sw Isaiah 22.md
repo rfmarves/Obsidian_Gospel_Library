@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jerusalem will be attacked and scourged—The people will be carried captive—The Messiah will hold the key of the house of David, inherit glory, and be fastened as a nail in a sure place.
 
----
 ###### 1 
 The burden of the valley of vision. What aileth thee now, that thou art wholly gone up to the housetops?
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 91
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 91
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/91?lang=eng)
 
----
-__Summary__
+> __Summary__
 A messianic psalm—The Lord will deliver the Messiah from terror, pestilence, and war—The Lord will give His angels charge over the Messiah and deliver Him and honor Him.
 
----
 ###### 1 
 He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord gives signs to Moses—Aaron is chosen as a spokesman—Israel is the Lord’s firstborn and must be released to serve Him—Moses’ son is circumcised—Moses and Aaron lead Israel in worship.
 
----
 ###### 1 
 And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The  hath not appeared unto thee.
 

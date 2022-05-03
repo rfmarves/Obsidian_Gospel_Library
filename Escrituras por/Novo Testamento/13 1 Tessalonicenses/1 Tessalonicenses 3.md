@@ -1,22 +1,21 @@
 ---
 title: 1 Tessalonicenses 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Tessalonicenses 3
 [[1 Tessalonicenses 2| <-- 1 Tessalonicenses 2]] | [[1 Tessalonicenses]] | [[1 Tessalonicenses 4|1 Tessalonicenses 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos são exortados a aperfeiçoar o que lhes falta em sua fé.
 
----
 ###### 1 
 Pelo que, não podendo esperar mais, de bom grado quisemos deixar-nos ficar sós em Atenas;
 

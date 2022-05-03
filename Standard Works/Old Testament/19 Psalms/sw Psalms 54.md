@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 54
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 54
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/54?lang=eng)
 
----
+```
 To the chief Musician on Neginoth, Maschil, A Psalm of David, when the Ziphims came and said to Saul, Doth not David hide himself with us?
+```
 
----
-
----
-__Summary__
+> __Summary__
 David pleads for salvation and promises to serve God.
 
----
 ###### 1 
 Save me, O God, by thy name, and judge me by thy strength.
 

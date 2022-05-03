@@ -1,22 +1,21 @@
 ---
 title: DeC 59
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 59
 [[DeC 58| <-- DeC 58]] | [[DeC]] | [[DeC 60|DeC 60 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/59?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/59?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, Os santos fiéis de Sião serão abençoados; 5–8, Devem amar e servir ao Senhor e guardar Seus mandamentos; 9–19, Santificando o dia do Senhor, os santos serão abençoados material e espiritualmente; 20–24, Promete-se aos justos paz nesse mundo e vida eterna no mundo vindouro.
 
----
 ###### 1 
 Eis que, diz o Senhor, bem-aventurados são os que subiram a esta terra com os olhos fitos na minha glória, de acordo com meus mandamentos.
 

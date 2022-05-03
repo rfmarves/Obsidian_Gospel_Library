@@ -1,10 +1,11 @@
 ---
 title: sw Moroni 9
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moroni 9
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/9?lang=eng)
 
----
+```
 The second epistle of Mormon to his son Moroni.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Both the Nephites and the Lamanites are depraved and degenerate—They torture and murder each other—Mormon prays that grace and goodness may rest upon Moroni forever. About A.D. 401.
 
----
 ###### 1 
 My beloved son, I write unto you again that ye may know that I am yet alive; but I write somewhat of that which is grievous.
 

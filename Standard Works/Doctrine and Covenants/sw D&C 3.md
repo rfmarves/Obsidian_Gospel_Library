@@ -1,10 +1,11 @@
 ---
 title: sw D&C 3
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, The Lord’s course is one eternal round; 5–15, Joseph Smith must repent or lose the gift to translate; 16–20, The Book of Mormon comes forth to save the seed of Lehi.
 
----
 ###### 1 
 The works, and the designs, and the purposes of God cannot be frustrated, neither can they come to naught.
 

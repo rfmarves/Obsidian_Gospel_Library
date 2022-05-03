@@ -1,22 +1,21 @@
 ---
 title: Esdras 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 6
 [[Esdras 5| <-- Esdras 5]] | [[Esdras]] | [[Esdras 7|Esdras 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezra/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezra/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Darío renueva el decreto de Ciro de reconstruir el templo — Se termina y se dedica, y se reanudan los sacrificios y las fiestas.
 
----
 ###### 1 
 Entonces el rey Darío dio la orden de buscar en la casa de los libros donde guardaban los tesoros allí en Babilonia.
 

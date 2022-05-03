@@ -1,22 +1,21 @@
 ---
 title: Zacarías 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarías 11
 [[Zacarías 10| <-- Zacarías 10]] | [[Zacarías]] | [[Zacarías 12|Zacarías 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Zacarías habla del Mesías — El Mesías será entregado por treinta piezas de plata — El dinero será entregado al alfarero en la casa de Jehová.
 
----
 ###### 1 
 ¡Oh Líbano, abre tus puertas, y consuma el fuego tus cedros!
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 11
 [[2 Reyes 10| <-- 2 Reyes 10]] | [[2 Reyes]] | [[2 Reyes 12|2 Reyes 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Atalía destruye a la familia real de Judá y ella reina en Judá — Joás es protegido y es coronado rey a los siete años de edad — Joiada, el sacerdote, destruye el templo de Baal.
 
----
 ###### 1 
 Y cuando Atalía, madre de Ocozías, vio que su hijo había muerto, se levantó y destruyó toda la descendencia real.
 

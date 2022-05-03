@@ -1,22 +1,21 @@
 ---
 title: 1 Pedro 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Pedro 3
 [[1 Pedro 2| <-- 1 Pedro 2]] | [[1 Pedro]] | [[1 Pedro 4|1 Pedro 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Marido y mujer deben honrarse el uno al otro — Los santos deben vivir de acuerdo con las normas del Evangelio — Cristo predicó a los espíritus encarcelados.
 
----
 ###### 1 
 Asimismo vosotras, mujeres, estad sujetas a vuestros maridos, para que también los que no creen en la palabra sean ganados sin palabra por la conducta de sus esposas,
 

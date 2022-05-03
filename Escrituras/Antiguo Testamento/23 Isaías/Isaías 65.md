@@ -1,22 +1,21 @@
 ---
 title: Isaías 65
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 65
 [[Isaías 64| <-- Isaías 64]] | [[Isaías]] | [[Isaías 66|Isaías 66 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/65?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/65?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El antiguo Israel fue desechado por haber rechazado a Jehová — El pueblo de Jehová se regocijará y triunfará durante el Milenio.
 
----
 ###### 1 
 Fui buscado por los que no preguntaban  fui hallado por los que no me buscaban. Dije a una nación que no invocaba mi nombre: ¡Heme aquí, heme aquí!
 

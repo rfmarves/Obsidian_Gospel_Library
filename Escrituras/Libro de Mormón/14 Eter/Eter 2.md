@@ -1,22 +1,21 @@
 ---
 title: Eter 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eter 2
 [[Eter 1| <-- Eter 1]] | [[Eter]] | [[Eter 3|Eter 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los jareditas se preparan para su viaje a una tierra prometida — Es una tierra escogida en la cual los hombres deben servir a Cristo o, de lo contrario, serán exterminados — El Señor habla al hermano de Jared durante tres horas — Los jareditas construyen barcos — El Señor le indica al hermano de Jared que proponga la manera de iluminar los barcos.
 
----
 ###### 1 
 Y sucedió que Jared y su hermano, y sus familias, y también los amigos de Jared y de su hermano, y sus familias, descendieron al valle que se hallaba al norte (y el nombre del valle era Nimrod, nombre tomado del gran cazador), junto con sus rebaños que habían recogido, macho y hembra de toda especie.
 

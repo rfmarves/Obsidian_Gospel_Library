@@ -1,22 +1,21 @@
 ---
 title: Êxodo 24
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 24
 [[Êxodo 23| <-- Êxodo 23]] | [[Êxodo]] | [[Êxodo 25|Êxodo 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel aceita a palavra do Senhor por convênio — Moisés esparge o sangue do convênio — Ele e Aarão, Nadabe e Abiú e setenta dos anciãos de Israel veem Deus — O Senhor chama Moisés ao monte para receber as tábuas de pedra e os mandamentos.
 
----
 ###### 1 
 Depois disse a Moisés: Sobe ao , tu e Aarão, Nadabe e Abiú, e setenta dos anciãos de Israel; e adorai de longe.
 

@@ -1,22 +1,21 @@
 ---
 title: Juízes 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 18
 [[Juízes 17| <-- Juízes 17]] | [[Juízes]] | [[Juízes 19|Juízes 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os danitas enviam homens para procurar uma herança — Eles se apossam das imagens e do sacerdote de Mica, queimam a cidade de Laís e estabelecem a idolatria.
 
----
 ###### 1 
 Naqueles dias não  rei em Israel; e nos mesmos dias a tribo dos danitas buscava para si herança para habitar; porquanto até aquele dia entre as tribos de Israel não lhe havia caído  sua herança.
 

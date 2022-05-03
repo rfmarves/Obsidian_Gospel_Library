@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 23
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 23
 [[3 Nefi 22| <-- 3 Nefi 22]] | [[3 Nefi]] | [[3 Nefi 24|3 Nefi 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús aprueba las palabras de Isaías — Manda al pueblo que escudriñe los profetas — Se agregan a los anales de ellos las palabras de Samuel el Lamanita concernientes a la Resurrección. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Y he aquí, ahora os digo que debéis escudriñar estas cosas. Sí, un mandamiento os doy de que escudriñéis estas cosas diligentemente, porque grandes son las palabras de Isaías.
 

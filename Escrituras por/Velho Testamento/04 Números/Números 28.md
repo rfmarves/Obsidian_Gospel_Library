@@ -1,22 +1,21 @@
 ---
 title: Números 28
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 28
 [[Números 27| <-- Números 27]] | [[Números]] | [[Números 29|Números 29 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/28?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/28?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Devem ser oferecidos sacrifícios todas as manhãs e todas as noites, no dia do Sábado, no primeiro dia de cada mês, na Páscoa, em cada dia da Festa dos Pães Ázimos e na Festa das Primícias.
 
----
 ###### 1 
 Falou mais o  a Moisés, dizendo:
 

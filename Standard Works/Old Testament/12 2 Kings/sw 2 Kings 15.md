@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Many kings reign in Israel and in Judah—Their wickedness, wars, conspiracies, and evils are described—Much of Israel is carried captive to Assyria by Tiglath-pileser.
 
----
 ###### 1 
 In the twenty and seventh year of Jeroboam king of Israel began Azariah son of Amaziah king of Judah to reign.
 

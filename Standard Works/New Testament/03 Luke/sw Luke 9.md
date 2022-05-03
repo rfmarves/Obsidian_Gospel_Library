@@ -1,10 +1,11 @@
 ---
 title: sw Luke 9
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Twelve are sent out—Jesus feeds the five thousand—Peter testifies of Christ—Jesus foretells His death and resurrection—He is transfigured on the mount—He heals and teaches.
 
----
 ###### 1 
 Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.
 

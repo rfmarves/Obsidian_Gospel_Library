@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 12
 [[1 Samuel 11| <-- 1 Samuel 11]] | [[1 Samuel]] | [[1 Samuel 13|1 Samuel 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Samuel testifica de sus tratos justos en Israel — Reprocha al pueblo su ingratitud — Los exhorta a guardar los mandamientos a fin de que Jehová no los destruya, ni a ellos ni a su rey.
 
----
 ###### 1 
 Y dijo Samuel a todo Israel: He aquí, yo he escuchado vuestra voz en todas las cosas que me habéis dicho, y os he puesto un rey.
 

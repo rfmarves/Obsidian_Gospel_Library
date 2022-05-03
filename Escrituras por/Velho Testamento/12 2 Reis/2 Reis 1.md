@@ -1,25 +1,24 @@
 ---
 title: 2 Reis 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 1
 [[1 Reis 22| <-- 1 Reis 22]] | [[2 Reis]] | [[2 Reis 2|2 Reis 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/1?lang=por)
 
 2 Reis
 Comumente Chamado de Quarto Livro dos Reis
 
----
-__Resumo__
+> __Resumo__
 Acazias se volta a Baal-Zebube para saber se viverá — Elias, o profeta, profetiza a morte de Acazias — Elias invoca fogo do céu para consumir os soldados enviados para prendê-lo.
 
----
 ###### 1 
 E depois da morte de Acabe, Moabe se rebelou contra Israel.
 

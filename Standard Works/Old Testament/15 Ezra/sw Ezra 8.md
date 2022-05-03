@@ -1,10 +1,11 @@
 ---
 title: sw Ezra 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezra 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Those who go up from Babylon to Jerusalem are listed—The Levites are called to accompany them—Ezra and the people fast and pray for and gain guidance and protection in going to Jerusalem.
 
----
 ###### 1 
 These  now the chief of their fathers, and  the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king.
 

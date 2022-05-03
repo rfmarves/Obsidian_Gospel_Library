@@ -1,22 +1,21 @@
 ---
 title: Mormón 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mormón 5
 [[Mormón 4| <-- Mormón 4]] | [[Mormón]] | [[Mormón 6|Mormón 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Mormón nuevamente dirige a los ejércitos nefitas en cruentas batallas de terrible mortandad — El Libro de Mormón aparecerá para convencer a todo Israel de que Jesús es el Cristo — Por motivo de su incredulidad, los lamanitas serán dispersados, y el Espíritu dejará de luchar con ellos — En los últimos días, recibirán el Evangelio de parte de los gentiles. Aproximadamente 375–384 d.C.
 
----
 ###### 1 
 Y aconteció que fui entre los nefitas, y me arrepentí del juramento que había hecho de que nunca más volvería a ayudarles; y otra vez me dieron el mando de sus ejércitos, pues me veían como si yo pudiera librarlos de sus aflicciones.
 

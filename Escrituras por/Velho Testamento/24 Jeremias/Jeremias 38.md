@@ -1,22 +1,21 @@
 ---
 title: Jeremias 38
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 38
 [[Jeremias 37| <-- Jeremias 37]] | [[Jeremias]] | [[Jeremias 39|Jeremias 39 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/38?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/38?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os governantes lançam Jeremias em uma cisterna lamacenta — Ele é libertado por Ebede-Meleque, um etíope, e colocado no átrio da guarda — Jeremias aconselha Zedequias a respeito da guerra.
 
----
 ###### 1 
 Ouviram, pois, Sefatias, filho de Matã, e Gedalias, filho de Pasur, e Jucal, filho de Selemias, e Pasur, filho de Malquias, as palavras que falava Jeremias a todo o povo, dizendo:
 

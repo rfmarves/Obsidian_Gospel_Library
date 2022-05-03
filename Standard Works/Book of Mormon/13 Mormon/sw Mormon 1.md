@@ -1,10 +1,11 @@
 ---
 title: sw Mormon 1
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mormon 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ammaron instructs Mormon concerning the sacred records—War commences between the Nephites and the Lamanites—The Three Nephites are taken away—Wickedness, unbelief, sorceries, and witchcraft prevail. About A.D. 321–26.
 
----
 ###### 1 
 And now I, Mormon, make a record of the things which I have both seen and heard, and call it the Book of Mormon.
 

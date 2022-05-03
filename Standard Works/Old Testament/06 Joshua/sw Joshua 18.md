@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 The tabernacle of the congregation is set up at Shiloh—Benjamin receives an inheritance by lot.
 
----
 ###### 1 
 And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them.
 

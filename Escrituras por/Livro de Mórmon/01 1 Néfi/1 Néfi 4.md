@@ -1,22 +1,21 @@
 ---
 title: 1 Néfi 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Néfi 4
 [[1 Néfi 3| <-- 1 Néfi 3]] | [[1 Néfi]] | [[1 Néfi 5|1 Néfi 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Néfi mata Labão por ordem do Senhor e depois se apodera das placas de latão por meio de um estratagema — Zorã decide unir-se à família de Leí no deserto. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 E aconteceu que falei a meus irmãos, dizendo: Subamos novamente a Jerusalém e sejamos fiéis aos mandamentos do Senhor; pois eis que ele é mais poderoso que toda a terra. Então, por que não há de ser mais poderoso que Labão e seus cinquenta, sim, ou mesmo suas dezenas de milhares?
 

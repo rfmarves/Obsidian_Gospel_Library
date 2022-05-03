@@ -1,22 +1,21 @@
 ---
 title: Tiago 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Tiago 1
 [[Hebreus 13| <-- Hebreus 13]] | [[Tiago]] | [[Tiago 2|Tiago 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/james/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/james/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Se algum de vós tem falta de sabedoria, peça-a a Deus — Devemos resistir à tentação — Sede cumpridores da palavra — Tiago explica como reconhecer a religião pura.
 
----
 ###### 1 
 Tiago, servo de Deus, e do Senhor Jesus Cristo, às doze tribos que andam dispersas: Saudações.
 

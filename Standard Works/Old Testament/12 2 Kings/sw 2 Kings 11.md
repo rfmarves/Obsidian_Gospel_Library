@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Athaliah destroys the royal family in Judah and reigns herself in Judah—Joash is preserved and crowned king when seven years old—Jehoiada the priest destroys the house of Baal.
 
----
 ###### 1 
 And when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal.
 

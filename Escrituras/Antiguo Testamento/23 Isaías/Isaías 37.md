@@ -1,22 +1,21 @@
 ---
 title: Isaías 37
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 37
 [[Isaías 36| <-- Isaías 36]] | [[Isaías]] | [[Isaías 38|Isaías 38 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/37?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/37?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequías pide el consejo de Isaías para salvar a Jerusalén — Isaías profetiza la derrota de los asirios y la muerte de Senaquerib — Ezequías ora pidiendo liberación — Senaquerib envía una carta blasfema — Isaías profetiza que los asirios serán destruidos y que un remanente de Judá florecerá — Un ángel mata a ciento ochenta y cinco mil asirios — Senaquerib es muerto por sus hijos.
 
----
 ###### 1 
 Y aconteció que cuando el rey Ezequías oyó esto, rasgó sus vestidos y cubierto de cilicio entró en la casa de Jehová.
 

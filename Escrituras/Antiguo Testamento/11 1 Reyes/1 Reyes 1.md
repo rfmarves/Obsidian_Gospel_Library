@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 1
 [[2 Samuel 24| <-- 2 Samuel 24]] | [[1 Reyes]] | [[1 Reyes 2|1 Reyes 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Abisag abriga a David en su vejez — Adonías aspira a ser rey — Betsabé y Natán avisan a David del complot de Adonías — David nombra rey a Salomón y este es ungido por Sadoc — La causa de Adonías fracasa.
 
----
 ###### 1 
 Y el rey David ya era viejo y entrado en años, y le cubrían de ropas, pero no entraba en calor.
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 29
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–8, Christ gathers His elect; 9–11, His coming ushers in the Millennium; 12–13, The Twelve will judge all Israel; 14–21, Signs, plagues, and desolations will precede the Second Coming; 22–28, The last resurrection and final judgment follow the Millennium; 29–35, All things are spiritual unto the Lord; 36–39, The devil and his hosts were cast out of heaven to tempt man; 40–45, The Fall and Atonement bring salvation; 46–50, Little children are redeemed through the Atonement.
 
----
 ###### 1 
 Listen to the voice of Jesus Christ, your Redeemer, the Great , whose arm of mercy hath atoned for your sins;
 

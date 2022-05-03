@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 John sees the book sealed with seven seals, and he sees those people redeemed out of every nation—He hears every creature praising God and the Lamb.
 
----
 ###### 1 
 And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.
 

@@ -1,22 +1,21 @@
 ---
 title: Isaías 23
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 23
 [[Isaías 22| <-- Isaías 22]] | [[Isaías]] | [[Isaías 24|Isaías 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Tiro será destruida.
 
----
 ###### 1 
 Profecía sobre Tiro: Aullad, naves de Tarsis, porque destruida es Tiro hasta no quedar casa ni lugar por donde entrar; desde la tierra de Quitim les es revelado.
 

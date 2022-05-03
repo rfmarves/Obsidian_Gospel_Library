@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 1
 [[Judas 1| <-- Judas 1]] | [[Apocalipse]] | [[Apocalipse 2|Apocalipse 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo escolhe alguns como reis e sacerdotes para Deus — Cristo virá novamente — João vê o Senhor Ressuscitado.
 
----
 ###### 1 
 Revelação de Jesus Cristo, a qual Deus lhe deu, para mostrar aos seus servos as  que brevemente devem acontecer; e pelo seu anjo as enviou, e as notificou a João, seu servo;
 

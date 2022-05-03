@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 6
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/6?lang=eng)
 
----
+```
 To the chief Musician on Neginoth upon Sheminith, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David cries unto the Lord for mercy—He asks to be healed and saved.
 
----
 ###### 1 
 O , rebuke me not in thine anger, neither chasten me in thy hot displeasure.
 

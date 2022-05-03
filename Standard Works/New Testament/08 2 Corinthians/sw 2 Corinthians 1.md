@@ -1,10 +1,11 @@
 ---
 title: sw 2 Corinthians 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Corinthians 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 God comforts and cares for His Saints—The Saints are sealed and given assurance by the Spirit in their hearts.
 
----
 ###### 1 
 Paul, an apostle of Jesus Christ by the will of God, and Timothy  brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:
 

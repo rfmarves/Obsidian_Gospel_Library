@@ -1,22 +1,21 @@
 ---
 title: Alma 20
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 20
 [[Alma 19| <-- Alma 19]] | [[Alma]] | [[Alma 21|Alma 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Señor envía a Ammón a Middoni para que libre a sus hermanos encarcelados — Ammón y Lamoni se encuentran con el padre de Lamoni, que es rey de toda esa tierra — Ammón obliga al anciano rey a aprobar la liberación de sus hermanos. Aproximadamente 90 a.C.
 
----
 ###### 1 
 Y sucedió que después que hubieron establecido una iglesia en esa tierra, el rey Lamoni deseó que Ammón lo acompañara a la tierra de Nefi, para presentarlo a su padre.
 

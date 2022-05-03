@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 9
 [[2 Nefi 8| <-- 2 Nefi 8]] | [[2 Nefi]] | [[2 Nefi 10|2 Nefi 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob explica que los judíos serán reunidos en todas sus tierras de promisión — La Expiación rescata al hombre de la Caída — Los cuerpos de los muertos saldrán de la tumba; y sus espíritus, del infierno y del paraíso — Serán juzgados — La Expiación rescata de la muerte, del infierno, del diablo y del tormento sin fin — Los justos serán salvos en el reino de Dios — Se exponen las consecuencias del pecado — El Santo de Israel es el guardián de la puerta. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Ahora bien, amados hermanos míos, he leído estas cosas para que sepáis de los convenios del Señor que ha concertado con toda la casa de Israel,
 

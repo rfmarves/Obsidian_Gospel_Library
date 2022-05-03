@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 David prepares a place for the ark—The Levites bring the ark to Jerusalem—They sing and minister before the Lord.
 
----
 ###### 1 
 And  made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent.
 

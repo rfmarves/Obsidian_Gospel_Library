@@ -1,22 +1,21 @@
 ---
 title: Levítico 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 4
 [[Levítico 3| <-- Levítico 3]] | [[Levítico]] | [[Levítico 5|Levítico 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os pecadores são perdoados mediante ofertas pelo pecado, de animais sem defeito — Dessa maneira os sacerdotes fazem expiação pelos pecados do povo.
 
----
 ###### 1 
 Falou mais o  a Moisés, dizendo:
 

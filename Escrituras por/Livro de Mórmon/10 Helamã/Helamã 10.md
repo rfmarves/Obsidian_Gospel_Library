@@ -1,22 +1,21 @@
 ---
 title: Helamã 10
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamã 10
 [[Helamã 9| <-- Helamã 9]] | [[Helamã]] | [[Helamã 11|Helamã 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor confere a Néfi o poder selador — É-lhe outorgado o poder de ligar e desligar no céu e na Terra — Ele ordena ao povo que se arrependa para não perecer — O Espírito leva-o de multidão a multidão. Aproximadamente 21–20 a.C.
 
----
 ###### 1 
 E aconteceu que surgiu entre o povo uma divisão, de modo que se apartaram uns para um lado e outros para outro; e seguiram seus caminhos, deixando Néfi, que se achava no meio deles, sozinho.
 

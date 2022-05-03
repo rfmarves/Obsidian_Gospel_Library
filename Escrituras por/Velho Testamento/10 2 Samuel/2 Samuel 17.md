@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 17
 [[2 Samuel 16| <-- 2 Samuel 16]] | [[2 Samuel]] | [[2 Samuel 18|2 Samuel 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O conselho de Aitofel é suplantado pelo de Husai — Davi é alertado e foge para o outro lado do Jordão — Aitofel se enforca — O povo se prepara para a guerra.
 
----
 ###### 1 
 Disse mais Aitofel a Absalão: Deixa-me escolher doze mil homens, e me levantarei, e perseguirei Davi esta noite.
 

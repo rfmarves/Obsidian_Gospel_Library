@@ -1,10 +1,11 @@
 ---
 title: sw Esther 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Esther 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mordecai, the Jew, refuses to bow to Haman—Haman arranges a decree to kill all the Jews in the kingdom.
 
----
 ###### 1 
 After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that  with him.
 

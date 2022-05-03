@@ -1,22 +1,21 @@
 ---
 title: Alma 46
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 46
 [[Alma 45| <-- Alma 45]] | [[Alma]] | [[Alma 47|Alma 47 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/46?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/46?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amaliquias conspira para ser rei — Morôni levanta o estandarte da liberdade — Ele conclama o povo a defender sua religião — Os verdadeiros crentes são chamados cristãos — Será preservado um remanescente de José — Amaliquias e os dissidentes fogem para a terra de Néfi — Os que não apoiam a causa da liberdade são executados. Aproximadamente 73–72 a.C.
 
----
 ###### 1 
 E aconteceu que todos os que não atenderam às palavras de Helamã e seus irmãos, uniram-se contra eles.
 

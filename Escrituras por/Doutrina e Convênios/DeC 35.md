@@ -1,22 +1,21 @@
 ---
 title: DeC 35
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 35
 [[DeC 34| <-- DeC 34]] | [[DeC]] | [[DeC 36|DeC 36 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/35?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/35?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–2, Como os homens podem tornar-se filhos de Deus; 3–7, Sidney Rigdon é chamado para batizar e conferir o Espírito Santo; 8–12, Operam-se sinais e milagres pela fé; 13–16, Os servos do Senhor debulharão as nações pelo poder do Espírito; 17–19, Joseph Smith possui as chaves dos mistérios; 20–21, Os eleitos suportarão o dia da vinda do Senhor; 22–27, Israel será salvo.
 
----
 ###### 1 
 Ouvi a voz do Senhor vosso Deus, sim, o Alfa e o Ômega, o princípio e o fim, cujo caminho é um círculo eterno, o mesmo hoje, ontem e para sempre.
 

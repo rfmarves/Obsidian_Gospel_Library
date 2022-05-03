@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Rehoboam strengthens the kingdom of Judah but is forbidden to subdue Israel—Jeroboam leads the kingdom of Israel into idolatry—Rehoboam takes many wives and concubines.
 
----
 ###### 1 
 And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen  which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam.
 

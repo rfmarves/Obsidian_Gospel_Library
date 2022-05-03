@@ -1,22 +1,21 @@
 ---
 title: Jacó 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jacó 2
 [[Jacó 1| <-- Jacó 1]] | [[Jacó]] | [[Jacó 3|Jacó 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó denuncia o amor às riquezas, o orgulho e a falta de castidade — Os homens podem procurar obter riquezas para ajudar seus semelhantes — O Senhor ordena que nenhum homem entre os nefitas tenha mais do que uma esposa — O Senhor deleita-se na castidade das mulheres. Aproximadamente 544–421 a.C.
 
----
 ###### 1 
 As palavras que Jacó, irmão de Néfi, dirigiu ao povo de Néfi depois da morte de Néfi:
 

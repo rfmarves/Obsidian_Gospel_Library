@@ -1,22 +1,21 @@
 ---
 title: Mosias 13
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 13
 [[Mosias 12| <-- Mosias 12]] | [[Mosias]] | [[Mosias 14|Mosias 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Abinádi é protegido pelo poder divino — Ele ensina os Dez Mandamentos — Não se alcança a salvação apenas pela lei de Moisés — O próprio Deus fará uma expiação e redimirá o Seu povo. Aproximadamente 148 a.C.
 
----
 ###### 1 
 E então, quando o rei ouviu estas palavras, disse a seus sacerdotes: Tirai este homem daqui e matai-o, pois o que temos nós a ver com ele? Ele é louco!
 

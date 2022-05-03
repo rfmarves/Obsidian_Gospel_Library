@@ -1,22 +1,21 @@
 ---
 title: Alma 61
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 61
 [[Alma 60| <-- Alma 60]] | [[Alma]] | [[Alma 62|Alma 62 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/61?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/61?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paorã informa Morôni da insurreição e revolta contra o governo — Os realistas tomam Zaraenla e fazem aliança com os lamanitas — Paorã pede ajuda militar contra os rebeldes. Aproximadamente 62 a.C.
 
----
 ###### 1 
 Eis que aconteceu então que, logo após haver Morôni enviado sua epístola ao governador-chefe, recebeu uma resposta de Paorã, o governador-chefe. E são estas as palavras que recebeu:
 

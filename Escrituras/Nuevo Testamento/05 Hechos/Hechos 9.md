@@ -1,22 +1,21 @@
 ---
 title: Hechos 9
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 9
 [[Hechos 8| <-- Hechos 8]] | [[Hechos]] | [[Hechos 10|Hechos 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús se aparece a Saulo — Saulo es un instrumento escogido — Ananías restaura la vista a Saulo — Saulo es bautizado e inicia su ministerio — Pedro sana a Eneas y levanta a Dorcas de la muerte.
 
----
 ###### 1 
 Y Saulo, respirando aún amenazas y muerte contra los discípulos del Señor, fue al sumo sacerdote
 

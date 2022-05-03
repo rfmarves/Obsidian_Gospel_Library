@@ -1,22 +1,21 @@
 ---
 title: 2 Tessalonicenses 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Tessalonicenses 3
 [[2 Tessalonicenses 2| <-- 2 Tessalonicenses 2]] | [[2 Tessalonicenses]] | [[1 Timóteo 1|1 Timóteo 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-thes/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-thes/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Orai pelo triunfo da causa do evangelho — Paulo prega o evangelho do trabalho — Não vos canseis de fazer o bem.
 
----
 ###### 1 
 No demais, irmãos, rogai por nós, para que a palavra do Senhor tenha  curso e seja glorificada, como também  entre vós;
 

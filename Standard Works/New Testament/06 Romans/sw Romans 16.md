@@ -1,10 +1,11 @@
 ---
 title: sw Romans 16
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul sends greetings to various Saints—He counsels the Saints to avoid those who cause divisions—The Saints should be wise concerning good and innocent concerning evil.
 
----
 ###### 1 
 I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:
 

@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 39
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 39
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/39?lang=eng)
 
----
-__Summary__
+> __Summary__
 Hezekiah reveals his wealth to Babylon—Isaiah prophesies the Babylonian captivity.
 
----
 ###### 1 
 At that time Merodach-baladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that he had been sick, and was recovered.
 

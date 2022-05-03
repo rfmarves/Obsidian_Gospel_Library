@@ -1,22 +1,21 @@
 ---
 title: Hebreos 7
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreos 7
 [[Hebreos 6| <-- Hebreos 6]] | [[Hebreos]] | [[Hebreos 8|Hebreos 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Sacerdocio de Melquisedec trae la exaltación y administra el Evangelio — Se recibe con un juramento y un convenio — Se explica la preeminencia del Sacerdocio de Melquisedec ante el Sacerdocio Aarónico — La salvación viene por medio de la intercesión de Cristo.
 
----
 ###### 1 
 Porque este Melquisedec, rey de Salem, sacerdote del Dios Altísimo, que salió a recibir a Abraham que volvía de la derrota de los reyes, y le bendijo,
 

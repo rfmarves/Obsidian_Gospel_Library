@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 20
 [[2 Samuel 19| <-- 2 Samuel 19]] | [[2 Samuel]] | [[2 Samuel 21|2 Samuel 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Seba aparta a las tribus de Israel de David — Joab mata a Amasa y persigue a Seba — Intercede una mujer sabia — La muerte de Seba da fin a la insurrección.
 
----
 ###### 1 
 Y acaeció que se encontraba allí un hombre perverso que se llamaba Seba hijo de Bicri, hombre de Benjamín, el cual tocó la trompeta y dijo: No tenemos nosotros parte con David ni heredad con el hijo de Isaí. ¡Israel, cada uno a su tienda!
 

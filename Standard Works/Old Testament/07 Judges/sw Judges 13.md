@@ -1,10 +1,11 @@
 ---
 title: sw Judges 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is in Philistine bondage for forty years—An angel comes to Manoah’s wife and promises a son who will begin to deliver Israel—The angel comes again; he ascends in a flame from the altar—Samson is born, and the Spirit of the Lord moves upon him.
 
----
 ###### 1 
 And the children of Israel did evil again in the sight of the ; and the  delivered them into the hand of the Philistines forty years.
 

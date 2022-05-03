@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 David is anointed king over the house of Judah—Ishbosheth becomes the king of Israel—David’s followers defeat Abner and the men of Israel.
 
----
 ###### 1 
 And it came to pass after this, that David inquired of the , saying, Shall I go up into any of the cities of Judah? And the  said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.
 

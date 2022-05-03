@@ -1,10 +1,11 @@
 ---
 title: sw Ecclesiastes 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ecclesiastes 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 A little folly destroys the reputation of the wise and honorable—The words of a wise man’s mouth are gracious—A fool is full of words.
 
----
 ###### 1 
 Dead flies cause the ointment of the apothecary to send forth a stinking savour:  a little folly him that is in reputation for wisdom  honour.
 

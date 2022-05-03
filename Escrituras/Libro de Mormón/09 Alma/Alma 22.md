@@ -1,22 +1,21 @@
 ---
 title: Alma 22
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 22
 [[Alma 21| <-- Alma 21]] | [[Alma]] | [[Alma 23|Alma 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Aarón enseña al padre de Lamoni acerca de la Creación, la Caída de Adán y el plan de redención por medio de Cristo — El rey y todos los de su casa se convierten — Se explica la forma en que se dividía la tierra entre los nefitas y los lamanitas. Aproximadamente 90–77 a.C.
 
----
 ###### 1 
 Y ahora bien, mientras Ammón así enseñaba al pueblo de Lamoni continuamente, volveremos a la historia de Aarón y sus hermanos; porque después que partió de la tierra de Middoni, el Espíritu lo guio a la tierra de Nefi hasta la casa del rey que gobernaba toda esa tierra, salvo la tierra de Ismael; y era el padre de Lamoni.
 

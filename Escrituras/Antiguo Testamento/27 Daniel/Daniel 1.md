@@ -1,22 +1,21 @@
 ---
 title: Daniel 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 1
 [[Ezequiel 48| <-- Ezequiel 48]] | [[Daniel]] | [[Daniel 2|Daniel 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Daniel y algunos hebreos son instruidos en la corte de Nabucodonosor — Comen alimentos sencillos y no beben vino — Dios les da más conocimiento y sabiduría que a todos los demás.
 
----
 ###### 1 
 En el año tercero del reinado de Joacim, rey de Judá, vino Nabucodonosor, rey de Babilonia, a Jerusalén, y la sitió.
 

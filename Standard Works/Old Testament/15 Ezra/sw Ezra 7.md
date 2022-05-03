@@ -1,10 +1,11 @@
 ---
 title: sw Ezra 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezra 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezra goes up to Jerusalem—Artaxerxes provides for beautifying the temple and sustains the Jews in their worship.
 
----
 ###### 1 
 Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,
 

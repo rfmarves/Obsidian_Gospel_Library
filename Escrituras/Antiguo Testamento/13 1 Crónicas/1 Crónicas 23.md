@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 23
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 23
 [[1 Crónicas 22| <-- 1 Crónicas 22]] | [[1 Crónicas]] | [[1 Crónicas 24|1 Crónicas 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Salomón es hecho rey — Los levitas son contados y asignados a sus diversos deberes religiosos.
 
----
 ###### 1 
 Siendo, pues, David ya viejo y colmado de días, hizo rey sobre Israel a Salomón, su hijo.
 

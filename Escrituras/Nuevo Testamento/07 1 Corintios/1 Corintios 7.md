@@ -1,22 +1,21 @@
 ---
 title: 1 Corintios 7
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Corintios 7
 [[1 Corintios 6| <-- 1 Corintios 6]] | [[1 Corintios]] | [[1 Corintios 8|1 Corintios 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo responde a ciertas preguntas acerca del matrimonio entre los que son llamados a la misión — Pablo elogia el autodominio.
 
----
 ###### 1 
 En cuanto a las cosas de que me escribisteis, bueno es para el hombre no tocar mujer.
 

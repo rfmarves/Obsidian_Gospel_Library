@@ -1,22 +1,21 @@
 ---
 title: Números 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 6
 [[Números 5| <-- Números 5]] | [[Números]] | [[Números 7|Números 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se explica la ley de los nazareos, por la cual los hijos de Israel pueden consagrarse a sí mismos a Jehová mediante un voto — No beben vino ni sidra, y si se contaminan, deben raparse la cabeza — Jehová revela la bendición que Aarón y sus hijos deben emplear para bendecir a Israel.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

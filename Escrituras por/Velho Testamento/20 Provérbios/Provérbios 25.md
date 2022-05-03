@@ -1,22 +1,21 @@
 ---
 title: Provérbios 25
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 25
 [[Provérbios 24| <-- Provérbios 24]] | [[Provérbios]] | [[Provérbios 26|Provérbios 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Não te gabes de falsas dádivas — Dá a teu inimigo pão para comer e água para beber.
 
----
 ###### 1 
 Também estes  provérbios de Salomão, os quais transcreveram os homens de Ezequias, rei de Judá.
 

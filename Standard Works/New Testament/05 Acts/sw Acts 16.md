@@ -1,10 +1,11 @@
 ---
 title: sw Acts 16
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul is directed in a vision to preach in Macedonia—He casts an evil spirit out of a woman—He and Silas are imprisoned, and they convert the jailor—They admonish all to believe on the Lord Jesus and be saved.
 
----
 ###### 1 
 Then came he to Derbe and Lystra: and, behold, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father  a Greek:
 

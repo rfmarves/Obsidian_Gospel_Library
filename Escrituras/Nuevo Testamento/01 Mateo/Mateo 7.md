@@ -1,22 +1,21 @@
 ---
 title: Mateo 7
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 7
 [[Mateo 6| <-- Mateo 6]] | [[Mateo]] | [[Mateo 8|Mateo 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús concluye el Sermón del Monte — Él manda: No juzguéis; pedid a Dios; guardaos de los falsos profetas — Promete la salvación a todos los que hacen la voluntad del Padre.
 
----
 ###### 1 
 No juzguéis, para que no seáis juzgados.
 

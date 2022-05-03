@@ -1,10 +1,11 @@
 ---
 title: sw D&C 92
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 92
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/92?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–2, The Lord gives a commandment relative to admission to the united order.
 
----
 ###### 1 
 Verily, thus saith the Lord, I give unto the united order, organized agreeable to the commandment previously given, a revelation and commandment concerning my servant Frederick G. Williams, that ye shall receive him into the order. What I say unto one I say unto all.
 

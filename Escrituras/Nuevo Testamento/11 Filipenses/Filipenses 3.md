@@ -1,22 +1,21 @@
 ---
 title: Filipenses 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Filipenses 3
 [[Filipenses 2| <-- Filipenses 2]] | [[Filipenses]] | [[Filipenses 4|Filipenses 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/philip/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/philip/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo sacrifica todas las cosas por Cristo — Los ministros verdaderos deben dar ejemplo de rectitud.
 
----
 ###### 1 
 Por lo demás, hermanos, regocijaos en el Señor. A mí, a la verdad, no me es molesto escribiros las mismas cosas, y a vosotros os da seguridad.
 

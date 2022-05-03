@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 24
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 24
 [[2 Reyes 23| <-- 2 Reyes 23]] | [[2 Reyes]] | [[2 Reyes 25|2 Reyes 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jerusalén es sitiada y tomada por Nabucodonosor — Muchos del pueblo de Judá son llevados cautivos a Babilonia — Sedequías llega a ser rey en Jerusalén — Este se rebela contra Babilonia.
 
----
 ###### 1 
 En su tiempo, subió Nabucodonosor, rey de Babilonia, y Joacim vino a ser su siervo tres años; pero se volvió y se rebeló contra él.
 

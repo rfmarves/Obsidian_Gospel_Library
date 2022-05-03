@@ -1,22 +1,21 @@
 ---
 title: Eter 14
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eter 14
 [[Eter 13| <-- Eter 13]] | [[Eter]] | [[Eter 15|Eter 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La iniquidad del pueblo trae una maldición sobre la tierra — Coriántumr emprende la guerra contra Gilead, después contra Lib y después contra Shiz — Sangre y mortandad cubren la tierra.
 
----
 ###### 1 
 Y empezó a haber una grande maldición sobre toda la tierra a causa de la iniquidad del pueblo, por lo cual, si un hombre dejaba su herramienta o espada sobre su alacena, o en el lugar donde solía guardarla, he aquí, a la mañana siguiente, no la podía encontrar, tan grande era la maldición sobre esa tierra.
 

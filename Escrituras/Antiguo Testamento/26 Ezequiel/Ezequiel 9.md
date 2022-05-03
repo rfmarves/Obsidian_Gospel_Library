@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 9
 [[Ezequiel 8| <-- Ezequiel 8]] | [[Ezequiel]] | [[Ezequiel 10|Ezequiel 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequiel ve la señal que se pone a los justos y la matanza de todos los demás, comenzando desde el santuario de Jehová.
 
----
 ###### 1 
 Y clamó en mis oídos con gran voz, diciendo: Los verdugos de la ciudad se acercan, y cada uno  en su mano su instrumento para destruir.
 

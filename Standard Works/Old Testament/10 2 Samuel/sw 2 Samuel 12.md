@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nathan tells David the parable of the ewe lamb—The Lord gave many wives to David, who is now cursed for taking Bathsheba—David fasts and prays for his son, but the Lord takes him—Solomon is born—David conquers the royal city of the Ammonites.
 
----
 ###### 1 
 And the  sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor.
 

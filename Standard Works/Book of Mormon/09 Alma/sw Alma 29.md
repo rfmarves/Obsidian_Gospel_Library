@@ -1,10 +1,11 @@
 ---
 title: sw Alma 29
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 Alma desires to cry repentance with angelic zeal—The Lord grants teachers for all nations—Alma glories in the Lord’s work and in the success of Ammon and his brethren. About 76 B.C.
 
----
 ###### 1 
 O that I were an angel, and could have the wish of mine heart, that I might go forth and speak with the trump of God, with a voice to shake the earth, and cry repentance unto every people!
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ether 9
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ether 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 The kingdom passes from one to another by descent, intrigue, and murder—Emer saw the Son of Righteousness—Many prophets cry repentance—A famine and poisonous serpents plague the people.
 
----
 ###### 1 
 And now I, Moroni, proceed with my record. Therefore, behold, it came to pass that because of the secret combinations of Akish and his friends, behold, they did overthrow the kingdom of Omer.
 

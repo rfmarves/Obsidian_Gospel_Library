@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 7
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Lehi’s sons return to Jerusalem and invite Ishmael and his household to join them in their journey—Laman and others rebel—Nephi exhorts his brethren to have faith in the Lord—They bind him with cords and plan his destruction—He is freed by the power of faith—His brethren ask forgiveness—Lehi and his company offer sacrifice and burnt offerings. About 600–592 B.C.
 
----
 ###### 1 
 And now I would that ye might know, that after my father, Lehi, had made an end of prophesying concerning his seed, it came to pass that the Lord spake unto him again, saying that it was not meet for him, Lehi, that he should take his family into the wilderness alone; but that his sons should take daughters to wife, that they might raise up seed unto the Lord in the land of promise.
 

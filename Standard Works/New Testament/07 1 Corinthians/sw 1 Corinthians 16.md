@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 16
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul counsels, Stand fast in the faith; let all things be done with charity.
 
----
 ###### 1 
 Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye.
 

@@ -1,22 +1,21 @@
 ---
 title: Mormón 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mormón 2
 [[Mormón 1| <-- Mormón 1]] | [[Mormón]] | [[Mormón 3|Mormón 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Mormón encabeza los ejércitos de los nefitas — Hay sangre y mortandad por la faz de la tierra — Los nefitas se quejan y se lamentan con la aflicción de los condenados — Su día de gracia ha pasado — Mormón obtiene las planchas de Nefi — Continúan las guerras. Aproximadamente 327–350 d.C.
 
----
 ###### 1 
 Y sucedió que en ese mismo año empezó de nuevo a haber guerra entre los nefitas y los lamanitas. Y a pesar de mi juventud, yo era de grande estatura; por tanto, el pueblo de Nefi me nombró para que fuese su caudillo, o sea, el caudillo de sus ejércitos.
 

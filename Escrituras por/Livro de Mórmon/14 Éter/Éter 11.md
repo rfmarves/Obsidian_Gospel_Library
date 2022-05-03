@@ -1,22 +1,21 @@
 ---
 title: Éter 11
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éter 11
 [[Éter 10| <-- Éter 10]] | [[Éter]] | [[Éter 12|Éter 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Guerras, dissensões e iniquidades dominam a vida jaredita — Profetas predizem a total destruição dos jareditas, a menos que se arrependam — O povo rejeita as palavras dos profetas.
 
----
 ###### 1 
 E apareceram também muitos profetas nos dias de Com e profetizaram a destruição daquele grande povo, caso não se arrependessem e não se voltassem para o Senhor e não renunciassem a seus assassinatos e iniquidades.
 

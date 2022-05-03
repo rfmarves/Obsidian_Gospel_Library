@@ -1,10 +1,11 @@
 ---
 title: sw Job 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job seeks the Lord and asserts his own righteousness—He says, When the Lord has tried me, I will come forth as gold.
 
----
 ###### 1 
 Then Job answered and said,
 

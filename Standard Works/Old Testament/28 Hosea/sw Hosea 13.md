@@ -1,10 +1,11 @@
 ---
 title: sw Hosea 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hosea 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ephraim’s sins provoke the Lord—There is no Savior beside the Lord—He ransoms from the grave and redeems from death.
 
----
 ###### 1 
 When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died.
 

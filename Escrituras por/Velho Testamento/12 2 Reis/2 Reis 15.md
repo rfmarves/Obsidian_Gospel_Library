@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 15
 [[2 Reis 14| <-- 2 Reis 14]] | [[2 Reis]] | [[2 Reis 16|2 Reis 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Muitos reis governam em Israel e em Judá — Descrevem-se sua iniquidade, guerras, conspirações e maldades — Boa parte de Israel é levada cativa para a Assíria por Tiglate-Pilneser.
 
----
 ###### 1 
 No ano vinte e sete de Jeroboão, rei de Israel, começou a reinar Azarias, filho de Amazias, rei de Judá.
 

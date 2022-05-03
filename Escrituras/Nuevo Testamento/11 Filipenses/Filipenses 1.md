@@ -1,22 +1,21 @@
 ---
 title: Filipenses 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Filipenses 1
 [[Efesios 6| <-- Efesios 6]] | [[Filipenses]] | [[Filipenses 2|Filipenses 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/philip/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/philip/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Todo lo que le sucedió a Pablo hizo progresar la causa del Evangelio — Nuestra conducta debe ser digna del Evangelio.
 
----
 ###### 1 
 Pablo y Timoteo, siervos de Jesucristo, a todos los santos en Cristo Jesús que están en Filipos, con los obispos y los diáconos:
 

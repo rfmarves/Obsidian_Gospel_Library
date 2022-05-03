@@ -1,10 +1,11 @@
 ---
 title: sw Mormon 7
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mormon 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mormon invites the Lamanites of the latter days to believe in Christ, accept His gospel, and be saved—All who believe the Bible will also believe the Book of Mormon. About A.D. 385.
 
----
 ###### 1 
 And now, behold, I would speak somewhat unto the remnant of this people who are spared, if it so be that God may give unto them my words, that they may know of the things of their fathers; yea, I speak unto you, ye remnant of the house of Israel; and these are the words which I speak:
 

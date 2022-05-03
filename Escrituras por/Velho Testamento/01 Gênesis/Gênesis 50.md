@@ -1,22 +1,21 @@
 ---
 title: Gênesis 50
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 50
 [[Gênesis 49| <-- Gênesis 49]] | [[Gênesis]] | [[Êxodo 1|Êxodo 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/50?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/50?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O corpo de Jacó é embalsamado — José o sepulta em Canaã — José consola seus irmãos — Os filhos de Israel se multiplicam — José promete que Deus tirará Israel do Egito e o levará para Canaã — José morre no Egito e é embalsamado.
 
----
 ###### 1 
 Então José se lançou sobre o rosto de seu pai; e chorou sobre ele, e o beijou.
 

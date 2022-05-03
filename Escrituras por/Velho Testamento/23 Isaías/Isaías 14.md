@@ -1,22 +1,21 @@
 ---
 title: Isaías 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 14
 [[Isaías 13| <-- Isaías 13]] | [[Isaías]] | [[Isaías 15|Isaías 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel será reunida e desfrutará o descanso milenar — Lúcifer foi expulso do céu por rebelião — Israel triunfará sobre a Babilônia (o mundo) — Comparar com 2 Néfi 24.
 
----
 ###### 1 
 Porque o  se compadecerá de Jacó, e ainda escolherá Israel e os porá na sua própria terra; e juntar-se-ão com eles os estrangeiros, e se achegarão à casa de Jacó.
 

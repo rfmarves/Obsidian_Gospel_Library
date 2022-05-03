@@ -1,22 +1,21 @@
 ---
 title: Oseias 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseias 13
 [[Oseias 12| <-- Oseias 12]] | [[Oseias]] | [[Oseias 14|Oseias 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os pecados de Efraim provocam ao Senhor — Não existe nenhum Salvador além do Senhor — Ele resgata da sepultura e redime da morte.
 
----
 ###### 1 
 Quando Efraim falava, havia tremor; foi exalçado em Israel; mas quando se fez culpado em Baal, então morreu.
 

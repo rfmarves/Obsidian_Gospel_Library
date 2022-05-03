@@ -1,10 +1,11 @@
 ---
 title: sw D&C 61
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 61
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/61?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–12, The Lord has decreed many destructions upon the waters; 13–22, The waters were cursed by John, and the destroyer rides upon their face; 23–29, Some have power to command the waters; 30–35, Elders are to journey two by two and preach the gospel; 36–39, They are to prepare for the coming of the Son of Man.
 
----
 ###### 1 
 Behold, and hearken unto the voice of him who has all power, who is from everlasting to everlasting, even Alpha and Omega, the beginning and the end.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 48
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 48
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/48?lang=eng)
 
----
-__Summary__
+> __Summary__
 Judgment and destruction will come upon the Moabites for their contempt of God.
 
----
 ###### 1 
 Against Moab thus saith the  of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded  taken: Misgab is confounded and dismayed.
 

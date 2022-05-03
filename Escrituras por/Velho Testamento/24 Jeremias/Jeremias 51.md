@@ -1,22 +1,21 @@
 ---
 title: Jeremias 51
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 51
 [[Jeremias 50| <-- Jeremias 50]] | [[Jeremias]] | [[Jeremias 52|Jeremias 52 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/51?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/51?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sobrevirão juízos, destruição e desolação sobre Babilônia por seus pecados — Ordena-se a Israel: Fugi de Babilônia — Israel é a vara do Senhor para destruir todos os reinos.
 
----
 ###### 1 
 Assim diz o : Eis que levantarei contra Babilônia, e contra os que habitam no coração dos que se levantam contra mim, um vento destruidor.
 

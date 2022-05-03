@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 All men speak the same language—They build the Tower of Babel—The Lord confounds their language and scatters them over all the earth—The generations of Shem include Abram, whose wife is Sarai—Abram leaves Ur and settles in Haran.
 
----
 ###### 1 
 And the whole earth was of one language, and of one speech.
 

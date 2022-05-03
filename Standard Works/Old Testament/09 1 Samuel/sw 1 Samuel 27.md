@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 27
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 David flees to Achish at Gath—He dwells among the Philistines for sixteen months.
 
----
 ###### 1 
 And David said in his heart, I shall now perish one day by the hand of Saul:  nothing better for me than that I should speedily escape into the land of the Philistines; and Saul shall despair of me, to seek me any more in any coast of Israel: so shall I escape out of his hand.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Naaman, the Syrian, comes to Elisha to be healed of leprosy—He rejects the prophet’s instruction at first but relents and dips himself in the Jordan seven times; he is healed—Elisha refuses to accept a reward—Gehazi accepts a gift from Naaman and is cursed with leprosy.
 
----
 ###### 1 
 Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the  had given deliverance unto Syria: he was also a mighty man in valour,  a leper.
 

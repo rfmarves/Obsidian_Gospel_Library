@@ -1,22 +1,21 @@
 ---
 title: Jonás 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jonás 2
 [[Jonás 1| <-- Jonás 1]] | [[Jonás]] | [[Jonás 3|Jonás 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jonah/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jonah/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jonás ora a Jehová y el pez lo vomita en tierra.
 
----
 ###### 1 
 Entonces oró Jonás desde el vientre del pez a Jehová, su Dios,
 

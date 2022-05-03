@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 24
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 24
 [[2 Samuel 23| <-- 2 Samuel 23]] | [[2 Samuel]] | [[1 Reis 1|1 Reis 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi peca ao contar Israel e Judá — Os homens de guerra somam 1.300.000 — O Senhor destrói 70.000 com uma peste — Davi vê um anjo, oferece sacrifício, e a praga é contida.
 
----
 ###### 1 
 E a ira do  se tornou a acender contra Israel; e incitou Davi contra eles, dizendo: Vai, conta Israel e Judá.
 

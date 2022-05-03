@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 51
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 51
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/51?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, the Lord will comfort Zion and gather Israel—The redeemed will come to Zion amid great joy—Compare 2 Nephi 8.
 
----
 ###### 1 
 Hearken to me, ye that follow after righteousness, ye that seek the : look unto the rock  ye are hewn, and to the hole of the pit  ye are digged.
 

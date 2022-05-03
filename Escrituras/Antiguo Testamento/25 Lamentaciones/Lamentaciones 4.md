@@ -1,22 +1,21 @@
 ---
 title: Lamentaciones 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lamentaciones 4
 [[Lamentaciones 3| <-- Lamentaciones 3]] | [[Lamentaciones]] | [[Lamentaciones 5|Lamentaciones 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lam/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lam/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La condición de Sion es lamentable a causa del pecado y de la iniquidad.
 
----
 ###### 1 
 
 

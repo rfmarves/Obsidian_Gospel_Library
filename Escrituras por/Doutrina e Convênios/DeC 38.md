@@ -1,22 +1,21 @@
 ---
 title: DeC 38
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 38
 [[DeC 37| <-- DeC 37]] | [[DeC]] | [[DeC 39|DeC 39 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/38?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/38?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–6, Cristo criou todas as coisas; 7–8, Ele está no meio de Seus santos, que logo O verão; 9–12, Toda carne é corrupta diante Dele; 13–22, Ele reservou uma terra de promissão para Seus santos nesta vida e na eternidade; 23–27, Ordena-se aos santos que sejam unidos e estimem-se como irmãos; 28–29, Predizem-se guerras; 30–33, Os santos receberão poder do alto e irão a todas as nações; 34–42, Ordena-se que a Igreja cuide dos pobres e necessitados e busque as riquezas da eternidade.
 
----
 ###### 1 
 Assim diz o Senhor vosso Deus, Jesus Cristo, o Grande , o Alfa e o Ômega, o princípio e o fim, aquele que olhou por sobre a vasta extensão da eternidade e todas as hostes seráficas dos céus antes que o mundo fosse feito;
 

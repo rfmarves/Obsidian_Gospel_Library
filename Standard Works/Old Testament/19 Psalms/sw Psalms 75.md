@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 75
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 75
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/75?lang=eng)
 
----
+```
 To the chief Musician, Al-taschith, A Psalm or Song of Asaph.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The righteous praise and thank the God of Jacob—They will be exalted—God is the judge, and the wicked will be condemned.
 
----
 ###### 1 
 Unto thee, O God, do we give thanks,  do we give thanks: for  thy name is near thy wondrous works declare.
 

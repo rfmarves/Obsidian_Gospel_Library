@@ -1,22 +1,21 @@
 ---
 title: Jeremías 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 19
 [[Jeremías 18| <-- Jeremías 18]] | [[Jeremías]] | [[Jeremías 20|Jeremías 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová traerá el mal sobre Judá — Ofrecen a sus hijos como sacrificio a Baal — Durante el asedio comerán la carne de sus hijos.
 
----
 ###### 1 
 Así dijo Jehová: Ve y compra una vasija de barro al alfarero, y  algunos de los ancianos del pueblo y algunos de los ancianos de los sacerdotes;
 

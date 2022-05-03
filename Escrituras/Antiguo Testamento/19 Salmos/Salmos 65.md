@@ -1,27 +1,25 @@
 ---
 title: Salmos 65
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 65
 [[Salmos 64| <-- Salmos 64]] | [[Salmos]] | [[Salmos 66|Salmos 66 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/65?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/65?lang=spa)
 
----
+```
 Al músico principal. Salmo. Cántico de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David habla del estado bienaventurado de los escogidos de Dios — Dios envía lluvia y cosas buenas sobre la tierra.
 
----
 ###### 1 
 
 

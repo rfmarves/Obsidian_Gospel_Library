@@ -1,10 +1,11 @@
 ---
 title: sw D&C 8
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, Revelation comes by the power of the Holy Ghost; 6–12, Knowledge of the mysteries of God and the power to translate ancient records come by faith.
 
----
 ###### 1 
 Oliver Cowdery, verily, verily, I say unto you, that assuredly as the Lord liveth, who is your God and your Redeemer, even so surely shall you receive a knowledge of whatsoever things you shall ask in faith, with an honest heart, believing that you shall receive a knowledge concerning the engravings of old records, which are ancient, which contain those parts of my scripture of which has been spoken by the manifestation of my Spirit.
 

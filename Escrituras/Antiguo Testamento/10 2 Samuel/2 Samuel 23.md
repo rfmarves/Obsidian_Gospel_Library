@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 23
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 23
 [[2 Samuel 22| <-- 2 Samuel 22]] | [[2 Samuel]] | [[2 Samuel 24|2 Samuel 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David habla por el poder del Espíritu — Los gobernantes deben ser justos y gobernar en el temor de Dios — Se hace mención de los valientes de David y se enaltecen sus obras.
 
----
 ###### 1 
 Estas son las últimas palabras de David.
 

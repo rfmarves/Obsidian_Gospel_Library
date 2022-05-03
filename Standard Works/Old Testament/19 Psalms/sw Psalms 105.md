@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 105
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 105
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/105?lang=eng)
 
----
-__Summary__
+> __Summary__
 Make the Lord’s doings known among all men—Show His covenant with Abraham and His dealings with Israel—Touch not His anointed, and do His prophets no harm—Israel is to observe His statutes and keep His laws.
 
----
 ###### 1 
 O give thanks unto the ; call upon his name: make known his deeds among the people.
 

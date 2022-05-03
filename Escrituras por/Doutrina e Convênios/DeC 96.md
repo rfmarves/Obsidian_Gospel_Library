@@ -1,22 +1,21 @@
 ---
 title: DeC 96
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 96
 [[DeC 95| <-- DeC 95]] | [[DeC]] | [[DeC 97|DeC 97 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/96?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/96?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1, Deve-se fortalecer a estaca Kirtland de Sião; 2–5, O bispo deve dividir as heranças entre os santos; 6–9, John Johnson deve ser membro da ordem unida.
 
----
 ###### 1 
 Eis que vos digo: Aqui há sabedoria, para que saibais como agir em relação a esse assunto, pois me convém que esta estaca, que estabeleci para o vigor de Sião, se fortaleça.
 

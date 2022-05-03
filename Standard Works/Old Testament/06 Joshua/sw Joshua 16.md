@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 The children of Joseph (Ephraim and Manasseh) receive their inheritances—Some Canaanites continue to dwell among the Ephraimites.
 
----
 ###### 1 
 And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Beth-el,
 

@@ -1,22 +1,21 @@
 ---
 title: DeC 6
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 6
 [[DeC 5| <-- DeC 5]] | [[DeC]] | [[DeC 7|DeC 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–6, Os que trabalham no campo do Senhor alcançam a salvação; 7–13, Não há dom maior que o dom da salvação; 14–27, O testemunho da verdade é dado pelo poder do Espírito; 28–37, Confiai em Cristo e fazei o bem continuamente.
 
----
 ###### 1 
 Uma grande e maravilhosa obra está para iniciar-se entre os filhos dos homens.
 

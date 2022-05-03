@@ -1,22 +1,21 @@
 ---
 title: Mosias 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 1
 [[Palavras de Mórmon 1| <-- Palavras de Mórmon 1]] | [[Mosias]] | [[Mosias 2|Mosias 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O rei Benjamim ensina a seus filhos o idioma e as profecias de seus pais — Sua religião e civilização foram preservadas por causa dos registros gravados nas várias placas — Mosias é escolhido rei e recebe a custódia dos registros e de outras coisas. Aproximadamente 130–124 a.C.
 
----
 ###### 1 
 E então não houve mais contendas em toda a terra de Zaraenla, entre todo o povo que pertencia ao rei Benjamim, de modo que o rei Benjamim gozou de paz contínua todo o restante de seus dias.
 

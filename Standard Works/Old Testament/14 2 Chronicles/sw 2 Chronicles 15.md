@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Azariah prophesies that Judah will prosper if the people keep the commandments—Asa does away with false worship in Judah—Many from Ephraim, Manasseh, and Simeon migrate to Judah—The people covenant to serve the Lord and are blessed.
 
----
 ###### 1 
 And the Spirit of God came upon Azariah the son of Oded:
 

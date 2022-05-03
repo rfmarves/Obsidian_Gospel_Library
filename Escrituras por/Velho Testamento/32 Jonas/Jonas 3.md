@@ -1,22 +1,21 @@
 ---
 title: Jonas 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jonas 3
 [[Jonas 2| <-- Jonas 2]] | [[Jonas]] | [[Jonas 4|Jonas 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jonah/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jonah/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jonas profetiza a queda de Nínive — O povo se arrepende, e a cidade é salva.
 
----
 ###### 1 
 E veio a palavra do  pela segunda vez a Jonas, dizendo:
 

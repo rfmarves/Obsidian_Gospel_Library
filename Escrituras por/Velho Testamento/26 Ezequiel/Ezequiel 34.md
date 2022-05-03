@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 34
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 34
 [[Ezequiel 33| <-- Ezequiel 33]] | [[Ezequiel]] | [[Ezequiel 35|Ezequiel 35 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor repreende os pastores que não apascentam o rebanho — Nos últimos dias, o Senhor reunirá as ovelhas perdidas de Israel — O Messias será seu Pastor — O Senhor fará Seu convênio do evangelho com elas.
 
----
 ###### 1 
 E a palavra do  veio a mim, dizendo:
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 96
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 96
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/96?lang=eng)
 
----
-__Summary__
+> __Summary__
 1, The Kirtland Stake of Zion is to be made strong; 2–5, The bishop is to divide the inheritances for the Saints; 6–9, John Johnson is to be a member of the united order.
 
----
 ###### 1 
 Behold, I say unto you, here is wisdom, whereby ye may know how to act concerning this matter, for it is expedient in me that this stake that I have set for the strength of Zion should be made strong.
 

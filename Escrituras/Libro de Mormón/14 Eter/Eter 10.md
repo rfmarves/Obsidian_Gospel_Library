@@ -1,22 +1,21 @@
 ---
 title: Eter 10
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eter 10
 [[Eter 9| <-- Eter 9]] | [[Eter]] | [[Eter 11|Eter 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Un rey sucede a otro — Algunos de los reyes son justos; otros son inicuos — Cuando la rectitud prevalece, el Señor bendice al pueblo y lo hace prosperar.
 
----
 ###### 1 
 Y sucedió que Shez, que era descendiente de Het — pues Het había perecido por motivo del hambre, como también toda su familia, menos Shez — empezó, pues, Shez a restablecer a un pueblo abatido.
 

@@ -1,22 +1,21 @@
 ---
 title: Mosíah 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 5
 [[Mosíah 4| <-- Mosíah 4]] | [[Mosíah]] | [[Mosíah 6|Mosíah 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los santos llegan a ser hijos e hijas de Cristo por medio de la fe — Entonces son llamados por el nombre de Cristo — El rey Benjamín los exhorta a ser firmes e inmutables en buenas obras. Aproximadamente 124 a.C.
 
----
 ###### 1 
 Y ahora bien, aconteció que cuando el rey Benjamín hubo hablado así a su pueblo, mandó indagar entre ellos, deseando saber si creían las palabras que les había hablado.
 

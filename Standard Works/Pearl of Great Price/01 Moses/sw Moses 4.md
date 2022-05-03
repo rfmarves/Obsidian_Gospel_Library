@@ -1,10 +1,11 @@
 ---
 title: sw Moses 4
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moses 4
@@ -15,11 +16,9 @@ people:
 Moses
 (June–October 1830)
 
----
-__Summary__
+> __Summary__
 How Satan became the devil—He tempts Eve—Adam and Eve fall, and death enters the world.
 
----
 ###### 1 
 And I, the Lord God, spake unto Moses, saying: That Satan, whom thou hast commanded in the name of mine Only Begotten, is the same which was from the beginning, and he came before me, saying—Behold, here am I, send me, I will be thy son, and I will redeem all mankind, that one soul shall not be lost, and surely I will do it; wherefore give me thine honor.
 

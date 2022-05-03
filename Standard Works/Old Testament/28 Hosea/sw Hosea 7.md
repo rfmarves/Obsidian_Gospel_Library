@@ -1,10 +1,11 @@
 ---
 title: sw Hosea 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hosea 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is reproved for her many sins—Ephraim is mixed among the people.
 
----
 ###### 1 
 When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in,  the troop of robbers spoileth without.
 

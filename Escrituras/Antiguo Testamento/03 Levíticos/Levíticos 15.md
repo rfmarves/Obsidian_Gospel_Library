@@ -1,22 +1,21 @@
 ---
 title: Levíticos 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 15
 [[Levíticos 14| <-- Levíticos 14]] | [[Levíticos]] | [[Levíticos 16|Levíticos 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se revelan leyes, ritos y sacrificios para purificar a los que tienen flujo y otras clases de impurezas.
 
----
 ###### 1 
 Y habló Jehová a Moisés y a Aarón, diciendo:
 

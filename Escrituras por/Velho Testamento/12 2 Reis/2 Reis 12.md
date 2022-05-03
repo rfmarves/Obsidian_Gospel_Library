@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 12
 [[2 Reis 11| <-- 2 Reis 11]] | [[2 Reis]] | [[2 Reis 13|2 Reis 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Joás (Jeoás) reina em retidão — As fendas do templo são reparadas — A segurança de Jerusalém é comprada com objetos sagrados do templo — Jeoás é morto, e Amazias reina.
 
----
 ###### 1 
 No ano sétimo de Jeú começou a reinar Joás, e quarenta anos reinou em Jerusalém; e  o nome de sua mãe Zíbia, de Berseba.
 

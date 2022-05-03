@@ -1,22 +1,21 @@
 ---
 title: DyC 72
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 72
 [[DyC 71| <-- DyC 71]] | [[DyC]] | [[DyC 73|DyC 73 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/72?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/72?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–8, Los élderes deben entregar un informe de su mayordomía al obispo; 9–15, El obispo se encarga de administrar el almacén y de velar por los pobres y los necesitados; 16–26, Los obispos deben certificar la dignidad de los élderes.
 
----
 ###### 1 
 Escuchad y oíd la voz del Señor, oh vosotros que os habéis congregado, que sois los sumos sacerdotes de mi iglesia, a quienes se han dado el reino y el poder.
 

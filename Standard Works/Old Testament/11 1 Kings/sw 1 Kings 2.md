@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 David charges Solomon to keep the commandments and walk in the ways of the Lord—King David dies and Solomon reigns—Adonijah, Joab, and Shimei are put to death, and Abiathar is rejected as high priest—The kingdom is established with Solomon.
 
----
 ###### 1 
 Now the days of David drew nigh that he should die; and he charged Solomon his son, saying,
 

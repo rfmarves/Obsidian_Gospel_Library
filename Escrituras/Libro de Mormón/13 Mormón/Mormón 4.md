@@ -1,22 +1,21 @@
 ---
 title: Mormón 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mormón 4
 [[Mormón 3| <-- Mormón 3]] | [[Mormón]] | [[Mormón 5|Mormón 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Continúan la guerra y las matanzas — Los inicuos castigan a los inicuos — Jamás había habido una iniquidad mayor entre toda la casa de Israel — Se ofrecen mujeres y niños en sacrificio a los ídolos — Los lamanitas empiezan a ahuyentar a los nefitas delante de ellos. Aproximadamente 363–375 d.C.
 
----
 ###### 1 
 Y aconteció que en el año trescientos sesenta y tres, los nefitas salieron de la tierra de Desolación con sus ejércitos para combatir a los lamanitas.
 

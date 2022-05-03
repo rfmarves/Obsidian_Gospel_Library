@@ -1,10 +1,11 @@
 ---
 title: sw Testimony of the Prophet Joseph Smith
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Testimony of the Prophet Joseph Smith

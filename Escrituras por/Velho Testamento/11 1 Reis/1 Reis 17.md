@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 17
 [[1 Reis 16| <-- 1 Reis 16]] | [[1 Reis]] | [[1 Reis 18|1 Reis 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Elias, o profeta, sela os céus e é alimentado por corvos — A seu comando, a panela de farinha e a botija de azeite da viúva de Sarepta nunca se esvaziam — Ele ergue da morte o filho dela.
 
----
 ###### 1 
 Então Elias, o tesbita, dos moradores de Gileade, disse a Acabe: Vive o  Deus de Israel, perante cuja face estou, que nestes anos nem orvalho nem chuva haverá, senão segundo a minha palavra.
 

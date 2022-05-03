@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 1
@@ -15,11 +16,9 @@ people:
 2 Samuel
 Otherwise Called the Second Book of the Kings
 
----
-__Summary__
+> __Summary__
 David learns of the death of Saul and Jonathan—He slays the Amalekite who claims to have killed Saul—David laments the passing of Saul and Jonathan with a song.
 
----
 ###### 1 
 Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;
 

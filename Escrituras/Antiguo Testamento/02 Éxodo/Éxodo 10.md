@@ -1,22 +1,21 @@
 ---
 title: Éxodo 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 10
 [[Éxodo 9| <-- Éxodo 9]] | [[Éxodo]] | [[Éxodo 11|Éxodo 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová envía una plaga de langostas — Esta es seguida por densas tinieblas sobre todo Egipto durante tres días — Moisés es echado de la presencia de Faraón.
 
----
 ###### 1 
 Y Jehová dijo a Moisés: Preséntate ante Faraón, porque yo he endurecido su corazón y el corazón de sus siervos, para mostrar entre ellos estas mis señales;
 

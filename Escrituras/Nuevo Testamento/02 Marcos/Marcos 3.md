@@ -1,22 +1,21 @@
 ---
 title: Marcos 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 3
 [[Marcos 2| <-- Marcos 2]] | [[Marcos]] | [[Marcos 4|Marcos 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús sana a un enfermo en el día de reposo — Escoge y ordena a los Doce Apóstoles — Él pregunta: ¿Puede Satanás echar fuera a Satanás? — Habla de la blasfemia contra el Espíritu Santo y reconoce a los creyentes como integrantes de Su familia.
 
----
 ###### 1 
 Y otra vez entró en la sinagoga; y había allí un hombre que tenía seca una mano.
 

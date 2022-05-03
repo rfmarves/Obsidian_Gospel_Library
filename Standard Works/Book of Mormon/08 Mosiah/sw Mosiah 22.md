@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 22
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Plans are made for the people to escape from Lamanite bondage—The Lamanites are made drunk—The people escape, return to Zarahemla, and become subject to King Mosiah. About 121–120 B.C.
 
----
 ###### 1 
 And now it came to pass that Ammon and king Limhi began to consult with the people how they should deliver themselves out of bondage; and even they did cause that all the people should gather themselves together; and this they did that they might have the voice of the people concerning the matter.
 

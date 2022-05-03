@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 12
 [[2 Crônicas 11| <-- 2 Crônicas 11]] | [[2 Crônicas]] | [[2 Crônicas 13|2 Crônicas 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Roboão abandona a lei do Senhor — Os egípcios saqueiam Jerusalém e levam os tesouros da casa do Senhor — O povo se arrepende e recebe libertação parcial — Morre Roboão.
 
----
 ###### 1 
 E sucedeu que, havendo Roboão estabelecido o reino, e havendo-se fortalecido, deixou a lei do , e com ele todo o Israel.
 

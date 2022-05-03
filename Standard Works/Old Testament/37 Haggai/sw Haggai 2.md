@@ -1,10 +1,11 @@
 ---
 title: sw Haggai 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Haggai 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hag/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Haggai speaks about the Messiah—The Desire of All Nations will come—The Lord will give peace in His temple.
 
----
 ###### 1 
 In the seventh  in the one and twentieth  of the month, came the word of the  by the prophet Haggai, saying,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 49
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 49
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Messiah will be a light to the Gentiles and will free the prisoners—Israel will be gathered with power in the last days—Kings will be the nursing fathers of Israel—Compare 1 Nephi 21.
 
----
 ###### 1 
 Listen, O isles, unto me; and hearken, ye people, from far; The  hath called me from the womb; from the bowels of my mother hath he made mention of my name.
 

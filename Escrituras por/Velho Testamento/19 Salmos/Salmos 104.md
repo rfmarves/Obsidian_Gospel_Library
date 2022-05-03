@@ -1,22 +1,21 @@
 ---
 title: Salmos 104
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 104
 [[Salmos 103| <-- Salmos 103]] | [[Salmos]] | [[Salmos 105|Salmos 105 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/104?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/104?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor está vestido de glória e de majestade — Ele faz dos Seus anjos espíritos e dos Seus ministros, um fogo abrasador — Ele provê sustento a todas as formas de vida — Sua glória perdura para sempre.
 
----
 ###### 1 
 Bendize, ó minha alma, ao ;  Deus meu, tu és magnificentíssimo, estás vestido de glória e de majestade.
 

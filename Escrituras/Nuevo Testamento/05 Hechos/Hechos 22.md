@@ -1,22 +1,21 @@
 ---
 title: Hechos 22
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 22
 [[Hechos 21| <-- Hechos 21]] | [[Hechos]] | [[Hechos 23|Hechos 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo relata la historia de su conversión y además declara haber visto a Jesús en una visión — Se le conceden algunos privilegios como ciudadano romano.
 
----
 ###### 1 
 Varones hermanos y padres, oíd ahora mi defensa ante vosotros.
 

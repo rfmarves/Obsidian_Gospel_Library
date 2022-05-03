@@ -1,22 +1,21 @@
 ---
 title: Salmos 96
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 96
 [[Salmos 95| <-- Salmos 95]] | [[Salmos]] | [[Salmos 97|Salmos 97 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/96?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/96?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cantai louvores ao Senhor — Anunciai Seu nome entre as nações — Adorai ao Senhor na beleza da santidade — Ele vem julgar Seu povo e o mundo.
 
----
 ###### 1 
 Cantai ao   cântico novo, cantai ao  toda a terra.
 

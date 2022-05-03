@@ -1,22 +1,21 @@
 ---
 title: Daniel 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 2
 [[Daniel 1| <-- Daniel 1]] | [[Daniel]] | [[Daniel 3|Daniel 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se revela a Daniel el sueño de Nabucodonosor — El rey vio una gran imagen; vio una piedra del monte cortada, no con mano, que destruyó la imagen; y la piedra creció y llenó toda la tierra — La piedra es el reino de Dios en los últimos días.
 
----
 ###### 1 
 Y en el segundo año del reinado de Nabucodonosor, soñó Nabucodonosor sueños, y se perturbó su espíritu, y se le fue el sueño.
 

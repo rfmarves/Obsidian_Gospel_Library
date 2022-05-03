@@ -1,22 +1,21 @@
 ---
 title: Números 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 2
 [[Números 1| <-- Números 1]] | [[Números]] | [[Números 3|Números 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se establecen el orden y los líderes de las tribus y de los ejércitos de Israel en sus tiendas.
 
----
 ###### 1 
 Y habló Jehová a Moisés y a Aarón, diciendo:
 

@@ -1,22 +1,21 @@
 ---
 title: Mateo 23
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 23
 [[Mateo 22| <-- Mateo 22]] | [[Mateo]] | [[Mateo 24|Mateo 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús pronuncia ayes sobre los escribas y los fariseos — Se responsabilizará a estos de la muerte de los profetas — No escaparán de la condenación del infierno.
 
----
 ###### 1 
 Entonces habló Jesús a la multitud y a sus discípulos,
 

@@ -1,22 +1,21 @@
 ---
 title: Job 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 13
 [[Job 12| <-- Job 12]] | [[Job]] | [[Job 14|Job 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Job testifica de su confianza en Jehová y dice: Aunque me matare, en Él confiaré; Él también será mi salvación.
 
----
 ###### 1 
 
 

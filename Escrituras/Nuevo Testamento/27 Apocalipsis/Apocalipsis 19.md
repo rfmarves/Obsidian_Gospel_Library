@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 19
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 19
 [[Apocalipsis 18| <-- Apocalipsis 18]] | [[Apocalipsis]] | [[Apocalipsis 20|Apocalipsis 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se prepara la cena de las bodas del Cordero — El testimonio de Jesús es el espíritu de profecía — Cristo es Rey de reyes y Señor de señores.
 
----
 ###### 1 
 Después de estas cosas oí una gran voz como de una gran multitud en el cielo, que decía: ¡Aleluya! Salvación, y honra, y gloria y poder son del Señor Dios nuestro,
 

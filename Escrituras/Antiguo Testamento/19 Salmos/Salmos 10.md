@@ -1,22 +1,21 @@
 ---
 title: Salmos 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 10
 [[Salmos 9| <-- Salmos 9]] | [[Salmos]] | [[Salmos 11|Salmos 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David habla de varios hechos de los inicuos — Dios no está en los pensamientos de ellos — Pero Jehová es Rey eternamente y para siempre — Él juzgará al huérfano y al oprimido.
 
----
 ###### 1 
 
 

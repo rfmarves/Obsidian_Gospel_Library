@@ -1,22 +1,21 @@
 ---
 title: Eter 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eter 8
 [[Eter 7| <-- Eter 7]] | [[Eter]] | [[Eter 9|Eter 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Hay luchas y contiendas por el reino — Para matar al rey, Akish establece una combinación secreta regida por un juramento — Las combinaciones secretas son del diablo y causan la destrucción de las naciones — Se amonesta a los gentiles modernos en cuanto a la combinación secreta que procurará destruir la libertad de todas las tierras, naciones y países.
 
----
 ###### 1 
 Y sucedió que Shule engendró a Omer, y este reinó en su lugar. Y Omer engendró a Jared; y Jared engendró hijos e hijas.
 

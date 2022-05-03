@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Fire comes down from heaven and consumes the sacrifices and burnt offerings—The Lord appears to Solomon and promises to bless the people—The Israelites will prosper if they keep the commandments.
 
----
 ###### 1 
 Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the  filled the house.
 

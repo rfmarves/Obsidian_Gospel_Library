@@ -1,22 +1,21 @@
 ---
 title: Hechos 21
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 21
 [[Hechos 20| <-- Hechos 20]] | [[Hechos]] | [[Hechos 22|Hechos 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo viaja a Jerusalén — Es perseguido, arrestado y atado.
 
----
 ###### 1 
 Y después de separarnos de ellos, zarpamos y navegamos directamente a Cos, y al día siguiente, a Rodas y de allí a Pátara.
 

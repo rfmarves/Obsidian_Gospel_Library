@@ -1,22 +1,21 @@
 ---
 title: Juízes 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 20
 [[Juízes 19| <-- Juízes 19]] | [[Juízes]] | [[Juízes 21|Juízes 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Todo o Israel se levanta contra os benjamitas, que se recusam a entregar os homens de Gibeá — Os benjamitas são derrotados e destruídos.
 
----
 ###### 1 
 Então todos os filhos de Israel saíram, e a congregação se ajuntou perante o  em Mizpá, como  um só homem, desde Dã até Berseba, como também a terra de Gileade.
 

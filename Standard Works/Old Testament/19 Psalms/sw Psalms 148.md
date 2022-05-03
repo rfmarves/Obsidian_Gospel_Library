@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 148
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 148
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/148?lang=eng)
 
----
-__Summary__
+> __Summary__
 Let all things praise the Lord: men and angels, the heavenly bodies, the elements and the earth, and all things thereon.
 
----
 ###### 1 
 Praise ye the . Praise ye the  from the heavens: praise him in the heights.
 

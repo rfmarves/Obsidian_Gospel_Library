@@ -1,10 +1,11 @@
 ---
 title: sw Alma 7
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 7
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=eng)
 
----
+```
 The words of Alma which he delivered to the people in Gideon, according to his own record.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Christ will be born of Mary—He will loose the bands of death and bear the sins of His people—Those who repent, are baptized, and keep the commandments will have eternal life—Filthiness cannot inherit the kingdom of God—Humility, faith, hope, and charity are required. About 83 B.C.
 
----
 ###### 1 
 Behold my beloved brethren, seeing that I have been permitted to come unto you, therefore I attempt to address you in my language; yea, by my own mouth, seeing that it is the first time that I have spoken unto you by the words of my mouth, I having been wholly confined to the judgment-seat, having had much business that I could not come unto you.
 

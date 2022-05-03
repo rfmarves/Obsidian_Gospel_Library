@@ -1,22 +1,21 @@
 ---
 title: Juízes 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 2
 [[Juízes 1| <-- Juízes 1]] | [[Juízes]] | [[Juízes 3|Juízes 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Um anjo repreende Israel por não servir ao Senhor — Como padrão de acontecimentos futuros, levanta-se uma nova geração que rejeita o Senhor e serve Baal e Astarote — O Senhor se enfurece com os filhos de Israel e deixa de preservá-los — Ele levanta juízes para guiá-los e liderá-los — São deixados cananeus na terra para pôr Israel à prova.
 
----
 ###### 1 
 E subiu o anjo do  de Gilgal a Boquim, e disse: Do Egito vos fiz subir, e vos trouxe à terra que a vossos pais tinha jurado e dito: Nunca invalidarei o meu convênio convosco.
 

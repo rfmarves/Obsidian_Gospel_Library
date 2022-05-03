@@ -1,22 +1,21 @@
 ---
 title: Job 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 7
 [[Job 6| <-- Job 6]] | [[Job]] | [[Job 8|Job 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Job pregunta: ¿No tiene acaso el hombre trabajo arduo sobre la tierra? ¿Qué es el hombre para que lo engrandezcas? ¿Por qué no perdonas mi iniquidad?
 
----
 ###### 1 
 
 

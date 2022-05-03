@@ -1,22 +1,21 @@
 ---
 title: Alma 33
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 33
 [[Alma 32| <-- Alma 32]] | [[Alma]] | [[Alma 34|Alma 34 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/33?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/33?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Zenos ensinou que os homens devem orar e adorar em todos os lugares e que julgamentos são afastados por causa do Filho — Zenoque ensinou que a misericórdia é concedida por causa do Filho — Moisés havia levantado no deserto um símbolo do Filho de Deus. Aproximadamente 74 a.C.
 
----
 ###### 1 
 Ora, depois que Alma proferiu essas palavras, mandaram perguntar-lhe se deviam acreditar em um Deus, para assim poderem obter aquele fruto de que ele havia falado, ou como deveriam plantar a semente, ou a palavra de que havia falado, a qual ele dissera que deveria ser plantada em seus corações; ou seja, de que maneira começariam a exercer a fé.
 

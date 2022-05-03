@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 David is anointed king in Hebron—He takes Zion, the City of David—His valiant warriors are named and their deeds recounted.
 
----
 ###### 1 
 Then all Israel gathered themselves to David unto Hebron, saying, Behold, we  thy bone and thy flesh.
 

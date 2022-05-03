@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 The officers in Solomon’s court are listed—Solomon reigns in peace and prosperity over a large kingdom—His wisdom and understanding exceed that of all men.
 
----
 ###### 1 
 So king Solomon was king over all Israel.
 

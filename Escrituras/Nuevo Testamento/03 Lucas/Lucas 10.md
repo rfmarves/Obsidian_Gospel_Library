@@ -1,22 +1,21 @@
 ---
 title: Lucas 10
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 10
 [[Lucas 9| <-- Lucas 9]] | [[Lucas]] | [[Lucas 11|Lucas 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús llama a los Setenta, les da autoridad y los instruye — Estos predican y sanan — Aquellos que reciben a los discípulos de Cristo le reciben a Él — El Hijo revela al Padre — Jesús enseña la parábola del buen samaritano.
 
----
 ###### 1 
 Y después de estas cosas, el Señor designó a otros setenta, a quienes envió de dos en dos delante de sí a toda ciudad y lugar a donde él había de ir.
 

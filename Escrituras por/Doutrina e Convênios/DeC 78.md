@@ -1,22 +1,21 @@
 ---
 title: DeC 78
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 78
 [[DeC 77| <-- DeC 77]] | [[DeC]] | [[DeC 79|DeC 79 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, Os santos devem organizar e estabelecer um armazém; 5–12, O uso prudente de suas propriedades levará à salvação; 13–14, A Igreja deve ser independente dos poderes terrenos; 15–16, Miguel (Adão) serve sob a direção do Santo (Cristo); 17–22, Bem-aventurados os fiéis, pois herdarão todas as coisas.
 
----
 ###### 1 
 O Senhor falou a Joseph Smith Júnior dizendo: Escutai-me, diz o Senhor vosso Deus, vós que sois ordenados ao sumo sacerdócio de minha igreja e que vos reunistes;
 

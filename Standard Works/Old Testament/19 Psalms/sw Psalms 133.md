@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 133
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 133
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/133?lang=eng)
 
----
+```
 A Song of degrees of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David says, It is pleasant for brethren to dwell together in unity!
 
----
 ###### 1 
 Behold, how good and how pleasant  for brethren to dwell together in unity!
 

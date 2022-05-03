@@ -1,22 +1,21 @@
 ---
 title: Números 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 22
 [[Números 21| <-- Números 21]] | [[Números]] | [[Números 23|Números 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Balac ofrece dinero, ganado y grandes honores a Balaam para que maldiga a Israel — Jehová le prohíbe a Balaam que lo haga — Un ángel se opone a Balaam en el camino.
 
----
 ###### 1 
 Y partieron los hijos de Israel y acamparon en los campos de Moab, de este lado del Jordán, frente a Jericó.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Timothy 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Timothy 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul gives a solemn charge to preach the gospel in a day of apostasy—Paul and all Saints are assured of exaltation.
 
----
 ###### 1 
 I charge  therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;
 

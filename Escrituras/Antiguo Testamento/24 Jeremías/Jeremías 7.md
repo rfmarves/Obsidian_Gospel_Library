@@ -1,22 +1,21 @@
 ---
 title: Jeremías 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 7
 [[Jeremías 6| <-- Jeremías 6]] | [[Jeremías]] | [[Jeremías 8|Jeremías 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Si el pueblo de Judá se arrepiente, será preservado — El templo se ha convertido en cueva de ladrones — Jehová desecha a esa generación del pueblo de Judá por sus idolatrías — Ofrecen a sus hijos como sacrificio.
 
----
 ###### 1 
 La palabra de Jehová que vino a Jeremías, diciendo:
 

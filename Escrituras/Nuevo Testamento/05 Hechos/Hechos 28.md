@@ -1,22 +1,21 @@
 ---
 title: Hechos 28
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 28
 [[Hechos 27| <-- Hechos 27]] | [[Hechos]] | [[Romanos 1|Romanos 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo resulta ileso de la mordedura de una víbora — Sana a los enfermos en Malta — Predica en Roma, primero a los judíos y después a los gentiles.
 
----
 ###### 1 
 Estando ya a salvo, supimos que la isla se llamaba Malta.
 

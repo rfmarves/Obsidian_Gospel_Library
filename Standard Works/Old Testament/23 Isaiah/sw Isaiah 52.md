@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 52
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 52
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/52?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, Zion will return, and Israel will be redeemed—The Messiah will deal prudently and be exalted.
 
----
 ###### 1 
 Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.
 

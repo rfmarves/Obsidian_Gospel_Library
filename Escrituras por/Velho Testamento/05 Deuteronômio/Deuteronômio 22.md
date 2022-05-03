@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 22
 [[Deuteronômio 21| <-- Deuteronômio 21]] | [[Deuteronômio]] | [[Deuteronômio 23|Deuteronômio 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés estabelece leis referentes a bens perdidos, ao uso de roupas adequadas, ao cuidado com os interesses alheios, ao casamento com uma moça virgem e à imoralidade sexual.
 
----
 ###### 1 
 Vendo extraviado o boi ou ovelha de teu irmão, não os ignorarás; restituí-los-ás sem falta a teu irmão.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Mormon 8
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mormon 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lamanites seek out and destroy the Nephites—The Book of Mormon will come forth by the power of God—Woes pronounced upon those who breathe out wrath and strife against the work of the Lord—The Nephite record will come forth in a day of wickedness, degeneracy, and apostasy. About A.D. 400–421.
 
----
 ###### 1 
 Behold I, Moroni, do finish the record of my father, Mormon. Behold, I have but few things to write, which things I have been commanded by my father.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Habakkuk 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Habakkuk 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hab/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord admonishes patience and promises that the just will live by faith—The earth will be filled with knowledge about God—Idols have no power.
 
----
 ###### 1 
 I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.
 

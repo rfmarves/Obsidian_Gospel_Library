@@ -1,22 +1,21 @@
 ---
 title: Alma 26
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 26
 [[Alma 25| <-- Alma 25]] | [[Alma]] | [[Alma 27|Alma 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amon gloria-se no Senhor — Os fiéis são fortalecidos pelo Senhor e recebem conhecimento — Pela fé os homens podem trazer milhares de almas ao arrependimento — Deus tem todo o poder e compreende todas as coisas. Aproximadamente 90–77 a.C.
 
----
 ###### 1 
 Ora, estas são as palavras que Amon disse a seus irmãos: Meus irmãos e meus irmãos na fé, eis que vos digo que temos grandes razões para nos regozijarmos; porque poderíamos nós supor, quando partimos da terra de Zaraenla, que Deus nos concederia tão grandes bênçãos?
 

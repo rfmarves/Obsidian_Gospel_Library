@@ -1,22 +1,21 @@
 ---
 title: DeC 85
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 85
 [[DeC 84| <-- DeC 84]] | [[DeC]] | [[DeC 86|DeC 86 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/85?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/85?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, Devem-se receber as heranças em Sião por meio de consagração; 6–12, Alguém poderoso e forte dará aos santos sua herança em Sião.
 
----
 ###### 1 
 É dever do secretário do Senhor, a quem ele designou, conservar uma história e um registro geral da igreja de todas as coisas que ocorrem em Sião; e de todos os que consagram propriedades e legalmente recebem heranças do bispo;
 

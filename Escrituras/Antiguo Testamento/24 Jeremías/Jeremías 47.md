@@ -1,22 +1,21 @@
 ---
 title: Jeremías 47
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 47
 [[Jeremías 46| <-- Jeremías 46]] | [[Jeremías]] | [[Jeremías 48|Jeremías 48 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/47?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/47?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías predice la desolación y la destrucción de los filisteos.
 
----
 ###### 1 
 La palabra de Jehová que vino al profeta Jeremías acerca de los filisteos, antes que Faraón hiriese a Gaza.
 

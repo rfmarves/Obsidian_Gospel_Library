@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 141
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 141
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/141?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David pleads with the Lord to hear his prayers—The reproof of the righteous is a kindness.
 
----
 ###### 1 
 , I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.
 

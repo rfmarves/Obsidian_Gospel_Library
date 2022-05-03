@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 23
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 23
 [[2 Nefi 22| <-- 2 Nefi 22]] | [[2 Nefi]] | [[2 Nefi 24|2 Nefi 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La destrucción de Babilonia es un símbolo de la destrucción que habrá a la Segunda Venida — Será un día de ira y de venganza — Babilonia (el mundo) caerá para siempre — Compárese con Isaías 13. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Carga de Babilonia que vio Isaías hijo de Amoz:
 

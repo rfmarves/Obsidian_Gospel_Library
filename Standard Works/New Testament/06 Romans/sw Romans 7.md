@@ -1,10 +1,11 @@
 ---
 title: sw Romans 7
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 The law of Moses is fulfilled in Christ—Paul delights in the law of God after the inward man.
 
----
 ###### 1 
 Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?
 

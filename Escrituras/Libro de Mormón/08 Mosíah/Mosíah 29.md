@@ -1,22 +1,21 @@
 ---
 title: Mosíah 29
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 29
 [[Mosíah 28| <-- Mosíah 28]] | [[Mosíah]] | [[Alma 1|Alma 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/29?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Mosíah propone que se elijan jueces en lugar de un rey — Los reyes inicuos conducen a su pueblo al pecado — Alma, hijo, es nombrado juez superior por la voz del pueblo — También es el sumo sacerdote encargado de la Iglesia — Mueren Mosíah y el padre de Alma. Aproximadamente 92–91 a.C.
 
----
 ###### 1 
 Ahora bien, cuando Mosíah hubo hecho esto, indagó por todo el país, entre todo el pueblo, para enterarse de su parecer concerniente a quién había de ser su rey.
 

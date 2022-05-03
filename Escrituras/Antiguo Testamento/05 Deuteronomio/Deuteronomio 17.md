@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 17
 [[Deuteronomio 16| <-- Deuteronomio 16]] | [[Deuteronomio]] | [[Deuteronomio 18|Deuteronomio 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se matará a los que adoren a dioses falsos — Los sacerdotes y los jueces determinarán los casos difíciles — Los reyes no deberán tener muchos caballos, ni muchas esposas ni mucho oro para ellos mismos — El rey debe estudiar las leyes de Dios todos los días.
 
----
 ###### 1 
 No sacrificarás a Jehová tu Dios buey ni cordero en el cual haya defecto o alguna cosa mala, porque es abominación a Jehová tu Dios.
 

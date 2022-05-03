@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 9
 [[1 Samuel 8| <-- 1 Samuel 8]] | [[1 Samuel]] | [[1 Samuel 10|1 Samuel 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Saul, filho de Quis, benjamita, é um jovem excelente e formoso — Mandam-no buscar as jumentas de seu pai — O Senhor revela a Samuel, o vidente, que Saul há de ser rei — Saul visita Samuel e é recebido por ele.
 
----
 ###### 1 
 E havia um homem de Benjamim, cujo nome  Quis, filho de Abiel, filho de Zeror, filho de Becorate, filho de Afia, filho de um homem de Benjamim, homem valoroso.
 

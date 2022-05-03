@@ -1,22 +1,21 @@
 ---
 title: 2 Tesalonisenses 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Tesalonisenses 1
 [[1 Tesalonisenses 5| <-- 1 Tesalonisenses 5]] | [[2 Tesalonisenses]] | [[2 Tesalonisenses 2|2 Tesalonisenses 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-thes/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-thes/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En la Segunda Venida, el Señor Jesús castigará a los impíos.
 
----
 ###### 1 
 Pablo, y Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios nuestro Padre y en el Señor Jesucristo:
 

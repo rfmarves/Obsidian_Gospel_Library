@@ -1,22 +1,21 @@
 ---
 title: DyC 56
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 56
 [[DyC 55| <-- DyC 55]] | [[DyC]] | [[DyC 57|DyC 57 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/56?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/56?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–2, Los santos deben tomar su cruz y seguir al Señor para lograr la salvación; 3–13, El Señor manda y revoca, y los desobedientes son desarraigados; 14–17, Ay de los ricos que no ayudan a los pobres, y ay de los pobres cuyo corazón no está quebrantado; 18–20, Benditos son los pobres que son puros de corazón, porque ellos heredarán la tierra.
 
----
 ###### 1 
 Escuchad, oh pueblo que profesáis mi nombre, dice el Señor vuestro Dios; porque he aquí, mi enojo está encendido contra los rebeldes, y conocerán mi brazo y mi indignación en el día de visitación e ira sobre las naciones.
 

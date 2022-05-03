@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 16
 [[2 Samuel 15| <-- 2 Samuel 15]] | [[2 Samuel]] | [[2 Samuel 17|2 Samuel 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se acusa a Mefi-boset de procurar ser rey — Simei, de la casa de Saúl, maldice a David — Ahitofel aconseja a Absalón y este se llega a las concubinas de su padre.
 
----
 ###### 1 
 Y cuando David hubo pasado un poco más allá de la cumbre  he aquí que Siba, el criado de Mefi-boset, salió a recibirle con un par de asnos ensillados, y sobre ellos doscientos panes, y cien racimos de pasas, y cien frutas de verano y un cuero de vino.
 

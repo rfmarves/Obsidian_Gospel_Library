@@ -1,22 +1,21 @@
 ---
 title: Jeremías 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 20
 [[Jeremías 19| <-- Jeremías 19]] | [[Jeremías]] | [[Jeremías 21|Jeremías 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías es azotado y puesto en el cepo — Profetiza que todos los de Judá serán llevados cautivos a Babilonia.
 
----
 ###### 1 
 Y el sacerdote Pasur hijo de Imer, que presidía como príncipe en la casa de Jehová, oyó a Jeremías que profetizaba estas palabras.
 

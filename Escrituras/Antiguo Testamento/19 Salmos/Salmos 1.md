@@ -1,22 +1,21 @@
 ---
 title: Salmos 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 1
 [[Job 42| <-- Job 42]] | [[Salmos]] | [[Salmos 2|Salmos 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los justos son bienaventurados — Los malos perecerán.
 
----
 ###### 1 
 
 

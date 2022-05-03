@@ -1,22 +1,21 @@
 ---
 title: Eclesiastés 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastés 11
 [[Eclesiastés 10| <-- Eclesiastés 10]] | [[Eclesiastés]] | [[Eclesiastés 12|Eclesiastés 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Haz el bien y da a los necesitados — Dios traerá a juicio a todos los hombres.
 
----
 ###### 1 
 Echa tu pan sobre las aguas, porque después de muchos días lo hallarás.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Timóteo 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Timóteo 2
 [[2 Timóteo 1| <-- 2 Timóteo 1]] | [[2 Timóteo]] | [[2 Timóteo 3|2 Timóteo 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo concede glória eterna aos eleitos — Evitai contendas e buscai a santidade.
 
----
 ###### 1 
 Tu, pois, meu filho, fortifica-te na graça que há em Cristo Jesus.
 

@@ -1,22 +1,21 @@
 ---
 title: Jeremias 26
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 26
 [[Jeremias 25| <-- Jeremias 25]] | [[Jeremias]] | [[Jeremias 27|Jeremias 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias profetiza a destruição do povo — Por causa disso, ele é acusado e julgado e posteriormente inocentado.
 
----
 ###### 1 
 No princípio do reinado de Joaquim, filho de Josias, rei de Judá, veio esta palavra do , dizendo:
 

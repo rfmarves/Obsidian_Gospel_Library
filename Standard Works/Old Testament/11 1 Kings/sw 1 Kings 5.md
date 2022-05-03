@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Solomon solicits and gains Hiram’s help in getting timber to build the temple—The Israelites hew stones and cut timber for the temple.
 
----
 ###### 1 
 And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.
 

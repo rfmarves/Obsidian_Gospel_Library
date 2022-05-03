@@ -1,22 +1,21 @@
 ---
 title: Eclesiastes 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastes 2
 [[Eclesiastes 1| <-- Eclesiastes 1]] | [[Eclesiastes]] | [[Eclesiastes 3|Eclesiastes 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Todas as riquezas e bens do rei são vaidade e aflição de espírito — Melhor é a sabedoria do que a estultícia — Deus dá sabedoria, conhecimento e alegria ao homem.
 
----
 ###### 1 
 Disse eu no meu coração: Ora, vem, eu te porei à prova com alegria; experimenta, pois, as coisas boas; porém eis que também isso  vaidade.
 

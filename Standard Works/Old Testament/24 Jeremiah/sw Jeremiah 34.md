@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 34
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 34
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/34?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah prophesies the captivity of Zedekiah—The people of Judah will be removed into all the kingdoms of the earth.
 
----
 ###### 1 
 The word which came unto Jeremiah from the , when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth of his dominion, and all the people, fought against Jerusalem, and against all the cities thereof, saying,
 

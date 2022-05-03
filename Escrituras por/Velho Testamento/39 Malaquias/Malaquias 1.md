@@ -1,22 +1,21 @@
 ---
 title: Malaquias 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Malaquias 1
 [[Zacarias 14| <-- Zacarias 14]] | [[Malaquias]] | [[Malaquias 2|Malaquias 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/mal/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/mal/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os judeus desprezam o Senhor, oferecendo pão profano sobre o altar e sacrificando animais com defeitos — O nome do Senhor será grande entre os gentios.
 
----
 ###### 1 
 Peso da palavra do  contra Israel, pelo ministério de Malaquias.
 

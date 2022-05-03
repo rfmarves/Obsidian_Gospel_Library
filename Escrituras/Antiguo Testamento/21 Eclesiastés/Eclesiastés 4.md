@@ -1,22 +1,21 @@
 ---
 title: Eclesiastés 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastés 4
 [[Eclesiastés 3| <-- Eclesiastés 3]] | [[Eclesiastés]] | [[Eclesiastés 5|Eclesiastés 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La opresión y las obras malas son vanidad — La fuerza de dos es mejor que la de uno — Mejor es el muchacho pobre y sabio que el rey viejo y necio.
 
----
 ###### 1 
 Y me volví y vi todas las opresiones que se hacen debajo del sol: y he aquí, las lágrimas de los oprimidos, sin tener quien los consolara; y el poder estaba en manos de sus opresores, y para ellos no había consolador.
 

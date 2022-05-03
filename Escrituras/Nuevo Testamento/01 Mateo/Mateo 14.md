@@ -1,22 +1,21 @@
 ---
 title: Mateo 14
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 14
 [[Mateo 13| <-- Mateo 13]] | [[Mateo]] | [[Mateo 15|Mateo 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se decapita a Juan el Bautista — Jesús alimenta a cinco mil personas y anda sobre el mar — Los que tocan el borde de Su manto son sanados.
 
----
 ###### 1 
 En aquel tiempo Herodes, el tetrarca, oyó la fama de Jesús
 

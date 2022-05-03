@@ -1,22 +1,21 @@
 ---
 title: Salmos 33
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 33
 [[Salmos 32| <-- Salmos 32]] | [[Salmos]] | [[Salmos 34|Salmos 34 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/33?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/33?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Alegraos en Jehová — Cantadle cántico nuevo — Él ama la rectitud y la justicia — Bienaventurada la nación cuyo Dios es Jehová.
 
----
 ###### 1 
 
 

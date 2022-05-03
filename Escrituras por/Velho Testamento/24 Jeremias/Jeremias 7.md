@@ -1,22 +1,21 @@
 ---
 title: Jeremias 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 7
 [[Jeremias 6| <-- Jeremias 6]] | [[Jeremias]] | [[Jeremias 8|Jeremias 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Se o povo de Judá se arrepender, ele será preservado — O templo se tornou um covil de ladrões — O Senhor rejeita aquela geração do povo de Judá por suas idolatrias — Eles oferecem os filhos em sacrifício.
 
----
 ###### 1 
 A palavra que do  veio a Jeremias, dizendo:
 

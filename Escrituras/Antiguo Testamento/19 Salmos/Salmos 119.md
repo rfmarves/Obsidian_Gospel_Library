@@ -1,22 +1,21 @@
 ---
 title: Salmos 119
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 119
 [[Salmos 118| <-- Salmos 118]] | [[Salmos]] | [[Salmos 120|Salmos 120 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/119?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/119?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Bienaventurados los que guardan los mandamientos.
 
----
 Bienaventurados los que guardan los mandamientos.
 
 ###### 1 

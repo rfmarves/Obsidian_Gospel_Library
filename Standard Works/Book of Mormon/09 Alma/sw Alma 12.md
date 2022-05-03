@@ -1,10 +1,11 @@
 ---
 title: sw Alma 12
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Alma speaks to Zeezrom—The mysteries of God can be given only to the faithful—Men are judged by their thoughts, beliefs, words, and works—The wicked will suffer a spiritual death—This mortal life is a probationary state—The plan of redemption brings to pass the Resurrection and, through faith, a remission of sins—The repentant have a claim on mercy through the Only Begotten Son. About 82 B.C.
 
----
 ###### 1 
 Now Alma, seeing that the words of Amulek had silenced Zeezrom, for he beheld that Amulek had caught him in his lying and deceiving to destroy him, and seeing that he began to tremble under a consciousness of his guilt, he opened his mouth and began to speak unto him, and to establish the words of Amulek, and to explain things beyond, or to unfold the scriptures beyond that which Amulek had done.
 

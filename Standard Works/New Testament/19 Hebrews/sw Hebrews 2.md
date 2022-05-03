@@ -1,10 +1,11 @@
 ---
 title: sw Hebrews 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hebrews 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus came to suffer death and save men—He came to make reconciliation for the sins of the people.
 
----
 ###### 1 
 Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let  slip.
 

@@ -1,22 +1,21 @@
 ---
 title: DyC 40
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 40
 [[DyC 39| <-- DyC 39]] | [[DyC]] | [[DyC 41|DyC 41 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/40?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/40?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–3, El temor de la persecución y los afanes del mundo hacen que se rechace el Evangelio.
 
----
 ###### 1 
 He aquí, de cierto os digo, que el corazón de mi siervo James Covel fue recto ante mí, porque hizo convenio conmigo de obedecer mi palabra.
 

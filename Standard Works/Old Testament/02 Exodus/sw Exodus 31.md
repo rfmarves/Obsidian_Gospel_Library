@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 31
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 31
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/31?lang=eng)
 
----
-__Summary__
+> __Summary__
 Artisans are inspired in building and furnishing the tabernacle—Israel is commanded to keep the Lord’s Sabbaths—The death penalty is decreed for Sabbath desecration—Moses receives the stone tablets.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

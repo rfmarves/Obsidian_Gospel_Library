@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ahijah foretells the ruin of Jeroboam’s house, the death of his child, and the scattering of the Israelites because of their idolatry—Jeroboam dies and Nadab reigns—Judah, under Rehoboam, turns to wickedness—Shishak of Egypt takes treasures from the temple—Rehoboam dies and Abijam reigns.
 
----
 ###### 1 
 At that time Abijah the son of Jeroboam fell sick.
 

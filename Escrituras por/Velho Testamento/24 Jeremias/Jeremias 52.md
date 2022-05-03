@@ -1,22 +1,21 @@
 ---
 title: Jeremias 52
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 52
 [[Jeremias 51| <-- Jeremias 51]] | [[Jeremias]] | [[Lamentações 1|Lamentações 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/52?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/52?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jerusalém é cercada e tomada pelos caldeus — Muitas pessoas e os utensílios da casa do Senhor são levados para Babilônia.
 
----
 ###### 1 
 Era Zedequias da idade de vinte e um anos quando começou a reinar, e reinou onze anos em Jerusalém; e o nome de sua mãe era Hamutal, filha de Jeremias, de Libna.
 

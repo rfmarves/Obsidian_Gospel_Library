@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 29
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 Many Gentiles will reject the Book of Mormon—They will say, We need no more Bible—The Lord speaks to many nations—He will judge the world out of the books which will be written. About 559–545 B.C.
 
----
 ###### 1 
 But behold, there shall be many—at that day when I shall proceed to do a marvelous work among them, that I may remember my covenants which I have made unto the children of men, that I may set my hand again the second time to recover my people, which are of the house of Israel;
 

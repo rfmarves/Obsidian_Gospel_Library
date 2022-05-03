@@ -1,22 +1,21 @@
 ---
 title: DeC 60
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 60
 [[DeC 59| <-- DeC 59]] | [[DeC]] | [[DeC 61|DeC 61 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/60?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/60?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–9, Os élderes devem pregar o evangelho nas congregações dos iníquos; 10–14, Não devem desperdiçar seu tempo nem enterrar seus talentos; 15–17, Podem lavar os pés como testemunho contra os que rejeitarem o evangelho.
 
----
 ###### 1 
 Eis que assim diz o Senhor aos élderes de sua igreja, que deverão regressar rapidamente à terra de onde vieram: Eis que me agrada terdes vindo até aqui;
 

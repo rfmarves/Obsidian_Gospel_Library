@@ -1,10 +1,11 @@
 ---
 title: sw Hebrews 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hebrews 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Son is in the express image of the person of the Father—Christ is the Only Begotten Son and thus above the angels.
 
----
 ###### 1 
 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,
 

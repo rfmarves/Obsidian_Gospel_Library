@@ -1,22 +1,21 @@
 ---
 title: 1 Néfi 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Néfi 9
 [[1 Néfi 8| <-- 1 Néfi 8]] | [[1 Néfi]] | [[1 Néfi 10|1 Néfi 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Néfi faz dois conjuntos de registros — Cada um é chamado de placas de Néfi — As placas maiores contêm uma história secular; as menores tratam principalmente de coisas sagradas. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 E todas estas coisas meu pai viu e ouviu e disse enquanto vivia numa tenda, no vale de Lemuel; e também muitas outras mais que não podem ser escritas nestas placas.
 

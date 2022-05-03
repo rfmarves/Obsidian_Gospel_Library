@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 20
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/20?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David prays that the Lord will hear in time of trouble—The Lord saves His anointed.
 
----
 ###### 1 
 The  hear thee in the day of trouble; the name of the God of Jacob defend thee;
 

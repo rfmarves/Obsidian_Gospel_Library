@@ -1,22 +1,21 @@
 ---
 title: Marcos 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 4
 [[Marcos 3| <-- Marcos 3]] | [[Marcos]] | [[Marcos 5|Marcos 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus conta a parábola do semeador, a da candeia debaixo do alqueire, a da semente que cresce secretamente e a do grão de mostarda — Ele acalma a tempestade.
 
----
 ###### 1 
 E outra vez começou a ensinar junto do mar, e juntou-se a ele  grande multidão, de sorte que ele, entrando em um barco, se assentou  no mar; e toda a multidão estava em terra junto do mar.
 

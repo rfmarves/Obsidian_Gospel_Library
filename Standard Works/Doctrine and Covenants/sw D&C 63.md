@@ -1,10 +1,11 @@
 ---
 title: sw D&C 63
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 63
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/63?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, A day of wrath will come upon the wicked; 7–12, Signs come by faith; 13–19, The adulterous in heart will deny the faith and be cast into the lake of fire; 20, The faithful will receive an inheritance upon the transfigured earth; 21, A full account of the events on the Mount of Transfiguration has not yet been revealed; 22–23, The obedient receive the mysteries of the kingdom; 24–31, Inheritances in Zion are to be purchased; 32–35, The Lord decrees wars, and the wicked slay the wicked; 36–48, The Saints are to gather to Zion and provide moneys to build it up; 49–54, Blessings are assured the faithful at the Second Coming, in the Resurrection, and during the Millennium; 55–58, This is a day of warning; 59–66, The Lord’s name is taken in vain by those who use it without authority.
 
----
 ###### 1 
 Hearken, O ye people, and open your hearts and give ear from afar; and listen, you that call yourselves the people of the Lord, and hear the word of the Lord and his will concerning you.
 

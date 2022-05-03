@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 7
 [[Deuteronômio 6| <-- Deuteronômio 6]] | [[Deuteronômio]] | [[Deuteronômio 8|Deuteronômio 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel deve destruir as sete nações de Canaã — Proíbe-se o casamento com elas para que isso não resulte em apostasia — Israel tem uma missão como povo santo e escolhido — O Senhor tem misericórdia para com os que O amam e guardam os Seus mandamentos — Ele promete remover as enfermidades de Israel se eles forem obedientes.
 
----
 ###### 1 
 Quando o  teu Deus te tiver introduzido na terra, à qual vais para a possuir, e tiver lançado fora muitas nações de diante de ti, os heteus, e os girgaseus, e os amorreus, e os cananeus, e os perizeus, e os heveus, e os jebuseus, sete nações mais numerosas e mais poderosas do que tu,
 

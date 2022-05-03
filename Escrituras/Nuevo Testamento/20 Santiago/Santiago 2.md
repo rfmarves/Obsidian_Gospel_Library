@@ -1,22 +1,21 @@
 ---
 title: Santiago 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Santiago 2
 [[Santiago 1| <-- Santiago 1]] | [[Santiago]] | [[Santiago 3|Santiago 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/james/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/james/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dios ha escogido a los pobres de este mundo que son ricos en fe — La salvación se obtiene al guardar toda la ley — La fe sin obras es muerta.
 
----
 ###### 1 
 Hermanos míos, que vuestra fe en nuestro glorioso Señor Jesucristo sea sin hacer acepción de personas.
 

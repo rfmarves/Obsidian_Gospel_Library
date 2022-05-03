@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Samuel testifies of his own just dealings in Israel—He reproves the people for their ingratitude—He exhorts them to keep the commandments lest the Lord consume them and their king.
 
----
 ###### 1 
 And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you.
 

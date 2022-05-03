@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 John sees the celestial earth, the throne of God, and all created things worshipping the Lord.
 
----
 ###### 1 
 After this I looked, and, behold, a door  opened in heaven: and the first voice which I heard  as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.
 

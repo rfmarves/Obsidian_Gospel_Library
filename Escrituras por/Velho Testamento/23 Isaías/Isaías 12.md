@@ -1,22 +1,21 @@
 ---
 title: Isaías 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 12
 [[Isaías 11| <-- Isaías 11]] | [[Isaías]] | [[Isaías 13|Isaías 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 No dia milenar, todos os homens louvarão ao Senhor — Ele habitará entre eles — Comparar com 2 Néfi 22.
 
----
 ###### 1 
 E dirás naquele dia: Graças te dou, ó , porque,  te iraste contra mim,  a tua ira se retirou, e tu me consolas.
 

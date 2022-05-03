@@ -1,27 +1,25 @@
 ---
 title: Alma 21
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 21
 [[Alma 20| <-- Alma 20]] | [[Alma]] | [[Alma 22|Alma 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/21?lang=por)
 
----
+```
 Relato da prédica de Aarão e Mulóqui e seus irmãos aos lamanitas.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Aarão ensina os amalequitas a respeito de Cristo e Sua Expiação — Aarão e seus irmãos são aprisionados em Midôni — Após sua libertação, eles ensinam nas sinagogas e fazem muitos conversos — Lamôni concede liberdade religiosa ao povo, na terra de Ismael. Aproximadamente 90–77 a.C.
 
----
 ###### 1 
 Ora, quando Amon e seus irmãos se separaram nas fronteiras da terra dos lamanitas, eis que Aarão seguiu viagem para a terra que os lamanitas denominavam Jerusalém, em memória da terra natal de seus pais; e ficava distante e confinava com as fronteiras de Mórmon.
 

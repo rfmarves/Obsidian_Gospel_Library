@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel accepts the word of the Lord by covenant—Moses sprinkles the blood of the covenant—He, Aaron, Nadab, Abihu, and seventy of the elders of Israel see God—The Lord calls Moses on to the mount to receive the tables of stone and commandments.
 
----
 ###### 1 
 And he said unto Moses, Come up unto the , thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off.
 

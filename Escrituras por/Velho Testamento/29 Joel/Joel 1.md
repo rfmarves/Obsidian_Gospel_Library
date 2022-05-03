@@ -1,22 +1,21 @@
 ---
 title: Joel 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Joel 1
 [[Oseias 14| <-- Oseias 14]] | [[Joel]] | [[Joel 2|Joel 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/joel/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/joel/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Convocai uma assembleia solene e reuni-vos na casa do Senhor, porque o dia do Senhor está perto.
 
----
 ###### 1 
 Palavra do , que foi dirigida a Joel, filho de Petuel.
 

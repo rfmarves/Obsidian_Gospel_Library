@@ -1,10 +1,11 @@
 ---
 title: sw D&C 110
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 110
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–10, The Lord Jehovah appears in glory and accepts the Kirtland Temple as His house; 11–12, Moses and Elias each appear and commit their keys and dispensations; 13–16, Elijah returns and commits the keys of his dispensation as promised by Malachi.
 
----
 ###### 1 
 The veil was taken from our minds, and the eyes of our understanding were opened.
 

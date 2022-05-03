@@ -1,22 +1,21 @@
 ---
 title: Gênesis 37
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 37
 [[Gênesis 36| <-- Gênesis 36]] | [[Gênesis]] | [[Gênesis 38|Gênesis 38 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/37?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/37?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó ama e favorece José, que é odiado pelos irmãos — José sonha que seus pais e irmãos se inclinam diante dele — Seus irmãos vendem-no ao Egito.
 
----
 ###### 1 
 E Jacó habitou na terra das peregrinações de seu pai, na terra de Canaã.
 

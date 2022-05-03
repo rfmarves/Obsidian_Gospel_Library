@@ -1,22 +1,21 @@
 ---
 title: Jueces 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 20
 [[Jueces 19| <-- Jueces 19]] | [[Jueces]] | [[Jueces 21|Jueces 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Todo Israel se levanta en contra de los hijos de Benjamín, quienes se niegan a entregar a los hombres de Gabaa — Los de la tribu de Benjamín son derribados y destruidos.
 
----
 ###### 1 
 Entonces salieron todos los hijos de Israel, y se reunió la congregación como un solo hombre, desde Dan hasta Beerseba y la tierra de Galaad, ante Jehová en Mizpa.
 

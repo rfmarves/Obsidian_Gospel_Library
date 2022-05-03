@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel murmurs for want of water—Moses smites a rock in Horeb, and water gushes forth—Aaron and Hur uphold Moses’ hands so that Joshua prevails against Amalek.
 
----
 ###### 1 
 And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the , and pitched in Rephidim: and  no water for the people to drink.
 

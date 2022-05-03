@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Two kings on the east of the Jordan and thirty-one on the west are conquered by Israel.
 
----
 ###### 1 
 Now these  the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:
 

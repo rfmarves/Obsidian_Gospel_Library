@@ -1,22 +1,21 @@
 ---
 title: Romanos 13
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 13
 [[Romanos 12| <-- Romanos 12]] | [[Romanos]] | [[Romanos 14|Romanos 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo aconselha: Sujeitai-vos aos ministros de Deus; guardai os mandamentos; amai-vos uns aos outros; a retidão conduz à salvação.
 
----
 ###### 1 
 Toda alma esteja sujeita às autoridades superiores; porque não há autoridade senão de Deus; e as autoridades que há são ordenadas por Deus.
 

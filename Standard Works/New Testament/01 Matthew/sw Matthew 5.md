@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus preaches the Sermon on the Mount—Its teachings replace and transcend some aspects of the law of Moses—All are commanded to be perfect like their Father in Heaven.
 
----
 ###### 1 
 And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:
 

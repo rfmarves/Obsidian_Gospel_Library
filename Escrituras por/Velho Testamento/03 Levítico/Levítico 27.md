@@ -1,22 +1,21 @@
 ---
 title: Levítico 27
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 27
 [[Levítico 26| <-- Levítico 26]] | [[Levítico]] | [[Números 1|Números 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/27?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Explica-se como as propriedades são consagradas ao Senhor — Ordena-se que Israel pague dízimos de suas colheitas, do gado e dos rebanhos.
 
----
 ###### 1 
 Falou mais o  a Moisés, dizendo:
 

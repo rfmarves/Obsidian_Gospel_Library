@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 30
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 30
 [[2 Nefi 29| <-- 2 Nefi 29]] | [[2 Nefi]] | [[2 Nefi 31|2 Nefi 31 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/30?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/30?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los gentiles convertidos serán contados entre los del pueblo del convenio — Muchos lamanitas y muchos judíos creerán en la palabra y llegarán a ser deleitables — Israel será restaurado y los inicuos serán destruidos. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Y ahora bien, he aquí, amados hermanos míos, quisiera hablaros; porque yo, Nefi, no quisiera permitiros suponer que sois más justos de lo que serán los gentiles. Pues he aquí, a no ser que guardéis los mandamientos de Dios, todos pereceréis igualmente; y a causa de las palabras que se han dicho, no debéis suponer que los gentiles serán totalmente destruidos.
 

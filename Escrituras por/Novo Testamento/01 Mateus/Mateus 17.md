@@ -1,22 +1,21 @@
 ---
 title: Mateus 17
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 17
 [[Mateus 16| <-- Mateus 16]] | [[Mateus]] | [[Mateus 18|Mateus 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus se transfigura diante de Pedro, Tiago e João no monte — Jesus cura um lunático, fala de Sua morte que se aproxima e paga os tributos de uma forma milagrosa.
 
----
 ###### 1 
 Seis dias depois, Jesus levou consigo Pedro, e Tiago, e João, seu irmão, e os conduziu em particular a um alto monte,
 

@@ -1,22 +1,21 @@
 ---
 title: Mosias 12
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 12
 [[Mosias 11| <-- Mosias 11]] | [[Mosias]] | [[Mosias 13|Mosias 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Abinádi é aprisionado por profetizar a destruição do povo e a morte do rei Noé — Os falsos sacerdotes citam as escrituras e alegam guardar a lei de Moisés — Abinádi começa a ensinar-lhes os Dez Mandamentos. Aproximadamente 148 a.C.
 
----
 ###### 1 
 E aconteceu que, passados dois anos, Abinádi voltou para o meio deles disfarçado, de modo que não o reconheceram, e começou a profetizar entre eles, dizendo: Assim me ordenou o Senhor, dizendo: Abinádi, vai e profetiza a este meu povo, porque endureceram o coração contra as minhas palavras; eles não se arrependeram de suas más obras; portanto, visitá-los-ei com minha ira, sim, com minha furiosa ira visitá-los-ei em suas iniquidades e abominações.
 

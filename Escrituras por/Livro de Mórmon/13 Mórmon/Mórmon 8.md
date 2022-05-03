@@ -1,22 +1,21 @@
 ---
 title: Mórmon 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mórmon 8
 [[Mórmon 7| <-- Mórmon 7]] | [[Mórmon]] | [[Mórmon 9|Mórmon 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os lamanitas perseguem e matam os nefitas — O Livro de Mórmon aparecerá pelo poder de Deus — Aflições pronunciadas sobre aqueles que exalam ira e lutam contra a obra do Senhor — O registro nefita aparecerá num dia de iniquidade, degeneração e apostasia. Aproximadamente 400–421 d.C.
 
----
 ###### 1 
 E eis que eu, Morôni, termino o registro de meu pai, Mórmon. Eis que tenho poucas coisas para escrever, coisas que me foram ordenadas por meu pai.
 

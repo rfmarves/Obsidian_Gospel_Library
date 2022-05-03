@@ -1,10 +1,11 @@
 ---
 title: sw Job 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job curses the circumstances of his birth—He asks, Why died I not from the womb?
 
----
 ###### 1 
 After this opened Job his mouth, and cursed his day.
 

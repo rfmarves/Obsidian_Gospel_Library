@@ -1,22 +1,21 @@
 ---
 title: 3 Néfi 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Néfi 8
 [[3 Néfi 7| <-- 3 Néfi 7]] | [[3 Néfi]] | [[3 Néfi 9|3 Néfi 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Tempestades, terremotos, incêndios, furacões e cataclismos atestam a crucificação de Cristo — Muita gente é morta — Trevas cobrem a terra por três dias — Os sobreviventes lamentam seu destino. Aproximadamente 33–34 d.C.
 
----
 ###### 1 
 E então aconteceu que, segundo nosso registro, e sabemos que nosso registro é verdadeiro, pois eis que foi feito por um homem justo — pois em verdade fez muitos milagres em nome de Jesus; e nenhum homem havia que pudesse fazer um milagre em nome de Jesus, se não estivesse completamente limpo de suas iniquidades —
 

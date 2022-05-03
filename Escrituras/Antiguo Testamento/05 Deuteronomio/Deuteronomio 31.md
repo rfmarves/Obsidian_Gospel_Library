@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 31
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 31
 [[Deuteronomio 30| <-- Deuteronomio 30]] | [[Deuteronomio]] | [[Deuteronomio 32|Deuteronomio 32 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/31?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/31?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moisés aconseja a Josué y a todo Israel esforzarse y animarse — Ha de leerse la ley a todo Israel cada siete años — Israel seguirá a dioses falsos y se corromperá.
 
----
 ###### 1 
 Y fue Moisés y habló estas palabras a todo Israel,
 

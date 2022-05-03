@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 16
 [[2 Reis 15| <-- 2 Reis 15]] | [[2 Reis]] | [[2 Reis 17|2 Reis 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Acaz reina iniquamente em Judá — Ele oferece seu filho em sacrifício pagão — Ele faz um novo altar, destrói o mar de bronze e muda o método de sacrifícios no templo.
 
----
 ###### 1 
 No ano dezessete de Peca, filho de Remalias, começou a reinar Acaz, filho de Jotão, rei de Judá.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 17
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ephraim and Syria wage war against Judah—Christ will be born of a virgin—Compare Isaiah 7. About 559–545 B.C.
 
----
 ###### 1 
 And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin, king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.
 

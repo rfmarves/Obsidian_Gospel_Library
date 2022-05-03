@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 David marries wives, begets children, and defeats the Philistines; his fame spreads to all nations.
 
----
 ###### 1 
 Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house.
 

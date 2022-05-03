@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 The tables of stone containing the Ten Commandments are placed in the ark—All that God requires is that Israel love and serve Him—How great and mighty is the Lord!
 
----
 ###### 1 
 At that time the  said unto me, Hew thee two tables of stone like unto the first, and come up unto me into the mount, and make thee an ark of wood.
 

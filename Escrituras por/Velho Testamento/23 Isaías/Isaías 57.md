@@ -1,22 +1,21 @@
 ---
 title: Isaías 57
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 57
 [[Isaías 56| <-- Isaías 56]] | [[Isaías]] | [[Isaías 58|Isaías 58 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/57?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/57?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Quando os justos morrem, eles entram na paz — Promete-se misericórdia ao penitente — Não há paz para os ímpios.
 
----
 ###### 1 
 Perece o justo, e não  quem considere isso  seu coração, e os homens compassivos são recolhidos, sem que alguém considere que o justo é recolhido antes do mal.
 

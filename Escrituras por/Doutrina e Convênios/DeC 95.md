@@ -1,22 +1,21 @@
 ---
 title: DeC 95
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 95
 [[DeC 94| <-- DeC 94]] | [[DeC]] | [[DeC 96|DeC 96 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/95?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/95?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–6, Os santos são repreendidos por não terem construído a casa do Senhor; 7–10, O Senhor deseja usar a Sua casa para investir o Seu povo de poder do alto; 11–17, Deve-se dedicar a casa como local de adoração e escola dos Apóstolos.
 
----
 ###### 1 
 Em verdade assim diz o Senhor a vós, a quem amo; e a quem amo também castigo, para que seus pecados sejam perdoados, pois com o castigo preparo um meio para livrá-los da tentação em todas as coisas; e eu vos amo —
 

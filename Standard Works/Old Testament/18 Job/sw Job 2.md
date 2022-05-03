@@ -1,10 +1,11 @@
 ---
 title: sw Job 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Satan obtains permission from the Lord to afflict Job physically—Job is smitten with boils—Eliphaz, Bildad, and Zophar come to comfort him.
 
----
 ###### 1 
 Again there was a day when the sons of God came to present themselves before the , and Satan came also among them to present himself before the .
 

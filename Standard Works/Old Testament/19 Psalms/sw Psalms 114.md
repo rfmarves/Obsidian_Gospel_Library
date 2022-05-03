@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 114
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 114
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/114?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord governs the sea and the land for the blessing of His people.
 
----
 ###### 1 
 When Israel went out of Egypt, the house of Jacob from a people of strange language;
 

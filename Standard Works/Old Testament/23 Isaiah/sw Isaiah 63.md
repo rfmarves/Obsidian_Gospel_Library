@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 63
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 63
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/63?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Second Coming will be a day of vengeance and also the year of the redeemed of the Lord—Then the Saints will praise the Lord and acknowledge Him as their father.
 
----
 ###### 1 
 Who  this that cometh from Edom, with dyed garments from Bozrah? this  glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.
 

@@ -1,22 +1,21 @@
 ---
 title: DyC 53
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 53
 [[DyC 52| <-- DyC 52]] | [[DyC]] | [[DyC 54|DyC 54 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/53?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/53?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–3, El llamamiento y elección de Sidney Gilbert en la Iglesia es el de ser ordenado élder; 4–7, También ha de servir como agente del obispo.
 
----
 ###### 1 
 He aquí, te digo, mi siervo Sidney Gilbert, que he oído tus oraciones; y has recurrido a mí para que el Señor tu Dios te manifieste lo concerniente a tu llamamiento y elección en la iglesia que yo, el Señor, he levantado en estos días.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 26
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 26
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/26?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David says that he has walked in integrity and obedience—He loves the Lord’s house.
 
----
 ###### 1 
 Judge me, O ; for I have walked in mine integrity: I have trusted also in the ;  I shall not slide.
 

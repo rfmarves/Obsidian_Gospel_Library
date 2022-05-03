@@ -1,10 +1,11 @@
 ---
 title: sw Ephesians 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ephesians 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/eph/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Gentiles are fellow heirs with Israel—The love of Christ surpasses all understanding.
 
----
 ###### 1 
 For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,
 

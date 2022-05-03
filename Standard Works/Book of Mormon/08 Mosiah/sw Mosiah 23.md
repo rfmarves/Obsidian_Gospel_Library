@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 23
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 23
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/23?lang=eng)
 
----
+```
 An account of Alma and the people of the Lord, who were driven into the wilderness by the people of King Noah.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Alma refuses to be king—He serves as high priest—The Lord chastens His people, and the Lamanites conquer the land of Helam—Amulon, leader of King Noah’s wicked priests, rules subject to the Lamanite monarch. About 145–121 B.C.
 
----
 ###### 1 
 Now Alma, having been warned of the Lord that the armies of king Noah would come upon them, and having made it known to his people, therefore they gathered together their flocks, and took of their grain, and departed into the wilderness before the armies of king Noah.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 46
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 46
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/46?lang=eng)
 
----
-__Summary__
+> __Summary__
 Idols are not to be compared with the Lord—He alone is God and will save Israel.
 
----
 ###### 1 
 Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages  heavy loaden;  a burden to the weary 
 

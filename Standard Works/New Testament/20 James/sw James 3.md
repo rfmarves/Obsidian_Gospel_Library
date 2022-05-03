@@ -1,10 +1,11 @@
 ---
 title: sw James 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw James 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/james/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 By governing the tongue, we gain perfection—Heavenly wisdom is pure, peaceable, and full of mercy.
 
----
 ###### 1 
 My brethren, be not many masters, knowing that we shall receive the greater condemnation.
 

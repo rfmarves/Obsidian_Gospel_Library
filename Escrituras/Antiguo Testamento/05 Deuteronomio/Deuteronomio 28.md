@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 28
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 28
 [[Deuteronomio 27| <-- Deuteronomio 27]] | [[Deuteronomio]] | [[Deuteronomio 29|Deuteronomio 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Si los hijos de Israel son obedientes, serán bendecidos temporal y espiritualmente — Si son desobedientes, serán maldecidos, heridos y destruidos; les sobrevendrán enfermedades, plagas y opresión; servirán a dioses falsos y serán motivo de burla entre todas las naciones; naciones temibles los esclavizarán; se comerán a sus propios hijos y serán esparcidos entre todas las naciones.
 
----
 ###### 1 
 Y acontecerá que si escuchas diligentemente la voz de Jehová tu Dios, para guardar y para poner por obra todos sus mandamientos que yo te prescribo hoy, Jehová tu Dios te pondrá en alto sobre todas las naciones de la tierra.
 

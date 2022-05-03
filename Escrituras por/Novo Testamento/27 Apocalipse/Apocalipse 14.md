@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 14
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 14
 [[Apocalipse 13| <-- Apocalipse 13]] | [[Apocalipse]] | [[Apocalipse 15|Apocalipse 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Cordeiro estará sobre o Monte Sião — O evangelho será restaurado nos últimos dias pelo ministério angélico — O Filho do Homem ceifará a Terra.
 
----
 ###### 1 
 E olhei, e eis que estava o Cordeiro sobre o monte Sião, e com ele cento e quarenta e quatro mil, que em sua testa tinham escrito o nome de seu Pai.
 

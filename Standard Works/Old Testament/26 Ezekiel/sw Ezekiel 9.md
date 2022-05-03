@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel sees the marking of the righteous and the slaughter of all others, beginning at the Lord’s sanctuary.
 
----
 ###### 1 
 He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man  his destroying weapon in his hand.
 

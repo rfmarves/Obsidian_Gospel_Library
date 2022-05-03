@@ -1,22 +1,21 @@
 ---
 title: João 12
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 12
 [[João 11| <-- João 11]] | [[João]] | [[João 13|João 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Maria unge os pés de Jesus — Narra-se Sua entrada triunfal em Jerusalém — Ele prediz Sua morte — Receber Cristo é receber o Pai.
 
----
 ###### 1 
 Foi, pois, Jesus seis dias antes da páscoa a Betânia, onde estava Lázaro, o que falecera, e a quem ressuscitara dos mortos.
 

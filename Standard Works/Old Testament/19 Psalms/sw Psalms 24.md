@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 24
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/24?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David testifies, The earth is the Lord’s and the fulness thereof, he who has clean hands and a pure heart will ascend unto the hill of the Lord, and the Lord of Hosts is the King of Glory.
 
----
 ###### 1 
 The earth  the ’s, and the fulness thereof; the world, and they that dwell therein.
 

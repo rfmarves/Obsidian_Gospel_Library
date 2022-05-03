@@ -1,22 +1,21 @@
 ---
 title: Jeremias 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 6
 [[Jeremias 5| <-- Jeremias 5]] | [[Jeremias]] | [[Jeremias 7|Jeremias 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jerusalém será destruída por causa de sua iniquidade — Ela será derrotada por uma nação grande e cruel.
 
----
 ###### 1 
 Fugi em tropas, filhos de Benjamim, do meio de Jerusalém; e tocai a buzina em Tecoa, e levantai o facho sobre Bete-Haquerém, porque do lado do norte aparece um mal e uma grande destruição.
 

@@ -1,22 +1,21 @@
 ---
 title: Moroni 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moroni 2
 [[Moroni 1| <-- Moroni 1]] | [[Moroni]] | [[Moroni 3|Moroni 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús dio a los doce discípulos nefitas poder para conferir el don del Espíritu Santo. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 Las palabras de Cristo, las cuales habló a sus discípulos, los doce que había escogido, al imponerles las manos.
 

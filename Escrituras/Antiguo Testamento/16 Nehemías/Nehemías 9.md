@@ -1,22 +1,21 @@
 ---
 title: Nehemías 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nehemías 9
 [[Nehemías 8| <-- Nehemías 8]] | [[Nehemías]] | [[Nehemías 10|Nehemías 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los judíos ayunan y confiesan sus pecados — Los levitas bendicen y alaban a Jehová, y hacen memoria de Su bondad para con Israel.
 
----
 ###### 1 
 Y el día veinticuatro del mismo mes se reunieron los hijos de Israel en ayuno, y con cilicio y polvo sobre sí.
 

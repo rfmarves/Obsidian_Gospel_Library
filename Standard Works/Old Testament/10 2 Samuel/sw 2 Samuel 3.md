@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The houses of David and Saul engage in a long war—David grows stronger—Abner joins David but is slain by Joab—David mourns for Abner.
 
----
 ###### 1 
 Now there was long war between the house of Saul and the house of David: but David waxed stronger and stronger, and the house of Saul waxed weaker and weaker.
 

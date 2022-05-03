@@ -1,10 +1,11 @@
 ---
 title: sw Mark 13
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus tells of the calamities and signs preceding the Second Coming—There will be false Christs and false prophets—He gives the parable of the fig tree.
 
----
 ###### 1 
 And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings 
 

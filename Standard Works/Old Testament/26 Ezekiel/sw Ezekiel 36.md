@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 36
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 36
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/36?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, all the house of Israel will be gathered to their own lands—The Lord will give them a new heart and a new spirit—They will have His gospel law.
 
----
 ###### 1 
 Also, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the :
 

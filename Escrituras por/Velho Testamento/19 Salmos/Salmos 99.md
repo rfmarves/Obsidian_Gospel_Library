@@ -1,22 +1,21 @@
 ---
 title: Salmos 99
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 99
 [[Salmos 98| <-- Salmos 98]] | [[Salmos]] | [[Salmos 100|Salmos 100 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/99?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/99?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor é grande em Sião — Exaltai ao Senhor e adorai-o diante de Seu escabelo, pois Ele é santo.
 
----
 ###### 1 
 O  reina; tremam as nações; está assentado  os querubins; comova-se a terra.
 

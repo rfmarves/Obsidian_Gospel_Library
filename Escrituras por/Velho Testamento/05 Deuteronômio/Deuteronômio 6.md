@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 6
 [[Deuteronômio 5| <-- Deuteronômio 5]] | [[Deuteronômio]] | [[Deuteronômio 7|Deuteronômio 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés proclama: O Senhor nosso Deus é o único Senhor; e também: Amarás o Senhor teu Deus — Os filhos de Israel recebem o mandamento de ensinar seus filhos — Moisés os exorta a cumprir os mandamentos, testemunhos e estatutos do Senhor para que prosperem.
 
----
 ###### 1 
 Estes, pois,  os mandamentos, os estatutos e os juízos que o  vosso Deus ordenou ensinar-vos, para que  cumprísseis na terra a que passais para possuí-la;
 

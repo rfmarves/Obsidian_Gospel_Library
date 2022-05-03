@@ -1,22 +1,21 @@
 ---
 title: Levítico 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 13
 [[Levítico 12| <-- Levítico 12]] | [[Levítico]] | [[Levítico 14|Levítico 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Revelam-se leis e sinais para reconhecimento e controle da lepra — As roupas do leproso serão queimadas.
 
----
 ###### 1 
 Falou mais o  a Moisés e a Aarão, dizendo:
 

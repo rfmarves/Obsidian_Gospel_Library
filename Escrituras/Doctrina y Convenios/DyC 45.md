@@ -1,22 +1,21 @@
 ---
 title: DyC 45
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 45
 [[DyC 44| <-- DyC 44]] | [[DyC]] | [[DyC 46|DyC 46 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, Cristo es nuestro intercesor ante el Padre; 6–10, El Evangelio es un mensajero para preparar el camino delante del Señor; 11–15, Enoc y sus hermanos fueron recibidos por el Señor; 16–23, Cristo reveló las señales de Su venida cual se dieron sobre el monte de los Olivos; 24–38, El Evangelio será restaurado, se cumplirán los tiempos de los gentiles y una enfermedad desoladora cubrirá la tierra; 39–47, Señales, maravillas y la Resurrección acompañarán la Segunda Venida; 48–53, Cristo asentará el pie sobre el monte de los Olivos y los judíos verán las heridas en Sus manos y en Sus pies; 54–59, El Señor reinará durante el Milenio; 60–62, Se manda al Profeta que comience la traducción del Nuevo Testamento, mediante lo cual se daría a conocer información importante; 63–75, Se manda a los santos congregarse y edificar la Nueva Jerusalén, a la cual vendrán personas de todas las naciones.
 
----
 ###### 1 
 Escuchad, oh pueblo de mi iglesia, vosotros a quienes el reino ha sido dado; escuchad y dad oído al que puso los fundamentos de la tierra, que hizo los cielos y todas sus huestes, y por quien fueron hechas todas las cosas que viven, se mueven y tienen su ser.
 

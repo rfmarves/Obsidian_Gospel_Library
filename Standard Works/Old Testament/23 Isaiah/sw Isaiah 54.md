@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 54
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 54
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/54?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, Zion and her stakes will be established, and Israel will be gathered in mercy and tenderness—Israel will triumph—Compare 3 Nephi 22.
 
----
 ###### 1 
 Sing, O barren, thou  didst not bear; break forth into singing, and cry aloud, thou  didst not travail with child: for more  the children of the desolate than the children of the married wife, saith the .
 

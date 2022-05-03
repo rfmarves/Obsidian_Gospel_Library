@@ -1,22 +1,21 @@
 ---
 title: Eclesiastes 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastes 8
 [[Eclesiastes 7| <-- Eclesiastes 7]] | [[Eclesiastes]] | [[Eclesiastes 9|Eclesiastes 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ninguém tem poder para evitar a morte — O ímpio não se dará bem; ele se volta ao prazer e não pode encontrar sabedoria.
 
----
 ###### 1 
 Quem  tal como o sábio? e quem sabe a interpretação das coisas? A sabedoria do homem alumia o seu rosto, e muda-se a dureza do seu rosto.
 

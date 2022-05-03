@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 48
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 48
 [[Ezequiel 47| <-- Ezequiel 47]] | [[Ezequiel]] | [[Daniel 1|Daniel 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/48?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/48?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mencionam-se as porções de terra correspondentes a cada tribo — As portas da cidade recebem o nome das tribos — O nome da cidade será: O Senhor está ali.
 
----
 ###### 1 
 E estes são os nomes das tribos: desde o fim do norte, do lado do caminho de Hetlom, indo para Hamate, Hazar-Enom, o termo de Damasco para o norte, ao pé de Hamate; e ela terá o lado do oriente  do ocidente; Dã  uma 
 

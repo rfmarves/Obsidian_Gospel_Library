@@ -1,25 +1,24 @@
 ---
 title: 1 Reis 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 1
 [[2 Samuel 24| <-- 2 Samuel 24]] | [[1 Reis]] | [[1 Reis 2|1 Reis 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/1?lang=por)
 
 1 Reis
 Comumente Chamado de Terceiro Livro dos Reis
 
----
-__Resumo__
+> __Resumo__
 Abisague acalenta Davi em sua velhice — Adonias aspira ao trono — Bate-Seba e Natã avisam Davi da conspiração de Adonias — Davi nomeia Salomão rei, e este é ungido por Zadoque — A causa de Adonias fracassa.
 
----
 ###### 1 
 Sendo, pois, o rei Davi já velho,  avançado em dias, cobriam-no de vestes, porém não se aquecia.
 

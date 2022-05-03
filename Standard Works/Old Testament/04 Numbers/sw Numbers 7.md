@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 The princes of Israel make offerings for the tabernacle at its dedication—The Lord speaks to Moses from the mercy seat, between the cherubim, upon the ark.
 
----
 ###### 1 
 And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them;
 

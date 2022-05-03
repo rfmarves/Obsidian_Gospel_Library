@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 27
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 27
 [[1 Samuel 26| <-- 1 Samuel 26]] | [[1 Samuel]] | [[1 Samuel 28|1 Samuel 28 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/27?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi foge para Aquis, em Gate — Ele mora entre os filisteus por dezesseis meses.
 
----
 ###### 1 
 Disse, porém, Davi no seu coração: Ora,  algum dia perecerei pela mão de Saul; não há coisa melhor para mim do que escapar apressadamente para a terra dos filisteus, para que Saul perca a esperança a meu respeito, e cesse de me buscar por todos os termos de Israel; e  escaparei da sua mão.
 

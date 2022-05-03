@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 21
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus rides in triumph into Jerusalem—He cleanses the temple, curses the fig tree, and discusses authority—He gives the parables of the two sons and the wicked husbandmen.
 
----
 ###### 1 
 And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,
 

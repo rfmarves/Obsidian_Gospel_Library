@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 30
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 30
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/30?lang=eng)
 
----
-__Summary__
+> __Summary__
 Every word of God is pure—Give me neither poverty nor riches.
 
----
 ###### 1 
 The words of Agur the son of Jakeh,  the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,
 

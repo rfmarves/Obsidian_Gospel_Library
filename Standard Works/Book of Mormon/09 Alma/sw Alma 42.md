@@ -1,10 +1,11 @@
 ---
 title: sw Alma 42
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 42
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mortality is a probationary time to enable man to repent and serve God—The Fall brought temporal and spiritual death upon all mankind—Redemption comes through repentance—God Himself atones for the sins of the world—Mercy is for those who repent—All others are subject to God’s justice—Mercy comes because of the Atonement—Only the truly penitent are saved. About 74 B.C.
 
----
 ###### 1 
 And now, my son, I perceive there is somewhat more which doth worry your mind, which ye cannot understand—which is concerning the justice of God in the punishment of the sinner; for ye do try to suppose that it is injustice that the sinner should be consigned to a state of misery.
 

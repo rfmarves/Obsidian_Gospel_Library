@@ -1,27 +1,25 @@
 ---
 title: Salmos 50
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 50
 [[Salmos 49| <-- Salmos 49]] | [[Salmos]] | [[Salmos 51|Salmos 51 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/50?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/50?lang=spa)
 
----
+```
 Salmo de Asaf.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Asaf habla de la Segunda Venida — Jehová acepta los sacrificios de los justos y los librará — Aquellos cuya conducta sea justa verán la salvación de Dios.
 
----
 ###### 1 
 
 

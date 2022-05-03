@@ -1,10 +1,11 @@
 ---
 title: sw Nehemiah 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nehemiah 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The names and order of those who help to build the walls and gates of Jerusalem are listed.
 
----
 ###### 1 
 Then Eliashib the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel.
 

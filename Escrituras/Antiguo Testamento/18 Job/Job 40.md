@@ -1,22 +1,21 @@
 ---
 title: Job 40
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 40
 [[Job 39| <-- Job 39]] | [[Job]] | [[Job 41|Job 41 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/40?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/40?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová desafía a Job a responder, y Job contesta con humildad — Jehová habla de Su poder a Job — Él le pregunta: ¿Tienes tú un brazo como el de Dios? — Jehová da muestra de Su poder en el behemot.
 
----
 ###### 1 
 Entonces respondió Jehová a Job y dijo:
 

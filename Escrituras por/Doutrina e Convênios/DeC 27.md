@@ -1,22 +1,21 @@
 ---
 title: DeC 27
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 27
 [[DeC 26| <-- DeC 26]] | [[DeC]] | [[DeC 28|DeC 28 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, Indicados os emblemas a serem usados na distribuição do sacramento; 5–14, Cristo e Seus servos de todas as dispensações participarão do sacramento; 15–18, Revesti-vos de toda a armadura de Deus.
 
----
 ###### 1 
 Ouvi a voz de Jesus Cristo, vosso Senhor, vosso Deus e vosso Redentor, cuja palavra é viva e poderosa.
 

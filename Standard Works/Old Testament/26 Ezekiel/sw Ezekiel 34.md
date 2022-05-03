@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 34
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 34
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord reproves those shepherds who do not feed the flock—In the last days, the Lord will gather the lost sheep of Israel—The Messiah will be their Shepherd—The Lord will make His gospel covenant with them.
 
----
 ###### 1 
 And the word of the  came unto me, saying,
 

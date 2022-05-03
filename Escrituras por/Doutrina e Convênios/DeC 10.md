@@ -1,22 +1,21 @@
 ---
 title: DeC 10
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 10
 [[DeC 9| <-- DeC 9]] | [[DeC]] | [[DeC 11|DeC 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–26, Satanás incita homens iníquos a oporem-se à obra do Senhor; 27–33, Ele procura destruir a alma dos homens; 34–52, O evangelho deve chegar aos lamanitas e a todas as nações por meio do Livro de Mórmon; 53–63, O Senhor estabelecerá Sua Igreja e Seu evangelho entre os homens; 64–70, Ele reunirá em Sua Igreja os que se arrependerem e salvará os obedientes.
 
----
 ###### 1 
 Agora, eis que te digo que porque entregaste esses escritos, que recebeste poder para traduzir por meio do Urim e Tumim, nas mãos de um homem iníquo, tu os perdeste.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 46
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 46
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/46?lang=eng)
 
----
-__Summary__
+> __Summary__
 The ordinances of worship and of sacrifice are explained.
 
----
 ###### 1 
 Thus saith the Lord ; The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath it shall be opened, and in the day of the new moon it shall be opened.
 

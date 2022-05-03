@@ -1,22 +1,21 @@
 ---
 title: João 5
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 5
 [[João 4| <-- João 4]] | [[João]] | [[João 6|João 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus cura um inválido no Sábado — Ele explica por que os homens devem honrar o Filho — Jesus promete levar o evangelho aos mortos — O homem é ressuscitado e julgado e recebe sua glória pelo Filho — Jesus obedece à lei divina de testemunhas.
 
----
 ###### 1 
 Depois disso havia  festa entre os judeus, e Jesus subiu a Jerusalém.
 

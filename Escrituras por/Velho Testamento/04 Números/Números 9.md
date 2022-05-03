@@ -1,22 +1,21 @@
 ---
 title: Números 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 9
 [[Números 8| <-- Números 8]] | [[Números]] | [[Números 10|Números 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ordena-se novamente que Israel comemore a Páscoa — Uma nuvem cobre o tabernáculo de dia e de noite, e há também um fogo de noite — Quando a nuvem se detém, Israel acampa; quando a nuvem se alça, eles partem.
 
----
 ###### 1 
 E falou o  a Moisés no deserto de Sinai, no ano segundo da sua saída da terra do Egito, no mês primeiro, dizendo:
 

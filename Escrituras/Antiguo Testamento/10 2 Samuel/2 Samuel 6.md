@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 6
 [[2 Samuel 5| <-- 2 Samuel 5]] | [[2 Samuel]] | [[2 Samuel 7|2 Samuel 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David lleva el arca a la Ciudad de David — Uza es herido y cae muerto por haber tocado el arca para sostenerla — David danza delante de Jehová, lo cual provoca la ruptura entre él y Mical.
 
----
 ###### 1 
 Y David volvió a reunir a todos los escogidos de Israel, treinta mil.
 

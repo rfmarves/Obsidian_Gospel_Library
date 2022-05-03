@@ -1,10 +1,11 @@
 ---
 title: sw Mark 12
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus gives the parable of the wicked husbandmen—He speaks of paying taxes, celestial marriage, the two great commandments, the divine sonship of Christ, and the widow’s mites.
 
----
 ###### 1 
 And he began to speak unto them by parables. A  man planted a vineyard, and set an hedge about  and digged  the winefat, and built a tower, and let it out to husbandmen, and went into a far country.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 20
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Some Lamanite daughters are abducted by the priests of Noah—The Lamanites wage war upon Limhi and his people—The Lamanite hosts are repulsed and pacified. About 145–123 B.C.
 
----
 ###### 1 
 Now there was a place in Shemlon where the daughters of the Lamanites did gather themselves together to sing, and to dance, and to make themselves merry.
 

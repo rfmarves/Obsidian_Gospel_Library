@@ -1,22 +1,21 @@
 ---
 title: 2 Pedro 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Pedro 2
 [[2 Pedro 1| <-- 2 Pedro 1]] | [[2 Pedro]] | [[2 Pedro 3|2 Pedro 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los falsos maestros que haya entre los santos serán condenados — Los santos dominados por las bajas pasiones perecerán en su propia corrupción.
 
----
 ###### 1 
 Pero hubo también falsos profetas entre el pueblo, como habrá entre vosotros falsos maestros que introducirán encubiertamente herejías destructivas, y hasta negarán al Señor que los rescató, atrayendo sobre sí mismos una destrucción repentina.
 

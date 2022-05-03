@@ -1,22 +1,21 @@
 ---
 title: Alma 58
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 58
 [[Alma 57| <-- Alma 57]] | [[Alma]] | [[Alma 59|Alma 59 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/58?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/58?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Helamán, Gid y Teómner se apoderan de la ciudad de Manti por medio de una estratagema — Huyen los lamanitas — Los hijos del pueblo de Ammón son preservados al defender firmemente su libertad y su fe. Aproximadamente 63–62 a.C.
 
----
 ###### 1 
 Y he aquí, aconteció que ahora nuestro siguiente objetivo era tomar la ciudad de Manti; pero he aquí, no había manera de hacerles salir de la ciudad con nuestras pequeñas fuerzas. Pues he aquí, se acordaban de lo que previamente les habíamos hecho; por consiguiente, no podíamos engañarlos para que salieran de sus plazas fuertes.
 

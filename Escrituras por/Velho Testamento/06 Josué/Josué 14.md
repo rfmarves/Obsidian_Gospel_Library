@@ -1,22 +1,21 @@
 ---
 title: Josué 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 14
 [[Josué 13| <-- Josué 13]] | [[Josué]] | [[Josué 15|Josué 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A terra é dividida por sorteio entre nove tribos e meia — Calebe herda Hebrom como recompensa especial por sua fidelidade.
 
----
 ###### 1 
 Isso, pois,  o que os filhos de Israel tiveram em herança na terra de Canaã, o que Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças dos pais das tribos dos filhos de Israel lhes fizeram repartir,
 

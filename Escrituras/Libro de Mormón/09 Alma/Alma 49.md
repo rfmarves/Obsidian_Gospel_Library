@@ -1,22 +1,21 @@
 ---
 title: Alma 49
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 49
 [[Alma 48| <-- Alma 48]] | [[Alma]] | [[Alma 50|Alma 50 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/49?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/49?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los invasores lamanitas no pueden tomar las ciudades fortificadas de Ammoníah y Noé — Amalickíah maldice a Dios y jura beber la sangre de Moroni — Helamán y sus hermanos continúan fortaleciendo a la Iglesia. Aproximadamente 72 a.C.
 
----
 ###### 1 
 Y sucedió que en el undécimo mes del año decimonoveno, el día diez del mes, se vio que los ejércitos de los lamanitas se acercaban hacia la tierra de Ammoníah.
 

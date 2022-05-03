@@ -1,22 +1,21 @@
 ---
 title: 2 Coríntios 11
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Coríntios 11
 [[2 Coríntios 10| <-- 2 Coríntios 10]] | [[2 Coríntios]] | [[2 Coríntios 12|2 Coríntios 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mantende a simplicidade que há em Cristo — Satanás envia falsos apóstolos — Paulo se gloria em seus sofrimentos por Cristo.
 
----
 ###### 1 
 Quem dera me suportásseis um pouco na  loucura! Suportai-me, porém, ainda.
 

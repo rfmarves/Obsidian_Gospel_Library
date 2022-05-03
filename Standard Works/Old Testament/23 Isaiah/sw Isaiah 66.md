@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 66
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 66
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/66?lang=eng)
 
----
-__Summary__
+> __Summary__
 At the Second Coming, Israel, as a nation, will be born in a day; the wicked will be destroyed; and the Gentiles will hear the gospel.
 
----
 ###### 1 
 Thus saith the , The heaven  my throne, and the earth  my footstool: where  the house that ye build unto me? and where  the place of my rest?
 

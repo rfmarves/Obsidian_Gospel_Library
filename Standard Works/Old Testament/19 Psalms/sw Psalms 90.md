@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 90
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 90
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/90?lang=eng)
 
----
+```
 A Prayer of Moses the man of God.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A prayer of Moses, the man of God—God is from everlasting to everlasting—Man’s days last but seventy years—Moses implores the Lord to give mercy and blessings to His people.
 
----
 ###### 1 
 , thou hast been our dwelling place in all generations.
 

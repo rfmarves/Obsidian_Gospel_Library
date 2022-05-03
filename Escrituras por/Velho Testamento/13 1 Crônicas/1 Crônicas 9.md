@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 9
 [[1 Crônicas 8| <-- 1 Crônicas 8]] | [[1 Crônicas]] | [[1 Crônicas 10|1 Crônicas 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Enumeram-se os habitantes de Jerusalém — Explicam-se o encargo dos levitas e as áreas onde devem servir — Os membros da família de Saul são citados.
 
----
 ###### 1 
 E todo o Israel foi contado por genealogia; eis que  escritos no livro dos reis de Israel; e os de Judá foram transportados a Babilônia, por causa da sua transgressão.
 

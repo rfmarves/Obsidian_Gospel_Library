@@ -1,22 +1,21 @@
 ---
 title: Mosias 19
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 19
 [[Mosias 18| <-- Mosias 18]] | [[Mosias]] | [[Mosias 20|Mosias 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Gideão procura matar o rei Noé — Os lamanitas invadem aquela terra — O rei Noé morre queimado — Lími governa como monarca tributário. Aproximadamente 145–121 a.C.
 
----
 ###### 1 
 E aconteceu que o exército do rei voltou, tendo procurado inutilmente pelo povo do Senhor.
 

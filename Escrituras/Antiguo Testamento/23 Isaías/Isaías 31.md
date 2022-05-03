@@ -1,22 +1,21 @@
 ---
 title: Isaías 31
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 31
 [[Isaías 30| <-- Isaías 30]] | [[Isaías]] | [[Isaías 32|Isaías 32 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/31?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/31?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se reprende a Israel por acudir a Egipto en busca de ayuda — Cuando Jehová venga, defenderá y protegerá a Su pueblo.
 
----
 ###### 1 
 ¡Ay de los que descienden a Egipto en busca de ayuda, y confían en los caballos y ponen su esperanza en los carros, porque son muchos, y en los jinetes, porque son poderosos, pero no miran al Santo de Israel ni buscan a Jehová!
 

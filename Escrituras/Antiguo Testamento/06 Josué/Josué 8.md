@@ -1,22 +1,21 @@
 ---
 title: Josué 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 8
 [[Josué 7| <-- Josué 7]] | [[Josué]] | [[Josué 9|Josué 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Josué pone una emboscada, toma Hai y mata a sus habitantes — Construye un altar en el monte Ebal — Se leen al pueblo las palabras de la ley, tanto las bendiciones como las maldiciones.
 
----
 ###### 1 
 Y Jehová dijo a Josué: No temas, ni desmayes; toma contigo a toda la gente de guerra, y levántate y sube a Hai. Mira, yo he entregado en tus manos al rey de Hai, y a su pueblo, su ciudad, y su tierra.
 

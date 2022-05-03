@@ -1,22 +1,21 @@
 ---
 title: Salmos 135
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 135
 [[Salmos 134| <-- Salmos 134]] | [[Salmos]] | [[Salmos 136|Salmos 136 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/135?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/135?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Louvai e bendizei ao Senhor — Nosso Senhor está acima de todos os deuses; os ídolos não veem, não ouvem nem falam.
 
----
 ###### 1 
 Louvai ao . Louvai  nome do ; louvai-o, servos do .
 

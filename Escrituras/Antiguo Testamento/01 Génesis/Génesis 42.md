@@ -1,22 +1,21 @@
 ---
 title: Génesis 42
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 42
 [[Génesis 41| <-- Génesis 41]] | [[Génesis]] | [[Génesis 43|Génesis 43 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/42?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/42?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob envía a sus hijos a Egipto a comprar grano — Ellos se inclinan ante José — José hace acusaciones ásperas en contra de ellos, encarcela a Simeón y manda de regreso a los otros hermanos a buscar a Benjamín.
 
----
 ###### 1 
 Y viendo Jacob que en Egipto había alimento, dijo a sus hijos: ¿Por qué os estáis mirando?
 

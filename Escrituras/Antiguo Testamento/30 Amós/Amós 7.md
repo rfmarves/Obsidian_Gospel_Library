@@ -1,22 +1,21 @@
 ---
 title: Amós 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 7
 [[Amós 6| <-- Amós 6]] | [[Amós]] | [[Amós 8|Amós 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Amós relata cómo fue llamado por Jehová para ser profeta — Profetiza la cautividad de Israel.
 
----
 ###### 1 
 Así me ha mostrado Jehová el Señor: Y he aquí, él formaba langostas cuando comenzaba a crecer el heno tardío; y he aquí, el heno tardío venía después de las siegas del rey.
 

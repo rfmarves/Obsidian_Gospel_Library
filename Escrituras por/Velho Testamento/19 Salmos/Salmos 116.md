@@ -1,22 +1,21 @@
 ---
 title: Salmos 116
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 116
 [[Salmos 115| <-- Salmos 115]] | [[Salmos]] | [[Salmos 117|Salmos 117 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/116?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/116?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Piedoso é o Senhor, e justo — Preciosa é à vista do Senhor a morte dos Seus santos.
 
----
 ###### 1 
 Amo ao , porque ele ouviu a minha voz  a minha súplica.
 

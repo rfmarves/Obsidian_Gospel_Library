@@ -1,10 +1,11 @@
 ---
 title: sw D&C 37
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 37
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/37?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, The Saints are called to gather at the Ohio.
 
----
 ###### 1 
 Behold, I say unto you that it is not expedient in me that ye should translate any more until ye shall go to the Ohio, and this because of the enemy and for your sakes.
 

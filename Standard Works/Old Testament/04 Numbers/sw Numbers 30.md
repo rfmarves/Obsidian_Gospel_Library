@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 30
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 30
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/30?lang=eng)
 
----
-__Summary__
+> __Summary__
 Vows and oaths must be kept—Fathers may disallow vows of daughters, and husbands may disallow vows of wives.
 
----
 ###### 1 
 And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This  the thing which the  hath commanded.
 

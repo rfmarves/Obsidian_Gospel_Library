@@ -1,22 +1,21 @@
 ---
 title: Mateus 6
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 6
 [[Mateus 5| <-- Mateus 5]] | [[Mateus]] | [[Mateus 7|Mateus 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus continua o Sermão da Montanha — Ele ensina aos discípulos a oração do Pai Nosso — Eles recebem o mandamento de buscar primeiro o reino de Deus e a Sua justiça.
 
----
 ###### 1 
 Guardai-vos de fazer a vossa esmola diante dos homens, para serdes vistos por eles; de outra forma, não tereis galardão junto de vosso Pai, que  nos céus.
 

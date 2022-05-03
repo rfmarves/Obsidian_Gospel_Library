@@ -1,22 +1,21 @@
 ---
 title: Levítico 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 1
 [[Êxodo 40| <-- Êxodo 40]] | [[Levítico]] | [[Levítico 2|Levítico 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sacrificam-se animais sem defeito como expiação pelos pecados — Os holocaustos são ofertas de cheiro suave para o Senhor.
 
----
 ###### 1 
 E o  chamou Moisés, e falou com ele da tenda da congregação, dizendo:
 

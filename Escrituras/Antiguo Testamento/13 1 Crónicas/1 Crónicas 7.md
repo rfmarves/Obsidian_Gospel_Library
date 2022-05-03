@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 7
 [[1 Crónicas 6| <-- 1 Crónicas 6]] | [[1 Crónicas]] | [[1 Crónicas 8|1 Crónicas 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se enumeran los hijos y las familias de Isacar, de Benjamín, de Neftalí, de Manasés, de Efraín y de Aser.
 
----
 ###### 1 
 Los hijos de Isacar fueron cuatro: Tola, y Fúa, Jasub y Simrón.
 

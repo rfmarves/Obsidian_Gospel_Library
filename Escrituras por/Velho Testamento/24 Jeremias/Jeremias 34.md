@@ -1,22 +1,21 @@
 ---
 title: Jeremias 34
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 34
 [[Jeremias 33| <-- Jeremias 33]] | [[Jeremias]] | [[Jeremias 35|Jeremias 35 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/34?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/34?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias profetiza o cativeiro de Zedequias — O povo de Judá será motivo de horror para todos os reinos da Terra.
 
----
 ###### 1 
 A palavra que do  veio a Jeremias, quando Nabucodonosor, rei de Babilônia, e todo o seu exército, e todos os reinos da terra, que estavam  o domínio da sua mão, e todos os povos pelejavam contra Jerusalém, e contra todas as suas cidades, dizendo:
 

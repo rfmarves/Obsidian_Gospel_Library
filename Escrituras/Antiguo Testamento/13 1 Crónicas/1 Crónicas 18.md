@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 18
 [[1 Crónicas 17| <-- 1 Crónicas 17]] | [[1 Crónicas]] | [[1 Crónicas 19|1 Crónicas 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David somete a todos los adversarios de Israel y reina con justicia sobre el pueblo.
 
----
 ###### 1 
 Después de estas cosas aconteció que David derrotó a los filisteos, y los humilló; y tomó Gat y sus villas de manos de los filisteos.
 

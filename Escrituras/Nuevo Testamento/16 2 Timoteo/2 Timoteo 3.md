@@ -1,22 +1,21 @@
 ---
 title: 2 Timoteo 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Timoteo 3
 [[2 Timoteo 2| <-- 2 Timoteo 2]] | [[2 Timoteo]] | [[2 Timoteo 4|2 Timoteo 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo describe la apostasía y los tiempos peligrosos de los últimos días — Las Escrituras guían al hombre a la salvación.
 
----
 ###### 1 
 Esto también debes saber: que en los postreros días vendrán tiempos peligrosos.
 

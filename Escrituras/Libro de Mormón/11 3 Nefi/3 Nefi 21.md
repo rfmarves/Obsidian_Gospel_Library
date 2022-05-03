@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 21
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 21
 [[3 Nefi 20| <-- 3 Nefi 20]] | [[3 Nefi]] | [[3 Nefi 22|3 Nefi 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel será recogido cuando salga a luz el Libro de Mormón — Los gentiles serán establecidos como pueblo libre en América — Si creen y obedecen, se salvarán; de lo contrario, serán talados y destruidos — Israel edificará la Nueva Jerusalén y las tribus perdidas volverán. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Y de cierto os digo, os doy una señal para que sepáis la época en que estarán a punto de acontecer estas cosas —que recogeré a mi pueblo de su larga dispersión, oh casa de Israel, y estableceré otra vez entre ellos mi Sion;
 

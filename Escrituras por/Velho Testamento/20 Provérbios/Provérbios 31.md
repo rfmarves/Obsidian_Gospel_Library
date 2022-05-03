@@ -1,22 +1,21 @@
 ---
 title: Provérbios 31
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 31
 [[Provérbios 30| <-- Provérbios 30]] | [[Provérbios]] | [[Eclesiastes 1|Eclesiastes 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/31?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/31?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Condenam-se o vinho e as bebidas fortes — Faze justiça aos pobres e aos necessitados — Uma mulher virtuosa é mais valiosa que rubis.
 
----
 ###### 1 
 Palavras do rei Lemuel, a profecia com que lhe ensinou a sua mãe.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Judges 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Micah has a house of gods (images) and consecrates his own priests.
 
----
 ###### 1 
 And there was a man of mount Ephraim, whose name  Micah.
 

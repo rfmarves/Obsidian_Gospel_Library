@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord’s vengeance will fall on the Ammonites, on the Moabites and Edomites, and on the Philistines.
 
----
 ###### 1 
 The word of the  came again unto me, saying,
 

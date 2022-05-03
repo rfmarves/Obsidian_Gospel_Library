@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 21
 [[Ezequiel 20| <-- Ezequiel 20]] | [[Ezequiel]] | [[Ezequiel 22|Ezequiel 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Tanto os justos quanto os iníquos de Jerusalém serão mortos — Babilônia empunhará uma espada afiada e reluzente contra Israel e prevalecerá.
 
----
 ###### 1 
 E veio a mim a palavra do , dizendo:
 

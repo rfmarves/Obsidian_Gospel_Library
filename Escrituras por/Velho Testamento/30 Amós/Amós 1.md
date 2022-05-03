@@ -1,22 +1,21 @@
 ---
 title: Amós 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 1
 [[Joel 3| <-- Joel 3]] | [[Amós]] | [[Amós 2|Amós 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amós mostra os juízos do Senhor sobre a Síria, sobre os filisteus, sobre Tiro, sobre Edom e sobre Amom.
 
----
 ###### 1 
 As palavras de Amós, que estava entre os pastores de Tecoa, as quais viu sobre Israel, nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto.
 

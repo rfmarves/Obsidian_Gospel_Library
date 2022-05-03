@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 16
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 16
 [[Apocalipsis 15| <-- Apocalipsis 15]] | [[Apocalipsis]] | [[Apocalipsis 17|Apocalipsis 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dios derrama plagas sobre los inicuos — Las naciones se congregan para el Armagedón — Cristo viene, las islas huyen y los montes desaparecen.
 
----
 ###### 1 
 Y oí desde el templo una gran voz que decía a los siete ángeles: Id y derramad sobre la tierra las siete copas de la ira de Dios.
 

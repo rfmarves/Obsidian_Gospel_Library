@@ -1,22 +1,21 @@
 ---
 title: Isaías 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 11
 [[Isaías 10| <-- Isaías 10]] | [[Isaías]] | [[Isaías 12|Isaías 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La vara del tronco de Isaí (Cristo) juzgará con justicia — En el Milenio, el conocimiento de Dios cubrirá la tierra — El Señor levantará estandarte a las naciones y recogerá a Israel — Compárese con 2 Nefi 21.
 
----
 ###### 1 
 Y saldrá una vara del tronco de Isaí, y un vástago retoñará de sus raíces.
 

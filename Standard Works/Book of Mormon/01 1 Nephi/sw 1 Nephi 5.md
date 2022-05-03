@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 5
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Sariah complains against Lehi—Both rejoice over the return of their sons—They offer sacrifices—The plates of brass contain writings of Moses and the prophets—The plates identify Lehi as a descendant of Joseph—Lehi prophesies concerning his seed and the preservation of the plates. About 600–592 B.C.
 
----
 ###### 1 
 And it came to pass that after we had come down into the wilderness unto our father, behold, he was filled with joy, and also my mother, Sariah, was exceedingly glad, for she truly had mourned because of us.
 

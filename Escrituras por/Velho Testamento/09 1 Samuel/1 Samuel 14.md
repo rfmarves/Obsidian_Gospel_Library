@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 14
 [[1 Samuel 13| <-- 1 Samuel 13]] | [[1 Samuel]] | [[1 Samuel 15|1 Samuel 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jônatas fere a guarnição dos filisteus — Saul instrui o povo a não ingerir alimentos até a tarde — Sem saber do juramento, Jônatas come, e Saul o condena à morte — Jônatas é resgatado pelo povo — Saul aflige seus inimigos em toda parte a seu redor.
 
----
 ###### 1 
 Sucedeu, pois, que um dia disse Jônatas, filho de Saul, ao moço que lhe levava as armas: Vem, passemos à guarnição dos filisteus, que  lá daquele lado. Porém não o fez saber a seu pai.
 

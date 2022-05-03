@@ -1,22 +1,21 @@
 ---
 title: Daniel 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 6
 [[Daniel 5| <-- Daniel 5]] | [[Daniel]] | [[Daniel 7|Daniel 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Dario faz de Daniel o primeiro de seus presidentes — Daniel adora ao Senhor, contrariando um decreto de Dario — Ele é lançado na cova dos leões — Sua fé o salva, e Dario decreta que todas as pessoas devem reverenciar o Deus de Daniel.
 
----
 ###### 1 
 E pareceu bem a Dario constituir sobre o reino cento e vinte príncipes, que estivessem sobre todo o reino;
 

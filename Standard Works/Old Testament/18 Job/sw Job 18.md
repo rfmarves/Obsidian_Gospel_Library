@@ -1,10 +1,11 @@
 ---
 title: sw Job 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Bildad tells of the damned state of the wicked who know not God.
 
----
 ###### 1 
 Then answered Bildad the Shuhite, and said,
 

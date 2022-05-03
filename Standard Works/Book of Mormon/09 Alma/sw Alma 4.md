@@ -1,10 +1,11 @@
 ---
 title: sw Alma 4
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Alma baptizes thousands of converts—Iniquity enters the Church, and the Church’s progress is hindered—Nephihah is appointed chief judge—Alma, as high priest, devotes himself to the ministry. About 86–83 B.C.
 
----
 ###### 1 
 Now it came to pass in the sixth year of the reign of the judges over the people of Nephi, there were no contentions nor wars in the land of Zarahemla;
 

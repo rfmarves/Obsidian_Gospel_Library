@@ -1,27 +1,25 @@
 ---
 title: Jacó 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jacó 1
 [[2 Néfi 33| <-- 2 Néfi 33]] | [[Jacó]] | [[Jacó 2|Jacó 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/1?lang=por)
 
----
+```
 As palavras de sua pregação a seus irmãos. Ele confunde um homem que procura destruir a doutrina de Cristo. Algumas palavras sobre a história do povo de Néfi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Jacó e José procuram persuadir os homens a crerem em Cristo e a guardarem Seus mandamentos — Néfi morre — A iniquidade prevalece entre os nefitas. Aproximadamente 544–421 a.C.
 
----
 ###### 1 
 Pois eis que aconteceu que cinquenta e cinco anos se passaram desde a época em que Leí deixara Jerusalém; e Néfi deu a mim, Jacó, um mandamento concernente às placas menores, nas quais estão gravadas estas coisas.
 

@@ -1,22 +1,21 @@
 ---
 title: Éxodo 23
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 23
 [[Éxodo 22| <-- Éxodo 22]] | [[Éxodo]] | [[Éxodo 24|Éxodo 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová revela Sus leyes concernientes a la integridad y a la conducta piadosa — La tierra descansará durante el año sabático — Los hijos de Israel guardarán tres fiestas anuales — Un ángel que lleva el nombre de Jehová los guiará — Se quitará la enfermedad — Se irá echando gradualmente a las naciones de Canaán.
 
----
 ###### 1 
 No admitirás falso rumor. No te concertarás con el malvado para ser testigo falso.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Sarah bears Isaac—He is circumcised—Hagar and her son are cast out of Abraham’s household—The Lord saves Hagar and Ishmael—Abraham and Abimelech deal honorably with each other.
 
----
 ###### 1 
 And the  visited Sarah as he had said, and the  did unto Sarah as he had spoken.
 

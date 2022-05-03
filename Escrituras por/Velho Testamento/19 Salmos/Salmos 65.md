@@ -1,27 +1,25 @@
 ---
 title: Salmos 65
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 65
 [[Salmos 64| <-- Salmos 64]] | [[Salmos]] | [[Salmos 66|Salmos 66 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/65?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/65?lang=por)
 
----
+```
 Salmo e cântico de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi fala do estado bem-aventurado dos escolhidos de Deus — O Senhor envia chuva e coisas boas sobre a Terra.
 
----
 ###### 1 
 A ti, ó Deus, em silêncio espera o louvor em Sião, e a ti se pagará o voto,
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 57
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 57
 [[Salmos 56| <-- Salmos 56]] | [[Salmos]] | [[Salmos 58|Salmos 58 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/57?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/57?lang=por)
 
----
+```
 Para o músico-mor Al-Tachete. Mictão de Davi, quando fugia de diante de Saul na caverna.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi roga misericórdia e louva a glória e a exaltação de Deus.
 
----
 ###### 1 
 Tem misericórdia de mim, ó Deus, tem misericórdia de mim, porque a minha alma confia em ti, e na sombra das tuas asas me abrigo, até que passem as calamidades.
 

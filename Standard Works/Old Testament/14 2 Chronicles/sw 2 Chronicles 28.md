@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 28
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ahaz reigns in wickedness and practices idolatry; his people are defeated by Israel—The captives are freed by the command of a prophet—The Edomites and Philistines attack Judah—Ahaz continues his idolatrous ways.
 
----
 ###### 1 
 Ahaz  twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not  right in the sight of the , like David his father:
 

@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 14
 [[Deuteronômio 13| <-- Deuteronômio 13]] | [[Deuteronômio]] | [[Deuteronômio 15|Deuteronômio 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os israelitas são filhos do Senhor Jeová — Não se comerá aves, peixes e animais imundos — Os israelitas pagarão anualmente o dízimo de todo o fruto da sua semente.
 
----
 ###### 1 
 Filhos  do  vosso Deus; não vos cortareis a vós mesmos, nem abrireis calva entre vossos olhos por  de algum morto.
 

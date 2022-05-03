@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 29
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 Sacrifices are to be offered during the seventh month, including at the Feast of Trumpets and at the Feast of Tabernacles.
 
----
 ###### 1 
 And in the seventh month, on the first  of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 102
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 102
 [[Salmos 101| <-- Salmos 101]] | [[Salmos]] | [[Salmos 103|Salmos 103 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/102?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/102?lang=por)
 
----
+```
 Oração do aflito, vendo-se desfalecido, e derramando a sua queixa perante a face do Senhor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 O salmista profere a oração de um aflito — Sião será edificada quando o Senhor aparecer em Sua glória — Ainda que o céu e a Terra pereçam, o Senhor que os criou permanecerá para sempre.
 
----
 ###### 1 
 , ouve a minha oração, e chegue a ti o meu clamor.
 

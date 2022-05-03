@@ -1,22 +1,21 @@
 ---
 title: Alma 34
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 34
 [[Alma 33| <-- Alma 33]] | [[Alma]] | [[Alma 35|Alma 35 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Amulek testifica que la palabra está en Cristo para la salvación — Si no se efectúa una expiación, todo el género humano deberá perecer — Toda la ley de Moisés señala hacia el sacrificio del Hijo de Dios — El plan eterno de la redención se basa en la fe y en el arrepentimiento — Orad por bendiciones materiales y espirituales — Esta vida es cuando el hombre debe prepararse para comparecer ante Dios — Labrad vuestra salvación con temor ante Dios. Aproximadamente 74 a.C.
 
----
 ###### 1 
 Y aconteció que después que Alma les hubo hablado estas palabras, se sentó en el suelo, y Amulek se levantó y empezó a instruirlos, diciendo:
 

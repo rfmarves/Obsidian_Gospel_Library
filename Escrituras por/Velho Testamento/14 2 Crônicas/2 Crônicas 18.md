@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 18
 [[2 Crônicas 17| <-- 2 Crônicas 17]] | [[2 Crônicas]] | [[2 Crônicas 19|2 Crônicas 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Josafá de Judá se une a Acabe de Israel para lutar contra a Síria — Os falsos profetas de Acabe predizem a vitória — Micaías profetiza a queda e a morte de Acabe — Os sírios matam Acabe.
 
----
 ###### 1 
 Tinha, pois, Josafá riquezas e glória em abundância, e aparentou-se com Acabe.
 

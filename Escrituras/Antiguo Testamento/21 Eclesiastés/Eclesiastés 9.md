@@ -1,22 +1,21 @@
 ---
 title: Eclesiastés 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastés 9
 [[Eclesiastés 8| <-- Eclesiastés 8]] | [[Eclesiastés]] | [[Eclesiastés 10|Eclesiastés 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La providencia de Dios gobierna sobre todo — Tiempo y ocasión acontecen a todos — La sabiduría es mejor que la fuerza — Un pecador destruye mucho bien.
 
----
 ###### 1 
 He dedicado mi corazón a todas estas cosas para declarar todo esto: que los justos y los sabios, y sus obras, están en la mano de Dios. El hombre no sabe ni de amor ni de odio, aunque todo está delante de él.
 

@@ -1,22 +1,21 @@
 ---
 title: Lucas 15
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 15
 [[Lucas 14| <-- Lucas 14]] | [[Lucas]] | [[Lucas 16|Lucas 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus conta a parábola da ovelha perdida, a da moeda de prata e a do filho pródigo.
 
----
 ###### 1 
 E chegavam-se a ele todos os publicanos e pecadores para o ouvir.
 

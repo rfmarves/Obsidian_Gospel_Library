@@ -1,27 +1,25 @@
 ---
 title: Salmos 25
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 25
 [[Salmos 24| <-- Salmos 24]] | [[Salmos]] | [[Salmos 26|Salmos 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/25?lang=spa)
 
----
+```
 Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David suplica ser encaminado en la verdad y pide perdón — La misericordia y la verdad son para los que guardan los mandamientos.
 
----
 ###### 1 
 
 

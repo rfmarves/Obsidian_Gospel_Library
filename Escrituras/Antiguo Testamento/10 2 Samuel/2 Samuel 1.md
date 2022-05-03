@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 1
 [[1 Samuel 31| <-- 1 Samuel 31]] | [[2 Samuel]] | [[2 Samuel 2|2 Samuel 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David se entera de la muerte de Saúl y de Jonatán — Mata al amalecita que afirma haber matado a Saúl — David lamenta la muerte de Saúl y de Jonatán con un cántico.
 
----
 ###### 1 
 Y aconteció después de la muerte de Saúl que David volvió de la derrota de los amalecitas y estuvo dos días en Siclag.
 

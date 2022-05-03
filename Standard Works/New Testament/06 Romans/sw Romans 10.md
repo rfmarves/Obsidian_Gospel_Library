@@ -1,10 +1,11 @@
 ---
 title: sw Romans 10
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Salvation comes through righteousness to those who believe in Christ—Faith comes by hearing the gospel taught by legal administrators sent of God.
 
----
 ###### 1 
 Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved.
 

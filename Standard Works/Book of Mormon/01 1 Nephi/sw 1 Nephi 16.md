@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 16
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 The wicked take the truth to be hard—Lehi’s sons marry the daughters of Ishmael—The Liahona guides their course in the wilderness—Messages from the Lord are written on the Liahona from time to time—Ishmael dies; his family murmurs because of afflictions. About 600–592 B.C.
 
----
 ###### 1 
 And now it came to pass that after I, Nephi, had made an end of speaking to my brethren, behold they said unto me: Thou hast declared unto us hard things, more than we are able to bear.
 

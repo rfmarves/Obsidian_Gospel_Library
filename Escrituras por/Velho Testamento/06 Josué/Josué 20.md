@@ -1,22 +1,21 @@
 ---
 title: Josué 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 20
 [[Josué 19| <-- Josué 19]] | [[Josué]] | [[Josué 21|Josué 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Seis cidades de refúgio são designadas para os culpados de homicídio sem intenção.
 
----
 ###### 1 
 Falou mais o  a Josué, dizendo:
 

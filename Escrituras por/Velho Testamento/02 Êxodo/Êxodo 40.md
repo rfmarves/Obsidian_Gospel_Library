@@ -1,22 +1,21 @@
 ---
 title: Êxodo 40
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 40
 [[Êxodo 39| <-- Êxodo 39]] | [[Êxodo]] | [[Levítico 1|Levítico 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/40?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/40?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O tabernáculo é levantado — Aarão e seus filhos são lavados e ungidos e recebem um sacerdócio eterno — A glória do Senhor enche o tabernáculo — Uma nuvem cobre o tabernáculo de dia, e fogo repousa sobre ele à noite.
 
----
 ###### 1 
 Falou mais o  a Moisés, dizendo:
 

@@ -1,10 +1,11 @@
 ---
 title: sw Alma 11
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Nephite monetary system is set forth—Amulek contends with Zeezrom—Christ will not save people in their sins—Only those who inherit the kingdom of heaven are saved—All men will rise in immortality—There is no death after the Resurrection. About 82 B.C.
 
----
 ###### 1 
 Now it was in the law of Mosiah that every man who was a judge of the law, or those who were appointed to be judges, should receive wages according to the time which they labored to judge those who were brought before them to be judged.
 

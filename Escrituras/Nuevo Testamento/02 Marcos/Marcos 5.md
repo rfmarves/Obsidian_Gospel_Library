@@ -1,22 +1,21 @@
 ---
 title: Marcos 5
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 5
 [[Marcos 4| <-- Marcos 4]] | [[Marcos]] | [[Marcos 6|Marcos 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús expulsa a una legión de demonios que después entra en un hato de cerdos — Una mujer es sanada al tocar las ropas de Jesús — Jesús levanta de la muerte a la hija de Jairo.
 
----
 ###### 1 
 Y llegaron al otro lado del mar, a la región de los gadarenos.
 

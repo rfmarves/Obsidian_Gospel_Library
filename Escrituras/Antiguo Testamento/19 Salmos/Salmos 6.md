@@ -1,27 +1,25 @@
 ---
 title: Salmos 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 6
 [[Salmos 5| <-- Salmos 5]] | [[Salmos]] | [[Salmos 7|Salmos 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/6?lang=spa)
 
----
+```
 Al músico principal: con aNeginot, sobre bSeminit. Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David clama misericordia a Jehová — Pide ser sanado y salvado.
 
----
 ###### 1 
 
 

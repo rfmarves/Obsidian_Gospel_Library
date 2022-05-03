@@ -1,27 +1,25 @@
 ---
 title: Salmos 109
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 109
 [[Salmos 108| <-- Salmos 108]] | [[Salmos]] | [[Salmos 110|Salmos 110 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/109?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/109?lang=spa)
 
----
+```
 Al músico principal. Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David habla de las maldiciones que el malvado y el engañador merecen — Suplica en oración que sus adversarios sean confundidos.
 
----
 ###### 1 
 
 

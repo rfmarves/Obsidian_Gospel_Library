@@ -1,22 +1,21 @@
 ---
 title: DeC 53
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 53
 [[DeC 52| <-- DeC 52]] | [[DeC]] | [[DeC 54|DeC 54 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/53?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/53?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, O chamado e eleição de Sidney Gilbert na Igreja é ser ordenado élder; 4–7, Deve também servir como agente do bispo.
 
----
 ###### 1 
 Eis que eu te digo, meu servo Sidney Gilbert, que ouvi tuas orações; e pediste-me que te fosse dado saber, pelo Senhor teu Deus, concernente a teu chamado e eleição na igreja que eu, o Senhor, levantei nestes últimos dias.
 

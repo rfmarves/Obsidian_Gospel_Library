@@ -1,22 +1,21 @@
 ---
 title: Isaías 35
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 35
 [[Isaías 34| <-- Isaías 34]] | [[Isaías]] | [[Isaías 36|Isaías 36 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/35?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/35?lang=por)
 
----
-__Resumo__
+> __Resumo__
 No dia da restauração, o deserto florescerá, o Senhor virá, Israel será coligada e Sião será edificada.
 
----
 ###### 1 
 O deserto e os lugares secos se alegrarão disso, e o ermo exultará e florescerá como a rosa.
 

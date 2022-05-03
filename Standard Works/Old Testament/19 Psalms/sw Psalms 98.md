@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 98
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 98
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/98?lang=eng)
 
----
+```
 A Psalm.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Sing unto the Lord—All the ends of the earth will see His salvation—He comes to judge all men with equity and righteousness.
 
----
 ###### 1 
 O sing unto the  a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.
 

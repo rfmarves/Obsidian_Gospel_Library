@@ -1,22 +1,21 @@
 ---
 title: Jeremias 37
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 37
 [[Jeremias 36| <-- Jeremias 36]] | [[Jeremias]] | [[Jeremias 38|Jeremias 38 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/37?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/37?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias profetiza que o Egito não salvará Judá de Babilônia — Ele é colocado no calabouço — Zedequias o transfere para o átrio da guarda.
 
----
 ###### 1 
 E o rei Zedequias, filho de Josias, a quem Nabucodonosor, rei de Babilônia, constituiu rei na terra de Judá, reinou em lugar de Conias, filho de Joaquim.
 

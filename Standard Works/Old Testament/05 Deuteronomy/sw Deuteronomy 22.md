@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses sets forth laws pertaining to lost property, wearing of proper clothes, caring for interests of others, marrying virgins, and sexual immorality.
 
----
 ###### 1 
 Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.
 

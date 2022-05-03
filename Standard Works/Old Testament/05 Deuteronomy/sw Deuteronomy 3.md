@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The children of Israel destroy the people of Bashan—Their lands, on the east of the Jordan, are given to Reuben and Gad—Moses sees Canaan from Pisgah but is denied entrance thereto—He counsels and strengthens Joshua.
 
----
 ###### 1 
 Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei.
 

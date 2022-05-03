@@ -1,22 +1,21 @@
 ---
 title: Números 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 4
 [[Números 3| <-- Números 3]] | [[Números]] | [[Números 5|Números 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cuando los campamentos de Israel tengan que mudarse, Aarón y sus hijos deben cubrir los objetos sagrados del tabernáculo — Los levitas de las familias de Coat, de Gersón y de Merari han de llevar la carga del tabernáculo.
 
----
 ###### 1 
 Y habló Jehová a Moisés y a Aarón, diciendo:
 

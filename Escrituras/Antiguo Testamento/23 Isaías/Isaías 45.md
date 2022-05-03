@@ -1,22 +1,21 @@
 ---
 title: Isaías 45
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 45
 [[Isaías 44| <-- Isaías 44]] | [[Isaías]] | [[Isaías 46|Isaías 46 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/45?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/45?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ciro liberará de Babilonia a los cautivos de Israel — Venid a Jehová (Cristo) y sed salvos — Ante Él se doblará toda rodilla y jurará toda lengua.
 
----
 ###### 1 
 Así dice Jehová a su ungido, a Ciro, al cual tomé yo de la mano derecha para someter naciones delante de él y desatar lomos de reyes; para abrir puertas delante de él, y las puertas no se cerrarán:
 

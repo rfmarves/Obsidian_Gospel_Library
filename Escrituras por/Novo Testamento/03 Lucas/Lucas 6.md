@@ -1,22 +1,21 @@
 ---
 title: Lucas 6
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 6
 [[Lucas 5| <-- Lucas 5]] | [[Lucas]] | [[Lucas 7|Lucas 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus cura no Sábado — Ele escolhe os Doze Apóstolos — Ele profere bênçãos sobre os obedientes e desgraças, sobre os ímpios.
 
----
 ###### 1 
 E aconteceu que, num sábado, passou pelas searas, e os seus discípulos iam arrancando espigas e, esfregando-as com as mãos,  comiam.
 

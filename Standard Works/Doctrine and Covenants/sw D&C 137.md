@@ -1,10 +1,11 @@
 ---
 title: sw D&C 137
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 137
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/137?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, The Prophet sees his brother Alvin in the celestial kingdom; 7–9, The doctrine of salvation for the dead is revealed; 10, All children are saved in the celestial kingdom.
 
----
 ###### 1 
 The heavens were opened upon us, and I beheld the celestial kingdom of God, and the glory thereof, whether in the body or out I cannot tell.
 

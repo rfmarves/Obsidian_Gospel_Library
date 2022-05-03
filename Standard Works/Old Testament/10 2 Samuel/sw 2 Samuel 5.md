@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 All Israel anoints David king—He takes Jerusalem and is blessed of the Lord—He conquers the Philistines.
 
----
 ###### 1 
 Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we  thy bone and thy flesh.
 

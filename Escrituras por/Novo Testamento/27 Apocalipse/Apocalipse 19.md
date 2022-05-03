@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 19
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 19
 [[Apocalipse 18| <-- Apocalipse 18]] | [[Apocalipse]] | [[Apocalipse 20|Apocalipse 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A ceia das bodas do Cordeiro é preparada — O testemunho de Jesus é o espírito de profecia — Cristo é Rei dos Reis e Senhor dos Senhores.
 
----
 ###### 1 
 E depois dessas  ouvi como que uma grande voz de uma grande multidão no céu, que dizia: Aleluia! Salvação, e glória, e honra, e poder pertencem ao Senhor nosso Deus;
 

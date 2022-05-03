@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 3
 [[1 Reyes 2| <-- 1 Reyes 2]] | [[1 Reyes]] | [[1 Reyes 4|1 Reyes 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Salomón ama a Jehová y guarda Sus mandamientos — Jehová se le aparece a Salomón y le promete un corazón sabio y entendido — Salomón juzga entre dos rameras y determina quién es la madre de un niño.
 
----
 ###### 1 
 Y Salomón hizo parentesco con Faraón, rey de Egipto, porque tomó a la hija de Faraón y la trajo a la ciudad de David, mientras acababa de edificar su casa, y la casa de Jehová y los muros alrededor de Jerusalén.
 

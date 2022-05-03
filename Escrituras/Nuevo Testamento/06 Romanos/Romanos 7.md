@@ -1,22 +1,21 @@
 ---
 title: Romanos 7
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 7
 [[Romanos 6| <-- Romanos 6]] | [[Romanos]] | [[Romanos 8|Romanos 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La ley de Moisés se cumple en Cristo — Pablo se deleita en la ley de Dios según el hombre interior.
 
----
 ###### 1 
 ¿Ignoráis, hermanos (porque hablo con los que conocen la ley), que la ley se enseñorea del hombre entretanto que este vive?
 

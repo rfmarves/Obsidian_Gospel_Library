@@ -1,22 +1,21 @@
 ---
 title: Josué 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 7
 [[Josué 6| <-- Josué 6]] | [[Josué]] | [[Josué 8|Josué 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel é derrotada pelo povo de Ai — Josué queixa-se ao Senhor — Acã e sua família são destruídos por ele ter desobedecido ao Senhor ao tomar para si o espólio de Jericó.
 
----
 ###### 1 
 E transgrediram os filhos de Israel no anátema; porque Acã, filho de Carmi, filho de Zabdi, filho de Zerá, da tribo de Judá, tomou do anátema, e a ira do  se acendeu contra os filhos de Israel.
 

@@ -1,22 +1,21 @@
 ---
 title: Provérbios 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 9
 [[Provérbios 8| <-- Provérbios 8]] | [[Provérbios]] | [[Provérbios 10|Provérbios 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Repreende o sábio, e ele te amará — O temor do Senhor é o princípio da sabedoria — Os convidados da mulher imoral estão nas profundezas do inferno.
 
----
 ###### 1 
 A sabedoria já edificou a sua casa, já lavrou as suas sete colunas.
 

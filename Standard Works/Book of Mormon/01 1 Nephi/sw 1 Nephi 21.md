@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 21
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Messiah will be a light to the Gentiles and will free the prisoners—Israel will be gathered with power in the last days—Kings will be their nursing fathers—Compare Isaiah 49. About 588–570 B.C.
 
----
 ###### 1 
 And again: Hearken, O ye house of Israel, all ye that are broken off and are driven out because of the wickedness of the pastors of my people; yea, all ye that are broken off, that are scattered abroad, who are of my people, O house of Israel. Listen, O isles, unto me, and hearken ye people from far; the Lord hath called me from the womb; from the bowels of my mother hath he made mention of my name.
 

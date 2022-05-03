@@ -1,22 +1,21 @@
 ---
 title: DyC 57
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 57
 [[DyC 56| <-- DyC 56]] | [[DyC]] | [[DyC 58|DyC 58 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/57?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/57?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–3, Independence, Misuri, es el sitio para la ciudad de Sion y para el templo; 4–7, Los santos deben comprar tierras y recibir heredades en esa región; 8–16, Sidney Gilbert debe establecer un comercio, William W. Phelps ha de ser impresor y Oliver Cowdery debe revisar y preparar el material para que se publique.
 
----
 ###### 1 
 Escuchad, oh élderes de mi iglesia, dice el Señor vuestro Dios, vosotros que conforme a mis mandamientos os habéis congregado en esta tierra, la tierra de Misuri, la cual he señalado y consagrado para el recogimiento de los santos.
 

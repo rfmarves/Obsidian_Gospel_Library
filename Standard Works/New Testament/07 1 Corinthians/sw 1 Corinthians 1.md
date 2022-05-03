@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 True Saints are perfectly united in the same mind and in the same judgment—Preach the gospel and save souls—The gospel is preached by the weak and the simple.
 
----
 ###### 1 
 Paul, called  an apostle of Jesus Christ through the will of God, and Sosthenes  brother,
 

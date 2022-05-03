@@ -1,22 +1,21 @@
 ---
 title: Números 35
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 35
 [[Números 34| <-- Números 34]] | [[Números]] | [[Números 36|Números 36 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/35?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/35?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los levitas poseerán sus propias ciudades — Se establecen ciudades de refugio para aquellos que sean culpables de homicidio sin intención — Los asesinos serán ejecutados por el vengador de la sangre.
 
----
 ###### 1 
 Y habló Jehová a Moisés en los campos de Moab, junto al Jordán, frente a Jericó, diciendo:
 

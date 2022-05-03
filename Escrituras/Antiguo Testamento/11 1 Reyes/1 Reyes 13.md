@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 13
 [[1 Reyes 12| <-- 1 Reyes 12]] | [[1 Reyes]] | [[1 Reyes 14|1 Reyes 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeroboam es herido y luego es sanado por un profeta de Judá — El profeta entrega su mensaje; un profeta de Bet-el lo desvía del camino y aquel es muerto por un león por su desobediencia — Jeroboam continúa la adoración falsa en Israel.
 
----
 ###### 1 
 Y he aquí que mientras Jeroboam quemaba incienso junto al altar, vino de Judá a Bet-el un hombre de Dios enviado por la palabra de Jehová.
 

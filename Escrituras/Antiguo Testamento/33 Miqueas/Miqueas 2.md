@@ -1,22 +1,21 @@
 ---
 title: Miqueas 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Miqueas 2
 [[Miqueas 1| <-- Miqueas 1]] | [[Miqueas]] | [[Miqueas 3|Miqueas 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/micah/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/micah/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se lamenta la destrucción de Israel — Jehová recogerá al remanente de Israel.
 
----
 ###### 1 
 ¡Ay de los que en sus camas traman iniquidad y maquinan el mal,  cuando llega la mañana lo ponen por obra, porque tienen en su mano el poder!
 

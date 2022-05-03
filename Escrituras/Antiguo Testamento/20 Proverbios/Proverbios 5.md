@@ -1,22 +1,21 @@
 ---
 title: Proverbios 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 5
 [[Proverbios 4| <-- Proverbios 4]] | [[Proverbios]] | [[Proverbios 6|Proverbios 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los que se relacionan con mujeres inmorales descenderán al infierno — Alégrate con la esposa de tu juventud.
 
----
 ###### 1 
 
 

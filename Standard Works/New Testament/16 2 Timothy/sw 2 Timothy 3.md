@@ -1,10 +1,11 @@
 ---
 title: sw 2 Timothy 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Timothy 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul describes the apostasy and perilous times of the last days—The scriptures guide man to salvation.
 
----
 ###### 1 
 This know also, that in the last days perilous times shall come.
 

@@ -1,22 +1,21 @@
 ---
 title: Lucas 11
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 11
 [[Lucas 10| <-- Lucas 10]] | [[Lucas]] | [[Lucas 12|Lucas 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús pronuncia la Oración del Señor — Enseña acerca de cómo echar fuera demonios — Se declara mayor que Jonás y que Salomón — Reprende a los fariseos y les dice que a ellos se les demandará la sangre de los profetas.
 
----
 ###### 1 
 Y aconteció que, estando  orando en un lugar, cuando terminó, uno de sus discípulos le dijo: Señor, enséñanos a orar, como también Juan enseñó a sus discípulos.
 

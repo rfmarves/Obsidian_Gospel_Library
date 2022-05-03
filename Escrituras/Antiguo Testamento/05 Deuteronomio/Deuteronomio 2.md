@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 2
 [[Deuteronomio 1| <-- Deuteronomio 1]] | [[Deuteronomio]] | [[Deuteronomio 3|Deuteronomio 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de Israel avanzan hacia su tierra prometida — Pasan en paz por las tierras de Esaú y de Amón, pero destruyen a los amorreos.
 
----
 ###### 1 
 Y volvimos y partimos al desierto, camino del mar Rojo, como Jehová me había dicho, y rodeamos el monte Seir durante muchos días.
 

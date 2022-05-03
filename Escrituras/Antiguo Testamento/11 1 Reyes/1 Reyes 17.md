@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 17
 [[1 Reyes 16| <-- 1 Reyes 16]] | [[1 Reyes]] | [[1 Reyes 18|1 Reyes 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Elías el Profeta sella los cielos y es alimentado por cuervos — Por su mandato, la tinaja de harina y la vasija de aceite de la viuda de Sarepta nunca se vacían — Levanta de la muerte al hijo de esta.
 
----
 ###### 1 
 Entonces Elías, el tisbita, que era de los moradores de Galaad, dijo a Acab: Vive Jehová Dios de Israel, delante de quien estoy, que no habrá lluvia ni rocío en estos años, sino por mi palabra.
 

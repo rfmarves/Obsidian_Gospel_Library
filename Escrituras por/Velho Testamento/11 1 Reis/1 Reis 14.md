@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 14
 [[1 Reis 13| <-- 1 Reis 13]] | [[1 Reis]] | [[1 Reis 15|1 Reis 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Aías prediz a ruína da casa de Jeroboão, a morte do filho deste e a dispersão dos israelitas por causa de sua idolatria — Jeroboão morre, e Nadabe reina — Judá, sob o governo de Roboão, se volta à iniquidade — Sisaque, rei do Egito, leva os tesouros do templo — Roboão morre, e Abias reina.
 
----
 ###### 1 
 Naquele tempo adoeceu Abias, filho de Jeroboão.
 

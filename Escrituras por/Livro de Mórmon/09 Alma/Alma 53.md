@@ -1,22 +1,21 @@
 ---
 title: Alma 53
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 53
 [[Alma 52| <-- Alma 52]] | [[Alma]] | [[Alma 54|Alma 54 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/53?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/53?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os prisioneiros lamanitas são usados para fortificar a cidade de Abundância — Dissensões entre os nefitas dão lugar a vitórias lamanitas — Helamã assume o comando de dois mil jovens, filhos do povo de Amon. Aproximadamente 64–63 a.C.
 
----
 ###### 1 
 E aconteceu que puseram guardas para vigiar os prisioneiros lamanitas e obrigaram-nos a enterrar seus mortos, sim, e também os mortos dos nefitas; e Morôni colocou homens para vigiá-los enquanto executavam seus trabalhos.
 

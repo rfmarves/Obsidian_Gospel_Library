@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 A prudent wife is from the Lord—He who lends to the poor lends to the Lord—It is better to be a poor man than to be a liar.
 
----
 ###### 1 
 Better  the poor that walketh in his integrity, than  perverse in his lips, and is a fool.
 

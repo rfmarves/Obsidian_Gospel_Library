@@ -1,22 +1,21 @@
 ---
 title: Neemias 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Neemias 13
 [[Neemias 12| <-- Neemias 12]] | [[Neemias]] | [[Ester 1|Ester 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nega-se aos amonitas e aos moabitas um lugar na congregação de Deus — Tobias é expulso do lugar em que morava no templo — Neemias corrige abusos e reinstitui a observância do Sábado — Alguns judeus são repreendidos por casarem-se com mulheres não israelitas e por profanarem o sacerdócio.
 
----
 ###### 1 
 Naquele dia leu-se no livro de Moisés, aos ouvidos do povo, e achou-se escrito nele que os amonitas e os moabitas não entrassem jamais na congregação de Deus,
 

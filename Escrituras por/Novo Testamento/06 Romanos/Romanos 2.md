@@ -1,22 +1,21 @@
 ---
 title: Romanos 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 2
 [[Romanos 1| <-- Romanos 1]] | [[Romanos]] | [[Romanos 3|Romanos 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Deus retribuirá a cada pessoa de acordo com seus atos — Tanto os judeus quanto os gentios serão julgados pelas leis do evangelho.
 
----
 ###### 1 
 Portanto, és inescusável quando julgas, ó homem, quem quer que sejas, porque te condenas a ti mesmo naquilo em que julgas o outro; pois tu, que julgas, fazes as mesmas 
 

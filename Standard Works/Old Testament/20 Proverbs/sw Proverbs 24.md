@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 In a multitude of counselors there is safety—Fret not yourself because of evil men—It is not good to show partiality in judgment.
 
----
 ###### 1 
 Be not thou envious against evil men, neither desire to be with them.
 

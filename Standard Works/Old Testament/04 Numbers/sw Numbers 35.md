@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 35
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 35
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/35?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Levites are to possess their own cities—Cities of refuge are established for those guilty of manslaughter—Murderers are to be executed by the revenger of blood.
 
----
 ###### 1 
 And the  spake unto Moses in the plains of Moab by Jordan  Jericho, saying,
 

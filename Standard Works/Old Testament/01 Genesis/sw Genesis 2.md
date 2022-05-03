@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Creation is completed—God rests on the seventh day—The prior spirit creation is explained—Adam and Eve are placed in the Garden of Eden—They are forbidden to eat of the tree of knowledge of good and evil—Adam names every living creature—Adam and Eve are married by the Lord.
 
----
 ###### 1 
 Thus the heavens and the earth were finished, and all the host of them.
 

@@ -1,22 +1,21 @@
 ---
 title: Salmos 104
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 104
 [[Salmos 103| <-- Salmos 103]] | [[Salmos]] | [[Salmos 105|Salmos 105 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/104?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/104?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová está vestido de gloria y majestad — Él hace a Sus ángeles espíritus y a las llamas de fuego Sus ministros — Con Su cuidado Él sustenta todas las formas de vida — Su gloria permanece para siempre.
 
----
 ###### 1 
 
 

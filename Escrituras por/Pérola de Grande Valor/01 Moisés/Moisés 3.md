@@ -1,25 +1,24 @@
 ---
 title: Moisés 3
-tags: #Escrituras\PdGV
+tags: Escrituras\PdGV
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moisés 3
 [[Moisés 2| <-- Moisés 2]] | [[Moisés]] | [[Moisés 4|Moisés 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/pgp/moses/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/pgp/moses/3?lang=por)
 
 Moisés
 (Junho a outubro de 1830)
 
----
-__Resumo__
+> __Resumo__
 Deus criou todas as coisas espiritualmente antes que existissem fisicamente na Terra — Ele criou o homem, a primeira carne, na Terra — A mulher é uma adjutora própria para o homem.
 
----
 ###### 1 
 Assim, o céu e a Terra foram terminados e todas as suas hostes.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 24
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 24
 [[Salmos 23| <-- Salmos 23]] | [[Salmos]] | [[Salmos 25|Salmos 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/24?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi testifica: Do Senhor é a Terra e a sua plenitude, o que é limpo de mãos e puro de coração subirá ao monte do Senhor, e o Senhor dos Exércitos é o Rei da Glória.
 
----
 ###### 1 
 Do   a terra e a sua plenitude, o mundo e aqueles que nele habitam.
 

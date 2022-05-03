@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 3
 [[Apocalipsis 2| <-- Apocalipsis 2]] | [[Apocalipsis]] | [[Apocalipsis 4|Apocalipsis 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El que venciere mantendrá su nombre en el libro de la vida, llegará a ser un dios y estará con Jesús, como Él está con el Padre.
 
----
 ###### 1 
 Y escribe al ángel de la iglesia en Sardis: El que tiene los siete Espíritus de Dios y las siete estrellas dice esto: Yo conozco tus obras, que tienes nombre de que vives, pero estás muerto.
 

@@ -1,22 +1,21 @@
 ---
 title: DyC 73
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 73
 [[DyC 72| <-- DyC 72]] | [[DyC]] | [[DyC 74|DyC 74 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/73?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/73?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–2, Los élderes han de continuar predicando; 3–6, José Smith y Sidney Rigdon han de continuar la traducción de la Biblia hasta que quede terminada.
 
----
 ###### 1 
 Porque de cierto, así dice el Señor, me conviene que continúen predicando el evangelio y exhortando a las iglesias en las regiones circunvecinas, hasta el tiempo de la conferencia;
 

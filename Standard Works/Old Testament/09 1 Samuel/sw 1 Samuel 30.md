@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 30
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 30
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/30?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Amalekites spoil Ziklag and the borders of Judah—David smites Amalek and regains and divides the spoil.
 
----
 ###### 1 
 And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;
 

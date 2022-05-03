@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 9
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul rejoices in his Christian liberty—He preaches the gospel to all without charge—He is all things to all men to gain converts.
 
----
 ###### 1 
 Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?
 

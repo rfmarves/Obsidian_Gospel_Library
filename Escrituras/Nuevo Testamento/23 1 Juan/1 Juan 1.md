@@ -1,22 +1,21 @@
 ---
 title: 1 Juan 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Juan 1
 [[2 Pedro 3| <-- 2 Pedro 3]] | [[1 Juan]] | [[1 Juan 2|1 Juan 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los santos logran comunión con Dios por medio de la obediencia — Debemos confesar nuestros pecados para recibir el perdón.
 
----
 ###### 1 
 Lo que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que hemos contemplado y  palparon nuestras manos tocante al Verbo de vida
 

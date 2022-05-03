@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 42
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 42
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/42?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob sends his sons to buy grain in Egypt—They bow before Joseph—He makes harsh accusations against them, imprisons Simeon, and sends them back for Benjamin.
 
----
 ###### 1 
 Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?
 

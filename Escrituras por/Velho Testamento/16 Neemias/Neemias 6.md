@@ -1,22 +1,21 @@
 ---
 title: Neemias 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Neemias 6
 [[Neemias 5| <-- Neemias 5]] | [[Neemias]] | [[Neemias 7|Neemias 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sambalate se envolve em uma intriga contra Neemias e contra a construção da muralha — Os judeus terminam a construção da muralha.
 
----
 ###### 1 
 Sucedeu mais que, ouvindo Sambalate, Tobias, Gesém, o árabe, e o restante dos nossos inimigos que eu tinha edificado o muro, e que nele  não havia brecha alguma, ainda que até este tempo não tinha posto as portas nos portais,
 

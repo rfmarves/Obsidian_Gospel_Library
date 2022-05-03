@@ -1,22 +1,21 @@
 ---
 title: Sofonías 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Sofonías 3
 [[Sofonías 2| <-- Sofonías 2]] | [[Sofonías]] | [[Hageo 1|Hageo 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zeph/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zeph/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En la Segunda Venida todas las naciones se reunirán para combatir — Los hombres tendrán un lenguaje puro — Jehová reinará en medio de ellos.
 
----
 ###### 1 
 ¡Ay de la ciudad opresora, inmunda y contaminada!
 

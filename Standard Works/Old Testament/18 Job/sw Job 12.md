@@ -1,10 +1,11 @@
 ---
 title: sw Job 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job says, The souls of all things are in the hands of the Lord, with the ancient is wisdom, and the Lord governs in all things.
 
----
 ###### 1 
 And Job answered and said,
 

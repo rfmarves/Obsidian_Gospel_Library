@@ -1,22 +1,21 @@
 ---
 title: Isaías 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 11
 [[Isaías 10| <-- Isaías 10]] | [[Isaías]] | [[Isaías 12|Isaías 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A vara de Jessé (Cristo) julgará em retidão — O conhecimento de Deus cobrirá a Terra no Milênio — O Senhor erguerá um estandarte e reunirá Israel — Comparar com 2 Néfi 21.
 
----
 ###### 1 
 Porque sairá  vara do tronco de Jessé, e  Renovo crescerá das suas raízes.
 

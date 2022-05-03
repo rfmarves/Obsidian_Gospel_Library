@@ -1,22 +1,21 @@
 ---
 title: Êxodo 35
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 35
 [[Êxodo 34| <-- Êxodo 34]] | [[Êxodo]] | [[Êxodo 36|Êxodo 36 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/35?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/35?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel é exortado a observar o Sábado — São feitas ofertas voluntárias para a obra do tabernáculo — Confirmam-se o chamado e a inspiração de alguns artífices.
 
----
 ###### 1 
 Então fez Moisés ajuntar toda a congregação dos filhos de Israel, e disse-lhes: Estas  as palavras que o  ordenou que se cumprissem.
 

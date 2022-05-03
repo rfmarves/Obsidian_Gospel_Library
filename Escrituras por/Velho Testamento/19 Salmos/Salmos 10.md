@@ -1,22 +1,21 @@
 ---
 title: Salmos 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 10
 [[Salmos 9| <-- Salmos 9]] | [[Salmos]] | [[Salmos 11|Salmos 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi fala de vários atos dos iníquos — Deus não está nos pensamentos deles — Mas o Senhor é Rei de eternidade em eternidade — Ele fará justiça ao órfão e ao oprimido.
 
----
 ###### 1 
 Por que estás ao longe, ?  te escondes nos tempos de angústia?
 

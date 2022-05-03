@@ -1,10 +1,11 @@
 ---
 title: sw Daniel 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Daniel 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nebuchadnezzar’s dream is revealed to Daniel—The king saw a great image, a stone cut from the mountain without hands destroyed the image, and the stone grew and filled the whole earth—The stone is the latter-day kingdom of God.
 
----
 ###### 1 
 And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him.
 

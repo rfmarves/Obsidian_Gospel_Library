@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 6
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 6
 [[Apocalipse 5| <-- Apocalipse 5]] | [[Apocalipse]] | [[Apocalipse 7|Apocalipse 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo abre os seis selos, e João vê os acontecimentos de cada um — No quinto selo, ele vê os mártires cristãos; e no sexto, ele vê os sinais dos tempos.
 
----
 ###### 1 
 E havendo o Cordeiro aberto um dos selos, olhei, e ouvi um dos quatro animais, que dizia como  voz de trovão: Vem, e vê.
 

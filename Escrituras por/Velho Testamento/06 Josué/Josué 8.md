@@ -1,22 +1,21 @@
 ---
 title: Josué 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 8
 [[Josué 7| <-- Josué 7]] | [[Josué]] | [[Josué 9|Josué 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Josué utiliza-se de uma emboscada, toma Ai e mata seus habitantes — Ele edifica um altar no monte Ebal — As palavras da lei, tanto as bênçãos quanto as maldições, são lidas para o povo.
 
----
 ###### 1 
 Então disse o  a Josué: Não temas, e não te espantes; toma contigo toda a gente de guerra, e levanta-te, sobe a Ai; vê  te dei na tua mão o rei de Ai, e o seu povo, e a sua cidade, e a sua terra.
 

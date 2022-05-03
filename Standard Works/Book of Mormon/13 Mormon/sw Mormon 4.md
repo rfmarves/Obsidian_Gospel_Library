@@ -1,10 +1,11 @@
 ---
 title: sw Mormon 4
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mormon 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 War and carnage continue—The wicked punish the wicked—Greater wickedness prevails than ever before in all Israel—Women and children are sacrificed to idols—The Lamanites begin to sweep the Nephites before them. About A.D. 363–75.
 
----
 ###### 1 
 And now it came to pass that in the three hundred and sixty and third year the Nephites did go up with their armies to battle against the Lamanites, out of the land Desolation.
 

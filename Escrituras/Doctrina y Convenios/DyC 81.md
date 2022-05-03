@@ -1,22 +1,21 @@
 ---
 title: DyC 81
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 81
 [[DyC 80| <-- DyC 80]] | [[DyC]] | [[DyC 82|DyC 82 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/81?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/81?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–2, La Primera Presidencia siempre posee las llaves del reino; 3–7, Si Frederick G. Williams es fiel en su ministerio, logrará la vida eterna.
 
----
 ###### 1 
 De cierto, de cierto te digo, mi siervo Frederick G. Williams: Escucha la voz del que habla, la palabra del Señor tu Dios, y atiende al llamamiento al cual eres llamado, a saber, el de ser sumo sacerdote en mi iglesia y consejero de mi siervo José Smith, hijo,
 

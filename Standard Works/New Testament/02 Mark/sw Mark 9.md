@@ -1,10 +1,11 @@
 ---
 title: sw Mark 9
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus is transfigured on the mountain—He casts out an unclean spirit—He teaches concerning His death and resurrection, who will be greatest, and the condemnation of those who offend His little ones.
 
----
 ###### 1 
 And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power.
 

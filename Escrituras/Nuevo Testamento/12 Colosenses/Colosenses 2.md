@@ -1,22 +1,21 @@
 ---
 title: Colosenses 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Colosenses 2
 [[Colosenses 1| <-- Colosenses 1]] | [[Colosenses]] | [[Colosenses 3|Colosenses 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/col/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/col/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La plenitud de la divinidad mora en Cristo — Mirad que ninguno os engañe por medio de filosofías según las tradiciones de los hombres — El acta de los decretos en contra de nosotros fue clavada en la cruz de Cristo.
 
----
 ###### 1 
 Porque quiero que sepáis cuán gran lucha sostengo por vosotros, y por los que están en Laodicea, y por todos los que nunca han visto mi rostro en persona;
 

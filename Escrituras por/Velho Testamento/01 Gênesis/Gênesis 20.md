@@ -1,22 +1,21 @@
 ---
 title: Gênesis 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 20
 [[Gênesis 19| <-- Gênesis 19]] | [[Gênesis]] | [[Gênesis 21|Gênesis 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Abimeleque deseja Sara, que é preservada pelo Senhor — Abraão ora por Abimeleque, e o Senhor abençoa Abimeleque e sua casa.
 
----
 ###### 1 
 E partiu Abraão dali para a terra do sul, e habitou entre Cades e Sur, e peregrinou em Gerar.
 

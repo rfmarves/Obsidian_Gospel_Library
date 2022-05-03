@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 14
 [[Ezequiel 13| <-- Ezequiel 13]] | [[Ezequiel]] | [[Ezequiel 15|Ezequiel 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor não responderá aos que adoram falsos deuses e cometem iniquidade — Ezequiel prega arrependimento — O povo não seria salvo mesmo que Noé, Daniel e Jó ministrassem entre eles.
 
----
 ###### 1 
 E vieram a mim  homens dos anciãos de Israel, e se assentaram diante de mim.
 

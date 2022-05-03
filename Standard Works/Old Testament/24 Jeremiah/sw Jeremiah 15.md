@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people of Judah will suffer death, the sword, famine, and captivity—They will be scattered into all the kingdoms of the earth—Jerusalem will be destroyed.
 
----
 ###### 1 
 Then said the  unto me, Though Moses and Samuel stood before me,  my mind  not  toward this people: cast  out of my sight, and let them go forth.
 

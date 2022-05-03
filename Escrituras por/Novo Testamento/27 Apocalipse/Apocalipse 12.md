@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 12
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 12
 [[Apocalipse 11| <-- Apocalipse 11]] | [[Apocalipse]] | [[Apocalipse 13|Apocalipse 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 João vê a iminente apostasia da Igreja — Ele também vê a Guerra nos Céus, no princípio, quando Satanás foi expulso — Ele vê a continuação dessa guerra na Terra.
 
----
 ###### 1 
 E viu-se um grande sinal no céu: uma mulher vestida de sol, e a lua debaixo dos seus pés, e uma coroa de doze estrelas sobre a sua cabeça.
 

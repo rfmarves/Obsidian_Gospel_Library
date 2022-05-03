@@ -1,22 +1,21 @@
 ---
 title: Gênesis 26
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 26
 [[Gênesis 25| <-- Gênesis 25]] | [[Gênesis]] | [[Gênesis 27|Gênesis 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor promete a Isaque uma posteridade tão numerosa quanto as estrelas do céu — Em sua semente serão abençoadas todas as nações — O Senhor faz Isaque prosperar, temporal e espiritualmente, por causa de Abraão — Isaque oferece sacrifícios — Esaú se casa com mulheres heteias para tristeza de seus pais.
 
----
 ###### 1 
 E havia fome na terra, além da primeira fome, que foi nos dias de Abraão; por isso foi Isaque a Abimeleque, rei dos filisteus, em Gerar.
 

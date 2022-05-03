@@ -1,22 +1,21 @@
 ---
 title: Jeremías 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 2
 [[Jeremías 1| <-- Jeremías 1]] | [[Jeremías]] | [[Jeremías 3|Jeremías 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El pueblo de Judá abandonó a Jehová, la fuente de agua viva — Adoraron ídolos y rechazaron a los profetas.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

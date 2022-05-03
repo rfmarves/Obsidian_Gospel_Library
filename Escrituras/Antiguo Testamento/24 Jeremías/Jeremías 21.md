@@ -1,22 +1,21 @@
 ---
 title: Jeremías 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 21
 [[Jeremías 20| <-- Jeremías 20]] | [[Jeremías]] | [[Jeremías 22|Jeremías 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías predice el sitio, el cautiverio y la destrucción de Jerusalén — Sedequías será hecho cautivo por Nabucodonosor.
 
----
 ###### 1 
 La palabra que vino a Jeremías de Jehová, cuando el rey Sedequías envió a él a Pasur hijo de Malquías y al sacerdote Sofonías hijo de Maasías, para que le dijesen:
 

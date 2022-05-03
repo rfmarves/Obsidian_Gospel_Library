@@ -1,22 +1,21 @@
 ---
 title: Gálatas 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gálatas 4
 [[Gálatas 3| <-- Gálatas 3]] | [[Gálatas]] | [[Gálatas 5|Gálatas 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/gal/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/gal/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos são filhos de Deus por adoção — Paulo exorta os gálatas a voltar a Cristo — Ele compara os dois convênios.
 
----
 ###### 1 
 Digo, pois,  por todo o tempo em que o herdeiro é menino, em nada difere do servo, ainda que seja senhor de tudo;
 

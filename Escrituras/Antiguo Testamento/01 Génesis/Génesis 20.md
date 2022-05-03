@@ -1,22 +1,21 @@
 ---
 title: Génesis 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 20
 [[Génesis 19| <-- Génesis 19]] | [[Génesis]] | [[Génesis 21|Génesis 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Abimelec desea a Sara, quien es protegida por Jehová — Abraham ora por Abimelec, y Jehová bendice a Abimelec y a su casa.
 
----
 ###### 1 
 De allí partió Abraham a la tierra del sur, y se asentó entre Cades y Shur, y habitó como forastero en Gerar.
 

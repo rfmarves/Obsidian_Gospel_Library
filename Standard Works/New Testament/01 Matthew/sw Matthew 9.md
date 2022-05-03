@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 9
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus forgives sins, heals a paralytic, and calls Matthew—Jesus eats with sinners, heals a woman who touches His garments, and raises Jairus’s daughter to life—He opens the eyes of the blind, casts out a devil, and preaches the gospel.
 
----
 ###### 1 
 And he entered into a ship, and passed over, and came into his own city.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 30
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 30
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/30?lang=eng)
 
----
-__Summary__
+> __Summary__
 Hezekiah invites all Israel to a solemn Passover in Jerusalem—Some accept the call; others laugh him to scorn—The faithful Israelites worship the Lord in Jerusalem.
 
----
 ###### 1 
 And Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to the house of the  at Jerusalem, to keep the passover unto the  God of Israel.
 

@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 38
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 38
 [[Ezequiel 37| <-- Ezequiel 37]] | [[Ezequiel]] | [[Ezequiel 39|Ezequiel 39 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/38?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/38?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A batalha de Gogue, da terra de Magogue, contra Israel precederá a Segunda Vinda — O Senhor virá em meio a guerra e pestilência, e todos os homens tremerão na Sua presença.
 
----
 ###### 1 
 E a palavra do  veio a mim, dizendo:
 

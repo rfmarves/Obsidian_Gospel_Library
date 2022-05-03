@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 26
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah prophesies the destruction of the people—For this he is arraigned, tried, and then acquitted.
 
----
 ###### 1 
 In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word from the , saying,
 

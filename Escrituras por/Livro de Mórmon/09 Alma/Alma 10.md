@@ -1,22 +1,21 @@
 ---
 title: Alma 10
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 10
 [[Alma 9| <-- Alma 9]] | [[Alma]] | [[Alma 11|Alma 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Leí descendia de Manassés — Amuleque relata a ordem que recebera do anjo para cuidar de Alma — As orações dos justos fazem com que o povo seja poupado — Advogados e juízes iníquos alicerçam a destruição do povo. Aproximadamente 82 a.C.
 
----
 ###### 1 
 Ora, estas são as palavras que Amuleque pregou ao povo que estava na terra de Amonia, dizendo:
 

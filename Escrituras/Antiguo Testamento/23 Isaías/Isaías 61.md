@@ -1,22 +1,21 @@
 ---
 title: Isaías 61
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 61
 [[Isaías 60| <-- Isaías 60]] | [[Isaías]] | [[Isaías 62|Isaías 62 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/61?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/61?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Isaías habla acerca del Mesías — El Mesías tendrá el Espíritu, predicará el Evangelio y proclamará la libertad — En los últimos días, Jehová llamará a Sus ministros y hará un convenio sempiterno con el pueblo.
 
----
 ###### 1 
 El espíritu de Jehová el Señor está sobre mí, porque me ha ungido Jehová para proclamar buenas nuevas a los mansos; me ha enviado a vendar a los quebrantados de corazón, a proclamar libertad a los cautivos y a los prisioneros apertura de la cárcel;
 

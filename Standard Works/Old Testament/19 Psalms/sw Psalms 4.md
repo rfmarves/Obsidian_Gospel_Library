@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 4
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/4?lang=eng)
 
----
+```
 To the chief Musician on Neginoth, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David pleads for mercy—He counsels, Put your trust in the Lord.
 
----
 ###### 1 
 Hear me when I call, O God of my righteousness: thou hast enlarged me  in distress; have mercy upon me, and hear my prayer.
 

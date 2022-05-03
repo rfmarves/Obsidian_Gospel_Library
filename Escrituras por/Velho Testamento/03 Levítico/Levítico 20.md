@@ -1,22 +1,21 @@
 ---
 title: Levítico 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 20
 [[Levítico 19| <-- Levítico 19]] | [[Levítico]] | [[Levítico 21|Levítico 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Prescreve-se a pena de morte para quem sacrificar filhos a Moloque, amaldiçoar o pai ou a mãe, cometer adultério, homossexualismo, bestialismo, necromancia e outras abominações — Várias leis e ordenanças são enumeradas.
 
----
 ###### 1 
 Falou mais o  a Moisés, dizendo:
 

@@ -1,22 +1,21 @@
 ---
 title: Isaías 64
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 64
 [[Isaías 63| <-- Isaías 63]] | [[Isaías]] | [[Isaías 65|Isaías 65 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/64?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/64?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo do Senhor ora pela Segunda Vinda e pela salvação que terá então.
 
----
 ###### 1 
 Oh! se fendesses os céus,  descesses, se os montes se escoassem de diante da tua face,
 

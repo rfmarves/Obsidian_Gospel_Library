@@ -1,22 +1,21 @@
 ---
 title: Salmos 115
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 115
 [[Salmos 114| <-- Salmos 114]] | [[Salmos]] | [[Salmos 116|Salmos 116 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/115?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/115?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nosso Deus está nos céus — Os ídolos são deuses falsos — Confia no Senhor.
 
----
 ###### 1 
 Não a nós, , não a nós, mas ao teu nome dá glória, por causa da tua benignidade e da tua verdade.
 

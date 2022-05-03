@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 1
 [[2 Reis 25| <-- 2 Reis 25]] | [[1 Crônicas]] | [[1 Crônicas 2|1 Crônicas 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 As genealogias e os vínculos familiares de Adão a Abraão são apresentados — Enumera-se a posteridade de Abraão.
 
----
 ###### 1 
 Adão, Sete, Enos,
 

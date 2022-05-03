@@ -1,22 +1,21 @@
 ---
 title: Levítico 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 6
 [[Levítico 5| <-- Levítico 5]] | [[Levítico]] | [[Levítico 7|Levítico 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo deve primeiramente fazer a restituição pelo pecado, depois deve oferecer uma oferta pela culpa, para assim receber o perdão, por meio da expiação feita pelos sacerdotes.
 
----
 ###### 1 
 Falou mais o  a Moisés, dizendo:
 

@@ -1,22 +1,21 @@
 ---
 title: Daniel 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 10
 [[Daniel 9| <-- Daniel 9]] | [[Daniel]] | [[Daniel 11|Daniel 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Daniel ve a Jehová y a otros seres en una visión gloriosa — Se le muestra lo que ha de acontecer en los últimos días.
 
----
 ###### 1 
 En el tercer año de Ciro, rey de Persia, fue revelada la palabra a Daniel, cuyo nombre era Beltsasar; y la palabra era verdadera y el conflicto grande; y él comprendió la palabra y tuvo entendimiento de la visión.
 

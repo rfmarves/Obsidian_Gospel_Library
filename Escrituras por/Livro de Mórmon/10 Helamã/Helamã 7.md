@@ -1,27 +1,25 @@
 ---
 title: Helamã 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamã 7
 [[Helamã 6| <-- Helamã 6]] | [[Helamã]] | [[Helamã 8|Helamã 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/7?lang=por)
 
----
+```
 Profecia de Néfi, Filho de Helamã — Deus ameaça visitar o povo de Néfi em sua cólera, até sua inteira destruição, caso não se arrependa de suas iniquidades. Deus fere o povo de Néfi com uma pestilência; o povo arrepende-se e volta-se para ele. Samuel, um lamanita, profetiza aos nefitas.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Néfi é rejeitado no norte e volta para Zaraenla — Ele ora na torre de seu jardim e depois chama o povo ao arrependimento, para que não pereça. Aproximadamente 23–21 a.C.
 
----
 ###### 1 
 Eis que aconteceu, no sexagésimo nono ano em que os juízes governaram o povo nefita, que Néfi, filho de Helamã, retornou da terra do norte para a terra de Zaraenla.
 

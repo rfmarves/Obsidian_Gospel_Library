@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jericho is taken and destroyed—Only Rahab and her household are saved.
 
----
 ###### 1 
 Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.
 

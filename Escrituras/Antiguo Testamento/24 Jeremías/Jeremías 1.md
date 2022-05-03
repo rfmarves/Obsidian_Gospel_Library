@@ -1,22 +1,21 @@
 ---
 title: Jeremías 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 1
 [[Isaías 66| <-- Isaías 66]] | [[Jeremías]] | [[Jeremías 2|Jeremías 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías fue preordenado para ser profeta a las naciones — Siendo un ser mortal, es llamado a declarar la palabra de Jehová.
 
----
 ###### 1 
 Las palabras de Jeremías hijo de Hilcías, de los sacerdotes que estaban en Anatot, en la tierra de Benjamín.
 

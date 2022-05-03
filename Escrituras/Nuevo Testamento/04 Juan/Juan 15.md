@@ -1,22 +1,21 @@
 ---
 title: Juan 15
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 15
 [[Juan 14| <-- Juan 14]] | [[Juan]] | [[Juan 16|Juan 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús es la vid; Sus discípulos son los pámpanos — Habla de la ley perfecta del amor — Sus siervos han sido escogidos y ordenados por Él — El mundo aborrece la religión verdadera y lucha en contra de ella — Promete el Consolador, el Espíritu de Verdad.
 
----
 ###### 1 
 Yo soy la vid verdadera, y mi Padre es el labrador.
 

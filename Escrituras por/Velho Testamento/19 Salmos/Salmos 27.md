@@ -1,27 +1,25 @@
 ---
 title: Salmos 27
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 27
 [[Salmos 26| <-- Salmos 26]] | [[Salmos]] | [[Salmos 28|Salmos 28 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/27?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi declara: O Senhor é a minha luz e a minha salvação — Ele deseja morar na casa do Senhor para sempre — Ele aconselha: Espera no Senhor e sê corajoso.
 
----
 ###### 1 
 O   a minha luz e a minha salvação; a quem temerei? O   a força da minha vida; de quem me recearei?
 

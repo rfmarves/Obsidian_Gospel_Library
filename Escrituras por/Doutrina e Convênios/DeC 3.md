@@ -1,22 +1,21 @@
 ---
 title: DeC 3
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 3
 [[DeC 2| <-- DeC 2]] | [[DeC]] | [[DeC 4|DeC 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, O caminho do Senhor é um círculo eterno; 5–15, Joseph Smith precisa arrepender-se ou perderá o dom de traduzir; 16–20, O Livro de Mórmon é trazido à luz para salvar a semente de Leí.
 
----
 ###### 1 
 As obras e os desígnios e os propósitos de Deus não podem ser frustrados nem podem se dissipar.
 

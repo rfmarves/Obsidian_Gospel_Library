@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 150
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 150
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/150?lang=eng)
 
----
-__Summary__
+> __Summary__
 Praise God in His sanctuary—Let everything that has breath praise the Lord.
 
----
 ###### 1 
 Praise ye the . Praise God in his sanctuary: praise him in the firmament of his power.
 

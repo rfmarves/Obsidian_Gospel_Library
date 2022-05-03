@@ -1,22 +1,21 @@
 ---
 title: Proverbios 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 16
 [[Proverbios 15| <-- Proverbios 15]] | [[Proverbios]] | [[Proverbios 17|Proverbios 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Mejor es adquirir sabiduría que oro — Antes de la destrucción viene el orgullo — Las canas del justo son corona de honra.
 
----
 ###### 1 
 
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 97
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 97
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/97?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord reigns in millennial glory—The hills melt at His presence—Those who love the Lord hate evil.
 
----
 ###### 1 
 The  reigneth; let the earth rejoice; let the multitude of isles be glad 
 

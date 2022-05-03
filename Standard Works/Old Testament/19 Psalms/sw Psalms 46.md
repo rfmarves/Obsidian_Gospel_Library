@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 46
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 46
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/46?lang=eng)
 
----
+```
 To the chief Musician for the sons of Korah, A Song upon Alamoth.
+```
 
----
-
----
-__Summary__
+> __Summary__
 God is our refuge and strength—He dwells in His city, does marvelous things, and says, Be still and know that I am God.
 
----
 ###### 1 
 God  our refuge and strength, a very present help in trouble.
 

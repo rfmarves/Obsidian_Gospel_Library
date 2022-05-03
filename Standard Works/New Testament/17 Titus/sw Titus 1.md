@@ -1,10 +1,11 @@
 ---
 title: sw Titus 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Titus 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/titus/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Eternal life was promised before the world began—The qualifications of bishops are given—Unto the pure, all things are pure.
 
----
 ###### 1 
 Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness;
 

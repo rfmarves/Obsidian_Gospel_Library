@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 34
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 34
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/34?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses sees the promised land and is taken by the Lord—Joshua leads Israel—Moses was Israel’s greatest prophet.
 
----
 ###### 1 
 And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that  over against Jericho. And the  shewed him all the land of Gilead, unto Dan,
 

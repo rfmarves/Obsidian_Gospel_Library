@@ -1,22 +1,21 @@
 ---
 title: Lucas 17
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 17
 [[Lucas 16| <-- Lucas 16]] | [[Lucas]] | [[Lucas 18|Lucas 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus fala de ofensas, perdão e fé — Até os fiéis são servos inúteis — Dez leprosos são curados — Jesus discursa sobre a Segunda Vinda.
 
----
 ###### 1 
 E disse aos discípulos: É impossível que não venham pedras de tropeço, mas ai  por quem vierem!
 

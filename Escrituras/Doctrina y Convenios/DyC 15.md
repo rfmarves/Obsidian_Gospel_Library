@@ -1,22 +1,21 @@
 ---
 title: DyC 15
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 15
 [[DyC 14| <-- DyC 14]] | [[DyC]] | [[DyC 16|DyC 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–2, El brazo del Señor se extiende sobre toda la tierra; 3–6, Predicar el Evangelio y salvar almas es lo de mayor valor.
 
----
 ###### 1 
 Da oído, mi siervo John, y escucha las palabras de Jesucristo, tu Señor y Redentor.
 

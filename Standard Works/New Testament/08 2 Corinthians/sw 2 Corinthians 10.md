@@ -1,10 +1,11 @@
 ---
 title: sw 2 Corinthians 10
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Corinthians 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Bring every thought into obedience—Paul glories in the Lord.
 
----
 ###### 1 
 Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence  base among you, but being absent am bold toward you:
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ether 5
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ether 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Three witnesses and the work itself will stand as a testimony of the truthfulness of the Book of Mormon.
 
----
 ###### 1 
 And now I, Moroni, have written the words which were commanded me, according to my memory; and I have told you the things which I have sealed up; therefore touch them not in order that ye may translate; for that thing is forbidden you, except by and by it shall be wisdom in God.
 

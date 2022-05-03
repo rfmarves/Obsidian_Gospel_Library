@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 12
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 12
 [[1 Nefi 11| <-- 1 Nefi 11]] | [[1 Nefi]] | [[1 Nefi 13|1 Nefi 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nefi ve en visión la tierra de promisión; la rectitud, la iniquidad y la caída de sus habitantes; la venida del Cordero de Dios entre ellos; que los Doce Discípulos y los Doce Apóstoles juzgarán a Israel; y el estado aborrecible y sucio de aquellos que degeneran en la incredulidad. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 Y aconteció que me dijo el ángel: Mira y ve a tu posteridad y también la posteridad de tus hermanos. Y miré, y vi la tierra de promisión; y vi multitudes de gentes, sí, cual si fuera en tan inmenso número como la arena del mar.
 

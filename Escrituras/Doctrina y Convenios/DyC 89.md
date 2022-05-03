@@ -1,22 +1,21 @@
 ---
 title: DyC 89
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 89
 [[DyC 88| <-- DyC 88]] | [[DyC]] | [[DyC 90|DyC 90 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–9, Se proscribe el uso del vino, de las bebidas fuertes, del tabaco y de las bebidas calientes; 10–17, Se decretan las hierbas, las frutas, la carne y el grano para el uso del hombre y de los animales; 18–21, La obediencia a las leyes del Evangelio, incluso a la Palabra de Sabiduría, trae bendiciones temporales y espirituales.
 
----
 ###### 1 
 Una  para el beneficio del consejo de sumos sacerdotes reunido en Kirtland, y la iglesia, y también los santos de Sion
 

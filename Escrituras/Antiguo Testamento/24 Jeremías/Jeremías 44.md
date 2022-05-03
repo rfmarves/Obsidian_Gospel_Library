@@ -1,22 +1,21 @@
 ---
 title: Jeremías 44
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 44
 [[Jeremías 43| <-- Jeremías 43]] | [[Jeremías]] | [[Jeremías 45|Jeremías 45 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/44?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/44?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías profetiza que los judíos que moran en Egipto, salvo un pequeño remanente, serán destruidos porque adoran dioses falsos.
 
----
 ###### 1 
 La palabra que vino a Jeremías acerca de todos los judíos que moraban en la tierra de Egipto, que vivían en Migdol, y en Tafnes, y en Menfis y en la tierra de Patros, diciendo:
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 David speaks by the power of the Holy Ghost—Rulers must be just, ruling in the fear of God—David’s mighty men are named and their deeds extolled.
 
----
 ###### 1 
 Now these  the last words of David. David the son of Jesse said, and the man  raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
 

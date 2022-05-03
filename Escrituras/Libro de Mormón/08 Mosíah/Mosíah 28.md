@@ -1,22 +1,21 @@
 ---
 title: Mosíah 28
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 28
 [[Mosíah 27| <-- Mosíah 27]] | [[Mosíah]] | [[Mosíah 29|Mosíah 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de Mosíah recibirán la vida eterna — Salen a predicar a los lamanitas — Valiéndose de las dos piedras de vidente Mosíah traduce las planchas jareditas. Aproximadamente 92 a.C.
 
----
 ###### 1 
 Ahora bien, aconteció que después que los hijos de Mosíah hubieron hecho todas estas cosas, llevaron un pequeño número de personas consigo, y volvieron a su padre el rey, y le expresaron su deseo de que les concediera subir a la tierra de Nefi, con aquellos que habían escogido, para predicar las cosas que habían oído, e impartir la palabra de Dios a sus hermanos los lamanitas,
 

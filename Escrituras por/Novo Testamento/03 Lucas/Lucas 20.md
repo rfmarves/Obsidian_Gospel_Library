@@ -1,22 +1,21 @@
 ---
 title: Lucas 20
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 20
 [[Lucas 19| <-- Lucas 19]] | [[Lucas]] | [[Lucas 21|Lucas 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os principais dos sacerdotes se opõem a Jesus — Ele conta a parábola dos lavradores maus — Dar a César e a Deus o que é deles — Jesus ensina a lei do casamento.
 
----
 ###### 1 
 E aconteceu num daqueles dias que, estando ele ensinando o povo no templo, e anunciando o evangelho, sobrevieram os principais dos sacerdotes e os escribas com os anciãos,
 

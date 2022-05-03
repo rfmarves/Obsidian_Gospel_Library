@@ -1,22 +1,21 @@
 ---
 title: Josué 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 11
 [[Josué 10| <-- Josué 10]] | [[Josué]] | [[Josué 12|Josué 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Josué e Israel conquistan todo el territorio, destruyendo muchas ciudades y naciones.
 
----
 ###### 1 
 Y aconteció que cuando Jabín rey de Hazor oyó esto, envió un  a Jobab rey de Madón, y al rey de Simrón, y al rey de Acsaf,
 

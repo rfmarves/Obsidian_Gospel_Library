@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moab will be laid waste, and her people will howl and weep.
 
----
 ###### 1 
 The burden of Moab. Because in the night Ar of Moab is laid waste,  brought to silence; because in the night Kir of Moab is laid waste,  brought to silence;
 

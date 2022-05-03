@@ -1,27 +1,25 @@
 ---
 title: Salmos 125
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 125
 [[Salmos 124| <-- Salmos 124]] | [[Salmos]] | [[Salmos 126|Salmos 126 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/125?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/125?lang=por)
 
----
+```
 Cântico das subidas.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Bem-aventurados os que confiam no Senhor — Paz haverá sobre Israel.
 
----
 ###### 1 
 Os que confiam no   como o monte Sião,  não se abala,  permanece para sempre.
 

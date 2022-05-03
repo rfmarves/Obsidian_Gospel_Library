@@ -1,16 +1,17 @@
 ---
 title: Testimonio del Profeta José Smith
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Testimonio del Profeta José Smith
 [[Testimonio de Ocho Testigos| <-- Testimonio de Ocho Testigos]] | [[Introducción y Testimonios]] | [[Una breve explicación del Libro de Mormón|Una breve explicación del Libro de Mormón --> ]]
 
-[En línea](https://www.churchofjesuschrist.org/study/scriptures/bofm/js?lang=spa)
+[en línea](https://www.churchofjesuschrist.org/study/scriptures/bofm/js?lang=spa)
 
 Las propias palabras del profeta José Smith en cuanto a la aparición del Libro de Mormón son las siguientes:
 

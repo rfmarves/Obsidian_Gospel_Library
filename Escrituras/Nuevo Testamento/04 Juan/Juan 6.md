@@ -1,22 +1,21 @@
 ---
 title: Juan 6
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 6
 [[Juan 5| <-- Juan 5]] | [[Juan]] | [[Juan 7|Juan 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús alimenta a cinco mil — Anda sobre el mar — Él es el maná viviente enviado por Dios — La salvación se obtiene al comer el pan de vida — Jesús explica cómo los hombres comen Su carne y beben Su sangre — Pedro testifica que Jesús es el Mesías.
 
----
 ###### 1 
 Después de esto, Jesús se fue al otro lado del mar de Galilea,  el de Tiberias.
 

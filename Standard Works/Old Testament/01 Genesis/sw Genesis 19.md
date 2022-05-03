@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Lot entertains holy men—The men of Sodom seek to abuse Lot’s guests and are smitten with blindness—Lot is sent out of Sodom—The Lord rains brimstone and fire upon Sodom and Gomorrah—Lot’s daughters preserve his seed in the land.
 
----
 ###### 1 
 And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing  rose up to meet them; and he bowed himself with his face toward the ground;
 

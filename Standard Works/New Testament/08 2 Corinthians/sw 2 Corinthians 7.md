@@ -1,10 +1,11 @@
 ---
 title: sw 2 Corinthians 7
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Corinthians 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Godly sorrow for sin leads to repentance—The sorrow of the world leads to death.
 
----
 ###### 1 
 Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.
 

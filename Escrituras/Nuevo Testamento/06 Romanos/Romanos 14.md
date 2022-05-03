@@ -1,22 +1,21 @@
 ---
 title: Romanos 14
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 14
 [[Romanos 13| <-- Romanos 13]] | [[Romanos]] | [[Romanos 15|Romanos 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Evitad contender sobre opiniones y evitad juzgaros injustamente unos a otros — Toda rodilla se doblará ante Cristo — El reino de Dios abarca la rectitud, la paz y el gozo en el Espíritu Santo.
 
----
 ###### 1 
 Recibid al débil en la fe,  no para contender sobre opiniones.
 

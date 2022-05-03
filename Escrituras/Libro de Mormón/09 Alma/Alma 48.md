@@ -1,22 +1,21 @@
 ---
 title: Alma 48
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 48
 [[Alma 47| <-- Alma 47]] | [[Alma]] | [[Alma 49|Alma 49 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/48?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/48?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Amalickíah incita a los lamanitas contra los nefitas — Moroni prepara a su pueblo para defender la causa de los cristianos — Moroni se regocija en la libertad e independencia, y es un poderoso hombre de Dios. Aproximadamente 72 a.C.
 
----
 ###### 1 
 Y aconteció que en cuanto hubo logrado Amalickíah el reino, empezó a incitar el corazón de los lamanitas contra el pueblo de Nefi; sí, nombró algunos hombres para que desde sus torres hablaran a los lamanitas en contra de los nefitas.
 

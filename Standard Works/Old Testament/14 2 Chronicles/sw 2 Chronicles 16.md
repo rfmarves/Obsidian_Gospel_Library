@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Asa employs Syria to defeat Israel—Hanani the seer reproves Asa for lack of faith—Asa suffers from disease and dies.
 
----
 ###### 1 
 In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah.
 

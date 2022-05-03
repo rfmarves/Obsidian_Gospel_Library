@@ -1,22 +1,21 @@
 ---
 title: Abraham 5
-tags: #Escrituras\PdGP
+tags: Escrituras\PdGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Abraham 5
 [[Abraham 4| <-- Abraham 4]] | [[Abraham]] | [[José Smith--Mateo 1|José Smith--Mateo 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/pgp/abr/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/pgp/abr/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los Dioses terminan Sus planes de la creación de todas las cosas — Llevan a efecto la Creación de acuerdo con Sus planes — Adán pone nombre a toda criatura viviente.
 
----
 ###### 1 
 Y así terminaremos los cielos y la tierra, y todas sus huestes.
 

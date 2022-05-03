@@ -1,10 +1,11 @@
 ---
 title: sw D&C 41
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 41
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/41?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, The elders will govern the Church by the spirit of revelation; 4–6, True disciples will receive and keep the Lord’s law; 7–12, Edward Partridge is named as a bishop unto the Church.
 
----
 ###### 1 
 Hearken and hear, O ye my people, saith the Lord and your God, ye whom I delight to bless with the greatest of all blessings, ye that hear me; and ye that hear me not will I curse, that have professed my name, with the heaviest of all cursings.
 

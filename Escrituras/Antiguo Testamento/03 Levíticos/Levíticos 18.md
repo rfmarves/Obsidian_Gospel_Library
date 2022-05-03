@@ -1,22 +1,21 @@
 ---
 title: Levíticos 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 18
 [[Levíticos 17| <-- Levíticos 17]] | [[Levíticos]] | [[Levíticos 19|Levíticos 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel no deberá vivir como los egipcios ni como los cananeos — Se prohíben los matrimonios con parientes muy cercanos y se hacen otras prohibiciones — La conducta homosexual y otras perversiones sexuales son una abominación — La tierra vomita a las naciones que practican abominaciones sexuales.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

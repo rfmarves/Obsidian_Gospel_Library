@@ -1,22 +1,21 @@
 ---
 title: 2 Corintios 6
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Corintios 6
 [[2 Corintios 5| <-- 2 Corintios 5]] | [[2 Corintios]] | [[2 Corintios 7|2 Corintios 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Hoy es el día de salvación — Los ministros de Dios deben andar rectamente y soportar todas las cosas — Los santos no deben unirse en yugo desigual con los incrédulos.
 
----
 ###### 1 
 Y así  colaboradores juntamente  exhortamos también a que no recibáis en vano la gracia de Dios
 

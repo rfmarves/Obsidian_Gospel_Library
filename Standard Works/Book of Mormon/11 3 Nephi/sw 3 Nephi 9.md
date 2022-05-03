@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 9
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the darkness, the voice of Christ proclaims the destruction of many people and cities for their wickedness—He also proclaims His divinity, announces that the law of Moses is fulfilled, and invites men to come unto Him and be saved. About A.D. 34.
 
----
 ###### 1 
 And it came to pass that there was a voice heard among all the inhabitants of the earth, upon all the face of this land, crying:
 

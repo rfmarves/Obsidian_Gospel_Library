@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 7
 [[2 Samuel 6| <-- 2 Samuel 6]] | [[2 Samuel]] | [[2 Samuel 8|2 Samuel 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi se propõe a construir uma casa para o Senhor — O Senhor, por intermédio de Natã, diz que não pediu a Davi que fizesse isso — O Senhor estabelecerá a casa e o reino de Davi para sempre — Davi profere uma oração de ação de graças.
 
----
 ###### 1 
 E sucedeu que, estando o rei  em sua casa, e  o  lhe tinha dado descanso de todos os seus inimigos em redor,
 

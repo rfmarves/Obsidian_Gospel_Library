@@ -1,22 +1,21 @@
 ---
 title: Gálatas 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gálatas 4
 [[Gálatas 3| <-- Gálatas 3]] | [[Gálatas]] | [[Gálatas 5|Gálatas 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/gal/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/gal/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los santos son hijos de Dios por adopción — Pablo exhorta a los gálatas a volver a Cristo — Compara los dos convenios.
 
----
 ###### 1 
 Y también digo: Entretanto que el heredero es niño, en nada difiere del esclavo, aunque es señor de todo,
 

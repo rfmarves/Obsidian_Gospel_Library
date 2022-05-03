@@ -1,22 +1,21 @@
 ---
 title: Génesis 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 4
 [[Génesis 3| <-- Génesis 3]] | [[Génesis]] | [[Génesis 5|Génesis 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Eva da a luz a Caín y a Abel — Ellos ofrecen sacrificios — Caín mata a Abel y es maldecido por Jehová, quien además pone una marca sobre él — Los hijos de los hombres se multiplican — Adán engendra a Set y Set engendra a Enós.
 
----
 ###### 1 
 Y conoció Adán a su esposa Eva, la cual concibió y dio a luz a Caín, y dijo: He adquirido varón por voluntad de Jehová.
 

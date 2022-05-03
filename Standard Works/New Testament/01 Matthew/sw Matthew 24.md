@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 24
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus foretells the doom of Jerusalem and the destruction of the temple—Great calamities will precede His Second Coming—He gives the parable of the fig tree.
 
----
 ###### 1 
 And Jesus went out, and departed from the temple: and his disciples came to  for to shew him the buildings of the temple.
 

@@ -1,22 +1,21 @@
 ---
 title: Jeremías 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 9
 [[Jeremías 8| <-- Jeremías 8]] | [[Jeremías]] | [[Jeremías 10|Jeremías 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías se lamenta intensamente por los pecados del pueblo — Los de este pueblo serán esparcidos entre las naciones y castigados.
 
----
 ###### 1 
 ¡Oh, si mi cabeza fuera agua y mis ojos fuente de lágrimas, para llorar día y noche por los muertos de la hija de mi pueblo!
 

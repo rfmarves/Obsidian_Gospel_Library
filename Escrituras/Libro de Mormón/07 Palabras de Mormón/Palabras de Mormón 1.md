@@ -1,22 +1,21 @@
 ---
 title: Palabras de Mormón 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Palabras de Mormón 1
 [[Omni 1| <-- Omni 1]] | [[Palabras de Mormón]] | [[Mosíah 1|Mosíah 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/w-of-m/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/w-of-m/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Mormón compendia las planchas mayores de Nefi — Coloca las planchas menores junto con las otras planchas — El rey Benjamín establece la paz en la tierra. Aproximadamente 385 d.C.
 
----
 ###### 1 
 Y ahora bien, yo, Mormón, estando a punto de entregar en manos de mi hijo Moroni los anales que he estado haciendo, he aquí que he presenciado casi toda la destrucción de mi pueblo, los nefitas.
 

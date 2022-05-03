@@ -1,22 +1,21 @@
 ---
 title: Rute 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Rute 4
 [[Rute 3| <-- Rute 3]] | [[Rute]] | [[1 Samuel 1|1 Samuel 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ruth/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ruth/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O parente mais próximo recusa-se a cumprir o seu dever, e Boaz toma Rute por esposa — Rute dá à luz Obede, de quem descendeu o rei Davi.
 
----
 ###### 1 
 E Boaz subiu à porta, e assentou-se ali; e eis que o remidor de que Boaz tinha falado ia passando, e disse-lhe: Ó fulano, desvia-te  assenta-te aqui. E desviou-se  e assentou-se.
 

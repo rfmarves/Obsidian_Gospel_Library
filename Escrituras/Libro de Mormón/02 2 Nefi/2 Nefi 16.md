@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 16
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 16
 [[2 Nefi 15| <-- 2 Nefi 15]] | [[2 Nefi]] | [[2 Nefi 17|2 Nefi 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Isaías ve al Señor — Son perdonados los pecados de Isaías — Él es llamado a profetizar — Profetiza que los judíos rechazarán las enseñanzas de Cristo — Un resto volverá — Compárese con Isaías 6. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 En el año en que murió el rey Uzías, vi también al Señor sentado sobre un trono alto y enaltecido, y las faldas de su ropa llenaban el templo.
 

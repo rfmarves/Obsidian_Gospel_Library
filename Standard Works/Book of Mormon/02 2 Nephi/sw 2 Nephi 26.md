@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 26
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ will minister to the Nephites—Nephi foresees the destruction of his people—They will speak from the dust—The Gentiles will build up false churches and secret combinations—The Lord forbids men to practice priestcrafts. About 559–545 B.C.
 
----
 ###### 1 
 And after Christ shall have risen from the dead he shall show himself unto you, my children, and my beloved brethren; and the words which he shall speak unto you shall be the law which ye shall do.
 

@@ -1,27 +1,25 @@
 ---
 title: Alma 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 9
 [[Alma 8| <-- Alma 8]] | [[Alma]] | [[Alma 10|Alma 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/9?lang=por)
 
----
+```
 Palavras de Alma e também palavras de Amuleque, ditas ao povo que habitava a terra de Amonia. Eles são aprisionados e, pelo milagroso poder de Deus que estava neles, são libertados, segundo o registro de Alma.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Alma ordena ao povo de Amonia que se arrependa — O Senhor será misericordioso para com os lamanitas nos últimos dias — Se os nefitas abandonarem a luz, serão destruídos pelos lamanitas — O Filho de Deus logo virá — Ele redimirá os que se arrependem, são batizados e têm fé em Seu nome. Aproximadamente 82 a.C.
 
----
 ###### 1 
 E novamente eu, Alma, tendo sido ordenado por Deus a levar comigo Amuleque para pregar outra vez a esse povo, ou seja, o povo que estava na cidade de Amonia, aconteceu que quando principiei a pregar-lhes, eles começaram a contender comigo, dizendo:
 

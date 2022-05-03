@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Solomon loves the Lord and keeps His commandments—The Lord appears to Solomon and promises him a wise and an understanding heart—He judges between two harlots and determines who is the mother of a child.
 
----
 ###### 1 
 And Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh’s daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of the , and the wall of Jerusalem round about.
 

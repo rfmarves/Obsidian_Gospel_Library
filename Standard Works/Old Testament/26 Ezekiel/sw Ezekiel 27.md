@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 27
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel laments the fall of Tyre and the loss of her riches and commerce.
 
----
 ###### 1 
 The word of the  came again unto me, saying,
 

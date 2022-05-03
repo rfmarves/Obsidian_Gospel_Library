@@ -1,10 +1,11 @@
 ---
 title: sw Nehemiah 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nehemiah 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Artaxerxes sends Nehemiah to Jerusalem—Sanballat and others oppose Nehemiah in rebuilding the walls and gates of Jerusalem.
 
----
 ###### 1 
 And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king,  wine  before him: and I took up the wine, and gave  unto the king. Now I had not been  sad in his presence.
 

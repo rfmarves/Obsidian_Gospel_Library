@@ -1,22 +1,21 @@
 ---
 title: Mosias 26
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 26
 [[Mosias 25| <-- Mosias 25]] | [[Mosias]] | [[Mosias 27|Mosias 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Muitos membros da Igreja são guiados ao pecado por incrédulos — Alma recebe a promessa de vida eterna — Aqueles que se arrependem e são batizados recebem perdão — Membros da Igreja, em pecado, que se arrependerem e se confessarem a Alma e ao Senhor, serão perdoados; do contrário, serão excomungados. Aproximadamente 120–100 a.C.
 
----
 ###### 1 
 Ora, aconteceu que havia muitos da nova geração que não podiam compreender as palavras do rei Benjamim, pois eram criancinhas na época em que ele falara a seu povo; e não acreditavam na tradição de seus pais.
 

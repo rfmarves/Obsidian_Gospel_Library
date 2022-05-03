@@ -1,22 +1,21 @@
 ---
 title: Neemias 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Neemias 3
 [[Neemias 2| <-- Neemias 2]] | [[Neemias]] | [[Neemias 4|Neemias 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Enumeram-se o nome e a ordem daqueles que ajudam a construir as muralhas e as portas de Jerusalém.
 
----
 ###### 1 
 E levantou-se Eliasibe, o sumo sacerdote, com os seus irmãos, os sacerdotes, e edificaram a porta do gado, a qual consagraram; e levantaram as suas portas; e até a torre de Meá consagraram,  até a torre de Hananeel.
 

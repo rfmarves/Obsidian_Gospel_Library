@@ -1,22 +1,21 @@
 ---
 title: Marcos 8
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 8
 [[Marcos 7| <-- Marcos 7]] | [[Marcos]] | [[Marcos 9|Marcos 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús alimenta a cuatro mil — Él aconseja: Guardaos de la levadura de los fariseos — Sana a un hombre ciego en Betsaida — Pedro testifica que Jesús es el Cristo.
 
----
 ###### 1 
 En aquellos días, como había una gran multitud y no tenían qué comer, Jesús llamó a sus discípulos y les dijo:
 

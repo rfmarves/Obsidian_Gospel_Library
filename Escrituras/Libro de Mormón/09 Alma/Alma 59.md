@@ -1,22 +1,21 @@
 ---
 title: Alma 59
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 59
 [[Alma 58| <-- Alma 58]] | [[Alma]] | [[Alma 60|Alma 60 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/59?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/59?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moroni pide a Pahorán que refuerce los ejércitos de Helamán — Los lamanitas se apoderan de la ciudad de Nefíah — Moroni se irrita contra el gobierno. Aproximadamente 62 a.C.
 
----
 ###### 1 
 Y aconteció que en el año treinta del gobierno de los jueces sobre el pueblo de Nefi, después que Moroni hubo recibido y leído la epístola de Helamán, se regocijó en sumo grado por el bienestar, sí, el gran éxito que Helamán había tenido en apoderarse de las tierras que habían perdido.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 15
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/15?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David asks, Who will dwell in the Lord’s holy hill?—He answers, The righteous, the upright, and those with integrity.
 
----
 ###### 1 
 , who shall abide in thy tabernacle? who shall dwell in thy holy hill?
 

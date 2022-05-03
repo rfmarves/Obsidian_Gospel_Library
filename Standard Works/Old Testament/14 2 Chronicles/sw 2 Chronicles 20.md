@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Ammonites and others attack Judah—Jehoshaphat and all the people fast and pray—Jahaziel prophesies the deliverance of Judah—Judah’s attackers war among and destroy themselves.
 
----
 ###### 1 
 It came to pass after this also,  the children of Moab, and the children of Ammon, and with them  beside the Ammonites, came against Jehoshaphat to battle.
 

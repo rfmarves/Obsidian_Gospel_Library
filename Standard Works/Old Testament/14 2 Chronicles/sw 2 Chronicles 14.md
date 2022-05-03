@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Asa reigns in Judah, rebuilds the cities, and defeats and plunders the Ethiopians, who attack Judah.
 
----
 ###### 1 
 So Abijah slept with his fathers, and they buried him in the city of David: and Asa his son reigned in his stead. In his days the land was quiet ten years.
 

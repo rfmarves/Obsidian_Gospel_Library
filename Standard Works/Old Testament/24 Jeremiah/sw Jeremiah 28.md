@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 28
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 Hananiah prophesies falsely that the Babylonian yoke will be broken.
 
----
 ###### 1 
 And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year,  in the fifth month,  Hananiah the son of Azur the prophet, which  of Gibeon, spake unto me in the house of the , in the presence of the priests and of all the people, saying,
 

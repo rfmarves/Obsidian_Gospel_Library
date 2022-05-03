@@ -1,22 +1,21 @@
 ---
 title: Juan 10
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 10
 [[Juan 9| <-- Juan 9]] | [[Juan]] | [[Juan 11|Juan 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús es el Buen Pastor — De Su Padre recibió el poder sobre la muerte — Promete visitar a Sus otras ovejas — Proclama: Soy Hijo de Dios.
 
----
 ###### 1 
 De cierto, de cierto os digo: El que no entra por la puerta en el redil de las ovejas, sino que sube por otra parte, ese es ladrón y salteador.
 

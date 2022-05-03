@@ -1,22 +1,21 @@
 ---
 title: DeC 90
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 90
 [[DeC 89| <-- DeC 89]] | [[DeC]] | [[DeC 91|DeC 91 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/90?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/90?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, As chaves do reino são conferidas a Joseph Smith e, por meio dele, à Igreja; 6–7, Sidney Rigdon e Frederick G. Williams devem servir na Primeira Presidência; 8–11, Deve-se pregar o evangelho às nações de Israel, aos gentios e aos judeus, cada homem ouvindo-o em sua própria língua; 12–18, Joseph Smith e seus conselheiros devem pôr em ordem a Igreja; 19–37, Várias pessoas são aconselhadas pelo Senhor a andar retamente e a servir em Seu reino.
 
----
 ###### 1 
 Assim diz o Senhor: Em verdade, em verdade te digo, meu filho, que teus pecados te são perdoados, de acordo com teu pedido, pois tuas orações e as orações de teus irmãos subiram a meus ouvidos.
 

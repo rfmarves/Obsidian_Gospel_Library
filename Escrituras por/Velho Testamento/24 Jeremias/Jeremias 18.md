@@ -1,22 +1,21 @@
 ---
 title: Jeremias 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 18
 [[Jeremias 17| <-- Jeremias 17]] | [[Jeremias]] | [[Jeremias 19|Jeremias 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel é como o barro do oleiro nas mãos do Senhor — Se as nações se arrependerem, o Senhor reterá o mal que decretou contra elas — O povo de Judá será disperso.
 
----
 ###### 1 
 A palavra do , que veio a Jeremias, dizendo:
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 35
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 35
 [[2 Crônicas 34| <-- 2 Crônicas 34]] | [[2 Crônicas]] | [[2 Crônicas 36|2 Crônicas 36 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/35?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/35?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Josias e todo o Judá realizam uma Páscoa solene — Josias é mortalmente ferido pelos egípcios em Megido.
 
----
 ###### 1 
 Então Josias celebrou a páscoa ao  em Jerusalém; e mataram  páscoa no décimo quarto dia do mês primeiro.
 

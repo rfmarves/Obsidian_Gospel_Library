@@ -1,22 +1,21 @@
 ---
 title: DyC 6
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 6
 [[DyC 5| <-- DyC 5]] | [[DyC]] | [[DyC 7|DyC 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–6, Los obreros del campo del Señor logran la salvación; 7–13, No hay don mayor que el de la salvación; 14–27, El testimonio de la verdad se recibe por el poder del Espíritu; 28–37, Mirad hacia Cristo y haced el bien continuamente.
 
----
 ###### 1 
 Una obra grande y maravillosa está a punto de aparecer entre los hijos de los hombres.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 16
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus will visit others of the lost sheep of Israel—In the latter days the gospel will go to the Gentiles and then to the house of Israel—The Lord’s people will see eye to eye when He brings again Zion. About A.D. 34.
 
----
 ###### 1 
 And verily, verily, I say unto you that I have other sheep, which are not of this land, neither of the land of Jerusalem, neither in any parts of that land round about whither I have been to minister.
 

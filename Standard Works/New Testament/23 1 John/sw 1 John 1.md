@@ -1,10 +1,11 @@
 ---
 title: sw 1 John 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 John 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Saints gain fellowship with God by obedience—We must confess our sins to gain forgiveness.
 
----
 ###### 1 
 That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;
 

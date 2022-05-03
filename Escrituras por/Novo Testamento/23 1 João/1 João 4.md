@@ -1,22 +1,21 @@
 ---
 title: 1 João 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 João 4
 [[1 João 3| <-- 1 João 3]] | [[1 João]] | [[1 João 5|1 João 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ponde à prova os espíritos — Deus é amor e habita naqueles que O amam.
 
----
 ###### 1 
 Amados, não creiais em todo espírito, mas provai se os espíritos são de Deus, porque  muitos falsos profetas se têm levantado no mundo.
 

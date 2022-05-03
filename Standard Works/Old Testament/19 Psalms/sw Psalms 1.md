@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Blessed are the righteous—The ungodly will perish.
 
----
 ###### 1 
 Blessed  the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 31
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 31
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/31?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses counsels Joshua and all Israel to be strong and of good courage—The law is to be read to all Israel every seven years—The children of Israel will follow false gods and corrupt themselves.
 
----
 ###### 1 
 And Moses went and spake these words unto all Israel.
 

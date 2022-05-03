@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 17
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nephi is commanded to build a ship—His brethren oppose him—He exhorts them by recounting the history of God’s dealings with Israel—Nephi is filled with the power of God—His brethren are forbidden to touch him, lest they wither as a dried reed. About 592–591 B.C.
 
----
 ###### 1 
 And it came to pass that we did again take our journey in the wilderness; and we did travel nearly eastward from that time forth. And we did travel and wade through much affliction in the wilderness; and our women did bear children in the wilderness.
 

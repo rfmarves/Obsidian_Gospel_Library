@@ -1,22 +1,21 @@
 ---
 title: Juízes 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 13
 [[Juízes 12| <-- Juízes 12]] | [[Juízes]] | [[Juízes 14|Juízes 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel passa quarenta anos sob cativeiro dos filisteus — Um anjo aparece à mulher de Manoá e lhe promete um filho que começará a libertar Israel — O anjo aparece novamente e ascende em uma chama do altar — Nasce Sansão, e o Espírito do Senhor se manifesta nele.
 
----
 ###### 1 
 E os filhos de Israel tornaram a fazer o  mau aos olhos do , e o  os entregou na mão dos filisteus  quarenta anos.
 

@@ -1,16 +1,17 @@
 ---
 title: Testemunho do Profeta Joseph Smith
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Testemunho do Profeta Joseph Smith
 [[Depoimento de Oito Testemunhas| <-- Depoimento de Oito Testemunhas]] | [[Introdução e Testemunhos]] | [[Breve Explicação sobre o Livro de Mórmon|Breve Explicação sobre o Livro de Mórmon --> ]]
 
-[Em linha](https://www.churchofjesuschrist.org/study/scriptures/bofm/js?lang=por)
+[em linha](https://www.churchofjesuschrist.org/study/scriptures/bofm/js?lang=por)
 
 As palavras do próprio Profeta Joseph Smith sobre o aparecimento do Livro de Mórmon são:
 

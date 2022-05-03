@@ -1,22 +1,21 @@
 ---
 title: Salmos 71
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 71
 [[Salmos 70| <-- Salmos 70]] | [[Salmos]] | [[Salmos 72|Salmos 72 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/71?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/71?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David alaba a Dios con acción de gracias — ¿Quién como Dios?
 
----
 ###### 1 
 
 

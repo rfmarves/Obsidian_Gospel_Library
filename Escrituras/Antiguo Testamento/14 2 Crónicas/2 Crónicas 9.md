@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 9
 [[2 Crónicas 8| <-- 2 Crónicas 8]] | [[2 Crónicas]] | [[2 Crónicas 10|2 Crónicas 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La reina de Sabá visita a Salomón — Salomón sobresale en sabiduría, riqueza y grandeza — Después de reinar durante cuarenta años, Salomón muere y Roboam llega a ser rey.
 
----
 ###### 1 
 Y cuando la reina de Sabá oyó de la fama de Salomón, vino a Jerusalén con un séquito muy grande, con camellos cargados de especias, y oro en abundancia y piedras preciosas, para probar a Salomón con preguntas difíciles. Y cuando llegó ante Salomón, habló con él de todo lo que tenía en su corazón.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 76
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 76
 [[Salmos 75| <-- Salmos 75]] | [[Salmos]] | [[Salmos 77|Salmos 77 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/76?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/76?lang=spa)
 
----
+```
 Al músico principal: con aNeginot. Salmo de Asaf. Cántico.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Dios es conocido en Judá y mora en Sion — Él salvará a los mansos de la tierra.
 
----
 ###### 1 
 
 

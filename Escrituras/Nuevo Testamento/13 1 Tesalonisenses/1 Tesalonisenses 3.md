@@ -1,22 +1,21 @@
 ---
 title: 1 Tesalonisenses 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Tesalonisenses 3
 [[1 Tesalonisenses 2| <-- 1 Tesalonisenses 2]] | [[1 Tesalonisenses]] | [[1 Tesalonisenses 4|1 Tesalonisenses 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se exhorta a los santos a perfeccionar lo que les falte en su fe.
 
----
 ###### 1 
 Por lo cual, no pudiendo soportarlo más, acordamos quedarnos solos en Atenas,
 

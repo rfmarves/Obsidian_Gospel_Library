@@ -1,22 +1,21 @@
 ---
 title: Provérbios 29
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 29
 [[Provérbios 28| <-- Provérbios 28]] | [[Provérbios]] | [[Provérbios 30|Provérbios 30 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/29?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/29?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Quando o ímpio domina, o povo geme — O justo se informa da causa dos pobres — O tolo dá vazão a toda a sua ira — Não havendo visão, o povo fica dissoluto.
 
----
 ###### 1 
 O homem que  muitas vezes repreendido endurece a cerviz será destruído de repente, sem que haja cura.
 

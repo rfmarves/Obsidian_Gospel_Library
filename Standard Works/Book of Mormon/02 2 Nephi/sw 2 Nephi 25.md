@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 25
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nephi glories in plainness—Isaiah’s prophecies will be understood in the last days—The Jews will return from Babylon, crucify the Messiah, and be scattered and scourged—They will be restored when they believe in the Messiah—He will first come six hundred years after Lehi left Jerusalem—The Nephites keep the law of Moses and believe in Christ, who is the Holy One of Israel. About 559–545 B.C.
 
----
 ###### 1 
 Now I, Nephi, do speak somewhat concerning the words which I have written, which have been spoken by the mouth of Isaiah. For behold, Isaiah spake many things which were hard for many of my people to understand; for they know not concerning the manner of prophesying among the Jews.
 

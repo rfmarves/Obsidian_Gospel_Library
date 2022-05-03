@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 25
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 25
 [[2 Nefi 24| <-- 2 Nefi 24]] | [[2 Nefi]] | [[2 Nefi 26|2 Nefi 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nefi se deleita en la claridad — En los últimos días se entenderán las profecías de Isaías — Los judíos volverán de Babilonia, crucificarán al Mesías y serán dispersados y azotados — Serán restaurados cuando crean en el Mesías — Este vendrá por vez primera seiscientos años después de haber salido Lehi de Jerusalén — Los nefitas observan la ley de Moisés y creen en Cristo, que es el Santo de Israel. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Ahora bien, yo, Nefi, hablo algo con relación a las palabras que he escrito, palabras que fueron pronunciadas por boca de Isaías. Pues he aquí, Isaías habló muchas cosas que a muchos de los de mi pueblo les fue difícil comprender, porque no saben concerniente a la manera de profetizar entre los judíos.
 

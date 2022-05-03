@@ -1,22 +1,21 @@
 ---
 title: Jeremias 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 17
 [[Jeremias 16| <-- Jeremias 16]] | [[Jeremias]] | [[Jeremias 18|Jeremias 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O cativeiro de Judá é consequência do pecado e de seu abandono do Senhor — Santificai o dia do Sábado; isso salvará o povo, caso contrário serão destruídos.
 
----
 ###### 1 
 O pecado de Judá  escrito com  ponteiro de ferro, com ponta de diamante, gravado na tábua do seu coração e nos chifres dos vossos altares.
 

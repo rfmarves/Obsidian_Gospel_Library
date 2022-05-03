@@ -1,10 +1,11 @@
 ---
 title: sw 1 Timothy 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Timothy 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Qualifications are given for bishops and deacons—Great is the mystery of godliness.
 
----
 ###### 1 
 This  a true saying, If a man desire the office of a bishop, he desireth a good work.
 

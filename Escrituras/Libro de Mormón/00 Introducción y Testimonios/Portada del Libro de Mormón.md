@@ -1,16 +1,17 @@
 ---
 title: Portada del Libro de Mormón
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Portada del Libro de Mormón
 | [[Introducción y Testimonios]] | [[Introducción del Libro de Mormón|Introducción del Libro de Mormón --> ]]
 
-[En línea](https://www.churchofjesuschrist.org/study/scriptures/bofm/title-page?lang=spa)
+[en línea](https://www.churchofjesuschrist.org/study/scriptures/bofm/title-page?lang=spa)
 
 Introducción y Testimonios
 Otro Testamento de Jesucristo

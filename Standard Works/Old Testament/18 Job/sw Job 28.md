@@ -1,10 +1,11 @@
 ---
 title: sw Job 28
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 Wealth comes out of the earth—Wisdom cannot be purchased—The fear of the Lord is wisdom, and to depart from evil is understanding.
 
----
 ###### 1 
 Surely there is a vein for the silver, and a place for gold  they fine 
 

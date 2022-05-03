@@ -1,10 +1,11 @@
 ---
 title: sw Abraham 1
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Abraham 1
@@ -15,11 +16,9 @@ people:
 Abraham
 Translated from the Papyrus, by Joseph Smith
 
----
-__Summary__
+> __Summary__
 Abraham seeks the blessings of the patriarchal order—He is persecuted by false priests in Chaldea—Jehovah saves him—The origins and government of Egypt are reviewed.
 
----
 ###### 1 
 In the land of the Chaldeans, at the residence of my fathers, I, Abraham, saw that it was needful for me to obtain another place of residence;
 

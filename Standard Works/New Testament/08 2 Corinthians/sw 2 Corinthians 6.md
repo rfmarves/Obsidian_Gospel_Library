@@ -1,10 +1,11 @@
 ---
 title: sw 2 Corinthians 6
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Corinthians 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Now is the day of salvation—God’s ministers must walk uprightly and bear all things—Saints should not be unequally yoked with unbelievers.
 
----
 ###### 1 
 We then,  workers together  beseech  also that ye receive not the grace of God in vain.
 

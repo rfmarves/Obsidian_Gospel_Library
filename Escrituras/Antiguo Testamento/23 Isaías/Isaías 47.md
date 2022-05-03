@@ -1,22 +1,21 @@
 ---
 title: Isaías 47
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 47
 [[Isaías 46| <-- Isaías 46]] | [[Isaías]] | [[Isaías 48|Isaías 48 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/47?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/47?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Babilonia y Caldea serán destruidas por sus iniquidades — Nadie las salvará.
 
----
 ###### 1 
 Desciende y siéntate en el polvo, virgen hija de Babilonia; siéntate en la tierra sin trono, hija de los caldeos, porque nunca más te llamarán tierna y delicada.
 

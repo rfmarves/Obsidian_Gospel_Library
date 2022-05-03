@@ -1,22 +1,21 @@
 ---
 title: Gênesis 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 19
 [[Gênesis 18| <-- Gênesis 18]] | [[Gênesis]] | [[Gênesis 20|Gênesis 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ló recebe homens santos — Os homens de Sodoma procuram abusar dos hóspedes de Ló e são feridos de cegueira — Ordena-se a Ló que saia de Sodoma — O Senhor faz chover enxofre e fogo sobre Sodoma e Gomorra — As filhas de Ló preservam a semente dele na terra.
 
----
 ###### 1 
 E chegaram dois anjos a Sodoma à tarde, e estava Ló assentado à porta de Sodoma; e vendo- Ló, levantou-se ao seu encontro, e inclinou-se com o rosto à terra;
 

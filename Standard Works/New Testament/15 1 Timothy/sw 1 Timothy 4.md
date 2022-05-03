@@ -1,10 +1,11 @@
 ---
 title: sw 1 Timothy 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Timothy 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul describes the latter-day apostasy—Christ is the Savior of all men, especially of those who believe.
 
----
 ###### 1 
 Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;
 

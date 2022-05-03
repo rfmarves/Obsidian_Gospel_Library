@@ -1,22 +1,21 @@
 ---
 title: Daniel 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 11
 [[Daniel 10| <-- Daniel 10]] | [[Daniel]] | [[Daniel 12|Daniel 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Daniel vê sucessivos reis e suas guerras, alianças e conflitos, que precederão a Segunda Vinda de Cristo.
 
----
 ###### 1 
 Eu, pois, no primeiro ano de Dario, o medo, estive para o fortalecer e animar.
 

@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 32
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 32
 [[Ezequiel 31| <-- Ezequiel 31]] | [[Ezequiel]] | [[Ezequiel 33|Ezequiel 33 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/32?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/32?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequiel se lamenta por la espantosa caída de Faraón y de Egipto.
 
----
 ###### 1 
 Y aconteció en el año duodécimo, en el mes duodécimo, el día primero del mes, que vino a mí la palabra de Jehová, diciendo:
 

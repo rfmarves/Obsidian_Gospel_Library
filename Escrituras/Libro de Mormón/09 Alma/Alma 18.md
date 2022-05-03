@@ -1,22 +1,21 @@
 ---
 title: Alma 18
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 18
 [[Alma 17| <-- Alma 17]] | [[Alma]] | [[Alma 19|Alma 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El rey Lamoni supone que Ammón es el Gran Espíritu — Ammón enseña al rey acerca de la Creación, los tratos de Dios con los hombres y la redención que viene por medio de Cristo — Lamoni cree y cae a tierra como si estuviera muerto. Aproximadamente 90 a.C.
 
----
 ###### 1 
 Y aconteció que el rey Lamoni hizo que sus siervos se presentaran y testificaran de todas las cosas que habían visto concernientes al asunto.
 

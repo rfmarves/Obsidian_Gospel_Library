@@ -1,27 +1,25 @@
 ---
 title: Salmos 77
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 77
 [[Salmos 76| <-- Salmos 76]] | [[Salmos]] | [[Salmos 78|Salmos 78 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/77?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/77?lang=spa)
 
----
+```
 Al músico principal. A Jedutún. Salmo de Asaf.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Los justos claman a Dios — Recuerdan las maravillas de antaño de cómo redimió a los hijos de Jacob y condujo a Israel como un rebaño.
 
----
 ###### 1 
 
 

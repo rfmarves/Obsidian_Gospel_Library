@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 8
 [[1 Nefi 7| <-- 1 Nefi 7]] | [[1 Nefi]] | [[1 Nefi 9|1 Nefi 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Lehi ve una visión del árbol de la vida — Come de su fruto y desea que su familia haga lo mismo — Ve una barra de hierro, un sendero estrecho y angosto y el vapor de tinieblas que envuelve a los hombres — Saríah, Nefi y Sam comen del fruto, pero Lamán y Lemuel no quieren hacerlo. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 Y aconteció que habíamos recogido toda suerte de semillas de toda especie, tanto de granos de todas clases, como de todo género de frutas.
 

@@ -1,22 +1,21 @@
 ---
 title: Êxodo 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 3
 [[Êxodo 2| <-- Êxodo 2]] | [[Êxodo]] | [[Êxodo 4|Êxodo 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor aparece a Moisés na sarça ardente — Moisés é chamado para livrar Israel da servidão — O Senhor se identifica como o Deus de Abraão, Isaque e Jacó, e como o Grande Eu Sou — Ele promete ferir o Egito e tirar Seu povo de lá com grande riqueza.
 
----
 ###### 1 
 E apascentava Moisés o rebanho de Jetro, seu sogro, sacerdote em Midiã; e levou o rebanho atrás do deserto, e foi ao monte de Deus, a Horebe.
 

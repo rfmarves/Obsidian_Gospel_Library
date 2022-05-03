@@ -1,22 +1,21 @@
 ---
 title: Marcos 9
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 9
 [[Marcos 8| <-- Marcos 8]] | [[Marcos]] | [[Marcos 10|Marcos 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus é transfigurado na montanha — Ele expulsa um espírito imundo — Ele ensina sobre Sua morte e ressurreição, sobre quem será o maior e sobre a condenação de quem ofender Seus pequeninos.
 
----
 ###### 1 
 Dizia-lhes também: Em verdade vos digo que, dos que aqui estão, alguns há que não provarão a morte até que vejam o reino de Deus chegando com poder.
 

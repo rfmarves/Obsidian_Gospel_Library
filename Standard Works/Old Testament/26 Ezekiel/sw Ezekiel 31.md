@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 31
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 31
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/31?lang=eng)
 
----
-__Summary__
+> __Summary__
 Pharaoh’s glory and fall are compared to that of the Assyrians.
 
----
 ###### 1 
 And it came to pass in the eleventh year, in the third  in the first  of the month,  the word of the  came unto me, saying,
 

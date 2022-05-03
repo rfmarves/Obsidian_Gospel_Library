@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 5
 [[1 Crónicas 4| <-- 1 Crónicas 4]] | [[1 Crónicas]] | [[1 Crónicas 6|1 Crónicas 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de José reciben la primogenitura de Rubén — Judá llega a ser poderoso en Israel — Se enumera la posteridad de Rubén hasta el cautiverio — Los asirios llevan cautivos a los hijos de Rubén, y a los de Gad y a la mitad de los de Manasés.
 
----
 ###### 1 
 Y los hijos de Rubén, primogénito de Israel (porque él era el primogénito, pero como profanó el lecho de su padre, sus derechos de primogenitura fueron dados a los hijos de José hijo de Israel, y no fue contado como primogénito en la genealogía;
 

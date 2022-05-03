@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 14
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 An angel tells Nephi of the blessings and cursings to fall upon the Gentiles—There are only two churches: the Church of the Lamb of God and the church of the devil—The Saints of God in all nations are persecuted by the great and abominable church—The Apostle John will write concerning the end of the world. About 600–592 B.C.
 
----
 ###### 1 
 And it shall come to pass, that if the Gentiles shall hearken unto the Lamb of God in that day that he shall manifest himself unto them in word, and also in power, in very deed, unto the taking away of their stumbling blocks—
 

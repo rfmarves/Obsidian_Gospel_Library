@@ -1,22 +1,21 @@
 ---
 title: João 19
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 19
 [[João 18| <-- João 18]] | [[João]] | [[João 20|João 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus é flagelado e crucificado — Ele coloca Sua mãe aos cuidados de João — Ele morre, e Seu lado é perfurado com uma lança — Ele é sepultado no sepulcro de José de Arimateia.
 
----
 ###### 1 
 Pilatos, pois, tomou então Jesus, e  açoitou;
 

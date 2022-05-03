@@ -1,27 +1,25 @@
 ---
 title: Salmos 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 6
 [[Salmos 5| <-- Salmos 5]] | [[Salmos]] | [[Salmos 7|Salmos 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/6?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor em Neginote, sobre aSeminite.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi clama misericórdia ao Senhor — Ele pede que seja curado e salvo.
 
----
 ###### 1 
 , não me repreendas na tua ira, nem me castigues no teu furor.
 

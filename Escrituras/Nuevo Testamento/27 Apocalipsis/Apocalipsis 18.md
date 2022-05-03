@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 18
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 18
 [[Apocalipsis 17| <-- Apocalipsis 17]] | [[Apocalipsis]] | [[Apocalipsis 19|Apocalipsis 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se insta a los santos a salir de Babilonia para no participar de los pecados de esta — Babilonia cae y sus seguidores se lamentan por ella.
 
----
 ###### 1 
 Y después de estas cosas vi descender del cielo a otro ángel que tenía gran poder; y la tierra fue alumbrada con su gloria.
 

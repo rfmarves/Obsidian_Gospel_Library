@@ -1,22 +1,21 @@
 ---
 title: Números 29
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 29
 [[Números 28| <-- Números 28]] | [[Números]] | [[Números 30|Números 30 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/29?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/29?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Devem ser oferecidos sacrifícios no sétimo mês, inclusive na Festa das Trombetas e na Festa dos Tabernáculos.
 
----
 ###### 1 
 Semelhantemente, tereis santa convocação no sétimo mês, no primeiro  do mês; nenhuma obra servil fareis; servos-á um dia de sonido de buzinas.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 1
 [[1 Crónicas 29| <-- 1 Crónicas 29]] | [[2 Crónicas]] | [[2 Crónicas 2|2 Crónicas 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová engrandece a Salomón delante de todo Israel — Se le aparece Jehová — Salomón escoge la sabiduría y le es dada — Su reino es bendecido con esplendor y riquezas.
 
----
 ###### 1 
 Y Salomón hijo de David fue afirmado en su reino; y Jehová su Dios estaba con él y le engrandeció sobremanera.
 

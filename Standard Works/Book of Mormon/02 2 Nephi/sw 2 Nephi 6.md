@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 6
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob recounts Jewish history: The Babylonian captivity and return; the ministry and crucifixion of the Holy One of Israel; the help received from the Gentiles; and the Jews’ latter-day restoration when they believe in the Messiah. About 559–545 B.C.
 
----
 ###### 1 
 The words of Jacob, the brother of Nephi, which he spake unto the people of Nephi:
 

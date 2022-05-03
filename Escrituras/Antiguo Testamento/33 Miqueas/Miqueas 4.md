@@ -1,22 +1,21 @@
 ---
 title: Miqueas 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Miqueas 4
 [[Miqueas 3| <-- Miqueas 3]] | [[Miqueas]] | [[Miqueas 5|Miqueas 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/micah/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/micah/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los postreros días se construirá el templo, Israel se congregará en él, comenzará la era milenaria y Jehová reinará en Sion.
 
----
 ###### 1 
 Y acontecerá en los postreros días que el monte de la casa de Jehová será establecido como cabeza de los montes, y más alto que los collados, y correrán a él los pueblos.
 

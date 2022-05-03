@@ -1,22 +1,21 @@
 ---
 title: Gálatas 5
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gálatas 5
 [[Gálatas 4| <-- Gálatas 4]] | [[Gálatas]] | [[Gálatas 6|Gálatas 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/gal/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/gal/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Estai firmes na liberdade do evangelho — Buscai a fé, o amor, Cristo e o Espírito — Enumeram-se as obras da carne e os frutos do Espírito.
 
----
 ###### 1 
 Estai, pois, firmes na liberdade com que Cristo nos libertou, e não torneis a colocar-vos debaixo do jugo da servidão.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ecclesiastes 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ecclesiastes 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 All the riches and wealth of the king are vanity and vexation of spirit—Wisdom is better than folly—God gives wisdom, knowledge, and joy to man.
 
----
 ###### 1 
 I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also  vanity.
 

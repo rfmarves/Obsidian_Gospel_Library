@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 14
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 John the Baptist is beheaded—Jesus feeds the five thousand and walks on the sea—Those who touch the hem of His garment are made whole.
 
----
 ###### 1 
 At that time Herod the tetrarch heard of the fame of Jesus,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Judges 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jephthah is chosen as the captain of the armies of Israel—The Ammonites assail Israel in war—Jephthah is guided by the Spirit and defeats Ammon with a great slaughter—He makes a rash vow, which leads to the sacrifice of his only daughter.
 
----
 ###### 1 
 Now Jephthah the Gileadite was a mighty man of valour, and he  the son of an harlot: and Gilead begat Jephthah.
 

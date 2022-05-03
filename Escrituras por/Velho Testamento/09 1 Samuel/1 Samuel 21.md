@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 21
 [[1 Samuel 20| <-- 1 Samuel 20]] | [[1 Samuel]] | [[1 Samuel 22|1 Samuel 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi recebe ajuda do sacerdote Aimeleque — Come o pão da proposição — Vai para Gate, onde simula loucura.
 
----
 ###### 1 
 Então foi Davi a Nobe, ao sacerdote Aimeleque; e Aimeleque, tremendo, saiu ao encontro de Davi, e disse-lhe: Por que  só, e ninguém contigo?
 

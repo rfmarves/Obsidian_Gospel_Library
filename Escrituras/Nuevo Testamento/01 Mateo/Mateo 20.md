@@ -1,22 +1,21 @@
 ---
 title: Mateo 20
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 20
 [[Mateo 19| <-- Mateo 19]] | [[Mateo]] | [[Mateo 21|Mateo 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús enseña la parábola de los obreros de la viña — Predice Su crucifixión y resurrección — Jesús vino a dar Su vida en rescate por muchos.
 
----
 ###### 1 
 Porque el reino de los cielos es semejante a un hombre, padre de familia, que salió por la mañana a contratar obreros para su viña.
 

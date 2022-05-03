@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joshua places twelve stones to commemorate the crossing of the Jordan—Joshua is magnified before the children of Israel as they cross the Jordan—After the priests bearing the ark pass over, the river returns to its course.
 
----
 ###### 1 
 And it came to pass, when all the people were clean passed over Jordan, that the  spake unto Joshua, saying,
 

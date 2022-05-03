@@ -1,22 +1,21 @@
 ---
 title: Éter 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éter 9
 [[Éter 8| <-- Éter 8]] | [[Éter]] | [[Éter 10|Éter 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O reino passa de um para outro por descendência, intrigas e assassinatos — Êmer viu o Filho da Retidão — Muitos profetas clamam arrependimento — Fome e serpentes venenosas flagelam o povo.
 
----
 ###### 1 
 E agora eu, Morôni, continuo meu registro. Portanto, eis que aconteceu que por causa das combinações secretas de Aquis e seus amigos, eis que eles derrubaram o reino de Ômer.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 47
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 47
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=eng)
 
----
-__Summary__
+> __Summary__
 Waters issue from the house of the Lord and heal the Dead Sea—The Lord shows the borders of the land.
 
----
 ###### 1 
 Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house  the east, and the waters came down from under from the right side of the house, at the south  of the altar.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Philistines send back the ark with an offering—The Lord smites and slays the Israelites in Beth-shemesh who look into the ark.
 
----
 ###### 1 
 And the ark of the  was in the country of the Philistines seven months.
 

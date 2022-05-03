@@ -1,22 +1,21 @@
 ---
 title: Efésios 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Efésios 1
 [[Gálatas 6| <-- Gálatas 6]] | [[Efésios]] | [[Efésios 2|Efésios 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/eph/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/eph/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos são preordenados para receber o evangelho — O evangelho será restaurado nos últimos dias — Os santos são selados pelo Santo Espírito da Promessa — Eles conhecem Deus e Cristo por revelação.
 
----
 ###### 1 
 Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus:
 

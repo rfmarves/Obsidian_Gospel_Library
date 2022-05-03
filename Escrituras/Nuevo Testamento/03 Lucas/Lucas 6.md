@@ -1,22 +1,21 @@
 ---
 title: Lucas 6
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 6
 [[Lucas 5| <-- Lucas 5]] | [[Lucas]] | [[Lucas 7|Lucas 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús sana en el día de reposo — Escoge a los Doce Apóstoles — Pronuncia bendiciones sobre los obedientes y ayes sobre los inicuos.
 
----
 ###### 1 
 Y aconteció que, pasando  por los sembrados en un día de reposo, el segundo después del primero, sus discípulos arrancaban espigas y, restregándolas con las manos, las comían.
 

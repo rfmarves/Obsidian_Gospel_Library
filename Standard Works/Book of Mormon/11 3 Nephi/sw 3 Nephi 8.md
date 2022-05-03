@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 8
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Tempests, earthquakes, fires, whirlwinds, and physical upheavals attest the crucifixion of Christ—Many people are destroyed—Darkness covers the land for three days—Those who remain bemoan their fate. About A.D. 33–34.
 
----
 ###### 1 
 And now it came to pass that according to our record, and we know our record to be true, for behold, it was a just man who did keep the record—for he truly did many miracles in the name of Jesus; and there was not any man who could do a miracle in the name of Jesus save he were cleansed every whit from his iniquity—
 

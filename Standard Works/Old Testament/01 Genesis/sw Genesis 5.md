@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The generations of Adam are Adam, Seth, Enos, Cainan, Mahalaleel, Jared, Enoch (who walked with God), Methuselah, Lamech, and Noah (who begat Shem, Ham, and Japheth).
 
----
 ###### 1 
 This  the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;
 

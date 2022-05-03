@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 When the camps of Israel move, Aaron and his sons cover the holy things in the tabernacle—The Levites of the families of Kohath, Gershon, and Merari carry the burden of the tabernacle.
 
----
 ###### 1 
 And the  spake unto Moses and unto Aaron, saying,
 

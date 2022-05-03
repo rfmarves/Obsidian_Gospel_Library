@@ -1,10 +1,11 @@
 ---
 title: sw Jacob 6
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jacob 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord will recover Israel in the last days—The world will be burned with fire—Men must follow Christ to avoid the lake of fire and brimstone. About 544–421 B.C.
 
----
 ###### 1 
 And now, behold, my brethren, as I said unto you that I would prophesy, behold, this is my prophecy—that the things which this prophet Zenos spake, concerning the house of Israel, in the which he likened them unto a tame olive tree, must surely come to pass.
 

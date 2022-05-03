@@ -1,27 +1,25 @@
 ---
 title: Mosias 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 9
 [[Mosias 8| <-- Mosias 8]] | [[Mosias]] | [[Mosias 10|Mosias 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/9?lang=por)
 
----
+```
 Registro de Zênife — Um relato sobre seu povo, desde a ocasião em que deixaram a terra de Zaraenla até a época em que foram libertados das mãos dos lamanitas.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Zênife conduz um grupo de Zaraenla para ocupar a terra de Leí-Néfi — O rei lamanita permite-lhes tomar posse da terra — Há guerra entre os lamanitas e o povo de Zênife. Aproximadamente 200–187 a.C.
 
----
 ###### 1 
 Eu, Zênife, havendo sido ensinado em todo o idioma dos nefitas e tendo tido conhecimento da terra de Néfi, ou seja, da terra da primeira herança de nossos pais; e havendo sido enviado como espião entre os lamanitas, a fim de espionar suas forças para que nosso exército pudesse cair sobre eles e destruí-los — quando vi, porém, o que havia de bom entre eles, não mais desejei a sua destruição.
 

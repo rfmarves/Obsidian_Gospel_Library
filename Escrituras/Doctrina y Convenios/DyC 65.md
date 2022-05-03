@@ -1,22 +1,21 @@
 ---
 title: DyC 65
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 65
 [[DyC 64| <-- DyC 64]] | [[DyC]] | [[DyC 66|DyC 66 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/65?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/65?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–2, Las llaves del reino de Dios se han entregado al hombre sobre la tierra, y la causa del Evangelio triunfará; 3–6, El reino milenario de los cielos descenderá y se unirá al reino de Dios sobre la tierra.
 
----
 ###### 1 
 Escuchad y oíd una voz como de uno enviado de lo alto, uno potente y poderoso, cuyas salidas son hasta los cabos de la tierra; sí, cuya voz se dirige a los hombres: Preparad la vía del Señor, enderezad sus sendas.
 

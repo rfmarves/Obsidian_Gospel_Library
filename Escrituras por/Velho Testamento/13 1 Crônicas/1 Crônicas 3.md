@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 3
 [[1 Crônicas 2| <-- 1 Crônicas 2]] | [[1 Crônicas]] | [[1 Crônicas 4|1 Crônicas 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Davi são citados pelo nome — Enumeram-se os sucessores de Salomão até Jeconias e depois deste.
 
----
 ###### 1 
 E estes foram os filhos de Davi, que lhe nasceram em Hebrom: o primogênito, Amnom, de Ainoã, a jezreelita; o segundo, Daniel, de Abigail, a carmelita;
 

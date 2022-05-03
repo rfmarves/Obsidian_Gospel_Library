@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 13
 [[2 Samuel 12| <-- 2 Samuel 12]] | [[2 Samuel]] | [[2 Samuel 14|2 Samuel 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amnom deseja Tamar, sua irmã, e a força a deitar-se com ele — Ele é morto por ordem de Absalão — Absalão foge para Gesur.
 
----
 ###### 1 
 E aconteceu depois disso que, tendo Absalão, filho de Davi, uma irmã formosa, cujo nome era Tamar, Amnom, filho de Davi, amou-a.
 

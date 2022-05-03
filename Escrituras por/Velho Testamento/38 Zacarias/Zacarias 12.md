@@ -1,22 +1,21 @@
 ---
 title: Zacarias 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarias 12
 [[Zacarias 11| <-- Zacarias 11]] | [[Zacarias]] | [[Zacarias 13|Zacarias 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Na grande batalha final, todas as nações estarão em guerra em Jerusalém, mas o Senhor defenderá Seu povo — Então, os judeus vão olhar para o Senhor, a quem eles crucificaram, e haverá grande pranto.
 
----
 ###### 1 
 Peso da palavra do  sobre Israel: Fala o , o que estende o céu, e que funda a terra, e que forma o espírito do homem dentro dele.
 

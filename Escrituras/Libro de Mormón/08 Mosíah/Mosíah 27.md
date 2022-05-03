@@ -1,22 +1,21 @@
 ---
 title: Mosíah 27
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 27
 [[Mosíah 26| <-- Mosíah 26]] | [[Mosíah]] | [[Mosíah 28|Mosíah 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Mosíah prohíbe la persecución y establece la igualdad — Alma, hijo, y los cuatro hijos de Mosíah procuran destruir la Iglesia — Se les aparece un ángel y les manda que abandonen su camino de maldad — Alma queda mudo — Todo el género humano debe nacer otra vez para lograr la salvación — Alma y los hijos de Mosíah proclaman gratas nuevas. Aproximadamente 100–92 a.C.
 
----
 ###### 1 
 Y sucedió que las persecuciones que los incrédulos infligían sobre la iglesia llegaron a ser tan graves que los de la iglesia empezaron a murmurar y a quejarse a los que los dirigían concerniente al asunto; y ellos se quejaron a Alma. Y Alma presentó el caso ante el rey de ellos, Mosíah, y este consultó con sus sacerdotes.
 

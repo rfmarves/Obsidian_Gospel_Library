@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 28
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 The wicked flee when no man pursues—Whoever walks uprightly will be saved—A faithful man will abound with blessings.
 
----
 ###### 1 
 The wicked flee when no man pursueth: but the righteous are bold as a lion.
 

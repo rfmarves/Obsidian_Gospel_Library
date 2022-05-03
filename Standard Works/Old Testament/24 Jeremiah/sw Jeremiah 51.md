@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 51
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 51
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/51?lang=eng)
 
----
-__Summary__
+> __Summary__
 Judgment, destruction, and desolation will come upon Babylon for her sins—Israel is commanded, Flee from Babylon—Israel is the Lord’s rod to destroy all kingdoms.
 
----
 ###### 1 
 Thus saith the ; Behold, I will raise up against Babylon, and against them that dwell in the midst of them that rise up against me, a destroying wind;
 

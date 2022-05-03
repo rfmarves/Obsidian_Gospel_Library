@@ -1,10 +1,11 @@
 ---
 title: sw D&C 23
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–7, These early disciples are called to preach, exhort, and strengthen the Church.
 
----
 ###### 1 
 Behold, I speak unto you, Oliver, a few words. Behold, thou art blessed, and art under no condemnation. But beware of pride, lest thou shouldst enter into temptation.
 

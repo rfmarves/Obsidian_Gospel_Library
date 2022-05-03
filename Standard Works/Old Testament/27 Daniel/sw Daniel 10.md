@@ -1,10 +1,11 @@
 ---
 title: sw Daniel 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Daniel 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Daniel sees the Lord and others in a glorious vision—He is shown what is to be in the latter days.
 
----
 ###### 1 
 In the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose name was called Belteshazzar; and the thing  true, but the time appointed  long: and he understood the thing, and had understanding of the vision.
 

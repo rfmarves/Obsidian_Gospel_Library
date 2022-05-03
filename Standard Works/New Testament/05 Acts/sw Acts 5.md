@@ -1,10 +1,11 @@
 ---
 title: sw Acts 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ananias and Sapphira lie to the Lord and lose their lives—The Apostles continue the miracles of Jesus—Peter and John are arrested, an angel delivers them from prison, and they testify of Christ—Gamaliel counsels moderation.
 
----
 ###### 1 
 But a certain man named Ananias, with Sapphira his wife, sold a possession,
 

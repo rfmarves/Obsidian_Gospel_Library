@@ -1,22 +1,21 @@
 ---
 title: Mórmon 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mórmon 7
 [[Mórmon 6| <-- Mórmon 6]] | [[Mórmon]] | [[Mórmon 8|Mórmon 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mórmon convida os lamanitas dos últimos dias a crerem em Cristo, a aceitarem o Seu evangelho e serem salvos — Todos os que crerem na Bíblia também crerão no Livro de Mórmon. Aproximadamente 385 d.C.
 
----
 ###### 1 
 E agora, eis que eu desejaria falar algo aos remanescentes deste povo, que são poupados, se é que Deus permitirá que a eles cheguem minhas palavras, a fim de que saibam das coisas de seus pais; sim, falo a vós, remanescentes da casa de Israel; e são estas as palavras que digo:
 

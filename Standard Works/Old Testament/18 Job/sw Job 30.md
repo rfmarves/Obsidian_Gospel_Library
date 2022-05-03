@@ -1,10 +1,11 @@
 ---
 title: sw Job 30
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 30
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/30?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job is derided by the children of vile and base men—In his afflicted state, he cries to the Lord—Job says that he wept for those in trouble.
 
----
 ###### 1 
 But now  younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.
 

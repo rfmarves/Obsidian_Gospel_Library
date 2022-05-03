@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 45
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 45
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/45?lang=eng)
 
----
+```
 To the chief Musician upon Shoshannim, for the sons of Korah, Maschil, A Song of loves.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A messianic psalm—The Messiah is fairer than the children of men—He is anointed with the oil of gladness above His fellows—His name will be remembered in all generations.
 
----
 ###### 1 
 My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue  the pen of a ready writer.
 

@@ -1,22 +1,21 @@
 ---
 title: Gênesis 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 10
 [[Gênesis 9| <-- Gênesis 9]] | [[Gênesis]] | [[Gênesis 11|Gênesis 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os descendentes de Noé são: Jafé, cujos descendentes são os gentios; Cão, cujos descendentes incluem os cananeus; e Sem, de quem procedeu Pelegue, em cujos dias foi dividida a Terra.
 
----
 ###### 1 
 Estas pois são as gerações dos filhos de Noé: Sem, Cão, e Jafé; e nasceram-lhes filhos depois do dilúvio.
 

@@ -1,22 +1,21 @@
 ---
 title: Jeremias 33
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 33
 [[Jeremias 32| <-- Jeremias 32]] | [[Jeremias]] | [[Jeremias 34|Jeremias 34 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/33?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/33?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Judá e Israel serão coligados — É prometido o Renovo de Retidão (o Messias) — A Semente de Davi (o Messias) reinará para sempre.
 
----
 ###### 1 
 E veio a palavra do  a Jeremias, uma segunda vez, estando ele ainda encerrado no pátio da guarda, dizendo:
 

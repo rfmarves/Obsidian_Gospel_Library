@@ -1,10 +1,11 @@
 ---
 title: sw D&C 40
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 40
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/40?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, Fear of persecution and cares of the world cause rejection of the gospel.
 
----
 ###### 1 
 Behold, verily I say unto you, that the heart of my servant James Covel was right before me, for he covenanted with me that he would obey my word.
 

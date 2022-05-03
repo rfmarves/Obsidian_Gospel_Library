@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 23
 [[2 Samuel 22| <-- 2 Samuel 22]] | [[2 Samuel]] | [[2 Samuel 24|2 Samuel 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi fala pelo poder do Espírito Santo — Os governantes devem ser justos e governar no temor do Senhor — Enumeram-se os valentes de Davi e os atos deles são enaltecidos.
 
----
 ###### 1 
 E estas  as últimas palavras de Davi. Diz Davi, filho de Jessé, e diz o homem que foi levantado em altura, o ungido do Deus de Jacó, e o doce salmista de Israel:
 

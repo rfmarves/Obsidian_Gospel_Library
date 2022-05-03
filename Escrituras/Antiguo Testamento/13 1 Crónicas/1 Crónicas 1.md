@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 1
 [[2 Reyes 25| <-- 2 Reyes 25]] | [[1 Crónicas]] | [[1 Crónicas 2|1 Crónicas 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se dan la genealogía y los vínculos familiares desde Adán hasta Abraham — Se enumeran los nombres de la posteridad de Abraham.
 
----
 ###### 1 
 Adán, Set, Enós,
 

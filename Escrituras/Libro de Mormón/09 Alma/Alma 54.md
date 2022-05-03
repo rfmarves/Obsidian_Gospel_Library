@@ -1,22 +1,21 @@
 ---
 title: Alma 54
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 54
 [[Alma 53| <-- Alma 53]] | [[Alma]] | [[Alma 55|Alma 55 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/54?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/54?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ammorón y Moroni hacen gestiones para efectuar el canje de prisioneros — Moroni exige que los lamanitas se retiren y cesen sus ataques asesinos — Ammorón exige que los nefitas entreguen sus armas y se sujeten a los lamanitas. Aproximadamente 63 a.C.
 
----
 ###### 1 
 Y sucedió que a principios del año veintinueve del gobierno de los jueces, Ammorón mandó decir a Moroni que deseaba un canje de prisioneros.
 

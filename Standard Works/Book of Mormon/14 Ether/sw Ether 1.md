@@ -1,10 +1,11 @@
 ---
 title: sw Ether 1
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ether 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moroni abridges the writings of Ether—Ether’s genealogy is set forth—The language of the Jaredites is not confounded at the Tower of Babel—The Lord promises to lead them to a choice land and make them a great nation.
 
----
 ###### 1 
 And now I, Moroni, proceed to give an account of those ancient inhabitants who were destroyed by the hand of the Lord upon the face of this north country.
 

@@ -1,22 +1,21 @@
 ---
 title: 3 Néfi 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Néfi 2
 [[3 Néfi 1| <-- 3 Néfi 1]] | [[3 Néfi]] | [[3 Néfi 3|3 Néfi 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Aumentam as iniquidades e abominações entre o povo — Nefitas e lamanitas unem-se para defender-se dos ladrões de Gadiânton — Os lamanitas convertidos tornam-se brancos e são chamados de nefitas. Aproximadamente 5–16 d.C.
 
----
 ###### 1 
 E aconteceu que assim se passou também o nonagésimo quinto ano e começaram a esquecer os sinais e as maravilhas de que haviam ouvido falar; e admiravam-se cada vez menos com qualquer sinal ou maravilha dos céus, de modo que começaram a ficar duros de coração e cegos de entendimento e começaram a duvidar de tudo quanto haviam ouvido e visto —
 

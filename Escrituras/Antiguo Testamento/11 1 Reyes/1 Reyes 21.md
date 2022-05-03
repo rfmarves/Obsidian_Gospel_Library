@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 21
 [[1 Reyes 20| <-- 1 Reyes 20]] | [[1 Reyes]] | [[1 Reyes 22|1 Reyes 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Acab codicia la viña de Nabot — Jezabel conspira para que haya testigos falsos y Nabot es apedreado por blasfemia — Elías profetiza que Acab, Jezabel y su casa serán destruidos.
 
----
 ###### 1 
 Y aconteció que pasadas estas cosas, Nabot de Jezreel tenía una viña en Jezreel junto al palacio de Acab, rey de Samaria.
 

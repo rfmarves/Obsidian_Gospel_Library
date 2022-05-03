@@ -1,22 +1,21 @@
 ---
 title: Juan 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 3
 [[Juan 2| <-- Juan 2]] | [[Juan]] | [[Juan 4|Juan 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús dice a Nicodemo que los hombres deben nacer de nuevo — De tal manera amó Dios al mundo que dio a Su Hijo Unigénito para salvar a los hombres — Juan el Bautista testifica que todo aquel que cree en el Hijo tiene vida eterna.
 
----
 ###### 1 
 Y había un hombre de los fariseos que se llamaba Nicodemo, un principal entre los judíos.
 

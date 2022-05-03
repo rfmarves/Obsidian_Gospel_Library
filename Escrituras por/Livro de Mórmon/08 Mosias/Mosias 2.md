@@ -1,22 +1,21 @@
 ---
 title: Mosias 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 2
 [[Mosias 1| <-- Mosias 1]] | [[Mosias]] | [[Mosias 3|Mosias 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O rei Benjamim fala a seu povo — Relata a equidade, justiça e espiritualidade de seu reinado — Aconselha o povo a servir a seu Rei Celestial — Aqueles que se rebelarem contra Deus sofrerão angústia semelhante a um fogo inextinguível. Aproximadamente 124 a.C.
 
----
 ###### 1 
 E aconteceu que após Mosias haver feito o que seu pai lhe ordenara e haver feito uma proclamação por toda a terra, o povo congregou-se por toda a terra, a fim de subir ao templo para ouvir as palavras que o rei Benjamim lhes diria.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah prays because of dearth and famine—The Lord will not hear because of the wickedness of His people.
 
----
 ###### 1 
 The word of the  that came to Jeremiah concerning the dearth.
 

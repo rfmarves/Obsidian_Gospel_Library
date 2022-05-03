@@ -1,22 +1,21 @@
 ---
 title: Atos 13
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 13
 [[Atos 12| <-- Atos 12]] | [[Atos]] | [[Atos 14|Atos 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Saulo e Barnabé são chamados para o serviço missionário — Saulo, que passou a se chamar Paulo, amaldiçoa um feiticeiro — Cristo é descendente de Davi — Paulo oferece o evangelho a Israel e depois aos gentios.
 
----
 ###### 1 
 E na igreja que estava em Antioquia havia alguns profetas e mestres,  Barnabé e Simeão, chamado Níger, e Lúcio, cireneu, e Manaém, que fora criado com Herodes, o tetrarca, e Saulo.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Learn not the way of other nations—Their gods are idols and molten images—The Lord is the true and living God.
 
----
 ###### 1 
 Hear ye the word which the  speaketh unto you, O house of Israel:
 

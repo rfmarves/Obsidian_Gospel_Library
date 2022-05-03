@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 29
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 The coming forth of the Book of Mormon is a sign that the Lord has commenced to gather Israel and fulfill His covenants—Those who reject His latter-day revelations and gifts will be cursed. About A.D. 34–35.
 
----
 ###### 1 
 And now behold, I say unto you that when the Lord shall see fit, in his wisdom, that these sayings shall come unto the Gentiles according to his word, then ye may know that the covenant which the Father hath made with the children of Israel, concerning their restoration to the lands of their inheritance, is already beginning to be fulfilled.
 

@@ -1,22 +1,21 @@
 ---
 title: Éxodo 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 12
 [[Éxodo 11| <-- Éxodo 11]] | [[Éxodo]] | [[Éxodo 13|Éxodo 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová instituye la Pascua y la Fiesta de los Panes sin Levadura — Los corderos que se sacrifican han de ser sin defecto — Israel es salvo por la sangre de ellos — Muere el primogénito de todo egipcio — Israel es expulsado de Egipto después de 430 años — Ningún hueso del cordero de la Pascua será quebrado.
 
----
 ###### 1 
 Y habló Jehová a Moisés y a Aarón en la tierra de Egipto, diciendo:
 

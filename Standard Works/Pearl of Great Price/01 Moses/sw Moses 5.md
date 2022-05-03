@@ -1,10 +1,11 @@
 ---
 title: sw Moses 5
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moses 5
@@ -15,11 +16,9 @@ people:
 Moses
 (June–October 1830)
 
----
-__Summary__
+> __Summary__
 Adam and Eve bring forth children—Adam offers sacrifice and serves God—Cain and Abel are born—Cain rebels, loves Satan more than God, and becomes Perdition—Murder and wickedness spread—The gospel is preached from the beginning.
 
----
 ###### 1 
 And it came to pass that after I, the Lord God, had driven them out, that Adam began to till the earth, and to have dominion over all the beasts of the field, and to eat his bread by the sweat of his brow, as I the Lord had commanded him. And Eve, also, his wife, did labor with him.
 

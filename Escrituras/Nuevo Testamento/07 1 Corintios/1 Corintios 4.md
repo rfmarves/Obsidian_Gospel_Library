@@ -1,22 +1,21 @@
 ---
 title: 1 Corintios 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Corintios 4
 [[1 Corintios 3| <-- 1 Corintios 3]] | [[1 Corintios]] | [[1 Corintios 5|1 Corintios 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los ministros de Cristo deben ser fieles — Los Apóstoles sufren, ministran y guardan la fe — El reino de Dios no consiste en palabras, sino en poder.
 
----
 ###### 1 
 Así, pues, téngannos los hombres por ministros de Cristo, y mayordomos de los misterios de Dios.
 

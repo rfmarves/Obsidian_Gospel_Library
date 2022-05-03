@@ -1,10 +1,11 @@
 ---
 title: sw Song of Solomon 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Song of Solomon 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Beloved ones are praised and described.
 
----
 ###### 1 
 I  the rose of Sharon,  the lily of the valleys.
 

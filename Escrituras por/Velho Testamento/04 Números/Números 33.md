@@ -1,22 +1,21 @@
 ---
 title: Números 33
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 33
 [[Números 32| <-- Números 32]] | [[Números]] | [[Números 34|Números 34 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/33?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/33?lang=por)
 
----
-__Resumo__
+> __Resumo__
 São relembradas as jornadas de Israel do Egito até Canaã — O povo recebe o mandamento de expulsar os habitantes da terra — Todos os habitantes remanescentes afligirão Israel.
 
----
 ###### 1 
 Estas  as jornadas dos filhos de Israel, que saíram da terra do Egito, segundo os seus exércitos, pela mão de Moisés e Aarão.
 

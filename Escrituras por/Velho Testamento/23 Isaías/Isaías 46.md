@@ -1,22 +1,21 @@
 ---
 title: Isaías 46
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 46
 [[Isaías 45| <-- Isaías 45]] | [[Isaías]] | [[Isaías 47|Isaías 47 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/46?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/46?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os ídolos não se comparam ao Senhor — Somente Ele é Deus e salvará Israel.
 
----
 ###### 1 
 Já Bel abatido está,  Nebo se encurvou, os seus ídolos  postos sobre os animais e sobre os animais de carga; as cargas dos vossos fardos são canseira para os  cansados.
 

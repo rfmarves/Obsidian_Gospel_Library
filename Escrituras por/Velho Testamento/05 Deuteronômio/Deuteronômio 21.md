@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 21
 [[Deuteronômio 20| <-- Deuteronômio 20]] | [[Deuteronômio]] | [[Deuteronômio 22|Deuteronômio 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Explica-se como são expiados os homicídios cujo autor seja desconhecido — Exige-se equidade no trato das esposas e dos filhos — Os filhos rebeldes e contumazes serão mortos.
 
----
 ###### 1 
 Quando na terra que te der o  teu Deus para possuí-la se achar  morto, caído no campo, sem que se saiba quem o matou,
 

@@ -1,22 +1,21 @@
 ---
 title: DyC 8
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 8
 [[DyC 7| <-- DyC 7]] | [[DyC]] | [[DyC 9|DyC 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, La revelación viene por el poder del Espíritu Santo; 6–12, El conocimiento de los misterios de Dios y el poder para traducir anales antiguos vienen por la fe.
 
----
 ###### 1 
 Oliver Cowdery, de cierto, de cierto te digo: Así como vive el Señor, que es tu Dios y tu Redentor, que ciertamente recibirás conocimiento de cuantas cosas pidieres con fe, con un corazón sincero, creyendo que recibirás conocimiento concerniente a los grabados sobre anales antiguos, que son de antaño, los cuales contienen aquellas partes de mis Escrituras de que se ha hablado por la manifestación de mi Espíritu.
 

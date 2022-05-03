@@ -1,27 +1,25 @@
 ---
 title: Salmos 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 12
 [[Salmos 11| <-- Salmos 11]] | [[Salmos]] | [[Salmos 13|Salmos 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/12?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor, sobre aSeminite.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi censura os lábios lisonjeiros e a língua que fala com soberba — Ele diz: As palavras do Senhor são palavras puras.
 
----
 ###### 1 
 Salva-nos, , porque faltam os homens bons; porque são poucos os fiéis entre os filhos dos homens.
 

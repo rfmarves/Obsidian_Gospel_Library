@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 24
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 24
 [[2 Nefi 23| <-- 2 Nefi 23]] | [[2 Nefi]] | [[2 Nefi 25|2 Nefi 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel será recogido y disfrutará de reposo milenario — Lucifer fue echado del cielo por su rebelión — Israel triunfará sobre Babilonia (el mundo) — Compárese con Isaías 14. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Porque el Señor tendrá piedad de Jacob, y todavía escogerá a Israel, y lo establecerá en su propia tierra; y extranjeros se juntarán con ellos y se unirán a la casa de Jacob.
 

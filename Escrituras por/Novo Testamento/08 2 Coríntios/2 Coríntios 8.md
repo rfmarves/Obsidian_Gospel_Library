@@ -1,22 +1,21 @@
 ---
 title: 2 Coríntios 8
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Coríntios 8
 [[2 Coríntios 7| <-- 2 Coríntios 7]] | [[2 Coríntios]] | [[2 Coríntios 9|2 Coríntios 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os verdadeiros santos compartilham seus bens com os pobres — Cristo, de sua pobreza, trouxe riquezas eternas.
 
----
 ###### 1 
 Também, irmãos, vos fazemos saber a graça de Deus dada às igrejas da Macedônia;
 

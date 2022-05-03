@@ -1,22 +1,21 @@
 ---
 title: Neemias 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Neemias 2
 [[Neemias 1| <-- Neemias 1]] | [[Neemias]] | [[Neemias 3|Neemias 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Artaxerxes envia Neemias a Jerusalém — Sambalate e outros se opõem a Neemias no tocante à reconstrução das muralhas e portas de Jerusalém.
 
----
 ###### 1 
 Sucedeu, pois, no mês de Nisã, no ano vigésimo do rei Artaxerxes, que  vinho diante dele, e eu tomei o vinho, e  dei ao rei; porém nunca estivera triste diante dele.
 

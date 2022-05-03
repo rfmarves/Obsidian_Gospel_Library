@@ -1,22 +1,21 @@
 ---
 title: Zacarias 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarias 5
 [[Zacarias 4| <-- Zacarias 4]] | [[Zacarias]] | [[Zacarias 6|Zacarias 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Um anjo revela verdades a Zacarias usando simbolismos.
 
----
 ###### 1 
 E outra vez levantei os meus olhos, e olhei, e eis que  um rolo volante.
 

@@ -1,22 +1,21 @@
 ---
 title: Jeremías 45
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 45
 [[Jeremías 44| <-- Jeremías 44]] | [[Jeremías]] | [[Jeremías 46|Jeremías 46 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/45?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/45?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías promete a Baruc que su vida será conservada.
 
----
 ###### 1 
 La palabra que habló el profeta Jeremías a Baruc hijo de Nerías, cuando escribía en el libro estas palabras de boca de Jeremías, en el año cuarto de Joacim hijo de Josías, rey de Judá, diciendo:
 

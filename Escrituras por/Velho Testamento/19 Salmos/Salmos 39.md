@@ -1,27 +1,25 @@
 ---
 title: Salmos 39
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 39
 [[Salmos 38| <-- Salmos 38]] | [[Salmos]] | [[Salmos 40|Salmos 40 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/39?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/39?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor, para Jedutum.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi procura controlar sua língua — O homem não passa de vaidade — Ele é um estrangeiro e peregrino na Terra.
 
----
 ###### 1 
 Disse: Guardarei os meus caminhos para não delinquir com a minha língua; guardarei a boca com um freio, enquanto o ímpio  diante de mim.
 

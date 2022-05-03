@@ -1,22 +1,21 @@
 ---
 title: Isaías 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 19
 [[Isaías 18| <-- Isaías 18]] | [[Isaías]] | [[Isaías 20|Isaías 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor ferirá e destruirá o Egito — Por fim, Ele o curará, e o Egito e a Assíria serão abençoados com Israel.
 
----
 ###### 1 
 Peso do Egito. Eis que o  vem cavalgando numa nuvem ligeira, e virá ao Egito; e os ídolos do Egito serão movidos perante a sua face, e o coração dos egípcios se derreterá no meio deles.
 

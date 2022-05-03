@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 8
 [[1 Samuel 7| <-- 1 Samuel 7]] | [[1 Samuel]] | [[1 Samuel 9|1 Samuel 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de Samuel aceptan sobornos y pervierten la justicia — Los israelitas desean tener un rey para que gobierne sobre ellos — Samuel advierte de la naturaleza y de los males de un gobierno de reyes — Jehová consiente en darles un rey.
 
----
 ###### 1 
 Y aconteció que cuando Samuel envejeció, puso a sus hijos como jueces sobre Israel.
 

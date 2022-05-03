@@ -1,22 +1,21 @@
 ---
 title: Romanos 11
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 11
 [[Romanos 10| <-- Romanos 10]] | [[Romanos]] | [[Romanos 12|Romanos 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel foi escolhida (preordenada) de acordo com a eleição da graça — Contudo, alguns endurecem o coração contra isso — Os gentios são adotados na casa de Israel — O evangelho vai preferencialmente para os gentios até chegar a plenitude dos gentios.
 
----
 ###### 1 
 Digo, pois: Porventura rejeitou Deus o seu povo? De modo nenhum; porque também eu sou israelita, da descendência de Abraão, da tribo de Benjamim.
 

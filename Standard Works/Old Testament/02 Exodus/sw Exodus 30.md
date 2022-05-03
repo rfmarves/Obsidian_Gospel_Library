@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 30
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 30
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/30?lang=eng)
 
----
-__Summary__
+> __Summary__
 An altar of incense is to be placed before the veil—Atonement is to be made with the blood of the sin offering—Atonement money is to be paid to ransom each male—Priests are to use holy anointing oil and perfume.
 
----
 ###### 1 
 And thou shalt make an altar to burn incense upon:  shittim wood shalt thou make it.
 

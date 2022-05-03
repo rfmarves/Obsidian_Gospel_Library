@@ -1,22 +1,21 @@
 ---
 title: Mateus 25
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 25
 [[Mateus 24| <-- Mateus 24]] | [[Mateus]] | [[Mateus 26|Mateus 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus conta a parábola das dez virgens, a dos talentos e a das ovelhas e bodes.
 
----
 ###### 1 
 Então o reino dos céus será semelhante a dez virgens que, tomando as suas lâmpadas, saíram ao encontro do noivo.
 

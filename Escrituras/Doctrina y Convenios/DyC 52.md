@@ -1,22 +1,21 @@
 ---
 title: DyC 52
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 52
 [[DyC 51| <-- DyC 51]] | [[DyC]] | [[DyC 53|DyC 53 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/52?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/52?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–2, Se designa que la siguiente conferencia se ha de efectuar en Misuri; 3–8, Nombramiento de ciertos élderes para que viajen juntos; 9–11, Los élderes deben enseñar lo que han escrito los apóstoles y profetas; 12–21, Los que son iluminados por el Espíritu producen frutos de alabanza y sabiduría; 22–44, Varios élderes son nombrados para predicar el Evangelio durante su viaje a Misuri para asistir a la conferencia.
 
----
 ###### 1 
 He aquí, así dice el Señor a los élderes que ha llamado y escogido en estos últimos días por la voz de su Espíritu,
 

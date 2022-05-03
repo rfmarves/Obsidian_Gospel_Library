@@ -1,22 +1,21 @@
 ---
 title: Helamán 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 6
 [[Helamán 5| <-- Helamán 5]] | [[Helamán]] | [[Helamán 7|Helamán 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los lamanitas justos predican a los nefitas inicuos — Ambos pueblos prosperan durante una época de paz y abundancia — Lucifer, el autor del pecado, incita el corazón de los inicuos y el de los ladrones de Gadiantón al asesinato y a las abominaciones — Los ladrones se apoderan del gobierno nefita. Aproximadamente 29–23 a.C.
 
----
 ###### 1 
 Y aconteció que todas estas cosas se habían efectuado para cuando concluyó el año sesenta y dos del gobierno de los jueces, y los lamanitas, la mayoría de ellos, se habían vuelto un pueblo justo, al grado de que su rectitud excedía a la de los nefitas, debido a su firmeza y su constancia en la fe.
 

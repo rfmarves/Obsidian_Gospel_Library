@@ -1,22 +1,21 @@
 ---
 title: 1 Corintios 9
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Corintios 9
 [[1 Corintios 8| <-- 1 Corintios 8]] | [[1 Corintios]] | [[1 Corintios 10|1 Corintios 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo se regocija en su libertad cristiana — Predica gratuitamente el Evangelio a todos — Se hizo siervo de todos para hacer conversos.
 
----
 ###### 1 
 ¿No soy apóstol? ¿No soy libre? ¿No he visto a Jesús el Señor nuestro? ¿No sois vosotros mi obra en el Señor?
 

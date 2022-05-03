@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 28
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 Sacrifices are to be offered each morning and evening, on the Sabbath, on the first day of each month, at Passover, on each day of the Feast of Unleavened Bread, and at the Feast of Firstfruits.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

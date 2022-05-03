@@ -1,22 +1,21 @@
 ---
 title: Amós 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 3
 [[Amós 2| <-- Amós 2]] | [[Amós]] | [[Amós 4|Amós 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor revela Seus segredos aos Seus servos, os profetas — Por Israel rejeitar os profetas e seguir o mal, a nação é dominada por um adversário.
 
----
 ###### 1 
 Ouvi esta palavra que o  fala contra vós, filhos de Israel,  contra toda a geração que fiz subir da terra do Egito, dizendo:
 

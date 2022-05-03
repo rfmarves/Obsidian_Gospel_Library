@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 10
 [[1 Crónicas 9| <-- 1 Crónicas 9]] | [[1 Crónicas]] | [[1 Crónicas 11|1 Crónicas 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los filisteos derrotan a Israel — Saúl muere por sus transgresiones.
 
----
 ###### 1 
 Y los filisteos pelearon contra Israel, y los hombres de Israel huyeron delante de los filisteos y cayeron muertos en el monte Gilboa.
 

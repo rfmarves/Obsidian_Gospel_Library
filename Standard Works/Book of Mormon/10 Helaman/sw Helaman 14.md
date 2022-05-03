@@ -1,10 +1,11 @@
 ---
 title: sw Helaman 14
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Helaman 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Samuel predicts light during the night and a new star at Christ’s birth—Christ redeems men from temporal and spiritual death—The signs of His death include three days of darkness, the rending of the rocks, and great upheavals of nature. About 6 B.C.
 
----
 ###### 1 
 And now it came to pass that Samuel, the Lamanite, did prophesy a great many more things which cannot be written.
 

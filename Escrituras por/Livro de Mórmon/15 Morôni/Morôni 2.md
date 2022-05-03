@@ -1,22 +1,21 @@
 ---
 title: Morôni 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Morôni 2
 [[Morôni 1| <-- Morôni 1]] | [[Morôni]] | [[Morôni 3|Morôni 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus deu poder aos doze discípulos nefitas para conferirem o Espírito Santo. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 As palavras que Cristo disse a seus discípulos, os doze por ele escolhidos, quando lhes impôs as mãos —
 

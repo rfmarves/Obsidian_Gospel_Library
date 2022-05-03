@@ -1,10 +1,11 @@
 ---
 title: sw Moroni 5
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moroni 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The mode of administering the sacramental wine is set forth. About A.D. 401–21.
 
----
 ###### 1 
 The manner of administering the wine—Behold, they took the cup, and said:
 

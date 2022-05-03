@@ -1,10 +1,11 @@
 ---
 title: sw Luke 19
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus came to save souls—He gives the parable of the pounds—He rides in triumph into Jerusalem, weeps over the city, and cleanses the temple again.
 
----
 ###### 1 
 And  entered and passed through Jericho.
 

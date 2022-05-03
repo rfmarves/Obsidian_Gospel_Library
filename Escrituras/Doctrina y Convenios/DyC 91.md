@@ -1,22 +1,21 @@
 ---
 title: DyC 91
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 91
 [[DyC 90| <-- DyC 90]] | [[DyC]] | [[DyC 92|DyC 92 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/91?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/91?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–3, Los libros apócrifos, en su mayoría, se han traducido correctamente, pero contienen muchas interpolaciones de los hombres que no son verdaderas; 4–6, Beneficiarán a los que sean iluminados por el Espíritu.
 
----
 ###### 1 
 De cierto, así dice el Señor concerniente a los libros apócrifos: Contienen muchas cosas verdaderas, y en su mayoría se han traducido correctamente;
 

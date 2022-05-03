@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Directions are given for the sacrifice of a red heifer—The water of separation is used for purification from sin—Ceremonially unclean persons are sprinkled with the water of separation.
 
----
 ###### 1 
 And the  spake unto Moses and unto Aaron, saying,
 

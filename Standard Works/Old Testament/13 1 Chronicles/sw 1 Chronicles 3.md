@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 David’s sons are named—The successors of Solomon to Jeconiah and beyond are listed.
 
----
 ###### 1 
 Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:
 

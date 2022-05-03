@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 How offerings of flour with oil and incense are made.
 
----
 ###### 1 
 And when any will offer a meat offering unto the , his offering shall be  fine flour; and he shall pour oil upon it, and put frankincense thereon:
 

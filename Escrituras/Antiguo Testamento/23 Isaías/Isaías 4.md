@@ -1,22 +1,21 @@
 ---
 title: Isaías 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 4
 [[Isaías 3| <-- Isaías 3]] | [[Isaías]] | [[Isaías 5|Isaías 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Sion y sus hijas serán redimidas y purificadas en el día milenario — Compárese con 2 Nefi 14.
 
----
 ###### 1 
 Y siete mujeres echarán mano de un hombre en aquel día, diciendo: Nosotras comeremos nuestro propio pan y nos vestiremos con nuestra propia ropa; solamente permítenos llevar tu nombre; quita nuestro oprobio.
 

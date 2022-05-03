@@ -1,22 +1,21 @@
 ---
 title: Job 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 5
 [[Job 4| <-- Job 4]] | [[Job]] | [[Job 6|Job 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Elifaz aconseja a Job: El hombre nace para la aflicción; buscad a Dios; y bienaventurado es el hombre a quien Dios corrige.
 
----
 ###### 1 
 
 

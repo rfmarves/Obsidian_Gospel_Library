@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 55
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 55
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/55?lang=eng)
 
----
-__Summary__
+> __Summary__
 Come and drink; salvation is free—The Lord will make an everlasting covenant with Israel—Seek the Lord while He is near.
 
----
 ###### 1 
 Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.
 

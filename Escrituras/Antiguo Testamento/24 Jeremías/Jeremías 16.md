@@ -1,22 +1,21 @@
 ---
 title: Jeremías 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 16
 [[Jeremías 15| <-- Jeremías 15]] | [[Jeremías]] | [[Jeremías 17|Jeremías 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se prevé la ruina total de Judá — Israel es desechado y esparcido por servir a dioses falsos — Pescadores y cazadores recogerán de nuevo a Israel, y el pueblo servirá a Jehová — Se ha de restaurar el Evangelio por última vez.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

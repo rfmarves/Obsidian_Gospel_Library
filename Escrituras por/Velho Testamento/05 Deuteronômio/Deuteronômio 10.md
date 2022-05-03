@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 10
 [[Deuteronômio 9| <-- Deuteronômio 9]] | [[Deuteronômio]] | [[Deuteronômio 11|Deuteronômio 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 As tábuas de pedra que contêm os Dez Mandamentos são colocadas na arca — Tudo o que Deus exige é que Israel O ame e O sirva — Quão grande e poderoso é o Senhor!
 
----
 ###### 1 
 Naquele mesmo tempo me disse o : Lavra duas tábuas de pedra, como as primeiras, e sobe a mim a este monte, e faze-te uma arca de madeira:
 

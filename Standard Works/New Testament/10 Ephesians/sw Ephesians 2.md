@@ -1,10 +1,11 @@
 ---
 title: sw Ephesians 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ephesians 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/eph/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 We are saved by grace through faith—The blood of Christ saves Jew and Gentile alike—The Church is built upon the foundation of apostles and prophets.
 
----
 ###### 1 
 And you  who were dead in trespasses and sins;
 

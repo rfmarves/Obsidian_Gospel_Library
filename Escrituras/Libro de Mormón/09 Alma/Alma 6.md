@@ -1,22 +1,21 @@
 ---
 title: Alma 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 6
 [[Alma 5| <-- Alma 5]] | [[Alma]] | [[Alma 7|Alma 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La Iglesia en Zarahemla se purifica y se pone en orden — Alma va a Gedeón a predicar. Aproximadamente 83 a.C.
 
----
 ###### 1 
 Y sucedió que después que hubo concluido de hablar a los de la iglesia establecida en la ciudad de Zarahemla, Alma ordenó sacerdotes y élderes por la imposición de sus manos, según el orden de Dios, para presidir la iglesia y velar por ella.
 

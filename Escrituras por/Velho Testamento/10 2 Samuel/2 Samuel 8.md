@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 8
 [[2 Samuel 7| <-- 2 Samuel 7]] | [[2 Samuel]] | [[2 Samuel 9|2 Samuel 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi derrota e subjuga muitas nações — O Senhor está com ele — Davi administra julgamento e justiça a todo o seu povo.
 
----
 ###### 1 
 E sucedeu depois disso que Davi derrotou os filisteus, e os sujeitou; e Davi tomou Metegue-Ama das mãos dos filisteus.
 

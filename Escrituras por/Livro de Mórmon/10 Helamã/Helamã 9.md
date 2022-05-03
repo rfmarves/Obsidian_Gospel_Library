@@ -1,22 +1,21 @@
 ---
 title: Helamã 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamã 9
 [[Helamã 8| <-- Helamã 8]] | [[Helamã]] | [[Helamã 10|Helamã 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mensageiros encontram o juiz supremo morto na cadeira de juiz — Eles são aprisionados e posteriormente libertados — Por inspiração, Néfi identifica Seântum como o assassino — Néfi é aceito por alguns como profeta. Aproximadamente 23–21 a.C.
 
----
 ###### 1 
 Então aconteceu que quando Néfi disse estas palavras, certos homens que se achavam entre eles correram para a cadeira do juiz, sim, e eram cinco os que foram; e diziam entre si, enquanto iam:
 

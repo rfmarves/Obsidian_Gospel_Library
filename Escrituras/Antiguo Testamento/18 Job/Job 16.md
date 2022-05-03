@@ -1,22 +1,21 @@
 ---
 title: Job 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 16
 [[Job 15| <-- Job 15]] | [[Job]] | [[Job 17|Job 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Job habla contra los inicuos que se le oponen — Aunque sus amigos lo desdeñan, Job afirma que su testigo está en los cielos y su defensor en las alturas.
 
----
 ###### 1 
 Y respondió Job y dijo:
 

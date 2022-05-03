@@ -1,10 +1,11 @@
 ---
 title: sw D&C 56
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 56
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/56?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–2, The Saints must take up their cross and follow the Lord to gain salvation; 3–13, The Lord commands and revokes, and the disobedient are cast off; 14–17, Wo unto the rich who will not help the poor, and wo unto the poor whose hearts are not broken; 18–20, Blessed are the poor who are pure in heart, for they will inherit the earth.
 
----
 ###### 1 
 Hearken, O ye people who profess my name, saith the Lord your God; for behold, mine anger is kindled against the rebellious, and they shall know mine arm and mine indignation, in the day of visitation and of wrath upon the nations.
 

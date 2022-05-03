@@ -1,10 +1,11 @@
 ---
 title: sw Judges 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Danites send men to seek an inheritance—They take Micah’s images and priest, burn the city of Laish, and set up idolatry.
 
----
 ###### 1 
 In those days  no king in Israel: and in those days the tribe of the Danites sought them an inheritance to dwell in; for unto that day  inheritance had not fallen unto them among the tribes of Israel.
 

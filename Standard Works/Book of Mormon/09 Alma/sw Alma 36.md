@@ -1,10 +1,11 @@
 ---
 title: sw Alma 36
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 36
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=eng)
 
----
+```
 The commandments of Alma to his son Helaman.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Alma testifies to Helaman of his conversion after seeing an angel—He suffered the pains of a damned soul; he called upon the name of Jesus, and was then born of God—Sweet joy filled his soul—He saw concourses of angels praising God—Many converts have tasted and seen as he has tasted and seen. About 74 B.C.
 
----
 ###### 1 
 My son, give ear to my words; for I swear unto you, that inasmuch as ye shall keep the commandments of God ye shall prosper in the land.
 

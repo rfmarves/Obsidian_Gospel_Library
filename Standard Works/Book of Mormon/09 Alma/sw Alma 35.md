@@ -1,10 +1,11 @@
 ---
 title: sw Alma 35
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 35
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/35?lang=eng)
 
----
-__Summary__
+> __Summary__
 The preaching of the word destroys the craft of the Zoramites—They expel the converts, who then join the people of Ammon in Jershon—Alma sorrows because of the wickedness of the people. About 74 B.C.
 
----
 ###### 1 
 Now it came to pass that after Amulek had made an end of these words, they withdrew themselves from the multitude and came over into the land of Jershon.
 

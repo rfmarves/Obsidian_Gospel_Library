@@ -1,22 +1,21 @@
 ---
 title: Génesis 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 21
 [[Génesis 20| <-- Génesis 20]] | [[Génesis]] | [[Génesis 22|Génesis 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Sara da a luz a Isaac — Él es circuncidado — Agar y su hijo son echados de la casa de Abraham — Jehová salva a Agar y a Ismael — Abraham y Abimelec se tratan honorablemente.
 
----
 ###### 1 
 Y visitó Jehová a Sara, como había dicho, e hizo Jehová con Sara como había hablado.
 

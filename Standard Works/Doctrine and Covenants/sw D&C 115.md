@@ -1,10 +1,11 @@
 ---
 title: sw D&C 115
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 115
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/115?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, The Lord names His church The Church of Jesus Christ of Latter-day Saints; 5–6, Zion and her stakes are places of defense and refuge for the Saints; 7–16, The Saints are commanded to build a house of the Lord at Far West; 17–19, Joseph Smith holds the keys of the kingdom of God on earth.
 
----
 ###### 1 
 Verily thus saith the Lord unto you, my servant Joseph Smith, Jun., and also my servant Sidney Rigdon, and also my servant Hyrum Smith, and your counselors who are and shall be appointed hereafter;
 

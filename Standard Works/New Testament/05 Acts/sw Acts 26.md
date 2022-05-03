@@ -1,10 +1,11 @@
 ---
 title: sw Acts 26
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul recounts his former persecution of the Saints as a Pharisee—He testifies of the appearance of Jesus on the Damascus road—Paul bears his testimony to King Agrippa.
 
----
 ###### 1 
 Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:
 

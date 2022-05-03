@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 22
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the millennial day all men will praise the Lord—He will dwell among them—Compare Isaiah 12. About 559–545 B.C.
 
----
 ###### 1 
 And in that day thou shalt say: O Lord, I will praise thee; though thou wast angry with me thine anger is turned away, and thou comfortedst me.
 

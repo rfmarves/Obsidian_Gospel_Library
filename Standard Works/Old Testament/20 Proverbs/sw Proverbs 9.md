@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Rebuke a wise man and he will love you—The fear of the Lord is the beginning of wisdom—The guests of an immoral woman are in the depths of hell.
 
----
 ###### 1 
 Wisdom hath builded her house, she hath hewn out her seven pillars:
 

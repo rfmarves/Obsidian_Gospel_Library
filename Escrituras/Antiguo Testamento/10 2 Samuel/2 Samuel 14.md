@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 14
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 14
 [[2 Samuel 13| <-- 2 Samuel 13]] | [[2 Samuel]] | [[2 Samuel 15|2 Samuel 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Al cabo de tres años, Joab hace arreglos para traer a Absalón a casa, valiéndose de una estratagema — Después de haber transcurrido dos años más, Absalón ve al rey y se reconcilian.
 
----
 ###### 1 
 Y conociendo Joab hijo de Sarvia que el corazón del rey se inclinaba por Absalón,
 

@@ -1,22 +1,21 @@
 ---
 title: Isaías 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 22
 [[Isaías 21| <-- Isaías 21]] | [[Isaías]] | [[Isaías 23|Isaías 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jerusalém será atacada e assolada — O povo será levado cativo — O Messias terá a chave da casa de Davi, herdará a glória e será fixado como um prego em lugar firme.
 
----
 ###### 1 
 Peso do vale da visão. Que tens agora, que com todos os teus subiste aos telhados?
 

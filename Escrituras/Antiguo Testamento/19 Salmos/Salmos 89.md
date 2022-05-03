@@ -1,27 +1,25 @@
 ---
 title: Salmos 89
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 89
 [[Salmos 88| <-- Salmos 88]] | [[Salmos]] | [[Salmos 90|Salmos 90 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/89?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/89?lang=spa)
 
----
+```
 aMasquil de Etán, el ezraíta.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Salmo mesiánico — Cántico que narra la misericordia, la grandeza, la justicia y el juicio del Santo de Israel — Jehová establecerá la descendencia y el trono de David para siempre — El Primogénito de Dios será hecho mayor que todos los reyes de la tierra.
 
----
 ###### 1 
 
 

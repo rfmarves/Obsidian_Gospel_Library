@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 14
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus commands: Judge not; ask of God; beware of false prophets—He promises salvation to those who do the will of the Father—Compare Matthew 7. About A.D. 34.
 
----
 ###### 1 
 And now it came to pass that when Jesus had spoken these words he turned again to the multitude, and did open his mouth unto them again, saying: Verily, verily, I say unto you, Judge not, that ye be not judged.
 

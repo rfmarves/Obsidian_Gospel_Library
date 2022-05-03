@@ -1,22 +1,21 @@
 ---
 title: Isaías 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 4
 [[Isaías 3| <-- Isaías 3]] | [[Isaías]] | [[Isaías 5|Isaías 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sião e suas filhas serão redimidas e purificadas no dia milenar — Comparar com 2 Néfi 14.
 
----
 ###### 1 
 E sete mulheres naquele dia lançarão mão de um homem, dizendo: Nós comeremos do nosso pão, e nos vestiremos de nossos vestidos; tão somente  que sejamos chamadas pelo teu nome; tira o nosso opróbrio.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Tesalonisenses 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Tesalonisenses 4
 [[1 Tesalonisenses 3| <-- 1 Tesalonisenses 3]] | [[1 Tesalonisenses]] | [[1 Tesalonisenses 5|1 Tesalonisenses 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se exhorta a los miembros a ser santos, a santificarse y a amarse unos a otros — El Señor vendrá y los muertos resucitarán.
 
----
 ###### 1 
 Por lo demás, hermanos, os rogamos y exhortamos en el Señor Jesús, que de la manera que fuisteis enseñados por nosotros de cómo os conviene andar y agradar a Dios, abundéis más y más.
 

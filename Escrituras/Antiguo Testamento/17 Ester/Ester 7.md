@@ -1,22 +1,21 @@
 ---
 title: Ester 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 7
 [[Ester 6| <-- Ester 6]] | [[Ester]] | [[Ester 8|Ester 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ester revela el complot maquinado por Amán para destruir a los judíos — Amán es colgado en la horca que él mismo había hecho preparar.
 
----
 ###### 1 
 Fue, pues, el rey con Amán al banquete de la reina Ester.
 

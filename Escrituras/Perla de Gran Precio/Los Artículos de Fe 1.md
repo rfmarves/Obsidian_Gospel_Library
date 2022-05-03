@@ -1,15 +1,17 @@
 ---
 title: Los Artículos de Fe 1
-tags: #Escrituras\PdGP
+tags: Escrituras\PdGP
+
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Los Artículos de Fe 1
 [[José Smith--Historia 1| <-- José Smith--Historia 1]] | [[Los Artículos de Fe]] |
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=spa)
 
 ###### 1 
 Nosotros creemos en Dios el Eterno Padre, y en su Hijo Jesucristo, y en el Espíritu Santo.

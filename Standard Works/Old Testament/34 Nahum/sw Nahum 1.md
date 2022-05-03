@@ -1,10 +1,11 @@
 ---
 title: sw Nahum 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nahum 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/nahum/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nahum speaks of the burning of the earth at the Second Coming and of the mercy and power of the Lord.
 
----
 ###### 1 
 The burden of Nineveh. The book of the vision of Nahum the Elkoshite.
 

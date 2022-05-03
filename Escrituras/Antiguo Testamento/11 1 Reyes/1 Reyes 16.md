@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 16
 [[1 Reyes 15| <-- 1 Reyes 15]] | [[1 Reyes]] | [[1 Reyes 17|1 Reyes 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehú profetiza el mal sobre Baasa y su casa — Ela, Zimri, Omri y Acab reinan con iniquidad — Zimri destruye la casa de Baasa — Acab se casa con Jezabel, adora a Baal y provoca a ira a Jehová.
 
----
 ###### 1 
 Y vino la palabra de Jehová a Jehú hijo de Hanani contra Baasa, diciendo:
 

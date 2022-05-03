@@ -1,22 +1,21 @@
 ---
 title: DyC 23
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 23
 [[DyC 22| <-- DyC 22]] | [[DyC]] | [[DyC 24|DyC 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–7, Se llama a estos primeros discípulos a predicar, a exhortar y a fortalecer la Iglesia.
 
----
 ###### 1 
 He aquí, Oliver, te hablo unas pocas palabras. He aquí, bendito eres y no estás bajo condenación. Mas cuídate del orgullo, no sea que entres en tentación.
 

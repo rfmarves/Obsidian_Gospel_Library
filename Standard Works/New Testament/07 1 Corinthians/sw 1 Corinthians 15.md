@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 15
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ died for our sins—He rose from the dead and was seen by many—All men will be resurrected—Paul speaks of baptism for the dead—The three degrees of glory are described—Victory over death comes through Christ.
 
----
 ###### 1 
 Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;
 

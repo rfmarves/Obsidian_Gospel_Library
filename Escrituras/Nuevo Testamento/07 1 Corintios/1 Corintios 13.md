@@ -1,22 +1,21 @@
 ---
 title: 1 Corintios 13
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Corintios 13
 [[1 Corintios 12| <-- 1 Corintios 12]] | [[1 Corintios]] | [[1 Corintios 14|1 Corintios 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo analiza la excelencia de la caridad — La caridad, el amor puro, sobrepasa y excede a casi todo lo demás.
 
----
 ###### 1 
 Si yo hablase lenguas humanas y angélicas, y no tengo caridad, vengo a ser  metal que resuena o címbalo que retiñe.
 

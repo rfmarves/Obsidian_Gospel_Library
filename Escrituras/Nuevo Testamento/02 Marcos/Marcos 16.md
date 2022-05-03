@@ -1,22 +1,21 @@
 ---
 title: Marcos 16
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 16
 [[Marcos 15| <-- Marcos 15]] | [[Marcos]] | [[Lucas 1|Lucas 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cristo resucita — Se aparece a María Magdalena y después a otras personas — Envía a los Apóstoles a predicar y promete que las señales seguirán a la fe — Finalmente, asciende al cielo.
 
----
 ###### 1 
 Y cuando pasó el día de reposo, María Magdalena, y María,  de Jacobo, y Salomé compraron especias aromáticas para ir a ungirlo.
 

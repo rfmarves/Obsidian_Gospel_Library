@@ -1,10 +1,11 @@
 ---
 title: sw Testimony of Three Whitnesses
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Testimony of Three Whitnesses

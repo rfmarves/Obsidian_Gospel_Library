@@ -1,22 +1,21 @@
 ---
 title: 2 Tesalonisenses 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Tesalonisenses 2
 [[2 Tesalonisenses 1| <-- 2 Tesalonisenses 1]] | [[2 Tesalonisenses]] | [[2 Tesalonisenses 3|2 Tesalonisenses 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-thes/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-thes/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La apostasía precederá a la Segunda Venida — El Evangelio prepara a los hombres para la gloria eterna.
 
----
 ###### 1 
 Pero os rogamos, hermanos, en cuanto a la venida de nuestro Señor Jesucristo, y a nuestro recogimiento con él,
 

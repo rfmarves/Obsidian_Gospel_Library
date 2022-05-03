@@ -1,22 +1,21 @@
 ---
 title: Números 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 9
 [[Números 8| <-- Números 8]] | [[Números]] | [[Números 10|Números 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se manda nuevamente a Israel guardar la Pascua — Una nube cubre el tabernáculo de día y de noche, y también había fuego en la noche — Cuando la nube se detenía, Israel acampaba; cuando la nube se levantaba, ellos partían.
 
----
 ###### 1 
 Y habló Jehová a Moisés en el desierto de Sinaí, en el primer mes del segundo año de su salida de la tierra de Egipto, diciendo:
 

@@ -1,22 +1,21 @@
 ---
 title: Josué 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 13
 [[Josué 12| <-- Josué 12]] | [[Josué]] | [[Josué 14|Josué 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Restam algumas terras a serem possuídas — Alguns habitantes não são expulsos — Confirmam-se as heranças de Rúben, de Gade e de metade da tribo de Manassés.
 
----
 ###### 1 
 Era, porém, Josué já velho, entrado em dias; e disse-lhe o : Já estás velho, entrado em dias; e ainda muitíssima terra ficou para possuir.
 

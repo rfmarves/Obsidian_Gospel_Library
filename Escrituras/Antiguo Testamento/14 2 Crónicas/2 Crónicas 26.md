@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 26
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 26
 [[2 Crónicas 25| <-- 2 Crónicas 25]] | [[2 Crónicas]] | [[2 Crónicas 27|2 Crónicas 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Reina Uzías y prospera en tanto que guarda los mandamientos — Uzías transgrede, quema incienso sobre el altar y es maldecido con lepra.
 
----
 ###### 1 
 Entonces todo el pueblo de Judá tomó a Uzías, que tenía dieciséis años de edad, y lo hicieron rey en lugar de Amasías, su padre.
 

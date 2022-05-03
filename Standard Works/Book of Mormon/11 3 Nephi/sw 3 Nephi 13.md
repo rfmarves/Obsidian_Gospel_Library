@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 13
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus teaches the Nephites the Lord’s Prayer—They are to lay up treasures in heaven—The twelve disciples in their ministry are commanded to take no thought for temporal things—Compare Matthew 6. About A.D. 34.
 
----
 ###### 1 
 Verily, verily, I say that I would that ye should do alms unto the poor; but take heed that ye do not your alms before men to be seen of them; otherwise ye have no reward of your Father who is in heaven.
 

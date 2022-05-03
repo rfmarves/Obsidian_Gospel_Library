@@ -1,10 +1,11 @@
 ---
 title: sw D&C 134
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 134
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/134?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, Governments should preserve freedom of conscience and worship; 5–8, All men should uphold their governments and owe respect and deference to the law; 9–10, Religious societies should not exercise civil powers; 11–12, Men are justified in defending themselves and their property.
 
----
 ###### 1 
 We believe that governments were instituted of God for the benefit of man; and that he holds men accountable for their acts in relation to them, both in making laws and administering them, for the good and safety of society.
 

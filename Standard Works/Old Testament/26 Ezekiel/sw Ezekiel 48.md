@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 48
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 48
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/48?lang=eng)
 
----
-__Summary__
+> __Summary__
 The portions of land for the tribes are named—The gates of the city bear the names of the tribes—The name of the city will be The Lord Is There.
 
----
 ###### 1 
 Now these  the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazar-enan, the border of Damascus northward, to the coast of Hamath; for these are his sides east  west; a  Dan.
 

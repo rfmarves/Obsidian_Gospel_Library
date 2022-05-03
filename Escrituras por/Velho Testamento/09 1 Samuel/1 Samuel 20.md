@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 20
 [[1 Samuel 19| <-- 1 Samuel 19]] | [[1 Samuel]] | [[1 Samuel 21|1 Samuel 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi e Jônatas fazem uma aliança de amizade e paz — Separam-se um do outro.
 
----
 ###### 1 
 Então fugiu Davi de Naiote, em Ramá, e foi, e disse perante Jônatas: Que fiz eu? Qual  o meu crime? E qual  o meu pecado diante de teu pai, que procura tirar-me a vida?
 

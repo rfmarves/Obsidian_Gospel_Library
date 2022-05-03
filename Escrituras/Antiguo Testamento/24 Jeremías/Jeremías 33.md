@@ -1,22 +1,21 @@
 ---
 title: Jeremías 33
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 33
 [[Jeremías 32| <-- Jeremías 32]] | [[Jeremías]] | [[Jeremías 34|Jeremías 34 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/33?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/33?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Judá e Israel serán congregados nuevamente — Se promete el Renuevo de justicia (Cristo) — La Simiente de David (Cristo) reinará para siempre.
 
----
 ###### 1 
 Y vino la palabra de Jehová a Jeremías por segunda vez, estando él aún preso en el patio de la cárcel, diciendo:
 

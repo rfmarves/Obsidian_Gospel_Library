@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 4
 [[3 Nefi 3| <-- 3 Nefi 3]] | [[3 Nefi]] | [[3 Nefi 5|3 Nefi 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los ejércitos nefitas derrotan a los ladrones de Gadiantón — Matan a Giddiani y cuelgan a Zemnaríah, su sucesor — Los nefitas alaban al Señor por sus triunfos. Aproximadamente 19–22 d.C.
 
----
 ###### 1 
 Y aconteció que a fines del año dieciocho, aquellos ejércitos de ladrones se habían apercibido para la batalla, y empezaron a bajar y a salir de las colinas, y de las montañas, y del desierto, y de sus fortalezas y sus lugares secretos, y empezaron a apoderarse de las tierras, tanto las que se hallaban en la tierra del sur como en la tierra del norte, y comenzaron a ocupar todos los terrenos que habían sido abandonados por los nefitas, y las ciudades que habían quedado desiertas.
 

@@ -1,22 +1,21 @@
 ---
 title: Mateus 14
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 14
 [[Mateus 13| <-- Mateus 13]] | [[Mateus]] | [[Mateus 15|Mateus 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 João Batista é decapitado — Jesus alimenta cinco mil e anda sobre o mar — Aqueles que tocam na orla das Suas vestes são curados.
 
----
 ###### 1 
 Naquele tempo ouviu Herodes, o tetrarca, a fama de Jesus,
 

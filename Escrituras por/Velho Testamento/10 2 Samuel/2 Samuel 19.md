@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 19
 [[2 Samuel 18| <-- 2 Samuel 18]] | [[2 Samuel]] | [[2 Samuel 20|2 Samuel 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Joabe repreende Davi por favorecer os inimigos em vez dos amigos — Davi substitui Joabe por Amasa — Simei, que amaldiçoou Davi, é perdoado — Mefibosete garante que é fiel a Davi — Os homens de Judá levam Davi de volta a Jerusalém.
 
----
 ###### 1 
 E disseram a Joabe: Eis que o rei  chorando, e lastima-se por Absalão.
 

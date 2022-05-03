@@ -1,22 +1,21 @@
 ---
 title: Salmos 114
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 114
 [[Salmos 113| <-- Salmos 113]] | [[Salmos]] | [[Salmos 115|Salmos 115 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/114?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/114?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor governa o mar e a terra para bênção de Seu povo.
 
----
 ###### 1 
 Quando Israel saiu do Egito, e a casa de Jacó, de um povo bárbaro,
 

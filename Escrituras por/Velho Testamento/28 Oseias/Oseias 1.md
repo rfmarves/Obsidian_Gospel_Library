@@ -1,22 +1,21 @@
 ---
 title: Oseias 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseias 1
 [[Daniel 12| <-- Daniel 12]] | [[Oseias]] | [[Oseias 2|Oseias 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Oseias e sua família são um sinal para Israel — No dia da coligação, os filhos de Israel se tornarão os filhos do Deus vivo.
 
----
 ###### 1 
 Palavra do , que foi dita a Oseias, filho de Beeri, nos dias de Uzias, Jotão, Acaz, Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.
 

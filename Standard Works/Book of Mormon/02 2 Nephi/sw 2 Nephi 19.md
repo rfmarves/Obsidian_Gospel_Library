@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 19
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Isaiah speaks messianically—The people in darkness will see a great light—Unto us a child is born—He will be the Prince of Peace and will reign on David’s throne—Compare Isaiah 9. About 559–545 B.C.
 
----
 ###### 1 
 Nevertheless, the dimness shall not be such as was in her vexation, when at first he lightly afflicted the land of Zebulun, and the land of Naphtali, and afterwards did more grievously afflict by the way of the Red Sea beyond Jordan in Galilee of the nations.
 

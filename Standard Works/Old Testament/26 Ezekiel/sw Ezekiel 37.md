@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 37
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 37
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/37?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel is shown the valley of dry bones—Israel will inherit the land in the Resurrection—The stick of Judah (the Bible) and the stick of Joseph (the Book of Mormon) will become one in the Lord’s hand—The children of Israel will be gathered and cleansed—David (the Messiah) will reign over them—They will receive the everlasting gospel covenant.
 
----
 ###### 1 
 The hand of the  was upon me, and carried me out in the spirit of the , and set me down in the midst of the valley which  full of bones,
 

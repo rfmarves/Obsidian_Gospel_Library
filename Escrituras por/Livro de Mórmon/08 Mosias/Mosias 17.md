@@ -1,22 +1,21 @@
 ---
 title: Mosias 17
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 17
 [[Mosias 16| <-- Mosias 16]] | [[Mosias]] | [[Mosias 18|Mosias 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Alma crê nas palavras de Abinádi e escreve-as — Abinádi morre queimado — Ele profetiza enfermidades e morte por fogo para seus assassinos. Aproximadamente 148 a.C.
 
----
 ###### 1 
 E então aconteceu que quando Abinádi havia terminado estas palavras, o rei ordenou a seus sacerdotes que o levassem e fizessem com que fosse morto.
 

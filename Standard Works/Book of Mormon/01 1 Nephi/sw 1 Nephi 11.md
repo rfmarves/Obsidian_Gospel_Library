@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 11
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nephi sees the Spirit of the Lord and is shown in vision the tree of life—He sees the mother of the Son of God and learns of the condescension of God—He sees the baptism, ministry, and crucifixion of the Lamb of God—He sees also the call and ministry of the Twelve Apostles of the Lamb. About 600–592 B.C.
 
----
 ###### 1 
 For it came to pass after I had desired to know the things that my father had seen, and believing that the Lord was able to make them known unto me, as I sat pondering in mine heart I was caught away in the Spirit of the Lord, yea, into an exceedingly high mountain, which I never had before seen, and upon which I never had before set my foot.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The fear of the Lord is the beginning of knowledge—If sinners entice you, do not consent—Those who hearken to wisdom will dwell safely.
 
----
 ###### 1 
 The proverbs of Solomon the son of David, king of Israel;
 

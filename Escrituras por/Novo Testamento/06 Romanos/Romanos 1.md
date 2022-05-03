@@ -1,22 +1,21 @@
 ---
 title: Romanos 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 1
 [[Atos 28| <-- Atos 28]] | [[Romanos]] | [[Romanos 2|Romanos 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O evangelho é o poder de Deus para a salvação por intermédio de Jesus Cristo — A ira de Deus recai sobre os que são culpados de assassinato, de práticas homossexuais, de fornicação e de outros pecados, se os culpados não se arrependem.
 
----
 ###### 1 
 Paulo, servo de Jesus Cristo, chamado  apóstolo, separado para o evangelho de Deus,
 

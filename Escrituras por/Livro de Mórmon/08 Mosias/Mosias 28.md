@@ -1,22 +1,21 @@
 ---
 title: Mosias 28
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 28
 [[Mosias 27| <-- Mosias 27]] | [[Mosias]] | [[Mosias 29|Mosias 29 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/28?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/28?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Mosias vão pregar aos lamanitas — Usando as duas pedras de vidente, Mosias traduz as placas jareditas. Aproximadamente 92 a.C.
 
----
 ###### 1 
 Ora, aconteceu que depois que os filhos de Mosias fizeram todas estas coisas, reuniram um pequeno grupo e voltaram para junto de seu pai, o rei; e pediram-lhe que lhes concedesse licença para subirem, juntamente com os que haviam escolhido, à terra de Néfi, para pregarem as coisas que haviam ouvido e comunicarem a palavra de Deus a seus irmãos, os lamanitas —
 

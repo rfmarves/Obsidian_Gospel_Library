@@ -1,22 +1,21 @@
 ---
 title: Amós 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 6
 [[Amós 5| <-- Amós 5]] | [[Amós]] | [[Amós 7|Amós 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 ¡Ay de los reposados en Sion! — Israel será asolado por la desolación.
 
----
 ###### 1 
 ¡Ay de los reposados en Sion y de los confiados en el monte de Samaria, los nombrados como principales entre las naciones, a quienes acude la casa de Israel!
 

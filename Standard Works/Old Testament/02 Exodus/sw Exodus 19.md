@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord covenants to make Israel a peculiar treasure, a kingdom of priests, and a holy nation—The people sanctify themselves—The Lord appears on Sinai amid fire, smoke, and earthquakes.
 
----
 ###### 1 
 In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they  the wilderness of Sinai.
 

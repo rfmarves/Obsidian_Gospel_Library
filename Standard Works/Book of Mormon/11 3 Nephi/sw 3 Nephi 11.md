@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 11
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 11
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng)
 
----
+```
 Jesus Christ did show himself unto the people of Nephi, as the multitude were gathered together in the land Bountiful, and did minister unto them; and on this wise did he show himself unto them.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The Father testifies of His Beloved Son—Christ appears and proclaims His Atonement—The people feel the wound marks in His hands and feet and side—They cry Hosanna—He sets forth the mode and manner of baptism—The spirit of contention is of the devil—Christ’s doctrine is that men should believe and be baptized and receive the Holy Ghost. About A.D. 34.
 
----
 ###### 1 
 And now it came to pass that there were a great multitude gathered together, of the people of Nephi, round about the temple which was in the land Bountiful; and they were marveling and wondering one with another, and were showing one to another the great and marvelous change which had taken place.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Amos 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Amos 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Woe to them who are at ease in Zion—Israel will be plagued with desolation.
 
----
 ###### 1 
 Woe to them  at ease in Zion, and trust in the mountain of Samaria,  named chief of the nations, to whom the house of Israel came!
 

@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 38
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 38
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/38?lang=eng)
 
----
-__Summary__
+> __Summary__
 Judah has three sons by a Canaanite woman—Er and Onan are slain by the Lord—Tamar, disguised as a harlot, bears twins by Judah.
 
----
 ###### 1 
 And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name  Hirah.
 

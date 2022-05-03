@@ -1,22 +1,21 @@
 ---
 title: Proverbios 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 20
 [[Proverbios 19| <-- Proverbios 19]] | [[Proverbios]] | [[Proverbios 21|Proverbios 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El vino es escarnecedor y la bebida fuerte, alborotadora — Vuélvete a Jehová y Él te salvará.
 
----
 ###### 1 
 
 

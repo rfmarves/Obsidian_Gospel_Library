@@ -1,10 +1,11 @@
 ---
 title: sw Ecclesiastes 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ecclesiastes 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 To every thing there is a season—Whatever God does, it will be forever—God will judge the righteous and the wicked.
 
----
 ###### 1 
 To every  a season, and a time to every purpose under the heaven:
 

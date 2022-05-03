@@ -1,22 +1,21 @@
 ---
 title: Números 27
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 27
 [[Números 26| <-- Números 26]] | [[Números]] | [[Números 28|Números 28 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/27?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Explica-se a lei de herança para filhos, filhas e parentes — Moisés verá a terra prometida mas não entrará nela — Josué é chamado e designado para liderar Israel.
 
----
 ###### 1 
 E chegaram as filhas de Zelofeade, filho de Hefer, filho de Gileade, filho de Maquir, filho de Manassés, entre as famílias de Manassés, filho de José; e estes  os nomes de suas filhas: Maalá, Noa, Hogla, Milca, e Tirza;
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ecclesiastes 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ecclesiastes 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Unless a man’s soul is filled with good, his riches, wealth, honor, and posterity are vanity.
 
----
 ###### 1 
 There is an evil which I have seen under the sun, and it  common among men:
 

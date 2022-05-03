@@ -1,22 +1,21 @@
 ---
 title: Levítico 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 12
 [[Levítico 11| <-- Levítico 11]] | [[Levítico]] | [[Levítico 13|Levítico 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor revela a lei da purificação das mulheres após o parto, incluindo uma oferta pelo pecado.
 
----
 ###### 1 
 Falou mais o  a Moisés, dizendo:
 

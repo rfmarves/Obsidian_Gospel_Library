@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Babylon is fallen, is fallen!—Other nations also are destroyed.
 
----
 ###### 1 
 The burden of the desert of the sea. As whirlwinds in the south pass through;  it cometh from the desert, from a terrible land.
 

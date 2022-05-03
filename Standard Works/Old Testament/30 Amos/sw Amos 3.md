@@ -1,10 +1,11 @@
 ---
 title: sw Amos 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Amos 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord reveals His secrets unto His servants the prophets—Because Israel rejects the prophets and follows evil, the nation is overwhelmed by an adversary.
 
----
 ###### 1 
 Hear this word that the  hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,
 

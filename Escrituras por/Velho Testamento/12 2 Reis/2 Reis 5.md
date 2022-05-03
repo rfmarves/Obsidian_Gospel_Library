@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 5
 [[2 Reis 4| <-- 2 Reis 4]] | [[2 Reis]] | [[2 Reis 6|2 Reis 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Naamã, o sírio, procura Eliseu para ser curado de lepra — A princípio, rejeita a instrução do profeta, mas acaba cedendo e se lava sete vezes no Jordão; é curado — Eliseu se recusa a aceitar recompensa — Geazi aceita um presente de Naamã e é amaldiçoado com lepra.
 
----
 ###### 1 
 E Naamã, chefe do exército do rei da Síria, era um grande homem diante do seu senhor, e de muito respeito; porque por ele o  dera livramento aos sírios; e era este homem forte e valoroso,  leproso.
 

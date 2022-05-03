@@ -1,10 +1,11 @@
 ---
 title: sw D&C 20
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–16, The Book of Mormon proves the divinity of the latter-day work; 17–28, The doctrines of creation, fall, atonement, and baptism are affirmed; 29–37, Laws governing repentance, justification, sanctification, and baptism are set forth; 38–67, Duties of elders, priests, teachers, and deacons are summarized; 68–74, Duties of members, blessing of children, and the mode of baptism are revealed; 75–84, Sacramental prayers and regulations governing Church membership are given.
 
----
 ###### 1 
 The rise of the Church of Christ in these last days, being one thousand eight hundred and thirty years since the coming of our Lord and Savior Jesus Christ in the flesh, it being regularly organized and established agreeable to the laws of our country, by the will and commandments of God, in the fourth month, and on the sixth day of the month which is called April—
 

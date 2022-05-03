@@ -1,22 +1,21 @@
 ---
 title: Levítico 26
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 26
 [[Levítico 25| <-- Levítico 25]] | [[Levítico]] | [[Levítico 27|Levítico 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 As bênçãos materiais e espirituais serão abundantes em Israel, se o povo guardar os mandamentos — Se desobedecerem ao Senhor, haverá maldições, castigos e desolação — Quando Seu povo se arrepender, o Senhor terá misericórdia para com eles.
 
----
 ###### 1 
 Não fareis para vós ídolos, nem levantareis para vós imagem de escultura, nem estátua, nem poreis pedra figurada na vossa terra, para inclinar-vos a ela; porque eu  o  vosso Deus.
 

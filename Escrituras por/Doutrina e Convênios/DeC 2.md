@@ -1,22 +1,21 @@
 ---
 title: DeC 2
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 2
 [[DeC 1| <-- DeC 1]] | [[DeC]] | [[DeC 3|DeC 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1, Elias, o profeta, revelará o sacerdócio; 2–3, Plantam-se as promessas dos pais no coração dos filhos.
 
----
 ###### 1 
 Eis que vos revelarei o Sacerdócio pela mão de Elias, o profeta, antes da vinda do grande e terrível dia do Senhor.
 

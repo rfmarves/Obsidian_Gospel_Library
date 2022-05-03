@@ -1,22 +1,21 @@
 ---
 title: Santiago 5
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Santiago 5
 [[Santiago 4| <-- Santiago 4]] | [[Santiago]] | [[1 Pedro 1|1 Pedro 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/james/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/james/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La miseria vendrá sobre los ricos disolutos — Aguardad la venida del Señor con paciencia — Los ancianos deben ungir y sanar a los enfermos.
 
----
 ###### 1 
 ¡Vamos ahora, oh ricos! Llorad y aullad por las miserias que os vendrán.
 

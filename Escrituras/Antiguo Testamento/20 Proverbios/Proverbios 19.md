@@ -1,22 +1,21 @@
 ---
 title: Proverbios 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 19
 [[Proverbios 18| <-- Proverbios 18]] | [[Proverbios]] | [[Proverbios 20|Proverbios 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La esposa prudente proviene de Jehová — El que se apiada del pobre le presta a Jehová — Es mejor ser pobre que mentiroso.
 
----
 ###### 1 
 
 

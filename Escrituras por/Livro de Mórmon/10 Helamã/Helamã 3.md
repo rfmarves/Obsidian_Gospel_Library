@@ -1,22 +1,21 @@
 ---
 title: Helamã 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamã 3
 [[Helamã 2| <-- Helamã 2]] | [[Helamã]] | [[Helamã 4|Helamã 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Muitos nefitas emigram para a terra do norte — Eles constroem casas de cimento e fazem muitos registros — Dezenas de milhares de pessoas são convertidas e batizadas — A palavra de Deus leva os homens à salvação — Néfi, o filho de Helamã, ocupa a cadeira de juiz. Aproximadamente 49–39 a.C.
 
----
 ###### 1 
 E então aconteceu que no quadragésimo terceiro ano do governo dos juízes não houve contendas entre o povo de Néfi, com exceção de algumas demonstrações de orgulho verificadas na igreja, as quais causaram pequenas dissensões entre o povo e foram resolvidas no fim do quadragésimo terceiro ano.
 

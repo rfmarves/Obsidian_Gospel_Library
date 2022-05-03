@@ -1,10 +1,11 @@
 ---
 title: sw D&C 45
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 45
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, Christ is our advocate with the Father; 6–10, The gospel is a messenger to prepare the way before the Lord; 11–15, Enoch and his brethren were received by the Lord unto Himself; 16–23, Christ revealed signs of His coming as given on the Mount of Olives; 24–38, The gospel will be restored, the times of the Gentiles will be fulfilled, and a desolating sickness will cover the land; 39–47, Signs, wonders, and the Resurrection are to attend the Second Coming; 48–53, Christ will stand on the Mount of Olives, and the Jews will see the wounds in His hands and feet; 54–59, The Lord will reign during the Millennium; 60–62, The Prophet is instructed to begin the translation of the New Testament, through which important information will be made known; 63–75, The Saints are commanded to gather and build the New Jerusalem, to which people from all nations will come.
 
----
 ###### 1 
 Hearken, O ye people of my church, to whom the kingdom has been given; hearken ye and give ear to him who laid the foundation of the earth, who made the heavens and all the hosts thereof, and by whom all things were made which live, and move, and have a being.
 

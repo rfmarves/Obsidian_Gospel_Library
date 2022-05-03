@@ -1,22 +1,21 @@
 ---
 title: Josué 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 18
 [[Josué 17| <-- Josué 17]] | [[Josué]] | [[Josué 19|Josué 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O tabernáculo da congregação é armado em Siló — Benjamim recebe herança por sorteio.
 
----
 ###### 1 
 E toda a congregação dos filhos de Israel se ajuntou em Siló, e ali armaram a tenda da congregação, depois que a terra lhes foi sujeita.
 

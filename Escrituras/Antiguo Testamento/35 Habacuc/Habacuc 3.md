@@ -1,22 +1,21 @@
 ---
 title: Habacuc 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Habacuc 3
 [[Habacuc 2| <-- Habacuc 2]] | [[Habacuc]] | [[Sofonías 1|Sofonías 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hab/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hab/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En su oración, Habacuc tiembla ante la majestuosidad de Dios.
 
----
 ###### 1 
 Oración del profeta Habacuc, sobre Sigionot.
 

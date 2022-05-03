@@ -1,22 +1,21 @@
 ---
 title: DeC 54
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 54
 [[DeC 53| <-- DeC 53]] | [[DeC]] | [[DeC 55|DeC 55 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/54?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/54?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–6, Os santos devem guardar o convênio do evangelho para obter misericórdia; 7–10, Devem ser pacientes na tribulação.
 
----
 ###### 1 
 Eis que assim diz o Senhor, o Alfa e o Ômega, o princípio e o fim, aquele que foi crucificado pelos pecados do mundo:
 

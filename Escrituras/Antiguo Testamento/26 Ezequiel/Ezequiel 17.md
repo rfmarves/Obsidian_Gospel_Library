@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 17
 [[Ezequiel 16| <-- Ezequiel 16]] | [[Ezequiel]] | [[Ezequiel 18|Ezequiel 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequiel muestra en una parábola que Israel, estando bajo el yugo de Babilonia, erróneamente solicita ayuda a Egipto — Aun así, en los últimos días Jehová hará crecer un magnífico árbol de los cedros del Líbano.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

@@ -1,22 +1,21 @@
 ---
 title: Éxodo 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 7
 [[Éxodo 6| <-- Éxodo 6]] | [[Éxodo]] | [[Éxodo 8|Éxodo 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se asigna a Moisés dar la palabra del Señor a Faraón — Jehová multiplicará las señales y maravillas en Egipto — La vara de Aarón se convierte en serpiente — El río se torna en sangre — Los hechiceros imitan los milagros de Moisés y de Aarón.
 
----
 ###### 1 
 Y Jehová dijo a Moisés: Mira, yo te he constituido dios para Faraón, y tu hermano Aarón será tu profeta.
 

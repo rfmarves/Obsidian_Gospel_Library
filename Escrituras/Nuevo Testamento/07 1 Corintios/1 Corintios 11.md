@@ -1,22 +1,21 @@
 ---
 title: 1 Corintios 11
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Corintios 11
 [[1 Corintios 10| <-- 1 Corintios 10]] | [[1 Corintios]] | [[1 Corintios 12|1 Corintios 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo habla de ciertas costumbres del cabello y del arreglo personal — Habrá herejías que pondrán a prueba a los fieles — Los emblemas sacramentales se toman en memoria de la carne y de la sangre de Cristo — Cuidaos de participar indignamente de ellos.
 
----
 ###### 1 
 Sed imitadores de mí, así como yo lo soy de Cristo.
 

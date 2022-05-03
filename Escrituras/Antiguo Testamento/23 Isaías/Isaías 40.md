@@ -1,22 +1,21 @@
 ---
 title: Isaías 40
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 40
 [[Isaías 39| <-- Isaías 39]] | [[Isaías]] | [[Isaías 41|Isaías 41 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Isaías habla del Mesías — Preparad el camino de Jehová — Como pastor apacentará Su rebaño — El Dios de Israel es de grandeza incomparable.
 
----
 ###### 1 
 Consolad, consolad a mi pueblo, dice vuestro Dios.
 

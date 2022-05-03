@@ -1,22 +1,21 @@
 ---
 title: Lucas 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 4
 [[Lucas 3| <-- Lucas 3]] | [[Lucas]] | [[Lucas 5|Lucas 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus jejua por quarenta dias e é tentado pelo diabo — Jesus anuncia Sua filiação divina em Nazaré e é rejeitado — Ele expulsa um demônio em Cafarnaum, cura a sogra de Pedro, prega e cura por toda a Galileia.
 
----
 ###### 1 
 E Jesus, cheio do Espírito Santo, voltou do Jordão e foi levado pelo Espírito ao deserto;
 

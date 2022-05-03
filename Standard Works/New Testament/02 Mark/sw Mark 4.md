@@ -1,10 +1,11 @@
 ---
 title: sw Mark 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus gives the parables of the sower, the candle under a bushel, the seed growing secretly, and the mustard seed—He stills the tempest.
 
----
 ###### 1 
 And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land.
 

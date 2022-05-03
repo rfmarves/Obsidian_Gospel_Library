@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 12
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 12
 [[2 Nefi 11| <-- 2 Nefi 11]] | [[2 Nefi]] | [[2 Nefi 13|2 Nefi 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Isaías ve el templo de los postreros días, el recogimiento de Israel, el juicio y la paz milenarios — Los altivos y los inicuos serán humillados a la Segunda Venida — Compárese con Isaías 2. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Lo que vio Isaías hijo de Amoz, concerniente a Judá y Jerusalén:
 

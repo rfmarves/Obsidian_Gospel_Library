@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 13
 [[1 Reis 12| <-- 1 Reis 12]] | [[1 Reis]] | [[1 Reis 14|1 Reis 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeroboão é ferido e depois curado por um profeta de Judá — O profeta transmite sua mensagem, é desviado do caminho por um profeta de Betel e é morto por um leão por sua desobediência — Jeroboão continua a adoração falsa em Israel.
 
----
 ###### 1 
 E eis que um homem de Deus veio de Judá com a palavra do  a Betel; e Jeroboão estava junto ao altar, para queimar incenso.
 

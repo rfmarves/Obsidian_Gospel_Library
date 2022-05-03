@@ -1,22 +1,21 @@
 ---
 title: 2 Corintios 10
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Corintios 10
 [[2 Corintios 9| <-- 2 Corintios 9]] | [[2 Corintios]] | [[2 Corintios 11|2 Corintios 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Encauzad todo pensamiento hacia la obediencia — Pablo se gloría en el Señor.
 
----
 ###### 1 
 Yo, Pablo, os ruego por la mansedumbre y benignidad de Cristo, yo, que cuando estoy presente ciertamente soy humilde entre vosotros, pero que cuando estoy ausente soy osado para con vosotros,
 

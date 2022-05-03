@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 42
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 42
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/42?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel sees in the temple the chambers for the priests.
 
----
 ###### 1 
 Then he brought me forth into the utter court, the way toward the north: and he brought me into the chamber that  over against the separate place, and which  before the building toward the north.
 

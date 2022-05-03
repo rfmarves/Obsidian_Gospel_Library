@@ -1,22 +1,21 @@
 ---
 title: Éxodo 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 3
 [[Éxodo 2| <-- Éxodo 2]] | [[Éxodo]] | [[Éxodo 4|Éxodo 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová se aparece a Moisés en la zarza ardiente — Se llama a Moisés a librar a Israel de la servidumbre — Jehová se identifica a Sí mismo como el Dios de Abraham, y de Isaac y de Jacob, y como el Gran Yo Soy — Promete herir a Egipto y sacar a Su pueblo con gran riqueza.
 
----
 ###### 1 
 Y apacentando Moisés las ovejas de su suegro Jetro, sacerdote de Madián, llevó las ovejas más allá del desierto y llegó a Horeb, monte de Dios.
 

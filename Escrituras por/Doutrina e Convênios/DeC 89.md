@@ -1,22 +1,21 @@
 ---
 title: DeC 89
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 89
 [[DeC 88| <-- DeC 88]] | [[DeC]] | [[DeC 90|DeC 90 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–9, Condena-se o uso de vinho, bebidas fortes, tabaco e bebidas quentes; 10–17, Indicam-se para uso dos homens e dos animais as ervas, frutas, carnes e grãos; 18–21, A obediência à lei do evangelho, incluindo-se a Palavra de Sabedoria, proporciona bênçãos físicas e espirituais.
 
----
 ###### 1 
 Uma , para o benefício do conselho de sumos sacerdotes, reunido em Kirtland, e da igreja e também dos santos de Sião —
 

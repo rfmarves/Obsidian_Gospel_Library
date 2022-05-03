@@ -1,27 +1,25 @@
 ---
 title: Alma 17
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 17
 [[Alma 16| <-- Alma 16]] | [[Alma]] | [[Alma 18|Alma 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=por)
 
----
+```
 Relato dos filhos de Mosias, que renunciaram a seus direitos ao reino pela palavra de Deus e subiram à terra de Néfi para pregar aos lamanitas; seus sofrimentos e sua libertação, segundo o registro de Alma.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Os filhos de Mosias têm o espírito de profecia e de revelação — Cada um segue seu caminho para declarar a palavra aos lamanitas — Amon vai à terra de Ismael e torna-se servo do rei Lamôni — Amon salva os rebanhos do rei e mata seus inimigos junto às águas de Sébus. Vers. 1–3, aproximadamente 77 a.C.; Vers. 4, aproximadamente 91–77 a.C.; e Vers. 5–39, aproximadamente 91 a.C.
 
----
 ###### 1 
 E então aconteceu que quando Alma viajava da terra de Gideão para o sul, em direção à terra de Mânti, eis que, para seu assombro, encontrou os filhos de Mosias, que se dirigiam à terra de Zaraenla.
 

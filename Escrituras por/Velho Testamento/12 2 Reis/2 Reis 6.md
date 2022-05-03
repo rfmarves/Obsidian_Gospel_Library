@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 6
 [[2 Reis 5| <-- 2 Reis 5]] | [[2 Reis]] | [[2 Reis 7|2 Reis 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Eliseu faz um machado flutuar — Ele revela ao rei como conduzir a guerra contra a Síria — Eliseu é protegido por cavalos e carruagens de fogo — Os sírios são feridos de cegueira — Ben-Hadade sitia Samaria, e os alimentos são vendidos a um preço muito alto.
 
----
 ###### 1 
 E disseram os filhos dos profetas a Eliseu: Eis que o lugar em que habitamos diante da tua face nos é estreito.
 

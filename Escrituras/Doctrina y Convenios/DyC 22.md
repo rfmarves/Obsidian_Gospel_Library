@@ -1,22 +1,21 @@
 ---
 title: DyC 22
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 22
 [[DyC 21| <-- DyC 21]] | [[DyC]] | [[DyC 23|DyC 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1, El bautismo es un convenio nuevo y sempiterno; 2–4, Se requiere el bautismo autorizado.
 
----
 ###### 1 
 He aquí, os digo que he hecho abrogar todos los convenios antiguos con respecto a esto; y este es un convenio nuevo y sempiterno, el mismo que fue desde el principio.
 

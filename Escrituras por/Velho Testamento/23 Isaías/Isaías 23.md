@@ -1,22 +1,21 @@
 ---
 title: Isaías 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 23
 [[Isaías 22| <-- Isaías 22]] | [[Isaías]] | [[Isaías 24|Isaías 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Tiro será derrubada.
 
----
 ###### 1 
 Peso de Tiro. Uivai, navios de Társis, porque  assolada está, até  casa nenhuma ficar,  ninguém mais entrar; desde a terra de Quitim lhes foi  revelado.
 

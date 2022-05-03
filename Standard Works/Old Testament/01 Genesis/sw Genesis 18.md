@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abraham entertains three holy men—They promise that Sarah will have a son—Abraham will command his children to be just—The Lord appears to him—They discuss the destruction of Sodom and Gomorrah.
 
----
 ###### 1 
 And the  appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;
 

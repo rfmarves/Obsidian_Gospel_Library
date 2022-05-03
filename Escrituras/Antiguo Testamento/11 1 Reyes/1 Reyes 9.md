@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 9
 [[1 Reyes 8| <-- 1 Reyes 8]] | [[1 Reyes]] | [[1 Reyes 10|1 Reyes 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová se le aparece nuevamente a Salomón — Jehová promete grandes bendiciones si los israelitas son obedientes y advierte de grandes maldiciones si se apartan de Él — Salomón reina con esplendor — Impone tributo sobre los que no son israelitas y construye una flota de naves.
 
----
 ###### 1 
 Y aconteció que cuando Salomón hubo acabado la obra de la casa de Jehová, y la casa real y todo lo que Salomón quiso hacer,
 

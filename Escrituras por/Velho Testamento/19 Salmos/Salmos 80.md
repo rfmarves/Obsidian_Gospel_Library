@@ -1,27 +1,25 @@
 ---
 title: Salmos 80
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 80
 [[Salmos 79| <-- Salmos 79]] | [[Salmos]] | [[Salmos 81|Salmos 81 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/80?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/80?lang=por)
 
----
+```
 Para o músico-mor. Sobre Shoshanim-Edute. Salmo de Asafe.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Israel roga ao Pastor de Israel pedindo que os liberte, que os salve e que faça resplandecer o Seu rosto sobre eles.
 
----
 ###### 1 
 Tu,  pastor de Israel, dá ouvidos; tu, que guias José como a  rebanho, tu, que te assentas  os querubins, resplandece.
 

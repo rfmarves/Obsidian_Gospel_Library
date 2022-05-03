@@ -1,22 +1,21 @@
 ---
 title: Mateus 23
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 23
 [[Mateus 22| <-- Mateus 22]] | [[Mateus]] | [[Mateus 24|Mateus 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus profere desgraças que sobrevirão aos escribas e fariseus — Eles serão considerados responsáveis por terem matado os profetas — Eles não escaparão da condenação do inferno.
 
----
 ###### 1 
 Então falou Jesus à multidão, e aos seus discípulos,
 

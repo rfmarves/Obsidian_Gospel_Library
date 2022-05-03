@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 18
 [[1 Reyes 17| <-- 1 Reyes 17]] | [[1 Reyes]] | [[1 Reyes 19|1 Reyes 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Elías el Profeta es enviado a reunirse con Acab — Abdías salva a cien profetas y se reúne con Elías el Profeta — Elías desafía a los profetas de Baal a hacer descender fuego del cielo — Ellos fallan — Elías hace descender fuego, mata a los profetas de Baal y abre los cielos para que llueva.
 
----
 ###### 1 
 Y aconteció que pasados muchos días, vino la palabra de Jehová a Elías al tercer año, diciendo: Ve, muéstrate a Acab, y yo enviaré lluvia sobre la faz de la tierra.
 

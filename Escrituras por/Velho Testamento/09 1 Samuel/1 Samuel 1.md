@@ -1,25 +1,24 @@
 ---
 title: 1 Samuel 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 1
 [[Rute 4| <-- Rute 4]] | [[1 Samuel]] | [[1 Samuel 2|1 Samuel 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/1?lang=por)
 
 1 Samuel
 Também Chamado de Primeiro Livro dos Reis
 
----
-__Resumo__
+> __Resumo__
 Ana ora pedindo um filho e faz voto de entregá-lo ao Senhor — Eli, o sacerdote, a abençoa — Nasce Samuel — Ana o entrega ao Senhor.
 
----
 ###### 1 
 Houve um homem de Ramataim-Zofim, da montanha de Efraim, cujo nome  Elcana, filho de Jeroão, filho de Eliú, filho de Toú, filho de Zufe, efraimita.
 

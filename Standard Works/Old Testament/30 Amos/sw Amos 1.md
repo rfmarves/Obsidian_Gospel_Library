@@ -1,10 +1,11 @@
 ---
 title: sw Amos 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Amos 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Amos shows the Lord’s judgments upon Syria, the Philistines, Tyre, Edom, and Ammon.
 
----
 ###### 1 
 The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.
 

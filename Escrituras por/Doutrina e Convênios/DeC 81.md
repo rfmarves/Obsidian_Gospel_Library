@@ -1,22 +1,21 @@
 ---
 title: DeC 81
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 81
 [[DeC 80| <-- DeC 80]] | [[DeC]] | [[DeC 82|DeC 82 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/81?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/81?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–2, A Primeira Presidência sempre possui as chaves do reino; 3–7; Se Frederick G. Williams for fiel em seu ministério, terá vida eterna.
 
----
 ###### 1 
 Em verdade, em verdade te digo, meu servo Frederick G. Williams: Atende à voz daquele que fala, à palavra do Senhor teu Deus, e ouve o chamado para o qual és chamado, ou seja, o de sumo sacerdote na minha igreja e conselheiro de meu servo Joseph Smith Júnior;
 

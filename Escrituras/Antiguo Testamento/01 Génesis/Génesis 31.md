@@ -1,22 +1,21 @@
 ---
 title: Génesis 31
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 31
 [[Génesis 30| <-- Génesis 30]] | [[Génesis]] | [[Génesis 32|Génesis 32 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/31?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/31?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová manda a Jacob que vuelva a Canaán, y Jacob parte en secreto — Labán lo persigue, resuelven sus diferencias y hacen un pacto de paz — Labán bendice a sus descendientes, y él y Jacob se separan.
 
----
 ###### 1 
 Y oía Jacob las palabras de los hijos de Labán, que decían: Jacob ha tomado todo lo que era de nuestro padre, y de lo que era de nuestro padre ha adquirido toda esta riqueza.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 25
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/25?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David pleads for truth and asks for pardon—Mercy and truth are for those who keep the commandments.
 
----
 ###### 1 
 Unto thee, O , do I lift up my soul.
 

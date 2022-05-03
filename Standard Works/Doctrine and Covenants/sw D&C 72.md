@@ -1,10 +1,11 @@
 ---
 title: sw D&C 72
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 72
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/72?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–8, Elders are to render an account of their stewardship unto the bishop; 9–15, The bishop keeps the storehouse and cares for the poor and needy; 16–26, Bishops are to certify the worthiness of elders.
 
----
 ###### 1 
 Hearken, and listen to the voice of the Lord, O ye who have assembled yourselves together, who are the high priests of my church, to whom the kingdom and power have been given.
 

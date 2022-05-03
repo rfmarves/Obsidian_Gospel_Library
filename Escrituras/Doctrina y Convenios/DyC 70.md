@@ -1,22 +1,21 @@
 ---
 title: DyC 70
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 70
 [[DyC 69| <-- DyC 69]] | [[DyC]] | [[DyC 71|DyC 71 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/70?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/70?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, Se nombran mayordomos para publicar las revelaciones; 6–13, Aquellos que obran en las cosas espirituales son dignos de su salario; 14–18, Los santos deben ser iguales en cuanto a las cosas temporales.
 
----
 ###### 1 
 He aquí, escuchad, oh habitantes de Sion, y todos vosotros los de mi iglesia que estáis lejos, y oíd la palabra del Señor que comunico a mi siervo José Smith, hijo, y también a mis siervos Martin Harris, Oliver Cowdery, John Whitmer, Sidney Rigdon y William W. Phelps, por vía de mandamiento a ellos.
 

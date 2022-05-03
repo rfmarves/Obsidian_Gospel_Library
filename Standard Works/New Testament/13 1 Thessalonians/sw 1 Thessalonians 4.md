@@ -1,10 +1,11 @@
 ---
 title: sw 1 Thessalonians 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Thessalonians 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Saints are told to be holy, sanctify themselves, and love one another—The Lord will come, and the dead will rise.
 
----
 ###### 1 
 Furthermore then we beseech you, brethren, and exhort  by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God,  ye would abound more and more.
 

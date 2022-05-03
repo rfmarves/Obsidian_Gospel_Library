@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 24
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 24
 [[2 Samuel 23| <-- 2 Samuel 23]] | [[2 Samuel]] | [[1 Reyes 1|1 Reyes 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David peca al contar a Israel y a Judá — Los hombres de guerra suman un millón trescientos mil — Jehová destruye a setenta mil hombres con una peste — David ve a un ángel, ofrece sacrificio, y la plaga se detiene.
 
----
 ###### 1 
 Y volvió a encenderse el furor de Jehová contra Israel, e incitó a David contra ellos a que dijese: Ve y haz un censo de Israel y de Judá.
 

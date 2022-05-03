@@ -1,22 +1,21 @@
 ---
 title: Números 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 15
 [[Números 14| <-- Números 14]] | [[Números]] | [[Números 16|Números 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Várias ordenanças de sacrifício trazem o perdão a Israel arrependido — Aqueles que pecam deliberadamente são extirpados do meio do povo — Um homem é apedrejado por apanhar lenha no dia do Sábado — Os israelitas devem olhar para as franjas das suas vestes e lembrar-se dos mandamentos.
 
----
 ###### 1 
 Depois falou o  a Moisés, dizendo:
 

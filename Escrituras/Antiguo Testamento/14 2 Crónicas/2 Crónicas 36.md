@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 36
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 36
 [[2 Crónicas 35| <-- 2 Crónicas 35]] | [[2 Crónicas]] | [[Esdras 1|Esdras 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/36?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/36?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Varios reyes gobiernan en Judá — Nabucodonosor invade Judá y hace rey a Sedequías — Sedequías se rebela, el pueblo rechaza a los profetas, y los caldeos queman el templo y destruyen Jerusalén — Ciro de Persia decreta la construcción del templo.
 
----
 ###### 1 
 Entonces el pueblo de la tierra tomó a Joacaz hijo de Josías, y le hicieron rey en lugar de su padre en Jerusalén.
 

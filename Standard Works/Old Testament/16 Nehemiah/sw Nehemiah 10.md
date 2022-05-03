@@ -1,10 +1,11 @@
 ---
 title: sw Nehemiah 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nehemiah 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people covenant not to marry outside of Israel—They also covenant to honor the Sabbath, to pay tithes, and to keep the commandments.
 
----
 ###### 1 
 Now those that sealed  Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,
 

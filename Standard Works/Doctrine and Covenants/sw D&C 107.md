@@ -1,10 +1,11 @@
 ---
 title: sw D&C 107
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 107
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, There are two priesthoods: the Melchizedek and the Aaronic; 7–12, Those who hold the Melchizedek Priesthood have power to officiate in all offices in the Church; 13–17, The bishopric presides over the Aaronic Priesthood, which administers in outward ordinances; 18–20, The Melchizedek Priesthood holds the keys of all spiritual blessings; the Aaronic Priesthood holds the keys of the ministering of angels; 21–38, The First Presidency, the Twelve, and the Seventy constitute the presiding quorums, whose decisions are to be made in unity and righteousness; 39–52, The patriarchal order is established from Adam to Noah; 53–57, Ancient Saints assembled at Adam-ondi-Ahman, and the Lord appeared to them; 58–67, The Twelve are to set the officers of the Church in order; 68–76, Bishops serve as common judges in Israel; 77–84, The First Presidency and the Twelve constitute the highest court in the Church; 85–100, Priesthood presidents govern their respective quorums.
 
----
 ###### 1 
 There are, in the church, two priesthoods, namely, the Melchizedek and Aaronic, including the Levitical Priesthood.
 

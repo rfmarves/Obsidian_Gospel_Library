@@ -1,22 +1,21 @@
 ---
 title: Números 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 11
 [[Números 10| <-- Números 10]] | [[Números]] | [[Números 12|Números 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O fogo do Senhor consome os rebeldes de Israel — Israel murmura e deseja comer carne em vez de maná — Moisés se queixa de não poder levar o fardo sozinho — Ordena-se que ele escolha setenta anciãos para ajudá-lo — O Senhor promete carne até que os israelitas se enfastiem dela — Os setenta anciãos são escolhidos e profetizam, o Senhor desce, Eldade e Medade profetizam no acampamento — Israel é suprida com codornizes — O povo cobiça, segue-se uma grande praga, e muitos morrem.
 
----
 ###### 1 
 E aconteceu que, queixando-se o povo, era mal aos ouvidos do ; porque o  ouviu-o, e a sua ira se acendeu, e o fogo do  ardeu entre eles, e consumiu  na última parte do acampamento.
 

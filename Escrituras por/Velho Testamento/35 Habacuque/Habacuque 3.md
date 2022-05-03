@@ -1,22 +1,21 @@
 ---
 title: Habacuque 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Habacuque 3
 [[Habacuque 2| <-- Habacuque 2]] | [[Habacuque]] | [[Sofonias 1|Sofonias 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hab/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hab/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Em sua oração, Habacuque treme diante da majestade de Deus.
 
----
 ###### 1 
 Oração do profeta Habacuque sobre Sigionote.
 

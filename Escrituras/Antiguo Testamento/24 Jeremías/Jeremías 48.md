@@ -1,22 +1,21 @@
 ---
 title: Jeremías 48
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 48
 [[Jeremías 47| <-- Jeremías 47]] | [[Jeremías]] | [[Jeremías 49|Jeremías 49 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/48?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/48?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Juicio y destrucción vendrán sobre los moabitas por menospreciar a Dios.
 
----
 ###### 1 
 Acerca de Moab. Así ha dicho Jehová de los ejércitos, Dios de Israel: ¡Ay de Nebo!, porque fue destruida; fue avergonzada Quiriataim, fue tomada; fue confundida Misgab y destrozada.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 The irrevocable judgment of Jerusalem is foretold—As a sign to the Jews, Ezekiel does not weep at his wife’s death.
 
----
 ###### 1 
 Again in the ninth year, in the tenth month, in the tenth  of the month, the word of the  came unto me, saying,
 

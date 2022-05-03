@@ -1,27 +1,25 @@
 ---
 title: Salmos 69
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 69
 [[Salmos 68| <-- Salmos 68]] | [[Salmos]] | [[Salmos 70|Salmos 70 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/69?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/69?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor, sobre Shoshanim.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo messiânico de Davi — O zelo da casa do Senhor O consumiu — Afrontas quebrantaram-Lhe o coração — Dão-Lhe de beber fel e vinagre — Ele é perseguido — Ele salvará Sião.
 
----
 ###### 1 
 Livra-me, ó Deus, pois as águas entraram até a  alma.
 

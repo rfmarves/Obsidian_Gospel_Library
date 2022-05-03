@@ -1,22 +1,21 @@
 ---
 title: Isaías 26
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 26
 [[Isaías 25| <-- Isaías 25]] | [[Isaías]] | [[Isaías 27|Isaías 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Confiai no Senhor perpetuamente — Jeová morrerá e será ressuscitado — Todos os homens se levantarão na Ressurreição.
 
----
 ###### 1 
 Naquele dia se cantará este cântico na terra de Judá:  forte cidade temos,  pôs a salvação por muros e antemuros.
 

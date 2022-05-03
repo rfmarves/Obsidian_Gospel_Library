@@ -1,22 +1,21 @@
 ---
 title: DyC 49
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 49
 [[DyC 48| <-- DyC 48]] | [[DyC]] | [[DyC 50|DyC 50 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–7, El día y la hora de la venida de Cristo permanecerán incógnitos hasta que Él venga; 8–14, Los hombres deben arrepentirse, creer en el Evangelio y obedecer las ordenanzas para obtener la salvación; 15–16, El matrimonio es decretado por Dios; 17–21, Se aprueba el comer carne; 22–28, Sion prosperará y los lamanitas florecerán como la rosa antes de la Segunda Venida.
 
----
 ###### 1 
 Escuchad mi palabra, mis siervos Sidney, Parley y Leman; porque he aquí, de cierto os digo, que os doy el mandamiento de ir a predicar a los tembladores mi evangelio que habéis recibido, tal cual lo habéis recibido.
 

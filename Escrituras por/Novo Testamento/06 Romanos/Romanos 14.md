@@ -1,22 +1,21 @@
 ---
 title: Romanos 14
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 14
 [[Romanos 13| <-- Romanos 13]] | [[Romanos]] | [[Romanos 15|Romanos 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Abstende-vos de contendas de opiniões e de julgar injustamente uns aos outros — Todo joelho se dobrará diante de Cristo — O reino de Deus engloba a retidão, a paz e a alegria no Espírito Santo.
 
----
 ###### 1 
 Ora, quanto ao que está enfermo na fé, recebei-o, não em contendas de opiniões.
 

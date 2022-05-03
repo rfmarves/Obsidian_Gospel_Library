@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 20
 [[1 Crônicas 19| <-- 1 Crônicas 19]] | [[1 Crônicas]] | [[1 Crônicas 21|1 Crônicas 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os amonitas são vencidos — Israel derrota os filisteus.
 
----
 ###### 1 
 E aconteceu que, no decurso de  ano, no tempo em que os reis costumam sair  Joabe levou o exército, e destruiu a terra dos filhos de Amom, e foi, e cercou Rabá, porém Davi ficou em Jerusalém; e Joabe derrotou Rabá, e a destruiu.
 

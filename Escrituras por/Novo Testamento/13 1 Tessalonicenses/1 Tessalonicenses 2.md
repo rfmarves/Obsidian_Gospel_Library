@@ -1,22 +1,21 @@
 ---
 title: 1 Tessalonicenses 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Tessalonicenses 2
 [[1 Tessalonicenses 1| <-- 1 Tessalonicenses 1]] | [[1 Tessalonicenses]] | [[1 Tessalonicenses 3|1 Tessalonicenses 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os verdadeiros ministros pregam de maneira piedosa — Os conversos são a glória e a alegria dos missionários.
 
----
 ###### 1 
 Porque vós mesmos, irmãos, bem sabeis que a nossa entrada para convosco não foi vã;
 

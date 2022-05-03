@@ -1,22 +1,21 @@
 ---
 title: Miqueas 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Miqueas 5
 [[Miqueas 4| <-- Miqueas 4]] | [[Miqueas]] | [[Miqueas 6|Miqueas 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/micah/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/micah/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Mesías nacerá en Belén — En los últimos días, el remanente de Jacob triunfará gloriosamente sobre los gentiles.
 
----
 ###### 1 
 Agrúpate ahora en tropas, oh hija de tropas; nos han sitiado; con vara herirán en la mejilla al juez de Israel.
 

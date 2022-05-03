@@ -1,27 +1,25 @@
 ---
 title: Alma 39
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 39
 [[Alma 38| <-- Alma 38]] | [[Alma]] | [[Alma 40|Alma 40 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/39?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/39?lang=por)
 
----
+```
 Mandamentos de Alma a seu filho Coriânton.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 O pecado sexual é uma abominação — Os pecados de Coriânton impediram os zoramitas de receberem a palavra — A redenção de Cristo é retroativa na salvação dos fiéis que a precederam. Aproximadamente 74 a.C.
 
----
 ###### 1 
 E agora, meu filho, tenho algo mais a dizer-te além do que disse a teu irmão. Pois eis que não observaste a firmeza de teu irmão, sua fidelidade e sua diligência em guardar os mandamentos de Deus? Eis que não tem ele sido um bom exemplo para ti?
 

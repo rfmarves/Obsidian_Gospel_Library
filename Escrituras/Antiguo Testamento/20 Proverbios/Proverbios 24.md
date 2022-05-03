@@ -1,22 +1,21 @@
 ---
 title: Proverbios 24
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 24
 [[Proverbios 23| <-- Proverbios 23]] | [[Proverbios]] | [[Proverbios 25|Proverbios 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En la multitud de consejeros está la salvación — No te encolerices a causa de los malignos — No es bueno mostrar parcialidad en un juicio.
 
----
 ###### 1 
 
 

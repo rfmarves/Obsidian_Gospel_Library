@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 4
 [[2 Crónicas 3| <-- 2 Crónicas 3]] | [[2 Crónicas]] | [[2 Crónicas 5|2 Crónicas 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Salomón hace el mar de fundición y lo coloca sobre doce bueyes — Se hacen el altar, los tazones, y los calderos y diversos artículos.
 
----
 ###### 1 
 Hizo además un altar de bronce de veinte codos de largo, y veinte codos de ancho y diez codos de alto.
 

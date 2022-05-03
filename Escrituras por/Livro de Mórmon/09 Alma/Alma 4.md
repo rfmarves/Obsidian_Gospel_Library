@@ -1,22 +1,21 @@
 ---
 title: Alma 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 4
 [[Alma 3| <-- Alma 3]] | [[Alma]] | [[Alma 5|Alma 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Alma batiza milhares de conversos — A iniquidade infiltra-se na Igreja e o progresso da Igreja é obstruído — Nefia é nomeado juiz supremo — Alma, como sumo sacerdote, dedica-se ao ministério. Aproximadamente 86–83 a.C.
 
----
 ###### 1 
 Ora, aconteceu que no sexto ano em que os juízes governaram o povo de Néfi, não houve contendas nem guerras na terra de Zaraenla;
 

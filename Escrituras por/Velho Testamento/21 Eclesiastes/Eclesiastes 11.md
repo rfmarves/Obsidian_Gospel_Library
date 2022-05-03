@@ -1,22 +1,21 @@
 ---
 title: Eclesiastes 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastes 11
 [[Eclesiastes 10| <-- Eclesiastes 10]] | [[Eclesiastes]] | [[Eclesiastes 12|Eclesiastes 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Faz o bem e reparte com os necessitados — Deus levará todos os homens a julgamento.
 
----
 ###### 1 
 Lança o teu pão sobre as águas, porque depois de muitos dias o acharás.
 

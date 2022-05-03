@@ -1,22 +1,21 @@
 ---
 title: Números 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 5
 [[Números 4| <-- Números 4]] | [[Números]] | [[Números 6|Números 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os leprosos são postos para fora do acampamento — Os pecadores precisam confessar suas faltas e fazer restituição para receber o perdão — As mulheres suspeitas de conduta imoral são submetidas à prova de ciúmes diante dos sacerdotes.
 
----
 ###### 1 
 E falou o  a Moisés, dizendo:
 

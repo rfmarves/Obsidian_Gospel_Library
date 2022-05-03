@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 10
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 There is silence in the land for many hours—The voice of Christ promises to gather His people as a hen gathers her chickens—The more righteous part of the people have been preserved. About A.D. 34–35.
 
----
 ###### 1 
 And now behold, it came to pass that all the people of the land did hear these sayings, and did witness of it. And after these sayings there was silence in the land for the space of many hours;
 

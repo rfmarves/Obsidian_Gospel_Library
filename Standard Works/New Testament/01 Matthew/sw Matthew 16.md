@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 16
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus warns against the doctrine of the Pharisees and Sadducees—Peter testifies that Jesus is the Christ and is promised the keys of the kingdom—Jesus foretells His death and resurrection.
 
----
 ###### 1 
 The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.
 

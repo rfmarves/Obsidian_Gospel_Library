@@ -1,22 +1,21 @@
 ---
 title: 1 Pedro 5
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Pedro 5
 [[1 Pedro 4| <-- 1 Pedro 4]] | [[1 Pedro]] | [[2 Pedro 1|2 Pedro 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os anciãos devem apascentar o rebanho de Deus — A humildade e as graças divinas levam à perfeição.
 
----
 ###### 1 
 Aos anciãos, que estão entre vós, admoesto eu, que sou juntamente com eles ancião, e testemunha das aflições de Cristo, e participante da glória que se há de revelar:
 

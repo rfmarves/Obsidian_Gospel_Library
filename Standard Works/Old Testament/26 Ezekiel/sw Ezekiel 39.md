@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 39
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 39
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/39?lang=eng)
 
----
-__Summary__
+> __Summary__
 Gog and the land of Magog will be destroyed—For seven years the people in the cities of Israel will burn the weapons of war—For seven months they will bury the dead—Then will come the supper of the great God and the continued gathering of Israel.
 
----
 ###### 1 
 Therefore, thou son of man, prophesy against Gog, and say, Thus saith the Lord ; Behold, I  against thee, O Gog, the chief prince of Meshech and Tubal:
 

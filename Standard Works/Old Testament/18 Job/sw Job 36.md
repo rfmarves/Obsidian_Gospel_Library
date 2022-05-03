@@ -1,10 +1,11 @@
 ---
 title: sw Job 36
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 36
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/36?lang=eng)
 
----
-__Summary__
+> __Summary__
 Elihu says, Those who are righteous are prospered—The wicked perish and die without knowledge—Elihu praises the greatness of God.
 
----
 ###### 1 
 Elihu also proceeded, and said,
 

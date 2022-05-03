@@ -1,22 +1,21 @@
 ---
 title: Hechos 12
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 12
 [[Hechos 11| <-- Hechos 11]] | [[Hechos]] | [[Hechos 13|Hechos 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se describe el martirio de Santiago — Un ángel libera a Pedro de la cárcel — El Señor le quita la vida a Herodes con una enfermedad — La Iglesia crece.
 
----
 ###### 1 
 Y en aquel mismo tiempo el rey Herodes echó mano a algunos de la iglesia para maltratarlos.
 

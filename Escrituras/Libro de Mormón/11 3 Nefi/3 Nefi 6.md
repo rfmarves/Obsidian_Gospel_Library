@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 6
 [[3 Nefi 5| <-- 3 Nefi 5]] | [[3 Nefi]] | [[3 Nefi 7|3 Nefi 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los nefitas prosperan — Surgen el orgullo, las riquezas y la distinción de clases — La Iglesia se deshace por motivo de las disensiones — Satanás lleva al pueblo a rebelarse abiertamente — Muchos profetas proclaman el arrepentimiento y son muertos — Sus asesinos conspiran para apoderarse del gobierno. Aproximadamente 26–30 d.C.
 
----
 ###### 1 
 Y sucedió que en el año veintiséis los nefitas volvieron todos a sus propias tierras, todo hombre con su familia, sus rebaños y hatos, sus caballos y su ganado, y cuantas cosas le pertenecían.
 

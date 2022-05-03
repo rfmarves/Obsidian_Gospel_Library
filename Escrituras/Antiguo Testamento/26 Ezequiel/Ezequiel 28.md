@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 28
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 28
 [[Ezequiel 27| <-- Ezequiel 27]] | [[Ezequiel]] | [[Ezequiel 29|Ezequiel 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Tiro y Sidón caerán y serán destruidas — Jehová congregará al pueblo de Israel en su propia tierra — Entonces habitarán seguros.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

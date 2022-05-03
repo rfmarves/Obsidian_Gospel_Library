@@ -1,22 +1,21 @@
 ---
 title: Gálatas 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gálatas 1
 [[2 Corintios 13| <-- 2 Corintios 13]] | [[Gálatas]] | [[Gálatas 2|Gálatas 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/gal/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/gal/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se maldice a los predicadores de falsos evangelios — Pablo recibió el Evangelio por revelación — Él creyó, fue instruido y predicó a los gentiles.
 
----
 ###### 1 
 Pablo, apóstol (no de los hombres ni por hombre, sino por Jesucristo y por Dios el Padre que lo resucitó de los muertos),
 

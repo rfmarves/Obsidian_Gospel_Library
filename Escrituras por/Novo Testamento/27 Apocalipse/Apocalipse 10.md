@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 10
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 10
 [[Apocalipse 9| <-- Apocalipse 9]] | [[Apocalipse]] | [[Apocalipse 11|Apocalipse 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 João sela muitas coisas referentes aos últimos dias — Ele é encarregado de participar da restauração de todas as coisas.
 
----
 ###### 1 
 E vi outro anjo forte, que descia do céu, vestido de uma nuvem; e por cima da  cabeça estava o arco-íris, e o seu rosto  como o sol, e os seus pés, como colunas de fogo;
 

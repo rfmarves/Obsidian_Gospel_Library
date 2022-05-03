@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 44
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 44
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/44?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah prophesies that the Jews in Egypt, save a small remnant, will be destroyed because they worship false gods.
 
----
 ###### 1 
 The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying,
 

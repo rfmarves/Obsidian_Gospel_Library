@@ -1,22 +1,21 @@
 ---
 title: Mormón 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mormón 9
 [[Mormón 8| <-- Mormón 8]] | [[Mormón]] | [[Eter 1|Eter 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moroni llama al arrepentimiento a aquellos que no creen en Cristo — Él proclama a un Dios de milagros, que da revelaciones y derrama dones y señales sobre los fieles — Los milagros cesan por causa de la incredulidad — Las señales siguen a aquellos que creen — Se exhorta a los hombres a ser prudentes y guardar los mandamientos. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 Y ahora hablo también concerniente a aquellos que no creen en Cristo.
 

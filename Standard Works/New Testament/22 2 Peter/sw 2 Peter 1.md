@@ -1,10 +1,11 @@
 ---
 title: sw 2 Peter 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Peter 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Peter urges the Saints to make their calling and election sure—Prophecy comes by the power of the Holy Ghost.
 
----
 ###### 1 
 Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
 

@@ -1,22 +1,21 @@
 ---
 title: DeC 62
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 62
 [[DeC 61| <-- DeC 61]] | [[DeC]] | [[DeC 63|DeC 63 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/62?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/62?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, Os testemunhos são registrados nos céus; 4–9, Os élderes devem viajar e pregar de acordo com seu discernimento e conforme orientação do Espírito.
 
----
 ###### 1 
 Eis que, escutai, ó élderes de minha igreja, diz o Senhor vosso Deus, sim, Jesus Cristo, vosso advogado, que conhece as fraquezas dos homens e sabe como socorrer os que são tentados.
 

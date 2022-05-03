@@ -1,10 +1,11 @@
 ---
 title: sw D&C 49
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 49
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–7, The day and hour of Christ’s coming will remain unknown until He comes; 8–14, Men must repent, believe the gospel, and obey the ordinances to gain salvation; 15–16, Marriage is ordained of God; 17–21, The eating of meat is approved; 22–28, Zion will flourish and the Lamanites blossom as the rose before the Second Coming.
 
----
 ###### 1 
 Hearken unto my word, my servants Sidney, and Parley, and Leman; for behold, verily I say unto you, that I give unto you a commandment that you shall go and preach my gospel which ye have received, even as ye have received it, unto the Shakers.
 

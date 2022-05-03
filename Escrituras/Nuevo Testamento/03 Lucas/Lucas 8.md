@@ -1,22 +1,21 @@
 ---
 title: Lucas 8
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 8
 [[Lucas 7| <-- Lucas 7]] | [[Lucas]] | [[Lucas 9|Lucas 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús enseña la parábola del sembrador y la interpreta — Calma la tempestad y echa fuera a una legión de demonios que enseguida entra en un hato de cerdos; sana a una mujer que padece de flujo de sangre y levanta de la muerte a la hija de Jairo.
 
----
 ###### 1 
 Y aconteció después, que  caminaba por todas las ciudades y aldeas, predicando y anunciando el evangelio del reino de Dios, y los doce con él,
 

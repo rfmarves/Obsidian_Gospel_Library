@@ -1,22 +1,21 @@
 ---
 title: Números 23
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 23
 [[Números 22| <-- Números 22]] | [[Números]] | [[Números 24|Números 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová manda a Balaam bendecir a Israel — Balaam lo hace, diciendo: ¿Quién contará el polvo de Jacob?, y, ¡lo que ha hecho Dios!
 
----
 ###### 1 
 Y Balaam dijo a Balac: Edifícame aquí siete altares, y prepárame aquí siete becerros y siete carneros.
 

@@ -1,22 +1,21 @@
 ---
 title: Eclesiastés 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastés 6
 [[Eclesiastés 5| <-- Eclesiastés 5]] | [[Eclesiastés]] | [[Eclesiastés 7|Eclesiastés 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 A no ser que el alma del hombre esté llena del bien, sus riquezas, bienes, honor y prosperidad son vanidad.
 
----
 ###### 1 
 Hay un mal que he visto debajo del sol, y que es muy común entre los hombres:
 

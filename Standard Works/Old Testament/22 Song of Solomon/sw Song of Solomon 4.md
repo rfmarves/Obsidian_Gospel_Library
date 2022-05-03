@@ -1,10 +1,11 @@
 ---
 title: sw Song of Solomon 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Song of Solomon 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 A song describes the beauty of the poet’s beloved.
 
----
 ###### 1 
 Behold, thou  fair, my love; behold, thou  fair; thou  doves’ eyes within thy locks: thy hair  as a flock of goats, that appear from mount Gilead.
 

@@ -1,22 +1,21 @@
 ---
 title: Jeremias 48
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 48
 [[Jeremias 47| <-- Jeremias 47]] | [[Jeremias]] | [[Jeremias 49|Jeremias 49 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/48?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/48?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sobrevirão juízo e destruição sobre os moabitas por desprezarem a Deus.
 
----
 ###### 1 
 Contra Moabe assim diz o  dos Exércitos, Deus de Israel: Ai de Nebo, porque foi destruída! envergonhada está Quiriataim,  está tomada; Misgabe está envergonhada e espantada.
 

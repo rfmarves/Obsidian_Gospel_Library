@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 17
 [[Deuteronômio 16| <-- Deuteronômio 16]] | [[Deuteronômio]] | [[Deuteronômio 18|Deuteronômio 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Aqueles que adorarem deuses falsos serão mortos — Os sacerdotes e os juízes deverão julgar os casos difíceis — Os reis não devem multiplicar para si cavalos, esposas ou ouro — O rei tem que estudar as leis de Deus diariamente.
 
----
 ###### 1 
 Não sacrificarás ao  teu Deus boi ou ovelha em que haja defeito ou alguma coisa má; pois abominação é ao  teu Deus.
 

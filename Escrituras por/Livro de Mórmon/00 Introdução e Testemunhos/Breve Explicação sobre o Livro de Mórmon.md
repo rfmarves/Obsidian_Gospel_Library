@@ -1,16 +1,17 @@
 ---
 title: Breve Explicação sobre o Livro de Mórmon
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Breve Explicação sobre o Livro de Mórmon
 [[Testemunho do Profeta Joseph Smith| <-- Testemunho do Profeta Joseph Smith]] | [[Introdução e Testemunhos]] | [[1 Néfi 1|1 Néfi 1 --> ]]
 
-[Em linha](https://www.churchofjesuschrist.org/study/scriptures/bofm/explanation?lang=por)
+[em linha](https://www.churchofjesuschrist.org/study/scriptures/bofm/explanation?lang=por)
 
 O Livro de Mórmon é um registro sagrado de povos da América antiga e foi gravado em placas de metal. As fontes das quais este registro foi compilado incluem o seguinte:
 

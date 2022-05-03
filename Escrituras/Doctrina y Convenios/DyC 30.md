@@ -1,22 +1,21 @@
 ---
 title: DyC 30
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 30
 [[DyC 29| <-- DyC 29]] | [[DyC]] | [[DyC 31|DyC 31 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/30?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/30?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, Se reprende a David Whitmer por no haber servido diligentemente; 5–8, Peter Whitmer, hijo, ha de acompañar a Oliver Cowdery en una misión a los lamanitas; 9–11, John Whitmer es llamado a predicar el Evangelio.
 
----
 ###### 1 
 He aquí, David, te digo que has temido al hombre, y no has confiado en que yo te fortalecería, como debiste haberlo hecho,
 

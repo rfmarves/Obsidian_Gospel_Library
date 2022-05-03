@@ -1,22 +1,21 @@
 ---
 title: DyC 18
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 18
 [[DyC 17| <-- DyC 17]] | [[DyC]] | [[DyC 19|DyC 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, Las Escrituras indican cómo se ha de edificar la Iglesia; 6–8, El mundo está madurando en la iniquidad; 9–16, El valor de las almas es grande; 17–25, Para lograr la salvación, los hombres deben tomar sobre sí el nombre de Cristo; 26–36, Se revelan el llamamiento y la misión de los Doce; 37–39, Oliver Cowdery y David Whitmer han de buscar a los Doce; 40–47, Para lograr la salvación, los hombres deben arrepentirse, ser bautizados y guardar los mandamientos.
 
----
 ###### 1 
 He aquí, a causa de lo que tú, mi siervo Oliver Cowdery, has deseado saber de mí, te digo estas palabras:
 

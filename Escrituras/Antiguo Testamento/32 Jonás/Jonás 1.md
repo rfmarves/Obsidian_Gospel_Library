@@ -1,22 +1,21 @@
 ---
 title: Jonás 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jonás 1
 [[Abdías 1| <-- Abdías 1]] | [[Jonás]] | [[Jonás 2|Jonás 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jonah/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jonah/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se envía a Jonás a llamar a Nínive al arrepentimiento — Él huye en un barco, es echado al mar y se lo traga un gran pez.
 
----
 ###### 1 
 Y vino la palabra de Jehová a Jonás hijo de Amitai, diciendo:
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 38
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 38
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/38?lang=eng)
 
----
+```
 A Psalm of David, to bring to remembrance.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David sorrows for his sins—They rest as a disease upon him—He asks the Lord to be compassionate.
 
----
 ###### 1 
 O , rebuke me not in thy wrath: neither chasten me in thy hot displeasure.
 

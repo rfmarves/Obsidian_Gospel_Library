@@ -1,22 +1,21 @@
 ---
 title: Helamán 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 3
 [[Helamán 2| <-- Helamán 2]] | [[Helamán]] | [[Helamán 4|Helamán 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Muchos nefitas emigran a la tierra del norte — Construyen casas de cemento y llevan muchos anales — Decenas de miles de personas se convierten y son bautizadas — La palabra de Dios conduce a los hombres a la salvación — Nefi hijo de Helamán, ocupa el asiento judicial. Aproximadamente 49–39 a.C.
 
----
 ###### 1 
 Y aconteció que en el año cuarenta y tres del gobierno de los jueces, no hubo contenciones entre el pueblo de Nefi, aparte de un poco de orgullo que se manifestó en la iglesia, lo que causó unas leves disensiones entre la gente, las cuales quedaron resueltas hacia fines del año cuarenta y tres.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 9
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 John also sees the wars and plagues poured out during the seventh seal and before the Lord comes.
 
----
 ###### 1 
 And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit.
 

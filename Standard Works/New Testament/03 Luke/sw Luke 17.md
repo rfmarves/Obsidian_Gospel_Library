@@ -1,10 +1,11 @@
 ---
 title: sw Luke 17
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus speaks of offenses, forgiveness, and faith—Even the faithful are unprofitable servants—Ten lepers are healed—Jesus discourses on the Second Coming.
 
----
 ###### 1 
 Then said he unto the disciples, It is impossible but that offences will come: but woe  through whom they come!
 

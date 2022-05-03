@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is again commanded to keep the Passover—A cloud rests upon the tabernacle by day and by night, plus a fire by night—When the cloud rests, Israel camps; when it lifts, they journey.
 
----
 ###### 1 
 And the  spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,
 

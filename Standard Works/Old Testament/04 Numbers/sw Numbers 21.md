@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 The children of Israel destroy those Canaanites who fight against them—The Israelites are plagued with fiery serpents—Moses lifts up a serpent of brass to save those who look thereon—Israel defeats the Amorites, destroys the people of Bashan, and occupies their lands.
 
----
 ###### 1 
 And  king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took  of them prisoners.
 

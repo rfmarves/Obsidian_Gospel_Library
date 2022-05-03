@@ -1,10 +1,11 @@
 ---
 title: sw 1 Thessalonians 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Thessalonians 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The gospel comes both in word and in power.
 
----
 ###### 1 
 Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians  in God the Father and  the Lord Jesus Christ: Grace  unto you, and peace, from God our Father, and the Lord Jesus Christ.
 

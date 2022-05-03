@@ -1,22 +1,21 @@
 ---
 title: 2 Corintios 13
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Corintios 13
 [[2 Corintios 12| <-- 2 Corintios 12]] | [[2 Corintios]] | [[Gálatas 1|Gálatas 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Para verificar su rectitud, los santos deben ponerse a prueba a sí mismos — Sed perfectos y de un mismo sentir, vivid en paz.
 
----
 ###### 1 
 Esta es la tercera vez que voy a vosotros. Por boca de dos o de tres testigos se establecerá toda palabra.
 

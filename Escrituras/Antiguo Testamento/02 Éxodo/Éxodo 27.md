@@ -1,22 +1,21 @@
 ---
 title: Éxodo 27
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 27
 [[Éxodo 26| <-- Éxodo 26]] | [[Éxodo]] | [[Éxodo 28|Éxodo 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El tabernáculo tendrá un altar para holocaustos y un atrio rodeado de columnas — Siempre arderá una luz en el tabernáculo de reunión.
 
----
 ###### 1 
 Harás también un altar de madera de acacia, de cinco codos de longitud y de cinco codos de anchura; será cuadrado el altar, y su altura de tres codos.
 

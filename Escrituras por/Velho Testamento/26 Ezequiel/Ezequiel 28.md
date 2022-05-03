@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 28
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 28
 [[Ezequiel 27| <-- Ezequiel 27]] | [[Ezequiel]] | [[Ezequiel 29|Ezequiel 29 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/28?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/28?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Tiro e Sidom cairão e serão destruídas — O Senhor reunirá o povo de Israel à sua própria terra — Então habitarão em segurança.
 
----
 ###### 1 
 E veio a mim a palavra do , dizendo:
 

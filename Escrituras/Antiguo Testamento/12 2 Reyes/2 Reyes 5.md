@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 5
 [[2 Reyes 4| <-- 2 Reyes 4]] | [[2 Reyes]] | [[2 Reyes 6|2 Reyes 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Naamán, el sirio, viene a Eliseo para ser sanado de lepra — Al principio, Naamán rechaza la instrucción del profeta, pero después cede, se sumerge en el Jordán siete veces y es sanado — Eliseo rehúsa aceptar recompensa alguna — Giezi acepta un presente de Naamán y es maldecido con lepra.
 
----
 ###### 1 
 Naamán, general del ejército del rey de Siria, era un gran hombre delante de su señor y tenido en alta estima, porque por medio de él Jehová había librado a Siria. Este hombre era valeroso en extremo,  leproso.
 

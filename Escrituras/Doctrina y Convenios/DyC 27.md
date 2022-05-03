@@ -1,22 +1,21 @@
 ---
 title: DyC 27
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 27
 [[DyC 26| <-- DyC 26]] | [[DyC]] | [[DyC 28|DyC 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, Se indican los emblemas que se han de usar al participar del sacramento; 5–14, Cristo y Sus siervos de todas las dispensaciones han de participar de dicho sacramento; 15–18, Tomad sobre vosotros toda la armadura de Dios.
 
----
 ###### 1 
 Escucha la voz de Jesucristo, tu Señor, tu Dios y tu Redentor, cuya palabra es viva y poderosa.
 

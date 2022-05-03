@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 David’s throne stands or falls according to the obedience of the kings—The judgments of the Lord rest upon the kings of Judah.
 
----
 ###### 1 
 Thus saith the ; Go down to the house of the king of Judah, and speak there this word,
 

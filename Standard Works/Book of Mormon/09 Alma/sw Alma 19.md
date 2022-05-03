@@ -1,10 +1,11 @@
 ---
 title: sw Alma 19
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Lamoni receives the light of everlasting life and sees the Redeemer—His household falls into a trance, and many see angels—Ammon is preserved miraculously—He baptizes many and establishes a church among them. About 90 B.C.
 
----
 ###### 1 
 And it came to pass that after two days and two nights they were about to take his body and lay it in a sepulchre, which they had made for the purpose of burying their dead.
 

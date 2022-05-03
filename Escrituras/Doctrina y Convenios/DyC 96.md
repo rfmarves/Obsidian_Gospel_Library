@@ -1,22 +1,21 @@
 ---
 title: DyC 96
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 96
 [[DyC 95| <-- DyC 95]] | [[DyC]] | [[DyC 97|DyC 97 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/96?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/96?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1, La Estaca de Sion de Kirtland debe fortalecerse; 2–5, El obispo es el que ha de dividir las heredades de los santos; 6–9, John Johnson ha de ser miembro de la orden unida.
 
----
 ###### 1 
 He aquí, os digo, os muestro sabiduría para que sepáis cómo obrar concerniente a este asunto, porque me es conveniente que se fortalezca esta estaca que he establecido para la fuerza de Sion.
 

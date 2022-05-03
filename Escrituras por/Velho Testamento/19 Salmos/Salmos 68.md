@@ -1,27 +1,25 @@
 ---
 title: Salmos 68
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 68
 [[Salmos 67| <-- Salmos 67]] | [[Salmos]] | [[Salmos 69|Salmos 69 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/68?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/68?lang=por)
 
----
+```
 Salmo e cântico de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo messiânico de Davi — Ele exalta ao Senhor — O Senhor dá a palavra — Ele leva cativo o cativeiro — Ele nos livra da morte — Cantai louvores ao Senhor.
 
----
 ###### 1 
 Levante-se Deus, e sejam dissipados os seus inimigos; fugirão de diante dele os que o odeiam.
 

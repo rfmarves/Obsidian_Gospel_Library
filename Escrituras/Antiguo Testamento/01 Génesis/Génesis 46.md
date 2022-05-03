@@ -1,22 +1,21 @@
 ---
 title: Génesis 46
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 46
 [[Génesis 45| <-- Génesis 45]] | [[Génesis]] | [[Génesis 47|Génesis 47 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/46?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/46?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová envía a Jacob y a su familia, compuesta de setenta almas, a Egipto — Se enumeran los descendientes de Jacob — José se reúne con Jacob.
 
----
 ###### 1 
 Y partió Israel con todo lo que tenía y llegó a Beerseba, y ofreció sacrificios al Dios de su padre Isaac.
 

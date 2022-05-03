@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joshua uses an ambush, takes Ai, and slays its inhabitants—He builds an altar in Mount Ebal—The words of the law, both blessings and cursings, are read to the people.
 
----
 ###### 1 
 And the  said unto Joshua, Fear not, neither be thou dismayed: take all the people of war with thee, and arise, go up to Ai: see, I have given into thy hand the king of Ai, and his people, and his city, and his land:
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Israelites are smitten in the woods of Ephraim—Joab slays Absalom—Tidings of his death are taken to David, who mourns for his son.
 
----
 ###### 1 
 And David numbered the people that  with him, and set captains of thousands and captains of hundreds over them.
 

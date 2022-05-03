@@ -1,22 +1,21 @@
 ---
 title: 2 Coríntios 6
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Coríntios 6
 [[2 Coríntios 5| <-- 2 Coríntios 5]] | [[2 Coríntios]] | [[2 Coríntios 7|2 Coríntios 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Hoje é o dia da salvação — Os ministros de Deus devem andar em retidão e suportar todas as coisas — Os santos não devem ter um jugo desigual com os infiéis.
 
----
 ###### 1 
 E nós, cooperando também  exortamos a que não recebais a graça de Deus em vão;
 

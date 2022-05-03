@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 53
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 53
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/53?lang=eng)
 
----
+```
 To the chief Musician upon Mahalath, Maschil, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David says, The fool says there is no God—There is none who does good—Gathered Israel will rejoice.
 
----
 ###### 1 
 The fool hath said in his heart,  no God. Corrupt are they, and have done abominable iniquity:  none that doeth good.
 

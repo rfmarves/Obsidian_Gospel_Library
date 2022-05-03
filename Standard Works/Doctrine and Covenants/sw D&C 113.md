@@ -1,10 +1,11 @@
 ---
 title: sw D&C 113
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 113
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/113?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, The Stem of Jesse, the rod coming therefrom, and the root of Jesse are identified; 7–10, The scattered remnants of Zion have a right to the priesthood and are called to return to the Lord.
 
----
 ###### 1 
 Who is the Stem of Jesse spoken of in the 1st, 2d, 3d, 4th, and 5th verses of the 11th chapter of Isaiah?
 

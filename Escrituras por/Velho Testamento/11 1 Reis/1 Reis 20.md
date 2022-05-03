@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 20
 [[1 Reis 19| <-- 1 Reis 19]] | [[1 Reis]] | [[1 Reis 21|1 Reis 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ben-Hadade, da Síria, faz guerra contra Israel — Os sírios são derrotados duas vezes — Acabe deixa Ben-Hadade partir em liberdade, contrariando a vontade do Senhor.
 
----
 ###### 1 
 E Ben-Hadade, rei da Síria, ajuntou todas as suas forças; e trinta e dois reis, e cavalos e carros  com ele; e subiu, e cercou Samaria, e pelejou contra ela.
 

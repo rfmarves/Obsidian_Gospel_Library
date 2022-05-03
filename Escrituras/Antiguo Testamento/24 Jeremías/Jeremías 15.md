@@ -1,22 +1,21 @@
 ---
 title: Jeremías 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 15
 [[Jeremías 14| <-- Jeremías 14]] | [[Jeremías]] | [[Jeremías 16|Jeremías 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El pueblo de Judá padecerá la muerte, la espada, el hambre y el cautiverio — Será esparcido entre todos los reinos de la tierra — Jerusalén será destruida.
 
----
 ###### 1 
 Y me dijo Jehová: Aunque Moisés y Samuel se pusieran delante de mí, mi voluntad no estaría con este pueblo; échalos de mi presencia, y que salgan.
 

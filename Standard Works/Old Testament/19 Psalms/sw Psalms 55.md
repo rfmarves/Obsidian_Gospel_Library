@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 55
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 55
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/55?lang=eng)
 
----
+```
 To the chief Musician on Neginoth, Maschil, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David prays morning, noon, and night—He seeks protection and help against his enemies.
 
----
 ###### 1 
 Give ear to my prayer, O God; and hide not thyself from my supplication.
 

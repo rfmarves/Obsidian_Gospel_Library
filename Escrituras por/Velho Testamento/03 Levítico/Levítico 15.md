@@ -1,22 +1,21 @@
 ---
 title: Levítico 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 15
 [[Levítico 14| <-- Levítico 14]] | [[Levítico]] | [[Levítico 16|Levítico 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Revelam-se leis, ritos e sacrifícios para purificação dos que têm fluxo e outros tipos de impurezas.
 
----
 ###### 1 
 Falou mais o  a Moisés e a Aarão, dizendo:
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Corinthians 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Corinthians 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Gospel light shines on the Saints—Mortal trials are nothing as contrasted with eternal glory.
 
----
 ###### 1 
 Therefore seeing we have this ministry, as we have received mercy, we faint not;
 

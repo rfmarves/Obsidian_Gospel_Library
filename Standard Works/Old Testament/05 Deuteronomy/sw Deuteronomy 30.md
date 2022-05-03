@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 30
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 30
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/30?lang=eng)
 
----
-__Summary__
+> __Summary__
 The scattered Israelites will be gathered from all nations when they remember the covenant—Moses places life or death, blessing or cursing, before the people.
 
----
 ###### 1 
 And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call  to mind among all the nations, whither the  thy God hath driven thee,
 

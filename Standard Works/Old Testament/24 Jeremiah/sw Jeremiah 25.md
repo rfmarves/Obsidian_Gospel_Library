@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 Captive Judah will serve Babylon for seventy years—Various nations will be overthrown—In the last days, all the inhabitants of the earth will be at war.
 
----
 ###### 1 
 The word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim the son of Josiah king of Judah, that  the first year of Nebuchadrezzar king of Babylon;
 

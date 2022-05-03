@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeroboam is smitten and then healed by a prophet from Judah—The prophet delivers his message, is led astray by a prophet from Bethel, and is slain by a lion for his disobedience—Jeroboam continues false worship in Israel.
 
----
 ###### 1 
 And, behold, there came a man of God out of Judah by the word of the  unto Beth-el: and Jeroboam stood by the altar to burn incense.
 

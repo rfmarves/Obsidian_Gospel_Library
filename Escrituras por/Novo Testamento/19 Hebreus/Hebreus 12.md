@@ -1,22 +1,21 @@
 ---
 title: Hebreus 12
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreus 12
 [[Hebreus 11| <-- Hebreus 11]] | [[Hebreus]] | [[Hebreus 13|Hebreus 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Quem o Senhor ama, Ele castiga — Deus é o Pai dos espíritos — Para ver Deus, devemos seguir a paz e a santidade — Os santos exaltados pertencem à Igreja do Primogênito.
 
----
 ###### 1 
 Portanto, nós também, visto que estamos rodeados de uma tão grande nuvem de testemunhas, deixemos todo impedimento, e o pecado que tão facilmente nos rodeia, e corramos com paciência a carreira que nos está proposta,
 

@@ -1,22 +1,21 @@
 ---
 title: Mosíah 11
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 11
 [[Mosíah 10| <-- Mosíah 10]] | [[Mosíah]] | [[Mosíah 12|Mosíah 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El rey Noé reina inicuamente — Se deleita en una vida desenfrenada con sus esposas y concubinas — Abinadí profetiza que el pueblo caerá en el cautiverio — El rey Noé procura quitarle la vida. Aproximadamente 160–150 a.C.
 
----
 ###### 1 
 Y sucedió que Zeniff confirió el reino a Noé, uno de sus hijos; por tanto, Noé empezó a reinar en su lugar; y no anduvo por las sendas de su padre.
 

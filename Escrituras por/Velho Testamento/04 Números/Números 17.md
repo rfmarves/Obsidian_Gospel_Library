@@ -1,22 +1,21 @@
 ---
 title: Números 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 17
 [[Números 16| <-- Números 16]] | [[Números]] | [[Números 18|Números 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Como teste, uma vara para cada tribo é colocada no tabernáculo do testemunho — A vara de Aarão brota, floresce e produz amêndoas — Ela é guardada como sinal contra os rebeldes.
 
----
 ###### 1 
 Então falou o  a Moisés, dizendo:
 

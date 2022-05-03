@@ -1,22 +1,21 @@
 ---
 title: Atos 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 4
 [[Atos 3| <-- Atos 3]] | [[Atos]] | [[Atos 5|Atos 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Pedro e João são presos e levados perante o Sinédrio — Pedro testifica que a salvação vem por causa de Cristo — Os saduceus esforçam-se para silenciar Pedro e João — Os santos gloriam-se no testemunho de Jesus — Eles têm todas as coisas em comum.
 
----
 ###### 1 
 E estando eles falando ao povo, sobrevieram os sacerdotes, e o capitão do templo, e os saduceus,
 

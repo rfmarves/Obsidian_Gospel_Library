@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 42
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 42
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/42?lang=eng)
 
----
+```
 To the chief Musician, Maschil, for the sons of Korah.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The souls of the righteous thirst for God—The wicked say, Where is your God?
 
----
 ###### 1 
 As the hart panteth after the water brooks, so panteth my soul after thee, O God.
 

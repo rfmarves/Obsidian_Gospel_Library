@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jehoram of Israel and Jehoshaphat of Judah join forces against Moab—Elisha promises them water for their animals and victory in the war—The Moabites are defeated.
 
----
 ###### 1 
 Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.
 

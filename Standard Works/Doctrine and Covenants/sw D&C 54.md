@@ -1,10 +1,11 @@
 ---
 title: sw D&C 54
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 54
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/54?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, The Saints must keep the gospel covenant to gain mercy; 7–10, They must be patient in tribulation.
 
----
 ###### 1 
 Behold, thus saith the Lord, even Alpha and Omega, the beginning and the end, even he who was crucified for the sins of the world—
 

@@ -1,22 +1,21 @@
 ---
 title: Isaías 62
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 62
 [[Isaías 61| <-- Isaías 61]] | [[Isaías]] | [[Isaías 63|Isaías 63 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/62?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/62?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los últimos días Israel será recogido — Sion será establecida — Sus guardias enseñarán acerca de Jehová — Alzarán el estandarte del Evangelio — El pueblo será llamado santo, los redimidos de Jehová.
 
----
 ###### 1 
 Por amor a Sion no callaré y por amor a Jerusalén no descansaré, hasta que salga como resplandor su justicia y su salvación arda como una antorcha.
 

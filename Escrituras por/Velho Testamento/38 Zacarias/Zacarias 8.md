@@ -1,22 +1,21 @@
 ---
 title: Zacarias 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarias 8
 [[Zacarias 7| <-- Zacarias 7]] | [[Zacarias]] | [[Zacarias 9|Zacarias 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nos últimos dias, Jerusalém será restaurada, Judá será coligada, e o Senhor abençoará o Seu povo mais do que em qualquer outra época no passado.
 
----
 ###### 1 
 Depois veio  a palavra do  dos Exércitos, dizendo:
 

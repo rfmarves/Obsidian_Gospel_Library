@@ -1,22 +1,21 @@
 ---
 title: Hebreus 6
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreus 6
 [[Hebreus 5| <-- Hebreus 5]] | [[Hebreus]] | [[Hebreus 7|Hebreus 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Prossigamos para a perfeição — Os filhos de perdição crucificam Cristo novamente — Deus faz um juramento de que os fiéis serão salvos.
 
----
 ###### 1 
 Pelo que, deixando os rudimentos da doutrina de Cristo, prossigamos até a perfeição, não lançando de novo o fundamento do arrependimento das obras mortas, e da fé em Deus,
 

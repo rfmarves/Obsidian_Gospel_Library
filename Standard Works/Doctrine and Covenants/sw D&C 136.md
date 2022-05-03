@@ -1,10 +1,11 @@
 ---
 title: sw D&C 136
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 136
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/136?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–16, How the camp of Israel is to be organized for the westward journey is explained; 17–27, The Saints are commanded to live by numerous gospel standards; 28–33, The Saints should sing, dance, pray, and learn wisdom; 34–42, Prophets are slain so that they might be honored and the wicked condemned.
 
----
 ###### 1 
 The Word and Will of the Lord concerning the Camp of Israel in their journeyings to the West:
 

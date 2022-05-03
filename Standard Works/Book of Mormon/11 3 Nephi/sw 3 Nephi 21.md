@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 21
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel will be gathered when the Book of Mormon comes forth—The Gentiles will be established as a free people in America—They will be saved if they believe and obey; otherwise, they will be cut off and destroyed—Israel will build the New Jerusalem, and the lost tribes will return. About A.D. 34.
 
----
 ###### 1 
 And verily I say unto you, I give unto you a sign, that ye may know the time when these things shall be about to take place—that I shall gather in, from their long dispersion, my people, O house of Israel, and shall establish again among them my Zion;
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Milk comes before meat in the Church—Men’s works will be tried by fire—The Saints are the temple of God, and if they are faithful, they will inherit all things.
 
----
 ###### 1 
 And I, brethren, could not speak unto you as unto spiritual, but as unto carnal,  as unto babes in Christ.
 

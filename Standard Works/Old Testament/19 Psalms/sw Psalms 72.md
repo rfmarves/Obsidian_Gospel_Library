@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 72
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 72
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/72?lang=eng)
 
----
+```
 A Psalm for Solomon.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David speaks of Solomon, who is made a type of the Messiah—He will have dominion—His name will endure forever—All nations will call him blessed—The whole earth will be filled with the glory of the Lord.
 
----
 ###### 1 
 Give the king thy judgments, O God, and thy righteousness unto the king’s son.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Luke 24
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Angels announce the resurrection of Christ—He walks on the Emmaus road—He appears with a body of flesh and bones, eats food, testifies of His divinity, and promises the Holy Ghost—He ascends into heaven.
 
----
 ###### 1 
 Now upon the first  of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain  with them.
 

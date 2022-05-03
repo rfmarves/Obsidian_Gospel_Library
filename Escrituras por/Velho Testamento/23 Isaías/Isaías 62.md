@@ -1,22 +1,21 @@
 ---
 title: Isaías 62
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 62
 [[Isaías 61| <-- Isaías 61]] | [[Isaías]] | [[Isaías 63|Isaías 63 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/62?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/62?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nos últimos dias, Israel será coligada — Sião será estabelecida — Seus atalaias ensinarão a respeito do Senhor — O estandarte do evangelho será erguido — O povo será chamado santo, os redimidos do Senhor.
 
----
 ###### 1 
 Por causa de Sião não me calarei, e por causa de Jerusalém não me aquietarei, até que saia a sua justiça como um resplendor, e a sua salvação, como uma tocha acesa.
 

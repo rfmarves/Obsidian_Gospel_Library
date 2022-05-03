@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 15
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 How Christ is both the Father and the Son—He will make intercession and bear the transgressions of His people—They and all the holy prophets are His seed—He brings to pass the Resurrection—Little children have eternal life. About 148 B.C.
 
----
 ###### 1 
 And now Abinadi said unto them: I would that ye should understand that God himself shall come down among the children of men, and shall redeem his people.
 

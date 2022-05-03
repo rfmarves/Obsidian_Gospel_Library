@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 David prepares gold, silver, brass, iron, stone, and cedar wood for the temple—He charges Solomon to do the work of building it.
 
----
 ###### 1 
 Then David said, This  the house of the  God, and this  the altar of the burnt offering for Israel.
 

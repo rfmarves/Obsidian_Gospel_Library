@@ -1,22 +1,21 @@
 ---
 title: Hechos 18
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 18
 [[Hechos 17| <-- Hechos 17]] | [[Hechos]] | [[Hechos 19|Hechos 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Tras ser rechazado por los judíos, Pablo va a los gentiles — Predica, ministra y viaja — Apolos también predica con poder.
 
----
 ###### 1 
 Después de estas cosas, Pablo salió de Atenas y fue a Corinto.
 

@@ -1,22 +1,21 @@
 ---
 title: Jeremias 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 4
 [[Jeremias 3| <-- Jeremias 3]] | [[Jeremias]] | [[Jeremias 5|Jeremias 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel e Judá são chamadas ao arrependimento — Jeremias lamenta os sofrimentos de Judá.
 
----
 ###### 1 
 Se voltares, ó Israel, diz o , volta para mim; e se tirares as tuas abominações de diante de mim, não andarás mais vagueando,
 

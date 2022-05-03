@@ -1,22 +1,21 @@
 ---
 title: Alma 63
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 63
 [[Alma 62| <-- Alma 62]] | [[Alma]] | [[Helamán 1|Helamán 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/63?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/63?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Shiblón y, después de él, Helamán se hacen cargo de los anales sagrados — Muchos nefitas viajan a la tierra del norte — Hagot construye barcos que navegan en el mar del oeste — Moroníah vence a los lamanitas en una batalla. Aproximadamente 56–52 a.C.
 
----
 ###### 1 
 Y ocurrió que a principios del año treinta y seis del gobierno de los jueces sobre el pueblo de Nefi, Shiblón se hizo cargo de los sagrados objetos que Alma había entregado a Helamán.
 

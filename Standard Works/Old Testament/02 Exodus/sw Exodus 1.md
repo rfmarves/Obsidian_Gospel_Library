@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The children of Israel multiply—They are placed in bondage by the Egyptians—Pharaoh seeks to destroy the sons born to Hebrew women.
 
----
 ###### 1 
 Now these  the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
 

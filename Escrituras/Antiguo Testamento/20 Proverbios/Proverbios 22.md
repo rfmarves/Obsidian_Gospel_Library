@@ -1,22 +1,21 @@
 ---
 title: Proverbios 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 22
 [[Proverbios 21| <-- Proverbios 21]] | [[Proverbios]] | [[Proverbios 23|Proverbios 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El buen nombre es mejor que las riquezas — Instruye al niño en su camino.
 
----
 ###### 1 
 
 

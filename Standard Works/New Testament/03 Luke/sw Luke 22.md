@@ -1,10 +1,11 @@
 ---
 title: sw Luke 22
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus institutes the sacrament—He suffers in Gethsemane and is betrayed and arrested—Peter denies knowing Him—Jesus is smitten and mocked.
 
----
 ###### 1 
 Now the feast of unleavened bread drew nigh, which is called the Passover.
 

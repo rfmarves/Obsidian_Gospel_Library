@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 36
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 36
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/36?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David the servant of the Lord.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David praises the Lord for His mercy, His righteousness, and His loving kindness—The fountain of life is with the Lord.
 
----
 ###### 1 
 The transgression of the wicked saith within my heart,  no fear of God before his eyes.
 

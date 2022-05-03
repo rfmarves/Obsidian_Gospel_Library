@@ -1,22 +1,21 @@
 ---
 title: Miqueias 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Miqueias 5
 [[Miqueias 4| <-- Miqueias 4]] | [[Miqueias]] | [[Miqueias 6|Miqueias 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/micah/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/micah/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Messias nascerá em Belém — Nos últimos dias, o remanescente de Jacó triunfará gloriosamente sobre os gentios.
 
----
 ###### 1 
 Agora ajunta-te em tropas, ó filha de tropas; pôr-se-á cerco sobre nós; ferirão com a vara o queixo do juiz de Israel.
 

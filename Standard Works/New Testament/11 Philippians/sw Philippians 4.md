@@ -1,10 +1,11 @@
 ---
 title: sw Philippians 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Philippians 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/philip/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Stand fast in the Lord—We believe in being honest, true, and chaste.
 
----
 ###### 1 
 Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord,  dearly beloved.
 

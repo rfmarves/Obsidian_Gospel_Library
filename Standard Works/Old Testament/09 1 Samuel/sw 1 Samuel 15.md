@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saul is commanded to smite and destroy the Amalekites and all that they have—He saves some animals to sacrifice—Saul is rejected as king and told that to obey is better than sacrifice—Samuel destroys Agag.
 
----
 ###### 1 
 Samuel also said unto Saul, The  sent me to anoint thee  king over his people, over Israel: now therefore hearken thou unto the voice of the words of the .
 

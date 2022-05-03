@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 33
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 33
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/33?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord promises to be with Israel and drive out the people of the land—The tabernacle of the congregation is moved away from the camp—The Lord speaks to Moses face to face in the tabernacle—Later, Moses sees the glory of God but not His face.
 
----
 ###### 1 
 And the  said unto Moses, Depart,  go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:
 

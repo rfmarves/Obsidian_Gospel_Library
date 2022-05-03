@@ -1,22 +1,21 @@
 ---
 title: Josué 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 3
 [[Josué 2| <-- Josué 2]] | [[Josué]] | [[Josué 4|Josué 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Josué dirige a Israel hacia el Jordán — Jehová divide las aguas del Jordán; estas se detienen como en un montón e Israel pasa sobre tierra seca.
 
----
 ###### 1 
 Y se levantó Josué de mañana, y partieron de Sitim, y vinieron hasta el Jordán, él y todos los hijos de Israel, y reposaron allí antes de pasarlo.
 

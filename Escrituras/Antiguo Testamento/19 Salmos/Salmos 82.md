@@ -1,27 +1,25 @@
 ---
 title: Salmos 82
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 82
 [[Salmos 81| <-- Salmos 81]] | [[Salmos]] | [[Salmos 83|Salmos 83 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/82?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/82?lang=spa)
 
----
+```
 Salmo de Asaf.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Así dice Dios: Vosotros sois dioses e hijos del Altísimo.
 
----
 ###### 1 
 
 

@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 33
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 33
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/33?lang=eng)
 
----
-__Summary__
+> __Summary__
 Judah and Israel will be gathered—The Branch of Righteousness (the Messiah) is promised—The Seed of David (the Messiah) will reign forever.
 
----
 ###### 1 
 Moreover the word of the  came unto Jeremiah the second time, while he was yet shut up in the court of the prison, saying,
 

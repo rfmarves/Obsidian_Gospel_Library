@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 7
 [[2 Samuel 6| <-- 2 Samuel 6]] | [[2 Samuel]] | [[2 Samuel 8|2 Samuel 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David propone construir una casa para Jehová — Jehová, por medio de Natán, declara que no ha pedido a David que haga tal cosa — El Señor establecerá la casa y el reino de David para siempre — David ofrece una oración de gratitud.
 
----
 ###### 1 
 Y aconteció que, cuando ya el rey habitaba en su casa, después que Jehová le había dado reposo de todos sus enemigos de alrededor,
 

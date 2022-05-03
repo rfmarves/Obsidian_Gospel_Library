@@ -1,22 +1,21 @@
 ---
 title: Salmos 111
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 111
 [[Salmos 110| <-- Salmos 110]] | [[Salmos]] | [[Salmos 112|Salmos 112 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/111?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/111?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor é piedoso e misericordioso — Santo e tremendo é o Seu nome — O temor do Senhor é o princípio da sabedoria.
 
----
 ###### 1 
 Louvai ao . Louvarei ao  de todo  coração, na assembleia dos justos e na congregação.
 

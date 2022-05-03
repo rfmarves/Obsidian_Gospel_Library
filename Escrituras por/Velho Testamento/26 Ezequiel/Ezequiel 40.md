@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 40
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 40
 [[Ezequiel 39| <-- Ezequiel 39]] | [[Ezequiel]] | [[Ezequiel 41|Ezequiel 41 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/40?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/40?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Um mensageiro celeste mostra a Ezequiel em visão uma cidade onde está o templo — São mostrados a Ezequiel a forma e o tamanho do templo e seus átrios.
 
----
 ###### 1 
 No ano vinte e cinco do nosso cativeiro, no princípio do ano, no décimo  do mês, quatorze anos depois que a cidade foi conquistada, naquele mesmo dia veio sobre mim a mão do , e me levou para lá.
 

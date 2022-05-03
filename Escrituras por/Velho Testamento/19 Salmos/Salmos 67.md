@@ -1,27 +1,25 @@
 ---
 title: Salmos 67
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 67
 [[Salmos 66| <-- Salmos 66]] | [[Salmos]] | [[Salmos 68|Salmos 68 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/67?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/67?lang=por)
 
----
+```
 Salmo e cântico para o músico-mor sobre Neginote.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo messiânico — O Senhor fará resplandecer o Seu rosto sobre os homens — Ele julgará e governará em retidão.
 
----
 ###### 1 
 Deus tenha misericórdia de nós, e nos abençoe,  faça resplandecer o seu rosto sobre nós. 
 

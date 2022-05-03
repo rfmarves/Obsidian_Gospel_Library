@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 30
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 30
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/30?lang=eng)
 
----
+```
 A Psalm and Song at the dedication of the house of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David sings praises and gives thanks to the Lord—David pleads for mercy.
 
----
 ###### 1 
 I will extol thee, O ; for thou hast lifted me up, and hast not made my foes to rejoice over me.
 

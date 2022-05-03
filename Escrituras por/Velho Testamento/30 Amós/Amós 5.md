@@ -1,22 +1,21 @@
 ---
 title: Amós 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 5
 [[Amós 4| <-- Amós 4]] | [[Amós]] | [[Amós 6|Amós 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Israel são exortados a buscar ao Senhor e a fazer o bem, para que possam viver — Seus sacrifícios aos deuses falsos são abomináveis.
 
----
 ###### 1 
 Ouvi esta palavra, que levanto sobre vós como lamentação, ó casa de Israel.
 

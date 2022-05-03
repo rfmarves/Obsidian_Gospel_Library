@@ -1,22 +1,21 @@
 ---
 title: Isaías 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 19
 [[Isaías 18| <-- Isaías 18]] | [[Isaías]] | [[Isaías 20|Isaías 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová herirá y destruirá a Egipto — Finalmente Él lo sanará, y Egipto y Asiria serán bendecidos junto con Israel.
 
----
 ###### 1 
 Profecía sobre Egipto: He aquí que Jehová va montado sobre una veloz nube y entrará en Egipto; y los ídolos de Egipto se estremecerán delante de él, y desfallecerá el corazón de los egipcios dentro de ellos.
 

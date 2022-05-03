@@ -1,22 +1,21 @@
 ---
 title: DyC 39
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 39
 [[DyC 38| <-- DyC 38]] | [[DyC]] | [[DyC 40|DyC 40 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/39?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/39?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, Los santos fieles tienen el poder de llegar a ser hijos de Dios; 5–6, Recibir el Evangelio es recibir a Cristo; 7–14, Se le manda a James Covel bautizarse y obrar en la viña del Señor; 15–21, Los siervos del Señor han de predicar el Evangelio antes de la Segunda Venida; 22–24, Aquellos que reciban el Evangelio serán recogidos por el tiempo y por la eternidad.
 
----
 ###### 1 
 Escucha y oye la voz de aquel que existe de eternidad en eternidad, el Gran , sí, Jesucristo,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The children of Israel press forward to their promised land—They pass through the lands of Esau and of Ammon in peace but destroy the Amorites.
 
----
 ###### 1 
 Then we turned, and took our journey into the wilderness by the way of the Red sea, as the  spake unto me: and we compassed mount Seir many days.
 

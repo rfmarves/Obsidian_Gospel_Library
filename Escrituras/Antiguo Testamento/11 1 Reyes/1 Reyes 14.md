@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 14
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 14
 [[1 Reyes 13| <-- 1 Reyes 13]] | [[1 Reyes]] | [[1 Reyes 15|1 Reyes 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ahías predice la ruina de la casa de Jeroboam, así como la muerte de su hijo y la dispersión de los israelitas por causa de su idolatría — Jeroboam muere y Nadab reina — Judá, bajo Roboam, se vuelve a la iniquidad — Sisac, rey de Egipto, toma los tesoros del templo — Roboam muere y Abiam reina.
 
----
 ###### 1 
 En aquel tiempo Abías hijo de Jeroboam cayó enfermo.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 27
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 27
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/27?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David says, The Lord is my light and my salvation—He desires to dwell in the house of the Lord forever—He counsels, Wait on the Lord and be of good courage.
 
----
 ###### 1 
 The   my light and my salvation; whom shall I fear? the   the strength of my life; of whom shall I be afraid?
 

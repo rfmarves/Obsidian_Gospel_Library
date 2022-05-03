@@ -1,10 +1,11 @@
 ---
 title: sw D&C 129
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 129
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/129?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, There are both resurrected and spirit bodies in heaven; 4–9, Keys are given whereby messengers from beyond the veil may be identified.
 
----
 ###### 1 
 There are two kinds of beings in heaven, namely: Angels, who are resurrected personages, having bodies of flesh and bones—
 

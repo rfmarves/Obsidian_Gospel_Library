@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 10
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Lehi predicts that the Jews will be taken captive by the Babylonians—He tells of the coming among the Jews of a Messiah, a Savior, a Redeemer—Lehi tells also of the coming of the one who should baptize the Lamb of God—Lehi tells of the death and resurrection of the Messiah—He compares the scattering and gathering of Israel to an olive tree—Nephi speaks of the Son of God, of the gift of the Holy Ghost, and of the need for righteousness. About 600–592 B.C.
 
----
 ###### 1 
 And now I, Nephi, proceed to give an account upon these plates of my proceedings, and my reign and ministry; wherefore, to proceed with mine account, I must speak somewhat of the things of my father, and also of my brethren.
 

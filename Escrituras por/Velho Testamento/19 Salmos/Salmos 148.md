@@ -1,22 +1,21 @@
 ---
 title: Salmos 148
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 148
 [[Salmos 147| <-- Salmos 147]] | [[Salmos]] | [[Salmos 149|Salmos 149 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/148?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/148?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Que todas as coisas louvem ao Senhor: homens e anjos, os corpos celestes, os elementos da Terra e todas as coisas que nela existem.
 
----
 ###### 1 
 Louvai ao . Louvai ao  desde os céus, louvai-o nas alturas.
 

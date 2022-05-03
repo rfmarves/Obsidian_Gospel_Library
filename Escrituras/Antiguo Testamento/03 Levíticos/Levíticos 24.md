@@ -1,22 +1,21 @@
 ---
 title: Levíticos 24
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 24
 [[Levíticos 23| <-- Levíticos 23]] | [[Levíticos]] | [[Levíticos 25|Levíticos 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Arderá un fuego perpetuo fuera del velo en el tabernáculo — Apedrean a un blasfemo hasta matarle — La ley de Israel es ojo por ojo y diente por diente.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

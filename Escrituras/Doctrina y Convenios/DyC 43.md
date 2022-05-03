@@ -1,22 +1,21 @@
 ---
 title: DyC 43
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 43
 [[DyC 42| <-- DyC 42]] | [[DyC]] | [[DyC 44|DyC 44 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/43?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/43?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–7, Las revelaciones y los mandamientos vienen únicamente por medio del que es nombrado; 8–14, Los santos son santificados al obrar con toda santidad ante el Señor; 15–22, Élderes son enviados a proclamar el arrepentimiento y a preparar a los hombres para el gran día del Señor; 23–28, El Señor llama a los hombres por Su propia voz y por medio de las fuerzas de la naturaleza; 29–35, Han de llegar el Milenio y el momento en que Satanás será atado.
 
----
 ###### 1 
 Escuchad, oh élderes de mi iglesia, y dad oído a las palabras que os hablaré.
 

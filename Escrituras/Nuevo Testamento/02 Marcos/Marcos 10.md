@@ -1,22 +1,21 @@
 ---
 title: Marcos 10
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 10
 [[Marcos 9| <-- Marcos 9]] | [[Marcos]] | [[Marcos 11|Marcos 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús enseña la ley mayor del matrimonio — Bendice a los niños pequeños — Jesús aconseja al joven rico, predice Su propia muerte y sana al ciego Bartimeo.
 
----
 ###### 1 
 Y partiendo de allí, fue a la región de Judea y al otro lado del Jordán; y volvió el pueblo a reunirse con él, y de nuevo les enseñaba como solía.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 12
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus calls and commissions the twelve disciples—He delivers to the Nephites a discourse similar to the Sermon on the Mount—He speaks the Beatitudes—His teachings transcend and take precedence over the law of Moses—Men are commanded to be perfect even as He and His Father are perfect—Compare Matthew 5. About A.D. 34.
 
----
 ###### 1 
 And it came to pass that when Jesus had spoken these words unto Nephi, and to those who had been called, (now the number of them who had been called, and received power and authority to baptize, was twelve) and behold, he stretched forth his hand unto the multitude, and cried unto them, saying: Blessed are ye if ye shall give heed unto the words of these twelve whom I have chosen from among you to minister unto you, and to be your servants; and unto them I have given power that they may baptize you with water; and after that ye are baptized with water, behold, I will baptize you with fire and with the Holy Ghost; therefore blessed are ye if ye shall believe in me and be baptized, after that ye have seen me and know that I am.
 

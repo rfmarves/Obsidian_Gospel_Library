@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 42
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 42
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/42?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah promises Johanan and the remnant of Judah peace and safety if they remain in Judah, but the sword, famine, and pestilence if they go to Egypt.
 
----
 ###### 1 
 Then all the captains of the forces, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least even unto the greatest, came near,
 

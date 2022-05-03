@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 3
 [[2 Crónicas 2| <-- 2 Crónicas 2]] | [[2 Crónicas]] | [[2 Crónicas 4|2 Crónicas 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Salomón comienza a construir el templo — Confecciona el velo y edifica las columnas, y utiliza mucho oro y muchas piedras preciosas.
 
----
 ###### 1 
 Y comenzó Salomón a edificar la casa de Jehová en Jerusalén, en el monte Moriah, donde Jehová se le había aparecido a David, su padre, en el lugar que David había preparado en la era de Ornán, el jebuseo.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 26
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 26
 [[2 Nefi 25| <-- 2 Nefi 25]] | [[2 Nefi]] | [[2 Nefi 27|2 Nefi 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cristo ejercerá Su ministerio entre los nefitas — Nefi prevé la destrucción de los de su pueblo — Estos hablarán desde el polvo — Los gentiles establecerán iglesias falsas y combinaciones secretas — El Señor prohíbe que los hombres empleen las supercherías sacerdotales. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Y después que Cristo haya resucitado de entre los muertos, se os manifestará a vosotros, mis hijos, y mis amados hermanos, y las palabras que él os hable serán la ley que observaréis.
 

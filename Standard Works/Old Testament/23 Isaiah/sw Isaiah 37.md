@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 37
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 37
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/37?lang=eng)
 
----
-__Summary__
+> __Summary__
 Hezekiah seeks counsel from Isaiah to save Jerusalem—Isaiah prophesies the defeat of the Assyrians and the death of Sennacherib—Hezekiah prays for deliverance—Sennacherib sends a blasphemous letter—Isaiah prophesies that the Assyrians will be destroyed and that a remnant of Judah will flourish—An angel slays 185,000 Assyrians—Sennacherib is slain by his sons.
 
----
 ###### 1 
 And it came to pass, when king Hezekiah heard  that he rent his clothes, and covered himself with sackcloth, and went into the house of the .
 

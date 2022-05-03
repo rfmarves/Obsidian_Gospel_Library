@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 4
 [[1 Reyes 3| <-- 1 Reyes 3]] | [[1 Reyes]] | [[1 Reyes 5|1 Reyes 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se enumeran los oficiales de la corte de Salomón — Salomón gobierna en paz y en prosperidad sobre un reino extenso — Su sabiduría y prudencia exceden a las de todos los hombres.
 
----
 ###### 1 
 Y el rey Salomón fue rey sobre todo Israel.
 

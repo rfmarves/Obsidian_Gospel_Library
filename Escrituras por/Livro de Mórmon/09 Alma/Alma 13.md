@@ -1,22 +1,21 @@
 ---
 title: Alma 13
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 13
 [[Alma 12| <-- Alma 12]] | [[Alma]] | [[Alma 14|Alma 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Homens são chamados como sumos sacerdotes por causa de sua grande fé e boas obras — Eles devem ensinar os mandamentos — São santificados por meio da retidão e entram no descanso do Senhor — Melquisedeque foi um deles — Anjos declaram boas-novas por toda a terra — Eles declararão a vinda de Cristo. Aproximadamente 82 a.C.
 
----
 ###### 1 
 E outra vez, meus irmãos, desejaria chamar vossa atenção para a época em que o Senhor Deus transmitiu estes mandamentos a seus filhos; e quisera que vos lembrásseis de que o Senhor Deus ordenou sacerdotes segundo a sua santa ordem, que era segundo a ordem de seu Filho, para que ensinassem estas coisas ao povo.
 

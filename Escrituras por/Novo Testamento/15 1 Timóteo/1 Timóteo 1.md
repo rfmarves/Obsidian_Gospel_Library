@@ -1,22 +1,21 @@
 ---
 title: 1 Timóteo 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Timóteo 1
 [[2 Tessalonicenses 3| <-- 2 Tessalonicenses 3]] | [[1 Timóteo]] | [[1 Timóteo 2|1 Timóteo 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Aconselha-se que somente a doutrina verdadeira seja ensinada — Cristo veio para salvar os pecadores arrependidos.
 
----
 ###### 1 
 Paulo, apóstolo de Jesus Cristo segundo o mandado de Deus, nosso Salvador, e do Senhor Jesus Cristo, esperança nossa,
 

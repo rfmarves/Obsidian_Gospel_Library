@@ -1,10 +1,11 @@
 ---
 title: sw Esther 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Esther 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mordecai, the Jew, stands next to Ahasuerus in power and might.
 
----
 ###### 1 
 And the king Ahasuerus laid a tribute upon the land, and  the isles of the sea.
 

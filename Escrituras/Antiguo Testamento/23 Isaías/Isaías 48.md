@@ -1,22 +1,21 @@
 ---
 title: Isaías 48
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 48
 [[Isaías 47| <-- Isaías 47]] | [[Isaías]] | [[Isaías 49|Isaías 49 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/48?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/48?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová revela Sus propósitos a Israel — Israel ha sido escogido en el horno de la aflicción y ha de salir de Babilonia — Compárese con 1 Nefi 20.
 
----
 ###### 1 
 Oíd esto, oh casa de Jacob, que os llamáis del nombre de Israel, los que salieron de las aguas de Judá, los que juran en el nombre de Jehová y hacen memoria del Dios de Israel, mas no en verdad ni en justicia;
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 54
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 54
 [[Salmos 53| <-- Salmos 53]] | [[Salmos]] | [[Salmos 55|Salmos 55 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/54?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/54?lang=por)
 
----
+```
 Masquil de Davi para o músico-mor sobre Neginote, quando os zifeus foram e disseram a Saul: Porventura não está Davi escondido entre nós?
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi roga salvação e promete servir a Deus.
 
----
 ###### 1 
 Salva-me, ó Deus, pelo teu nome, e faze-me justiça pelo teu poder.
 

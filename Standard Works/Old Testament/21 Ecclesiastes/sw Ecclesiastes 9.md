@@ -1,10 +1,11 @@
 ---
 title: sw Ecclesiastes 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ecclesiastes 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 God’s providence rules over all—All men are subject to time and chance—Wisdom is better than strength—One sinner destroys much good.
 
----
 ###### 1 
 For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works,  in the hand of God: no man knoweth either love or hatred  all  before them.
 

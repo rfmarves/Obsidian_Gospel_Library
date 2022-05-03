@@ -1,22 +1,21 @@
 ---
 title: Génesis 24
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 24
 [[Génesis 23| <-- Génesis 23]] | [[Génesis]] | [[Génesis 25|Génesis 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Abraham manda que Isaac no se case con mujer cananea — Jehová guía al siervo de Abraham para que escoja a Rebeca como esposa para Isaac — Rebeca es bendecida para ser la madre de millares de millares — Ella se casa con Isaac.
 
----
 ###### 1 
 Y Abraham era ya viejo y bien entrado en años; y Jehová había bendecido a Abraham en todo.
 

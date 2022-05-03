@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 23
 [[1 Samuel 22| <-- 1 Samuel 22]] | [[1 Samuel]] | [[1 Samuel 24|1 Samuel 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi mata os filisteus e salva Queila — Ele continua a fugir de Saul — Jônatas o consola em Zife.
 
----
 ###### 1 
 E foi anunciado a Davi, dizendo: Eis que os filisteus pelejam contra Queila, e saqueiam as eiras.
 

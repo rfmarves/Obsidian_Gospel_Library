@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Eve bears Cain and Abel—They offer sacrifices—Cain slays Abel and is cursed by the Lord, who also sets a mark upon him—The children of men multiply—Adam begets Seth, and Seth begets Enos.
 
----
 ###### 1 
 And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the .
 

@@ -1,22 +1,21 @@
 ---
 title: DyC 61
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 61
 [[DyC 60| <-- DyC 60]] | [[DyC]] | [[DyC 62|DyC 62 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/61?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/61?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–12, El Señor ha decretado muchas destrucciones sobre las aguas; 13–22, Juan maldijo las aguas, y el destructor anda sobre la faz de ellas; 23–29, Algunos tienen poder para mandar a las aguas; 30–35, Los élderes han de viajar de dos en dos y predicar el Evangelio; 36–39, Deben prepararse para la venida del Hijo del Hombre.
 
----
 ###### 1 
 He aquí, escuchad la voz del que tiene todo poder, que es de eternidad en eternidad, el Alfa y la Omega, el principio y el fin.
 

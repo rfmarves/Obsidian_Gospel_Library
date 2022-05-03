@@ -1,22 +1,21 @@
 ---
 title: Daniel 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 4
 [[Daniel 3| <-- Daniel 3]] | [[Daniel]] | [[Daniel 5|Daniel 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Daniel interpreta o sonho que Nabucodonosor teve de uma grande árvore, no qual se descrevem a queda e a loucura do rei — O rei aprende que o Altíssimo governa e põe o mais humilde dos homens sobre os reinos da Terra.
 
----
 ###### 1 
 Nabucodonosor, o rei, a todos os povos, nações, e línguas, que moram em toda a terra: Paz vos seja multiplicada.
 

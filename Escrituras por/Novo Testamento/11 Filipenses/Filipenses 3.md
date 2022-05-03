@@ -1,22 +1,21 @@
 ---
 title: Filipenses 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Filipenses 3
 [[Filipenses 2| <-- Filipenses 2]] | [[Filipenses]] | [[Filipenses 4|Filipenses 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/philip/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/philip/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo sacrifica todas as coisas por Cristo — Os verdadeiros ministros dão um exemplo de retidão.
 
----
 ###### 1 
 Resta, irmãos meus, que vos regozijeis no Senhor. Não me é penoso escrever-vos as mesmas  e é segurança para vós.
 

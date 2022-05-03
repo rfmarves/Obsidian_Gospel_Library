@@ -1,16 +1,17 @@
 ---
 title: Una breve explicación del Libro de Mormón
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Una breve explicación del Libro de Mormón
 [[Testimonio del Profeta José Smith| <-- Testimonio del Profeta José Smith]] | [[Introducción y Testimonios]] | [[1 Nefi 1|1 Nefi 1 --> ]]
 
-[En línea](https://www.churchofjesuschrist.org/study/scriptures/bofm/explanation?lang=spa)
+[en línea](https://www.churchofjesuschrist.org/study/scriptures/bofm/explanation?lang=spa)
 
 El Libro de Mormón es una historia sagrada de pueblos de la América antigua, la cual se grabó en planchas de metal. Las fuentes de donde se compiló esta historia incluyen las siguientes:
 

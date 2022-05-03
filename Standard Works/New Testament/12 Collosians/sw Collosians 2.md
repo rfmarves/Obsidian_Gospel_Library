@@ -1,10 +1,11 @@
 ---
 title: sw Collosians 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Collosians 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/col/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The fulness of the Godhead dwells in Christ—Beware of being deceived by the traditions of men—The handwriting against us was nailed to the cross of Christ.
 
----
 ###### 1 
 For I would that ye knew what great conflict I have for you, and  them at Laodicea, and  as many as have not seen my face in the flesh;
 

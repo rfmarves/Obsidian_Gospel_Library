@@ -1,22 +1,21 @@
 ---
 title: Alma 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 2
 [[Alma 1| <-- Alma 1]] | [[Alma]] | [[Alma 3|Alma 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Anlici procura tornar-se rei e é rejeitado pela voz do povo — Seus seguidores fazem-no rei — Os anlicitas fazem guerra contra os nefitas e são derrotados — Lamanitas e anlicitas unem forças e são derrotados — Anlici é morto por Alma. Aproximadamente 87 a.C.
 
----
 ###### 1 
 E aconteceu que no começo do quinto ano do seu governo, o povo começou a contender; porque um certo homem chamado Anlici, sendo um homem muito astuto, sim, um homem sábio quanto à sabedoria do mundo e pertencente à ordem do homem que matara Gideão com a espada e fora executado de acordo com a lei —
 

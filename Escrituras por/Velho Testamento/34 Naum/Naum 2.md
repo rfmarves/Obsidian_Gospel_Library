@@ -1,22 +1,21 @@
 ---
 title: Naum 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Naum 2
 [[Naum 1| <-- Naum 1]] | [[Naum]] | [[Naum 3|Naum 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/nahum/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/nahum/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nínive será destruída, como símbolo do que acontecerá nos últimos dias.
 
----
 ###### 1 
 O destruidor subiu contra ti; guarda tu a fortaleza, observa o caminho, fortifica os lombos, reforça muito o poder.
 

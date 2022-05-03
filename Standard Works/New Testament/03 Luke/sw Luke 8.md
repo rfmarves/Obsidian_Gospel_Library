@@ -1,10 +1,11 @@
 ---
 title: sw Luke 8
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus gives and interprets the parable of the sower—He stills the tempest; casts out a legion of devils, who then enter the swine; heals a woman of an issue of blood; and raises Jairus’s daughter from death.
 
----
 ###### 1 
 And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve  with him,
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ahab desires the vineyard of Naboth—Jezebel arranges for false witnesses, and Naboth is stoned for blasphemy—Elijah prophesies that Ahab and Jezebel and their house will be destroyed.
 
----
 ###### 1 
 And it came to pass after these things,  Naboth the Jezreelite had a vineyard, which  in Jezreel, hard by the palace of Ahab king of Samaria.
 

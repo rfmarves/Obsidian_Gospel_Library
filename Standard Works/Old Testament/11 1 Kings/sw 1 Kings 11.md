@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Solomon marries non-Israelite women, and his wives turn his heart to the worship of false gods—The Lord stirs up adversaries against him, including Jeroboam, the son of Nebat—Ahijah promises Jeroboam that he will be the king of the ten tribes—Solomon dies and Rehoboam reigns in his stead.
 
----
 ###### 1 
 But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians,  Hittites;
 

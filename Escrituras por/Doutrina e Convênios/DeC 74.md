@@ -1,22 +1,21 @@
 ---
 title: DeC 74
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 74
 [[DeC 73| <-- DeC 73]] | [[DeC]] | [[DeC 75|DeC 75 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/74?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/74?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, Paulo aconselha a Igreja de sua época a não guardar a lei de Moisés; 6–7, As criancinhas são santas e santificadas por meio da Expiação.
 
----
 ###### 1 
 Pois o marido descrente é santificado pela mulher, e a mulher descrente é santificada pelo marido; de outra sorte, os seus filhos seriam imundos; mas agora são santos.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Job 32
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 32
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/32?lang=eng)
 
----
-__Summary__
+> __Summary__
 Elihu, in anger, answers Job and his three friends—Elihu says, There is a spirit in man, and the inspiration of the Almighty gives understanding—He also says, Great men are not always wise.
 
----
 ###### 1 
 So these three men ceased to answer Job, because he  righteous in his own eyes.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 10
 [[1 Samuel 9| <-- 1 Samuel 9]] | [[1 Samuel]] | [[1 Samuel 11|1 Samuel 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Samuel unge Saul para ser capitão sobre a herdade do Senhor — Samuel manifesta o dom de vidência — Saul profetiza entre os profetas, e o Senhor lhe dá um novo coração — Ele é escolhido como rei em Mizpá.
 
----
 ###### 1 
 Então tomou Samuel  vaso de azeite, e  derramou sobre a cabeça, e o beijou, e disse:  não te ungiu o   capitão sobre a sua herdade?
 

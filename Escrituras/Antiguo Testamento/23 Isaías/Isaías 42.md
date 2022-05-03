@@ -1,22 +1,21 @@
 ---
 title: Isaías 42
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 42
 [[Isaías 41| <-- Isaías 41]] | [[Isaías]] | [[Isaías 43|Isaías 43 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/42?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/42?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Isaías habla del Mesías — Jehová traerá Su ley y Su justicia, será una luz a las naciones y liberará a los presos — Alabad a Jehová.
 
----
 ###### 1 
 He aquí mi siervo, yo lo sostendré; mi escogido en quien mi alma se complace. He puesto sobre él mi espíritu; él traerá justicia a las naciones.
 

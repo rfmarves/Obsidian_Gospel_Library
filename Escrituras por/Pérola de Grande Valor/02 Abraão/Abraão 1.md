@@ -1,25 +1,24 @@
 ---
 title: Abraão 1
-tags: #Escrituras\PdGV
+tags: Escrituras\PdGV
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Abraão 1
 [[Moisés 8| <-- Moisés 8]] | [[Abraão]] | [[Abraão 2|Abraão 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/pgp/abr/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/pgp/abr/1?lang=por)
 
 Abraão
 Traduzido do Papiro por Joseph Smith
 
----
-__Resumo__
+> __Resumo__
 Abraão busca as bênçãos da ordem patriarcal — Ele é perseguido por falsos sacerdotes na Caldeia — Jeová salva-o — Examinadas as origens e o governo do Egito.
 
----
 ###### 1 
 Na terra dos caldeus, na residência de meus pais, eu, Abraão, vi que me era necessário encontrar outro lugar para morar;
 

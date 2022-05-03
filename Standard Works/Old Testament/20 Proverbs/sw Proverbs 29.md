@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 29
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 When the wicked rule, the people mourn—The righteous consider the cause of the poor—A fool speaks all that is in his mind—Where there is no vision, the people perish.
 
----
 ###### 1 
 He, that being often reproved hardeneth  neck, shall suddenly be destroyed, and that without remedy.
 

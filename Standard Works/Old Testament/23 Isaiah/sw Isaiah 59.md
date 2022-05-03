@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 59
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 59
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/59?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people of Israel are separated from their God by iniquity—Their sins testify against them—The Messiah will intercede, come to Zion, and redeem the repentant.
 
----
 ###### 1 
 Behold, the ’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:
 

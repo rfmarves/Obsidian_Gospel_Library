@@ -1,22 +1,21 @@
 ---
 title: DyC 99
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 99
 [[DyC 98| <-- DyC 98]] | [[DyC]] | [[DyC 100|DyC 100 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/99?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/99?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–8, John Murdock es llamado a proclamar el Evangelio, y quienes le reciban, reciben al Señor y obtendrán misericordia.
 
----
 ###### 1 
 He aquí, así dice el Señor a mi siervo John Murdock: Eres llamado para ir a las regiones del este, de casa en casa, de pueblo en pueblo y de ciudad en ciudad, a proclamar mi evangelio sempiterno a sus habitantes, en medio de la persecución e iniquidad.
 

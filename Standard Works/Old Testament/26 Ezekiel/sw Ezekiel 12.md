@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel makes himself a symbol of the scattering of the people of Judah from Jerusalem—He then prophesies their scattering among all nations.
 
----
 ###### 1 
 The word of the  also came unto me, saying,
 

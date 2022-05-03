@@ -1,10 +1,11 @@
 ---
 title: sw Esther 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Esther 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mordecai is honored and placed over the house of Haman—Ahasuerus issues a decree to preserve the Jews.
 
----
 ###### 1 
 On that day did the king Ahasuerus give the house of Haman the Jews’ enemy unto Esther the queen. And Mordecai came before the king; for Esther had told what he  unto her.
 

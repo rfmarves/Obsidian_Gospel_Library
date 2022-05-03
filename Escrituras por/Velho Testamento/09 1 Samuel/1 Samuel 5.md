@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 5
 [[1 Samuel 4| <-- 1 Samuel 4]] | [[1 Samuel]] | [[1 Samuel 6|1 Samuel 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filisteus colocam a arca na casa de Dagom, seu deus — Os filisteus de Asdode, em seguida os de Gate e depois os de Ecrom são feridos com uma praga e mortos, porque a arca estava com eles.
 
----
 ###### 1 
 Os filisteus, pois, tomaram a arca de Deus e a levaram de Ebenézer a Asdode.
 

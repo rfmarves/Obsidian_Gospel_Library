@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The wise men are directed by a star to Jesus—Joseph takes the child to Egypt—Herod slays the children in Bethlehem—Jesus is taken to Nazareth to dwell.
 
----
 ###### 1 
 Now when Jesus was born in Bethlehem of Judæa in the days of Herod the king, behold, there came wise men from the east to Jerusalem,
 

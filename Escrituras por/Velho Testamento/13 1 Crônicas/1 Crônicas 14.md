@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 14
 [[1 Crônicas 13| <-- 1 Crônicas 13]] | [[1 Crônicas]] | [[1 Crônicas 15|1 Crônicas 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi se casa com várias mulheres, gera filhos e derrota os filisteus; sua fama se espalha por todas as nações.
 
----
 ###### 1 
 Então Hirão, rei de Tiro, mandou mensageiros a Davi, e madeira de cedro, e pedreiros, e carpinteiros, para lhe edificar uma casa.
 

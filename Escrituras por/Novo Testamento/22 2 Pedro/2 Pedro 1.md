@@ -1,22 +1,21 @@
 ---
 title: 2 Pedro 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Pedro 1
 [[1 Pedro 5| <-- 1 Pedro 5]] | [[2 Pedro]] | [[2 Pedro 2|2 Pedro 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Pedro exorta os santos a assegurarem seu chamado e eleição — A profecia vem pelo poder do Espírito Santo.
 
----
 ###### 1 
 Simão Pedro, servo e apóstolo de Jesus Cristo, aos que conosco alcançaram fé igualmente preciosa pela justiça do nosso Deus e Salvador Jesus Cristo:
 

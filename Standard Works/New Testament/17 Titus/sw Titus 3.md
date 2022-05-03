@@ -1,10 +1,11 @@
 ---
 title: sw Titus 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Titus 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/titus/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saints must live righteously after baptism.
 
----
 ###### 1 
 Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,
 

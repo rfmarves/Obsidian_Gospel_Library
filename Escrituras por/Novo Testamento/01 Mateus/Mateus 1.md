@@ -1,22 +1,21 @@
 ---
 title: Mateus 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 1
 | [[Mateus]] | [[Mateus 2|Mateus 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo nasce de Maria — Ela concebe pelo poder do Espírito Santo — Nosso Senhor é chamado de Jesus.
 
----
 ###### 1 
 Livro da geração de Jesus Cristo, filho de Davi, filho de Abraão.
 

@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 37
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 37
 [[Ezequiel 36| <-- Ezequiel 36]] | [[Ezequiel]] | [[Ezequiel 38|Ezequiel 38 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/37?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/37?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se muestra a Ezequiel un valle con huesos secos — Israel heredará la tierra en la Resurrección — El palo de Judá (la Biblia) y el palo de José (el Libro de Mormón) serán uno en la mano de Jehová — Los hijos de Israel serán recogidos y purificados — David (el Mesías) reinará sobre ellos — Recibirán el convenio sempiterno del Evangelio.
 
----
 ###### 1 
 Y la mano de Jehová vino sobre mí, y me llevó en el espíritu de Jehová y me puso en medio de un valle que estaba lleno de huesos.
 

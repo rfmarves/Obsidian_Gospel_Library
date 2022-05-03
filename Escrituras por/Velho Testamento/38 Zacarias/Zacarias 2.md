@@ -1,22 +1,21 @@
 ---
 title: Zacarias 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarias 2
 [[Zacarias 1| <-- Zacarias 1]] | [[Zacarias]] | [[Zacarias 3|Zacarias 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nos últimos dias, Judá será coligada em Jerusalém — O povo virá da terra do norte — O Senhor habitará no meio deles.
 
----
 ###### 1 
 Tornei a levantar os meus olhos, e vi, e eis aqui um homem em cuja mão estava um cordel de medir.
 

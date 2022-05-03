@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 25
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 The descendants of Mulek at Zarahemla become Nephites—They learn of the people of Alma and of Zeniff—Alma baptizes Limhi and all his people—Mosiah authorizes Alma to organize the Church of God. About 120 B.C.
 
----
 ###### 1 
 And now king Mosiah caused that all the people should be gathered together.
 

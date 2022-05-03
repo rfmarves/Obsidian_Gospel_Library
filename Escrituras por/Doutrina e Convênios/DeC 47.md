@@ -1,22 +1,21 @@
 ---
 title: DeC 47
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 47
 [[DeC 46| <-- DeC 46]] | [[DeC]] | [[DeC 48|DeC 48 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/47?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/47?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, John Whitmer é designado para registrar a história da Igreja e ser o escrevente do Profeta.
 
----
 ###### 1 
 Eis que me é conveniente que meu servo John escreva e conserve uma história regular e assista-te, meu servo Joseph, na transcrição de todas as coisas que te serão dadas, até que ele seja chamado para outros deveres.
 

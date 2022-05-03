@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 49
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 49
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/49?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob blesses his sons and their seed—Reuben, Simeon, and Levi are chastened—Judah will rule until Shiloh (Christ) comes—Joseph is a fruitful bough by a well—His branches (the Nephites and Lamanites) will run over the wall—The Shepherd and Stone of Israel (Christ) will bless Joseph temporally and spiritually—Jacob chooses to be buried with his fathers in Canaan—He yields up the ghost and is gathered to his people.
 
----
 ###### 1 
 And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you  which shall befall you in the last days.
 

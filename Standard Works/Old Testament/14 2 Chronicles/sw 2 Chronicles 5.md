@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The temple is finished, and the ark of the covenant is placed in the holy of holies—The glory of the Lord fills the temple.
 
----
 ###### 1 
 Thus all the work that Solomon made for the house of the  was finished: and Solomon brought in  the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God.
 

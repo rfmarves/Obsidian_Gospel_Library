@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 4
 [[Apocalipse 3| <-- Apocalipse 3]] | [[Apocalipse]] | [[Apocalipse 5|Apocalipse 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 João vê a terra celestial, o trono de Deus e toda a criação adorando ao Senhor.
 
----
 ###### 1 
 Depois dessas coisas, olhei, e eis que  uma porta aberta no céu; e a primeira voz, que como de uma trombeta eu ouvira falar comigo, disse: Sobe aqui, e mostrar-te-ei as coisas que depois destas devem acontecer.
 

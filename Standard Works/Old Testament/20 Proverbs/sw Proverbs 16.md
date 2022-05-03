@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 It is better to get wisdom than gold—Pride goes before destruction—The gray hair of the righteous person is a crown of glory.
 
----
 ###### 1 
 The preparations of the heart in man, and the answer of the tongue,  from the .
 

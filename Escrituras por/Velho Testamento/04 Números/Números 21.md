@@ -1,22 +1,21 @@
 ---
 title: Números 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 21
 [[Números 20| <-- Números 20]] | [[Números]] | [[Números 22|Números 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Israel destroem os cananeus que lutam contra eles — Os israelitas são assolados por uma praga de serpentes ardentes — Moisés ergue uma serpente de bronze para salvar os que olharem para ela — Israel derrota os amorreus, destrói o povo de Basã e ocupa as terras deles.
 
----
 ###### 1 
 Ouvindo o cananeu, o rei de Arade, que habitava no sul, que Israel vinha pelo caminho dos espias, pelejou contra Israel, e levou  deles como prisioneiros.
 

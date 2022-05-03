@@ -1,22 +1,21 @@
 ---
 title: 2 Coríntios 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Coríntios 2
 [[2 Coríntios 1| <-- 2 Coríntios 1]] | [[2 Coríntios]] | [[2 Coríntios 3|2 Coríntios 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos devem amar e perdoar uns aos outros — Eles sempre triunfam em Cristo.
 
----
 ###### 1 
 Porém deliberei isto comigo mesmo: não ir mais ter convosco em tristeza.
 

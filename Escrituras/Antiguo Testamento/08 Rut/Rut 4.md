@@ -1,22 +1,21 @@
 ---
 title: Rut 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Rut 4
 [[Rut 3| <-- Rut 3]] | [[Rut]] | [[1 Samuel 1|1 Samuel 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ruth/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ruth/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El pariente más cercano se niega a cumplir con su deber, y Booz toma a Rut por esposa — Rut da a luz a Obed; este fue padre de Isaí, quien engendró al rey David.
 
----
 ###### 1 
 Y Booz subió a la puerta y se sentó allí; y he aquí pasaba aquel pariente de quien Booz había hablado, y le dijo: Eh, tú, ven acá y siéntate. Y él fue y se sentó.
 

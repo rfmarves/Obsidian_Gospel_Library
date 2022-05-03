@@ -1,22 +1,21 @@
 ---
 title: Éter 14
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éter 14
 [[Éter 13| <-- Éter 13]] | [[Éter]] | [[Éter 15|Éter 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A iniquidade do povo traz maldição sobre a terra — Coriântumr faz guerra contra Gileade, depois Libe e depois Siz — Sangue e carnificina cobrem a terra.
 
----
 ###### 1 
 E então começou a haver uma grande maldição sobre toda a terra, devido à iniquidade do povo, de modo que se um homem deixava sua ferramenta de trabalho ou sua espada sobre a prateleira ou no lugar onde costumava guardá-la, na manhã seguinte não conseguia encontrá-la, tão grande era a maldição sobre a terra.
 

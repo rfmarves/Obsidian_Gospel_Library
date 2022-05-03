@@ -1,22 +1,21 @@
 ---
 title: Alma 57
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 57
 [[Alma 56| <-- Alma 56]] | [[Alma]] | [[Alma 58|Alma 58 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/57?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/57?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Helamã relata a tomada e a rendição de Antípara e, mais tarde, a defesa de Cumêni — Seus jovens amonitas lutam valentemente; todos são feridos mas nenhum é morto — Gide relata a matança e a fuga dos prisioneiros lamanitas. Aproximadamente 63 a.C.
 
----
 ###### 1 
 E então aconteceu que recebi uma epístola de Amoron, o rei, dizendo que se eu libertasse aqueles prisioneiros de guerra que havíamos feito, ele nos entregaria a cidade de Antípara.
 

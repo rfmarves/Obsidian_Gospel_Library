@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Simeon, Zebulun, Issachar, Asher, Naphtali, and Dan receive their inheritances by lot.
 
----
 ###### 1 
 And the second lot came forth to Simeon,  for the tribe of the children of Simeon according to their families: and their inheritance was within the inheritance of the children of Judah.
 

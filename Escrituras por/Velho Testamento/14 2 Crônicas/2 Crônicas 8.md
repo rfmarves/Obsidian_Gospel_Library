@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 8
 [[2 Crônicas 7| <-- 2 Crônicas 7]] | [[2 Crônicas]] | [[2 Crônicas 9|2 Crônicas 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Salomão constrói cidades — Ele oferece sacrifícios de acordo com a lei de Moisés — Os sacerdotes e os levitas são encarregados de servir ao Senhor.
 
----
 ###### 1 
 E sucedeu, ao cabo de vinte anos, nos quais Salomão edificou a casa do , e a sua própria casa,
 

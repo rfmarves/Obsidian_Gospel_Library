@@ -1,22 +1,21 @@
 ---
 title: Esdras 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 3
 [[Esdras 2| <-- Esdras 2]] | [[Esdras]] | [[Esdras 4|Esdras 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O altar é reconstruído — São reinstituídos os sacrifícios regulares — Os alicerces do templo são colocados em meio a grande regozijo.
 
----
 ###### 1 
 Chegando, pois, o sétimo mês, e  os filhos de Israel  nas cidades, ajuntou-se o povo, como um só homem, em Jerusalém.
 

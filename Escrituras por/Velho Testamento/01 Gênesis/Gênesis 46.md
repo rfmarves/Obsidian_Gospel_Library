@@ -1,22 +1,21 @@
 ---
 title: Gênesis 46
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 46
 [[Gênesis 45| <-- Gênesis 45]] | [[Gênesis]] | [[Gênesis 47|Gênesis 47 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/46?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/46?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor envia Jacó e sua família de setenta almas para o Egito — Os descendentes de Jacó são enumerados — José se encontra com Jacó.
 
----
 ###### 1 
 E partiu Israel com tudo quanto tinha, e foi a Berseba, e sacrificou sacrifícios ao Deus de seu pai Isaque.
 

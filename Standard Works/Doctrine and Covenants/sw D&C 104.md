@@ -1,10 +1,11 @@
 ---
 title: sw D&C 104
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 104
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/104?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–10, Saints who transgress against the united order will be cursed; 11–16, The Lord provides for His Saints in His own way; 17–18, Gospel law governs the care of the poor; 19–46, The stewardships and blessings of various brethren are designated; 47–53, The united order in Kirtland and the order in Zion are to operate separately; 54–66, The sacred treasury of the Lord is set up for the printing of the scriptures; 67–77, The general treasury of the united order is to operate on the basis of common consent; 78–86, Those in the united order are to pay all their debts, and the Lord will deliver them from financial bondage.
 
----
 ###### 1 
 Verily I say unto you, my friends, I give unto you counsel, and a commandment, concerning all the properties which belong to the order which I commanded to be organized and established, to be a united order, and an everlasting order for the benefit of my church, and for the salvation of men until I come—
 

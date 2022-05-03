@@ -1,27 +1,25 @@
 ---
 title: Salmos 81
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 81
 [[Salmos 80| <-- Salmos 80]] | [[Salmos]] | [[Salmos 82|Salmos 82 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/81?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/81?lang=spa)
 
----
+```
 Al músico principal; con aGitit. Salmo de Asaf.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Se manda a Israel cantar alabanzas a Dios — Si los israelitas hubieran andado en los caminos de Jehová, habrían triunfado sobre sus enemigos.
 
----
 ###### 1 
 
 

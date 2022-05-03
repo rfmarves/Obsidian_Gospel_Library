@@ -1,22 +1,21 @@
 ---
 title: Josué 23
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 23
 [[Josué 22| <-- Josué 22]] | [[Josué]] | [[Josué 24|Josué 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Josué exhorta a Israel a ser valiente, a guardar los mandamientos, a amar a Jehová y a no concertar matrimonios con los cananeos ni a unirse a los que queden de ellos en la tierra — Si los hijos de Israel sirven a otros dioses, serán maldecidos y despojados.
 
----
 ###### 1 
 Y aconteció, pasados muchos días después que Jehová dio reposo a Israel de todos sus enemigos de alrededor, que Josué, siendo viejo, y entrado en años,
 

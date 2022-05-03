@@ -1,22 +1,21 @@
 ---
 title: Jacó 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jacó 6
 [[Jacó 5| <-- Jacó 5]] | [[Jacó]] | [[Jacó 7|Jacó 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor recuperará Israel nos últimos dias — O mundo será queimado com fogo — Os homens devem seguir a Cristo para evitar o lago de fogo e enxofre. Aproximadamente 544–421 a.C.
 
----
 ###### 1 
 E agora eis que, meus irmãos, como vos disse que profetizaria, eis que esta é a minha profecia — que as coisas que esse profeta Zenos disse referentes à casa de Israel, comparando-a a uma oliveira boa, seguramente acontecerão.
 

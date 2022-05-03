@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 17
 [[2 Crónicas 16| <-- 2 Crónicas 16]] | [[2 Crónicas]] | [[2 Crónicas 18|2 Crónicas 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Josafat reina apropiadamente y prospera en Judá — Los sacerdotes viajan y enseñan del libro de la ley de Jehová.
 
----
 ###### 1 
 Y reinó en su lugar Josafat, su hijo, el cual se hizo fuerte contra Israel.
 

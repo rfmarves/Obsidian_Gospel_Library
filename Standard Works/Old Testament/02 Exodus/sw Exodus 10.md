@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord sends a plague of locusts—This is followed by thick darkness in all Egypt for three days—Moses is cast out from the presence of Pharaoh.
 
----
 ###### 1 
 And the  said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might shew these my signs before him:
 

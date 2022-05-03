@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 33
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 33
 [[2 Crónicas 32| <-- 2 Crónicas 32]] | [[2 Crónicas]] | [[2 Crónicas 34|2 Crónicas 34 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/33?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/33?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Manasés reina con iniquidad y adora dioses falsos — Lo llevan cautivo a Babilonia — Se arrepiente y sirve a Jehová — Amón reina indignamente y es asesinado.
 
----
 ###### 1 
 Manasés tenía doce años cuando comenzó a reinar, y reinó cincuenta y cinco años en Jerusalén.
 

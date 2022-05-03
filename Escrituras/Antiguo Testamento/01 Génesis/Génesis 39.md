@@ -1,22 +1,21 @@
 ---
 title: Génesis 39
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 39
 [[Génesis 38| <-- Génesis 38]] | [[Génesis]] | [[Génesis 40|Génesis 40 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/39?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/39?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 José, prosperado por Jehová, llega a ser mayordomo de la casa de Potifar — José se resiste a las insinuaciones de la esposa de Potifar; es acusado falsamente y echado en la cárcel — El jefe de la cárcel pone los asuntos de la prisión en manos de José.
 
----
 ###### 1 
 Y llevado José a Egipto, Potifar, oficial de Faraón, capitán de los de la guardia, varón egipcio, lo compró de manos de los ismaelitas que lo habían llevado allá.
 

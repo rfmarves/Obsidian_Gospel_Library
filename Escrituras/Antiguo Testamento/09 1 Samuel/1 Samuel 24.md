@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 24
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 24
 [[1 Samuel 23| <-- 1 Samuel 23]] | [[1 Samuel]] | [[1 Samuel 25|1 Samuel 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David ve a Saúl en una cueva y le perdona la vida — Saúl confiesa que David es más justo que él — David jura que no destruirá la descendencia de Saúl.
 
----
 ###### 1 
 Y aconteció que cuando Saúl volvió de  los filisteos, le dieron aviso, diciendo: He aquí que David está en el desierto de En-gadi.
 

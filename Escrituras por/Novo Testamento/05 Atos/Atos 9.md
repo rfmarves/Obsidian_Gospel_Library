@@ -1,22 +1,21 @@
 ---
 title: Atos 9
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 9
 [[Atos 8| <-- Atos 8]] | [[Atos]] | [[Atos 10|Atos 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus aparece a Saulo — Saulo é um vaso escolhido — Ananias restaura a visão de Saulo — Saulo é batizado e inicia seu ministério — Pedro cura Eneias e levanta Dorcas da morte.
 
----
 ###### 1 
 E Saulo, respirando ainda ameaças e mortes contra os discípulos do Senhor, dirigiu-se ao sumo sacerdote,
 

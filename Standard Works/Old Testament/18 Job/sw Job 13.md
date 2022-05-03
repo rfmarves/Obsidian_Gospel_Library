@@ -1,10 +1,11 @@
 ---
 title: sw Job 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job testifies of his confidence in the Lord and says, Though He slay me, yet will I trust in Him, and He also will be my salvation.
 
----
 ###### 1 
 Lo, mine eye hath seen all  mine ear hath heard and understood it.
 

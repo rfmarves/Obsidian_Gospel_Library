@@ -1,22 +1,21 @@
 ---
 title: Atos 18
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 18
 [[Atos 17| <-- Atos 17]] | [[Atos]] | [[Atos 19|Atos 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sendo rejeitado pelos judeus, Paulo volta-se para os gentios — Ele prega, ministra e viaja — Apolo também prega com poder.
 
----
 ###### 1 
 E depois disso partiu Paulo de Atenas, e chegou a Corinto.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Official Declaration 2
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Official Declaration 2

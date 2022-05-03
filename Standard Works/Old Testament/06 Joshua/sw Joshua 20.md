@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Six cities of refuge are appointed for those guilty of manslaughter.
 
----
 ###### 1 
 The  also spake unto Joshua, saying,
 

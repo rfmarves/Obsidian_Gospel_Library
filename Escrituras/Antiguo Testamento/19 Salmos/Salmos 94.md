@@ -1,22 +1,21 @@
 ---
 title: Salmos 94
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 94
 [[Salmos 93| <-- Salmos 93]] | [[Salmos]] | [[Salmos 95|Salmos 95 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/94?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/94?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová juzgará la tierra y a todos los hombres — Bienaventurado aquel a quien Jehová instruye y corrige — Jehová no abandonará a Su pueblo, pero destruirá a los inicuos.
 
----
 ###### 1 
 
 

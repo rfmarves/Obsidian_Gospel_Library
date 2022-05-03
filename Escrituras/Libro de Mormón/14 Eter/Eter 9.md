@@ -1,22 +1,21 @@
 ---
 title: Eter 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eter 9
 [[Eter 8| <-- Eter 8]] | [[Eter]] | [[Eter 10|Eter 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El reino pasa de uno a otro por descendencia, intrigas y asesinatos — Emer vio al Hijo de Justicia — Muchos profetas proclaman el arrepentimiento — Un hambre muy grande y serpientes venenosas afligen al pueblo.
 
----
 ###### 1 
 Y ahora yo, Moroni, prosigo mi relación. Sucedió, pues, que a causa de las combinaciones secretas de Akish y sus amigos, he aquí, derrocaron el reino de Omer.
 

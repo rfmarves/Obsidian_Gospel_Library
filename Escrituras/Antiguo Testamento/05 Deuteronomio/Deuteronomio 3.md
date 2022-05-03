@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 3
 [[Deuteronomio 2| <-- Deuteronomio 2]] | [[Deuteronomio]] | [[Deuteronomio 4|Deuteronomio 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de Israel destruyen al pueblo de Basán — Sus tierras, al oriente del Jordán, se dan a Rubén y a Gad — Moisés ve Canaán desde el Pisga, pero se le niega la entrada a ella — Moisés aconseja y fortalece a Josué.
 
----
 ###### 1 
 Y volvimos y subimos camino de Basán, y nos salió al encuentro Og, rey de Basán, para pelear, él y todo su pueblo, en Edrei.
 

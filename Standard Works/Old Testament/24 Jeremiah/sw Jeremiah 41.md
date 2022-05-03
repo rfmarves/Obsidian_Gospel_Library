@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 41
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 41
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/41?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ishmael kills Gedaliah and carries the people of Mizpah captive—They are rescued by Johanan.
 
----
 ###### 1 
 Now it came to pass in the seventh month,  Ishmael the son of Nethaniah the son of Elishama, of the seed royal, and the princes of the king, even ten men with him, came unto Gedaliah the son of Ahikam to Mizpah; and there they did eat bread together in Mizpah.
 

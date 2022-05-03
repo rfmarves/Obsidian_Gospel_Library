@@ -1,22 +1,21 @@
 ---
 title: 3 Juan 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Juan 1
 [[2 Juan 1| <-- 2 Juan 1]] | [[3 Juan]] | [[Judas 1|Judas 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/3-jn/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/3-jn/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Juan elogia a Gayo por la ayuda que este brinda a quienes aman la verdad.
 
----
 ###### 1 
 El anciano al muy amado Gayo, a quien yo amo en la verdad.
 

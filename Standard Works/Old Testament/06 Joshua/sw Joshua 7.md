@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is defeated by the people of Ai—Joshua complains to the Lord—Achan and his household are destroyed because he disobeyed the Lord by taking the spoils of Jericho.
 
----
 ###### 1 
 But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the  was kindled against the children of Israel.
 

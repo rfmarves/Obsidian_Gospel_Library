@@ -1,22 +1,21 @@
 ---
 title: Sofonías 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Sofonías 1
 [[Habacuc 3| <-- Habacuc 3]] | [[Sofonías]] | [[Sofonías 2|Sofonías 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zeph/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zeph/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La destrucción de Judá es un símbolo de la Segunda Venida — Es el día del sacrificio de Jehová, día de ira y de angustia.
 
----
 ###### 1 
 La palabra de Jehová que vino a Sofonías hijo de Cusi, hijo de Gedalías, hijo de Amarías, hijo de Ezequías, en los días de Josías hijo de Amón, rey de Judá:
 

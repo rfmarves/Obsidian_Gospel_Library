@@ -1,22 +1,21 @@
 ---
 title: Romanos 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 4
 [[Romanos 3| <-- Romanos 3]] | [[Romanos]] | [[Romanos 5|Romanos 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La fe de Abraham le fue contada por justicia — El hombre es justificado por la fe, por las obras justas y por la gracia.
 
----
 ###### 1 
 ¿Qué, pues, diremos que halló Abraham, nuestro padre, según la carne?
 

@@ -1,22 +1,21 @@
 ---
 title: Gênesis 35
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 35
 [[Gênesis 34| <-- Gênesis 34]] | [[Gênesis]] | [[Gênesis 36|Gênesis 36 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/35?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/35?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Deus envia Jacó a Betel, onde ele constrói um altar, e o Senhor lhe aparece — Deus renova a promessa de que Jacó será uma grande nação e volta a dizer que seu nome será Israel — Jacó ergue um altar e sobre ele derrama uma libação — Raquel dá à luz Benjamim, morre no parto e é sepultada perto de Belém — Rúben comete pecado com Bila — Isaque morre e é sepultado por Jacó e Esaú.
 
----
 ###### 1 
 Depois disse Deus a Jacó: Levanta-te, sobe a Betel, e habita ali; e faz ali um altar ao Deus que te apareceu, quando fugiste de diante da face de teu irmão Esaú.
 

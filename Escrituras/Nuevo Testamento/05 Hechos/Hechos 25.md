@@ -1,22 +1,21 @@
 ---
 title: Hechos 25
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 25
 [[Hechos 24| <-- Hechos 24]] | [[Hechos]] | [[Hechos 26|Hechos 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo apela a César ante Festo — Agripa desea oír a Pablo.
 
----
 ###### 1 
 Festo, pues, tres días después de haber llegado a la provincia, subió de Cesarea a Jerusalén.
 

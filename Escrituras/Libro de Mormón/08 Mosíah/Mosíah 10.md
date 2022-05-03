@@ -1,22 +1,21 @@
 ---
 title: Mosíah 10
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 10
 [[Mosíah 9| <-- Mosíah 9]] | [[Mosíah]] | [[Mosíah 11|Mosíah 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Muere el rey Lamán — Los de su pueblo son salvajes y feroces, y creen en tradiciones falsas — Zeniff y su pueblo prevalecen en contra de ellos. Aproximadamente 187–160 a.C.
 
----
 ###### 1 
 Y sucedió que de nuevo empezamos a establecer el reino y a poseer otra vez la tierra en paz. Y mandé hacer armas de guerra de todas clases, para que de ese modo yo tuviera armas para mi pueblo, para el día en que los lamanitas volvieran a la guerra contra mi pueblo.
 

@@ -1,22 +1,21 @@
 ---
 title: Hebreus 9
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreus 9
 [[Hebreus 8| <-- Hebreus 8]] | [[Hebreus]] | [[Hebreus 10|Hebreus 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 As ordenanças mosaicas prefiguravam o ministério de Cristo — Cristo é o Mediador do novo convênio.
 
----
 ###### 1 
 Ora, também o primeiro tinha ordenanças de serviço  e  santuário terrestre.
 

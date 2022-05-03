@@ -1,22 +1,21 @@
 ---
 title: Nehemías 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nehemías 10
 [[Nehemías 9| <-- Nehemías 9]] | [[Nehemías]] | [[Nehemías 11|Nehemías 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El pueblo hace convenio de no casarse fuera de Israel, de honrar el día de reposo, de pagar el diezmo y de guardar los mandamientos.
 
----
 ###### 1 
 Y los que firmaron fueron: Nehemías, el gobernador, hijo de Hacalías, y Sedequías,
 

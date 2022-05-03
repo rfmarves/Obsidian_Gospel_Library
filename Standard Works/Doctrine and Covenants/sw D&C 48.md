@@ -1,10 +1,11 @@
 ---
 title: sw D&C 48
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 48
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/48?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, The Saints in Ohio are to share their lands with their brethren; 4–6, The Saints are to purchase lands, build a city, and follow the counsel of their presiding officers.
 
----
 ###### 1 
 It is necessary that ye should remain for the present time in your places of abode, as it shall be suitable to your circumstances.
 

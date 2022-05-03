@@ -1,10 +1,11 @@
 ---
 title: sw 2 Corinthians 8
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Corinthians 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 True Saints impart of their substance to the poor—Christ, out of His poverty, brought eternal riches.
 
----
 ###### 1 
 Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;
 

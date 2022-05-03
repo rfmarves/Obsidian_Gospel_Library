@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 1
 [[Romanos 16| <-- Romanos 16]] | [[1 Coríntios]] | [[1 Coríntios 2|1 Coríntios 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os verdadeiros santos são perfeitamente unidos em um mesmo pensamento e em um mesmo parecer — Pregai o evangelho e salvai almas — O evangelho é pregado pelos fracos e simples.
 
----
 ###### 1 
 Paulo (chamado apóstolo de Jesus Cristo, pela vontade de Deus), e o irmão Sóstenes,
 

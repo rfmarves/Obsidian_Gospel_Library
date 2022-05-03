@@ -1,22 +1,21 @@
 ---
 title: Ester 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 9
 [[Ester 8| <-- Ester 8]] | [[Ester]] | [[Ester 10|Ester 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os judeus matam seus inimigos, inclusive os dez filhos de Hamã — A Festa de Purim é instituída para comemorar sua libertação e vitória.
 
----
 ###### 1 
 E no mês duodécimo, que  o mês de Adar, no dia treze do mesmo  em que chegou a palavra do rei e a sua ordem para a executar, no dia em que os inimigos dos judeus esperavam assenhorear-se deles, sucedeu o contrário, porque os judeus foram os que se assenhorearam dos que os odiavam.
 

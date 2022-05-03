@@ -1,22 +1,21 @@
 ---
 title: Mosíah 14
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 14
 [[Mosíah 13| <-- Mosíah 13]] | [[Mosíah]] | [[Mosíah 15|Mosíah 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Isaías habla en cuanto al Mesías — Se exponen la humillación y los sufrimientos del Mesías — Él hace de Su alma ofrenda por el pecado e intercede por los transgresores — Compárese con Isaías 53. Aproximadamente 148 a.C.
 
----
 ###### 1 
 Sí, ¿no dice Isaías: Quién ha creído nuestro mensaje, y a quién se ha manifestado el brazo del Señor?
 

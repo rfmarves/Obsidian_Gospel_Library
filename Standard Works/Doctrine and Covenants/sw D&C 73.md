@@ -1,10 +1,11 @@
 ---
 title: sw D&C 73
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 73
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/73?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–2, Elders are to continue to preach; 3–6, Joseph Smith and Sidney Rigdon are to continue to translate the Bible until it is finished.
 
----
 ###### 1 
 For verily, thus saith the Lord, it is expedient in me that they should continue preaching the gospel, and in exhortation to the churches in the regions round about, until conference;
 

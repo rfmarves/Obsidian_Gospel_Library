@@ -1,22 +1,21 @@
 ---
 title: Job 41
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 41
 [[Job 40| <-- Job 40]] | [[Job]] | [[Job 42|Job 42 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/41?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/41?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová da muestra de Su poder en el leviatán — Todo lo que hay debajo del cielo es de Jehová.
 
----
 ###### 1 
 
 

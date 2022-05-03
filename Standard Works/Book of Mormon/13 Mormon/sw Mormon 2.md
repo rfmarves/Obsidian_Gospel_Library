@@ -1,10 +1,11 @@
 ---
 title: sw Mormon 2
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mormon 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mormon leads the Nephite armies—Blood and carnage sweep the land—The Nephites lament and mourn with the sorrowing of the damned—Their day of grace is passed—Mormon obtains the plates of Nephi—Wars continue. About A.D. 327–50.
 
----
 ###### 1 
 And it came to pass in that same year there began to be a war again between the Nephites and the Lamanites. And notwithstanding I being young, was large in stature; therefore the people of Nephi appointed me that I should be their leader, or the leader of their armies.
 

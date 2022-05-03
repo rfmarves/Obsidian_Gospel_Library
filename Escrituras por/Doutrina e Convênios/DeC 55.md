@@ -1,22 +1,21 @@
 ---
 title: DeC 55
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 55
 [[DeC 54| <-- DeC 54]] | [[DeC]] | [[DeC 56|DeC 56 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/55?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/55?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, William W. Phelps é chamado e escolhido para ser batizado, ser ordenado élder e pregar o evangelho; 4, Também deve escrever livros para as crianças das escolas da Igreja; 5–6, Deve viajar para o Estado de Missouri, que será a área de suas tarefas.
 
----
 ###### 1 
 Eis que assim te diz o Senhor, meu servo William, sim, o Senhor de toda a Terra: Foste chamado e escolhido; e depois que tiveres sido batizado com água e se o fizeres com os olhos fitos unicamente na minha glória, terás a remissão de teus pecados e receberás o Santo Espírito pela imposição de mãos;
 

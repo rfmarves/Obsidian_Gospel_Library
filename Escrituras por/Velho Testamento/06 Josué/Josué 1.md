@@ -1,22 +1,21 @@
 ---
 title: Josué 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 1
 [[Deuteronômio 34| <-- Deuteronômio 34]] | [[Josué]] | [[Josué 2|Josué 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor fala a Josué — Ordena-se que ele seja corajoso, que medite sobre a lei e que guarde os mandamentos — Josué prepara Israel para entrar em Canaã.
 
----
 ###### 1 
 E sucedeu depois da morte de Moisés, servo do , que o  falou a Josué, filho de Num, servo de Moisés, dizendo:
 

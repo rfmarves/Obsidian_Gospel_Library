@@ -1,22 +1,21 @@
 ---
 title: Éxodo 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 9
 [[Éxodo 8| <-- Éxodo 8]] | [[Éxodo]] | [[Éxodo 10|Éxodo 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová destruye el ganado de los egipcios, pero no el de los israelitas — Se envían sarpullido y úlceras sobre los egipcios — Jehová envía granizo y fuego sobre el pueblo de Faraón, mas no sobre el pueblo de Israel.
 
----
 ###### 1 
 Entonces Jehová dijo a Moisés: Ve a Faraón y dile: Jehová, el Dios de los hebreos, dice así: Deja ir a mi pueblo para que me sirva,
 

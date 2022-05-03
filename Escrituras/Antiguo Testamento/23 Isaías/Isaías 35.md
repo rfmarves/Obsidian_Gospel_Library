@@ -1,22 +1,21 @@
 ---
 title: Isaías 35
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 35
 [[Isaías 34| <-- Isaías 34]] | [[Isaías]] | [[Isaías 36|Isaías 36 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/35?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/35?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En el día de la restauración, el desierto florecerá, el Señor vendrá, Israel será recogido y se establecerá Sion.
 
----
 ###### 1 
 Se alegrarán el desierto y el erial; y el yermo se regocijará y florecerá como la rosa.
 

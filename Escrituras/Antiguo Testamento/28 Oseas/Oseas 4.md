@@ -1,22 +1,21 @@
 ---
 title: Oseas 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseas 4
 [[Oseas 3| <-- Oseas 3]] | [[Oseas]] | [[Oseas 5|Oseas 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel pierde toda verdad, toda misericordia y todo conocimiento de Dios y se prostituye en pos de dioses falsos.
 
----
 ###### 1 
 Oíd la palabra de Jehová, hijos de Israel, porque Jehová contiende con los moradores de la tierra, porque no hay verdad, ni misericordia ni conocimiento de Dios en la tierra.
 

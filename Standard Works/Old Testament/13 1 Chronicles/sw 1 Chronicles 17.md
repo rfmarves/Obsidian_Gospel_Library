@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nathan first approves David’s building of a house of the Lord, then restrains him—David’s son will build the temple—The triumph of Israel is foretold—David thanks the Lord for His goodness to Israel.
 
----
 ###### 1 
 Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of the   under curtains.
 

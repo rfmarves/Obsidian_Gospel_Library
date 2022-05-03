@@ -1,22 +1,21 @@
 ---
 title: Jacó 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jacó 7
 [[Jacó 6| <-- Jacó 6]] | [[Jacó]] | [[Enos 1|Enos 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Serém nega a Cristo, contende com Jacó, exige um sinal e é ferido por Deus — Todos os profetas falaram sobre Cristo e Sua Expiação — Os nefitas viveram seus dias como errantes, nascidos em meio a tribulações e odiados pelos lamanitas. Aproximadamente 544–421 a.C.
 
----
 ###### 1 
 E então aconteceu que, passados alguns anos, apareceu entre o povo de Néfi um homem cujo nome era Serém.
 

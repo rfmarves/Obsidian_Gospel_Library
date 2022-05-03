@@ -1,22 +1,21 @@
 ---
 title: Mateo 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 2
 [[Mateo 1| <-- Mateo 1]] | [[Mateo]] | [[Mateo 3|Mateo 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los magos son guiados hacia Jesús por una estrella — José lleva al niño a Egipto — Herodes manda matar a los niños de Belén — Jesús es llevado a Nazaret.
 
----
 ###### 1 
 Y cuando Jesús nació en Belén de Judea en los días del rey Herodes, he aquí, unos magos vinieron del oriente a Jerusalén,
 

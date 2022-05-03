@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 9
 [[1 Samuel 8| <-- 1 Samuel 8]] | [[1 Samuel]] | [[1 Samuel 10|1 Samuel 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Saúl hijo de Cis, de la tribu de Benjamín, es un joven escogido y apuesto — Se le envía a buscar las asnas de su padre — Jehová le revela a Samuel, el vidente, que Saúl ha de ser rey — Saúl visita a Samuel y este lo atiende.
 
----
 ###### 1 
 Y había un hombre de Benjamín, hombre valeroso, el cual se llamaba Cis hijo de Abiel, hijo de Zeror, hijo de Becorat, hijo de Afía, hijo de un hombre de Benjamín.
 

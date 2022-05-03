@@ -1,22 +1,21 @@
 ---
 title: Hebreos 8
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreos 8
 [[Hebreos 7| <-- Hebreos 7]] | [[Hebreos]] | [[Hebreos 9|Hebreos 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cristo se ofreció como sacrificio por el pecado — Dios prometió concertar un nuevo convenio con Israel.
 
----
 ###### 1 
 Ahora bien, el punto principal de lo que venimos diciendo es que tenemos tal sumo sacerdote, que se sentó a la diestra del trono de la Majestad en los cielos,
 

@@ -1,22 +1,21 @@
 ---
 title: DeC 20
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 20
 [[DeC 19| <-- DeC 19]] | [[DeC]] | [[DeC 21|DeC 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–16, O Livro de Mórmon prova a divindade da obra dos últimos dias; 17–28, Confirmadas as doutrinas da criação, queda, expiação e batismo; 29–37, Estabelecidas as leis que governam o arrependimento, a justificação, a santificação e o batismo; 38–67, Resumidos os deveres dos élderes, sacerdotes, mestres e diáconos; 68–74, Revelados os deveres dos membros, a bênção de crianças e o modo de batizar; 75–84, Dadas as orações sacramentais e as regras que governam os membros da Igreja.
 
----
 ###### 1 
 O surgimento da Igreja de Cristo nestes últimos dias, sendo mil oitocentos e trinta anos depois da vinda de nosso Senhor e Salvador Jesus Cristo na carne, tendo a Igreja sido devidamente organizada e estabelecida em conformidade com as leis de nosso país, pela vontade e mandamentos de Deus, no quarto mês e no sexto dia do mês que é chamado abril —
 

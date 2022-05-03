@@ -1,22 +1,21 @@
 ---
 title: Jeremías 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 3
 [[Jeremías 2| <-- Jeremías 2]] | [[Jeremías]] | [[Jeremías 4|Jeremías 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel y Judá profanaron y contaminaron la tierra con maldad — En los últimos días, Jehová recogerá al pueblo de Israel, uno de cada ciudad y dos de cada familia, y los llevará a Sion.
 
----
 ###### 1 
 Dicen: Si alguno se divorcia de su esposa, y esta se va de él y se junta a otro hombre, ¿volverá de nuevo a ella? ¿No será tal tierra del todo profanada? Tú, pues, has fornicado con muchos amantes; mas vuélvete a mí, dice Jehová.
 

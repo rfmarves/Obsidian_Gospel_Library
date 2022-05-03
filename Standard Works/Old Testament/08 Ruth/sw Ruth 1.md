@@ -1,10 +1,11 @@
 ---
 title: sw Ruth 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ruth 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ruth/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Elimelech and his family go to Moab because of famine—His sons marry—The father and sons die—Ruth, the Moabitess, her husband having died, remains constant to Naomi—They come to Bethlehem.
 
----
 ###### 1 
 Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Beth-lehem-judah went to sojourn in the country of Moab, he, and his wife, and his two sons.
 

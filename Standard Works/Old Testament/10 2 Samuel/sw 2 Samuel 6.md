@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 David takes the ark to the city of David—Uzzah is smitten for steadying the ark and dies—David dances before the Lord, causing a breach between him and Michal.
 
----
 ###### 1 
 Again, David gathered together all  chosen  of Israel, thirty thousand.
 

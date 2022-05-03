@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jonathan loves David—Saul sets David over his armies—David is honored by the people, and Saul becomes jealous—David marries Michal, a daughter of Saul.
 
----
 ###### 1 
 And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.
 

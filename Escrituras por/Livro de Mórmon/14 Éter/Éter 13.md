@@ -1,22 +1,21 @@
 ---
 title: Éter 13
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éter 13
 [[Éter 12| <-- Éter 12]] | [[Éter]] | [[Éter 14|Éter 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Éter fala de uma Nova Jerusalém a ser construída na América pela semente de José — Ele profetiza, é expulso, escreve a história jaredita e prediz a destruição dos jareditas — A guerra assola toda a terra.
 
----
 ###### 1 
 E agora eu, Morôni, prossigo, a fim de acabar meu registro a respeito da destruição do povo sobre o qual tenho escrito.
 

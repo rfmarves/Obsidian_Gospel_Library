@@ -1,22 +1,21 @@
 ---
 title: DeC 67
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 67
 [[DeC 66| <-- DeC 66]] | [[DeC]] | [[DeC 68|DeC 68 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/67?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/67?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, O Senhor ouve as orações de Seus élderes e zela por eles; 4–9, Ele desafia a pessoa mais sábia a duplicar a menor de Suas revelações; 10–14, Os élderes fiéis serão vivificados pelo Espírito e verão a face de Deus.
 
----
 ###### 1 
 Eis aqui, escutai, ó élderes da minha igreja que vos reunistes, cujas orações ouvi e cujo coração conheço e cujos desejos subiram a mim.
 

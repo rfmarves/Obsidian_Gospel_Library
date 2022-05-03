@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Noah and his sons are commanded to multiply and fill the earth—They are given dominion over all forms of life—The death penalty is decreed for murder—God will not again destroy the earth by a flood—Canaan is cursed; Shem and Japheth are blessed.
 
----
 ###### 1 
 And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.
 

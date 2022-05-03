@@ -1,10 +1,11 @@
 ---
 title: sw Alma 43
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 43
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/43?lang=eng)
 
----
-__Summary__
+> __Summary__
 Alma and his sons preach the word—The Zoramites and other Nephite dissenters become Lamanites—The Lamanites come against the Nephites in war—Moroni arms the Nephites with defensive armor—The Lord reveals to Alma the strategy of the Lamanites—The Nephites defend their homes, liberties, families, and religion—The armies of Moroni and Lehi surround the Lamanites. About 74 B.C.
 
----
 ###### 1 
 And now it came to pass that the sons of Alma did go forth among the people, to declare the word unto them. And Alma, also, himself, could not rest, and he also went forth.
 

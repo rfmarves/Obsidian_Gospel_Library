@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 3
 [[2 Reyes 2| <-- 2 Reyes 2]] | [[2 Reyes]] | [[2 Reyes 4|2 Reyes 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Joram, de Israel, y Josafat, de Judá, unen fuerzas contra Moab — Eliseo les promete agua para los animales y la victoria en la guerra — Los moabitas son derrotados.
 
----
 ###### 1 
 Y Joram hijo de Acab comenzó a reinar en Samaria sobre Israel en el año dieciocho de Josafat, rey de Judá; y reinó doce años.
 

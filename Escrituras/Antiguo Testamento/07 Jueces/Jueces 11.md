@@ -1,22 +1,21 @@
 ---
 title: Jueces 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 11
 [[Jueces 10| <-- Jueces 10]] | [[Jueces]] | [[Jueces 12|Jueces 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jefté es escogido como capitán de los ejércitos de Israel — Los amonitas atacan a Israel en guerra — Jefté es guiado por el Espíritu y derrota a Amón con gran mortandad — Hace un voto precipitado que lo lleva a ofrecer en sacrificio a su única hija.
 
----
 ###### 1 
 Y Jefté, el galaadita, era un guerrero valiente, hijo de una ramera, al que había engendrado Galaad.
 

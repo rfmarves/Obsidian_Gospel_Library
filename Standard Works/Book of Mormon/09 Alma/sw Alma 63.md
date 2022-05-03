@@ -1,10 +1,11 @@
 ---
 title: sw Alma 63
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 63
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/63?lang=eng)
 
----
-__Summary__
+> __Summary__
 Shiblon and later Helaman take possession of the sacred records—Many Nephites travel to the land northward—Hagoth builds ships, which sail forth in the west sea—Moronihah defeats the Lamanites in battle. About 56–52 B.C.
 
----
 ###### 1 
 And it came to pass in the commencement of the thirty and sixth year of the reign of the judges over the people of Nephi, that Shiblon took possession of those sacred things which had been delivered unto Helaman by Alma.
 

@@ -1,22 +1,21 @@
 ---
 title: Marcos 6
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 6
 [[Marcos 5| <-- Marcos 5]] | [[Marcos]] | [[Marcos 7|Marcos 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus envia os Doze — João Batista é decapitado por Herodes — Nosso Senhor alimenta cinco mil, caminha sobre as águas e cura multidões.
 
----
 ###### 1 
 E partiu dali, e chegou à sua pátria, e os seus discípulos o seguiram.
 

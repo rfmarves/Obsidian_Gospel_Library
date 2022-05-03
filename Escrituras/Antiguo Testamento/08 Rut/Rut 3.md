@@ -1,22 +1,21 @@
 ---
 title: Rut 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Rut 3
 [[Rut 2| <-- Rut 2]] | [[Rut]] | [[Rut 4|Rut 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ruth/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ruth/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Por consejo de Noemí, Rut se acuesta a los pies de Booz — Booz promete, como pariente, hacerla su esposa.
 
----
 ###### 1 
 Y le dijo su suegra Noemí: Hija mía, ¿no he de buscar hogar para ti, para que te vaya bien?
 

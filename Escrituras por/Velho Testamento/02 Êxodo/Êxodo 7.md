@@ -1,22 +1,21 @@
 ---
 title: Êxodo 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 7
 [[Êxodo 6| <-- Êxodo 6]] | [[Êxodo]] | [[Êxodo 8|Êxodo 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés é encarregado de levar a palavra do Senhor a Faraó — O Senhor multiplicará os sinais e maravilhas no Egito — A vara de Aarão se transforma em serpente — O rio se torna em sangue — Os magos imitam os milagres de Moisés e Aarão.
 
----
 ###### 1 
 Então disse o  a Moisés: Eis que te pus  deus sobre Faraó, e Aarão, teu irmão, será o teu profeta.
 

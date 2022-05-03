@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 9
 [[1 Nefi 8| <-- 1 Nefi 8]] | [[1 Nefi]] | [[1 Nefi 10|1 Nefi 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nefi prepara dos juegos de anales — A cada uno se da el nombre de planchas de Nefi — Las planchas mayores contienen una historia seglar; las menores tienen que ver principalmente con cosas sagradas. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 Y todas estas cosas mi padre vio, oyó y dijo mientras vivía en una tienda en el valle de Lemuel, como también muchísimas otras cosas más que no se pueden escribir sobre estas planchas.
 

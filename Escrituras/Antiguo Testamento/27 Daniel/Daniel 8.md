@@ -1,22 +1,21 @@
 ---
 title: Daniel 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 8
 [[Daniel 7| <-- Daniel 7]] | [[Daniel]] | [[Daniel 9|Daniel 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Daniel ve en visión un carnero (Media y Persia), un macho cabrío (Grecia), otros cuatro reyes, y luego, en los últimos días, ve un rey altivo que destruirá al pueblo de los santos — Este rey será quebrantado cuando se levante contra el Príncipe de los príncipes.
 
----
 ###### 1 
 En el año tercero del reinado del rey Belsasar, me apareció una visión a mí, Daniel, después de aquella que me había aparecido antes.
 

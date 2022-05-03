@@ -1,22 +1,21 @@
 ---
 title: Daniel 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 6
 [[Daniel 5| <-- Daniel 5]] | [[Daniel]] | [[Daniel 7|Daniel 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Darío nombra a Daniel uno de sus gobernadores — Daniel adora a Dios, desobedeciendo así al decreto de Darío — Se le echa al foso de los leones — Su fe lo salva, y Darío decreta que todos han de venerar al Dios de Daniel.
 
----
 ###### 1 
 Pareció bien a Darío constituir sobre el reino a ciento veinte sátrapas que estuviesen en todo el reino.
 

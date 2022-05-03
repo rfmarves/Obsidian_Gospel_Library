@@ -1,10 +1,11 @@
 ---
 title: sw Song of Solomon 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Song of Solomon 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 A love song concerning Solomon is presented.
 
----
 ###### 1 
 By night on my bed I sought him whom my soul loveth: I sought him, but I found him not.
 

@@ -1,22 +1,21 @@
 ---
 title: DeC 36
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 36
 [[DeC 35| <-- DeC 35]] | [[DeC]] | [[DeC 37|DeC 37 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/36?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/36?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, O Senhor impõe a Sua mão sobre Edward Partridge pela mão de Sidney Rigdon; 4–8, Todo homem que receber o evangelho e o sacerdócio deve ser chamado para sair a pregar.
 
----
 ###### 1 
 Assim diz o Senhor Deus, o Poderoso de Israel: Eis que te digo, meu servo Edward, que bendito és tu e teus pecados te são perdoados; e és chamado para pregar o meu evangelho como com a voz de uma trombeta.
 

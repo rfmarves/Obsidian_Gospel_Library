@@ -1,22 +1,21 @@
 ---
 title: Eter 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eter 6
 [[Eter 5| <-- Eter 5]] | [[Eter]] | [[Eter 7|Eter 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los vientos impelen los barcos jareditas a la tierra prometida — El pueblo alaba al Señor por Su bondad — Oríah es nombrado rey — Mueren Jared y su hermano.
 
----
 ###### 1 
 Y ahora yo, Moroni, procedo a dar la historia de Jared y su hermano.
 

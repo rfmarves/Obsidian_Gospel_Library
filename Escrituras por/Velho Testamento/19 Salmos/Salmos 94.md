@@ -1,22 +1,21 @@
 ---
 title: Salmos 94
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 94
 [[Salmos 93| <-- Salmos 93]] | [[Salmos]] | [[Salmos 95|Salmos 95 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/94?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/94?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor julgará a Terra e todos os homens — Bem-aventurado é aquele que o Senhor ensina e castiga — O Senhor não rejeitará o Seu povo, mas destruirá os iníquos.
 
----
 ###### 1 
 Ó  Deus, a quem a vingança pertence, ó Deus, a quem a vingança pertence, mostra-te resplandecente.
 

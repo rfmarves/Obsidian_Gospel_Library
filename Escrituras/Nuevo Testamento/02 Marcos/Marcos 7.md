@@ -1,22 +1,21 @@
 ---
 title: Marcos 7
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 7
 [[Marcos 6| <-- Marcos 6]] | [[Marcos]] | [[Marcos 8|Marcos 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús reprende a los fariseos por sus falsas tradiciones y ceremonias — De la hija de una mujer griega echa fuera a un demonio — Jesús le abre los oídos y le suelta la lengua a una persona sorda y tartamuda.
 
----
 ###### 1 
 Y se reunieron con Jesús los fariseos y algunos de los escribas que habían venido de Jerusalén;
 

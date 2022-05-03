@@ -1,10 +1,11 @@
 ---
 title: sw Alma 6
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Church in Zarahemla is cleansed and set in order—Alma goes to Gideon to preach. About 83 B.C.
 
----
 ###### 1 
 And now it came to pass that after Alma had made an end of speaking unto the people of the church, which was established in the city of Zarahemla, he ordained priests and elders, by laying on his hands according to the order of God, to preside and watch over the church.
 

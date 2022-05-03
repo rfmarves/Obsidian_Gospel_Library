@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 77
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 77
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/77?lang=eng)
 
----
+```
 To the chief Musician, to Jeduthun, A Psalm of Asaph.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The righteous cry unto the Lord—They remember the wonders of old, how He redeemed the sons of Jacob and led Israel like a flock.
 
----
 ###### 1 
 I cried unto God with my voice,  unto God with my voice; and he gave ear unto me.
 

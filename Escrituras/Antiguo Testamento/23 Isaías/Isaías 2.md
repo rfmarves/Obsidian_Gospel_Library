@@ -1,22 +1,21 @@
 ---
 title: Isaías 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 2
 [[Isaías 1| <-- Isaías 1]] | [[Isaías]] | [[Isaías 3|Isaías 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Isaías ve el templo de los postreros días, el recogimiento de Israel, el juicio y la paz milenarios — Los altivos y los inicuos serán humillados en la Segunda Venida — Compárese con 2 Nefi 12.
 
----
 ###### 1 
 Lo que vio Isaías hijo de Amoz tocante a Judá y a Jerusalén.
 

@@ -1,22 +1,21 @@
 ---
 title: Lamentaciones 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lamentaciones 2
 [[Lamentaciones 1| <-- Lamentaciones 1]] | [[Lamentaciones]] | [[Lamentaciones 3|Lamentaciones 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lam/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lam/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El sufrimiento, el dolor y la desolación prevalecen en Jerusalén.
 
----
 ###### 1 
 
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 14
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 14
 [[1 Coríntios 13| <-- 1 Coríntios 13]] | [[1 Coríntios]] | [[1 Coríntios 15|1 Coríntios 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 As pessoas devem desejar dons espirituais — Compara-se o dom de línguas com o de profecia — O dom da profecia é maior — Paulo diz: Todos podereis profetizar; procurai, com zelo, profetizar.
 
----
 ###### 1 
 Segui a caridade, e procurai com zelo os  espirituais, mas principalmente o de profetizar.
 

@@ -1,22 +1,21 @@
 ---
 title: Romanos 10
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 10
 [[Romanos 9| <-- Romanos 9]] | [[Romanos]] | [[Romanos 11|Romanos 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Quienes creen en Cristo reciben la salvación por medio de la rectitud — La fe viene por oír el Evangelio que enseñan ministros autorizados y enviados por Dios.
 
----
 ###### 1 
 Hermanos, ciertamente el anhelo de mi corazón, y mi oración a Dios por Israel, es para salvación.
 

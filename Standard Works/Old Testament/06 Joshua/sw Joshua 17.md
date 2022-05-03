@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Manasseh and Ephraim both receive an additional inheritance—Ephraim is to drive out the Canaanites from the hill country.
 
----
 ###### 1 
 There was also a lot for the tribe of Manasseh; for he  the firstborn of Joseph;  for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan.
 

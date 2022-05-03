@@ -1,22 +1,21 @@
 ---
 title: Mosias 18
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 18
 [[Mosias 17| <-- Mosias 17]] | [[Mosias]] | [[Mosias 19|Mosias 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Alma prega secretamente — Expõe o convênio do batismo e batiza nas águas de Mórmon — Organiza a Igreja de Cristo e ordena sacerdotes — Eles trabalham para seu próprio sustento e ensinam o povo — Alma e seu povo fogem do rei Noé, indo para o deserto. Aproximadamente 147–145 a.C.
 
----
 ###### 1 
 E então aconteceu que Alma, que havia fugido dos servos do rei Noé, arrependeu-se de seus pecados e iniquidades; e andando secretamente entre o povo, começou a ensinar as palavras de Abinádi;
 

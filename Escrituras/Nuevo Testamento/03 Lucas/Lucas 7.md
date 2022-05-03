@@ -1,22 +1,21 @@
 ---
 title: Lucas 7
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 7
 [[Lucas 6| <-- Lucas 6]] | [[Lucas]] | [[Lucas 8|Lucas 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús sana al siervo de un centurión — Levanta de la muerte al hijo de la viuda de Naín — Elogia a Juan el Bautista y afirma que es más que profeta — Una mujer unge los pies de Jesús y Él le perdona los pecados.
 
----
 ###### 1 
 Y después que  acabó todas sus palabras al pueblo que le oía, entró en Capernaúm.
 

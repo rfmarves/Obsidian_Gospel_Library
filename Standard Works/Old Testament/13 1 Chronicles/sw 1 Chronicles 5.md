@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The sons of Joseph received Reuben’s birthright—Judah and his descendants became rulers in Israel—The line of Reuben down to the captivity is given—The Assyrians carry the Reubenites, Gadites, and half of Manasseh into captivity.
 
----
 ###### 1 
 Now the sons of Reuben the firstborn of Israel, (for he  the firstborn; but, forasmuch as he defiled his father’s bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright.
 

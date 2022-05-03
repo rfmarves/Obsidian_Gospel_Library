@@ -1,22 +1,21 @@
 ---
 title: Romanos 8
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 8
 [[Romanos 7| <-- Romanos 7]] | [[Romanos]] | [[Romanos 9|Romanos 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A lei de Cristo traz vida e paz — Aqueles que são adotados como filhos de Deus tornam-se co-herdeiros com Cristo — Os eleitos de Deus são preordenados para a vida eterna — Cristo intercede pelo homem.
 
----
 ###### 1 
 Portanto, agora nenhuma condenação  para os que  em Cristo Jesus, que não andam segundo a carne, mas segundo o Espírito.
 

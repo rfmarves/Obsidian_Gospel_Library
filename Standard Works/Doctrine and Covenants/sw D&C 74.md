@@ -1,10 +1,11 @@
 ---
 title: sw D&C 74
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 74
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/74?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, Paul counsels the Church of his day not to keep the law of Moses; 6–7, Little children are holy and are sanctified through the Atonement.
 
----
 ###### 1 
 For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband; else were your children unclean, but now are they holy.
 

@@ -1,25 +1,24 @@
 ---
 title: Moisés 7
-tags: #Escrituras\PdGV
+tags: Escrituras\PdGV
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moisés 7
 [[Moisés 6| <-- Moisés 6]] | [[Moisés]] | [[Moisés 8|Moisés 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=por)
 
 Moisés
 (Dezembro de 1830)
 
----
-__Resumo__
+> __Resumo__
 Enoque ensina, guia o povo e move montanhas — Estabelecida a cidade de Sião — Enoque prevê a vinda do Filho do Homem, Seu sacrifício expiatório e a ressurreição dos santos — Ele prevê a Restauração, a Coligação, a Segunda Vinda e o retorno de Sião.
 
----
 ###### 1 
 E aconteceu que Enoque continuou a falar, dizendo: Eis que nosso pai Adão ensinou estas coisas e muitos acreditaram e tornaram-se filhos de Deus; e muitos não acreditaram e pereceram em seus pecados e esperam com temor, em tormento, que a ardente indignação da ira de Deus se derrame sobre eles.
 

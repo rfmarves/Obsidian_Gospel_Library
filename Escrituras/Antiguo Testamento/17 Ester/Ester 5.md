@@ -1,22 +1,21 @@
 ---
 title: Ester 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 5
 [[Ester 4| <-- Ester 4]] | [[Ester]] | [[Ester 6|Ester 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El rey recibe a Ester — Ester invita al rey y a Amán a un banquete — Amán forja un plan para ahorcar a Mardoqueo.
 
----
 ###### 1 
 Y aconteció que al tercer día se vistió Ester con su vestidura real y entró en el patio interior del palacio del rey, frente a los aposentos del rey; y estaba el rey sentado en su trono real en la sala real, frente a la entrada del palacio.
 

@@ -1,22 +1,21 @@
 ---
 title: Juízes 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 17
 [[Juízes 16| <-- Juízes 16]] | [[Juízes]] | [[Juízes 18|Juízes 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mica tem uma casa de deuses (imagens) e consagra seus próprios sacerdotes.
 
----
 ###### 1 
 E havia um homem da montanha de Efraim, cujo nome  Mica.
 

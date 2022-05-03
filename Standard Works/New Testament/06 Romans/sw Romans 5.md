@@ -1,10 +1,11 @@
 ---
 title: sw Romans 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Man is justified through the blood of Christ—Adam fell, and Christ atoned that man might be saved.
 
----
 ###### 1 
 Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:
 

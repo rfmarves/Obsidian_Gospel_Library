@@ -1,10 +1,11 @@
 ---
 title: sw Joel 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joel 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/joel/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Call a solemn assembly and gather to the house of the Lord, for the day of the Lord is at hand.
 
----
 ###### 1 
 The word of the  that came to Joel the son of Pethuel.
 

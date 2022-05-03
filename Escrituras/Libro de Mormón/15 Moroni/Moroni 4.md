@@ -1,22 +1,21 @@
 ---
 title: Moroni 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moroni 4
 [[Moroni 3| <-- Moroni 3]] | [[Moroni]] | [[Moroni 5|Moroni 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se expone la forma en que los élderes y los presbíteros administran el pan sacramental. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 La forma en que sus élderes y presbíteros administraban la carne y la sangre de Cristo a la iglesia; y las administraban de acuerdo con los mandamientos de Cristo; por tanto, sabemos que la manera es correcta; y el élder o el presbítero las administraba.
 

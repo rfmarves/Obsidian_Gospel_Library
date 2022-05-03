@@ -1,10 +1,11 @@
 ---
 title: sw D&C 60
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 60
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/60?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–9, The elders are to preach the gospel in the congregations of the wicked; 10–14, They should not idle away their time, nor bury their talents; 15–17, They may wash their feet as a testimony against those who reject the gospel.
 
----
 ###### 1 
 Behold, thus saith the Lord unto the elders of his church, who are to return speedily to the land from whence they came: Behold, it pleaseth me, that you have come up hither;
 

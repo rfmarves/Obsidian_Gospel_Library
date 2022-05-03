@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 29
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel and the Philistines gather for war—The Philistine princes send David away.
 
----
 ###### 1 
 Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which  in Jezreel.
 

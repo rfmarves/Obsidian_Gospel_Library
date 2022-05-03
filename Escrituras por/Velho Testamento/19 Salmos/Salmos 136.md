@@ -1,22 +1,21 @@
 ---
 title: Salmos 136
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 136
 [[Salmos 135| <-- Salmos 135]] | [[Salmos]] | [[Salmos 137|Salmos 137 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/136?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/136?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Louvai a Deus por todas as coisas, porque a Sua benignidade dura para sempre.
 
----
 ###### 1 
 Louvai ao , porque  bom, porque a sua benignidade  para sempre.
 

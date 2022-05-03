@@ -1,22 +1,21 @@
 ---
 title: Romanos 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 3
 [[Romanos 2| <-- Romanos 2]] | [[Romanos]] | [[Romanos 4|Romanos 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O homem não é justificado pela lei de Moisés — Ele é justificado pela retidão, que vem pela fé em Cristo, o que se tornou possível graças ao sacrifício expiatório de Cristo.
 
----
 ###### 1 
 Qual é, pois, a vantagem do judeu? Ou qual a utilidade da circuncisão?
 

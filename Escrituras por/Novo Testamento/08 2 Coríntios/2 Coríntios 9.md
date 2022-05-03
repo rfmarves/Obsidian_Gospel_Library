@@ -1,22 +1,21 @@
 ---
 title: 2 Coríntios 9
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Coríntios 9
 [[2 Coríntios 8| <-- 2 Coríntios 8]] | [[2 Coríntios]] | [[2 Coríntios 10|2 Coríntios 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Deus ama e recompensa o que doa com alegria — Graças a Deus pelo Seu dom inefável.
 
----
 ###### 1 
 Quanto à assistência que se  a favor dos santos, não necessito escrever-vos;
 

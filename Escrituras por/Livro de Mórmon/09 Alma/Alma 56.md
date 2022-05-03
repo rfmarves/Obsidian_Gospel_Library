@@ -1,22 +1,21 @@
 ---
 title: Alma 56
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 56
 [[Alma 55| <-- Alma 55]] | [[Alma]] | [[Alma 57|Alma 57 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/56?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/56?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Helamã envia uma epístola a Morôni, relatando a situação da guerra com os lamanitas — Antipus e Helamã obtêm uma grande vitória sobre os lamanitas — Os dois mil jovens filhos de Helamã lutam com força miraculosa e nenhum deles é morto. Vers. 1, aproximadamente 62 a.C.; Vers. 2–19, aproximadamente 66 a.C.; e Vers. 20–57, aproximadamente 65–64 a.C.
 
----
 ###### 1 
 E então aconteceu que no começo do trigésimo ano do governo dos juízes, no segundo dia do primeiro mês, Morôni recebeu uma epístola de Helamã, relatando as condições do povo naquela parte da terra.
 

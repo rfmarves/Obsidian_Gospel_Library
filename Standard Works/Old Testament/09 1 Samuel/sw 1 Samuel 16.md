@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord chooses David of Bethlehem as king—He is anointed by Samuel—Saul chooses David as his companion and armor bearer.
 
----
 ###### 1 
 And the  said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Beth-lehemite: for I have provided me a king among his sons.
 

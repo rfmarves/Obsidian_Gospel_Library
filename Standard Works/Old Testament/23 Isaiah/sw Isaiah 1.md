@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people of Israel are apostate, rebellious, and corrupt; only a few remain faithful—The people’s sacrifices and feasts are rejected—They are called upon to repent and work righteousness—Zion will be redeemed in the day of restoration.
 
----
 ###### 1 
 The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz,  Hezekiah, kings of Judah.
 

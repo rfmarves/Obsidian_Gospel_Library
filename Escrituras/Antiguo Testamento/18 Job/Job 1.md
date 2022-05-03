@@ -1,22 +1,21 @@
 ---
 title: Job 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 1
 [[Ester 10| <-- Ester 10]] | [[Job]] | [[Job 2|Job 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Job, hombre justo y perfecto, es bendecido con grandes riquezas — Satanás recibe permiso de Jehová para tentar a Job y ponerle a prueba — Las propiedades y los hijos de este son destruidos, y aun así alaba y bendice a Jehová.
 
----
 ###### 1 
 Hubo en la tierra de Uz un hombre llamado Job; y era este hombre perfecto y recto, y temeroso de Dios y apartado del mal.
 

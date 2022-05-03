@@ -1,22 +1,21 @@
 ---
 title: 1 Corintios 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Corintios 1
 [[Romanos 16| <-- Romanos 16]] | [[1 Corintios]] | [[1 Corintios 2|1 Corintios 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los verdaderos santos están perfectamente unidos en una misma mente y en un mismo parecer — Predicad el Evangelio y salvad almas — El Evangelio es predicado por los débiles y sencillos.
 
----
 ###### 1 
 Pablo, llamado a ser apóstol de Jesucristo por la voluntad de Dios, y el hermano Sóstenes,
 

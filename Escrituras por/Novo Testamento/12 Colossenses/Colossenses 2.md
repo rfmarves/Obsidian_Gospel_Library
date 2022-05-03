@@ -1,22 +1,21 @@
 ---
 title: Colossenses 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Colossenses 2
 [[Colossenses 1| <-- Colossenses 1]] | [[Colossenses]] | [[Colossenses 3|Colossenses 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/col/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/col/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A plenitude da Divindade habita em Cristo — Acautelai-vos para não ser enganados pelas tradições dos homens — O escrito que havia contra nós foi pregado na cruz de Cristo.
 
----
 ###### 1 
 Porque quero que saibais quão grande combate tenho por vós, e pelos que  em Laodiceia, e por quantos não viram o meu rosto na carne;
 

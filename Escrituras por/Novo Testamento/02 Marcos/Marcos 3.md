@@ -1,22 +1,21 @@
 ---
 title: Marcos 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 3
 [[Marcos 2| <-- Marcos 2]] | [[Marcos]] | [[Marcos 4|Marcos 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus cura no dia do Sábado — Ele escolhe e ordena os Doze Apóstolos — Ele pergunta: Pode Satanás expulsar Satanás? — Jesus fala da blasfêmia contra o Espírito Santo e identifica os que creem como sendo de Sua família.
 
----
 ###### 1 
 E outra vez entrou na sinagoga, e estava ali um homem que tinha uma das mãos ressequida.
 

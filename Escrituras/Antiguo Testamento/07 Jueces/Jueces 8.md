@@ -1,22 +1,21 @@
 ---
 title: Jueces 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 8
 [[Jueces 7| <-- Jueces 7]] | [[Jueces]] | [[Jueces 9|Jueces 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Gedeón persigue y destruye a los madianitas — Gedeón libra a los hijos de Israel, pero rechaza su invitación a gobernar como rey de ellos — Gedeón muere e Israel vuelve a la idolatría.
 
----
 ###### 1 
 Y los de Efraín le dijeron: ¿Qué es esto que has hecho con nosotros, no llamándonos cuando ibas a la guerra contra Madián? Y le reprendieron fuertemente.
 

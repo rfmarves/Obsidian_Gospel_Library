@@ -1,22 +1,21 @@
 ---
 title: Atos 19
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 19
 [[Atos 18| <-- Atos 18]] | [[Atos]] | [[Atos 20|Atos 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo confere o dom do Espírito Santo pela imposição de mãos — Ele prega e opera muitos milagres — Os filhos de Ceva não conseguem expulsar demônios por exorcismo — Os adoradores de Diana (Ártemis) geram um tumulto contra Paulo.
 
----
 ###### 1 
 E sucedeu que, enquanto Apolo estava em Corinto, Paulo, tendo passado por todas as  superiores, chegou a Éfeso; e achando ali alguns discípulos,
 

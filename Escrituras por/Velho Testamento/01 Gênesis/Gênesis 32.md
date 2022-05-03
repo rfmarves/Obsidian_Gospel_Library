@@ -1,22 +1,21 @@
 ---
 title: Gênesis 32
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 32
 [[Gênesis 31| <-- Gênesis 31]] | [[Gênesis]] | [[Gênesis 33|Gênesis 33 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/32?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/32?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó vê anjos — Ele pede a Deus que o proteja de Esaú, para quem prepara presentes — Ele luta a noite inteira com um mensageiro de Deus — O nome de Jacó é mudado para Israel — Ele vê Deus face a face.
 
----
 ###### 1 
 E foi  Jacó pelo seu caminho, e encontraram-no os anjos de Deus.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 5
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Saints become the sons and daughters of Christ through faith—They are then called by the name of Christ—King Benjamin exhorts them to be steadfast and immovable in good works. About 124 B.C.
 
----
 ###### 1 
 And now, it came to pass that when king Benjamin had thus spoken to his people, he sent among them, desiring to know of his people if they believed the words which he had spoken unto them.
 

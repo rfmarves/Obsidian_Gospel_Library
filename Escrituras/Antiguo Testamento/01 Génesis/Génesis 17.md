@@ -1,22 +1,21 @@
 ---
 title: Génesis 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 17
 [[Génesis 16| <-- Génesis 16]] | [[Génesis]] | [[Génesis 18|Génesis 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se manda a Abram ser perfecto — Él será padre de muchas naciones — Se le cambia el nombre por el de Abraham — Jehová hace convenio de ser el Dios de Abraham y de su descendencia para siempre — Además, Jehová le da la tierra de Canaán en heredad perpetua — La circuncisión llega a ser una señal del convenio sempiterno entre Dios y Abraham — Se le cambia el nombre a Sarai y se le da el de Sara — Ella concebirá a Isaac, con quien Jehová establecerá Su convenio — Abraham y los varones de su casa son circuncidados.
 
----
 ###### 1 
 Y siendo Abram de edad de noventa y nueve años, se le apareció Jehová y le dijo: Yo soy el Dios Todopoderoso; anda delante de mí y sé perfecto.
 

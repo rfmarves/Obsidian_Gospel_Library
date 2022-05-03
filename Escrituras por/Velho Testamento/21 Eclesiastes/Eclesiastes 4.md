@@ -1,22 +1,21 @@
 ---
 title: Eclesiastes 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastes 4
 [[Eclesiastes 3| <-- Eclesiastes 3]] | [[Eclesiastes]] | [[Eclesiastes 5|Eclesiastes 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A opressão e as más ações são vaidade — A força de dois é melhor do que a de um — Melhor é o menino pobre e sábio do que o rei velho e insensato.
 
----
 ###### 1 
 Depois me voltei, e atentei a todas as opressões que se fazem debaixo do sol; e eis que  as lágrimas dos  oprimidos e dos que não têm consolador; e a força  do lado dos seus opressores, porém eles não tinham consolador.
 

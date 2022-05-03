@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 The utter ruin of Judah is foreseen—Israel is rejected and scattered for serving false gods—Fishers and hunters will gather Israel again, and the people will serve the Lord—The gospel is to be restored.
 
----
 ###### 1 
 The word of the  came also unto me, saying,
 

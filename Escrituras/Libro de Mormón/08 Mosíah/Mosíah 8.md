@@ -1,22 +1,21 @@
 ---
 title: Mosíah 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 8
 [[Mosíah 7| <-- Mosíah 7]] | [[Mosíah]] | [[Mosíah 9|Mosíah 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ammón enseña al pueblo de Limhi — Se entera de las veinticuatro planchas jareditas — Los videntes pueden traducir anales antiguos — No hay don mayor que el que posee un vidente. Aproximadamente 121 a.C.
 
----
 ###### 1 
 Y aconteció que después que el rey Limhi hubo acabado de hablar a su pueblo, porque les dijo muchas cosas, y solo algunas de ellas he escrito en este libro, él relató a su pueblo todo lo concerniente a sus hermanos que se hallaban en la tierra de Zarahemla.
 

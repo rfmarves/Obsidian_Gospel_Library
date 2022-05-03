@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 David gains followers—He goes from one place to another, fleeing from Saul—Saul slays the priests who showed kindness to David.
 
----
 ###### 1 
 David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father’s house heard  they went down thither to him.
 

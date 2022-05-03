@@ -1,22 +1,21 @@
 ---
 title: Alma 15
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 15
 [[Alma 14| <-- Alma 14]] | [[Alma]] | [[Alma 16|Alma 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Alma e Amuleque vão para Sidom e organizam uma igreja — Alma cura Zeezrom, que se une à Igreja — Muitos são batizados e a Igreja prospera — Alma e Amuleque vão para Zaraenla. Aproximadamente 81 a.C.
 
----
 ###### 1 
 E aconteceu que foi ordenado a Alma e a Amuleque que partissem daquela cidade; e partiram e foram à terra de Sidom; e eis que ali encontraram todos os que haviam deixado a terra de Amonia, que haviam sido expulsos e apedrejados porque acreditavam nas palavras de Alma.
 

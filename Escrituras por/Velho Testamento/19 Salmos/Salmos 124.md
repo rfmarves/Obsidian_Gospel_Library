@@ -1,27 +1,25 @@
 ---
 title: Salmos 124
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 124
 [[Salmos 123| <-- Salmos 123]] | [[Salmos]] | [[Salmos 125|Salmos 125 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/124?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/124?lang=por)
 
----
+```
 Cântico das subidas, de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi declara: O socorro de Israel está no nome do Senhor.
 
----
 ###### 1 
 Se não  o , que esteve ao nosso lado, ora, diga Israel;
 

@@ -1,22 +1,21 @@
 ---
 title: Gálatas 6
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gálatas 6
 [[Gálatas 5| <-- Gálatas 5]] | [[Gálatas]] | [[Efesios 1|Efesios 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/gal/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/gal/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Llevad las cargas los unos de los otros — Lo que sembréis, eso mismo segaréis — No os canséis de hacer el bien.
 
----
 ###### 1 
 Hermanos, si alguno fuere sorprendido en alguna falta, vosotros que sois espirituales, restauradle con espíritu de mansedumbre, considerándote a ti mismo, no sea que tú también seas tentado.
 

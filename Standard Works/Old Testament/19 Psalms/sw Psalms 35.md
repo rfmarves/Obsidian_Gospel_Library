@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 35
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 35
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/35?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David complains of his enemies and their wrong dealings—He asks the Lord to judge him according to his righteousness.
 
----
 ###### 1 
 Plead  O , with them that strive with me: fight against them that fight against me.
 

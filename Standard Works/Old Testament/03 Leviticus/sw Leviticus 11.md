@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord reveals which living things may and may not be eaten, and which things are clean and unclean—He commands Israel: Be holy, for I am holy.
 
----
 ###### 1 
 And the  spake unto Moses and to Aaron, saying unto them,
 

@@ -1,22 +1,21 @@
 ---
 title: Mormón 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mormón 6
 [[Mormón 5| <-- Mormón 5]] | [[Mormón]] | [[Mormón 7|Mormón 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los nefitas se reúnen en la tierra de Cumorah para las batallas finales — Mormón esconde los anales sagrados en el cerro Cumorah — Los lamanitas triunfan, y la nación nefita es destruida — Centenas de millares de personas perecen por la espada. Aproximadamente 385 d.C.
 
----
 ###### 1 
 Y ahora concluyo mi relato concerniente a la destrucción de mi pueblo, los nefitas. Y sucedió que marchamos delante de los lamanitas.
 

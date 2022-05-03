@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Rehoboam seeks to impose greater burdens upon the people—The ten tribes revolt and turn to Jeroboam—Jeroboam turns to idolatry and worships false gods.
 
----
 ###### 1 
 And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.
 

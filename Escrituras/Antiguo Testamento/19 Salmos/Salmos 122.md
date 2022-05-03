@@ -1,27 +1,25 @@
 ---
 title: Salmos 122
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 122
 [[Salmos 121| <-- Salmos 121]] | [[Salmos]] | [[Salmos 123|Salmos 123 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/122?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/122?lang=spa)
 
----
+```
 Cántico de aascenso gradual. De David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David dice: Id a la casa de Jehová — Alabad a Jehová.
 
----
 ###### 1 
 
 

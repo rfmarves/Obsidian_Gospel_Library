@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 33
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 33
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/33?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob and Esau meet and are reconciled—Esau receives Jacob’s presents—Jacob settles in Canaan, where he builds an altar.
 
----
 ###### 1 
 And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids.
 

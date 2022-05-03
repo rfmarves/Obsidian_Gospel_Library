@@ -1,10 +1,11 @@
 ---
 title: sw 2 Thessalonians 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Thessalonians 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-thes/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Pray for the triumph of the gospel cause—Paul preaches the gospel of work—Be not weary in well-doing.
 
----
 ###### 1 
 Finally, brethren, pray for us, that the word of the Lord may have  course, and be glorified, even as  with you:
 

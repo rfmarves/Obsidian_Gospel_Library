@@ -1,22 +1,21 @@
 ---
 title: Gálatas 6
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gálatas 6
 [[Gálatas 5| <-- Gálatas 5]] | [[Gálatas]] | [[Efésios 1|Efésios 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/gal/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/gal/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Levai as cargas uns dos outros — Como semeardes, assim colhereis — Não vos canseis de fazer o bem.
 
----
 ###### 1 
 Irmãos, se algum homem chegar a ser surpreendido em alguma ofensa, vós, que sois espirituais, corrigi o tal com espírito de mansidão; guarda-te, para que não sejas também tentado.
 

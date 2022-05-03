@@ -1,22 +1,21 @@
 ---
 title: Job 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 12
 [[Job 11| <-- Job 11]] | [[Job]] | [[Job 13|Job 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Job dice: El alma de todo lo viviente está en las manos de Jehová; en los ancianos está la sabiduría; Jehová gobierna todas las cosas.
 
----
 ###### 1 
 Y respondió Job y dijo:
 

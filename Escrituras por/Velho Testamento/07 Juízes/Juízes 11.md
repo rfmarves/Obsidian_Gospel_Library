@@ -1,22 +1,21 @@
 ---
 title: Juízes 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 11
 [[Juízes 10| <-- Juízes 10]] | [[Juízes]] | [[Juízes 12|Juízes 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jefté é escolhido para ser o capitão dos exércitos de Israel — Os amonitas desferem uma guerra contra Israel — Jefté é guiado pelo Espírito e derrota Amom com grande mortandade — Ele faz um voto impensado que o leva a sacrificar sua única filha.
 
----
 ###### 1 
 Era então Jefté, o gileadita, homem valoroso, porém filho de uma prostituta; mas Gileade gerara Jefté.
 

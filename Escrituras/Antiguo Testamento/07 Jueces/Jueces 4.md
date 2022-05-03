@@ -1,22 +1,21 @@
 ---
 title: Jueces 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 4
 [[Jueces 3| <-- Jueces 3]] | [[Jueces]] | [[Jueces 5|Jueces 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Débora, mujer profetisa, juzga a Israel — Ella y Barac liberan a Israel de los cananeos — Jael, una mujer, mata a Sísara el cananeo.
 
----
 ###### 1 
 Y después de la muerte de Aod, los hijos de Israel volvieron a hacer lo malo ante los ojos de Jehová.
 

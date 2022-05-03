@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 28
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 28
 [[1 Crónicas 27| <-- 1 Crónicas 27]] | [[1 Crónicas]] | [[1 Crónicas 29|1 Crónicas 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David reúne a los líderes de Israel — Salomón es escogido para construir el templo — David exhorta a Salomón y al pueblo a guardar los mandamientos — David da a Salomón el plano y los materiales para el templo.
 
----
 ###### 1 
 Y reunió David en Jerusalén a todos los principales de Israel, a los jefes de las tribus, y a los jefes de las divisiones que servían al rey, a los jefes de millares, y a los jefes de centenas, y a los administradores de todos los bienes y de las posesiones del rey, y de sus hijos, y a los oficiales y a los poderosos, y a todos sus hombres valientes.
 

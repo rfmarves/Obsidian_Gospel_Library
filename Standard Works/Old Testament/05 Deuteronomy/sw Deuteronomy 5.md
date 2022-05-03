@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses tells of the covenant God made with Israel in Horeb—He reviews the Ten Commandments—Sabbath observance also commemorates the deliverance from Egypt—God talks with man—Blessings flow from obedience.
 
----
 ###### 1 
 And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them.
 

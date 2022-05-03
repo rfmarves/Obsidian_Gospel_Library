@@ -1,22 +1,21 @@
 ---
 title: Efesios 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Efesios 2
 [[Efesios 1| <-- Efesios 1]] | [[Efesios]] | [[Efesios 3|Efesios 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/eph/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/eph/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Somos salvos por gracia mediante la fe — La sangre de Cristo salva por igual al judío y al gentil — La Iglesia está edificada sobre el fundamento de apóstoles y profetas.
 
----
 ###### 1 
 Y  a vosotros, cuando estabais muertos en vuestros delitos y pecados,
 

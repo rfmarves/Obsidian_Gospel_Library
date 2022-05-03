@@ -1,10 +1,11 @@
 ---
 title: sw Helaman 9
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Helaman 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Messengers find the chief judge dead at the judgment seat—They are imprisoned and later released—By inspiration Nephi identifies Seantum as the murderer—Nephi is accepted by some as a prophet. About 23–21 B.C.
 
----
 ###### 1 
 Behold, now it came to pass that when Nephi had spoken these words, certain men who were among them ran to the judgment-seat; yea, even there were five who went, and they said among themselves, as they went:
 

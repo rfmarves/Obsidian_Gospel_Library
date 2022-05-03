@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 27
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 Darkness and apostasy will cover the earth in the last days—The Book of Mormon will come forth—Three witnesses will testify of the book—The learned man will say he cannot read the sealed book—The Lord will do a marvelous work and a wonder—Compare Isaiah 29. About 559–545 B.C.
 
----
 ###### 1 
 But, behold, in the last days, or in the days of the Gentiles—yea, behold all the nations of the Gentiles and also the Jews, both those who shall come upon this land and those who shall be upon other lands, yea, even upon all the lands of the earth, behold, they will be drunken with iniquity and all manner of abominations—
 

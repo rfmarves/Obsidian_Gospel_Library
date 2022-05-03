@@ -1,10 +1,11 @@
 ---
 title: sw Nehemiah 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nehemiah 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Jews fast and confess their sins—The Levites bless and praise the Lord and recite His goodness toward Israel.
 
----
 ###### 1 
 Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them.
 

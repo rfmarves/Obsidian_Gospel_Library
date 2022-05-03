@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 6
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Nephites prosper—Pride, wealth, and class distinctions arise—The Church is rent with dissensions—Satan leads the people in open rebellion—Many prophets cry repentance and are slain—Their murderers conspire to take over the government. About A.D. 26–30.
 
----
 ###### 1 
 And now it came to pass that the people of the Nephites did all return to their own lands in the twenty and sixth year, every man, with his family, his flocks and his herds, his horses and his cattle, and all things whatsoever did belong unto them.
 

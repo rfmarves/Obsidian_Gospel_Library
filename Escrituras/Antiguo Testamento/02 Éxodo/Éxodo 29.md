@@ -1,22 +1,21 @@
 ---
 title: Éxodo 29
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 29
 [[Éxodo 28| <-- Éxodo 28]] | [[Éxodo]] | [[Éxodo 30|Éxodo 30 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/29?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Aarón y sus hijos han de ser lavados, ungidos y consagrados — Deben efectuarse varias ceremonias de sacrificio — Se hará una expiación por los pecados del pueblo — Jehová promete morar entre ellos.
 
----
 ###### 1 
 Y esto es lo que les harás para consagrarlos, para que sean mis sacerdotes: Toma un becerro de la vacada y dos carneros sin defecto;
 

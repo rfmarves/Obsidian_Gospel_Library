@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Two sisters, Samaria and Jerusalem, committed whoredoms by worshipping idols—Both are destroyed for their lewdness.
 
----
 ###### 1 
 The word of the  came again unto me, saying,
 

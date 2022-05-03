@@ -1,22 +1,21 @@
 ---
 title: DyC 90
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 90
 [[DyC 89| <-- DyC 89]] | [[DyC]] | [[DyC 91|DyC 91 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/90?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/90?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, Las llaves del reino se han entregado a José Smith y, por medio de él, a la Iglesia; 6–7, Sidney Rigdon y Frederick G. Williams han de servir en la Primera Presidencia; 8–11, El Evangelio debe predicarse a las naciones de Israel, a los gentiles y a los judíos, y todo hombre lo escuchará en su propia lengua; 12–18, José Smith y sus consejeros deben poner en orden los asuntos de la Iglesia; 19–37, El Señor exhorta a varias personas a andar rectamente y a servir en Su reino.
 
----
 ###### 1 
 Así dice el Señor: De cierto, de cierto te digo, hijo mío, te son perdonados tus pecados, según tu petición, porque tus oraciones y las oraciones de tus hermanos han llegado a mis oídos.
 

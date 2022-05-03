@@ -1,22 +1,21 @@
 ---
 title: Atos 5
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 5
 [[Atos 4| <-- Atos 4]] | [[Atos]] | [[Atos 6|Atos 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ananias e Safira mentem ao Senhor e perdem a vida — Os Apóstolos continuam a realizar os milagres de Jesus — Pedro e João são presos, um anjo livra-os da prisão, e eles testificam de Cristo — Gamaliel aconselha moderação.
 
----
 ###### 1 
 E um  homem chamado Ananias, com Safira, sua mulher, vendeu uma propriedade;
 

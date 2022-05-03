@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 4
 [[1 Crônicas 3| <-- 1 Crônicas 3]] | [[1 Crônicas]] | [[1 Crônicas 5|1 Crônicas 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Enumeram-se as famílias e os descendentes de Judá, de Simeão e de outros — Vários príncipes de suas famílias são citados pelo nome.
 
----
 ###### 1 
 Os filhos de Judá  Perez, e Hezrom, e Carmi, e Hur, e Sobal.
 

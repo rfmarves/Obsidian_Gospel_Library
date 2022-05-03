@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 22
 [[1 Reyes 21| <-- 1 Reyes 21]] | [[1 Reyes]] | [[2 Reyes 1|2 Reyes 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Josafat, de Judá, y Acab, de Israel, unen fuerzas contra Siria — Los profetas de Acab predicen el éxito — Micaías predice la derrota y la muerte de Acab — Acab es muerto y los perros lamen su sangre — Josafat reina con rectitud en Judá — Ocozías reina en Israel y sirve a Baal.
 
----
 ###### 1 
 Tres años pasaron sin guerra entre los sirios e Israel.
 

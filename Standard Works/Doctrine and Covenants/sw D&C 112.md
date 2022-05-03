@@ -1,10 +1,11 @@
 ---
 title: sw D&C 112
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 112
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/112?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–10, The Twelve are to send the gospel and raise the warning voice to all nations and people; 11–15, They are to take up their cross, follow Jesus, and feed His sheep; 16–20, Those who receive the First Presidency receive the Lord; 21–29, Darkness covers the earth, and only those who believe and are baptized will be saved; 30–34, The First Presidency and the Twelve hold the keys of the dispensation of the fulness of times.
 
----
 ###### 1 
 Verily thus saith the Lord unto you my servant Thomas: I have heard thy prayers; and thine alms have come up as a memorial before me, in behalf of those, thy brethren, who were chosen to bear testimony of my name and to send it abroad among all nations, kindreds, tongues, and people, and ordained through the instrumentality of my servants.
 

@@ -1,22 +1,21 @@
 ---
 title: Eclesiastés 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastés 5
 [[Eclesiastés 4| <-- Eclesiastés 4]] | [[Eclesiastés]] | [[Eclesiastés 6|Eclesiastés 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dios está en el cielo — Se conoce la voz del necio por la multitud de las palabras — Guarda tus promesas — Las riquezas y los bienes son un don de Dios.
 
----
 ###### 1 
 Cuando vayas a la casa de Dios, guarda tu pie; y acércate más para oír que para ofrecer el sacrificio de los necios, porque no saben que hacen mal.
 

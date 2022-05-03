@@ -1,27 +1,25 @@
 ---
 title: Proverbios 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 10
 [[Proverbios 9| <-- Proverbios 9]] | [[Proverbios]] | [[Proverbios 11|Proverbios 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/10?lang=spa)
 
----
+```
 Proverbios de Salomón.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 El hijo sabio alegra al padre — La boca del justo es un manantial de vida — El que difama es insensato — El deseo de los justos será concedido.
 
----
 ###### 1 
 
 

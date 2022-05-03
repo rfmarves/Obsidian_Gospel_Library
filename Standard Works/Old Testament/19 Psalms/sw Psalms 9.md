@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 9
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/9?lang=eng)
 
----
+```
 To the chief Musician upon Muth-labben, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A messianic psalm of David—He praises the Lord for rebuking the nations—The Lord will judge the world in righteousness—He will dwell in Zion—The wicked will be sent to hell.
 
----
 ###### 1 
 I will praise  O , with my whole heart; I will shew forth all thy marvellous works.
 

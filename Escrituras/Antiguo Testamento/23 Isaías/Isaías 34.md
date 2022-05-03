@@ -1,22 +1,21 @@
 ---
 title: Isaías 34
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 34
 [[Isaías 33| <-- Isaías 33]] | [[Isaías]] | [[Isaías 35|Isaías 35 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/34?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/34?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La Segunda Venida será un día de venganza y juicio — La ira de Jehová estará sobre todas las naciones — Su espada descenderá sobre el mundo.
 
----
 ###### 1 
 Acercaos, oh naciones, para oír; y escuchad, oh pueblos. Oiga la tierra y cuanto hay en ella, el mundo y todo lo que él produce.
 

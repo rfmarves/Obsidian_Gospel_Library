@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 6
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 6
 [[Apocalipsis 5| <-- Apocalipsis 5]] | [[Apocalipsis]] | [[Apocalipsis 7|Apocalipsis 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cristo abre los seis sellos, y Juan ve los acontecimientos de cada uno — En el quinto sello, Juan ve a los mártires cristianos, y en el sexto, ve las señales de los tiempos.
 
----
 ###### 1 
 Y vi cuando el Cordero abrió uno de los sellos, y oí a uno de los cuatro seres vivientes decir como con voz de trueno: ¡Ven y mira!
 

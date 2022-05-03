@@ -1,22 +1,21 @@
 ---
 title: DyC 28
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 28
 [[DyC 27| <-- DyC 27]] | [[DyC]] | [[DyC 29|DyC 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–7, José Smith posee las llaves de los misterios, y solamente él recibe revelaciones para la Iglesia; 8–10, Oliver Cowdery ha de predicar a los lamanitas; 11–16, Satanás engañó a Hiram Page y le comunicó revelaciones falsas.
 
----
 ###### 1 
 He aquí, Oliver, te digo que se te concederá que la iglesia te oiga en cualquier cosa que les enseñes por el Consolador, tocante a las revelaciones y los mandamientos que he dado.
 

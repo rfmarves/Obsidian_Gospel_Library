@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 6
 [[2 Samuel 5| <-- 2 Samuel 5]] | [[2 Samuel]] | [[2 Samuel 7|2 Samuel 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi leva a arca para a cidade de Davi — Uzá é ferido e morto por tocar na arca para firmá-la — Davi dança diante do Senhor, causando ruptura de seu relacionamento com Mical.
 
----
 ###### 1 
 E tornou Davi a ajuntar todos os escolhidos de Israel,  trinta mil.
 

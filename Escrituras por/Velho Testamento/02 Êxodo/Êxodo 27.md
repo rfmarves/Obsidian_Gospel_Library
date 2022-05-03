@@ -1,22 +1,21 @@
 ---
 title: Êxodo 27
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 27
 [[Êxodo 26| <-- Êxodo 26]] | [[Êxodo]] | [[Êxodo 28|Êxodo 28 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/27?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O tabernáculo terá um altar para holocaustos e um pátio cercado de colunas — Uma lâmpada sempre há de arder no tabernáculo da congregação.
 
----
 ###### 1 
 Farás também o altar  de acácia, cinco côvados será o comprimento, e cinco côvados a largura ( quadrado o altar), e três côvados a sua altura.
 

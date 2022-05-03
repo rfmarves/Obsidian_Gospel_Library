@@ -1,10 +1,11 @@
 ---
 title: sw Nehemiah 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nehemiah 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Sanballat engages in intrigue against Nehemiah and the building of the wall—The Jews finish the construction of the wall.
 
----
 ###### 1 
 Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and  there was no breach left therein; (though at that time I had not set up the doors upon the gates;)
 

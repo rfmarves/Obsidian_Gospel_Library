@@ -1,10 +1,11 @@
 ---
 title: sw D&C 88
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 88
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, Faithful Saints receive that Comforter, which is the promise of eternal life; 6–13, All things are controlled and governed by the Light of Christ; 14–16, The Resurrection comes through the Redemption; 17–31, Obedience to celestial, terrestrial, or telestial law prepares men for those respective kingdoms and glories; 32–35, Those who will to abide in sin remain filthy still; 36–41, All kingdoms are governed by law; 42–45, God has given a law unto all things; 46–50, Man will comprehend even God; 51–61, The parable of the man sending his servants into the field and visiting them in turn; 62–73, Draw near unto the Lord, and ye will see His face; 74–80, Sanctify yourselves and teach one another the doctrines of the kingdom; 81–85, Every man who has been warned should warn his neighbor; 86–94, Signs, upheavals of the elements, and angels prepare the way for the coming of the Lord; 95–102, Angelic trumps call forth the dead in their order; 103–16, Angelic trumps proclaim the restoration of the gospel, the fall of Babylon, and the battle of the great God; 117–26, Seek learning, establish a house of God (a temple), and clothe yourselves with the bond of charity; 127–41, The order of the School of the Prophets is set forth, including the ordinance of washing of feet.
 
----
 ###### 1 
 Verily, thus saith the Lord unto you who have assembled yourselves together to receive his will concerning you:
 

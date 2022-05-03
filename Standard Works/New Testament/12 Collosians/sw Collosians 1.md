@@ -1,10 +1,11 @@
 ---
 title: sw Collosians 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Collosians 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/col/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Redemption comes through Christ—He created all things, is in the image of God, and is the Firstborn of the Father.
 
----
 ###### 1 
 Paul, an apostle of Jesus Christ by the will of God, and Timotheus  brother,
 

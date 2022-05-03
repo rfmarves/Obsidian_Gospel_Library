@@ -1,10 +1,11 @@
 ---
 title: sw Ruth 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ruth 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ruth/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 The nearest relative declines, and Boaz takes Ruth to wife—Ruth bears Obed, through whom came David the king.
 
----
 ###### 1 
 Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.
 

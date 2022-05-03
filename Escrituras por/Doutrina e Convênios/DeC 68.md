@@ -1,22 +1,21 @@
 ---
 title: DeC 68
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 68
 [[DeC 67| <-- DeC 67]] | [[DeC]] | [[DeC 69|DeC 69 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, As palavras dos élderes, quando movidos pelo Espírito Santo, são escritura; 6–12, Os élderes devem pregar e batizar e sinais seguirão os que verdadeiramente crerem; 13–24, Os primogênitos dentre os filhos de Aarão podem oficiar como Bispo Presidente (isto é, ter as chaves da presidência como bispo) sob a direção da Primeira Presidência; 25–28, Ordena-se aos pais que ensinem o evangelho aos filhos; 29–35, Os santos devem guardar o dia do Senhor, trabalhar diligentemente e orar.
 
----
 ###### 1 
 Meu servo Orson Hyde foi chamado por sua ordenação para proclamar o evangelho eterno, pelo Espírito do Deus vivo, de povo em povo e de terra em terra, nas congregações dos iníquos, em suas sinagogas, arrazoando com eles e expondo-lhes todas as escrituras.
 

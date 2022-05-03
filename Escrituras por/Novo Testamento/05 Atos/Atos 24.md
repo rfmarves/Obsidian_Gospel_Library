@@ -1,22 +1,21 @@
 ---
 title: Atos 24
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 24
 [[Atos 23| <-- Atos 23]] | [[Atos]] | [[Atos 25|Atos 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo é acusado de sedição — Ele responde em defesa de sua vida e da doutrina — Ele ensina Félix sobre a retidão, a temperança e o juízo vindouro.
 
----
 ###### 1 
 E cinco dias depois o sumo sacerdote Ananias desceu com os anciãos, e  um certo orador,  Tértulo, os quais compareceram perante o governador  contra Paulo.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Absalom conspires against David and gains the support of the people—David flees, and Absalom enters Jerusalem.
 
----
 ###### 1 
 And it came to pass after this, that Absalom prepared him chariots and horses, and fifty men to run before him.
 

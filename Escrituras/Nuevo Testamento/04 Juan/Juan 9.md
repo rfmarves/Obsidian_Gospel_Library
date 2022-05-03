@@ -1,22 +1,21 @@
 ---
 title: Juan 9
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 9
 [[Juan 8| <-- Juan 8]] | [[Juan]] | [[Juan 10|Juan 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús sana a un hombre ciego de nacimiento en un día de reposo — Los judíos le acusan de violar el día de reposo — Él los reprende por su ceguera espiritual.
 
----
 ###### 1 
 Al pasar  vio a un hombre ciego de nacimiento.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 28
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ the Lord is risen—He appears to many—He has all power in heaven and earth—He sends the Apostles to teach and baptize all nations.
 
----
 ###### 1 
 In the end of the sabbath, as it began to dawn toward the first  of the week, came Mary Magdalene and the other Mary to see the sepulchre.
 

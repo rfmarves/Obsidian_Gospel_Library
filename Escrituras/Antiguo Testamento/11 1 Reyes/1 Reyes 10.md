@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 10
 [[1 Reyes 9| <-- 1 Reyes 9]] | [[1 Reyes]] | [[1 Reyes 11|1 Reyes 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La reina de Sabá visita a Salomón — La riqueza y la sabiduría de Salomón exceden a las de todos los reyes de la tierra.
 
----
 ###### 1 
 Y cuando la reina de Sabá oyó de la fama de Salomón en relación al nombre de Jehová, vino a probarle con preguntas difíciles.
 

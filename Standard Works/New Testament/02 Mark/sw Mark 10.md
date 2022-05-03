@@ -1,10 +1,11 @@
 ---
 title: sw Mark 10
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus teaches the higher law of marriage—He blesses little children—Jesus counsels the rich young man, foretells His own death, and heals blind Bartimæus.
 
----
 ###### 1 
 And he arose from thence, and cometh into the coasts of Judæa by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.
 

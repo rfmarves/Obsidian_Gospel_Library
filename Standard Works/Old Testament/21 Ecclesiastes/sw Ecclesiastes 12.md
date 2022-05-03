@@ -1,10 +1,11 @@
 ---
 title: sw Ecclesiastes 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ecclesiastes 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 At death the spirit will return to God who gave it—The words of the wise are as goads—The whole duty of man is to fear God and keep His commandments.
 
----
 ###### 1 
 Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;
 

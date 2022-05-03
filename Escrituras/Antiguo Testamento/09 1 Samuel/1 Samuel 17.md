@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 17
 [[1 Samuel 16| <-- 1 Samuel 16]] | [[1 Samuel]] | [[1 Samuel 18|1 Samuel 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel y los filisteos se enfrentan en guerra — Goliat de Gat, un gigante, reta a los de Israel y los desafía a que alguno de ellos combata personalmente con él — David se enfrenta con él en el nombre de Jehová — David mata a Goliat con honda y piedra — Israel derrota a los filisteos.
 
----
 ###### 1 
 Y los filisteos reunieron sus ejércitos para la guerra, y se congregaron en Soco, que es de Judá, y acamparon entre Soco y Azeca, en Efes-damim.
 

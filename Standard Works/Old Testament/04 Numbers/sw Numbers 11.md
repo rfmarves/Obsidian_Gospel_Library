@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Fire from the Lord consumes the rebels in Israel—Israel murmurs and lusts for meat instead of manna—Moses complains that he cannot bear the burden alone—He is commanded to choose seventy elders to assist him—The Lord promises meat until it becomes loathsome to the Israelites—The seventy elders are chosen, they prophesy, the Lord comes down, and Eldad and Medad prophesy in the camp—Israel is provided with quail—The people lust, a great plague follows, and many die.
 
----
 ###### 1 
 And  the people complained, it displeased the : and the  heard  and his anger was kindled; and the fire of the  burnt among them, and consumed  in the uttermost parts of the camp.
 

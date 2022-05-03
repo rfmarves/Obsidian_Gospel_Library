@@ -1,22 +1,21 @@
 ---
 title: Números 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 10
 [[Números 9| <-- Números 9]] | [[Números]] | [[Números 11|Números 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Usam-se trombetas de prata para convocar a congregação e para soar alarmes — A nuvem se alça de sobre o tabernáculo, e os filhos de Israel marcham na ordem prescrita — A arca do convênio segue adiante deles em suas jornadas.
 
----
 ###### 1 
 Falou mais o  a Moisés, dizendo:
 

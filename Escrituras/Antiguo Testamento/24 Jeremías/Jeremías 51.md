@@ -1,22 +1,21 @@
 ---
 title: Jeremías 51
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 51
 [[Jeremías 50| <-- Jeremías 50]] | [[Jeremías]] | [[Jeremías 52|Jeremías 52 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/51?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/51?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Juicios, destrucción y desolación vendrán sobre Babilonia por sus pecados — Se manda a Israel: Huid de Babilonia — Israel es la vara de Jehová para destruir todos los reinos.
 
----
 ###### 1 
 Así ha dicho Jehová: He aquí que yo levanto un viento destructor contra Babilonia y contra sus moradores que se levantan contra mí.
 

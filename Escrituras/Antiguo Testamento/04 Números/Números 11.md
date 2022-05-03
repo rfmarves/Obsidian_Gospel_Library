@@ -1,22 +1,21 @@
 ---
 title: Números 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 11
 [[Números 10| <-- Números 10]] | [[Números]] | [[Números 12|Números 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Fuego de Jehová consume a los rebeldes de Israel — Israel murmura y ansía comer carne en vez de maná — Moisés se queja de no poder llevar la carga solo — Se le manda escoger setenta ancianos para que le ayuden — Jehová promete carne hasta que le sea aborrecible a Israel — Se escoge a los setenta ancianos, ellos profetizan, Jehová desciende, Eldad y Medad profetizan en el campamento — Se proveen codornices a Israel — Israel codicia; sigue una gran plaga y muchos mueren.
 
----
 ###### 1 
 Y aconteció que el pueblo se quejó a oídos de Jehová; y lo oyó Jehová y se enardeció su ira, y se encendió entre ellos fuego de Jehová y consumió un extremo del campamento.
 

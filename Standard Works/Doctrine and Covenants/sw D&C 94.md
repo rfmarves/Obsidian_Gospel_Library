@@ -1,10 +1,11 @@
 ---
 title: sw D&C 94
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 94
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/94?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–9, The Lord gives a commandment relative to the erection of a house for the work of the Presidency; 10–12, A printing house is to be built; 13–17, Certain inheritances are assigned.
 
----
 ###### 1 
 And again, verily I say unto you, my friends, a commandment I give unto you, that ye shall commence a work of laying out and preparing a beginning and foundation of the city of the stake of Zion, here in the land of Kirtland, beginning at my house.
 

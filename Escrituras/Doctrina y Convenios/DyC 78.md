@@ -1,22 +1,21 @@
 ---
 title: DyC 78
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 78
 [[DyC 77| <-- DyC 77]] | [[DyC]] | [[DyC 79|DyC 79 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, Los santos deben organizarse y establecer un almacén; 5–12, El uso prudente de sus bienes conducirá a los miembros a la salvación; 13–14, La Iglesia debe ser independiente de los poderes terrenales; 15–16, Miguel (Adán) sirve bajo la dirección del Muy Santo (Cristo); 17–22, Benditos son los fieles, porque ellos heredarán todas las cosas.
 
----
 ###### 1 
 El Señor habló a José Smith, hijo, diciendo: Escuchadme, dice el Señor vuestro Dios, vosotros que habéis sido ordenados al sumo sacerdocio de mi iglesia, y que os habéis congregado;
 

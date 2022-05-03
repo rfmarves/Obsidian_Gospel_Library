@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 31
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 31
 [[Ezequiel 30| <-- Ezequiel 30]] | [[Ezequiel]] | [[Ezequiel 32|Ezequiel 32 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/31?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/31?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A glória e a queda do Faraó são comparadas às dos assírios.
 
----
 ###### 1 
 E sucedeu, no ano undécimo, no terceiro  ao primeiro do mês,  veio a mim a palavra do , dizendo:
 

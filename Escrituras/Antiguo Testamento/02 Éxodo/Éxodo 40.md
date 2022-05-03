@@ -1,22 +1,21 @@
 ---
 title: Éxodo 40
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 40
 [[Éxodo 39| <-- Éxodo 39]] | [[Éxodo]] | [[Levíticos 1|Levíticos 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/40?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/40?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se arma el tabernáculo — Aarón y sus hijos son lavados y ungidos y se les da un sacerdocio eterno — La gloria de Jehová llena el tabernáculo — Una nube cubre el tabernáculo de día y fuego reposa sobre él de noche.
 
----
 ###### 1 
 Y Jehová habló a Moisés, diciendo:
 

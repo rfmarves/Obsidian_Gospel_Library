@@ -1,22 +1,21 @@
 ---
 title: Oseias 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseias 8
 [[Oseias 7| <-- Oseias 7]] | [[Oseias]] | [[Oseias 9|Oseias 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Tanto Israel quanto Judá abandonaram o Senhor — O Senhor escreveu as grandezas de Sua lei para Efraim.
 
----
 ###### 1 
 Põe a buzina à tua boca;  como a águia contra a casa do , porque transgrediram o meu convênio, e se rebelaram contra a minha lei.
 

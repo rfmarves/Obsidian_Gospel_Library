@@ -1,10 +1,11 @@
 ---
 title: sw D&C 84
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 84
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, The New Jerusalem and the temple will be built in Missouri; 6–17, The line of priesthood from Moses to Adam is given; 18–25, The greater priesthood holds the key of the knowledge of God; 26–32, The lesser priesthood holds the key of the ministering of angels and of the preparatory gospel; 33–44, Men gain eternal life through the oath and covenant of the priesthood; 45–53, The Spirit of Christ enlightens men, and the world lies in sin; 54–61, The Saints must testify of those things they have received; 62–76, They are to preach the gospel, and signs will follow; 77–91, Elders are to go forth without purse or scrip, and the Lord will care for their needs; 92–97, Plagues and cursings await those who reject the gospel; 98–102, The new song of the redemption of Zion is given; 103–10, Let every man stand in his own office and labor in his own calling; 111–20, The Lord’s servants are to proclaim the abomination of desolation of the last days.
 
----
 ###### 1 
 A revelation of Jesus Christ unto his servant Joseph Smith, Jun., and six elders, as they united their hearts and lifted their voices on high.
 

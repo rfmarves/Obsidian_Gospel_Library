@@ -1,10 +1,11 @@
 ---
 title: sw Hebrews 12
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hebrews 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Whom the Lord loves He chastens—God is the Father of spirits—To see God, follow peace and holiness—Exalted Saints belong to the Church of the Firstborn.
 
----
 ###### 1 
 Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset  and let us run with patience the race that is set before us,
 

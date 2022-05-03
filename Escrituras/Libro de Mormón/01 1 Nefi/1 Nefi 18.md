@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 18
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 18
 [[1 Nefi 17| <-- 1 Nefi 17]] | [[1 Nefi]] | [[1 Nefi 19|1 Nefi 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se termina el barco — Se mencionan los nacimientos de Jacob y de José — El grupo se embarca hacia la tierra prometida — Los hijos de Ismael y sus esposas toman parte en el holgorio y en la rebelión — Nefi es atado, y el barco es impulsado hacia atrás por una terrible tempestad — Nefi es liberado, y, por medio de su oración, cesa la tormenta — El grupo llega a la tierra prometida. Aproximadamente 591–589 a.C.
 
----
 ###### 1 
 Y aconteció que adoraron al Señor, y fueron conmigo; y labramos maderos con maestría singular. Y el Señor me mostraba de cuando en cuando la forma en que debía yo trabajar los maderos del barco.
 

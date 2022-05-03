@@ -1,10 +1,11 @@
 ---
 title: sw 3 John 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 John 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/3-jn/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 John commends Gaius for his help to those who love the truth.
 
----
 ###### 1 
 The elder unto the wellbeloved Gaius, whom I love in the truth.
 

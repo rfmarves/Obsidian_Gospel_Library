@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 30
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 30
 [[1 Samuel 29| <-- 1 Samuel 29]] | [[1 Samuel]] | [[1 Samuel 31|1 Samuel 31 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/30?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/30?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los amalecitas destruyen Siclag y los límites de Judá — David derrota a los amalecitas, recupera el botín y lo divide.
 
----
 ###### 1 
 Y cuando David y sus hombres llegaron a Siclag al tercer día, los de Amalec habían invadido el sur y Siclag, y habían asolado Siclag y la habían quemado con fuego.
 

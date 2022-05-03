@@ -1,10 +1,11 @@
 ---
 title: sw Helaman 12
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Helaman 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Men are unstable and foolish and quick to do evil—The Lord chastens His people—The nothingness of men is compared with the power of God—In the day of judgment, men will gain everlasting life or everlasting damnation. About 6 B.C.
 
----
 ###### 1 
 And thus we can behold how false, and also the unsteadiness of the hearts of the children of men; yea, we can see that the Lord in his great infinite goodness doth bless and prosper those who put their trust in him.
 

@@ -1,22 +1,21 @@
 ---
 title: Jacob 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jacob 2
 [[Jacob 1| <-- Jacob 1]] | [[Jacob]] | [[Jacob 3|Jacob 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob condena el amor a las riquezas, el orgullo y la falta de castidad — Los hombres pueden buscar riquezas con el fin de ayudar a sus semejantes — El Señor manda que ningún varón de entre los nefitas puede tener más de una esposa — El Señor se deleita en la castidad de las mujeres. Aproximadamente 544–421 a.C.
 
----
 ###### 1 
 Palabras que Jacob, hermano de Nefi, dirigió al pueblo de Nefi, después de la muerte de Nefi:
 

@@ -1,22 +1,21 @@
 ---
 title: Êxodo 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 2
 [[Êxodo 1| <-- Êxodo 1]] | [[Êxodo]] | [[Êxodo 3|Êxodo 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés nasce de pais levitas; é criado pela filha de Faraó; mata um egípcio em defesa de um israelita; foge para Midiã; casa-se com Zípora — Israel em servidão clama ao Senhor.
 
----
 ###### 1 
 E foi um homem da casa de Levi, e casou com uma filha de Levi.
 

@@ -1,22 +1,21 @@
 ---
 title: Mateo 9
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 9
 [[Mateo 8| <-- Mateo 8]] | [[Mateo]] | [[Mateo 10|Mateo 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús perdona los pecados, sana a un paralítico y llama a Mateo — Jesús come con los pecadores, sana a una mujer que toca Su manto y restaura la vida a la hija de Jairo — Abre los ojos de los ciegos, echa fuera a un demonio y predica el Evangelio.
 
----
 ###### 1 
 Entonces, entrando  en la barca, pasó al otro lado y vino a su ciudad.
 

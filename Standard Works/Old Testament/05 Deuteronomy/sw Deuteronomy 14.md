@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Israelites are children of the Lord Jehovah—Unclean beasts, fish, and fowl are not to be eaten—The Israelites are to tithe all the increase of their seed annually.
 
----
 ###### 1 
 Ye  the children of the  your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.
 

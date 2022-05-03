@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah was foreordained to be a prophet unto the nations—He is called as a mortal to declare the word of the Lord.
 
----
 ###### 1 
 The words of Jeremiah the son of Hilkiah, of the priests that  in Anathoth in the land of Benjamin:
 

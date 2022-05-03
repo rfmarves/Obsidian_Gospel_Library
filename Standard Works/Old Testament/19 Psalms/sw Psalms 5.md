@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 5
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/5?lang=eng)
 
----
+```
 To the chief Musician upon Nehiloth, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David asks the Lord to hear his voice—The Lord hates workers of iniquity—He blesses and shields the righteous.
 
----
 ###### 1 
 Give ear to my words, O , consider my meditation.
 

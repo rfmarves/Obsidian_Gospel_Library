@@ -1,22 +1,21 @@
 ---
 title: Êxodo 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 19
 [[Êxodo 18| <-- Êxodo 18]] | [[Êxodo]] | [[Êxodo 20|Êxodo 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor faz o convênio de tornar Israel uma propriedade peculiar, um reino de sacerdotes e um povo santo — O povo santifica-se — O Senhor aparece no Sinai em meio a fogo, fumaça e terremotos.
 
----
 ###### 1 
 Ao terceiro mês da saída dos filhos de Israel da terra do Egito, no mesmo dia chegaram ao deserto de Sinai,
 

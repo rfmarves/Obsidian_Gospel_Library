@@ -1,22 +1,21 @@
 ---
 title: Jeremias 25
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 25
 [[Jeremias 24| <-- Jeremias 24]] | [[Jeremias]] | [[Jeremias 26|Jeremias 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A Judá cativa servirá Babilônia por setenta anos — Várias nações serão derrubadas — Nos últimos dias, todos os habitantes da Terra estarão em guerra.
 
----
 ###### 1 
 A palavra que veio a Jeremias acerca de todo o povo de Judá no ano quarto de Joaquim, filho de Josias, rei de Judá (que é o primeiro ano de Nabucodonosor, rei de Babilônia),
 

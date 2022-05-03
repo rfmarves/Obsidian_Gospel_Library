@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 16
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 16
 [[3 Nefi 15| <-- 3 Nefi 15]] | [[3 Nefi]] | [[3 Nefi 17|3 Nefi 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús visitará a otras ovejas perdidas de Israel — En los últimos días, el Evangelio irá a los gentiles y después a la casa de Israel — Los del pueblo del Señor verán ojo a ojo cuando Él haga volver a Sion. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Y en verdad, en verdad os digo que tengo otras ovejas que no son de esta tierra, ni de la tierra de Jerusalén, ni de ninguna de las partes de esa tierra circundante donde he estado para ejercer mi ministerio.
 

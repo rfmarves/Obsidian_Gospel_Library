@@ -1,22 +1,21 @@
 ---
 title: DeC 9
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 9
 [[DeC 8| <-- DeC 8]] | [[DeC]] | [[DeC 10|DeC 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–6, Outros registros antigos ainda estão para ser traduzidos; 7–14, O Livro de Mórmon é traduzido por estudo e por confirmação espiritual.
 
----
 ###### 1 
 Eis que eu te digo, meu filho, que por não teres traduzido conforme me havias pedido e começado outra vez a escrever para meu servo Joseph Smith Júnior desejo que assim continues até que tenhas terminado este registro que confiei a ele.
 

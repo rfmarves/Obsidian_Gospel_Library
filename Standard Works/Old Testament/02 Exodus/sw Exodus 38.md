@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 38
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 38
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/38?lang=eng)
 
----
-__Summary__
+> __Summary__
 Bezaleel and others make the altar of burnt offerings and all things pertaining to the tabernacle—Offerings are made by 603,550 men.
 
----
 ###### 1 
 And he made the altar of burnt offering  shittim wood: five cubits  the length thereof, and five cubits the breadth thereof;  foursquare; and three cubits the height thereof.
 

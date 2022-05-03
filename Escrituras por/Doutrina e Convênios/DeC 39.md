@@ -1,22 +1,21 @@
 ---
 title: DeC 39
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 39
 [[DeC 38| <-- DeC 38]] | [[DeC]] | [[DeC 40|DeC 40 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/39?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/39?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, Os santos têm poder para tornarem-se filhos de Deus; 5–6, Receber o evangelho é receber Cristo; 7–14, James Covel recebe a ordem de ser batizado e trabalhar na vinha do Senhor; 15–21, Os servos do Senhor devem pregar o evangelho antes da Segunda Vinda; 22–24, Os que recebem o evangelho serão reunidos nesta vida e na eternidade.
 
----
 ###### 1 
 Escuta e dá ouvidos à voz daquele que é de toda a eternidade a toda a eternidade, o Grande , sim, Jesus Cristo —
 

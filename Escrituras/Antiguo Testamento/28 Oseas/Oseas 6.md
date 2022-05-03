@@ -1,22 +1,21 @@
 ---
 title: Oseas 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseas 6
 [[Oseas 5| <-- Oseas 5]] | [[Oseas]] | [[Oseas 7|Oseas 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Oseas invita a Israel a volver a Jehová y a servirle — La misericordia y el conocimiento de Dios son más importantes que los sacrificios rituales.
 
----
 ###### 1 
 Venid y volvamos a Jehová; porque él despedazó, y nos curará; hirió, y nos vendará.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Flood ceases—Noah sends forth a dove, which returns with an olive leaf—He releases all living things from the ark—He offers sacrifices—Seedtime, harvest, and seasons are ensured.
 
----
 ###### 1 
 And God remembered Noah, and every living thing, and all the cattle that  with him in the ark: and God made a wind to pass over the earth, and the waters assuaged;
 

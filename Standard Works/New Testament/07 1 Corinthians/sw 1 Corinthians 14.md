@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 14
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 People should desire spiritual gifts—Tongues and prophecy are compared—Prophecy is the greater gift—Paul says, You may all prophesy; covet to prophesy.
 
----
 ###### 1 
 Follow after charity, and desire spiritual  but rather that ye may prophesy.
 

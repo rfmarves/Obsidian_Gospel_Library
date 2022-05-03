@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 26
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 26
 [[Deuteronômio 25| <-- Deuteronômio 25]] | [[Deuteronômio]] | [[Deuteronômio 27|Deuteronômio 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Israel oferecerão ao Senhor um cesto com as primícias de Canaã — Eles recebem o mandamento de cumprir a lei do dízimo — Eles fazem convênio de guardar os mandamentos, e o Senhor promete fazer deles um povo santo e uma grande nação.
 
----
 ###### 1 
 E acontecerá  quando entrares na terra que o  teu Deus te der por herança, e a possuíres, e nela habitares,
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 19
 [[2 Crónicas 18| <-- 2 Crónicas 18]] | [[2 Crónicas]] | [[2 Crónicas 20|2 Crónicas 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Josafat es reprendido por haber ayudado al impío Acab — Josafat ayuda al pueblo a volver a Jehová, establece jueces y administra justicia.
 
----
 ###### 1 
 Y Josafat, rey de Judá, volvió en paz a su casa en Jerusalén.
 

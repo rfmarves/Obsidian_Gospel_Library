@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 7
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/7?lang=eng)
 
----
+```
 Shiggaion of David, which he sang unto the Lord, concerning the words of Cush the Benjamite.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David trusts in the Lord, who will judge the people—God is angry with the wicked.
 
----
 ###### 1 
 O  my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:
 

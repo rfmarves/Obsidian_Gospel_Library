@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 22
 [[Deuteronomio 21| <-- Deuteronomio 21]] | [[Deuteronomio]] | [[Deuteronomio 23|Deuteronomio 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moisés expone las leyes tocantes a los bienes perdidos, al uso de ropa apropiada, al cuidado de los intereses de los demás, al casamiento con vírgenes y a la inmoralidad sexual.
 
----
 ###### 1 
 Si ves extraviado el buey o el cordero de tu hermano, no te desentenderás de ellos; sin falta los devolverás a tu hermano.
 

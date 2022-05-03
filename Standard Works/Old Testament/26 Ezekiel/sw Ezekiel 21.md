@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Both the righteous and the wicked in Jerusalem will be slain—Babylon will draw a sharp and bright sword against Israel and will prevail.
 
----
 ###### 1 
 And the word of the  came unto me, saying,
 

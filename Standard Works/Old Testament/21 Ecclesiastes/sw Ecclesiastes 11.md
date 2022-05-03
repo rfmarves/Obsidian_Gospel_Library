@@ -1,10 +1,11 @@
 ---
 title: sw Ecclesiastes 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ecclesiastes 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Do good and give to them who need—God will bring all men to judgment.
 
----
 ###### 1 
 Cast thy bread upon the waters: for thou shalt find it after many days.
 

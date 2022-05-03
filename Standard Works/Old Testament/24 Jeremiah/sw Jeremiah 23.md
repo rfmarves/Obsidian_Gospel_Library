@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 The remnants of Israel will be gathered in the last days—The Branch, who is the King (the Messiah), will reign in righteousness—False prophets who teach lies will be cursed.
 
----
 ###### 1 
 Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the .
 

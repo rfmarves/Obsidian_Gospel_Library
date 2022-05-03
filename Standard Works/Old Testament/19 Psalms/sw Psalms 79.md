@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 79
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 79
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/79?lang=eng)
 
----
+```
 A Psalm of Asaph.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The heathen nations destroy Jerusalem and defile the temple—Israel pleads for forgiveness and deliverance.
 
----
 ###### 1 
 O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.
 

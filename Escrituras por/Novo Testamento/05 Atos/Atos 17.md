@@ -1,22 +1,21 @@
 ---
 title: Atos 17
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 17
 [[Atos 16| <-- Atos 16]] | [[Atos]] | [[Atos 18|Atos 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo e Silas pregam e são perseguidos em Tessalônica e Bereia — Em Atenas, Paulo prega na Colina de Marte acerca do deus desconhecido — Ele diz: “Somos geração de Deus.”
 
----
 ###### 1 
 E passando por Anfípolis e Apolônia, chegaram a Tessalônica, onde havia uma sinagoga de judeus.
 

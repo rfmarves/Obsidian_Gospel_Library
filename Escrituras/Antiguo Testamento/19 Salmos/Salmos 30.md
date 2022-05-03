@@ -1,27 +1,25 @@
 ---
 title: Salmos 30
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 30
 [[Salmos 29| <-- Salmos 29]] | [[Salmos]] | [[Salmos 31|Salmos 31 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/30?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/30?lang=spa)
 
----
+```
 Salmo. Cántico para la dedicación de la casa, de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David canta alabanzas y da gracias a Jehová — David suplica misericordia.
 
----
 ###### 1 
 
 

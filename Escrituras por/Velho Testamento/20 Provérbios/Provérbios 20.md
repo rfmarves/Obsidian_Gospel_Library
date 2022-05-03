@@ -1,22 +1,21 @@
 ---
 title: Provérbios 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 20
 [[Provérbios 19| <-- Provérbios 19]] | [[Provérbios]] | [[Provérbios 21|Provérbios 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O vinho é escarnecedor, e a bebida forte é alvoroçadora — Volta-te ao Senhor, e Ele te salvará.
 
----
 ###### 1 
 O vinho  escarnecedor, a bebida forte  alvoroçadora, e todo aquele que neles errar nunca será sábio.
 

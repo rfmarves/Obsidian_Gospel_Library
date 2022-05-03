@@ -1,22 +1,21 @@
 ---
 title: Éxodo 33
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 33
 [[Éxodo 32| <-- Éxodo 32]] | [[Éxodo]] | [[Éxodo 34|Éxodo 34 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/33?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/33?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová promete estar con Israel y echar a los pueblos de aquella tierra — El tabernáculo de reunión es llevado fuera del campamento — Jehová habla a Moisés cara a cara en el tabernáculo — Después, Moisés ve la gloria de Jehová, pero no Su rostro.
 
----
 ###### 1 
 Y Jehová dijo a Moisés: Ve, sube de aquí, tú y el pueblo que sacaste de la tierra de Egipto, a la tierra de la cual juré a Abraham, a Isaac y a Jacob, diciendo: A tu descendencia la daré.
 

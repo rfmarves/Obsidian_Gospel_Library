@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses specifies those who may and may not enter the congregation—He sets forth laws concerning sanitation, servants, usury, and vows.
 
----
 ###### 1 
 He that is wounded in the stones, or hath his privy member cut off, shall not enter into the congregation of the .
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 19
 [[1 Reis 18| <-- 1 Reis 18]] | [[1 Reis]] | [[1 Reis 20|1 Reis 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jezabel procura matar Elias, o profeta — Um anjo envia Elias a Horebe — O Senhor fala a Elias, não no vento nem no terremoto nem no fogo, mas com uma voz mansa e delicada — Eliseu passa a acompanhar Elias, o profeta.
 
----
 ###### 1 
 E Acabe fez saber a Jezabel tudo quanto Elias havia feito, e como totalmente matara todos os profetas à espada.
 

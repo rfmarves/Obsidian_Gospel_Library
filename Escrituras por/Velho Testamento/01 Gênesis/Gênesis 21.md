@@ -1,22 +1,21 @@
 ---
 title: Gênesis 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 21
 [[Gênesis 20| <-- Gênesis 20]] | [[Gênesis]] | [[Gênesis 22|Gênesis 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sara dá à luz Isaque — Ele é circuncidado — Agar e seu filho são expulsos da casa de Abraão — O Senhor salva Agar e Ismael — Abraão e Abimeleque agem honradamente um com o outro.
 
----
 ###### 1 
 E o  visitou Sara, como tinha dito; e fez o  a Sara como tinha falado.
 

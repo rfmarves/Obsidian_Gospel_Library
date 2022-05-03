@@ -1,22 +1,21 @@
 ---
 title: DyC 87
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 87
 [[DyC 86| <-- DyC 86]] | [[DyC]] | [[DyC 88|DyC 88 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/87?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/87?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, Se predice la guerra entre los estados del norte y los estados del sur; 5–8, Grandes calamidades descenderán sobre todos los habitantes de la tierra.
 
----
 ###### 1 
 De cierto, así dice el Señor concerniente a las guerras que pronto acaecerán, comenzando por la rebelión de Carolina del Sur, de las cuales finalmente resultarán la muerte y la miseria de muchas almas;
 

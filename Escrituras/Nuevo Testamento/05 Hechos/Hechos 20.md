@@ -1,22 +1,21 @@
 ---
 title: Hechos 20
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 20
 [[Hechos 19| <-- Hechos 19]] | [[Hechos]] | [[Hechos 21|Hechos 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo levanta a Eutico de la muerte — Pablo se declara inocente de la sangre de todos los hombres — Predice la apostasía en la Iglesia — Revela una enseñanza de Jesús: Más bienaventurado es dar que recibir.
 
----
 ###### 1 
 Y después que cesó el alboroto, llamó Pablo a los discípulos, habiéndolos exhortado y abrazado, se despidió y salió para ir a Macedonia.
 

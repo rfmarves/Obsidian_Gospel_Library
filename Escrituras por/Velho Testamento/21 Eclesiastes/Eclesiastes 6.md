@@ -1,22 +1,21 @@
 ---
 title: Eclesiastes 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastes 6
 [[Eclesiastes 5| <-- Eclesiastes 5]] | [[Eclesiastes]] | [[Eclesiastes 7|Eclesiastes 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A menos que a alma de um homem esteja repleta de coisas boas, sua riqueza, bens, honra e posteridade são vaidade.
 
----
 ###### 1 
 Há um mal que tenho visto debaixo do sol, e que  muito frequente entre os homens:
 

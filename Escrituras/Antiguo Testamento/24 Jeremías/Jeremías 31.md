@@ -1,22 +1,21 @@
 ---
 title: Jeremías 31
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 31
 [[Jeremías 30| <-- Jeremías 30]] | [[Jeremías]] | [[Jeremías 32|Jeremías 32 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/31?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/31?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel será recogido en los últimos días — Jehová declara que Efraín tiene la primogenitura — Jehová hará un nuevo convenio con Israel que será inscrito en el corazón — Entonces todo Israel conocerá a Jehová.
 
----
 ###### 1 
 En aquel tiempo, dice Jehová, yo seré el Dios de todas las familias de Israel, y ellos serán mi pueblo.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Moses 1
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moses 1
@@ -15,11 +16,9 @@ people:
 Moses
 (June 1830)
 
----
-__Summary__
+> __Summary__
 God reveals Himself to Moses—Moses is transfigured—He is confronted by Satan—Moses sees many inhabited worlds—Worlds without number were created by the Son—God’s work and glory is to bring to pass the immortality and eternal life of man.
 
----
 ###### 1 
 The words of God, which he spake unto Moses at a time when Moses was caught up into an exceedingly high mountain,
 

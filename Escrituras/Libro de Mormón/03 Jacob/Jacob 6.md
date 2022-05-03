@@ -1,22 +1,21 @@
 ---
 title: Jacob 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jacob 6
 [[Jacob 5| <-- Jacob 5]] | [[Jacob]] | [[Jacob 7|Jacob 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Señor recobrará a Israel en los últimos días — El mundo será quemado con fuego — Los hombres deben seguir a Cristo para evitar el lago de fuego y azufre. Aproximadamente 544–421 a.C.
 
----
 ###### 1 
 Y ahora bien, he aquí, mis hermanos, como os dije que iba a profetizar, he aquí, esta es mi profecía: Que las cosas que habló este profeta Zenós concernientes a los de la casa de Israel, en las cuales los comparó a un olivo cultivado, ciertamente han de acontecer.
 

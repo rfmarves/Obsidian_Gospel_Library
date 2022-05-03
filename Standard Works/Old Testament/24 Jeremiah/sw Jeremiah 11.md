@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people of Judah are cursed for breaking the covenant of obedience—The Lord will not hear their prayers.
 
----
 ###### 1 
 The word that came to Jeremiah from the , saying,
 

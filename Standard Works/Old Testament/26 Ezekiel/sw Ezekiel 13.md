@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel reproves false prophets, both male and female, who speak lies, to whom God has not spoken.
 
----
 ###### 1 
 And the word of the  came unto me, saying,
 

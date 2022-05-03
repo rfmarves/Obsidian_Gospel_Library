@@ -1,22 +1,21 @@
 ---
 title: Mateo 13
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 13
 [[Mateo 12| <-- Mateo 12]] | [[Mateo]] | [[Mateo 14|Mateo 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús explica por qué enseña con parábolas — Enseña las parábolas del sembrador, del trigo y la cizaña, del grano de mostaza, de la levadura, del tesoro escondido en el campo, de la perla de gran precio y de la red echada en el mar — Nadie es profeta en su propia tierra.
 
----
 ###### 1 
 Y aquel día salió Jesús de la casa y se sentó junto al mar.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ chooses some as kings and priests unto God—Christ will come again—John sees the risen Lord.
 
----
 ###### 1 
 The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified  by his angel unto his servant John:
 

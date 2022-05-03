@@ -1,22 +1,21 @@
 ---
 title: Números 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 20
 [[Números 19| <-- Números 19]] | [[Números]] | [[Números 21|Números 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 María muere — Moisés golpea una roca en Meriba y sale agua — El rey de Edom rehúsa dejar pasar pacíficamente a Israel por su tierra — Aarón muere y Eleazar se convierte en el sumo sacerdote.
 
----
 ###### 1 
 Y llegaron los hijos de Israel, toda la congregación, al desierto de Zin, en el mes primero, y acampó el pueblo en Cades; y allí murió María, y allí fue sepultada.
 

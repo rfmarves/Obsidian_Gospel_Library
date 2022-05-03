@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 12
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 John sees the imminent apostasy of the Church—He also sees the War in Heaven in the beginning when Satan was cast out—He sees the continuation of that war on earth.
 
----
 ###### 1 
 And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
 

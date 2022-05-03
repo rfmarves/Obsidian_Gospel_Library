@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 29
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 29
 [[2 Crónicas 28| <-- 2 Crónicas 28]] | [[2 Crónicas]] | [[2 Crónicas 30|2 Crónicas 30 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/29?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequías reina con rectitud y restablece la adoración a Jehová — Los levitas limpian la casa de Jehová y la santifican — Los sacerdotes ofrecen sacrificios y hacen reconciliación y expiación por el pueblo — Ezequías y todo el pueblo adoran a Jehová y alaban Su nombre.
 
----
 ###### 1 
 Y Ezequías comenzó a reinar cuando tenía veinticinco años, y reinó veintinueve años en Jerusalén. El nombre de su madre era Abías hija de Zacarías.
 

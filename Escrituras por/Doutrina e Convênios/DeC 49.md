@@ -1,22 +1,21 @@
 ---
 title: DeC 49
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 49
 [[DeC 48| <-- DeC 48]] | [[DeC]] | [[DeC 50|DeC 50 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–7, O dia e a hora da vinda de Cristo permanecerão incógnitos até que Ele venha; 8–14, Os homens devem arrepender-se, crer no evangelho e obedecer às ordenanças para obter salvação; 15–16, O casamento é decretado por Deus; 17–21, É aprovado que se coma carne; 22–28, Sião prosperará e os lamanitas florescerão como a rosa, antes da Segunda Vinda.
 
----
 ###### 1 
 Escutai minha palavra, meus servos Sidney e Parley e Leman; pois eis que em verdade vos digo que vos dou o mandamento de irdes pregar aos Shakers o meu evangelho que recebestes, da forma como o recebestes.
 

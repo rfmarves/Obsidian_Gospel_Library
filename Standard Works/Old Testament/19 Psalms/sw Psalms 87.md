@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 87
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 87
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/87?lang=eng)
 
----
+```
 A Psalm or Song for the sons of Korah.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The Lord loves the gates of Zion, and He Himself will establish Zion.
 
----
 ###### 1 
 His foundation  in the holy mountains.
 

@@ -1,22 +1,21 @@
 ---
 title: Ester 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 5
 [[Ester 4| <-- Ester 4]] | [[Ester]] | [[Ester 6|Ester 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O rei recebe Ester — Ela convida o rei e Hamã para um banquete — Hamã planeja enforcar Mardoqueu.
 
----
 ###### 1 
 E sucedeu que, ao terceiro dia, Ester se vestiu  reais, e se pôs no pátio interior da casa do rei, defronte do aposento do rei; e o rei estava assentado sobre o seu trono real, na casa real, defronte da porta do aposento.
 

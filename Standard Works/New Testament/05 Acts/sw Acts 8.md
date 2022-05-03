@@ -1,10 +1,11 @@
 ---
 title: sw Acts 8
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saul persecutes the Church—Philip’s ministry in Samaria is described—Philip performs miracles and baptizes men and women—Peter and John come to Samaria and confer the gift of the Holy Ghost by the laying on of hands—Simon seeks to buy this gift and is rebuked by Peter—Philip preaches about Christ and baptizes an Ethiopian eunuch.
 
----
 ###### 1 
 And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judæa and Samaria, except the apostles.
 

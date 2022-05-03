@@ -1,10 +1,11 @@
 ---
 title: sw D&C 1
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–7, The voice of warning is to all people; 8–16, Apostasy and wickedness precede the Second Coming; 17–23, Joseph Smith is called to restore to earth the Lord’s truths and powers; 24–33, The Book of Mormon is brought forth and the true Church is established; 34–36, Peace will be taken from the earth; 37–39, Search these commandments.
 
----
 ###### 1 
 Hearken, O ye people of my church, saith the voice of him who dwells on high, and whose eyes are upon all men; yea, verily I say: Hearken ye people from afar; and ye that are upon the islands of the sea, listen together.
 

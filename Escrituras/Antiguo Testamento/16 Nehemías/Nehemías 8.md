@@ -1,22 +1,21 @@
 ---
 title: Nehemías 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nehemías 8
 [[Nehemías 7| <-- Nehemías 7]] | [[Nehemías]] | [[Nehemías 9|Nehemías 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Esdras lee e interpreta la ley de Moisés al pueblo — Los del pueblo guardan la Fiesta de los Tabernáculos.
 
----
 ###### 1 
 Y se reunió todo el pueblo como un solo hombre en la plaza que está delante de la puerta de las Aguas, y dijeron a Esdras, el escriba, que trajese el libro de la ley de Moisés, la cual Jehová había dado a Israel.
 

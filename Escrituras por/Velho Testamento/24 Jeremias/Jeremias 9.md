@@ -1,22 +1,21 @@
 ---
 title: Jeremias 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 9
 [[Jeremias 8| <-- Jeremias 8]] | [[Jeremias]] | [[Jeremias 10|Jeremias 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias lamenta profundamente os pecados do povo — Eles serão dispersos entre as nações e punidos.
 
----
 ###### 1 
 Quem dera que a minha cabeça se tornasse  águas, e os meus olhos, numa fonte de lágrimas! Então choraria de dia e de noite os mortos da filha do meu povo.
 

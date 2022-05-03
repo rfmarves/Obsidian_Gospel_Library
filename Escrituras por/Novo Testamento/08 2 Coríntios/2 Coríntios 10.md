@@ -1,22 +1,21 @@
 ---
 title: 2 Coríntios 10
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Coríntios 10
 [[2 Coríntios 9| <-- 2 Coríntios 9]] | [[2 Coríntios]] | [[2 Coríntios 11|2 Coríntios 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sujeitai todo pensamento à obediência — Paulo se gloria no Senhor.
 
----
 ###### 1 
 Além disso, eu, Paulo, vos rogo, pela mansidão e benignidade de Cristo, eu que, na verdade, quando presente entre vós,  humilde; mas, ausente, ousado para convosco;
 

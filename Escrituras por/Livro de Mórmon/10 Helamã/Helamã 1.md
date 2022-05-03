@@ -1,27 +1,25 @@
 ---
 title: Helamã 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamã 1
 [[Alma 63| <-- Alma 63]] | [[Helamã]] | [[Helamã 2|Helamã 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/1?lang=por)
 
----
+```
 Relato sobre os nefitas. Suas guerras, contendas e dissensões. E também as profecias de muitos santos profetas antes da vinda de Cristo, segundo os registros de Helamã, que era filho de Helamã, e também segundo os registros de seus filhos até a vinda de Cristo. Muitos lamanitas são convertidos. Relato de sua conversão. Relato da retidão dos lamanitas e das iniquidades e abominações dos nefitas, segundo o registro de Helamã e seus filhos, até a vinda de Cristo, relato esse chamado Livro de Helamã.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Paorã Ⅱ torna-se juiz supremo e é assassinado por Quiscúmen — Pacumêni ocupa a cadeira de juiz — Coriântumr lidera os exércitos lamanitas, toma Zaraenla e mata Pacumêni — Moronia derrota os lamanitas e recupera Zaraenla; Coriântumr é morto. Aproximadamente 52–50 a.C.
 
----
 ###### 1 
 E então, eis que aconteceu que no começo do quadragésimo ano em que os juízes governaram o povo de Néfi, surgiu uma séria dificuldade entre o povo nefita.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Laws governing various sacrifices are listed—The children of Israel are forbidden to eat fat or blood—They worship by sacrifice—Through sacrifice they gain forgiveness, make vows, consecrate their property, render thanks, and are reconciled to God.
 
----
 ###### 1 
 Likewise this  the law of the trespass offering: it  most holy.
 

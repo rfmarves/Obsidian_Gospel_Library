@@ -1,22 +1,21 @@
 ---
 title: 1 João 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 João 3
 [[1 João 2| <-- 1 João 2]] | [[1 João]] | [[1 João 4|1 João 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Deus se tornarão como Cristo — O amor pelo irmão é necessário para se alcançar a vida eterna — A obediência nos assegura uma resposta a nossas orações.
 
----
 ###### 1 
 Vede quão grande amor nos concedeu o Pai: que fôssemos chamados filhos de Deus. Por isso o mundo não nos conhece; porque não conhece a ele.
 

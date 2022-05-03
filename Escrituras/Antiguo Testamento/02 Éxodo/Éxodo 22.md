@@ -1,22 +1,21 @@
 ---
 title: Éxodo 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 22
 [[Éxodo 21| <-- Éxodo 21]] | [[Éxodo]] | [[Éxodo 23|Éxodo 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová revela Sus leyes concernientes al hurto, a las destrucciones por fuego, al cuidado de la propiedad de los demás, al préstamo, a los actos lascivos, a los sacrificios a dioses falsos, al afligir a las viudas, a la usura, al injuriar a Dios y a las leyes referentes al primogénito de hombres y de animales — Se manda a los hombres de Israel ser santos.
 
----
 ###### 1 
 Si alguno hurta buey u oveja y lo mata o lo vende, por aquel buey pagará cinco bueyes y por aquella oveja, cuatro ovejas.
 

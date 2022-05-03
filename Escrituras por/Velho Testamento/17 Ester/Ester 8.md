@@ -1,22 +1,21 @@
 ---
 title: Ester 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 8
 [[Ester 7| <-- Ester 7]] | [[Ester]] | [[Ester 9|Ester 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mardoqueu recebe honras e torna-se encarregado da casa de Hamã — Assuero emite um decreto para preservar os judeus.
 
----
 ###### 1 
 Naquele mesmo dia deu o rei Assuero à rainha Ester a casa de Hamã, inimigo dos judeus; e Mardoqueu foi perante o rei, porque Ester tinha declarado quem ele era.
 

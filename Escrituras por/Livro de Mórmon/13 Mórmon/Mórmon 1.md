@@ -1,22 +1,21 @@
 ---
 title: Mórmon 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mórmon 1
 [[4 Néfi 1| <-- 4 Néfi 1]] | [[Mórmon]] | [[Mórmon 2|Mórmon 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amaron instrui Mórmon sobre os registros sagrados — Começa a guerra entre os nefitas e os lamanitas — Os Três Nefitas são levados — Prevalecem a iniquidade, a descrença, as magias e as feitiçarias. Aproximadamente 321–326 d.C.
 
----
 ###### 1 
 E agora eu, Mórmon, faço um registro das coisas que vi e ouvi e chamo-o Livro de Mórmon.
 

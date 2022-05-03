@@ -1,22 +1,21 @@
 ---
 title: 1 Néfi 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Néfi 8
 [[1 Néfi 7| <-- 1 Néfi 7]] | [[1 Néfi]] | [[1 Néfi 9|1 Néfi 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Leí tem uma visão da árvore da vida — Come de seu fruto e deseja que sua família faça o mesmo — Vê uma barra de ferro, um caminho estreito e apertado e a névoa de escuridão que encobre os homens — Saria, Néfi e Sam comem do fruto, porém Lamã e Lemuel recusam-no. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 E aconteceu que havíamos juntado todo tipo de sementes de toda espécie, tanto de grãos de toda espécie quanto de sementes de frutas de toda espécie.
 

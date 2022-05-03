@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 41
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 41
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/41?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel sees the inner temple and the Holy of Holies, and he is shown their form and size.
 
----
 ###### 1 
 Afterward he brought me to the temple, and measured the posts, six cubits broad on the one side, and six cubits broad on the other side,  the breadth of the tabernacle.
 

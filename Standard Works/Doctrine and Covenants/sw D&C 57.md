@@ -1,10 +1,11 @@
 ---
 title: sw D&C 57
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 57
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/57?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, Independence, Missouri, is the place for the City of Zion and the temple; 4–7, The Saints are to purchase lands and receive inheritances in that area; 8–16, Sidney Gilbert is to establish a store, William W. Phelps is to be a printer, and Oliver Cowdery is to edit material for publication.
 
----
 ###### 1 
 Hearken, O ye elders of my church, saith the Lord your God, who have assembled yourselves together, according to my commandments, in this land, which is the land of Missouri, which is the land which I have appointed and consecrated for the gathering of the saints.
 

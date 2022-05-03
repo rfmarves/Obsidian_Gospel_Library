@@ -1,22 +1,21 @@
 ---
 title: DyC 92
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 92
 [[DyC 91| <-- DyC 91]] | [[DyC]] | [[DyC 93|DyC 93 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/92?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/92?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–2, Un mandamiento concerniente a la admisión en la orden unida.
 
----
 ###### 1 
 De cierto, así dice el Señor, doy a la orden unida, organizada conforme al mandamiento previamente dado, una revelación y mandamiento concerniente a mi siervo Frederick G. Williams, de admitirlo en la orden. Lo que digo a uno lo digo a todos.
 

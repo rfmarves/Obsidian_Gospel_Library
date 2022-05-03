@@ -1,22 +1,21 @@
 ---
 title: Lucas 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 1
 [[Marcos 16| <-- Marcos 16]] | [[Lucas]] | [[Lucas 2|Lucas 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Gabriel promete a Zacarías que Elisabet dará a luz un hijo, al que llamarán Juan — También anuncia a María que será la madre del Hijo de Dios — María visita a Elisabet y pronuncia un salmo de alabanza — Nace Juan el Bautista — Zacarías profetiza acerca de la misión de Juan.
 
----
 ###### 1 
 Puesto que ya muchos han tratado de poner en orden la historia de las cosas que entre nosotros han sido ciertísimas,
 

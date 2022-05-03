@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Josiah reigns in righteousness in Judah—Hilkiah repairs the temple and finds the book of the law—Josiah sorrows because of the wickedness of his fathers—Huldah prophesies wrath upon the people but blessings upon Josiah.
 
----
 ###### 1 
 Josiah  eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother’s name  Jedidah, the daughter of Adaiah of Boscath.
 

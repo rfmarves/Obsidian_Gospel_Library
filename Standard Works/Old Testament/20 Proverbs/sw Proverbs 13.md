@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 The way of the transgressor is hard—Evil pursues sinners—He who does not discipline his children hates them.
 
----
 ###### 1 
 A wise son  his father’s instruction: but a scorner heareth not rebuke.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Elijah seals the heavens and is fed by the ravens—At his command the barrel of flour and the jar of oil of the widow of Zarephath never become empty—He raises her son from death.
 
----
 ###### 1 
 And Elijah the Tishbite,  of the inhabitants of Gilead, said unto Ahab,  the  God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 21
 [[1 Samuel 20| <-- 1 Samuel 20]] | [[1 Samuel]] | [[1 Samuel 22|1 Samuel 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David consigue ayuda del sacerdote Ahimelec — Come el pan de la proposición — Se dirige a Gat, donde finge locura.
 
----
 ###### 1 
 Y llegó David a Nob, al sacerdote Ahimelec; y se atemorizó Ahimelec de su encuentro y le dijo: ¿Cómo  tú solo, y nadie contigo?
 

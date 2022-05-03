@@ -1,22 +1,21 @@
 ---
 title: Mateo 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 1
 | [[Mateo]] | [[Mateo 2|Mateo 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cristo nace de María — Ella concibe por el poder del Espíritu Santo — A nuestro Señor se le da el nombre de Jesús.
 
----
 ###### 1 
 Libro de la genealogía de Jesucristo, hijo de David, hijo de Abraham:
 

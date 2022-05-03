@@ -1,22 +1,21 @@
 ---
 title: Êxodo 34
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 34
 [[Êxodo 33| <-- Êxodo 33]] | [[Êxodo]] | [[Êxodo 35|Êxodo 35 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/34?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/34?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés lavra novas tábuas de pedra — Ele sobe ao monte Sinai por quarenta dias — O Senhor proclama Seu nome e atributos e revela Sua lei — Ele faz outro convênio com Israel — A pele do rosto de Moisés resplandece, e ele usa um véu.
 
----
 ###### 1 
 E disse o  a Moisés: Lavra-te duas tábuas de pedra, como as primeiras; e eu escreverei nas tábuas as mesmas palavras que estavam nas primeiras tábuas, que tu quebraste.
 

@@ -1,22 +1,21 @@
 ---
 title: Proverbios 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 2
 [[Proverbios 1| <-- Proverbios 1]] | [[Proverbios]] | [[Proverbios 3|Proverbios 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová da la sabiduría, el conocimiento y el entendimiento — Andad por el camino de los buenos.
 
----
 ###### 1 
 
 

@@ -1,10 +1,11 @@
 ---
 title: sw Job 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Zophar shows the condition of the wicked—He says, The triumphing of the wicked is short, and the joy of the hypocrite is but for a moment.
 
----
 ###### 1 
 Then answered Zophar the Naamathite, and said,
 

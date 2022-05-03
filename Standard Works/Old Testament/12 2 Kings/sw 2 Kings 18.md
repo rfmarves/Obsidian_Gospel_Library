@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Hezekiah reigns in righteousness in Judah—He destroys idolatry and breaks the brazen serpent made by Moses because the children of Israel burn incense to it—Sennacherib, king of Assyria, invades Judah—In a blasphemous speech, Rabshakeh asks Jerusalem to surrender to the Assyrians.
 
----
 ###### 1 
 Now it came to pass in the third year of Hoshea son of Elah king of Israel,  Hezekiah the son of Ahaz king of Judah began to reign.
 

@@ -1,22 +1,21 @@
 ---
 title: Lucas 5
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 5
 [[Lucas 4| <-- Lucas 4]] | [[Lucas]] | [[Lucas 6|Lucas 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Pedro, o pescador, é chamado para pescar homens — Jesus cura um leproso — Ele perdoa pecados e cura um paralítico — Mateus é chamado — Os enfermos precisam de um médico — O vinho novo precisa ser colocado em odres novos.
 
----
 ###### 1 
 E aconteceu que, apertando-o a multidão para ouvir a palavra de Deus, estava ele junto ao lago de Genesaré;
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 139
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 139
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/139?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David says that the Lord knows all man’s thoughts and doings—He asks, Where can man go to escape from the spirit and presence of the Lord?—Man is fearfully and wonderfully made.
 
----
 ###### 1 
 O , thou hast searched me, and known 
 

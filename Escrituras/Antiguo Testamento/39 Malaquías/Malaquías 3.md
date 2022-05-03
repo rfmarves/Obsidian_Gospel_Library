@@ -1,22 +1,21 @@
 ---
 title: Malaquías 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Malaquías 3
 [[Malaquías 2| <-- Malaquías 2]] | [[Malaquías]] | [[Malaquías 4|Malaquías 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El mensajero de Jehová preparará el camino para la Segunda Venida — Jehová se sentará para juzgar — Se manda a Israel pagar diezmos y ofrendas — Se lleva un libro de memorias.
 
----
 ###### 1 
 He aquí, yo envío a mi mensajero, y él preparará el camino delante de mí; y vendrá súbitamente a su templo el Señor a quien vosotros buscáis, el mensajero del convenio en quien vosotros os complacéis. He aquí, viene, ha dicho Jehová de los ejércitos.
 

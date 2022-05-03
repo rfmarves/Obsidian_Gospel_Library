@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 10
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 10
 [[1 Nefi 9| <-- 1 Nefi 9]] | [[1 Nefi]] | [[1 Nefi 11|1 Nefi 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Lehi predice la cautividad en Babilonia — Habla de la venida entre los judíos de un Mesías, un Salvador, un Redentor — Lehi habla también de la venida del que bautizaría al Cordero de Dios — Lehi habla de la muerte y de la resurrección del Mesías — Compara el esparcimiento y el recogimiento de Israel con un olivo — Nefi habla acerca del Hijo de Dios, del don del Espíritu Santo y de la necesidad de que haya rectitud. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 Y ahora yo, Nefi, procedo a hacer un relato sobre estas planchas de la historia de mis hechos, y mi reinado y ministerio; así pues, para continuar con mi relación, debo decir algo más acerca de las cosas de mi padre y también de mis hermanos.
 

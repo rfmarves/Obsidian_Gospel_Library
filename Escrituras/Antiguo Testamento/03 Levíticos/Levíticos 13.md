@@ -1,22 +1,21 @@
 ---
 title: Levíticos 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 13
 [[Levíticos 12| <-- Levíticos 12]] | [[Levíticos]] | [[Levíticos 14|Levíticos 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se revelan leyes y se dan indicios para reconocer y controlar la lepra — Los vestidos del leproso han de ser quemados.
 
----
 ###### 1 
 Y habló Jehová a Moisés y a Aarón, diciendo:
 

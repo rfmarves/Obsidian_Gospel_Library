@@ -1,22 +1,21 @@
 ---
 title: Alma 62
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 62
 [[Alma 61| <-- Alma 61]] | [[Alma]] | [[Alma 63|Alma 63 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/62?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/62?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Morôni marcha em auxílio de Paorã, na terra de Gideão — Os realistas que se recusam a defender seu país são executados — Paorã e Morôni retomam Nefia — Muitos lamanitas juntam-se ao povo de Amon — Teâncum mata Amoron e, por sua vez, é morto — Os lamanitas são expulsos da terra e a paz é estabelecida — Helamã retorna ao ministério e edifica a Igreja. Aproximadamente 62–57 a.C.
 
----
 ###### 1 
 E então aconteceu que quando Morôni recebeu esta epístola, seu coração encheu-se de coragem e de imensa alegria, devido à fidelidade de Paorã e por não ser ele um traidor da liberdade e da causa de sua pátria;
 

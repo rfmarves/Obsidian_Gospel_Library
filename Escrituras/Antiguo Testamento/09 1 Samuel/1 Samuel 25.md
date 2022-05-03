@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 25
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 25
 [[1 Samuel 24| <-- 1 Samuel 24]] | [[1 Samuel]] | [[1 Samuel 26|1 Samuel 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Samuel muere — Nabal desaira a David y rehúsa darle alimento — Abigail intercede, salva a Nabal y da a David un presente — David es pacificado, Nabal muere y David se casa con Abigail.
 
----
 ###### 1 
 Y murió Samuel, y se reunió todo Israel, y lo lloraron y lo sepultaron en su casa en Ramá. Y se levantó David y descendió al desierto de Parán.
 

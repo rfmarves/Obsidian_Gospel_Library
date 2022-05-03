@@ -1,10 +1,11 @@
 ---
 title: sw D&C 76
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 76
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, The Lord is God; 5–10, The mysteries of the kingdom will be revealed to all the faithful; 11–17, All will come forth in the resurrection of the just or the unjust; 18–24, The inhabitants of many worlds are begotten sons and daughters unto God through the Atonement of Jesus Christ; 25–29, An angel of God fell and became the devil; 30–49, Sons of perdition suffer eternal damnation; all others gain some degree of salvation; 50–70, The glory and reward of exalted beings in the celestial kingdom is described; 71–80, Those who will inherit the terrestrial kingdom are described; 81–113, The status of those in the telestial, terrestrial, and celestial glories is explained; 114–19, The faithful may see and understand the mysteries of God’s kingdom by the power of the Holy Spirit.
 
----
 ###### 1 
 Hear, O ye heavens, and give ear, O earth, and rejoice ye inhabitants thereof, for the Lord is God, and beside him there is no Savior.
 

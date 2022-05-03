@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 9
 [[Deuteronomio 8| <-- Deuteronomio 8]] | [[Deuteronomio]] | [[Deuteronomio 10|Deuteronomio 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Las otras naciones son arrojadas de Canaán debido a sus iniquidades — Moisés recuerda las rebeliones de Israel y narra cómo intercedió entre el pueblo y Jehová — En dos ocasiones estuvo sin alimento y sin agua durante cuarenta días.
 
----
 ###### 1 
 Oye, Israel: Hoy pasarás el Jordán para entrar a desposeer a naciones más  y más fuertes que tú, ciudades grandes y amuralladas hasta el cielo,
 

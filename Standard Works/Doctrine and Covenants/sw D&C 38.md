@@ -1,10 +1,11 @@
 ---
 title: sw D&C 38
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 38
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/38?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, Christ created all things; 7–8, He is in the midst of His Saints, who will soon see Him; 9–12, All flesh is corrupted before Him; 13–22, He has reserved a land of promise for His Saints in time and in eternity; 23–27, The Saints are commanded to be one and esteem each other as brethren; 28–29, Wars are predicted; 30–33, The Saints are to be given power from on high and to go forth among all nations; 34–42, The Church is commanded to care for the poor and needy and to seek the riches of eternity.
 
----
 ###### 1 
 Thus saith the Lord your God, even Jesus Christ, the Great , Alpha and Omega, the beginning and the end, the same which looked upon the wide expanse of eternity, and all the seraphic hosts of heaven, before the world was made;
 

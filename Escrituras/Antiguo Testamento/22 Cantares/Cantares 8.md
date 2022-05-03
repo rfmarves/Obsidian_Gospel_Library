@@ -1,22 +1,21 @@
 ---
 title: Cantares 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Cantares 8
 [[Cantares 7| <-- Cantares 7]] | [[Cantares]] | [[Isaías 1|Isaías 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/song/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/song/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Las muchas aguas no podrán apagar el amor.
 
----
 ###### 1 
 
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 132
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 132
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/132?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, Exaltation is gained through the new and everlasting covenant; 7–14, The terms and conditions of that covenant are set forth; 15–20, Celestial marriage and a continuation of the family unit enable men to become gods; 21–25, The strait and narrow way leads to eternal lives; 26–27, The law is given relative to blasphemy against the Holy Ghost; 28–39, Promises of eternal increase and exaltation are made to prophets and Saints in all ages; 40–47, Joseph Smith is given the power to bind and seal on earth and in heaven; 48–50, The Lord seals upon him his exaltation; 51–57, Emma Smith is counseled to be faithful and true; 58–66, Laws governing plural marriage are set forth.
 
----
 ###### 1 
 Verily, thus saith the Lord unto you my servant Joseph, that inasmuch as you have inquired of my hand to know and understand wherein I, the Lord, justified my servants Abraham, Isaac, and Jacob, as also Moses, David and Solomon, my servants, as touching the principle and doctrine of their having many wives and concubines—
 

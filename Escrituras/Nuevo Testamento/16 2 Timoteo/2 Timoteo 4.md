@@ -1,22 +1,21 @@
 ---
 title: 2 Timoteo 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Timoteo 4
 [[2 Timoteo 3| <-- 2 Timoteo 3]] | [[2 Timoteo]] | [[Tito 1|Tito 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo da el encargo solemne de predicar el Evangelio en días de apostasía — A Pablo y a todos los santos se les asegura la exaltación.
 
----
 ###### 1 
 Yo te encargo solemnemente delante de Dios y del Señor Jesucristo, que ha de juzgar a los vivos y a los muertos en su manifestación y en su reino,
 

@@ -1,22 +1,21 @@
 ---
 title: Mateus 24
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 24
 [[Mateus 23| <-- Mateus 23]] | [[Mateus]] | [[Mateus 25|Mateus 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus prediz a ruína de Jerusalém e a destruição do templo — Grandes calamidades precederão Sua Segunda Vinda — Ele conta a parábola da figueira.
 
----
 ###### 1 
 E quando Jesus ia saindo do templo, aproximaram-se  os seus discípulos para lhe mostrarem a estrutura do templo.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 6
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nephi writes of the things of God—Nephi’s purpose is to persuade men to come unto the God of Abraham and be saved. About 600–592 B.C.
 
----
 ###### 1 
 And now I, Nephi, do not give the genealogy of my fathers in this part of my record; neither at any time shall I give it after upon these plates which I am writing; for it is given in the record which has been kept by my father; wherefore, I do not write it in this work.
 

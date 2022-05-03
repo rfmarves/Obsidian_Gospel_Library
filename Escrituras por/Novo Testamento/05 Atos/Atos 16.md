@@ -1,22 +1,21 @@
 ---
 title: Atos 16
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 16
 [[Atos 15| <-- Atos 15]] | [[Atos]] | [[Atos 17|Atos 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo é instruído em uma visão a pregar na Macedônia — Ele expulsa um espírito maligno de uma mulher — Ele e Silas são presos e convertem o carcereiro — Eles admoestam todos a acreditar no Senhor Jesus e a ser salvos.
 
----
 ###### 1 
 E ele chegou a Derbe e Listra. E eis que estava ali  certo discípulo por nome Timóteo, filho de uma mulher judia fiel, mas de pai grego,
 

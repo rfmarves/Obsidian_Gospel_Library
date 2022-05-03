@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 45
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 45
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/45?lang=eng)
 
----
-__Summary__
+> __Summary__
 Cyrus will free the captives of Israel from Babylon—Come unto Jehovah (Christ) and be saved—To Him every knee will bow and every tongue will take an oath.
 
----
 ###### 1 
 Thus saith the  to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut;
 

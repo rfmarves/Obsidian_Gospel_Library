@@ -1,22 +1,21 @@
 ---
 title: Alma 60
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 60
 [[Alma 59| <-- Alma 59]] | [[Alma]] | [[Alma 61|Alma 61 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/60?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/60?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moroni se queja a Pahorán de la negligencia del gobierno para con los ejércitos — El Señor permite que los justos sean muertos — Los nefitas deben usar todo su poder y medios para librarse de sus enemigos — Moroni amenaza luchar contra el gobierno a menos que se proporcione ayuda a sus ejércitos. Aproximadamente 62 a.C.
 
----
 ###### 1 
 Y sucedió que escribió otra vez al gobernador de la tierra, que era Pahorán, y estas son las palabras que escribió, diciendo: He aquí, dirijo mi epístola a Pahorán, de la ciudad de Zarahemla, el cual es el juez superior y gobernador de la tierra, y también a todos los que este pueblo ha elegido para gobernar y dirigir los asuntos de esta guerra.
 

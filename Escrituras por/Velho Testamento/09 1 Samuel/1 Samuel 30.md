@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 30
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 30
 [[1 Samuel 29| <-- 1 Samuel 29]] | [[1 Samuel]] | [[1 Samuel 31|1 Samuel 31 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/30?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/30?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os amalequitas saqueiam Ziclague e os termos de Judá — Davi derrota os amalequitas, recupera o despojo e o divide.
 
----
 ###### 1 
 Sucedeu, pois, que, chegando Davi e os seus homens ao terceiro dia a Ziclague,  os amalequitas com ímpeto tinham feito incursões contra o sul, e contra Ziclague, e tinham derrotado Ziclague e a tinham queimado a fogo.
 

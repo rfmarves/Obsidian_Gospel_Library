@@ -1,27 +1,25 @@
 ---
 title: Salmos 141
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 141
 [[Salmos 140| <-- Salmos 140]] | [[Salmos]] | [[Salmos 142|Salmos 142 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/141?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/141?lang=spa)
 
----
+```
 Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David suplica a Jehová que dé oídos a sus oraciones — La reprensión del justo es un acto de bondad.
 
----
 ###### 1 
 
 

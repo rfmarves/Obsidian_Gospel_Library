@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 142
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 142
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/142?lang=eng)
 
----
+```
 Maschil of David; A Prayer when he was in the cave.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David prays for preservation from his persecutors.
 
----
 ###### 1 
 I cried unto the  with my voice; with my voice unto the  did I make my supplication.
 

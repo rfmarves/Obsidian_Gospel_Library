@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 149
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 149
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/149?lang=eng)
 
----
-__Summary__
+> __Summary__
 Praise the Lord in the congregation of the Saints—He will beautify the meek with salvation.
 
----
 ###### 1 
 Praise ye the . Sing unto the  a new song,  his praise in the congregation of saints.
 

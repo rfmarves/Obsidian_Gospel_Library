@@ -1,22 +1,21 @@
 ---
 title: Jueces 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 7
 [[Jueces 6| <-- Jueces 6]] | [[Jueces]] | [[Jueces 8|Jueces 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El ejército de Gedeón se reduce a trescientos hombres — Atemorizan a los ejércitos madianitas con trompetas y antorchas — Los madianitas luchan entre ellos mismos, huyen y son derrotados por Israel.
 
----
 ###### 1 
 Levantándose, pues, de mañana Jerobaal, el cual es Gedeón, y todo el pueblo que estaba con él, acamparon junto a la fuente de Harod; y estaba el campamento de los madianitas al norte, cerca del collado de More, en el valle.
 

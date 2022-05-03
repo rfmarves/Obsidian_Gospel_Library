@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joash and Jehoiada receive contributions and repair the house of the Lord—Jehoiada dies—Joash falls into idolatry, slays a prophet named Zechariah, and is himself slain in a conspiracy.
 
----
 ###### 1 
 Joash  seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother’s name also  Zibiah of Beer-sheba.
 

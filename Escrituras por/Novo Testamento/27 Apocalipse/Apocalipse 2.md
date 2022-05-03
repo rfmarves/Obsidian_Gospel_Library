@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 2
 [[Apocalipse 1| <-- Apocalipse 1]] | [[Apocalipse]] | [[Apocalipse 3|Apocalipse 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Aquele que vencer ganhará a vida eterna, evitará a segunda morte, herdará o reino celestial e governará muitos reinos.
 
----
 ###### 1 
 Escreve ao anjo da igreja que está em Éfeso: Isto diz aquele que tem na sua destra as sete estrelas, que anda no meio dos sete castiçais de ouro:
 

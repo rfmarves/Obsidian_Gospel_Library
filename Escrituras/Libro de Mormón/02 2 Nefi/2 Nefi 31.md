@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 31
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 31
 [[2 Nefi 30| <-- 2 Nefi 30]] | [[2 Nefi]] | [[2 Nefi 32|2 Nefi 32 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nefi explica por qué fue bautizado Cristo — Los hombres deben seguir a Cristo, ser bautizados, recibir el Espíritu Santo y perseverar hasta el fin para ser salvos — El arrepentimiento y el bautismo son la puerta que conduce a la senda estrecha y angosta — Los que guarden los mandamientos después de su bautismo tendrán la vida eterna. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Y ahora, amados hermanos míos, yo, Nefi, ceso de profetizaros. Y no puedo escribir sino unas cuantas cosas que de cierto sé que han de acontecer; ni tampoco puedo escribir más que unas pocas de las palabras de mi hermano Jacob.
 

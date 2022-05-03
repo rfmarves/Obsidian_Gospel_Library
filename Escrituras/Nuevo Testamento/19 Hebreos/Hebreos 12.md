@@ -1,22 +1,21 @@
 ---
 title: Hebreos 12
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreos 12
 [[Hebreos 11| <-- Hebreos 11]] | [[Hebreos]] | [[Hebreos 13|Hebreos 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Señor al que ama disciplina — Dios es el Padre de los espíritus — Para ver a Dios, seguid la paz y la santidad — Los santos exaltados pertenecen a la Iglesia del Primogénito.
 
----
 ###### 1 
 Por tanto, nosotros también, teniendo a nuestro alrededor tan gran nube de testigos, dejemos a un lado todo peso y pecado que nos rodea, y corramos con paciencia la carrera que tenemos por delante,
 

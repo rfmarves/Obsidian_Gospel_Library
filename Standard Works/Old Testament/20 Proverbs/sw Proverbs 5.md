@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Those who associate with immoral women will go down to hell—Rejoice with the wife of your youth.
 
----
 ###### 1 
 My son, attend unto my wisdom,  bow thine ear to my understanding:
 

@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 27
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people of Israel will blossom and bud and fill the earth with fruit—They will be gathered one by one and will worship the Lord.
 
----
 ###### 1 
 In that day the  with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that  in the sea.
 

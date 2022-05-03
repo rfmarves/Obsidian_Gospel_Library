@@ -1,22 +1,21 @@
 ---
 title: Levíticos 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 21
 [[Levíticos 20| <-- Levíticos 20]] | [[Levíticos]] | [[Levíticos 22|Levíticos 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los sacerdotes deben ser hombres santos — El sumo sacerdote no se casará con viuda, ni con divorciada ni con ramera — Los descendientes de Aarón que tengan defectos físicos no ofrecerán el pan de Dios sobre el altar.
 
----
 ###### 1 
 Y Jehová dijo a Moisés: Habla a los sacerdotes, hijos de Aarón, y diles que no se contaminen por un muerto en su pueblo,
 

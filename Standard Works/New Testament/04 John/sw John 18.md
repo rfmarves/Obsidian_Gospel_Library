@@ -1,10 +1,11 @@
 ---
 title: sw John 18
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus is betrayed and arrested—He is examined and maltreated first before Annas, then before Caiaphas—Peter denies knowing Jesus—Jesus is arraigned before Pilate.
 
----
 ###### 1 
 When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 53
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 53
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/53?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, Sidney Gilbert’s calling and election in the Church is to be ordained an elder; 4–7, He is also to serve as a bishop’s agent.
 
----
 ###### 1 
 Behold, I say unto you, my servant Sidney Gilbert, that I have heard your prayers; and you have called upon me that it should be made known unto you, of the Lord your God, concerning your calling and election in the church, which I, the Lord, have raised up in these last days.
 

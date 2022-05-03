@@ -1,10 +1,11 @@
 ---
 title: sw Moroni 2
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moroni 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus gave the twelve Nephite disciples power to confer the gift of the Holy Ghost. About A.D. 401–21.
 
----
 ###### 1 
 The words of Christ, which he spake unto his disciples, the twelve whom he had chosen, as he laid his hands upon them—
 

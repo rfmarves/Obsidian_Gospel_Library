@@ -1,10 +1,11 @@
 ---
 title: sw D&C 36
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 36
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/36?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, The Lord lays His hand upon Edward Partridge by the hand of Sidney Rigdon; 4–8, Every man who receives the gospel and the priesthood is to be called to go forth and preach.
 
----
 ###### 1 
 Thus saith the Lord God, the Mighty One of Israel: Behold, I say unto you, my servant Edward, that you are blessed, and your sins are forgiven you, and you are called to preach my gospel as with the voice of a trump;
 

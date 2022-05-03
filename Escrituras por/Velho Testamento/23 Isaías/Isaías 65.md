@@ -1,22 +1,21 @@
 ---
 title: Isaías 65
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 65
 [[Isaías 64| <-- Isaías 64]] | [[Isaías]] | [[Isaías 66|Isaías 66 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/65?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/65?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A antiga Israel foi rejeitada por rejeitar ao Senhor — O povo do Senhor se regozijará e triunfará no Milênio.
 
----
 ###### 1 
 Fui buscado pelos que não perguntavam  fui achado por aqueles que não me buscavam; a um povo que não se chamava pelo meu nome eu disse: Eis-me aqui, eis-me aqui.
 

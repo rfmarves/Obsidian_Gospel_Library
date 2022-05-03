@@ -1,22 +1,21 @@
 ---
 title: 1 Pedro 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Pedro 3
 [[1 Pedro 2| <-- 1 Pedro 2]] | [[1 Pedro]] | [[1 Pedro 4|1 Pedro 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Marido e mulher devem honrar um ao outro — Os santos devem viver pelos padrões do evangelho — Cristo pregou aos espíritos em prisão.
 
----
 ###### 1 
 Semelhantemente  mulheres,  sujeitas ao vosso próprio marido; para que também, se alguns não obedecem à palavra, pela conduta das mulheres sejam ganhos sem palavra;
 

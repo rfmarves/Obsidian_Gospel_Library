@@ -1,22 +1,21 @@
 ---
 title: Job 38
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 38
 [[Job 37| <-- Job 37]] | [[Job]] | [[Job 39|Job 39 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/38?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/38?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dios pregunta a Job dónde estaba él cuando se fundaba la tierra, cuando las estrellas del alba cantaban alabanzas y todos los hijos de Dios se regocijaban — Los fenómenos de la naturaleza muestran la grandeza de Dios y la debilidad del hombre.
 
----
 ###### 1 
 Entonces respondió Jehová a Job desde un torbellino y dijo:
 

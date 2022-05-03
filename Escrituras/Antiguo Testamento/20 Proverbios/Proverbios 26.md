@@ -1,22 +1,21 @@
 ---
 title: Proverbios 26
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 26
 [[Proverbios 25| <-- Proverbios 25]] | [[Proverbios]] | [[Proverbios 27|Proverbios 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La honra no es apropiada para el necio — No respondas al necio de acuerdo con su necedad — Donde no hay chismoso, cesa la contienda.
 
----
 ###### 1 
 
 

@@ -1,22 +1,21 @@
 ---
 title: Isaías 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 3
 [[Isaías 2| <-- Isaías 2]] | [[Isaías]] | [[Isaías 4|Isaías 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Judá e Jerusalém serão punidas por sua desobediência — O Senhor pleiteia por Seu povo e o julga — As filhas de Sião são amaldiçoadas e atormentadas por seus costumes mundanos — Comparar com 2 Néfi 13.
 
----
 ###### 1 
 Porque, eis que o  Deus dos Exércitos tirará de Jerusalém e de Judá o bordão e o cajado, todo sustento de pão, e todo sustento de água;
 

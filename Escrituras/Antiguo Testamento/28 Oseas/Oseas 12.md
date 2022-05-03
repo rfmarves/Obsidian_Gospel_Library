@@ -1,22 +1,21 @@
 ---
 title: Oseas 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseas 12
 [[Oseas 11| <-- Oseas 11]] | [[Oseas]] | [[Oseas 13|Oseas 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová se vale de profetas, de visiones y de similitudes para guiar a Su pueblo, pero ellos se enriquecen y no confían en Jehová — Efraín lo ha irritado amargamente.
 
----
 ###### 1 
 Efraín se apacienta de viento y va tras el solano; mentira y destrucción aumentan continuamente, porque hicieron alianza con los asirios y llevan aceite a Egipto.
 

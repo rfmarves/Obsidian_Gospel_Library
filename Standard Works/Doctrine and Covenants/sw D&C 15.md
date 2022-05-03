@@ -1,10 +1,11 @@
 ---
 title: sw D&C 15
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–2, The Lord’s arm is over all the earth; 3–6, To preach the gospel and save souls is the thing of most worth.
 
----
 ###### 1 
 Hearken, my servant John, and listen to the words of Jesus Christ, your Lord and your Redeemer.
 

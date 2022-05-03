@@ -1,22 +1,21 @@
 ---
 title: Isaías 60
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 60
 [[Isaías 59| <-- Isaías 59]] | [[Isaías]] | [[Isaías 61|Isaías 61 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/60?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/60?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nos últimos dias, Israel se levantará novamente como nação poderosa — Os povos gentios se unirão a Israel e o servirão — Sião será estabelecida — Por fim, Israel habitará em esplendor celestial.
 
----
 ###### 1 
 Levanta-te, resplandece, porque  vem a tua luz, e a glória do   vai nascendo sobre ti.
 

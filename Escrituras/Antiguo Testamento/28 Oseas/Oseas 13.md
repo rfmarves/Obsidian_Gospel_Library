@@ -1,22 +1,21 @@
 ---
 title: Oseas 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseas 13
 [[Oseas 12| <-- Oseas 12]] | [[Oseas]] | [[Oseas 14|Oseas 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los pecados de Efraín provocan a Jehová — No hay más Salvador que Jehová — Él rescata del sepulcro y redime de la muerte.
 
----
 ###### 1 
 Cuando Efraín hablaba, había temor; fue ensalzado en Israel, pero pecó por causa de Baal y murió.
 

@@ -1,22 +1,21 @@
 ---
 title: Provérbios 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 6
 [[Provérbios 5| <-- Provérbios 5]] | [[Provérbios]] | [[Provérbios 7|Provérbios 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Citam-se seis coisas que o Senhor odeia — Aqueles que cometem adultério destroem a própria alma.
 
----
 ###### 1 
 Filho meu, se ficaste por fiador do teu próximo,  deste a tua mão ao estranho,
 

@@ -1,22 +1,21 @@
 ---
 title: Provérbios 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 8
 [[Provérbios 7| <-- Provérbios 7]] | [[Provérbios]] | [[Provérbios 9|Provérbios 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A sabedoria é algo extremamente desejável — O Senhor e os filhos dos homens tinham sabedoria na vida pré-mortal.
 
----
 ###### 1 
 Não clama  a sabedoria, e a inteligência não dá a sua voz?
 

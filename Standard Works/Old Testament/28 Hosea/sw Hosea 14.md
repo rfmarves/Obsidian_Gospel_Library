@@ -1,10 +1,11 @@
 ---
 title: sw Hosea 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hosea 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, Ephraim will repent and return unto the Lord.
 
----
 ###### 1 
 O Israel, return unto the  thy God; for thou hast fallen by thine iniquity.
 

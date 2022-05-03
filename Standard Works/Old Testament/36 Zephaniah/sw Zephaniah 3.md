@@ -1,10 +1,11 @@
 ---
 title: sw Zephaniah 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zephaniah 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zeph/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 At the Second Coming, all nations will assemble to battle—Men will have a pure language—The Lord will reign in their midst.
 
----
 ###### 1 
 Woe to her that is filthy and polluted, to the oppressing city!
 

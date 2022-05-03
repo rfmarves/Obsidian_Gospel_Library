@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 28
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 Aaron and his sons are to be consecrated and anointed to minister in the priest’s office—Aaron’s garments are to include a breastplate, an ephod, a robe, a coat, a miter, and a girdle—The breastplate of judgment is to contain twelve precious stones with the names of the tribes of Israel thereon—The Urim and Thummim are to be carried in the breastplate.
 
----
 ###### 1 
 And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest’s office,  Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron’s sons.
 

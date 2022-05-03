@@ -1,10 +1,11 @@
 ---
 title: sw Ezra 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezra 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The altar is rebuilt—Regular sacrifices are reinstituted—The foundations of the temple are laid amid great rejoicing.
 
----
 ###### 1 
 And when the seventh month was come, and the children of Israel  in the cities, the people gathered themselves together as one man to Jerusalem.
 

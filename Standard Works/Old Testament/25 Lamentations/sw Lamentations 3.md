@@ -1,10 +1,11 @@
 ---
 title: sw Lamentations 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Lamentations 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lam/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah, speaking for Judah, laments the calamity but trusts in the Lord and prays for deliverance.
 
----
 ###### 1 
 I  the man  hath seen affliction by the rod of his wrath.
 

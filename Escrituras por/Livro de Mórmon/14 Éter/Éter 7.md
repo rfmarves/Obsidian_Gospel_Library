@@ -1,22 +1,21 @@
 ---
 title: Éter 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éter 7
 [[Éter 6| <-- Éter 6]] | [[Éter]] | [[Éter 8|Éter 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Oria reina em retidão — Em meio a usurpações e lutas, os reinos rivais de Sule e Coor são estabelecidos — Profetas condenam a iniquidade e idolatria do povo, que então se arrepende.
 
----
 ###### 1 
 E aconteceu que Oria exerceu julgamento na terra, em retidão, todos os seus dias, que foram muitos.
 

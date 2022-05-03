@@ -1,22 +1,21 @@
 ---
 title: Jeremias 32
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 32
 [[Jeremias 31| <-- Jeremias 31]] | [[Jeremias]] | [[Jeremias 33|Jeremias 33 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/32?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/32?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias é aprisionado por Zedequias — O profeta compra terras para simbolizar o retorno de Israel à sua terra — O Senhor reunirá Israel e fará um convênio eterno com eles.
 
----
 ###### 1 
 A palavra que veio a Jeremias da parte do , no ano décimo de Zedequias, rei de Judá; este ano foi o ano dezoito de Nabucodonosor.
 

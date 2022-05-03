@@ -1,22 +1,21 @@
 ---
 title: Atos 15
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 15
 [[Atos 14| <-- Atos 14]] | [[Atos]] | [[Atos 16|Atos 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Uma grande desavença surge em Antioquia concernente à circuncisão — Os Apóstolos que estão em Jerusalém decidem a questão — Paulo escolhe Silas como seu companheiro.
 
----
 ###### 1 
 Então alguns que tinham descido da Judeia ensinavam os irmãos,  Se não vos circuncidardes, conforme o costume de Moisés, não podeis salvar-vos.
 

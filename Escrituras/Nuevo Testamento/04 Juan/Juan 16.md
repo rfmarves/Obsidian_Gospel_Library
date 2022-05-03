@@ -1,22 +1,21 @@
 ---
 title: Juan 16
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 16
 [[Juan 15| <-- Juan 15]] | [[Juan]] | [[Juan 17|Juan 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús explica la misión del Espíritu Santo — Él habla de Su muerte y de Su resurrección, anuncia que es el Hijo de Dios y dice que ha vencido al mundo.
 
----
 ###### 1 
 Estas cosas os he hablado, para que no tengáis tropiezo.
 

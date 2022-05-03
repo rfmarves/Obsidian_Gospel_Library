@@ -1,10 +1,11 @@
 ---
 title: sw Job 40
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 40
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/40?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord challenges Job, and Job replies humbly—The Lord speaks of His power to Job—He asks, Hast thou an arm like God?—He points to His power in the behemoth.
 
----
 ###### 1 
 Moreover the  answered Job, and said,
 

@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 34
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 34
 [[Deuteronomio 33| <-- Deuteronomio 33]] | [[Deuteronomio]] | [[Josué 1|Josué 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/34?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/34?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moisés ve la tierra prometida y entonces es llevado por Jehová — Josué dirige a Israel — Moisés fue el profeta más grande de Israel.
 
----
 ###### 1 
 Y subió Moisés de los campos de Moab al monte Nebo, a la cumbre del Pisga, que está enfrente de Jericó; y le mostró Jehová toda la tierra de Galaad hasta Dan,
 

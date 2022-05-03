@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 35
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 35
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/35?lang=eng)
 
----
-__Summary__
+> __Summary__
 God sends Jacob to Bethel, where he builds an altar and the Lord appears to him—God renews the promise that Jacob will be a great nation and that his name will be Israel—Jacob sets up an altar and pours a drink offering—Rachel bears Benjamin, dies in childbirth, and is buried near Bethlehem—Reuben sins with Bilhah—Isaac dies and is buried by Jacob and Esau.
 
----
 ###### 1 
 And God said unto Jacob, Arise, go up to Beth-el, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother.
 

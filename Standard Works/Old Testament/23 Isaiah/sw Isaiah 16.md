@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moab is condemned, and her people will sorrow—The Messiah will sit on David’s throne, seeking justice and hastening righteousness.
 
----
 ###### 1 
 Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion.
 

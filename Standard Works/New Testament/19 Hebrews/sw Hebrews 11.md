@@ -1,10 +1,11 @@
 ---
 title: sw Hebrews 11
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hebrews 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 By faith we understand the word and work of God—The faith of the ancients was centered in Christ—By faith, men subdued kingdoms, wrought righteousness, and worked miracles.
 
----
 ###### 1 
 Now faith is the substance of things hoped for, the evidence of things not seen.
 

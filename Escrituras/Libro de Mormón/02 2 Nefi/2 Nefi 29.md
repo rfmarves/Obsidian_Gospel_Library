@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 29
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 29
 [[2 Nefi 28| <-- 2 Nefi 28]] | [[2 Nefi]] | [[2 Nefi 30|2 Nefi 30 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/29?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Muchos gentiles rechazarán el Libro de Mormón — Dirán: “No necesitamos más Biblia” — El Señor habla a muchas naciones — Él juzgará al mundo de acuerdo con los libros que se escriban. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Mas he aquí que habrá muchos —el día en que yo proceda a ejecutar una obra maravillosa entre ellos, a fin de que yo recuerde mis convenios que he hecho con los hijos de los hombres, para que extienda mi mano por segunda vez, para restaurar a los de mi pueblo que son de la casa de Israel;
 

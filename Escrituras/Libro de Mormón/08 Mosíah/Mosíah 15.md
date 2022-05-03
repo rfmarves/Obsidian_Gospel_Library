@@ -1,22 +1,21 @@
 ---
 title: Mosíah 15
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 15
 [[Mosíah 14| <-- Mosíah 14]] | [[Mosíah]] | [[Mosíah 16|Mosíah 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Por qué Cristo es el Padre así como el Hijo — Él intercederá por los hijos de los hombres y tomará sobre sí las transgresiones de los de Su pueblo — Ellos y todos los santos profetas son Su posteridad — Él lleva a efecto la Resurrección — Los niños pequeños tienen vida eterna. Aproximadamente 148 a.C.
 
----
 ###### 1 
 Y luego les dijo Abinadí: Quisiera que entendieseis que Dios mismo descenderá entre los hijos de los hombres, y redimirá a su pueblo.
 

@@ -1,10 +1,11 @@
 ---
 title: sw James 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw James 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/james/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 If any of you lack wisdom, let him ask of God—Resist temptation—Be doers of the word—James explains how to recognize pure religion.
 
----
 ###### 1 
 James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
 

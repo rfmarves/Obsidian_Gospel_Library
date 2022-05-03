@@ -1,22 +1,21 @@
 ---
 title: Números 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 7
 [[Números 6| <-- Números 6]] | [[Números]] | [[Números 8|Números 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En el día de la dedicación, los príncipes de Israel hacen ofrendas para el tabernáculo — Jehová habla a Moisés desde el propiciatorio de entre los querubines que están sobre el arca.
 
----
 ###### 1 
 Y aconteció que, en el día en que Moisés hubo acabado de armar el tabernáculo, y lo hubo ungido y santificado, con todos sus enseres, y asimismo hubo ungido y santificado el altar con todos sus utensilios,
 

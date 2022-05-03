@@ -1,10 +1,11 @@
 ---
 title: sw Helaman 13
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Helaman 13
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/13?lang=eng)
 
----
+```
 The prophecy of Samuel, the Lamanite, to the Nephites.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Samuel the Lamanite prophesies the destruction of the Nephites unless they repent—They and their riches are cursed—They reject and stone the prophets, are encircled about by demons, and seek for happiness in doing iniquity. About 6 B.C.
 
----
 ###### 1 
 And now it came to pass in the eighty and sixth year, the Nephites did still remain in wickedness, yea, in great wickedness, while the Lamanites did observe strictly to keep the commandments of God, according to the law of Moses.
 

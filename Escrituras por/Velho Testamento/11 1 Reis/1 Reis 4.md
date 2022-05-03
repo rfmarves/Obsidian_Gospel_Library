@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 4
 [[1 Reis 3| <-- 1 Reis 3]] | [[1 Reis]] | [[1 Reis 5|1 Reis 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Enumeram-se os oficiais da corte de Salomão — Salomão reina em paz e prosperidade sobre um extenso reino — Ele excedia todos os homens em sabedoria e entendimento.
 
----
 ###### 1 
 Assim, foi Salomão rei sobre todo o Israel.
 

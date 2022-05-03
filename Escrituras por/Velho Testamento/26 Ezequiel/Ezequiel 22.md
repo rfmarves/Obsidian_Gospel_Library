@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 22
 [[Ezequiel 21| <-- Ezequiel 21]] | [[Ezequiel]] | [[Ezequiel 23|Ezequiel 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ezequiel enumera os pecados do povo de Judá em Jerusalém — Eles serão dispersos e destruídos por causa de suas iniquidades.
 
----
 ###### 1 
 E veio a mim a palavra do , dizendo:
 

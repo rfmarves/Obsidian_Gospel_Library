@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 9
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 9
 [[Apocalipse 8| <-- Apocalipse 8]] | [[Apocalipse]] | [[Apocalipse 10|Apocalipse 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 João também vê as guerras e pragas derramadas durante o sétimo selo, antes da vinda do Senhor.
 
----
 ###### 1 
 E o quinto anjo tocou a sua trombeta, e vi uma estrela que do céu caiu na terra; e foi-lhe dada a chave do poço do abismo.
 

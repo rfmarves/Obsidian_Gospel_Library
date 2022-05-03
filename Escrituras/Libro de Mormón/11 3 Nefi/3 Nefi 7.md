@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 7
 [[3 Nefi 6| <-- 3 Nefi 6]] | [[3 Nefi]] | [[3 Nefi 8|3 Nefi 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Asesinan al juez superior, destruyen el gobierno, y el pueblo se divide en tribus — Jacob, un anticristo, llega a ser rey de una confederación de tribus — Nefi predica el arrepentimiento y la fe en Cristo — Ángeles le ministran diariamente y él levanta a su hermano de los muertos — Muchos se arrepienten y son bautizados. Aproximadamente 30–33 d.C.
 
----
 ###### 1 
 Ahora bien, he aquí, os mostraré que no establecieron rey en la tierra; pero en este mismo año, sí, en el año treinta, destruyeron sobre el asiento judicial, sí, asesinaron al juez superior de la tierra.
 

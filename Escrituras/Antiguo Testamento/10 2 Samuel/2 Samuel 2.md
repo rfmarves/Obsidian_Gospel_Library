@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 2
 [[2 Samuel 1| <-- 2 Samuel 1]] | [[2 Samuel]] | [[2 Samuel 3|2 Samuel 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David es ungido rey sobre la casa de Judá — Is-boset se convierte en rey de Israel — Los seguidores de David derrotan a Abner y a los hombres de Israel.
 
----
 ###### 1 
 Después de esto aconteció que David consultó a Jehová, diciendo: ¿Subiré a alguna de las ciudades de Judá? Y Jehová le respondió: Sube. Y David volvió a decir: ¿A dónde subiré? Y él le dijo: A Hebrón.
 

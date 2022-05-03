@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is to hold a holy convocation on each weekly Sabbath—Israel is to keep the Feasts of the Passover, of Unleavened Bread, of Pentecost or Firstfruits, of Trumpets, of the Day of Atonement, and of Tabernacles.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

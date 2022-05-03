@@ -1,10 +1,11 @@
 ---
 title: sw Romans 11
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel was chosen (foreordained) according to the election of grace—But some harden their hearts against it—The Gentiles are adopted into the house of Israel—The gospel goes preferentially to the Gentiles until the fulness of the Gentiles.
 
----
 ###### 1 
 I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham,  the tribe of Benjamin.
 

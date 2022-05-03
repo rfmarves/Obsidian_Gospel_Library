@@ -1,22 +1,21 @@
 ---
 title: Marcos 12
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 12
 [[Marcos 11| <-- Marcos 11]] | [[Marcos]] | [[Marcos 13|Marcos 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús enseña la parábola de los labradores malvados — Habla de: el pago de impuestos, el matrimonio celestial, los dos grandes mandamientos, el origen divino de Cristo y las blancas de la viuda.
 
----
 ###### 1 
 Y comenzó a hablarles por parábolas: Un hombre plantó una viña, y la cercó con un muro, y cavó un lagar, y edificó una torre, y la arrendó a labradores y partió lejos.
 

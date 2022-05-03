@@ -1,27 +1,25 @@
 ---
 title: Salmos 109
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 109
 [[Salmos 108| <-- Salmos 108]] | [[Salmos]] | [[Salmos 110|Salmos 110 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/109?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/109?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi fala das maldições que os iníquos e enganadores merecem — Ele ora pedindo que seus adversários sejam envergonhados.
 
----
 ###### 1 
 Ó Deus do meu louvor, não te cales,
 

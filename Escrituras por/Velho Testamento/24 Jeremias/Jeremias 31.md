@@ -1,22 +1,21 @@
 ---
 title: Jeremias 31
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 31
 [[Jeremias 30| <-- Jeremias 30]] | [[Jeremias]] | [[Jeremias 32|Jeremias 32 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/31?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/31?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nos últimos dias, Israel será coligada — O Senhor declara que Efraim tem o direito de primogenitura — O Senhor fará com Israel um novo convênio, que será escrito no coração deles — Então, todo o Israel conhecerá o Senhor.
 
----
 ###### 1 
 Naquele tempo, diz o , serei por Deus a todas as gerações de Israel, e elas me serão por povo.
 

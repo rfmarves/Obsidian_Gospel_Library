@@ -1,22 +1,21 @@
 ---
 title: Números 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 7
 [[Números 6| <-- Números 6]] | [[Números]] | [[Números 8|Números 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os príncipes de Israel fazem ofertas para o tabernáculo em sua dedicação — O Senhor fala com Moisés de cima do propiciatório, que está sobre a arca, entre os dois querubins.
 
----
 ###### 1 
 E aconteceu, no dia em que Moisés acabou de levantar o tabernáculo, e o ungiu, e o santificou, e todos os seus utensílios, também o altar, e todos os seus utensílios, e os ungiu, e os santificou,
 

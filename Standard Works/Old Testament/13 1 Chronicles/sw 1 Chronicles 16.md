@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 People offer sacrifices and praise the Lord—David delivers a psalm of thanksgiving—He praises the Lord—Asaph, Obed-edom, Zadok, and others minister before the Lord.
 
----
 ###### 1 
 So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 31
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 31
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/31?lang=eng)
 
----
-__Summary__
+> __Summary__
 Wine and strong drink are condemned—Plead the cause of the poor and needy—A virtuous woman is more precious than rubies.
 
----
 ###### 1 
 The words of king Lemuel, the prophecy that his mother taught him.
 

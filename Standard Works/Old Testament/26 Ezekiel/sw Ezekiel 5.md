@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The judgment of Jerusalem will include famine, pestilence, war, and the scattering of her inhabitants.
 
----
 ###### 1 
 And thou, son of man, take thee a sharp knife, take thee a barber’s razor, and cause  to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the 
 

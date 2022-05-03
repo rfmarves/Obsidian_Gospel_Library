@@ -1,22 +1,21 @@
 ---
 title: DeC 87
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 87
 [[DeC 86| <-- DeC 86]] | [[DeC]] | [[DeC 88|DeC 88 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/87?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/87?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, Prevista a guerra entre os estados do norte e os estados do sul; 5–8, Grandes calamidades sobrevirão a todos os habitantes da Terra.
 
----
 ###### 1 
 Em verdade, assim diz o Senhor em relação às guerras que logo ocorrerão, a começar pela rebelião da Carolina do Sul que, por fim, terminará com a morte e sofrimento de muitas almas;
 

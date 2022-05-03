@@ -1,10 +1,11 @@
 ---
 title: sw Testimony of Eight Whitnesses
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Testimony of Eight Whitnesses

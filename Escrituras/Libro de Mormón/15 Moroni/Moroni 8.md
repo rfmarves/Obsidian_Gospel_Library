@@ -1,22 +1,21 @@
 ---
 title: Moroni 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moroni 8
 [[Moroni 7| <-- Moroni 7]] | [[Moroni]] | [[Moroni 9|Moroni 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El bautismo de los niños pequeños es una terrible iniquidad — Los niños pequeños viven en Cristo por motivo de la Expiación — La fe, el arrepentimiento, la mansedumbre y la humildad de corazón, la recepción del Espíritu Santo y la perseverancia hasta el fin conducen a la salvación. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 Una epístola de mi padre Mormón, escrita a mí, Moroni; y me la escribió poco después de mi llamamiento al ministerio; y de esta manera me escribió él, diciendo:
 

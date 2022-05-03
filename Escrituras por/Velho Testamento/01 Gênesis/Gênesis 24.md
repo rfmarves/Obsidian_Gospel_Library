@@ -1,22 +1,21 @@
 ---
 title: Gênesis 24
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 24
 [[Gênesis 23| <-- Gênesis 23]] | [[Gênesis]] | [[Gênesis 25|Gênesis 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Abraão ordena que Isaque não se case com uma mulher cananeia — O Senhor guia o servo de Abraão na escolha de Rebeca para mulher de Isaque — Rebeca é abençoada para se tornar a mãe de milhares de milhares — Ela se casa com Isaque.
 
----
 ###### 1 
 E era Abraão já velho  adiantado em idade, e o  havia abençoado Abraão em tudo.
 

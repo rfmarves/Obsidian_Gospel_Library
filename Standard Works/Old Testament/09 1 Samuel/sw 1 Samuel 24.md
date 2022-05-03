@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 David finds Saul in a cave and spares his life—Saul confesses that David is more righteous than he—David swears that he will not cut off the seed of Saul.
 
----
 ###### 1 
 And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David  in the wilderness of En-gedi.
 

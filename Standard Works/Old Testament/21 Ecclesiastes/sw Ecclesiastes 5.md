@@ -1,10 +1,11 @@
 ---
 title: sw Ecclesiastes 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ecclesiastes 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 God is in heaven—A fool’s voice is known by a multitude of words—Keep your vows—Riches and wealth are the gift of God.
 
----
 ###### 1 
 Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.
 

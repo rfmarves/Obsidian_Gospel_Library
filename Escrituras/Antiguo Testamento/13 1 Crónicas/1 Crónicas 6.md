@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 6
 [[1 Crónicas 5| <-- 1 Crónicas 5]] | [[1 Crónicas]] | [[1 Crónicas 7|1 Crónicas 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se enumeran los hijos de Leví, incluidos los cantores de David — Se mencionan las responsabilidades de Aarón y de su descendencia — Se señalan las ciudades levitas en las regiones de las diversas tribus.
 
----
 ###### 1 
 Los hijos de Leví: Gersón, Coat y Merari.
 

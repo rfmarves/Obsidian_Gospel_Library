@@ -1,22 +1,21 @@
 ---
 title: Levítico 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 5
 [[Levítico 4| <-- Levítico 4]] | [[Levítico]] | [[Levítico 6|Levítico 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo deve confessar seus pecados e fazer uma restituição por eles — O perdão é concedido por meio de uma oferta pela culpa — Dessa maneira os sacerdotes fazem a expiação do pecado.
 
----
 ###### 1 
 E quando  pessoa pecar, ouvindo uma voz de blasfêmia, de que  testemunha, seja que  viu, ou que o soube, se não o denunciar, então levará a sua iniquidade.
 

@@ -1,22 +1,21 @@
 ---
 title: Morôni 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Morôni 7
 [[Morôni 6| <-- Morôni 6]] | [[Morôni]] | [[Morôni 8|Morôni 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Convite para entrar no descanso do Senhor — Orai com verdadeiro intento — O Espírito de Cristo permite aos homens distinguirem o bem do mal — Satanás persuade os homens a negarem a Cristo e a praticarem o mal — Os profetas anunciam a vinda de Cristo — Pela fé são realizados milagres e anjos ministram — Os homens devem ter a esperança da vida eterna e apegar-se à caridade. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 E agora eu, Morôni, escrevo algumas das palavras ditas por meu pai, Mórmon, a respeito da fé, esperança e caridade; pois desta maneira ele falou ao povo, ao ensiná-los na sinagoga que haviam construído como lugar de adoração.
 

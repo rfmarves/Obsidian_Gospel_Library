@@ -1,22 +1,21 @@
 ---
 title: Levíticos 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 11
 [[Levíticos 10| <-- Levíticos 10]] | [[Levíticos]] | [[Levíticos 12|Levíticos 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová revela las criaturas vivientes que se pueden comer y las que no se pueden comer; y cuáles son limpias y cuáles son inmundas — Jehová manda a Israel: Sed santos, porque yo soy santo.
 
----
 ###### 1 
 Y habló Jehová a Moisés y a Aarón y les dijo:
 

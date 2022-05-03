@@ -1,10 +1,11 @@
 ---
 title: sw D&C 25
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, Emma Smith, an elect lady, is called to aid and comfort her husband; 7–11, She is also called to write, to expound scriptures, and to select hymns; 12–14, The song of the righteous is a prayer unto the Lord; 15–16, Principles of obedience in this revelation are applicable to all.
 
----
 ###### 1 
 Hearken unto the voice of the Lord your God, while I speak unto you, Emma Smith, my daughter; for verily I say unto you, all those who receive my gospel are sons and daughters in my kingdom.
 

@@ -1,22 +1,21 @@
 ---
 title: Alma 10
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 10
 [[Alma 9| <-- Alma 9]] | [[Alma]] | [[Alma 11|Alma 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Lehi era descendiente de Manasés — Amulek relata el mandato del ángel de que atendiera a Alma — Las oraciones de los justos hacen que el pueblo sea preservado — Los abogados y los jueces inicuos establecen el fundamento de la destrucción del pueblo. Aproximadamente 82 a.C.
 
----
 ###### 1 
 Estas son las palabras que Amulek predicó al pueblo que se hallaba en la tierra de Ammoníah, diciendo:
 

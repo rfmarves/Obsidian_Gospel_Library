@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 34
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 34
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/34?lang=eng)
 
----
-__Summary__
+> __Summary__
 Josiah destroys idolatry in Judah—The people of Judah repair the house of the Lord—Hilkiah finds a book of the law—Huldah the prophetess reveals the desolations to come upon the people—Josiah and the people covenant to serve the Lord.
 
----
 ###### 1 
 Josiah  eight years old when he began to reign, and he reigned in Jerusalem one and thirty years.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 19
 [[2 Samuel 18| <-- 2 Samuel 18]] | [[2 Samuel]] | [[2 Samuel 20|2 Samuel 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Joab reprende a David por favorecer a sus enemigos en vez de a sus amigos — David cambia a Joab por Amasa — Simei, quien maldijo a David, es perdonado — Mefi-boset rinde homenaje a David — Los hombres de Judá llevan a David de regreso a Jerusalén.
 
----
 ###### 1 
 Y dieron aviso a Joab: He aquí el rey llora y hace duelo por Absalón.
 

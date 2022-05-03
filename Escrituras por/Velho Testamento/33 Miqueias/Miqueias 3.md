@@ -1,22 +1,21 @@
 ---
 title: Miqueias 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Miqueias 3
 [[Miqueias 2| <-- Miqueias 2]] | [[Miqueias]] | [[Miqueias 4|Miqueias 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/micah/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/micah/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os sacerdotes que ensinam por interesse e os profetas que adivinham por dinheiro trazem uma maldição sobre o povo.
 
----
 ###### 1 
 Mais disse eu: Ouvi agora vós, chefes de Jacó, e vós, príncipes da casa de Israel:  não  a vós  saber o direito?
 

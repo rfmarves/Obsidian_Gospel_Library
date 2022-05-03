@@ -1,22 +1,21 @@
 ---
 title: Jeremías 32
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 32
 [[Jeremías 31| <-- Jeremías 31]] | [[Jeremías]] | [[Jeremías 33|Jeremías 33 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/32?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/32?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías es encarcelado por Sedequías — El profeta compra tierras para simbolizar el retorno de Israel a su tierra — Jehová recogerá a Israel y hará con él un convenio sempiterno.
 
----
 ###### 1 
 La palabra que vino a Jeremías de parte de Jehová el año décimo de Sedequías, rey de Judá, que fue el año decimoctavo de Nabucodonosor.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 7
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob continues reading from Isaiah: Isaiah speaks messianically—The Messiah will have the tongue of the learned—He will give His back to the smiters—He will not be confounded—Compare Isaiah 50. About 559–545 B.C.
 
----
 ###### 1 
 Yea, for thus saith the Lord: Have I put thee away, or have I cast thee off forever? For thus saith the Lord: Where is the bill of your mother’s divorcement? To whom have I put thee away, or to which of my creditors have I sold you? Yea, to whom have I sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.
 

@@ -1,22 +1,21 @@
 ---
 title: Nehemías 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nehemías 6
 [[Nehemías 5| <-- Nehemías 5]] | [[Nehemías]] | [[Nehemías 7|Nehemías 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Sanbalat toma parte en una intriga en contra de Nehemías y de la reconstrucción del muro — Los judíos terminan la reconstrucción del muro.
 
----
 ###### 1 
 Y aconteció que cuando oyeron Sanbalat, y Tobías, y Gesem el árabe y los demás de nuestros enemigos, que había yo edificado el muro, y que no quedaba en él ninguna brecha (aunque hasta aquel tiempo no había puesto las hojas de las puertas),
 

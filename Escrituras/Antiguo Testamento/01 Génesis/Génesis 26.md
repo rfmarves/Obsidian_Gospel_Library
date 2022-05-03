@@ -1,22 +1,21 @@
 ---
 title: Génesis 26
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 26
 [[Génesis 25| <-- Génesis 25]] | [[Génesis]] | [[Génesis 27|Génesis 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová le promete a Isaac una posteridad tan numerosa como las estrellas del cielo — En su descendencia serán bendecidas todas las naciones — Jehová hace prosperar a Isaac temporal y espiritualmente por causa de Abraham — Isaac ofrece sacrificios — Esaú se casa con mujeres heteas para tristeza de sus padres.
 
----
 ###### 1 
 Y hubo hambre en la tierra, además de la primera hambre que hubo en los días de Abraham; y se fue Isaac a Abimelec, rey de los filisteos, en Gerar.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 18
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus institutes the sacrament among the Nephites—They are commanded to pray always in His name—Those who eat His flesh and drink His blood unworthily are damned—The disciples are given power to confer the Holy Ghost. About A.D. 34.
 
----
 ###### 1 
 And it came to pass that Jesus commanded his disciples that they should bring forth some bread and wine unto him.
 

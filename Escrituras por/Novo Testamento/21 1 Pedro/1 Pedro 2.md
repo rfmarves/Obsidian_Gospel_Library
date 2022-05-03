@@ -1,22 +1,21 @@
 ---
 title: 1 Pedro 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Pedro 2
 [[1 Pedro 1| <-- 1 Pedro 1]] | [[1 Pedro]] | [[1 Pedro 3|1 Pedro 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os conversos são bebês recém-nascidos em Cristo — Ele é a principal pedra da esquina — Os santos possuem um sacerdócio real e são um povo adquirido — Estamos sujeitos às leis dos homens.
 
----
 ###### 1 
 Deixando, pois, toda maldade, e todo dolo, e fingimentos, e invejas, e todas as maledicências,
 

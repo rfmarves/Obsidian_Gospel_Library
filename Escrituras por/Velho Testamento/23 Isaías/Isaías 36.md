@@ -1,22 +1,21 @@
 ---
 title: Isaías 36
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 36
 [[Isaías 35| <-- Isaías 35]] | [[Isaías]] | [[Isaías 37|Isaías 37 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/36?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/36?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os assírios guerreiam contra Judá e blasfemam contra o Senhor.
 
----
 ###### 1 
 E aconteceu no ano décimo quarto do rei Ezequias que Senaqueribe, rei da Assíria, subiu contra todas as cidades fortificadas de Judá, e as tomou.
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 32
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 32
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/32?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, Parley P. Pratt and Ziba Peterson are called to preach to the Lamanites and to accompany Oliver Cowdery and Peter Whitmer Jr.; 4–5, They are to pray for an understanding of the scriptures.
 
----
 ###### 1 
 And now concerning my servant Parley P. Pratt, behold, I say unto him that as I live I will that he shall declare my gospel and learn of me, and be meek and lowly of heart.
 

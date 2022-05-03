@@ -1,22 +1,21 @@
 ---
 title: Amós 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 6
 [[Amós 5| <-- Amós 5]] | [[Amós]] | [[Amós 7|Amós 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ai dos que vivem sossegados em Sião — Israel será atormentada com desolação.
 
----
 ###### 1 
 Ai dos sossegados em Sião, e dos seguros no monte de Samaria, que têm nome entre as primeiras das nações, e aos quais se foi a casa de Israel!
 

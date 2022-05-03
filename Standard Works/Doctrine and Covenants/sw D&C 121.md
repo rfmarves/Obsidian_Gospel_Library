@@ -1,10 +1,11 @@
 ---
 title: sw D&C 121
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 121
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, The Prophet pleads with the Lord for the suffering Saints; 7–10, The Lord speaks peace to him; 11–17, Cursed are all those who raise false cries of transgression against the Lord’s people; 18–25, They will not have right to the priesthood and will be damned; 26–32, Glorious revelations promised those who endure valiantly; 33–40, Why many are called and few are chosen; 41–46, The priesthood should be used only in righteousness.
 
----
 ###### 1 
 O God, where art thou? And where is the pavilion that covereth thy hiding place?
 

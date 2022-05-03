@@ -1,22 +1,21 @@
 ---
 title: 2 Néfi 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Néfi 8
 [[2 Néfi 7| <-- 2 Néfi 7]] | [[2 Néfi]] | [[2 Néfi 9|2 Néfi 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó continua a ler em Isaías: Nos últimos dias o Senhor consolará Sião e coligará Israel — Os remidos virão a Sião, em meio a grande alegria — Comparar com Isaías 51 e 52:1–2. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Ouvi-me, vós que seguis a retidão; olhai para a rocha de onde fostes talhados e para o buraco do poço de onde fostes cavados.
 

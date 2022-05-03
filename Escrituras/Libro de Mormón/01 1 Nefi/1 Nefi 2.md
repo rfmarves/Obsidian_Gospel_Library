@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 2
 [[1 Nefi 1| <-- 1 Nefi 1]] | [[1 Nefi]] | [[1 Nefi 3|1 Nefi 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Lehi lleva a su familia al desierto junto al mar Rojo — Abandonan sus bienes — Lehi ofrece un sacrificio al Señor y enseña a sus hijos a guardar los mandamientos — Lamán y Lemuel murmuran contra su padre — Nefi es obediente y ora con fe; el Señor le habla y es escogido para gobernar a sus hermanos. Aproximadamente 600 a.C.
 
----
 ###### 1 
 Porque he aquí, aconteció que el Señor habló a mi padre, sí, aun en un sueño, y le dijo: Bendito eres tú, Lehi, por lo que has hecho; y porque has sido fiel, y has declarado a este pueblo las cosas que yo te mandé, he aquí, tratan de quitarte la vida.
 

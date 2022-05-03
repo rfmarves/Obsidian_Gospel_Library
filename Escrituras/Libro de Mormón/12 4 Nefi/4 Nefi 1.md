@@ -1,27 +1,25 @@
 ---
 title: 4 Nefi 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 4 Nefi 1
 [[3 Nefi 30| <-- 3 Nefi 30]] | [[4 Nefi]] | [[Mormón 1|Mormón 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/4-ne/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/4-ne/1?lang=spa)
 
----
+```
 Una relación del pueblo de Nefi, según sus anales.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Todos los nefitas y los lamanitas se convierten al Señor — Tienen todas las cosas en común, obran milagros y prosperan en la tierra — Al cabo de dos siglos, surgen divisiones, iniquidades, iglesias falsas y persecuciones — Después de trescientos años, tanto los nefitas como los lamanitas se vuelven inicuos — Ammarón esconde los anales sagrados. Aproximadamente 35–321 d.C.
 
----
 ###### 1 
 Y aconteció que pasó el año treinta y cuatro, y también el treinta y cinco; y he aquí, los discípulos de Jesús habían establecido una iglesia de Cristo en todas las tierras circunvecinas. Y cuantos iban a ellos, y se arrepentían verdaderamente de sus pecados, eran bautizados en el nombre de Jesús; y también recibían el Espíritu Santo.
 

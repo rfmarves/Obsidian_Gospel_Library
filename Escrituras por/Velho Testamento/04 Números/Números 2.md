@@ -1,22 +1,21 @@
 ---
 title: Números 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 2
 [[Números 1| <-- Números 1]] | [[Números]] | [[Números 3|Números 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Estabelecem-se a ordem e os líderes das tribos e dos exércitos de Israel em suas tendas.
 
----
 ###### 1 
 E falou o  a Moisés e a Aarão, dizendo:
 

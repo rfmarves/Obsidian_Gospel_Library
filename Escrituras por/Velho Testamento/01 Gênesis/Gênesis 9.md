@@ -1,22 +1,21 @@
 ---
 title: Gênesis 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 9
 [[Gênesis 8| <-- Gênesis 8]] | [[Gênesis]] | [[Gênesis 10|Gênesis 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Noé e seus filhos recebem o mandamento de se multiplicarem e de encherem a Terra — É-lhes dado domínio sobre todas as formas de vida — Decreta-se a pena de morte por assassinato — Deus nunca mais destruirá a Terra por meio de um dilúvio — Canaã é amaldiçoado; Sem e Jafé são abençoados.
 
----
 ###### 1 
 E Deus abençoou Noé e seus filhos, e disse-lhes: Frutificai e multiplicai-vos, e enchei a terra.
 

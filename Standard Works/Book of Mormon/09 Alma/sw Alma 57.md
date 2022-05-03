@@ -1,10 +1,11 @@
 ---
 title: sw Alma 57
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 57
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/57?lang=eng)
 
----
-__Summary__
+> __Summary__
 Helaman recounts the taking of Antiparah and the surrender and later the defense of Cumeni—His Ammonite striplings fight valiantly; all are wounded, but none are slain—Gid reports the slaying and the escape of the Lamanite prisoners. About 63 B.C.
 
----
 ###### 1 
 And now it came to pass that I received an epistle from Ammoron, the king, stating that if I would deliver up those prisoners of war whom we had taken that he would deliver up the city of Antiparah unto us.
 

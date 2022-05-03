@@ -1,10 +1,11 @@
 ---
 title: sw D&C 51
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 51
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/51?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–8, Edward Partridge is appointed to regulate stewardships and properties; 9–12, The Saints are to deal honestly and receive alike; 13–15, They are to have a bishop’s storehouse and to organize properties according to the Lord’s law; 16–20, Ohio is to be a temporary gathering place.
 
----
 ###### 1 
 Hearken unto me, saith the Lord your God, and I will speak unto my servant Edward Partridge, and give unto him directions; for it must needs be that he receive directions how to organize this people.
 

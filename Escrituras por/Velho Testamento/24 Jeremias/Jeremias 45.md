@@ -1,22 +1,21 @@
 ---
 title: Jeremias 45
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 45
 [[Jeremias 44| <-- Jeremias 44]] | [[Jeremias]] | [[Jeremias 46|Jeremias 46 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/45?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/45?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias promete a Baruque que a vida deste será preservada.
 
----
 ###### 1 
 A palavra que falou Jeremias, o profeta, a Baruque, filho de Nerias, escrevendo ele aquelas palavras num livro da boca de Jeremias, no ano quarto de Joaquim, filho de Josias, rei de Judá, dizendo:
 

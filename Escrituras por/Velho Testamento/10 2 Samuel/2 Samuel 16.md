@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 16
 [[2 Samuel 15| <-- 2 Samuel 15]] | [[2 Samuel]] | [[2 Samuel 17|2 Samuel 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mefibosete é acusado de procurar ser rei — Simei, da casa de Saul, amaldiçoa Davi — Aconselhado por Aitofel, Absalão toma as concubinas de seu pai.
 
----
 ###### 1 
 E passando Davi um pouco  adiante do cume, eis que Ziba, o moço de Mefibosete, veio encontrar-se com ele, com um par de jumentos albardados, e sobre eles duzentos pães, com cem cachos de passas, e cem de frutas de verão e um odre de vinho.
 

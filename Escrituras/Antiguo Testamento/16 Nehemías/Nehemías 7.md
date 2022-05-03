@@ -1,22 +1,21 @@
 ---
 title: Nehemías 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nehemías 7
 [[Nehemías 6| <-- Nehemías 6]] | [[Nehemías]] | [[Nehemías 8|Nehemías 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se toman precauciones para proteger Jerusalén — Se da la genealogía de los judíos que regresaron de Babilonia — Se niega el sacerdocio a los sacerdotes que no tienen registros genealógicos.
 
----
 ###### 1 
 Y sucedió que cuando el muro fue reedificado, y coloqué las puertas, y fueron designados porteros y cantores y levitas,
 

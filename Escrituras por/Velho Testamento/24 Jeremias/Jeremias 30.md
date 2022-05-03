@@ -1,22 +1,21 @@
 ---
 title: Jeremias 30
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 30
 [[Jeremias 29| <-- Jeremias 29]] | [[Jeremias]] | [[Jeremias 31|Jeremias 31 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/30?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/30?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nos últimos dias, Judá e Israel serão coligados nas suas próprias terras — Davi, seu rei (o Messias), reinará sobre eles.
 
----
 ###### 1 
 A palavra que do  veio a Jeremias, dizendo:
 

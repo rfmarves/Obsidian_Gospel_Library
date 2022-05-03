@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 43
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 43
 [[Ezequiel 42| <-- Ezequiel 42]] | [[Ezequiel]] | [[Ezequiel 44|Ezequiel 44 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/43?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/43?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A glória de Deus enche o templo — Seu trono está ali, e Ele promete habitar no meio de Israel para sempre — Ezequiel vê o altar e as ordenanças do altar.
 
----
 ###### 1 
 Então me levou à porta, à porta que dá para o caminho do oriente.
 

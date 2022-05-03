@@ -1,22 +1,21 @@
 ---
 title: Alma 51
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 51
 [[Alma 50| <-- Alma 50]] | [[Alma]] | [[Alma 52|Alma 52 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/51?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/51?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los realistas procuran modificar la ley y establecer un rey — Pahorán y los hombres libres reciben el apoyo de la voz del pueblo — Moroni obliga a los realistas a defender su país o padecer la muerte — Amalickíah y los lamanitas se apoderan de muchas ciudades fortificadas — Teáncum rechaza la invasión lamanita y mata a Amalickíah en su tienda. Aproximadamente 67–66 a.C.
 
----
 ###### 1 
 Y aconteció que a principios del año veinticinco del gobierno de los jueces sobre el pueblo de Nefi, habiendo ellos establecido la paz entre el pueblo de Lehi y el pueblo de Moriantón, en lo concerniente a sus tierras, y habiendo comenzado el año veinticinco en paz,
 

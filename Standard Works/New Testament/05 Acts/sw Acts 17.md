@@ -1,10 +1,11 @@
 ---
 title: sw Acts 17
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul and Silas preach and are persecuted in Thessalonica and in Berea—Paul, in Athens, preaches from Mars’ Hill about the unknown god—He says, We are the offspring of God.
 
----
 ###### 1 
 Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews:
 

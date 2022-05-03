@@ -1,22 +1,21 @@
 ---
 title: Atos 27
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 27
 [[Atos 26| <-- Atos 26]] | [[Atos]] | [[Atos 28|Atos 28 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/27?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo, em uma viagem perigosa, segue em direção a Roma — Um anjo o conforta — Ele usa o dom da vidência — Ele naufraga.
 
----
 ###### 1 
 E como se determinou que havíamos de navegar para a Itália, entregaram Paulo, e alguns outros presos, a um centurião por nome Júlio, da coorte augusta.
 

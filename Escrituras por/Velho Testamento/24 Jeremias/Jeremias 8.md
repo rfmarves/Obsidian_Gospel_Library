@@ -1,22 +1,21 @@
 ---
 title: Jeremias 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 8
 [[Jeremias 7| <-- Jeremias 7]] | [[Jeremias]] | [[Jeremias 9|Jeremias 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sobrevirão calamidades sobre os habitantes de Jerusalém — Para eles, já se passou a ceifa, já se acabou o verão, e eles não estão salvos.
 
----
 ###### 1 
 Naquele tempo, diz o , tirarão para fora das suas sepulturas os ossos dos reis de Judá, e os ossos dos seus príncipes, e os ossos dos sacerdotes, e os ossos dos profetas, e os ossos dos habitantes de Jerusalém;
 

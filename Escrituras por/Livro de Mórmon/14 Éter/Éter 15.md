@@ -1,22 +1,21 @@
 ---
 title: Éter 15
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éter 15
 [[Éter 14| <-- Éter 14]] | [[Éter]] | [[Morôni 1|Morôni 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Milhões de jareditas são mortos em batalha — Siz e Coriântumr reúnem todo o povo para um combate mortal — O Espírito do Senhor cessa de lutar com eles — A nação jaredita é completamente destruída — Somente Coriântumr sobrevive.
 
----
 ###### 1 
 E aconteceu que quando se recuperou dos ferimentos, Coriântumr começou a lembrar-se das palavras que Éter lhe dissera.
 

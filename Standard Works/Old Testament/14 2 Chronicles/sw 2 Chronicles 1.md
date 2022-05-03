@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord honors Solomon before all Israel—The Lord appears to him—Solomon chooses and is given wisdom—His kingdom is blessed with splendor and riches.
 
----
 ###### 1 
 And Solomon the son of David was strengthened in his kingdom, and the  his God  with him, and magnified him exceedingly.
 

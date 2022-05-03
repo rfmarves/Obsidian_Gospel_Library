@@ -1,22 +1,21 @@
 ---
 title: Josué 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 11
 [[Josué 10| <-- Josué 10]] | [[Josué]] | [[Josué 12|Josué 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Josué e Israel conquistam toda a terra, destruindo muitas cidades e nações.
 
----
 ###### 1 
 Sucedeu depois disso  ouvindo- Jabim, rei de Hazor, enviou  a Jobabe, rei de Madom, e ao rei de Sinrom, e ao rei de Acsafe;
 

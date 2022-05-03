@@ -1,10 +1,11 @@
 ---
 title: sw John 15
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus is the vine; His disciples are the branches—He discourses on the perfect law of love—His servants have been chosen and ordained by Him—The world hates and fights true religion—He promises the Comforter, the Spirit of Truth.
 
----
 ###### 1 
 I am the true vine, and my Father is the husbandman.
 

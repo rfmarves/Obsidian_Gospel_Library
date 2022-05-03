@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 18
 [[2 Reyes 17| <-- 2 Reyes 17]] | [[2 Reyes]] | [[2 Reyes 19|2 Reyes 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequías reina con rectitud en Judá — Acaba con la idolatría y destruye la serpiente de bronce hecha por Moisés, porque los hijos de Israel le quemaban incienso — Senaquerib, rey de Asiria, invade Judá — En un discurso blasfemo, el Rabsaces pide a Jerusalén que se rinda a los asirios.
 
----
 ###### 1 
 En el tercer año de Oseas hijo de Ela, rey de Israel, comenzó a reinar Ezequías hijo de Acaz, rey de Judá.
 

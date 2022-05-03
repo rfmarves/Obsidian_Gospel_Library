@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 17
 [[2 Crônicas 16| <-- 2 Crônicas 16]] | [[2 Crônicas]] | [[2 Crônicas 18|2 Crônicas 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Josafá reina bem e prospera em Judá — Os sacerdotes viajam e ensinam do livro da lei do Senhor.
 
----
 ###### 1 
 E Josafá, seu filho, reinou em seu lugar, e fortificou-se contra Israel.
 

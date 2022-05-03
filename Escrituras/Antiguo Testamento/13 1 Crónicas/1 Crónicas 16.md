@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 16
 [[1 Crónicas 15| <-- 1 Crónicas 15]] | [[1 Crónicas]] | [[1 Crónicas 17|1 Crónicas 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El pueblo ofrece sacrificios y alaba a Jehová — David pronuncia un salmo de agradecimiento — David alaba a Jehová — Asaf, Obed-edom, Sadoc y otros más ministran delante de Jehová.
 
----
 ###### 1 
 Así trajeron el arca de Dios y la pusieron en medio de la tienda que David había levantado para ella; y ofrecieron holocaustos y ofrendas de paz delante de Dios.
 

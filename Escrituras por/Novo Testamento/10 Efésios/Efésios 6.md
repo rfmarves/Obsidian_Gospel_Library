@@ -1,22 +1,21 @@
 ---
 title: Efésios 6
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Efésios 6
 [[Efésios 5| <-- Efésios 5]] | [[Efésios]] | [[Filipenses 1|Filipenses 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/eph/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/eph/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos devem honrar os pais — Os servos e os senhores são julgados pela mesma lei — Os santos devem vestir toda a armadura de Deus.
 
----
 ###### 1 
 Vós, filhos, sede obedientes a vossos pais no Senhor, porque isso é justo.
 

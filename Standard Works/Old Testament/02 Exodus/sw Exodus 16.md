@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel murmurs for want of bread and lusts for the fleshpots of Egypt—The Lord rains bread from heaven and sends quail for meat—Israel is given manna each day, except the Sabbath, for forty years.
 
----
 ###### 1 
 And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which  between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.
 

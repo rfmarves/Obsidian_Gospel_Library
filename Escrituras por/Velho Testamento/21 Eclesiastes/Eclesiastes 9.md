@@ -1,22 +1,21 @@
 ---
 title: Eclesiastes 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastes 9
 [[Eclesiastes 8| <-- Eclesiastes 8]] | [[Eclesiastes]] | [[Eclesiastes 10|Eclesiastes 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A providência de Deus tudo governa — Todos os homens estão sujeitos ao tempo e ao acaso — A sabedoria é melhor do que a força — Um só pecador destrói muitas coisas boas.
 
----
 ###### 1 
 Deveras considerei todas essas coisas no meu coração, para claramente entender tudo isto: que os justos, e os sábios, e as suas obras  nas mãos de Deus, como  que não conhece o homem nem o amor nem o ódio,  tudo  perante a sua face.
 

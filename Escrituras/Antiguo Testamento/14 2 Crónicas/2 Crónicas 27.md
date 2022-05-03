@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 27
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 27
 [[2 Crónicas 26| <-- 2 Crónicas 26]] | [[2 Crónicas]] | [[2 Crónicas 28|2 Crónicas 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Reina Jotam, fortalece el reino y somete a los amonitas.
 
----
 ###### 1 
 Jotam tenía veinticinco años cuando comenzó a reinar, y reinó en Jerusalén dieciséis años. El nombre de su madre era Jerusa hija de Sadoc.
 

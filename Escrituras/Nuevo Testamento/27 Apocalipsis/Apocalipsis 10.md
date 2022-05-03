@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 10
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 10
 [[Apocalipsis 9| <-- Apocalipsis 9]] | [[Apocalipsis]] | [[Apocalipsis 11|Apocalipsis 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Juan sella muchas cosas relacionadas con los últimos días — Se le manda participar en la restauración de todas las cosas.
 
----
 ###### 1 
 Y vi a otro ángel poderoso descender del cielo, envuelto en una nube, y con el arco iris sobre su cabeza; y su rostro era como el sol, y sus pies como columnas de fuego.
 

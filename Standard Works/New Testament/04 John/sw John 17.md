@@ -1,10 +1,11 @@
 ---
 title: sw John 17
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus offers the great Intercessory Prayer—He is glorified by gaining eternal life—He prays for His Apostles and all the Saints—He explains how the Father and Son are one.
 
----
 ###### 1 
 These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:
 

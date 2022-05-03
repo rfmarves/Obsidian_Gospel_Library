@@ -1,10 +1,11 @@
 ---
 title: sw Judges 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Gideon’s army is reduced to 300—They frighten the Midianite armies with trumpets and lights—The Midianites fight among themselves, flee, and are defeated by Israel.
 
----
 ###### 1 
 Then Jerubbaal, who  Gideon, and all the people that  with him, rose up early, and pitched beside the well of Harod: so that the host of the Midianites were on the north side of them, by the hill of Moreh, in the valley.
 

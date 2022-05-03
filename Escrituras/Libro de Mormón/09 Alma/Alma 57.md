@@ -1,22 +1,21 @@
 ---
 title: Alma 57
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 57
 [[Alma 56| <-- Alma 56]] | [[Alma]] | [[Alma 58|Alma 58 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/57?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/57?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Helamán relata la toma de la ciudad de Antipara, la rendición de la ciudad de Cumeni y la defensa posterior de esta — Los jóvenes ammonitas luchan con valentía; todos son heridos, pero ninguno de ellos muere — Gid da un informe de la muerte y huida de los prisioneros lamanitas. Aproximadamente 63 a.C.
 
----
 ###### 1 
 Y aconteció que recibí una epístola del rey Ammorón, en la que me decía que si yo le entregaba los prisioneros de guerra que habíamos tomado, él nos entregaría la ciudad de Antipara.
 

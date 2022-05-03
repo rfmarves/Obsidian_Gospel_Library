@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Wisdom is greatly to be desired—The Lord and the sons of men possessed wisdom in the premortal life.
 
----
 ###### 1 
 Doth not wisdom cry? and understanding put forth her voice?
 

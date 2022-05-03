@@ -1,10 +1,11 @@
 ---
 title: sw D&C 67
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 67
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/67?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, The Lord hears the prayers of and watches over His elders; 4–9, He challenges the wisest person to duplicate the least of His revelations; 10–14, Faithful elders will be quickened by the Spirit and see the face of God.
 
----
 ###### 1 
 Behold and hearken, O ye elders of my church, who have assembled yourselves together, whose prayers I have heard, and whose hearts I know, and whose desires have come up before me.
 

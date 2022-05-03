@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 19
 [[Ezequiel 18| <-- Ezequiel 18]] | [[Ezequiel]] | [[Ezequiel 20|Ezequiel 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ezequiel lamenta-se de Israel ter sido levada cativa por outras nações, tornando-se como uma vinha plantada em uma terra seca e sedenta.
 
----
 ###### 1 
 E tu levanta  lamentação sobre os príncipes de Israel,
 

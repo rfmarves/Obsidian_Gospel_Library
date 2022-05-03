@@ -1,27 +1,25 @@
 ---
 title: Salmos 31
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 31
 [[Salmos 30| <-- Salmos 30]] | [[Salmos]] | [[Salmos 32|Salmos 32 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/31?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/31?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi confia no Senhor e regozija-se com Sua misericórdia — Falando como o Messias, ele diz: Nas Tuas mãos encomendo o meu espírito — Ele aconselha: Amai ao Senhor, vós todos que sois Seus santos, porque o Senhor guarda os fiéis.
 
----
 ###### 1 
 Em ti, , confio; nunca me deixes envergonhado; livra-me pela tua justiça.
 

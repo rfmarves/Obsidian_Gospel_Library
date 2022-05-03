@@ -1,22 +1,21 @@
 ---
 title: Hechos 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 2
 [[Hechos 1| <-- Hechos 1]] | [[Hechos]] | [[Hechos 3|Hechos 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se derrama el Espíritu en el día de Pentecostés — Pedro testifica de la resurrección de Jesús — También enseña cómo obtener la salvación y habla del don del Espíritu Santo — Muchos creen y son bautizados.
 
----
 ###### 1 
 Y cuando llegó el día de Pentecostés, estaban todos juntos en un lugar;
 

@@ -1,22 +1,21 @@
 ---
 title: DyC 97
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 97
 [[DyC 96| <-- DyC 96]] | [[DyC]] | [[DyC 98|DyC 98 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–2, Muchos de los santos radicados en Sion (condado de Jackson, Misuri) son bendecidos por su fidelidad; 3–5, Se encomia a Parley P. Pratt por sus tareas en la escuela de Sion; 6–9, Aquellos que cumplen sus convenios son aceptados por el Señor; 10–17, Se ha de construir en Sion una casa en donde los puros de corazón verán a Dios; 18–21, Sion es los puros de corazón; 22–28, Sion se librará del azote del Señor si es fiel.
 
----
 ###### 1 
 De cierto os digo, mis amigos, os hablo con mi voz, que es la voz de mi Espíritu, para mostraros mi voluntad concerniente a vuestros hermanos en la tierra de Sion, muchos de los cuales son verdaderamente humildes y procuran diligentemente adquirir sabiduría y hallar la verdad.
 

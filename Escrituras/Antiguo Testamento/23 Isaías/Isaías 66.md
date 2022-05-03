@@ -1,22 +1,21 @@
 ---
 title: Isaías 66
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 66
 [[Isaías 65| <-- Isaías 65]] | [[Isaías]] | [[Jeremías 1|Jeremías 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/66?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/66?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En la Segunda Venida, Israel, como nación, nacerá en un día; los inicuos serán destruidos y los gentiles oirán el Evangelio.
 
----
 ###### 1 
 Jehová ha dicho así: El cielo es mi trono y la tierra el estrado de mis pies. ¿Dónde está la casa que me habréis de edificar? ¿Y dónde está el lugar de mi reposo?
 

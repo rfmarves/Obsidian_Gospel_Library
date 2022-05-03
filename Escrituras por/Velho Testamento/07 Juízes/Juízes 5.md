@@ -1,22 +1,21 @@
 ---
 title: Juízes 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 5
 [[Juízes 4| <-- Juízes 4]] | [[Juízes]] | [[Juízes 6|Juízes 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Débora e Baraque cantam um cântico de louvor porque Israel é libertado do cativeiro cananeu.
 
----
 ###### 1 
 E cantaram Débora, e Baraque, filho de Abinoão, naquele mesmo dia, dizendo:
 

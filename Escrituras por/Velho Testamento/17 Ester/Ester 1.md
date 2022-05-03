@@ -1,22 +1,21 @@
 ---
 title: Ester 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 1
 [[Neemias 13| <-- Neemias 13]] | [[Ester]] | [[Ester 2|Ester 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Assuero da Pérsia e da Média realiza banquetes reais — A rainha Vasti desobedece ao rei e é deposta.
 
----
 ###### 1 
 E sucedeu nos dias de Assuero (este  aquele Assuero que reinou desde a Índia até a Etiópia,  cento e vinte e sete províncias)
 

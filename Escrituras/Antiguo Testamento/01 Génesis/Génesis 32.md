@@ -1,22 +1,21 @@
 ---
 title: Génesis 32
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 32
 [[Génesis 31| <-- Génesis 31]] | [[Génesis]] | [[Génesis 33|Génesis 33 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/32?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/32?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob ve ángeles — Le pide a Dios que lo proteja de Esaú, para quien prepara presentes — Jacob lucha toda la noche con un mensajero de Dios — Se cambia el nombre de Jacob por el de Israel — Jacob ve a Dios cara a cara.
 
----
 ###### 1 
 Y Jacob siguió su camino, y le salieron al encuentro ángeles de Dios.
 

@@ -1,22 +1,21 @@
 ---
 title: Números 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 12
 [[Números 11| <-- Números 11]] | [[Números]] | [[Números 13|Números 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Aarão e Miriã reclamam contra Moisés, o mais manso de todos os homens — O Senhor promete falar com Moisés face a face e mostrar-lhe a semelhança do Senhor — Miriã é acometida de lepra por uma semana.
 
----
 ###### 1 
 E falaram Miriã e Aarão contra Moisés, por causa da mulher cusita, que desposara; porquanto tinha desposado a mulher cusita.
 

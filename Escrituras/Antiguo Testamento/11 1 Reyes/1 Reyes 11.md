@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 11
 [[1 Reyes 10| <-- 1 Reyes 10]] | [[1 Reyes]] | [[1 Reyes 12|1 Reyes 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Salomón se casa con mujeres que no son israelitas y sus esposas desvían el corazón del rey hacia la adoración de dioses falsos — Jehová levanta adversarios en contra de él, entre ellos a Jeroboam hijo de Nabat — Ahías promete a Jeroboam que será el rey de las diez tribus — Salomón muere y Roboam reina en su lugar.
 
----
 ###### 1 
 Pero el rey Salomón amó, además de la hija de Faraón, a muchas mujeres extranjeras, a las de Moab, a las de Amón, a las de Edom, a las de Sidón y a las heteas;
 

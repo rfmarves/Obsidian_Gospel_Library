@@ -1,22 +1,21 @@
 ---
 title: Jeremias 36
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 36
 [[Jeremias 35| <-- Jeremias 35]] | [[Jeremias]] | [[Jeremias 37|Jeremias 37 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/36?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/36?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Baruque escreve as profecias de Jeremias e as lê na casa do Senhor — Joaquim, o rei, queima o livro, e lhe sobrevém o juízo do Senhor — Jeremias dita novamente as profecias e acrescenta muitas outras.
 
----
 ###### 1 
 Sucedeu, pois, no ano quarto de Joaquim, filho de Josias, rei de Judá,  veio esta palavra do  a Jeremias, dizendo:
 

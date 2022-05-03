@@ -1,22 +1,21 @@
 ---
 title: Mosíah 17
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 17
 [[Mosíah 16| <-- Mosíah 16]] | [[Mosíah]] | [[Mosíah 18|Mosíah 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Alma cree las palabras de Abinadí y las escribe — Abinadí padece la muerte por fuego — Profetiza enfermedades y muerte por fuego sobre sus asesinos. Aproximadamente 148 a.C.
 
----
 ###### 1 
 Y aconteció que cuando Abinadí hubo concluido estas palabras, el rey mandó a los sacerdotes que se lo llevaran e hiciesen que padeciera la muerte.
 

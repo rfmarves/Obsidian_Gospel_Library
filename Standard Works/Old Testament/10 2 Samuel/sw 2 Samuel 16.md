@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mephibosheth is alleged to be seeking to be king—Shimei, of the house of Saul, curses David—Ahithophel counsels Absalom, and Absalom takes his father’s concubines.
 
----
 ###### 1 
 And when David was a little past the top  behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred  of bread, and an hundred bunches of raisins, and an hundred of summer fruits, and a bottle of wine.
 

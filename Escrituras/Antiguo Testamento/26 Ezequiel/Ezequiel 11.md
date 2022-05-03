@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 11
 [[Ezequiel 10| <-- Ezequiel 10]] | [[Ezequiel]] | [[Ezequiel 12|Ezequiel 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequiel ve en visión la destrucción de Jerusalén y el cautiverio de los judíos — Él profetiza el recogimiento de Israel en los últimos días.
 
----
 ###### 1 
 Y el espíritu me elevó y me llevó a la puerta oriental de la casa de Jehová, la cual mira hacia el oriente; y he aquí, a la entrada de la puerta había veinticinco hombres, entre los cuales vi a Jaazanías hijo de Azur y a Pelatías hijo de Benaía, jefes del pueblo.
 

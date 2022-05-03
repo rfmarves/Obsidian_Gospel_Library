@@ -1,27 +1,25 @@
 ---
 title: Salmos 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 16
 [[Salmos 15| <-- Salmos 15]] | [[Salmos]] | [[Salmos 17|Salmos 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/16?lang=por)
 
----
+```
 Salmo excelentíssimo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo messiânico de Davi — Ele se regozija nos santos que estão na Terra, em sua própria redenção futura do inferno, no fato de que Deus não permitirá que Seu Santo (o Messias) veja corrupção, e na plenitude da alegria que é encontrada na presença do Senhor.
 
----
 ###### 1 
 Guarda-me, ó Deus, porque em ti confio.
 

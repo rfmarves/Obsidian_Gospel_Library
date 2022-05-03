@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 32
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 32
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/32?lang=eng)
 
----
-__Summary__
+> __Summary__
 Aaron makes a golden calf, which Israel worships—Moses serves as a mediator between God and rebellious Israel—Moses breaks the tablets of stone—The Levites slay about 3,000 rebels—Moses pleads and intercedes for the people.
 
----
 ###### 1 
 And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for  this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
 

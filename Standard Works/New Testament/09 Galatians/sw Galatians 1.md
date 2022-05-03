@@ -1,10 +1,11 @@
 ---
 title: sw Galatians 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Galatians 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/gal/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Preachers of false gospels are accursed—Paul received the gospel by revelation—He believed, was taught, and preached to the Gentiles.
 
----
 ###### 1 
 Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 30
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 30
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/30?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, David Whitmer is chastened for failure to serve diligently; 5–8, Peter Whitmer Jr. is to accompany Oliver Cowdery on a mission to the Lamanites; 9–11, John Whitmer is called to preach the gospel.
 
----
 ###### 1 
 Behold, I say unto you, David, that you have feared man and have not relied on me for strength as you ought.
 

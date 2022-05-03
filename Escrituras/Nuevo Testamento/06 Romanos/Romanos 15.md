@@ -1,22 +1,21 @@
 ---
 title: Romanos 15
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 15
 [[Romanos 14| <-- Romanos 14]] | [[Romanos]] | [[Romanos 16|Romanos 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los verdaderos santos confraternizan unos con otros — Pablo relata su diligencia en la predicación del Evangelio — Los dones del Espíritu se derraman sobre los gentiles.
 
----
 ###### 1 
 Así que, los que somos más firmes debemos sobrellevar las flaquezas de los débiles, y no agradarnos a nosotros mismos.
 

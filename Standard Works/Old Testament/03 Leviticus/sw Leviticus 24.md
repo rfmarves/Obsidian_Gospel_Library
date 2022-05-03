@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 A perpetual fire is to burn outside the veil in the tabernacle—A blasphemer is put to death by stoning—Israel’s law is one of an eye for an eye and a tooth for a tooth.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

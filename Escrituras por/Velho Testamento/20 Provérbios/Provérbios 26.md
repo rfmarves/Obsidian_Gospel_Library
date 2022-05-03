@@ -1,22 +1,21 @@
 ---
 title: Provérbios 26
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 26
 [[Provérbios 25| <-- Provérbios 25]] | [[Provérbios]] | [[Provérbios 27|Provérbios 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A honra não convém ao tolo — Não respondas ao tolo segundo a sua estultícia — Não havendo difamador, cessará a contenda.
 
----
 ###### 1 
 Como a neve no verão, e como a chuva na ceifa, assim a honra não convém ao tolo.
 

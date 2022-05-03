@@ -1,10 +1,11 @@
 ---
 title: sw Jacob 3
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jacob 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The pure in heart receive the pleasing word of God—Lamanite righteousness exceeds that of the Nephites—Jacob warns against fornication, lasciviousness, and every sin. About 544–421 B.C.
 
----
 ###### 1 
 But behold, I, Jacob, would speak unto you that are pure in heart. Look unto God with firmness of mind, and pray unto him with exceeding faith, and he will console you in your afflictions, and he will plead your cause, and send down justice upon those who seek your destruction.
 

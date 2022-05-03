@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord gives wisdom, knowledge, and understanding—Walk in the way of good men.
 
----
 ###### 1 
 My son, if thou wilt receive my words, and hide my commandments with thee;
 

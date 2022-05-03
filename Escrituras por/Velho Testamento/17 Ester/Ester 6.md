@@ -1,22 +1,21 @@
 ---
 title: Ester 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 6
 [[Ester 5| <-- Ester 5]] | [[Ester]] | [[Ester 7|Ester 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mardoqueu recebe grandes honras — Hamã pranteia e é aconselhado por sua mulher.
 
----
 ###### 1 
 Naquela mesma noite fugiu o sono do rei; então mandou trazer o livro dos registros das crônicas, e as leram diante do rei.
 

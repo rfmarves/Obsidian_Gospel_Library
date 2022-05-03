@@ -1,10 +1,11 @@
 ---
 title: sw D&C 21
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, Joseph Smith is called to be a seer, translator, prophet, apostle, and elder; 4–8, His word will guide the cause of Zion; 9–12, The Saints will believe his words as he speaks by the Comforter.
 
----
 ###### 1 
 Behold, there shall be a record kept among you; and in it thou shalt be called a seer, a translator, a prophet, an apostle of Jesus Christ, an elder of the church through the will of God the Father, and the grace of your Lord Jesus Christ,
 

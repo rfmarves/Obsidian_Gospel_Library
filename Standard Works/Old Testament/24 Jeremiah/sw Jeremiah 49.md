@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 49
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 49
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/49?lang=eng)
 
----
-__Summary__
+> __Summary__
 Judgment and destruction will come upon the people of Ammon, Edom, Kedar, Hazor, and Elam.
 
----
 ###### 1 
 Concerning the Ammonites, thus saith the ; Hath Israel no sons? hath he no heir? why  doth their king inherit Gad, and his people dwell in his cities?
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nebuchadnezzar again besieges Jerusalem—Zedekiah is captured, Jerusalem and the temple are destroyed, and most of the people of Judah are carried into Babylon—Gedaliah, left to govern the remnant, is slain—The remnant flee to Egypt—Jehoiachin is shown favor in Babylon.
 
----
 ###### 1 
 And it came to pass in the ninth year of his reign, in the tenth month, in the tenth  of the month,  Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.
 

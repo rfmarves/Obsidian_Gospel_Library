@@ -1,22 +1,21 @@
 ---
 title: Lucas 12
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 12
 [[Lucas 11| <-- Lucas 11]] | [[Lucas]] | [[Lucas 13|Lucas 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus ensina: Acautelai-vos contra a hipocrisia; ajuntai tesouros no céu, não na Terra; preparai-vos para a vinda do Senhor; a quem muito for dado, muito se lhe exigirá; a pregação do evangelho causa divisão.
 
----
 ###### 1 
 Ajuntando-se, entretanto, muitos milhares de pessoas, de sorte que se atropelavam uns aos outros, começou a dizer primeiramente aos seus discípulos: Acautelai-vos do fermento dos fariseus, que é a hipocrisia.
 

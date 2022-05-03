@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 16
 [[Deuteronômio 15| <-- Deuteronômio 15]] | [[Deuteronômio]] | [[Deuteronômio 17|Deuteronômio 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel deve guardar a Páscoa, a Festa dos Pães Ázimos, a Festa das Semanas e a Festa dos Tabernáculos — Todos os homens devem se apresentar anualmente perante o Senhor nessas três festas — Os juízes não devem julgar desonestamente nem receber suborno.
 
----
 ###### 1 
 Guarda o mês de Abibe, e celebra a páscoa ao  teu Deus; porque no mês de Abibe o  teu Deus te tirou do Egito, de noite.
 

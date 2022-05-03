@@ -1,22 +1,21 @@
 ---
 title: Marcos 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 2
 [[Marcos 1| <-- Marcos 1]] | [[Marcos]] | [[Marcos 3|Marcos 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus perdoa pecados, cura um paralítico, come com coletores de impostos e pecadores, e anuncia que Ele é o Senhor do Sábado.
 
----
 ###### 1 
 E alguns dias depois, entrou outra vez em Cafarnaum, e ouviu-se que estava em casa.
 

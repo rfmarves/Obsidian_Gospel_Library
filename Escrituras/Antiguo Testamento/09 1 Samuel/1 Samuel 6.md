@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 6
 [[1 Samuel 5| <-- 1 Samuel 5]] | [[1 Samuel]] | [[1 Samuel 7|1 Samuel 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los filisteos devuelven el arca con una ofrenda — En Bet-semes Jehová castiga y hace morir a los israelitas que miraron dentro del arca.
 
----
 ###### 1 
 Y estuvo el arca de Jehová en la tierra de los filisteos siete meses.
 

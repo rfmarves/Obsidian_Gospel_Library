@@ -1,22 +1,21 @@
 ---
 title: DyC 95
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 95
 [[DyC 94| <-- DyC 94]] | [[DyC]] | [[DyC 96|DyC 96 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/95?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/95?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–6, Se reprende a los santos por no haber construido la casa del Señor; 7–10, El Señor desea usar Su casa para investir a los de Su pueblo con poder de lo alto; 11–17, La casa se ha de dedicar como sitio de adoración y para la escuela de los Apóstoles.
 
----
 ###### 1 
 De cierto, así dice el Señor a vosotros a quienes amo, y a los que amo también disciplino para que les sean perdonados sus pecados, porque con la disciplina preparo un medio para librarlos de la tentación en todas las cosas, y yo os he amado.
 

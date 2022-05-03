@@ -1,10 +1,11 @@
 ---
 title: sw Philippians 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Philippians 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/philip/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saints should be of one mind and one spirit—Every knee will bow to Christ—Saints must work out their salvation—Paul faces martyrdom with joy.
 
----
 ###### 1 
 If  therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,
 

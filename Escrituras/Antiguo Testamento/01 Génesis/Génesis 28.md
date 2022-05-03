@@ -1,22 +1,21 @@
 ---
 title: Génesis 28
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 28
 [[Génesis 27| <-- Génesis 27]] | [[Génesis]] | [[Génesis 29|Génesis 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Isaac prohíbe a Jacob casarse con una cananea — Isaac bendice a Jacob y a su descendencia con las bendiciones de Abraham — Esaú se casa con una de las hijas de Ismael — Jacob ve en una visión una escalera que toca el cielo — Jehová le promete que su descendencia será tan numerosa como el polvo de la tierra — Jehová también promete a Jacob que en él y en su descendencia serán bendecidas todas las familias de la tierra — Jacob hace convenio de pagar diezmos.
 
----
 ###### 1 
 Entonces Isaac llamó a Jacob, y lo bendijo y le mandó, diciendo: No tomes esposa de entre las hijas de Canaán.
 

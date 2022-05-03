@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Josiah reads the book of the covenant to the people—They covenant to keep the commandments—Josiah overturns the worship of false gods, removes the sodomites, and puts down idolatry—Idolatrous priests are slain—Judah holds a solemn Passover—Egypt subjects the land of Judah.
 
----
 ###### 1 
 And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem.
 

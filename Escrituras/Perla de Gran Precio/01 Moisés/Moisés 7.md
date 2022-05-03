@@ -1,25 +1,24 @@
 ---
 title: Moisés 7
-tags: #Escrituras\PdGP
+tags: Escrituras\PdGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moisés 7
 [[Moisés 6| <-- Moisés 6]] | [[Moisés]] | [[Moisés 8|Moisés 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=spa)
 
 Moisés
 (Diciembre de 1830)
 
----
-__Resumen__
+> __Resumen__
 Enoc instruye y dirige al pueblo, y mueve montañas — Se establece la ciudad de Sion — Enoc prevé la venida del Hijo del Hombre, Su sacrificio expiatorio y la resurrección de los santos — Prevé la Restauración, el Recogimiento, la Segunda Venida y el regreso de Sion.
 
----
 ###### 1 
 Y sucedió que Enoc continuó sus palabras, diciendo: He aquí, nuestro padre Adán enseñó estas cosas, y muchos han creído y han llegado a ser hijos de Dios; y muchos no han creído y han perecido en sus pecados, y con temor esperan, atormentados, que se derrame sobre ellos la ardiente indignación de la ira de Dios.
 

@@ -1,22 +1,21 @@
 ---
 title: Jeremias 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 5
 [[Jeremias 4| <-- Jeremias 4]] | [[Jeremias]] | [[Jeremias 6|Jeremias 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Serão derramados julgamentos sobre o povo de Judá por causa de seus pecados — Suas iniquidades fazem com que as bênçãos lhes sejam retidas.
 
----
 ###### 1 
 Dai voltas às ruas de Jerusalém, e vede agora, e informai-vos, e buscai pelas suas praças,  se achais alguém, ou se há  que faça juízo  busque a verdade; e eu lhe perdoarei.
 

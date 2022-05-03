@@ -1,10 +1,11 @@
 ---
 title: sw Malachi 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Malachi 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/mal/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 At the Second Coming, the proud and wicked will be burned as stubble—Elijah will return before that great and dreadful day.
 
----
 ###### 1 
 For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the  of hosts, that it shall leave them neither root nor branch.
 

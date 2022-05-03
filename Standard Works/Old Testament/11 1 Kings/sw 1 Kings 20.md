@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Benhadad of Syria makes war with Israel—The Syrians are defeated twice—Ahab lets Benhadad go free, contrary to the will of the Lord.
 
----
 ###### 1 
 And Ben-hadad the king of Syria gathered all his host together: and  thirty and two kings with him, and horses, and chariots: and he went up and besieged Samaria, and warred against it.
 

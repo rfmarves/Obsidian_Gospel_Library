@@ -1,22 +1,21 @@
 ---
 title: Tiago 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Tiago 4
 [[Tiago 3| <-- Tiago 3]] | [[Tiago]] | [[Tiago 5|Tiago 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/james/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/james/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 As guerras se originam das concupiscências — Os amigos do mundo são inimigos de Deus — O pecado consiste em não andar na luz que recebemos.
 
----
 ###### 1 
 De onde  as guerras e pelejas entre vós? Porventura não  disto,  dos vossos deleites, que nos vossos membros guerreiam?
 

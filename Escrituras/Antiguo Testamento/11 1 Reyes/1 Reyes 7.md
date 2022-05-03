@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 7
 [[1 Reyes 6| <-- 1 Reyes 6]] | [[1 Reyes]] | [[1 Reyes 8|1 Reyes 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Salomón construye su casa — Hiram, de Tiro, hace las dos columnas, el mar de bronce fundido, las diez basas, las diez pilas y todos los enseres para el templo — El mar de bronce fundido (pila bautismal) descansa sobre los lomos de doce bueyes.
 
----
 ###### 1 
 Después edificó Salomón su propia casa en trece años, y la terminó toda.
 

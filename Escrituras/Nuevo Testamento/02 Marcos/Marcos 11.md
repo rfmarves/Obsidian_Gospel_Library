@@ -1,22 +1,21 @@
 ---
 title: Marcos 11
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 11
 [[Marcos 10| <-- Marcos 10]] | [[Marcos]] | [[Marcos 12|Marcos 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús entra en Jerusalén en medio de aclamaciones de hosanna — Maldice una higuera, expulsa a los cambistas del templo y confunde a los escribas sobre el asunto de la autoridad.
 
----
 ###### 1 
 Y cuando estaban cerca de Jerusalén, de Betfagé y de Betania, junto al monte de los Olivos, envió a dos de sus discípulos,
 

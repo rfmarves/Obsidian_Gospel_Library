@@ -1,22 +1,21 @@
 ---
 title: Êxodo 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 21
 [[Êxodo 20| <-- Êxodo 20]] | [[Êxodo]] | [[Êxodo 22|Êxodo 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor revela as Suas leis concernentes a servos, casamento plural, pena de morte para várias ofensas, dar olho por olho, dente por dente, e lesões causadas por bois.
 
----
 ###### 1 
 Estes  os estatutos que lhes proporás.
 

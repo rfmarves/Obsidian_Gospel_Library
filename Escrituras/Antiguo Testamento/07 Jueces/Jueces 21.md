@@ -1,22 +1,21 @@
 ---
 title: Jueces 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 21
 [[Jueces 20| <-- Jueces 20]] | [[Jueces]] | [[Rut 1|Rut 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El pueblo lamenta la desolación de Benjamín — Destruyen a los habitantes de Jabes-galaad por no unirse a la guerra contra Benjamín — Se dan esposas a los que quedaron de la tribu de Benjamín.
 
----
 ###### 1 
 Y los hombres de Israel habían jurado en Mizpa, diciendo: Ninguno de nosotros dará su hija a los de Benjamín por esposa.
 

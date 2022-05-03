@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 The sons of Aaron and the rest of the sons of Levi are divided into groups and assigned their duties by lot.
 
----
 ###### 1 
 Now  the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.
 

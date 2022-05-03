@@ -1,10 +1,11 @@
 ---
 title: sw Job 31
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 31
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/31?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job invites judgment so that God may know his integrity—If he has done ill, Job welcomes the penalties for so doing.
 
----
 ###### 1 
 I made a covenant with mine eyes; why then should I think upon a maid?
 

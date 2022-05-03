@@ -1,22 +1,21 @@
 ---
 title: Isaías 59
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 59
 [[Isaías 58| <-- Isaías 58]] | [[Isaías]] | [[Isaías 60|Isaías 60 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/59?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/59?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los del pueblo de Israel son separados de su Dios por sus iniquidades — Sus pecados testifican en contra de ellos — El Mesías intercederá, vendrá a Sion y redimirá al arrepentido.
 
----
 ###### 1 
 He aquí que no se ha acortado la mano de Jehová para salvar, ni se ha endurecido su oído para oír;
 

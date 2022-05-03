@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 17
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus directs the people to ponder His words and pray for understanding—He heals their sick—He prays for the people, using language that cannot be written—Angels minister to and fire encircles their little ones. About A.D. 34.
 
----
 ###### 1 
 Behold, now it came to pass that when Jesus had spoken these words he looked round about again on the multitude, and he said unto them: Behold, my time is at hand.
 

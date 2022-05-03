@@ -1,22 +1,21 @@
 ---
 title: Éxodo 38
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 38
 [[Éxodo 37| <-- Éxodo 37]] | [[Éxodo]] | [[Éxodo 39|Éxodo 39 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/38?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/38?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Bezaleel y otras personas hacen el altar del holocausto y todas las cosas pertenecientes al tabernáculo — Seiscientos tres mil quinientos cincuenta hombres hacen sus ofrendas.
 
----
 ###### 1 
 Igualmente hizo el altar del holocausto de madera de acacia; su longitud, de cinco codos, y su anchura, cinco codos, cuadrado, y de tres codos de altura.
 

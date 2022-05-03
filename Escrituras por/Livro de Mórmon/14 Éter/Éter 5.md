@@ -1,22 +1,21 @@
 ---
 title: Éter 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éter 5
 [[Éter 4| <-- Éter 4]] | [[Éter]] | [[Éter 6|Éter 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Três testemunhas e a obra em si servirão de testemunho da veracidade do Livro de Mórmon.
 
----
 ###### 1 
 E agora eu, Morôni, escrevi as palavras que me foram ordenadas, segundo minha memória; e disse-te as coisas que selei; portanto, nelas não toques com o fim de traduzi-las, porque isso está proibido, a menos que no futuro Deus o julgue prudente.
 

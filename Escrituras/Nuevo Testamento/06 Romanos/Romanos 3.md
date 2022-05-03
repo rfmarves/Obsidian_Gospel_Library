@@ -1,22 +1,21 @@
 ---
 title: Romanos 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 3
 [[Romanos 2| <-- Romanos 2]] | [[Romanos]] | [[Romanos 4|Romanos 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La ley de Moisés no justifica al hombre — Este es justificado mediante la rectitud, la cual procede de la fe en Cristo por Su sacrificio expiatorio.
 
----
 ###### 1 
 ¿Qué ventaja, pues, tiene el judío? ¿O de qué aprovecha la circuncisión?
 

@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel murmurs and speaks of returning to Egypt—Joshua and Caleb give a good report of Canaan—Moses mediates between Israel and the Lord—The adults of Israel will not enter the promised land—The Lord slays the false spies by a plague—Some rebels try to go alone and are slain by the Amalekites and Canaanites.
 
----
 ###### 1 
 And all the congregation lifted up their voice, and cried; and the people wept that night.
 

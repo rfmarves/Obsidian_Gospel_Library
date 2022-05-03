@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel and Judah will be as a rotted and decayed belt—The people are commanded to repent—Judah will be taken captive and scattered as stubble.
 
----
 ###### 1 
 Thus saith the  unto me, Go and get thee a linen girdle, and put it upon thy loins, and put it not in water.
 

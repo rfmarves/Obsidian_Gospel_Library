@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abijah reigns in Judah—He defeats Jeroboam and the armies of Israel—The Lord strikes Jeroboam, and he dies.
 
----
 ###### 1 
 Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah.
 

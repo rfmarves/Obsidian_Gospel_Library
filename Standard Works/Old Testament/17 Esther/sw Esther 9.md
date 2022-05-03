@@ -1,10 +1,11 @@
 ---
 title: sw Esther 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Esther 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Jews slay their enemies, including Haman’s ten sons—The Feast of Purim is instituted to commemorate their deliverance and victory.
 
----
 ###### 1 
 Now in the twelfth month, that  the month Adar, on the thirteenth day of the same, when the king’s commandment and his decree drew near to be put in execution, in the day that the enemies of the Jews hoped to have power over them, (though it was turned to the contrary, that the Jews had rule over them that hated them;)
 

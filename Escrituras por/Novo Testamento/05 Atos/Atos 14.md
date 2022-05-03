@@ -1,22 +1,21 @@
 ---
 title: Atos 14
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 14
 [[Atos 13| <-- Atos 13]] | [[Atos]] | [[Atos 15|Atos 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A propagação do evangelho é acompanhada de perseguição — Paulo cura um homem paralítico; Paulo e Barnabé são tidos como deuses — Paulo é apedrejado, sobrevive e prega — Ordenam-se anciãos (élderes).
 
----
 ###### 1 
 E aconteceu que em Icônio entraram juntos na sinagoga dos judeus, e falaram de tal modo que creu uma grande multidão, não só de judeus mas de gregos.
 

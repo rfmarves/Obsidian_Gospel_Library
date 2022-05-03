@@ -1,22 +1,21 @@
 ---
 title: Atos 23
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 23
 [[Atos 22| <-- Atos 22]] | [[Atos]] | [[Atos 24|Atos 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo é ferido por ordem de Ananias — O Senhor aparece novamente a Paulo — Quarenta judeus tramam sua morte — Ele é entregue a Félix.
 
----
 ###### 1 
 E pondo Paulo os olhos no conselho, disse: Homens irmãos, até o dia de hoje tenho andado diante de Deus com toda a boa consciência.
 

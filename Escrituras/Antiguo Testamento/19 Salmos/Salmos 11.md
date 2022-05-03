@@ -1,27 +1,25 @@
 ---
 title: Salmos 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 11
 [[Salmos 10| <-- Salmos 10]] | [[Salmos]] | [[Salmos 12|Salmos 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/11?lang=spa)
 
----
+```
 Al músico principal. Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David se regocija de que Jehová esté en Su santo templo — Jehová pone a prueba al justo y aborrece al impío.
 
----
 ###### 1 
 
 

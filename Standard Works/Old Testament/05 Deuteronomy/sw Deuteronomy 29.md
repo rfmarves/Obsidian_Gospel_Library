@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 29
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 The children of Israel make a covenant with the Lord under which they will be blessed if they are obedient, and cursed if they are disobedient—If they are disobedient, their land will be as brimstone and salt.
 
----
 ###### 1 
 These  the words of the covenant, which the  commanded Moses to make with the children of Israel in the land of Moab, beside the covenant which he made with them in Horeb.
 

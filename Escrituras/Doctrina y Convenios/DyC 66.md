@@ -1,22 +1,21 @@
 ---
 title: DyC 66
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 66
 [[DyC 65| <-- DyC 65]] | [[DyC]] | [[DyC 67|DyC 67 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/66?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/66?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, El convenio sempiterno es la plenitud del Evangelio; 5–8, Los élderes han de predicar, testificar y razonar con la gente; 9–13, El fiel servicio en el ministerio asegura una herencia de vida eterna.
 
----
 ###### 1 
 He aquí, así dice el Señor a mi siervo William E. McLellin: Bendito eres, por cuanto te has apartado de tus iniquidades y has recibido mis verdades, dice el Señor tu Redentor, el Salvador del mundo, sí, de cuantos creen en mi nombre.
 

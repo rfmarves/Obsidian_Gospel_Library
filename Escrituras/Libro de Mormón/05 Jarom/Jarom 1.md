@@ -1,22 +1,21 @@
 ---
 title: Jarom 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jarom 1
 [[Enós 1| <-- Enós 1]] | [[Jarom]] | [[Omni 1|Omni 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/jarom/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/jarom/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los nefitas guardan la ley de Moisés, miran adelante hacia la venida de Cristo y prosperan en la tierra — Muchos profetas trabajan con diligencia para conservar al pueblo en el camino de la verdad. Aproximadamente 399–361 a.C.
 
----
 ###### 1 
 Ahora bien, he aquí, yo, Jarom, escribo unas pocas palabras de acuerdo con el mandato de mi padre, Enós, para que sea preservada nuestra genealogía.
 

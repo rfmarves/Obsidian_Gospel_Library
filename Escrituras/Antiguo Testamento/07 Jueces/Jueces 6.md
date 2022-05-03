@@ -1,22 +1,21 @@
 ---
 title: Jueces 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 6
 [[Jueces 5| <-- Jueces 5]] | [[Jueces]] | [[Jueces 7|Jueces 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel queda cautivo de los madianitas — Un ángel aparece a Gedeón y le manda librar a Israel — Gedeón derriba el altar de Baal, el Espíritu de Jehová descansa sobre él y Jehová le da una señal para indicarle que es llamado a librar a Israel.
 
----
 ###### 1 
 Y los hijos de Israel hicieron lo malo ante los ojos de Jehová, y Jehová los entregó en manos de Madián durante siete años.
 

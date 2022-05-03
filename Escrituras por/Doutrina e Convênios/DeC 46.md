@@ -1,22 +1,21 @@
 ---
 title: DeC 46
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 46
 [[DeC 45| <-- DeC 45]] | [[DeC]] | [[DeC 47|DeC 47 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–2, Os élderes devem dirigir as reuniões conforme inspirados pelo Santo Espírito; 3–6, Os que buscam a verdade não devem ser excluídos das reuniões sacramentais; 7–12, Pedi a Deus e buscai os dons do Espírito; 13–26, Enumeram-se alguns desses dons; 27–33, Aos líderes da Igreja é dado poder para discernir os dons do Espírito.
 
----
 ###### 1 
 Escutai, ó povo da minha igreja; pois, em verdade vos digo, que estas coisas foram declaradas para vosso proveito e instrução.
 

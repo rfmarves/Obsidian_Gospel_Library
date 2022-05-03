@@ -1,22 +1,21 @@
 ---
 title: Marcos 7
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 7
 [[Marcos 6| <-- Marcos 6]] | [[Marcos]] | [[Marcos 8|Marcos 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus repreende os fariseus por suas falsas tradições e cerimônias — Ele expulsa um demônio da filha de uma mulher grega — Ele abre os ouvidos e solta a língua de um homem com deficiência.
 
----
 ###### 1 
 E reuniram-se com ele os fariseus, e alguns dos escribas que tinham vindo de Jerusalém,
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Pedro 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Pedro 4
 [[1 Pedro 3| <-- 1 Pedro 3]] | [[1 Pedro]] | [[1 Pedro 5|1 Pedro 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Pedro explica por que o evangelho é pregado aos mortos — Os santos devem falar como os oráculos de Deus — Os justos serão postos à prova e testados em todas as coisas.
 
----
 ###### 1 
 Ora, pois,  que Cristo padeceu por nós na carne, armai-vos também vós com este pensamento: que aquele que padeceu na carne  cessou do pecado,
 

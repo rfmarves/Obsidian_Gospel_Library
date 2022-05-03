@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 21
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 21
 [[Apocalipse 20| <-- Apocalipse 20]] | [[Apocalipse]] | [[Apocalipse 22|Apocalipse 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Aqueles que vencerem serão filhos de Deus — A Terra alcança sua glória celestial.
 
----
 ###### 1 
 E vi um novo céu, e uma nova terra. Porque já o primeiro céu e a primeira terra passaram, e o mar já não existe.
 

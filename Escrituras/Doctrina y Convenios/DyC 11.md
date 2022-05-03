@@ -1,22 +1,21 @@
 ---
 title: DyC 11
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 11
 [[DyC 10| <-- DyC 10]] | [[DyC]] | [[DyC 12|DyC 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–6, Los obreros de la viña lograrán la salvación; 7–14, Busca sabiduría, proclama el arrepentimiento, confía en el Espíritu; 15–22, Guarda los mandamientos y estudia la palabra del Señor; 23–27, No niegues el espíritu de revelación y de profecía; 28–30, Aquellos que reciban a Cristo llegarán a ser hijos de Dios.
 
----
 ###### 1 
 Una obra grande y maravillosa está a punto de aparecer entre los hijos de los hombres.
 

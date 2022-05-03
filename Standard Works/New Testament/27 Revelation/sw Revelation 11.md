@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 11
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, two prophets will be slain in Jerusalem—After 3½ days, they will be resurrected—Christ will reign over all the earth.
 
----
 ###### 1 
 And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein.
 

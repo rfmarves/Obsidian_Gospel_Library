@@ -1,22 +1,21 @@
 ---
 title: Números 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 22
 [[Números 21| <-- Números 21]] | [[Números]] | [[Números 23|Números 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Balaque oferece dinheiro, gado e grandes honras a Balaão para que amaldiçoe Israel — O Senhor proíbe que Balaão faça isso — Um anjo se opõe a Balaão no caminho.
 
----
 ###### 1 
 Depois partiram os filhos de Israel, e acamparam nas campinas de Moabe, além do Jordão,  Jericó.
 

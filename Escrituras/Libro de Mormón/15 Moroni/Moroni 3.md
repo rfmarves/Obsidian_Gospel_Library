@@ -1,22 +1,21 @@
 ---
 title: Moroni 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moroni 3
 [[Moroni 2| <-- Moroni 2]] | [[Moroni]] | [[Moroni 4|Moroni 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los élderes ordenan presbíteros y maestros mediante la imposición de manos. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 La forma en que los discípulos, que eran llamados los élderes de la iglesia, ordenaban presbíteros y maestros:
 

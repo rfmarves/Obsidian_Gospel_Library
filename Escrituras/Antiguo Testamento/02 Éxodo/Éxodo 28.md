@@ -1,22 +1,21 @@
 ---
 title: Éxodo 28
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 28
 [[Éxodo 27| <-- Éxodo 27]] | [[Éxodo]] | [[Éxodo 29|Éxodo 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Aarón y sus hijos serán consagrados y ungidos para ministrar en el oficio de sacerdote — Las vestiduras de Aarón han de comprender un pectoral, un efod, un manto, una túnica, una mitra y una faja — El pectoral del juicio tendrá doce piedras preciosas con los nombres de las tribus de Israel sobre ellas — El Urim y Tumim se colocará en el pectoral.
 
----
 ###### 1 
 Y harás que se acerquen a ti Aarón, tu hermano, y sus hijos con él, de entre los hijos de Israel, para que sean mis sacerdotes; Aarón, Nadab y Abiú, Eleazar e Itamar, hijos de Aarón.
 

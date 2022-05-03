@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 3
 [[2 Nefi 2| <-- 2 Nefi 2]] | [[2 Nefi]] | [[2 Nefi 4|2 Nefi 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 José, en Egipto, vio a los nefitas en visión — Profetizó en cuanto a José Smith, el vidente de los últimos días; en cuanto a Moisés, que libraría a Israel; y en cuanto al advenimiento del Libro de Mormón. Aproximadamente 588–570 a.C.
 
----
 ###### 1 
 Y ahora te hablo a ti, José, mi postrer hijo. Tú naciste en el desierto de mis aflicciones; sí, tu madre te dio a luz en la época de mis mayores angustias.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 52
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 52
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/52?lang=eng)
 
----
+```
 To the chief Musician, Maschil, A Psalm of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David says that wicked tongues devise mischief and the wicked trust in riches—The Saints trust in the mercy of God forever.
 
----
 ###### 1 
 Why boastest thou thyself in mischief, O mighty man? the goodness of God  continually.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 85
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 85
 [[Salmos 84| <-- Salmos 84]] | [[Salmos]] | [[Salmos 86|Salmos 86 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/85?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/85?lang=spa)
 
----
+```
 Al músico principal. Salmo de los hijos de Coré.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Jehová habla paz a Su pueblo — La verdad brotará de la tierra (el Libro de Mormón) y la justicia mirará desde los cielos.
 
----
 ###### 1 
 
 

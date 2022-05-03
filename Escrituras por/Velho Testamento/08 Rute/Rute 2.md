@@ -1,22 +1,21 @@
 ---
 title: Rute 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Rute 2
 [[Rute 1| <-- Rute 1]] | [[Rute]] | [[Rute 3|Rute 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ruth/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ruth/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Rute apanha espigas nos campos de Boaz, parente próximo de Noemi — Ele trata Rute com bondade.
 
----
 ###### 1 
 E tinha Noemi um parente de seu marido, homem de grande riqueza, da família de Elimeleque; e  o seu nome Boaz.
 

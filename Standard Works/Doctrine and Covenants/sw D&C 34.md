@@ -1,10 +1,11 @@
 ---
 title: sw D&C 34
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 34
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/34?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, The faithful become the sons of God through the Atonement; 5–9, The preaching of the gospel prepares the way for the Second Coming; 10–12, Prophecy comes by the power of the Holy Ghost.
 
----
 ###### 1 
 My son Orson, hearken and hear and behold what I, the Lord God, shall say unto you, even Jesus Christ your Redeemer;
 

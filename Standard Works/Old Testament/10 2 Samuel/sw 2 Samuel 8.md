@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 David defeats and subjects many nations—The Lord is with him—He executes judgment and justice unto all his people.
 
----
 ###### 1 
 And after this it came to pass, that David smote the Philistines, and subdued them: and David took Metheg-ammah out of the hand of the Philistines.
 

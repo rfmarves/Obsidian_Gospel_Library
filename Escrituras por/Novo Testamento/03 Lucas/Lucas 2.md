@@ -1,22 +1,21 @@
 ---
 title: Lucas 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 2
 [[Lucas 1| <-- Lucas 1]] | [[Lucas]] | [[Lucas 3|Lucas 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mensageiros celestes anunciam o nascimento de Jesus em Belém — Ele é circuncidado, e Simeão e Ana profetizam a respeito de Sua missão — Aos doze anos de idade, Ele cuida dos negócios de Seu Pai.
 
----
 ###### 1 
 E aconteceu naqueles dias que saiu um decreto da parte de César Augusto, para que todo o mundo se alistasse
 

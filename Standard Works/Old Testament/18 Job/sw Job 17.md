@@ -1,10 +1,11 @@
 ---
 title: sw Job 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job speaks of the sorrow of death and of the grave in that day when the body returns to the dust.
 
----
 ###### 1 
 My breath is corrupt, my days are extinct, the graves  for me.
 

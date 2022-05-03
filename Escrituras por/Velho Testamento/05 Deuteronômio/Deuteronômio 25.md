@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 25
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 25
 [[Deuteronômio 24| <-- Deuteronômio 24]] | [[Deuteronômio]] | [[Deuteronômio 26|Deuteronômio 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os juízes determinam o castigo dos iníquos — A lei de casamento ampara a viúva de um irmão — Exigem-se pesos e medidas justas — Israel recebe o mandamento de eliminar os amalequitas de debaixo dos céus.
 
----
 ###### 1 
 Quando houver contenda entre alguns, e forem a juízo, para que os julguem, o justo justificarão, e o injusto condenarão.
 

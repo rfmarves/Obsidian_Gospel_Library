@@ -1,10 +1,11 @@
 ---
 title: sw D&C 39
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 39
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/39?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, The Saints have power to become the sons of God; 5–6, To receive the gospel is to receive Christ; 7–14, James Covel is commanded to be baptized and labor in the Lord’s vineyard; 15–21, The Lord’s servants are to preach the gospel before the Second Coming; 22–24, Those who receive the gospel will be gathered in time and in eternity.
 
----
 ###### 1 
 Hearken and listen to the voice of him who is from all eternity to all eternity, the Great , even Jesus Christ—
 

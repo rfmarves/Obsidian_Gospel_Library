@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 3
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Lehi’s sons return to Jerusalem to obtain the plates of brass—Laban refuses to give the plates up—Nephi exhorts and encourages his brethren—Laban steals their property and attempts to slay them—Laman and Lemuel smite Nephi and Sam and are reproved by an angel. About 600–592 B.C.
 
----
 ###### 1 
 And it came to pass that I, Nephi, returned from speaking with the Lord, to the tent of my father.
 

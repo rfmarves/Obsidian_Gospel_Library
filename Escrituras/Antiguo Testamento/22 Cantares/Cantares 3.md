@@ -1,22 +1,21 @@
 ---
 title: Cantares 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Cantares 3
 [[Cantares 2| <-- Cantares 2]] | [[Cantares]] | [[Cantares 4|Cantares 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/song/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/song/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se presenta una canción de amor acerca de Salomón.
 
----
 ###### 1 
 
 

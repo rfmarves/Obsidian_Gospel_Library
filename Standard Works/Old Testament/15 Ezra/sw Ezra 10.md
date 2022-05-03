@@ -1,10 +1,11 @@
 ---
 title: sw Ezra 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezra 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Jews covenant to put away their wives taken from the Canaanites and others—Ezra assembles the people at Jerusalem—The Levites who married non-Israelite women are listed.
 
----
 ###### 1 
 Now when Ezra had prayed, and when he had confessed, weeping and casting himself down before the house of God, there assembled unto him out of Israel a very great congregation of men and women and children: for the people wept very sore.
 

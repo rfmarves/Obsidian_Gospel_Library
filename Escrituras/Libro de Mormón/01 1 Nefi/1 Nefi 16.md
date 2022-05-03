@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 16
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 16
 [[1 Nefi 15| <-- 1 Nefi 15]] | [[1 Nefi]] | [[1 Nefi 17|1 Nefi 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los inicuos hallan dura la verdad — Los hijos de Lehi se casan con las hijas de Ismael — La Liahona marca el camino que deben seguir por el desierto — De cuando en cuando se escriben en la Liahona mensajes del Señor — Muere Ismael; su familia murmura por motivo de sus aflicciones. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 Y aconteció que después que yo, Nefi, hube terminado de hablar a mis hermanos, he aquí, ellos me dijeron: Tú nos has declarado cosas duras, más de lo que podemos aguantar.
 

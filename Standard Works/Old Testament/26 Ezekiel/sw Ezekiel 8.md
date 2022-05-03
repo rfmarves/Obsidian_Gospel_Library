@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel sees in vision the wickedness and abominations of the people of Judah in Jerusalem—He sees idolatry practiced in the temple itself.
 
----
 ###### 1 
 And it came to pass in the sixth year, in the sixth  in the fifth  of the month,  I sat in mine house, and the elders of Judah sat before me, that the hand of the Lord  fell there upon me.
 

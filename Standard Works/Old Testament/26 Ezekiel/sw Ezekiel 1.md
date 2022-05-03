@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel sees in vision four living creatures, four wheels, and the glory of God on His throne.
 
----
 ###### 1 
 Now it came to pass in the thirtieth year, in the fourth  in the fifth  of the month, as I  among the captives by the river of Chebar,  the heavens were opened, and I saw visions of God.
 

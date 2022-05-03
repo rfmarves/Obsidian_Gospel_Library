@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 9
 [[1 Reis 8| <-- 1 Reis 8]] | [[1 Reis]] | [[1 Reis 10|1 Reis 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor aparece novamente a Salomão — O Senhor promete grandes bênçãos se os israelitas forem obedientes e grandes maldições se eles se afastarem Dele — Salomão reina com esplendor, impõe tributos aos não israelitas e constrói uma frota de navios.
 
----
 ###### 1 
 Sucedeu, pois, que, acabando Salomão de edificar a casa do , e a casa do rei, e todo o desejo de Salomão, que lhe veio à vontade fazer,
 

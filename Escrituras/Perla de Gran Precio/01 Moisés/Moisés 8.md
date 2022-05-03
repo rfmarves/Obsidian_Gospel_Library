@@ -1,25 +1,24 @@
 ---
 title: Moisés 8
-tags: #Escrituras\PdGP
+tags: Escrituras\PdGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moisés 8
 [[Moisés 7| <-- Moisés 7]] | [[Moisés]] | [[Abraham 1|Abraham 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/pgp/moses/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/pgp/moses/8?lang=spa)
 
 Moisés
 (Febrero de 1831)
 
----
-__Resumen__
+> __Resumen__
 Matusalén profetiza — Noé y sus hijos predican el Evangelio — Prevalece una gran iniquidad — No se hace caso del llamado al arrepentimiento — Dios decreta la destrucción de toda carne por medio del Diluvio.
 
----
 ###### 1 
 Y fueron todos los días de Enoc cuatrocientos treinta años.
 

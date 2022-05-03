@@ -1,22 +1,21 @@
 ---
 title: Neemias 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Neemias 9
 [[Neemias 8| <-- Neemias 8]] | [[Neemias]] | [[Neemias 10|Neemias 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os judeus jejuam e confessam seus pecados — Os levitas bendizem e louvam ao Senhor e relembram Sua bondade para com Israel.
 
----
 ###### 1 
 E no dia vinte e quatro deste mês se ajuntaram os filhos de Israel com jejum, e com panos de saco, e terra sobre si.
 

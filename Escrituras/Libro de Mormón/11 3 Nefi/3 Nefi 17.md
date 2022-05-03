@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 17
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 17
 [[3 Nefi 16| <-- 3 Nefi 16]] | [[3 Nefi]] | [[3 Nefi 18|3 Nefi 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús exhorta a los del pueblo a meditar en Sus palabras y a pedir entendimiento en sus oraciones — Sana a los enfermos — Ora por el pueblo con palabras que no se pueden escribir — Los ángeles ministran a los pequeñitos y estos son rodeados de fuego. Aproximadamente 34 d.C.
 
----
 ###### 1 
 He aquí, sucedió que cuando Jesús hubo hablado estas palabras, de nuevo miró alrededor hacia la multitud, y les dijo: He aquí, mi tiempo está cerca.
 

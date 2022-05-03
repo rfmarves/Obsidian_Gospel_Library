@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Peace offerings are made with animals without blemish, whose blood is sprinkled on the altar—Israel is forbidden to eat fat or blood.
 
----
 ###### 1 
 And if his oblation  a sacrifice of peace offering, if he offer  of the herd; whether  a male or female, he shall offer it without blemish before the .
 

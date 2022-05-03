@@ -1,22 +1,21 @@
 ---
 title: João 13
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 13
 [[João 12| <-- João 12]] | [[João]] | [[João 14|João 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus lava os pés dos Doze — Ele identifica Judas como o Seu traidor — Ele lhes dá o mandamento de amarem-se uns aos outros.
 
----
 ###### 1 
 Ora, antes da festa da páscoa, sabendo Jesus que  era chegada a sua hora de passar deste mundo para o Pai, como havia amado os seus, que estavam no mundo, amou-os até o fim.
 

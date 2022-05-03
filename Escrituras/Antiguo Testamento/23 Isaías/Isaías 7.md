@@ -1,22 +1,21 @@
 ---
 title: Isaías 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 7
 [[Isaías 6| <-- Isaías 6]] | [[Isaías]] | [[Isaías 8|Isaías 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Efraín y Siria guerrean contra Judá — Cristo nacerá de una virgen — Compárese con 2 Nefi 17.
 
----
 ###### 1 
 Aconteció en los días de Acaz hijo de Jotam, hijo de Uzías, rey de Judá, que Rezín, rey de Siria, y Peca hijo de Remalías, rey de Israel, subieron a Jerusalén para combatirla, pero no la pudieron tomar.
 

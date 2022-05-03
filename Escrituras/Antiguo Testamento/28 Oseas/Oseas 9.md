@@ -1,22 +1,21 @@
 ---
 title: Oseas 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseas 9
 [[Oseas 8| <-- Oseas 8]] | [[Oseas]] | [[Oseas 10|Oseas 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Por motivo de sus pecados, el pueblo de Israel es llevado cautivo — Efraín andará errante entre las naciones.
 
----
 ###### 1 
 No te alegres, oh Israel, hasta saltar de gozo como los pueblos, pues te has prostituido,  de tu Dios; amaste salario de ramera en todas las eras de trigo.
 

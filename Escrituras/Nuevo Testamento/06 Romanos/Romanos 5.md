@@ -1,22 +1,21 @@
 ---
 title: Romanos 5
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 5
 [[Romanos 4| <-- Romanos 4]] | [[Romanos]] | [[Romanos 6|Romanos 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El hombre es justificado por medio de la sangre de Cristo — Adán cayó y Cristo expió para que el hombre sea salvo.
 
----
 ###### 1 
 Justificados, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo,
 

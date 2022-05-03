@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 30
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 30
 [[Ezequiel 29| <-- Ezequiel 29]] | [[Ezequiel]] | [[Ezequiel 31|Ezequiel 31 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/30?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/30?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Egito e seus aliados serão assolados por Babilônia.
 
----
 ###### 1 
 E veio a mim a palavra do , dizendo:
 

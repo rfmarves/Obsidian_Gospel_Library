@@ -1,0 +1,16 @@
+div.scriptures code,
+div.scriptures .cm-hmd-codeblock  {
+    color: var(--text-normal);
+    font-family: var(--font-default);
+    background-color: var( --background-primary-alt);
+    border-radius: 4px;
+    font-size: var(--font-text-size);
+}
+
+div.scriptures blockquote,
+div.scriptures span.cm-quote {
+    color: var(--text-normal);
+	font-family: Times New Roman;
+	font-style: italic;
+	
+}

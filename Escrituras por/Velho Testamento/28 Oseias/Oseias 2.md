@@ -1,22 +1,21 @@
 ---
 title: Oseias 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseias 2
 [[Oseias 1| <-- Oseias 1]] | [[Oseias]] | [[Oseias 3|Oseias 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A adoração de falsos deuses traz juízos severos sobre Israel — Nos últimos dias, Israel vai se reconciliar com Deus e tornar-se Seu povo.
 
----
 ###### 1 
 Dizei a vossos irmãos: Ami, e a vossas irmãs: Ruama.
 

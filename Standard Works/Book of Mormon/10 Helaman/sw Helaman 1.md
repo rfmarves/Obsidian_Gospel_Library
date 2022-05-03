@@ -1,10 +1,11 @@
 ---
 title: sw Helaman 1
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Helaman 1
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/1?lang=eng)
 
----
+```
 An account of the Nephites. Their wars and contentions, and their dissensions. And also the prophecies of many holy prophets, before the coming of Christ, according to the records of Helaman, who was the son of Helaman, and also according to the records of his sons, even down to the coming of Christ. And also many of the Lamanites are converted. An account of their conversion. An account of the righteousness of the Lamanites, and the wickedness and abominations of the Nephites, according to the record of Helaman and his sons, even down to the coming of Christ, which is called the book of Helaman, and so forth.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Pahoran the second becomes chief judge and is murdered by Kishkumen—Pacumeni fills the judgment seat—Coriantumr leads the Lamanite armies, takes Zarahemla, and slays Pacumeni—Moronihah defeats the Lamanites and retakes Zarahemla, and Coriantumr is slain. About 52–50 B.C.
 
----
 ###### 1 
 And now behold, it came to pass in the commencement of the fortieth year of the reign of the judges over the people of Nephi, there began to be a serious difficulty among the people of the Nephites.
 

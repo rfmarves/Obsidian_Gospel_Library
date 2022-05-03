@@ -1,10 +1,11 @@
 ---
 title: sw D&C 70
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 70
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/70?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, Stewards are appointed to publish the revelations; 6–13, Those who labor in spiritual things are worthy of their hire; 14–18, The Saints should be equal in temporal things.
 
----
 ###### 1 
 Behold, and hearken, O ye inhabitants of Zion, and all ye people of my church who are afar off, and hear the word of the Lord which I give unto my servant Joseph Smith, Jun., and also unto my servant Martin Harris, and also unto my servant Oliver Cowdery, and also unto my servant John Whitmer, and also unto my servant Sidney Rigdon, and also unto my servant William W. Phelps, by the way of commandment unto them.
 

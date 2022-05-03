@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 50
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 50
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/50?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob’s body is embalmed—Joseph buries him in Canaan—Joseph comforts his brothers—The children of Israel multiply—Joseph promises that God will bring Israel out of Egypt into Canaan—Joseph dies in Egypt and is embalmed.
 
----
 ###### 1 
 And Joseph fell upon his father’s face, and wept upon him, and kissed him.
 

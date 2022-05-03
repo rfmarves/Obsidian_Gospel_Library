@@ -1,22 +1,21 @@
 ---
 title: 1 Néfi 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Néfi 3
 [[1 Néfi 2| <-- 1 Néfi 2]] | [[1 Néfi]] | [[1 Néfi 4|1 Néfi 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Leí retornam a Jerusalém para obter as placas de latão — Labão recusa-se a entregar as placas — Néfi exorta e encoraja seus irmãos — Labão rouba-lhes os bens e tenta matá-los — Lamã e Lemuel agridem Néfi e Sam e são reprovados por um anjo. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 E aconteceu que eu, Néfi, depois de haver falado com o Senhor, voltei à tenda de meu pai.
 

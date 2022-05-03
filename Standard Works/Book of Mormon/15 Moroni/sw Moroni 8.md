@@ -1,10 +1,11 @@
 ---
 title: sw Moroni 8
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moroni 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 The baptism of little children is an evil abomination—Little children are alive in Christ because of the Atonement—Faith, repentance, meekness and lowliness of heart, receiving the Holy Ghost, and enduring to the end lead to salvation. About A.D. 401–21.
 
----
 ###### 1 
 An epistle of my father Mormon, written to me, Moroni; and it was written unto me soon after my calling to the ministry. And on this wise did he write unto me, saying:
 

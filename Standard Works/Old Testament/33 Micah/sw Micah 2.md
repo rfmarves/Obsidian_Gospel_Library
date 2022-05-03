@@ -1,10 +1,11 @@
 ---
 title: sw Micah 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Micah 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/micah/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The destruction of Israel is lamented—The Lord will gather the remnant of Israel.
 
----
 ###### 1 
 Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.
 

@@ -1,22 +1,21 @@
 ---
 title: Zacarías 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarías 2
 [[Zacarías 1| <-- Zacarías 1]] | [[Zacarías]] | [[Zacarías 3|Zacarías 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los últimos días, Judá se recogerá en Jerusalén — Las tribus vendrán de la tierra del norte — Jehová morará en medio de ellos.
 
----
 ###### 1 
 Alcé después mis ojos y miré, y he aquí un varón que tenía en su mano un cordel de medir.
 

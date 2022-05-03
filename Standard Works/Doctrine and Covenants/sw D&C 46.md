@@ -1,10 +1,11 @@
 ---
 title: sw D&C 46
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 46
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–2, Elders are to conduct meetings as guided by the Holy Spirit; 3–6, Truth seekers should not be excluded from sacramental services; 7–12, Ask of God and seek the gifts of the Spirit; 13–26, An enumeration of some of these gifts is given; 27–33, Church leaders are given power to discern the gifts of the Spirit.
 
----
 ###### 1 
 Hearken, O ye people of my church; for verily I say unto you that these things were spoken unto you for your profit and learning.
 

@@ -1,22 +1,21 @@
 ---
 title: Isaías 29
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 29
 [[Isaías 28| <-- Isaías 28]] | [[Isaías]] | [[Isaías 30|Isaías 30 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Un pueblo (los nefitas) hablará como una voz que habla desde el polvo — Se predicen la apostasía, la restauración del Evangelio y el advenimiento de un libro sellado (el Libro de Mormón) — Compárese con 2 Nefi 27.
 
----
 ###### 1 
 ¡Ay de Ariel, de Ariel, ciudad donde habitó David! Añadid un año a otro, y que las fiestas sigan su curso.
 

@@ -1,22 +1,21 @@
 ---
 title: Oseias 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseias 12
 [[Oseias 11| <-- Oseias 11]] | [[Oseias]] | [[Oseias 13|Oseias 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor usa profetas, visões e símiles para guiar Seu povo, mas eles se tornam ricos e não esperam no Senhor — Efraim O provoca mais amargamente.
 
----
 ###### 1 
 Efraim se apascenta de vento, e segue o vento leste; todo o dia multiplica a mentira e a destruição; e fazem aliança com a Assíria, e o azeite se leva ao Egito.
 

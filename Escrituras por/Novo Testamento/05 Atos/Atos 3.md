@@ -1,22 +1,21 @@
 ---
 title: Atos 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 3
 [[Atos 2| <-- Atos 2]] | [[Atos]] | [[Atos 4|Atos 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Pedro e João curam um coxo de nascença — Pedro prega arrependimento — Ele também fala da época de restauração que precederá a Segunda Vinda — Ele identifica Cristo como o profeta de quem falou Moisés.
 
----
 ###### 1 
 E Pedro e João subiam juntos ao templo à hora da oração, a nona.
 

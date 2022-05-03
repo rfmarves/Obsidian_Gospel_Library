@@ -1,10 +1,11 @@
 ---
 title: sw Mark 6
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus sends forth the Twelve—John the Baptist is beheaded by Herod—Our Lord feeds the five thousand, walks on the water, and heals multitudes.
 
----
 ###### 1 
 And he went out from thence, and came into his own country; and his disciples follow him.
 

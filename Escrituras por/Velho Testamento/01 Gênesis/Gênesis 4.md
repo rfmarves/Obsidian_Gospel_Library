@@ -1,22 +1,21 @@
 ---
 title: Gênesis 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 4
 [[Gênesis 3| <-- Gênesis 3]] | [[Gênesis]] | [[Gênesis 5|Gênesis 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Eva dá à luz Caim e Abel — Eles oferecem sacrifícios — Caim mata Abel e é amaldiçoado pelo Senhor, que também lhe coloca um sinal — Os filhos dos homens se multiplicam — Adão gera Sete, e Sete gera Enos.
 
----
 ###### 1 
 E Adão conheceu sua mulher Eva, e ela concebeu e deu à luz Caim, e disse: Alcancei do  um homem.
 

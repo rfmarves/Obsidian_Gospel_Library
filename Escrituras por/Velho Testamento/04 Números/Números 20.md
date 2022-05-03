@@ -1,22 +1,21 @@
 ---
 title: Números 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 20
 [[Números 19| <-- Números 19]] | [[Números]] | [[Números 21|Números 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Miriã morre — Moisés fere a rocha em Meribá e faz dela sair água — O rei de Edom se recusa a permitir que Israel passe pacificamente por sua terra — Aarão morre, e Eleazar se torna o sumo sacerdote.
 
----
 ###### 1 
 Chegando os filhos de Israel, toda a congregação, ao deserto de Zin, no mês primeiro, o povo ficou em Cades; e Miriã morreu ali, e ali foi sepultada.
 

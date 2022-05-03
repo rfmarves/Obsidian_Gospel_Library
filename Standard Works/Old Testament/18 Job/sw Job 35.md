@@ -1,10 +1,11 @@
 ---
 title: sw Job 35
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 35
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/35?lang=eng)
 
----
-__Summary__
+> __Summary__
 Elihu contrasts the weakness of man and the power of God—Our wickedness hurts other men, and our righteousness helps them—Man should trust in the Lord.
 
----
 ###### 1 
 Elihu spake moreover, and said,
 

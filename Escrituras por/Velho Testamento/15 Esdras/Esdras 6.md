@@ -1,22 +1,21 @@
 ---
 title: Esdras 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 6
 [[Esdras 5| <-- Esdras 5]] | [[Esdras]] | [[Esdras 7|Esdras 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Dario renova o decreto de Ciro para a construção do templo — Ele é terminado e dedicado, reiniciando-se os sacrifícios e as festas.
 
----
 ###### 1 
 Então o rei Dario deu ordem, e buscaram na casa dos arquivos, onde se guardavam os tesouros em Babilônia.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Helaman 8
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Helaman 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Corrupt judges seek to incite the people against Nephi—Abraham, Moses, Zenos, Zenock, Ezias, Isaiah, Jeremiah, Lehi, and Nephi all testified of Christ—By inspiration Nephi announces the murder of the chief judge. About 23–21 B.C.
 
----
 ###### 1 
 And now it came to pass that when Nephi had said these words, behold, there were men who were judges, who also belonged to the secret band of Gadianton, and they were angry, and they cried out against him, saying unto the people: Why do ye not seize upon this man and bring him forth, that he may be condemned according to the crime which he has done?
 

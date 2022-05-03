@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 101
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 101
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/101?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David sings of mercy and justice—He will forsake the company of evildoers.
 
----
 ###### 1 
 I will sing of mercy and judgment: unto thee, O , will I sing.
 

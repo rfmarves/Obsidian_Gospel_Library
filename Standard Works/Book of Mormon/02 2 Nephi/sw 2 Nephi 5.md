@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 5
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Nephites separate themselves from the Lamanites, keep the law of Moses, and build a temple—Because of their unbelief, the Lamanites are cut off from the presence of the Lord, are cursed, and become a scourge unto the Nephites. About 588–559 B.C.
 
----
 ###### 1 
 Behold, it came to pass that I, Nephi, did cry much unto the Lord my God, because of the anger of my brethren.
 

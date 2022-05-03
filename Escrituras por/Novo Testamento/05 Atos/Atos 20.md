@@ -1,22 +1,21 @@
 ---
 title: Atos 20
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 20
 [[Atos 19| <-- Atos 19]] | [[Atos]] | [[Atos 21|Atos 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo levanta Êutico da morte — Paulo está livre do sangue de todos os homens — Ele prevê apostasia dentre os da Igreja — Ele revela um ensinamento de Jesus: Mais bem-aventurada coisa é dar do que receber.
 
----
 ###### 1 
 E depois que cessou o alvoroço, Paulo chamou para si os discípulos e, abraçando-os, saiu para a Macedônia.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Tesalonisenses 5
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Tesalonisenses 5
 [[1 Tesalonisenses 4| <-- 1 Tesalonisenses 4]] | [[1 Tesalonisenses]] | [[2 Tesalonisenses 1|2 Tesalonisenses 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los santos sabrán el tiempo de la segunda venida de Cristo — Vivid como deben vivir los santos — Estad siempre gozosos — No menospreciéis las profecías.
 
----
 ###### 1 
 Pero acerca de los tiempos y de las estaciones, no tenéis necesidad, hermanos, de que yo os escriba.
 

@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 4
 [[Apocalipsis 3| <-- Apocalipsis 3]] | [[Apocalipsis]] | [[Apocalipsis 5|Apocalipsis 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Juan ve la tierra glorificada, el trono de Dios y a toda la creación adorando al Señor.
 
----
 ###### 1 
 Después de esto miré, y he aquí, una puerta abierta en el cielo; y la primera voz que oí era como de trompeta que hablaba conmigo, diciendo: Sube acá, y yo te mostraré las cosas que han de suceder después de estas.
 

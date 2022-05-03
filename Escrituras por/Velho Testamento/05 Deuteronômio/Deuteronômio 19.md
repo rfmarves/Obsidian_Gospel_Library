@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 19
 [[Deuteronômio 18| <-- Deuteronômio 18]] | [[Deuteronômio]] | [[Deuteronômio 20|Deuteronômio 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 São designadas cidades de refúgio para casos de homicídio — Os homicidas serão mortos — Exigem-se duas ou três testemunhas para julgar um caso — As testemunhas falsas serão punidas.
 
----
 ###### 1 
 Quando o  teu Deus desarraigar as nações cuja terra te dará o  teu Deus, e tu as desapossares, e morares nas suas cidades e nas suas casas,
 

@@ -1,22 +1,21 @@
 ---
 title: Job 27
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 27
 [[Job 26| <-- Job 26]] | [[Job]] | [[Job 28|Job 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Job afirma su rectitud — Cuando el malvado muera y sea sepultado, terrores se apoderarán de él.
 
----
 ###### 1 
 Y continuó Job su discurso y dijo:
 

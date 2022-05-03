@@ -1,10 +1,11 @@
 ---
 title: sw Alma 9
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 9
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/9?lang=eng)
 
----
+```
 The words of Alma, and also the words of Amulek, which were declared unto the people who were in the land of Ammonihah. And also they are cast into prison, and delivered by the miraculous power of God which was in them, according to the record of Alma.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Alma commands the people of Ammonihah to repent—The Lord will be merciful to the Lamanites in the last days—If the Nephites forsake the light, they will be destroyed by the Lamanites—The Son of God will come soon—He will redeem those who repent, are baptized, and have faith in His name. About 82 B.C.
 
----
 ###### 1 
 And again, I, Alma, having been commanded of God that I should take Amulek and go forth and preach again unto this people, or the people who were in the city of Ammonihah, it came to pass as I began to preach unto them, they began to contend with me, saying:
 

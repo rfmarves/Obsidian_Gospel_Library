@@ -1,22 +1,21 @@
 ---
 title: 1 Corintios 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Corintios 3
 [[1 Corintios 2| <-- 1 Corintios 2]] | [[1 Corintios]] | [[1 Corintios 4|1 Corintios 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En la Iglesia, la leche es antes que el alimento sólido — Las obras de los hombres serán probadas por fuego — Los santos son templo de Dios y, si son fieles, heredarán todas las cosas.
 
----
 ###### 1 
 De manera que yo, hermanos, no pude hablaros como a espirituales, sino como a carnales, como a niños en Cristo.
 

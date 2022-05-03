@@ -1,10 +1,11 @@
 ---
 title: sw Alma 38
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 38
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/38?lang=eng)
 
----
+```
 The commandments of Alma to his son Shiblon.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Shiblon was persecuted for righteousness’ sake—Salvation is in Christ, who is the life and the light of the world—Bridle all your passions. About 74 B.C.
 
----
 ###### 1 
 My son, give ear to my words, for I say unto you, even as I said unto Helaman, that inasmuch as ye shall keep the commandments of God ye shall prosper in the land; and inasmuch as ye will not keep the commandments of God ye shall be cut off from his presence.
 

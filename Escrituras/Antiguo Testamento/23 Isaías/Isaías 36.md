@@ -1,22 +1,21 @@
 ---
 title: Isaías 36
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 36
 [[Isaías 35| <-- Isaías 35]] | [[Isaías]] | [[Isaías 37|Isaías 37 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/36?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/36?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los asirios hacen la guerra contra Judá y blasfeman a Jehová.
 
----
 ###### 1 
 Y aconteció en el año catorce del rey Ezequías, que Senaquerib, rey de Asiria, subió contra todas las ciudades fortificadas de Judá y las tomó.
 

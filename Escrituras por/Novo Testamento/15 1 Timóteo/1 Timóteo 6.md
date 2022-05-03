@@ -1,22 +1,21 @@
 ---
 title: 1 Timóteo 6
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Timóteo 6
 [[1 Timóteo 5| <-- 1 Timóteo 5]] | [[1 Timóteo]] | [[2 Timóteo 1|2 Timóteo 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O amor ao dinheiro é a raiz de todos os males — Combatei o bom combate da fé — Não confiai nas riquezas mundanas.
 
----
 ###### 1 
 Todos os servos que estão debaixo do jugo estimem seus senhores como dignos de toda a honra, para que o nome de Deus e a doutrina não sejam blasfemados.
 

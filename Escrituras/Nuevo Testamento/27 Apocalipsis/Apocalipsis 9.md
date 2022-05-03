@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 9
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 9
 [[Apocalipsis 8| <-- Apocalipsis 8]] | [[Apocalipsis]] | [[Apocalipsis 10|Apocalipsis 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Juan ve también las guerras y las plagas que se derraman durante el séptimo sello antes de la venida del Señor.
 
----
 ###### 1 
 Y el quinto ángel tocó la trompeta, y vi una estrella que cayó del cielo a la tierra; y se le dio la llave del pozo del abismo.
 

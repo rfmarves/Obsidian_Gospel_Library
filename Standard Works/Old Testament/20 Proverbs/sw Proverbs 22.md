@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 A good name is better than riches—Train up a child in the way he should go.
 
----
 ###### 1 
 A  name  rather to be chosen than great riches,  loving favour rather than silver and gold.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 85
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 85
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/85?lang=eng)
 
----
+```
 To the chief Musician, A Psalm for the sons of Korah.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The Lord speaks peace to His people—Truth will spring out of the earth (the Book of Mormon), and righteousness will look down from heaven.
 
----
 ###### 1 
 , thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.
 

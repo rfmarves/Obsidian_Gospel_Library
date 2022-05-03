@@ -1,22 +1,21 @@
 ---
 title: Mateus 15
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 15
 [[Mateus 14| <-- Mateus 14]] | [[Mateus]] | [[Mateus 16|Mateus 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os escribas e fariseus contendem com Jesus — Ele cura a filha de uma mulher gentia — Ele alimenta quatro mil.
 
----
 ###### 1 
 Então chegaram ao pé de Jesus uns escribas e fariseus de Jerusalém, dizendo:
 

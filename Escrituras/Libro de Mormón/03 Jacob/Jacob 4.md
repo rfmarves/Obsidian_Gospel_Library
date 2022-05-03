@@ -1,22 +1,21 @@
 ---
 title: Jacob 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jacob 4
 [[Jacob 3| <-- Jacob 3]] | [[Jacob]] | [[Jacob 5|Jacob 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Todos los profetas adoraron al Padre en el nombre de Cristo — El acto de Abraham de ofrecer a su hijo Isaac fue una semejanza de Dios y de Su Unigénito — Los hombres deben reconciliarse con Dios por medio de la Expiación — Los judíos rechazarán la piedra que sirve de fundamento. Aproximadamente 544–421 a.C.
 
----
 ###### 1 
 Ahora bien, he aquí, aconteció que yo, Jacob, había ministrado mucho a mi pueblo de palabra (y no puedo escribir sino muy pocas de mis palabras por lo difícil que es grabar nuestras palabras sobre planchas), y sabemos que lo que escribamos sobre planchas debe permanecer;
 

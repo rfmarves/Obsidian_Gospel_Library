@@ -1,10 +1,11 @@
 ---
 title: sw Nehemiah 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nehemiah 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nehemiah mourns, fasts, and prays for the Jews in Jerusalem.
 
----
 ###### 1 
 The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,
 

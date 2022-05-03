@@ -1,10 +1,11 @@
 ---
 title: sw D&C 135
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 135
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/135?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–2, Joseph and Hyrum martyred in Carthage Jail; 3, The preeminent position of the Prophet is acclaimed; 4–7, Their innocent blood testifies of the truth and divinity of the work.
 
----
 ###### 1 
 To seal the testimony of this book and the Book of Mormon, we announce the martyrdom of Joseph Smith the Prophet, and Hyrum Smith the Patriarch. They were shot in Carthage jail, on the 27th of June, 1844, about five o’clock p.m., by an armed mob—painted black—of from 150 to 200 persons. Hyrum was shot first and fell calmly, exclaiming: I am a dead man! Joseph leaped from the window, and was shot dead in the attempt, exclaiming: O Lord my God! They were both shot after they were dead, in a brutal manner, and both received four balls.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 23
 [[2 Reis 22| <-- 2 Reis 22]] | [[2 Reis]] | [[2 Reis 24|2 Reis 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Josias lê para o povo o livro do convênio — Eles fazem convênio de guardar os mandamentos — Josias suprime a adoração aos deuses falsos, remove os prostitutos cultuais e derruba a idolatria — Os sacerdotes idólatras são mortos — Judá realiza uma Páscoa solene — O Egito se sujeita à terra de Judá.
 
----
 ###### 1 
 Então o rei mandou ajuntar perante ele todos os anciãos de Judá e de Jerusalém.
 

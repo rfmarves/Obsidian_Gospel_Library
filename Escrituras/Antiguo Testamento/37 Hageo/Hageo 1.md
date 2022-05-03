@@ -1,22 +1,21 @@
 ---
 title: Hageo 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hageo 1
 [[Sofonías 3| <-- Sofonías 3]] | [[Hageo]] | [[Hageo 2|Hageo 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hag/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hag/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Hageo exhorta al pueblo a reedificar el templo.
 
----
 ###### 1 
 En el año segundo del rey Darío, en el mes sexto, en el primer día del mes, vino la palabra de Jehová por medio del profeta Hageo a Zorobabel hijo de Salatiel, gobernador de Judá, y a Josué hijo de Josadac, sumo sacerdote, diciendo:
 

@@ -1,10 +1,11 @@
 ---
 title: sw Alma 41
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 41
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the Resurrection men come forth to a state of endless happiness or endless misery—Wickedness never was happiness—Carnal men are without God in the world—Every person receives again in the Restoration the characteristics and attributes acquired in mortality. About 74 B.C.
 
----
 ###### 1 
 And now, my son, I have somewhat to say concerning the restoration of which has been spoken; for behold, some have wrested the scriptures, and have gone far astray because of this thing. And I perceive that thy mind has been worried also concerning this thing. But behold, I will explain it unto thee.
 

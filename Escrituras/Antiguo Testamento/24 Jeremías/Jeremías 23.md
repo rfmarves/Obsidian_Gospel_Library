@@ -1,22 +1,21 @@
 ---
 title: Jeremías 23
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 23
 [[Jeremías 22| <-- Jeremías 22]] | [[Jeremías]] | [[Jeremías 24|Jeremías 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El remanente de Israel será recogido en los últimos días — El Renuevo, que es el Rey (el Mesías), reinará con justicia — Los falsos profetas que enseñan mentiras serán maldecidos.
 
----
 ###### 1 
 ¡Ay de los pastores que destruyen y dispersan las ovejas de mi redil!, dice Jehová.
 

@@ -1,22 +1,21 @@
 ---
 title: Jeremias 50
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 50
 [[Jeremias 49| <-- Jeremias 49]] | [[Jeremias]] | [[Jeremias 51|Jeremias 51 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/50?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/50?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Babilônia será destruída e nunca mais voltará a se levantar — O povo disperso de Israel será trazido de volta às terras de sua herança.
 
----
 ###### 1 
 A palavra que falou o  contra Babilônia, contra a terra dos caldeus, por mão de Jeremias, o profeta.
 

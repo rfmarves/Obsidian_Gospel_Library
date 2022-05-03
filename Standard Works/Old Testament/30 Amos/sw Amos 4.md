@@ -1,10 +1,11 @@
 ---
 title: sw Amos 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Amos 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord withholds rain, sends famine and pestilence, and destroys gardens and vineyards as judgments upon His people, yet they do not return unto the Lord.
 
----
 ###### 1 
 Hear this word, ye kine of Bashan, that  in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink.
 

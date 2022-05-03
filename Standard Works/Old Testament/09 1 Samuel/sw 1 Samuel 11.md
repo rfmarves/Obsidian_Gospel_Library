@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Ammonites encamp against the Israelites of Jabesh-gilead—Saul rescues them and defeats the Ammonites—His kingship is renewed in Gilgal.
 
----
 ###### 1 
 Then Nahash the Ammonite came up, and encamped against Jabesh-gilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee.
 

@@ -1,22 +1,21 @@
 ---
 title: Jeremías 50
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 50
 [[Jeremías 49| <-- Jeremías 49]] | [[Jeremías]] | [[Jeremías 51|Jeremías 51 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/50?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/50?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Babilonia será destruida y nunca más se volverá a levantar — El esparcido pueblo de Israel será llevado de nuevo a las tierras de su herencia.
 
----
 ###### 1 
 La palabra que habló Jehová contra Babilonia, contra la tierra de los caldeos, por medio del profeta Jeremías:
 

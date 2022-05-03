@@ -1,22 +1,21 @@
 ---
 title: Salmos 112
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 112
 [[Salmos 111| <-- Salmos 111]] | [[Salmos]] | [[Salmos 113|Salmos 113 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/112?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/112?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Bem-aventurado é o homem que teme ao Senhor — O justo será lembrado para sempre.
 
----
 ###### 1 
 Louvai ao . Bem-aventurado o homem que teme ao ,  em seus mandamentos tem grande prazer.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Ammonites insult David’s messengers and plan war against Israel—David defeats the Ammonites and the Syrians.
 
----
 ###### 1 
 Now it came to pass after this, that Nahash the king of the children of Ammon died, and his son reigned in his stead.
 

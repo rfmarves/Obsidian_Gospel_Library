@@ -1,22 +1,21 @@
 ---
 title: Eclesiastés 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastés 3
 [[Eclesiastés 2| <-- Eclesiastés 2]] | [[Eclesiastés]] | [[Eclesiastés 4|Eclesiastés 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Todo tiene su tiempo — Todo lo que Dios hace será perpetuo — Dios juzgará al justo y al malvado.
 
----
 ###### 1 
 Todo  su tiempo, y todo lo que se quiere debajo del cielo tiene su hora:
 

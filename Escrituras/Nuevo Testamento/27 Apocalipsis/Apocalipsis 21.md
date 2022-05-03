@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 21
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 21
 [[Apocalipsis 20| <-- Apocalipsis 20]] | [[Apocalipsis]] | [[Apocalipsis 22|Apocalipsis 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los que venzan llegarán a ser hijos de Dios — La tierra recibe su gloria celestial.
 
----
 ###### 1 
 Y vi un cielo nuevo, y una tierra nueva, porque el primer cielo y la primera tierra habían dejado de ser, y el mar ya no existía más.
 

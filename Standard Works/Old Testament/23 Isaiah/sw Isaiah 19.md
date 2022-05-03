@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord will smite and destroy Egypt—Finally He will heal her, and Egypt and Assyria will be blessed with Israel.
 
----
 ###### 1 
 The burden of Egypt. Behold, the  rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.
 

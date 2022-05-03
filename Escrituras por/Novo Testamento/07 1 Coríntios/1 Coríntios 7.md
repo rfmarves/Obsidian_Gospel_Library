@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 7
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 7
 [[1 Coríntios 6| <-- 1 Coríntios 6]] | [[1 Coríntios]] | [[1 Coríntios 8|1 Coríntios 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo responde a perguntas específicas sobre o casamento entre aqueles que são chamados para servir missão — Paulo louva a autodisciplina.
 
----
 ###### 1 
 Ora, quanto às  que me escrevestes, bom  que o homem não tocasse mulher;
 

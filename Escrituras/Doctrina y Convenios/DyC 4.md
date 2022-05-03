@@ -1,22 +1,21 @@
 ---
 title: DyC 4
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 4
 [[DyC 3| <-- DyC 3]] | [[DyC]] | [[DyC 5|DyC 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, El servicio fiel salva a los ministros del Señor; 5–6, Los atributos divinos los califican para el ministerio; 7, Se deben procurar las cosas de Dios.
 
----
 ###### 1 
 He aquí, una obra maravillosa está a punto de aparecer entre los hijos de los hombres.
 

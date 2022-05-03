@@ -1,22 +1,21 @@
 ---
 title: Josué 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 21
 [[Josué 20| <-- Josué 20]] | [[Josué]] | [[Josué 22|Josué 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os levitas recebem quarenta e oito cidades com seus arrabaldes — O Senhor cumpre todas as Suas promessas e concede repouso a Israel.
 
----
 ###### 1 
 Então os cabeças dos pais dos levitas se achegaram a Eleazar, o sacerdote, e a Josué, filho de Num, e aos cabeças dos pais das tribos dos filhos de Israel;
 

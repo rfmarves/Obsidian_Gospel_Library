@@ -1,10 +1,11 @@
 ---
 title: sw Alma 14
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Alma and Amulek are imprisoned and smitten—The believers and their holy scriptures are burned by fire—These martyrs are received by the Lord in glory—The prison walls are rent and fall—Alma and Amulek are delivered, and their persecutors are slain. About 82–81 B.C.
 
----
 ###### 1 
 And it came to pass after he had made an end of speaking unto the people many of them did believe on his words, and began to repent, and to search the scriptures.
 

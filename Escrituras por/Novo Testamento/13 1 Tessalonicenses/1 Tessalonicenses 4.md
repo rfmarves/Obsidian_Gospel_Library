@@ -1,22 +1,21 @@
 ---
 title: 1 Tessalonicenses 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Tessalonicenses 4
 [[1 Tessalonicenses 3| <-- 1 Tessalonicenses 3]] | [[1 Tessalonicenses]] | [[1 Tessalonicenses 5|1 Tessalonicenses 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos são exortados a ser santos, a santificar-se e a amar uns aos outros — O Senhor virá, e os mortos ressuscitarão.
 
----
 ###### 1 
 Assim que, irmãos, no demais vos rogamos e exortamos no Senhor Jesus que, assim como recebestes de nós, como vos convenha andar e agradar a Deus, assim  possais progredir cada vez mais.
 

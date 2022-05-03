@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 2
 [[1 Samuel 1| <-- 1 Samuel 1]] | [[1 Samuel]] | [[1 Samuel 3|1 Samuel 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ana canta alabanzas a Jehová — Samuel ministra delante de Jehová — Elí bendice a Elcana y a Ana, y ellos tienen hijos e hijas — Los hijos de Elí rechazan a Jehová y viven en la iniquidad — Jehová rechaza a la casa de Elí.
 
----
 ###### 1 
 Y Ana oró y dijo:
 

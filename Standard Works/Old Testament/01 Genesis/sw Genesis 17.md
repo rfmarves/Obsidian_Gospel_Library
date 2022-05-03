@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abram is commanded to be perfect—He will be a father of many nations—His name is changed to Abraham—The Lord covenants to be a God unto Abraham and his seed forever—Also, the Lord gives Abraham the land of Canaan for an everlasting possession—Circumcision becomes a token of the everlasting covenant between God and Abraham—Sarai’s name is changed to Sarah—She will bear Isaac, with whom the Lord will establish His covenant—Abraham and the men of his house are circumcised.
 
----
 ###### 1 
 And when Abram was ninety years old and nine, the  appeared to Abram, and said unto him, I  the Almighty God; walk before me, and be thou perfect.
 

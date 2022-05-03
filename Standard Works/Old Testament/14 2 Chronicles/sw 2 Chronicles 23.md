@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jehoiada the priest makes Joash king—Athaliah is slain—Worship of the Lord is restored, and the priest of Baal is slain.
 
----
 ###### 1 
 And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.
 

@@ -1,22 +1,21 @@
 ---
 title: Jeremías 28
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 28
 [[Jeremías 27| <-- Jeremías 27]] | [[Jeremías]] | [[Jeremías 29|Jeremías 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Hananías profetiza falsamente que el yugo de Babilonia será quebrantado.
 
----
 ###### 1 
 Y aconteció en el mismo año, al principio del reinado de Sedequías, rey de Judá, en el año cuarto, en el quinto mes, que Hananías hijo de Azur, que era el profeta de Gabaón, me habló en la casa de Jehová delante de los sacerdotes y de todo el pueblo, diciendo:
 

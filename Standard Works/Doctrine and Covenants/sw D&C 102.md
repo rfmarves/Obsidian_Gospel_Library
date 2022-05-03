@@ -1,10 +1,11 @@
 ---
 title: sw D&C 102
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 102
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/102?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–8, A high council is appointed to settle important difficulties that arise in the Church; 9–18, Procedures are given for hearing cases; 19–23, The president of the council renders the decision; 24–34, Appellate procedure is set forth.
 
----
 ###### 1 
 This day a general council of twenty-four high priests assembled at the house of Joseph Smith, Jun., by revelation, and proceeded to organize the high council of the church of Christ, which was to consist of twelve high priests, and one or three presidents as the case might require.
 

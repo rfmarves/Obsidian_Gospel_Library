@@ -1,22 +1,21 @@
 ---
 title: Abraão 5
-tags: #Escrituras\PdGV
+tags: Escrituras\PdGV
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Abraão 5
 [[Abraão 4| <-- Abraão 4]] | [[Abraão]] | [[Joseph Smith--Mateus 1|Joseph Smith--Mateus 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/pgp/abr/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/pgp/abr/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os Deuses concluem o Seu planejamento da criação de todas as coisas — Eles efetuam a Criação de acordo com os Seus planos — Adão dá nome a toda criatura vivente.
 
----
 ###### 1 
 E assim terminaremos os céus e a Terra, e todas as suas hostes.
 

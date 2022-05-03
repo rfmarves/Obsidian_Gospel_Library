@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 30
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 30
 [[3 Nefi 29| <-- 3 Nefi 29]] | [[3 Nefi]] | [[4 Nefi 1|4 Nefi 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/30?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/30?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se manda a los gentiles de los últimos días arrepentirse, venir a Cristo y ser contados entre los de la casa de Israel. Aproximadamente 34–35 d.C.
 
----
 ###### 1 
 ¡Oíd, oh gentiles, y escuchad las palabras de Jesucristo, el Hijo del Dios viviente, las cuales él me ha mandado que hable concerniente a vosotros! Pues he aquí, él me manda escribir, diciendo:
 

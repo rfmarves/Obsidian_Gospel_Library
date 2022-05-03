@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 13
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 13
 [[1 Nefi 12| <-- 1 Nefi 12]] | [[1 Nefi]] | [[1 Nefi 14|1 Nefi 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nefi ve en visión el establecimiento de la iglesia del diablo entre los gentiles, el descubrimiento y la colonización de las Américas, la pérdida de muchas partes claras y preciosas de la Biblia, el estado resultante de la apostasía de los gentiles, la restauración del Evangelio, el advenimiento de las Escrituras de los últimos días y la edificación de Sion. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 Y aconteció que el ángel me habló, diciendo: ¡Mira! Y miré, y vi muchas naciones y reinos.
 

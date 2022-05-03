@@ -1,22 +1,21 @@
 ---
 title: DeC 42
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 42
 [[DeC 41| <-- DeC 41]] | [[DeC]] | [[DeC 43|DeC 43 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–10, Os élderes são chamados para pregar o evangelho, batizar conversos e edificar a Igreja; 11–12, Precisam ser chamados e ordenados e devem ensinar os princípios do evangelho que se encontram nas escrituras; 13–17, Devem ensinar e profetizar pelo poder do Espírito; 18–29, Ordena-se que os santos não matem, roubem, mintam, cobicem, cometam adultério nem falem mal dos outros; 30–39, Estabelecidas leis regendo a consagração de propriedades; 40–42, Condenados o orgulho e a indolência; 43–52, Os doentes devem ser curados por meio de bênçãos e pela fé; 53–60, As escrituras governam a Igreja e devem ser proclamadas ao mundo; 61–69, O local da Nova Jerusalém e os mistérios do reino serão revelados; 70–73, As propriedades consagradas devem ser usadas para sustentar os oficiais da Igreja; 74–93, Estabelecidas leis regendo a fornicação, o adultério, o assassinato, o roubo e a confissão de pecados.
 
----
 ###### 1 
 Escutai, ó vós, élderes de minha igreja, que vos reunistes em meu nome, sim, Jesus Cristo, o Filho do Deus vivo, o Salvador do mundo; porquanto credes em meu nome e guardais meus mandamentos.
 

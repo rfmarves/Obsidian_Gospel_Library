@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 69
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 69
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/69?lang=eng)
 
----
+```
 To the chief Musician upon Shoshannim, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A messianic psalm of David—The zeal of the Lord’s house has eaten Him up—Reproach has broken His heart—He is given gall and vinegar to drink—He is persecuted—He will save Zion.
 
----
 ###### 1 
 Save me, O God; for the waters are come in unto  soul.
 

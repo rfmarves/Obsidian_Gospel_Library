@@ -1,10 +1,11 @@
 ---
 title: sw Nehemiah 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nehemiah 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Ammonites and Moabites are denied a place in the congregation of God—Tobiah is ejected from his dwelling place in the temple—Nehemiah corrects abuses and reinstitutes Sabbath observance—Some Jews are rebuked for marrying non-Israelite women and defiling the priesthood.
 
----
 ###### 1 
 On that day they read in the book of Moses in the audience of the people; and therein was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever;
 

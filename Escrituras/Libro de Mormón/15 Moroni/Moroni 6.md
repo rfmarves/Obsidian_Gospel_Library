@@ -1,22 +1,21 @@
 ---
 title: Moroni 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moroni 6
 [[Moroni 5| <-- Moroni 5]] | [[Moroni]] | [[Moroni 7|Moroni 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Las personas que se arrepienten son bautizadas y hermanadas en la Iglesia — Los miembros de la Iglesia que se arrepienten son perdonados — Las reuniones se dirigen por el poder del Espíritu Santo. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 Y ahora hablo concerniente al bautismo. He aquí, eran bautizados élderes, presbíteros y maestros; y no eran bautizados a menos que dieran frutos apropiados para manifestar que eran dignos de ello.
 

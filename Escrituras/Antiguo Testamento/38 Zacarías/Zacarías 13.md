@@ -1,22 +1,21 @@
 ---
 title: Zacarías 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarías 13
 [[Zacarías 12| <-- Zacarías 12]] | [[Zacarías]] | [[Zacarías 14|Zacarías 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los judíos obtendrán perdón en la Segunda Venida — Le preguntarán al Señor: ¿Qué heridas son estas en Tus manos? — El remanente, probado y refinado, será Su pueblo.
 
----
 ###### 1 
 En aquel día habrá un manantial abierto para la casa de David y para los moradores de Jerusalén, para  pecado y de la impureza.
 

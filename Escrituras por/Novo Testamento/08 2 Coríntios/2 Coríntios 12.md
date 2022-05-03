@@ -1,22 +1,21 @@
 ---
 title: 2 Coríntios 12
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Coríntios 12
 [[2 Coríntios 11| <-- 2 Coríntios 11]] | [[2 Coríntios]] | [[2 Coríntios 13|2 Coríntios 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo é arrebatado ao terceiro céu — O Senhor dá fraquezas aos homens para que eles possam triunfar sobre elas — Paulo manifesta os sinais de um Apóstolo.
 
----
 ###### 1 
 Em verdade, não convém gloriar-me; mas passarei às visões e revelações do Senhor.
 

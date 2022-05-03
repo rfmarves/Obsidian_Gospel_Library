@@ -1,22 +1,21 @@
 ---
 title: Tiago 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Tiago 2
 [[Tiago 1| <-- Tiago 1]] | [[Tiago]] | [[Tiago 3|Tiago 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/james/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/james/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Deus escolheu os pobres deste mundo para serem ricos na fé — A salvação é adquirida guardando-se toda a lei — A fé sem obras é morta.
 
----
 ###### 1 
 Meus irmãos, não tenhais a fé em nosso Senhor Jesus Cristo,  da glória, em acepção de pessoas.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 69
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 69
 [[Salmos 68| <-- Salmos 68]] | [[Salmos]] | [[Salmos 70|Salmos 70 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/69?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/69?lang=spa)
 
----
+```
 Al músico principal: según aSosanim. Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Salmo mesiánico de David — El celo de la casa de Jehová le consumió — La afrenta ha quebrantado Su corazón — Le dan a beber hiel y vinagre — Es perseguido — Salvará a Sion.
 
----
 ###### 1 
 
 

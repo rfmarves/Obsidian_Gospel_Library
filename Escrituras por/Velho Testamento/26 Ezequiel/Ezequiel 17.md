@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 17
 [[Ezequiel 16| <-- Ezequiel 16]] | [[Ezequiel]] | [[Ezequiel 18|Ezequiel 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ezequiel mostra em uma parábola como Israel, embora submissa à Babilônia, erroneamente pede ajuda ao Egito — No entanto, o Senhor fará crescer nos últimos dias uma excelente árvore dos cedros do Líbano.
 
----
 ###### 1 
 E veio a mim a palavra do , dizendo:
 

@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 31
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 31
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/31?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, Israel will be gathered—The Lord declares that Ephraim has the birthright as the firstborn—The Lord will make a new covenant with Israel, to be inscribed in the heart—Then all Israel will know the Lord.
 
----
 ###### 1 
 At the same time, saith the , will I be the God of all the families of Israel, and they shall be my people.
 

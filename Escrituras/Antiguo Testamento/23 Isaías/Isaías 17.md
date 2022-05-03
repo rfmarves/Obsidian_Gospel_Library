@@ -1,22 +1,21 @@
 ---
 title: Isaías 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 17
 [[Isaías 16| <-- Isaías 16]] | [[Isaías]] | [[Isaías 18|Isaías 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel fue esparcido por haberse olvidado de Dios — Sin embargo, las naciones que lo saqueen serán destruidas.
 
----
 ###### 1 
 Profecía sobre Damasco: He aquí que Damasco ha dejado de ser ciudad y será montón de ruina.
 

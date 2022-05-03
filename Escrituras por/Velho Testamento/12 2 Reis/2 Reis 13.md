@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 13
 [[2 Reis 12| <-- 2 Reis 12]] | [[2 Reis]] | [[2 Reis 14|2 Reis 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Joacaz e os seus sucessores reinam iniquamente em Israel — Eliseu profetiza que Joás derrotará a Síria — Eliseu morre — Um israelita morto volta à vida ao tocar os ossos de Eliseu.
 
----
 ###### 1 
 No ano vinte e três de Joás, filho de Acazias, rei de Judá, começou a reinar Joacaz, filho de Jeú, sobre Israel, em Samaria, e reinou dezessete anos.
 

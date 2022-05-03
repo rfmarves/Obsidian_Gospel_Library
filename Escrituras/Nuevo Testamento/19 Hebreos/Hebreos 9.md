@@ -1,22 +1,21 @@
 ---
 title: Hebreos 9
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreos 9
 [[Hebreos 8| <-- Hebreos 8]] | [[Hebreos]] | [[Hebreos 10|Hebreos 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Las ordenanzas de la ley de Moisés prefiguraban el ministerio de Cristo — Cristo es el Mediador del nuevo convenio.
 
----
 ###### 1 
 Ahora bien, aun el primer  tenía ordenanzas de culto y un santuario terrenal.
 

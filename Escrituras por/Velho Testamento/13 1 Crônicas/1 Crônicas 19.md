@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 19
 [[1 Crônicas 18| <-- 1 Crônicas 18]] | [[1 Crônicas]] | [[1 Crônicas 20|1 Crônicas 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os amonitas insultam os mensageiros de Davi e planejam guerra contra Israel — Davi derrota os amonitas e os sírios.
 
----
 ###### 1 
 E aconteceu, depois disso, que Naás, rei dos filhos de Amom, morreu; e seu filho reinou em seu lugar.
 

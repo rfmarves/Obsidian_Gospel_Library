@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 35
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 35
 [[Ezequiel 34| <-- Ezequiel 34]] | [[Ezequiel]] | [[Ezequiel 36|Ezequiel 36 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/35?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/35?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Descenderá juicio sobre el monte Seir y sobre todo Edom por su odio hacia Israel.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

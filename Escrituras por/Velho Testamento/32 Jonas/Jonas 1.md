@@ -1,22 +1,21 @@
 ---
 title: Jonas 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jonas 1
 [[Obadias 1| <-- Obadias 1]] | [[Jonas]] | [[Jonas 2|Jonas 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jonah/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jonah/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jonas é enviado a Nínive para chamar o povo ao arrependimento — Ele foge em um navio, é lançado ao mar e é engolido por um grande peixe.
 
----
 ###### 1 
 E veio a palavra do  a Jonas, filho de Amitai, dizendo:
 

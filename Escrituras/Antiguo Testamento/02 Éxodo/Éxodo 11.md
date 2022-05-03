@@ -1,22 +1,21 @@
 ---
 title: Éxodo 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 11
 [[Éxodo 10| <-- Éxodo 10]] | [[Éxodo]] | [[Éxodo 12|Éxodo 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se autoriza a los israelitas, en su partida, a pedir alhajas y oro a sus vecinos — Jehová promete matar al primogénito de todo hogar egipcio — Jehová diferencia entre los egipcios y los israelitas.
 
----
 ###### 1 
 Y Jehová dijo a Moisés: Una plaga más traeré sobre Faraón y sobre Egipto; después de la cual él os dejará ir de aquí, y ciertamente os echará de aquí del todo.
 

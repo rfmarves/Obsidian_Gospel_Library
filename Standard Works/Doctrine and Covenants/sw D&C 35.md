@@ -1,10 +1,11 @@
 ---
 title: sw D&C 35
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 35
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/35?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–2, How men may become the sons of God; 3–7, Sidney Rigdon is called to baptize and to confer the Holy Ghost; 8–12, Signs and miracles are wrought by faith; 13–16, The Lord’s servants will thresh the nations by the power of the Spirit; 17–19, Joseph Smith holds the keys of the mysteries; 20–21, The elect will abide the day of the Lord’s coming; 22–27, Israel will be saved.
 
----
 ###### 1 
 Listen to the voice of the Lord your God, even Alpha and Omega, the beginning and the end, whose course is one eternal round, the same today as yesterday, and forever.
 

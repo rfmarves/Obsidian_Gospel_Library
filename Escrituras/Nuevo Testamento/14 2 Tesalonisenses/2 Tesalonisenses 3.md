@@ -1,22 +1,21 @@
 ---
 title: 2 Tesalonisenses 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Tesalonisenses 3
 [[2 Tesalonisenses 2| <-- 2 Tesalonisenses 2]] | [[2 Tesalonisenses]] | [[1 Timoteo 1|1 Timoteo 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-thes/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-thes/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Orad por el triunfo de la causa del Evangelio — Pablo predica el Evangelio de trabajo — No os canséis de hacer el bien.
 
----
 ###### 1 
 Por lo demás, hermanos, orad por nosotros, para que la palabra del Señor avance y sea glorificada así como lo fue entre vosotros,
 

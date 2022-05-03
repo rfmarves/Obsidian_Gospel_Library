@@ -1,27 +1,25 @@
 ---
 title: Salmos 126
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 126
 [[Salmos 125| <-- Salmos 125]] | [[Salmos]] | [[Salmos 127|Salmos 127 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/126?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/126?lang=por)
 
----
+```
 Cântico das subidas.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 O Senhor fez grandes coisas por Seu povo, Israel.
 
----
 ###### 1 
 Quando o  trouxe do cativeiro os que voltaram a Sião, éramos como os que sonham.
 

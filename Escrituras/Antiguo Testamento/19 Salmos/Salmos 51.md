@@ -1,27 +1,25 @@
 ---
 title: Salmos 51
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 51
 [[Salmos 50| <-- Salmos 50]] | [[Salmos]] | [[Salmos 52|Salmos 52 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/51?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/51?lang=spa)
 
----
+```
 Al músico principal. Salmo de David, cuando después que se llegó a Betsabé, fue a él el profeta Natán.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David suplica perdón después de haberse llegado a Betsabé — David suplica: Crea en mí un corazón limpio y renueva un espíritu recto dentro de mí.
 
----
 ###### 1 
 
 

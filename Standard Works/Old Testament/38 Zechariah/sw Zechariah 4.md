@@ -1,10 +1,11 @@
 ---
 title: sw Zechariah 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zechariah 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Zerubbabel will lay the foundation of and finish the house of the Lord, the temple of Zerubbabel.
 
----
 ###### 1 
 And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,
 

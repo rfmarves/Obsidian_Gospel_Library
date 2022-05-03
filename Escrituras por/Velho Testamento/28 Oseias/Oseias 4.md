@@ -1,22 +1,21 @@
 ---
 title: Oseias 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseias 4
 [[Oseias 3| <-- Oseias 3]] | [[Oseias]] | [[Oseias 5|Oseias 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel perde toda a verdade, toda a misericórdia e todo o conhecimento de Deus e se prostitui após deuses falsos.
 
----
 ###### 1 
 Ouvi a palavra do , vós, filhos de Israel, porque o  tem uma contenda com os habitantes da terra, porque não  verdade, nem benignidade, nem conhecimento de Deus na terra.
 

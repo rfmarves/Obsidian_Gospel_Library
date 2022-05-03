@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 2
 [[1 Reyes 1| <-- 1 Reyes 1]] | [[1 Reyes]] | [[1 Reyes 3|1 Reyes 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David manda a Salomón guardar los mandamientos y andar en los caminos de Jehová — El rey David muere y Salomón reina — Se da muerte a Adonías, Joab y Simei — Abiatar es rechazado como sumo sacerdote — Se establece el reino con Salomón.
 
----
 ###### 1 
 Y llegaron los días en que David había de morir, y mandó a Salomón, su hijo, diciendo:
 

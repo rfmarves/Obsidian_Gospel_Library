@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 9
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 9
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/9?lang=eng)
 
----
+```
 The Record of Zeniff—An account of his people, from the time they left the land of Zarahemla until the time that they were delivered out of the hands of the Lamanites.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Zeniff leads a group from Zarahemla to possess the land of Lehi-Nephi—The Lamanite king permits them to inherit the land—There is war between the Lamanites and Zeniff’s people. About 200–187 B.C.
 
----
 ###### 1 
 I, Zeniff, having been taught in all the language of the Nephites, and having had a knowledge of the land of Nephi, or of the land of our fathers’ first inheritance, and having been sent as a spy among the Lamanites that I might spy out their forces, that our army might come upon them and destroy them—but when I saw that which was good among them I was desirous that they should not be destroyed.
 

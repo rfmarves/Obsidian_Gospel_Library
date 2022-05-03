@@ -1,22 +1,21 @@
 ---
 title: Lucas 19
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 19
 [[Lucas 18| <-- Lucas 18]] | [[Lucas]] | [[Lucas 20|Lucas 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús vino a salvar almas — Enseña la parábola de las minas — Entra triunfalmente en Jerusalén, llora por la ciudad y purifica el templo otra vez.
 
----
 ###### 1 
 Y habiendo entrado  en Jericó, iba pasando por la ciudad;
 

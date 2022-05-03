@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 15
 [[1 Crónicas 14| <-- 1 Crónicas 14]] | [[1 Crónicas]] | [[1 Crónicas 16|1 Crónicas 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David prepara un lugar para el arca — Los levitas llevan el arca a Jerusalén — Cantan y ministran delante de Jehová.
 
----
 ###### 1 
 Y David hizo casas para sí en la ciudad de David, y preparó un lugar para el arca de Dios y levantó una tienda para ella.
 

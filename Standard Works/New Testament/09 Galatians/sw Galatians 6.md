@@ -1,10 +1,11 @@
 ---
 title: sw Galatians 6
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Galatians 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/gal/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Bear one another’s burdens—As you sow, so shall you reap—Be not weary in well-doing.
 
----
 ###### 1 
 Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.
 

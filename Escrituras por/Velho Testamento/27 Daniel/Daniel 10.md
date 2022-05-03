@@ -1,22 +1,21 @@
 ---
 title: Daniel 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 10
 [[Daniel 9| <-- Daniel 9]] | [[Daniel]] | [[Daniel 11|Daniel 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Daniel vê o Senhor e outros em uma gloriosa visão — Mostra-se a ele o que há de acontecer nos últimos dias.
 
----
 ###### 1 
 No ano terceiro de Ciro, rei da Pérsia, foi revelada  palavra a Daniel, cujo nome se chama Beltessazar; e a palavra  verdadeira, porém trata de uma guerra prolongada, e ele entendeu essa palavra, e teve entendimento da visão.
 

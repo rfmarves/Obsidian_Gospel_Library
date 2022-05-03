@@ -1,10 +1,11 @@
 ---
 title: sw Helaman 5
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Helaman 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nephi and Lehi devote themselves to preaching—Their names invite them to pattern their lives after their forebears—Christ redeems those who repent—Nephi and Lehi make many converts and are imprisoned, and fire encircles them—A cloud of darkness overshadows three hundred people—The earth shakes, and a voice commands men to repent—Nephi and Lehi converse with angels, and the multitude is encircled by fire. About 30 B.C.
 
----
 ###### 1 
 And it came to pass that in this same year, behold, Nephi delivered up the judgment-seat to a man whose name was Cezoram.
 

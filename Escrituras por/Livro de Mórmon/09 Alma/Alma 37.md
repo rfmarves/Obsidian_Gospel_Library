@@ -1,22 +1,21 @@
 ---
 title: Alma 37
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 37
 [[Alma 36| <-- Alma 36]] | [[Alma]] | [[Alma 38|Alma 38 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=por)
 
----
-__Resumo__
+> __Resumo__
 As placas de latão e outras escrituras são preservadas para trazerem salvação às almas — Os jareditas foram destruídos por causa de suas iniquidades — Seus juramentos e convênios secretos devem ser escondidos do povo — Aconselha-te com o Senhor em tudo que fizeres — Assim como a Liahona guiou os nefitas, também a palavra de Cristo leva os homens à vida eterna. Aproximadamente 74 a.C.
 
----
 ###### 1 
 E agora, Helamã, meu filho, ordeno-te que tomes os registros que me foram confiados;
 

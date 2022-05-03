@@ -1,22 +1,21 @@
 ---
 title: DyC 74
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 74
 [[DyC 73| <-- DyC 73]] | [[DyC]] | [[DyC 75|DyC 75 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/74?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/74?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, Pablo exhorta a la Iglesia de su época a no observar la ley de Moisés; 6–7, Los niños pequeños son santos y son santificados por medio de la Expiación.
 
----
 ###### 1 
 Porque el marido incrédulo es santificado por la mujer, y la mujer incrédula por el marido; pues de otra manera vuestros hijos serían inmundos, mientras que ahora son santos.
 

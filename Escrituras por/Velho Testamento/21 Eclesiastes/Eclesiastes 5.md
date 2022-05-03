@@ -1,22 +1,21 @@
 ---
 title: Eclesiastes 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastes 5
 [[Eclesiastes 4| <-- Eclesiastes 4]] | [[Eclesiastes]] | [[Eclesiastes 6|Eclesiastes 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Deus está no céu — A voz do tolo é conhecida pela multidão de palavras — Cumpre os teus votos — As riquezas e os bens são um dom de Deus.
 
----
 ###### 1 
 Guarda o teu pé, quando entrares na casa de Deus; e inclina-te mais a ouvir do que a oferecer sacrifícios de tolos, pois não sabem que fazem mal.
 

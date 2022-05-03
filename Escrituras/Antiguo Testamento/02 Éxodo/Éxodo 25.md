@@ -1,22 +1,21 @@
 ---
 title: Éxodo 25
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 25
 [[Éxodo 24| <-- Éxodo 24]] | [[Éxodo]] | [[Éxodo 26|Éxodo 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se manda a Israel donar sus bienes y construir un tabernáculo; hacer el arca del testimonio (con su propiciatorio y los querubines), una mesa (para el pan de la proposición) y el candelabro, todo de acuerdo con el modelo que se había mostrado a Moisés en el monte.
 
----
 ###### 1 
 Y Jehová habló a Moisés, diciendo:
 

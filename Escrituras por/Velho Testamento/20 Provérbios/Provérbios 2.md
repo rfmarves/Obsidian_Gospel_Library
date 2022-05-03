@@ -1,22 +1,21 @@
 ---
 title: Provérbios 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 2
 [[Provérbios 1| <-- Provérbios 1]] | [[Provérbios]] | [[Provérbios 3|Provérbios 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor concede sabedoria, conhecimento e entendimento — Andai pelo caminho dos bons.
 
----
 ###### 1 
 Filho meu, se aceitares as minhas palavras, e esconderes contigo os meus mandamentos,
 

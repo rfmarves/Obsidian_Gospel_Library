@@ -1,22 +1,21 @@
 ---
 title: Job 24
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 24
 [[Job 23| <-- Job 23]] | [[Job]] | [[Job 25|Job 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los asesinos, los adúlteros, los que oprimen al pobre y la gente inicua, en general, suelen salir impunes por poco tiempo.
 
----
 ###### 1 
 
 

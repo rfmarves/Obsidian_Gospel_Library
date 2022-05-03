@@ -1,22 +1,21 @@
 ---
 title: José Smith--Mateo 1
-tags: #Escrituras\PdGP
+tags: Escrituras\PdGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # José Smith--Mateo 1
 [[Abraham 5| <-- Abraham 5]] | [[José Smith--Mateo]] | [[José Smith--Historia 1|José Smith--Historia 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/pgp/js-m/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/pgp/js-m/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús predice la destrucción inminente de Jerusalén — También habla de la segunda venida del Hijo del Hombre y de la destrucción de los inicuos.
 
----
 ###### 1 
 Porque os digo que desde ahora no me veréis, ni sabréis que yo soy aquel de quien los profetas escribieron, hasta que digáis: Bendito el que viene en el nombre del Señor, en las nubes del cielo, y todos los santos ángeles con él. Entonces sus discípulos entendieron que él volvería a la tierra después que fuese glorificado y coronado a la diestra de Dios.
 

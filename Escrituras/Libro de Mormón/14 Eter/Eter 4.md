@@ -1,22 +1,21 @@
 ---
 title: Eter 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eter 4
 [[Eter 3| <-- Eter 3]] | [[Eter]] | [[Eter 5|Eter 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se le manda a Moroni sellar los escritos del hermano de Jared — No serán revelados sino hasta que los hombres tengan fe aun como la del hermano de Jared — Cristo manda a los hombres creer en Sus palabras y en las de Sus discípulos — Se da a los hombres el mandamiento de arrepentirse, creer en el Evangelio y ser salvos.
 
----
 ###### 1 
 Y el Señor mandó al hermano de Jared que descendiera del monte, de la presencia del Señor, y escribiera las cosas que había visto; y fue prohibido que se dieran a los hijos de los hombres, sino hasta después que él fuese levantado sobre la cruz; y por esta causa las guardó el rey Mosíah, para que no llegasen al mundo sino hasta después que Cristo se manifestara a su pueblo.
 

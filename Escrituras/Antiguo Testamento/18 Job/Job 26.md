@@ -1,22 +1,21 @@
 ---
 title: Job 26
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 26
 [[Job 25| <-- Job 25]] | [[Job]] | [[Job 27|Job 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Job reprende la insensibilidad de Bildad — Job ensalza el poder, la grandeza y la fortaleza de Jehová.
 
----
 ###### 1 
 Entonces respondió Job y dijo:
 

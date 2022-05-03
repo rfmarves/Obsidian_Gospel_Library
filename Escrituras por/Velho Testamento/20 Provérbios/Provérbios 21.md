@@ -1,22 +1,21 @@
 ---
 title: Provérbios 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 21
 [[Provérbios 20| <-- Provérbios 20]] | [[Provérbios]] | [[Provérbios 22|Provérbios 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Pratica a retidão e a justiça — Segue a retidão e a benevolência — Do Senhor vem a vitória.
 
----
 ###### 1 
 Como ribeiros de águas,  é o coração do rei na mão do ; a tudo quanto quer o inclina.
 

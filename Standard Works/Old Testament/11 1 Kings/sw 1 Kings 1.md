@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 1
@@ -15,11 +16,9 @@ people:
 1 Kings
 Commonly Called the Third Book of the Kings
 
----
-__Summary__
+> __Summary__
 Abishag cherishes David in his extreme age—Adonijah aspires to be king—Bathsheba and Nathan advise David of Adonijah’s plotting—David names Solomon as king, and he is anointed by Zadok—Adonijah’s cause fails.
 
----
 ###### 1 
 Now king David was old  stricken in years; and they covered him with clothes, but he gat no heat.
 

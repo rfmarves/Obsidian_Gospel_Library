@@ -1,30 +1,28 @@
 ---
 title: 1 Néfi 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Néfi 1
 [[Breve Explicação sobre o Livro de Mórmon| <-- Breve Explicação sobre o Livro de Mórmon]] | [[1 Néfi]] | [[1 Néfi 2|1 Néfi 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=por)
 
 1 Néfi
 Seu Governo e Ministério
 
----
+```
 Relato sobre Leí, sua mulher Saria e seus quatro filhos, que se chamavam (a começar pelo mais velho) Lamã, Lemuel, Sam e Néfi. O Senhor avisa Leí que saia da terra de Jerusalém, porque ele profetiza ao povo acerca de sua iniquidade e eles procuram tirar-lhe a vida. Ele viaja durante três dias através do deserto, com a sua família. Néfi toma os seus irmãos e volta à terra de Jerusalém, em busca do registro dos judeus. O relato dos seus sofrimentos. Tomam as filhas de Ismael para esposas. Tomam as suas famílias e vão para o deserto. Seus sofrimentos e aflições no deserto. Rota das suas viagens. Chegam às grandes águas. Rebelião dos irmãos contra Néfi. Ele confunde-os e constrói um barco. Dão ao lugar o nome de Abundância. Atravessam as grandes águas, indo para a terra da promissão, e assim por diante. Isto, segundo o relato de Néfi; ou, em outras palavras, eu, Néfi, escrevi este registro.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Néfi inicia o registro de seu povo — Em visão, Leí vê uma coluna de fogo e lê um livro de profecias — Louva a Deus, prediz a vinda do Messias e profetiza a destruição de Jerusalém — É perseguido pelos judeus. Aproximadamente 600 a.C.
 
----
 ###### 1 
 Eu, Néfi, tendo nascido de bons pais, recebi, portanto, alguma instrução em todo o conhecimento de meu pai; e tendo passado muitas aflições no decurso de meus dias, fui, não obstante, altamente favorecido pelo Senhor em todos os meus dias; sim, havendo adquirido um grande conhecimento da bondade e dos mistérios de Deus, faço, por isso, um registro de meus feitos durante minha vida.
 

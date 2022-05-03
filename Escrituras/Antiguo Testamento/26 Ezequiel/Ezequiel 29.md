@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 29
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 29
 [[Ezequiel 28| <-- Ezequiel 28]] | [[Ezequiel]] | [[Ezequiel 30|Ezequiel 30 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/29?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Egipto será derrocado por Babilonia — Cuando Egipto se levante de nuevo, será el menor de los reinos.
 
----
 ###### 1 
 En el año décimo, en el  décimo, a los doce  del mes, vino a mí la palabra de Jehová, diciendo:
 

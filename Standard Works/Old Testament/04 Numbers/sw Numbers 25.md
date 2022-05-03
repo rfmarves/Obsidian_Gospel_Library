@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Israelites who worship false gods are slain—Phinehas slays the adulterers and stays the plague—Israel is commanded to vex the Midianites who beguiled them.
 
----
 ###### 1 
 And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 35
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 35
 [[Salmos 34| <-- Salmos 34]] | [[Salmos]] | [[Salmos 36|Salmos 36 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/35?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/35?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi se queixa de seus inimigos e de seus maus-tratos — Ele pede ao Senhor que o julgue de acordo com sua retidão.
 
----
 ###### 1 
 Contende, , com aqueles que contendem comigo; peleja contra os que pelejam contra mim.
 

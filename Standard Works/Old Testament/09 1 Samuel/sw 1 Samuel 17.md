@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel and the Philistines engage in war—Goliath of Gath, a giant, defies Israel and challenges any Israelite to personal combat—David goes against him in the name of the Lord—David slays Goliath with a sling and a stone—Israel defeats the Philistines.
 
----
 ###### 1 
 Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which  to Judah, and pitched between Shochoh and Azekah, in Ephes-dammim.
 

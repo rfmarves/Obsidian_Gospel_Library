@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jehoram slays his brothers, marries Ahab’s daughter, and reigns in wickedness—Elijah prophesies a plague upon the people and the death of Jehoram—The Philistines and others war against Judah—Jehoram dies of sore diseases.
 
----
 ###### 1 
 Now Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David. And Jehoram his son reigned in his stead.
 

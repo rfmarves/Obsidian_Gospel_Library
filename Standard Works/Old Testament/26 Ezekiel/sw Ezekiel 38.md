@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 38
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 38
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/38?lang=eng)
 
----
-__Summary__
+> __Summary__
 The battle of Gog, from the land of Magog, against Israel will usher in the Second Coming—The Lord will come amid war and pestilence, and all men will shake at His presence.
 
----
 ###### 1 
 And the word of the  came unto me, saying,
 

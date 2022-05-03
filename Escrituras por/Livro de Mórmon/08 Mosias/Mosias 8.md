@@ -1,22 +1,21 @@
 ---
 title: Mosias 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 8
 [[Mosias 7| <-- Mosias 7]] | [[Mosias]] | [[Mosias 9|Mosias 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amon ensina o povo de Lími — Toma conhecimento das vinte e quatro placas jareditas — Registros antigos podem ser traduzidos por videntes — Nenhum dom é maior do que a vidência. Aproximadamente 121 a.C.
 
----
 ###### 1 
 E aconteceu que o rei Lími, depois de haver acabado de falar a seu povo, pois disse-lhes muitas coisas, mas poucas são as que escrevi neste livro, tudo lhes contou sobre seus irmãos que estavam na terra de Zaraenla.
 

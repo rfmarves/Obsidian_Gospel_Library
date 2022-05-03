@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 27
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord sends word to many nations that they are to serve Babylon—The vessels of the Lord’s house will go into Babylon.
 
----
 ###### 1 
 In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word unto Jeremiah from the , saying,
 

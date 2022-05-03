@@ -1,22 +1,21 @@
 ---
 title: Mateus 10
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 10
 [[Mateus 9| <-- Mateus 9]] | [[Mateus]] | [[Mateus 11|Mateus 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus instrui os Doze Apóstolos, concede-lhes poder e envia-os para pregar, ministrar e curar os enfermos — Aqueles que recebem os Doze recebem o Senhor.
 
----
 ###### 1 
 E chamando os seus doze discípulos, deu-lhes poder sobre os espíritos imundos, para os expulsarem, e curarem toda enfermidade e todo mal.
 

@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 47
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 47
 [[Ezequiel 46| <-- Ezequiel 46]] | [[Ezequiel]] | [[Ezequiel 48|Ezequiel 48 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Brotam águas da casa do Senhor, as quais curam o Mar Morto — O Senhor mostra os limites da terra.
 
----
 ###### 1 
 Depois disso me fez voltar à entrada da casa, e eis que brotavam águas por debaixo do umbral da casa para o oriente; porque a face da casa  o oriente, e as águas desciam de debaixo, desde o lado direito da casa, do lado do sul do altar.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 8
 [[2 Reis 7| <-- 2 Reis 7]] | [[2 Reis]] | [[2 Reis 9|2 Reis 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Eliseu profetiza uma fome de sete anos — A vida da mulher sunamita é preservada durante a fome — Jorão e depois Acazias reinam iniquamente em Judá.
 
----
 ###### 1 
 E falou Eliseu àquela mulher cujo filho vivificara, dizendo: Levanta-te, e vai, tu e a tua família, e peregrina onde puderes peregrinar; porque o  chamou a fome, a qual também virá à terra  sete anos.
 

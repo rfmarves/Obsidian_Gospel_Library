@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 25
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 25
 [[Ezequiel 24| <-- Ezequiel 24]] | [[Ezequiel]] | [[Ezequiel 26|Ezequiel 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La venganza de Jehová caerá tanto sobre los amonitas como sobre los moabitas, los edomitas y los filisteos.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

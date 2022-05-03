@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 84
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 84
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/84?lang=eng)
 
----
+```
 To the chief Musician upon Gittith, A Psalm for the sons of Korah.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The righteous cry unto the living God—It is better to be a doorkeeper in the house of the Lord than to dwell in the tents of wickedness—No good thing is withheld from those who walk uprightly.
 
----
 ###### 1 
 How amiable  thy tabernacles, O  of hosts!
 

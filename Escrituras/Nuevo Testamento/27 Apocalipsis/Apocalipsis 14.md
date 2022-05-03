@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 14
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 14
 [[Apocalipsis 13| <-- Apocalipsis 13]] | [[Apocalipsis]] | [[Apocalipsis 15|Apocalipsis 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Cordero estará sobre el monte Sion — El Evangelio será restaurado en los últimos días por la ministración de ángeles — El Hijo del Hombre segará la tierra.
 
----
 ###### 1 
 Y miré, y he aquí el Cordero estaba sobre el monte Sion, y con él ciento cuarenta y cuatro mil que tenían el nombre de su Padre escrito en la frente.
 

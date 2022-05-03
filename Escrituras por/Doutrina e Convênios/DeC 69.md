@@ -1,22 +1,21 @@
 ---
 title: DeC 69
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 69
 [[DeC 68| <-- DeC 68]] | [[DeC]] | [[DeC 70|DeC 70 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/69?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/69?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–2, John Whitmer deve acompanhar Oliver Cowdery ao Missouri; 3–8, Ele também deve pregar e compilar, registrar e escrever informações históricas.
 
----
 ###### 1 
 Escutai-me, diz o Senhor vosso Deus, para o bem de meu servo Oliver Cowdery. Não é prudente que lhe sejam confiados os mandamentos e o dinheiro que ele levará para a terra de Sião, a não ser que vá com ele alguém que seja verdadeiro e fiel.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 The departing Israelites are authorized to ask for jewels and gold from their neighbors—The Lord promises to slay the firstborn in every Egyptian home—He puts a difference between the Egyptians and the Israelites.
 
----
 ###### 1 
 And the  said unto Moses, Yet will I bring one plague  upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let  go, he shall surely thrust you out hence altogether.
 

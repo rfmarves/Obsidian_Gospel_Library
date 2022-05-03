@@ -1,22 +1,21 @@
 ---
 title: Moroni 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moroni 7
 [[Moroni 6| <-- Moroni 6]] | [[Moroni]] | [[Moroni 8|Moroni 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se hace la invitación a entrar en el reposo del Señor — Orad con verdadera intención — El Espíritu de Cristo habilita a los hombres para discernir el bien del mal — Satanás persuade a los hombres a negar a Cristo y hacer lo malo — Los profetas manifiestan la venida de Cristo — Por medio de la fe, se efectúan los milagros y los ángeles ministran — Los hombres deben tener la esperanza de obtener la vida eterna y deben allegarse a la caridad. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 Y ahora yo, Moroni, escribo unas pocas de las palabras que mi padre Mormón habló concernientes a la fe, a la esperanza y a la caridad; porque de esta manera habló al pueblo, mientras les enseñaba en la sinagoga que habían construido como sitio donde adorar.
 

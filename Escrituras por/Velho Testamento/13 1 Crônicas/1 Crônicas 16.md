@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 16
 [[1 Crônicas 15| <-- 1 Crônicas 15]] | [[1 Crônicas]] | [[1 Crônicas 17|1 Crônicas 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo oferece sacrifícios e louva ao Senhor — Davi profere um salmo de agradecimento — Ele louva ao Senhor — Asafe, Obede-Edom, Zadoque e outros ministram perante o Senhor.
 
----
 ###### 1 
 Trazendo, pois, a arca de Deus, a puseram no meio da tenda que Davi lhe tinha armado; e ofereceram holocaustos e ofertas pacíficas perante Deus.
 

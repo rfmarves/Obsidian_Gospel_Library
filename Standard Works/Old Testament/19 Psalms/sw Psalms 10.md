@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 David speaks of various acts of the wicked—God is not in their thoughts—But the Lord is King forever and ever—He will judge the fatherless and oppressed.
 
----
 ###### 1 
 Why standest thou afar off, O ?  hidest thou  in times of trouble?
 

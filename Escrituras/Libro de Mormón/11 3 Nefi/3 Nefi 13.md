@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 13
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 13
 [[3 Nefi 12| <-- 3 Nefi 12]] | [[3 Nefi]] | [[3 Nefi 14|3 Nefi 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús enseña a los nefitas la manera de orar — Deben acumular tesoros en los cielos — Manda a los doce discípulos que en su ministerio no se afanen por las cosas temporales — Compárese con Mateo 6. Aproximadamente 34 d.C.
 
----
 ###### 1 
 En verdad, en verdad os digo, quisiera que dieseis limosnas a los pobres; mas guardaos de dar vuestras limosnas delante de los hombres para ser vistos de ellos; de otra manera, ningún galardón tenéis de vuestro Padre que está en los cielos.
 

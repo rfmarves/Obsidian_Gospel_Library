@@ -1,22 +1,21 @@
 ---
 title: Isaías 25
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 25
 [[Isaías 24| <-- Isaías 24]] | [[Isaías]] | [[Isaías 26|Isaías 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor preparará um banquete do evangelho com manjares deliciosos no Monte Sião — Ele tragará a morte na vitória — Dir-se-á: Eis que este é o nosso Deus.
 
----
 ###### 1 
 Ó , tu és o meu Deus; exaltar-te-ei,  louvarei o teu nome, porque fizeste maravilhas; os  conselhos antigos  verdade  firmeza.
 

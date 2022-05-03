@@ -1,22 +1,21 @@
 ---
 title: Amós 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 8
 [[Amós 7| <-- Amós 7]] | [[Amós]] | [[Amós 9|Amós 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amós profetiza a queda de Israel — Haverá fome de ouvir a palavra do Senhor.
 
----
 ###### 1 
 O Senhor  assim me mostrou; e eis aqui um cesto de frutos do verão.
 

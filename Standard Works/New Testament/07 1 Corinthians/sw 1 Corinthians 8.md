@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 8
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 There are many gods and many lords—To us there is one God (the Father) and one Lord, who is Christ.
 
----
 ###### 1 
 Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth.
 

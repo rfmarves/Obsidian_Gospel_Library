@@ -1,10 +1,11 @@
 ---
 title: sw Luke 6
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus heals on the Sabbath—He chooses the Twelve Apostles—He pronounces blessings upon the obedient and woes upon the wicked.
 
----
 ###### 1 
 And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing  in  hands.
 

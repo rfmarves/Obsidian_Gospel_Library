@@ -1,10 +1,11 @@
 ---
 title: sw Ezra 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezra 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 King Cyrus of Persia lets the Jews go back to Jerusalem to build the temple—Cyrus returns the vessels of the house of the Lord taken by Nebuchadnezzar.
 
----
 ###### 1 
 Now in the first year of Cyrus king of Persia, that the word of the  by the mouth of Jeremiah might be fulfilled, the  stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and  also in writing, saying,
 

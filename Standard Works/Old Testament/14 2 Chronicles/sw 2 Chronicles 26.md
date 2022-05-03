@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 26
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 Uzziah reigns and prospers as long as he keeps the commandments—He transgresses, attempts to burn incense upon the altar, and is cursed with leprosy.
 
----
 ###### 1 
 Then all the people of Judah took Uzziah, who  sixteen years old, and made him king in the room of his father Amaziah.
 

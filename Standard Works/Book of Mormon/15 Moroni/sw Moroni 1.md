@@ -1,10 +1,11 @@
 ---
 title: sw Moroni 1
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moroni 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moroni writes for the benefit of the Lamanites—The Nephites who will not deny Christ are put to death. About A.D. 401–21.
 
----
 ###### 1 
 Now I, Moroni, after having made an end of abridging the account of the people of Jared, I had supposed not to have written more, but I have not as yet perished; and I make not myself known to the Lamanites lest they should destroy me.
 

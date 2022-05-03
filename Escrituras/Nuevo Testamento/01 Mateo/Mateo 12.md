@@ -1,22 +1,21 @@
 ---
 title: Mateo 12
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 12
 [[Mateo 11| <-- Mateo 11]] | [[Mateo]] | [[Mateo 13|Mateo 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús se proclama Señor del día de reposo y sana en el día de reposo — Se le acusa de echar fuera demonios mediante el poder de Beelzebú — Habla de la blasfemia contra el Espíritu Santo y dice que la generación mala y adúltera demanda señal.
 
----
 ###### 1 
 En aquel tiempo iba Jesús por los sembrados en el día de reposo; y sus discípulos tuvieron hambre y comenzaron a arrancar espigas y a comer.
 

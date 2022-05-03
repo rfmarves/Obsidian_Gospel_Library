@@ -1,22 +1,21 @@
 ---
 title: Números 26
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 26
 [[Números 25| <-- Números 25]] | [[Números]] | [[Números 27|Números 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moisés y Eleazar cuentan a los israelitas en los campos de Moab cerca de Jericó — Los varones mayores de veinte años, exceptuando a los levitas, suman seiscientos un mil setecientos treinta — Solo Caleb y Josué quedan de aquellos que fueron contados en Sinaí.
 
----
 ###### 1 
 Y aconteció, después de la mortandad, que Jehová habló a Moisés y a Eleazar, hijo del sacerdote Aarón, diciendo:
 

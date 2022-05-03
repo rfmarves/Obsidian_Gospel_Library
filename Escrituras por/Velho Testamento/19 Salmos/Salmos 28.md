@@ -1,27 +1,25 @@
 ---
 title: Salmos 28
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 28
 [[Salmos 27| <-- Salmos 27]] | [[Salmos]] | [[Salmos 29|Salmos 29 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/28?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/28?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi roga ao Senhor que ouça sua voz e atenda a sua súplica — Davi ora, dizendo: Salva o Teu povo e abençoa a Tua herança.
 
----
 ###### 1 
 A ti clamarei, ó , Rocha minha; não emudeças para comigo; não seja que,  te calares para comigo, fique eu semelhante aos que descem ao abismo.
 

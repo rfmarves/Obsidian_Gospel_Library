@@ -1,27 +1,25 @@
 ---
 title: Salmos 25
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 25
 [[Salmos 24| <-- Salmos 24]] | [[Salmos]] | [[Salmos 26|Salmos 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/25?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi roga pedindo a verdade e suplica perdão — A misericórdia e a verdade são para os que guardam os mandamentos.
 
----
 ###### 1 
 A ti, , elevo a minha alma.
 

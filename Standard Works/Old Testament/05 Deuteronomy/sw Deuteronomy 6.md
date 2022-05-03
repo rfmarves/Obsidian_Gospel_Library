@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses proclaims, The Lord our God is one Lord, and, Thou shalt love the Lord thy God—The children of Israel are commanded to teach their children—Moses exhorts them to keep the commandments, testimonies, and statutes of the Lord that they may prosper.
 
----
 ###### 1 
 Now these  the commandments, the statutes, and the judgments, which the  your God commanded to teach you, that ye might do  in the land whither ye go to possess it:
 

@@ -1,22 +1,21 @@
 ---
 title: DyC 83
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 83
 [[DyC 82| <-- DyC 82]] | [[DyC]] | [[DyC 84|DyC 84 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/83?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/83?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, Las mujeres y los niños tienen el derecho de recibir sostén de sus esposos y padres respectivamente; 5–6, Las viudas y los huérfanos tienen el derecho de recurrir a la Iglesia para su sostén.
 
----
 ###### 1 
 De cierto, así dice el Señor, además de las leyes de la iglesia referentes a las mujeres y a los niños, aquellos que pertenecen a la iglesia, que han perdido a sus esposos o padres:
 

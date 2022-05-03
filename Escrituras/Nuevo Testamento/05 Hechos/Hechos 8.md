@@ -1,22 +1,21 @@
 ---
 title: Hechos 8
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 8
 [[Hechos 7| <-- Hechos 7]] | [[Hechos]] | [[Hechos 9|Hechos 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Saulo persigue a la Iglesia — Se describe el ministerio de Felipe en Samaria — Felipe efectúa milagros y bautiza a hombres y a mujeres — Pedro y Juan viajan a Samaria y confieren el don del Espíritu Santo por la imposición de manos — Simón busca comprar ese don y Pedro lo reprende — Felipe predica acerca de Cristo y bautiza a un eunuco etíope.
 
----
 ###### 1 
 Y Saulo consentía en su muerte. Y en aquel día hubo una grande persecución contra la iglesia que estaba en Jerusalén; y todos fueron esparcidos por las tierras de Judea y de Samaria, salvo los apóstoles.
 

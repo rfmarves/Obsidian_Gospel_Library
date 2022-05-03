@@ -1,22 +1,21 @@
 ---
 title: Esdras 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 2
 [[Esdras 1| <-- Esdras 1]] | [[Esdras]] | [[Esdras 3|Esdras 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os descendentes dos judeus levados cativos que voltam para Jerusalém e para Judá são enumerados — O sacerdócio é negado aos filhos dos sacerdotes cuja genealogia se perdeu — Os fiéis contribuem para a construção do templo.
 
----
 ###### 1 
 Estes  os filhos da província, que subiram do cativeiro, dos exilados que Nabucodonosor, rei de Babilônia, tinha transportado a Babilônia, e retornaram a Jerusalém e a Judá, cada um para a sua cidade;
 

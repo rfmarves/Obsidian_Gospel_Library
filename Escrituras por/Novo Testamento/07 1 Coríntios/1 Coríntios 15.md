@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 15
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 15
 [[1 Coríntios 14| <-- 1 Coríntios 14]] | [[1 Coríntios]] | [[1 Coríntios 16|1 Coríntios 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo morreu por nossos pecados — Ele ressuscitou dos mortos e foi visto por muitos — Todos os homens serão ressuscitados — Paulo fala do batismo pelos mortos — Descrevem-se os três graus de glória — A vitória sobre a morte vem por meio de Cristo.
 
----
 ###### 1 
 Também vos notifico, irmãos, o evangelho que  vos anunciei, o qual também recebestes, e no qual também permaneceis.
 

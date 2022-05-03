@@ -1,22 +1,21 @@
 ---
 title: Josué 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 15
 [[Josué 14| <-- Josué 14]] | [[Josué]] | [[Josué 16|Josué 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Judá recebe herança em Canaã — Os jebuseus habitam com Judá em Jerusalém.
 
----
 ###### 1 
 E foi a sorte da tribo dos filhos de Judá, segundo as suas famílias, até o termo de Edom, o deserto de Zim para o sul, até a extremidade do lado sul.
 

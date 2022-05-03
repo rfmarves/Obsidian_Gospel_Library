@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 16
 [[Deuteronomio 15| <-- Deuteronomio 15]] | [[Deuteronomio]] | [[Deuteronomio 17|Deuteronomio 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel guardará la Pascua; también, la Fiesta de los Panes sin Levadura, la Fiesta de las Semanas y la Fiesta de los Tabernáculos — Todos los varones se presentarán delante de Jehová anualmente en estas tres fiestas — Los jueces no harán juicios deshonestos ni tomarán soborno.
 
----
 ###### 1 
 Guardarás el mes de Abib y celebrarás la Pascua a Jehová tu Dios, porque en el mes de Abib te sacó Jehová tu Dios de Egipto, de noche.
 

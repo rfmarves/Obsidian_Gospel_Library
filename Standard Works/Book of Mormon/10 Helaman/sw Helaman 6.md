@@ -1,10 +1,11 @@
 ---
 title: sw Helaman 6
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Helaman 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The righteous Lamanites preach to the wicked Nephites—Both peoples prosper during an era of peace and plenty—Lucifer, the author of sin, stirs up the hearts of the wicked and the Gadianton robbers in murder and wickedness—The robbers take over the Nephite government. About 29–23 B.C.
 
----
 ###### 1 
 And it came to pass that when the sixty and second year of the reign of the judges had ended, all these things had happened and the Lamanites had become, the more part of them, a righteous people, insomuch that their righteousness did exceed that of the Nephites, because of their firmness and their steadiness in the faith.
 

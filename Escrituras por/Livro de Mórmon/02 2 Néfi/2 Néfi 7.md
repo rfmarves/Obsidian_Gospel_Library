@@ -1,22 +1,21 @@
 ---
 title: 2 Néfi 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Néfi 7
 [[2 Néfi 6| <-- 2 Néfi 6]] | [[2 Néfi]] | [[2 Néfi 8|2 Néfi 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó continua a ler em Isaías: Isaías fala em linguagem messiânica — O Messias terá a língua dos instruídos — Ele oferecerá as Suas costas aos açoitadores — Não será confundido — Comparar com Isaías 50. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Sim, pois assim diz o Senhor: Repudiei-te eu ou expulsei-te para sempre? Pois assim diz o Senhor: Onde está o libelo do divórcio de tua mãe? Para quem te apartei ou a qual de meus credores te vendi? Sim, a quem te vendi eu? Eis que por vossas iniquidades vos vendestes e por vossas transgressões é a vossa mãe repudiada.
 

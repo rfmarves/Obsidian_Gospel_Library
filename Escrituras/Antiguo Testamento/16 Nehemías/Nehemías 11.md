@@ -1,22 +1,21 @@
 ---
 title: Nehemías 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nehemías 11
 [[Nehemías 10| <-- Nehemías 10]] | [[Nehemías]] | [[Nehemías 12|Nehemías 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El pueblo y sus jefes son designados por sorteo para habitar en Jerusalén y en las otras ciudades.
 
----
 ###### 1 
 Y los jefes del pueblo habitaron en Jerusalén; pero el resto del pueblo echó suertes para traer uno de cada diez para que habitara en Jerusalén, la ciudad santa, y los otros nueve en las  ciudades.
 

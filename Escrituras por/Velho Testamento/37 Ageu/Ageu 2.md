@@ -1,22 +1,21 @@
 ---
 title: Ageu 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ageu 2
 [[Ageu 1| <-- Ageu 1]] | [[Ageu]] | [[Zacarias 1|Zacarias 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hag/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hag/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ageu fala sobre o Messias — Virá o Desejado de Todas as Nações — O Senhor dará paz no Seu templo.
 
----
 ###### 1 
 No sétimo  ao vigésimo primeiro dia do mês, veio a palavra do  pelo ministério do profeta Ageu, dizendo:
 

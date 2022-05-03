@@ -1,27 +1,25 @@
 ---
 title: Salmos 81
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 81
 [[Salmos 80| <-- Salmos 80]] | [[Salmos]] | [[Salmos 82|Salmos 82 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/81?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/81?lang=por)
 
----
+```
 Salmo de Asafe para o músico-mor, sobre Gitite.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Ordena-se a Israel que cante louvores a Deus — Se os israelitas tivessem seguido o caminho do Senhor, teriam triunfado sobre seus inimigos.
 
----
 ###### 1 
 Exultai a Deus, nossa fortaleza; jubilai ao Deus de Jacó.
 

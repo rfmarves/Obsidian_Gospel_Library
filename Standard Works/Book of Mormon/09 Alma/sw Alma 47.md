@@ -1,10 +1,11 @@
 ---
 title: sw Alma 47
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 47
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/47?lang=eng)
 
----
-__Summary__
+> __Summary__
 Amalickiah uses treachery, murder, and intrigue to become king of the Lamanites—The Nephite dissenters are more wicked and ferocious than the Lamanites. About 72 B.C.
 
----
 ###### 1 
 Now we will return in our record to Amalickiah and those who had fled with him into the wilderness; for, behold, he had taken those who went with him, and went up in the land of Nephi among the Lamanites, and did stir up the Lamanites to anger against the people of Nephi, insomuch that the king of the Lamanites sent a proclamation throughout all his land, among all his people, that they should gather themselves together again to go to battle against the Nephites.
 

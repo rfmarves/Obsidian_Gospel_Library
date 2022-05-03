@@ -1,22 +1,21 @@
 ---
 title: Mateo 11
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 11
 [[Mateo 10| <-- Mateo 10]] | [[Mateo]] | [[Mateo 12|Mateo 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús declara que Juan es más que profeta — Las ciudades de Corazín, Betsaida y Capernaúm son reprendidas por su incredulidad — El Hijo revela al Padre — El yugo de Cristo es fácil, y Su carga es ligera.
 
----
 ###### 1 
 Y aconteció que, cuando Jesús terminó de dar mandamientos a sus doce discípulos, se fue de allí a enseñar y a predicar en las ciudades de ellos.
 

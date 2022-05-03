@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 6
 [[Deuteronomio 5| <-- Deuteronomio 5]] | [[Deuteronomio]] | [[Deuteronomio 7|Deuteronomio 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moisés proclama: Jehová nuestro Dios, Jehová uno es; y, amarás a Jehová tu Dios — Se manda al pueblo de Israel enseñar a sus hijos — Moisés exhorta al pueblo a guardar los mandamientos y los testimonios y los estatutos de Jehová para que prosperen.
 
----
 ###### 1 
 Estos, pues, son los mandamientos, estatutos y decretos que Jehová vuestro Dios mandó que os enseñase, para que los pongáis por obra en la tierra a la cual vais a entrar para poseerla;
 

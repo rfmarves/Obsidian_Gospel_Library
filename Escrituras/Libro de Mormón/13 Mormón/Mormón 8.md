@@ -1,22 +1,21 @@
 ---
 title: Mormón 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mormón 8
 [[Mormón 7| <-- Mormón 7]] | [[Mormón]] | [[Mormón 9|Mormón 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los lamanitas persiguen y destruyen a los nefitas — El Libro de Mormón aparecerá por el poder de Dios — Se declaran calamidades sobre los que respiren ira y contiendas contra la obra del Señor — La historia nefita aparecerá en una época de iniquidad, degeneración y apostasía. Aproximadamente 400–421 d.C.
 
----
 ###### 1 
 He aquí que yo, Moroni, doy fin al registro de mi padre Mormón. He aquí, no tengo sino pocas cosas que escribir, cosas que mi padre me ha mandado.
 

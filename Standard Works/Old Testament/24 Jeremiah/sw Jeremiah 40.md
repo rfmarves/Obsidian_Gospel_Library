@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 40
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 40
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/40?lang=eng)
 
----
-__Summary__
+> __Summary__
 The king of Babylon makes Gedaliah governor over the remnant left in Judah—Jeremiah is freed and dwells among them.
 
----
 ###### 1 
 The word that came to Jeremiah from the , after that Nebuzar-adan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all that were carried away captive of Jerusalem and Judah, which were carried away captive unto Babylon.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Job 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 Bildad bemoans the lowly state of man and classifies him as a worm.
 
----
 ###### 1 
 Then answered Bildad the Shuhite, and said,
 

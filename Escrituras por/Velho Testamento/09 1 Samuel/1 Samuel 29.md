@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 29
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 29
 [[1 Samuel 28| <-- 1 Samuel 28]] | [[1 Samuel]] | [[1 Samuel 30|1 Samuel 30 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/29?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/29?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel e os filisteus se reúnem para a guerra — Os príncipes dos filisteus mandam Davi embora.
 
----
 ###### 1 
 E ajuntaram os filisteus todos os seus exércitos em Afeque; e acamparam os israelitas junto à fonte que  em Jezreel.
 

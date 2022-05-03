@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 18
 [[2 Samuel 17| <-- 2 Samuel 17]] | [[2 Samuel]] | [[2 Samuel 19|2 Samuel 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los israelitas son derrotados en los bosques de Efraín — Joab mata a Absalón — Llevan a David la noticia de su muerte y este se lamenta por su hijo.
 
----
 ###### 1 
 David, pues, contó a los del pueblo que estaban con él, y puso sobre ellos jefes de millares y jefes de centenas.
 

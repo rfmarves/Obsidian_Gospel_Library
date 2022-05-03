@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ephraim and Syria wage war against Judah—Christ will be born of a virgin—Compare 2 Nephi 17.
 
----
 ###### 1 
 And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah,  Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.
 

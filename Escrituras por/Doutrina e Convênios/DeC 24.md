@@ -1,22 +1,21 @@
 ---
 title: DeC 24
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 24
 [[DeC 23| <-- DeC 23]] | [[DeC]] | [[DeC 25|DeC 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–9, Joseph Smith é chamado para traduzir, pregar e explicar as escrituras; 10–12, Oliver Cowdery é chamado para pregar o evangelho; 13–19, Revelada a lei relativa a milagres, maldições, sacudir o pó dos pés e não levar bolsa nem alforje.
 
----
 ###### 1 
 Eis que foste chamado e escolhido para escrever o Livro de Mórmon e para meu ministério; e livrei-te de tuas aflições e aconselhei-te, pelo que tens sido livrado de todos os teus inimigos e dos poderes de Satanás e das trevas!
 

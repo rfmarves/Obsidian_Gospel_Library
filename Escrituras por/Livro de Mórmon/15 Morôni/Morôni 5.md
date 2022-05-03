@@ -1,22 +1,21 @@
 ---
 title: Morôni 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Morôni 5
 [[Morôni 4| <-- Morôni 4]] | [[Morôni]] | [[Morôni 6|Morôni 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Estabelecido o modo de administrar o vinho sacramental. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 Maneira de administrar o vinho — Eis que tomavam o cálice e diziam:
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 3
 [[2 Samuel 2| <-- 2 Samuel 2]] | [[2 Samuel]] | [[2 Samuel 4|2 Samuel 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A casa de Davi e a de Saul travam uma longa guerra — Davi se fortalece — Abner se une a Davi, mas é morto por Joabe — Davi lamenta a morte de Abner.
 
----
 ###### 1 
 E houve uma longa guerra entre a casa de Saul e a casa de Davi; porém Davi se ia fortalecendo, mas os da casa de Saul se iam enfraquecendo.
 

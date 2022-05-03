@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 10
 [[Ezequiel 9| <-- Ezequiel 9]] | [[Ezequiel]] | [[Ezequiel 11|Ezequiel 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ele vê em uma visão, como anteriormente, as rodas, os querubins, o trono e a glória de Deus.
 
----
 ###### 1 
 Depois olhei, e eis que no firmamento, que  por cima da cabeça dos querubins, apareceu sobre eles como uma pedra de safira, como o aspecto da semelhança de um trono.
 

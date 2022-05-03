@@ -1,22 +1,21 @@
 ---
 title: DeC 61
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 61
 [[DeC 60| <-- DeC 60]] | [[DeC]] | [[DeC 62|DeC 62 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/61?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/61?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–12, O Senhor decretou muitas destruições sobre as águas; 13–22, João amaldiçoou as águas e o destruidor move-se pela sua superfície; 23–29, Alguns têm poder para comandar as águas; 30–35, Os élderes devem viajar de dois em dois para pregar o evangelho; 36–39, Devem preparar-se para a vinda do Filho do Homem.
 
----
 ###### 1 
 Vede e escutai a voz daquele que tem todo o poder, que é de eternidade em eternidade, sim, o Alfa e o Ômega, o princípio e o fim.
 

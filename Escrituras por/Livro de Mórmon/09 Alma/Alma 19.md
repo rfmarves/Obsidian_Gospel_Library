@@ -1,22 +1,21 @@
 ---
 title: Alma 19
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 19
 [[Alma 18| <-- Alma 18]] | [[Alma]] | [[Alma 20|Alma 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Lamôni recebe a luz da vida eterna e vê o Redentor — Os de sua casa caem por terra, dominados pelo assombro, e alguns veem anjos — Amon é preservado milagrosamente — Ele batiza muitos e estabelece uma igreja entre eles. Aproximadamente 90 a.C.
 
----
 ###### 1 
 E aconteceu que, passados dois dias e duas noites, estavam a ponto de levar seu corpo e depositá-lo em um sepulcro que haviam feito com o propósito de enterrar seus mortos.
 

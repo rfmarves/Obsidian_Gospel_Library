@@ -1,10 +1,11 @@
 ---
 title: sw D&C 82
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 82
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, Where much is given, much is required; 5–7, Darkness reigns in the world; 8–13, The Lord is bound when we do what He says; 14–18, Zion must increase in beauty and holiness; 19–24, Every man should seek the interest of his neighbor.
 
----
 ###### 1 
 Verily, verily, I say unto you, my servants, that inasmuch as you have forgiven one another your trespasses, even so I, the Lord, forgive you.
 

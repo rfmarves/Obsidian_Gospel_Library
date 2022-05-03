@@ -1,22 +1,21 @@
 ---
 title: DeC 11
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 11
 [[DeC 10| <-- DeC 10]] | [[DeC]] | [[DeC 12|DeC 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–6, Os que trabalham na vinha irão alcançar salvação; 7–14, Busca sabedoria, proclama arrependimento, confia no Espírito; 15–22, Guarda os mandamentos e estuda a palavra do Senhor; 23–27, Não negues o espírito de revelação e de profecia; 28–30, Os que recebem a Cristo tornam-se os filhos de Deus.
 
----
 ###### 1 
 Uma grande e maravilhosa obra está para iniciar-se entre os filhos dos homens.
 

@@ -1,22 +1,21 @@
 ---
 title: DyC 47
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 47
 [[DyC 46| <-- DyC 46]] | [[DyC]] | [[DyC 48|DyC 48 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/47?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/47?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, Se designa a John Whitmer para que lleve la historia de la Iglesia y sea escribiente del Profeta.
 
----
 ###### 1 
 He aquí, me es prudente que mi siervo John escriba y lleve una historia sistemática, y que colabore contigo, mi siervo José, transcribiendo todas las cosas que te serán impartidas, hasta que se le llame a otros deberes.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Song of Solomon 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Song of Solomon 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The poet sings of love and devotion.
 
----
 ###### 1 
 The song of songs, which  Solomon’s.
 

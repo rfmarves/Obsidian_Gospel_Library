@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 3
 [[1 Samuel 2| <-- 1 Samuel 2]] | [[1 Samuel]] | [[1 Samuel 4|1 Samuel 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová llama a Samuel — La casa de Elí no será expiada ni con sacrificios ni con ofrendas — Samuel es reconocido como profeta por todo Israel — Jehová se le aparece.
 
----
 ###### 1 
 Y el joven Samuel servía a Jehová delante de Elí; y la palabra de Jehová era de estima en aquellos días, y no había visión manifiesta.
 

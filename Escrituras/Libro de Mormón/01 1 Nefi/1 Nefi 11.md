@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 11
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 11
 [[1 Nefi 10| <-- 1 Nefi 10]] | [[1 Nefi]] | [[1 Nefi 12|1 Nefi 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nefi ve el Espíritu del Señor y se le muestra el árbol de la vida en una visión — Ve a la madre del Hijo de Dios y aprende acerca de la condescendencia de Dios — Ve el bautismo, el ministerio y la crucifixión del Cordero de Dios — Ve también el llamamiento y ministerio de los Doce Apóstoles del Cordero. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 Pues sucedió que después que hube deseado conocer las cosas que mi padre había visto, y creyendo que el Señor podía hacérmelas saber, mientras estaba yo sentado reflexionando sobre esto, fui arrebatado en el Espíritu del Señor, sí, hasta una montaña extremadamente alta que nunca antes había visto, y sobre la cual nunca había puesto mis pies.
 

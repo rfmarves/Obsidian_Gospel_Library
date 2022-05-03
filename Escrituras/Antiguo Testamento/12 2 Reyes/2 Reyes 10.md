@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 10
 [[2 Reyes 9| <-- 2 Reyes 9]] | [[2 Reyes]] | [[2 Reyes 11|2 Reyes 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Matan a los setenta hijos de Acab — Jehú destruye la casa de Acab y a todos los adoradores de Baal, pero él sigue adorando los becerros de oro en Bet-el y en Dan.
 
----
 ###### 1 
 Y tenía Acab en Samaria setenta hijos; y Jehú escribió cartas y las envió a Samaria a los principales de Jezreel, a los ancianos y a los ayos  de Acab, diciendo:
 

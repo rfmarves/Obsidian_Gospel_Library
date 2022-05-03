@@ -1,27 +1,25 @@
 ---
 title: Salmos 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 18
 [[Salmos 17| <-- Salmos 17]] | [[Salmos]] | [[Salmos 19|Salmos 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/18?lang=por)
 
----
+```
 Para o músico-mor. Salmo do servo do Senhor, Davi, o qual falou as palavras deste cântico ao Senhor, no dia em que o Senhor o livrou de todos os seus inimigos e das mãos de Saul, e disse:
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi louva ao Senhor por sua grandiosidade e cuidado protetor — O caminho do Senhor é perfeito — O Senhor concedeu bênçãos maravilhosas — Davi testifica: O Senhor vive, e bendito seja o meu Rochedo.
 
----
 ###### 1 
 Eu te amarei com todo o coração, ó , fortaleza minha.
 

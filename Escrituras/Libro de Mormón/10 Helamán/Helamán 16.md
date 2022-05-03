@@ -1,22 +1,21 @@
 ---
 title: Helamán 16
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 16
 [[Helamán 15| <-- Helamán 15]] | [[Helamán]] | [[3 Nefi 1|3 Nefi 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nefi bautiza a los nefitas que creen a Samuel — Las piedras y las flechas de los nefitas inicuos no pueden matar a Samuel — Algunos endurecen su corazón y otros ven ángeles — Los incrédulos dicen que no es razonable creer en Cristo ni en Su venida a Jerusalén. Aproximadamente 6–1 a.C.
 
----
 ###### 1 
 Y sucedió que hubo muchos que oyeron las palabras que Samuel el Lamanita habló desde las murallas de la ciudad. Y cuantos creyeron en su palabra fueron y buscaron a Nefi; y cuando fueron y lo hallaron, le confesaron sus pecados y no negaron, deseando ser bautizados en el Señor.
 

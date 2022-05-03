@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 93
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 93
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/93?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord reigns—He is from everlasting—Holiness adorns the house of the Lord forever.
 
----
 ###### 1 
 The  reigneth, he is clothed with majesty; the  is clothed with strength,  he hath girded himself: the world also is stablished, that it cannot be moved.
 

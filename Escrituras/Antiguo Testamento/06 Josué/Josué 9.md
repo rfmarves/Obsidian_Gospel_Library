@@ -1,22 +1,21 @@
 ---
 title: Josué 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 9
 [[Josué 8| <-- Josué 8]] | [[Josué]] | [[Josué 10|Josué 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los gabaonitas logran hacer alianza con Israel por estratagema — Josué los hace siervos de la congregación de Israel.
 
----
 ###### 1 
 Y aconteció que cuando oyeron  todos los reyes que estaban de este lado del Jordán, tanto en las montañas como en los llanos, y en toda la costa del gran mar delante del Líbano, los heteos, amorreos, cananeos, ferezeos, heveos y jebuseos,
 

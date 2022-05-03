@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 John the Baptist preaches in Judæa—Jesus is baptized, and the Father acclaims Him as His Beloved Son.
 
----
 ###### 1 
 In those days came John the Baptist, preaching in the wilderness of Judæa,
 

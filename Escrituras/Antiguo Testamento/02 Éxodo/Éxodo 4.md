@@ -1,22 +1,21 @@
 ---
 title: Éxodo 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 4
 [[Éxodo 3| <-- Éxodo 3]] | [[Éxodo]] | [[Éxodo 5|Éxodo 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová da señales a Moisés — Aarón es escogido como portavoz — Israel es el primogénito de Jehová y debe ser librado para servirle — El hijo de Moisés es circuncidado — Moisés y Aarón dirigen a Israel en adoración.
 
----
 ###### 1 
 Entonces Moisés respondió y dijo: He aquí que ellos no me creerán, ni oirán mi voz, porque dirán: No se te ha aparecido Jehová.
 

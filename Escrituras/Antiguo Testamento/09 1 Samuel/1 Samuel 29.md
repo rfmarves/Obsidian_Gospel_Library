@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 29
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 29
 [[1 Samuel 28| <-- 1 Samuel 28]] | [[1 Samuel]] | [[1 Samuel 30|1 Samuel 30 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/29?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel y los filisteos se reúnen para la guerra — Los príncipes filisteos hacen que David se vaya.
 
----
 ###### 1 
 Y los filisteos reunieron todas sus fuerzas en Afec, e Israel acampó junto a la fuente que está en Jezreel.
 

@@ -1,22 +1,21 @@
 ---
 title: Provérbios 28
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 28
 [[Provérbios 27| <-- Provérbios 27]] | [[Provérbios]] | [[Provérbios 29|Provérbios 29 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/28?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/28?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os ímpios fogem sem que ninguém os persiga — O que anda com integridade será salvo — O homem fiel terá abundância de bênçãos.
 
----
 ###### 1 
 Fogem os ímpios, sem que ninguém  persiga, mas qualquer justo está confiante como o filho do leão.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 13
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul discusses the high status of charity—Charity, a pure love, excels and exceeds almost all else.
 
----
 ###### 1 
 Though I speak with the tongues of men and of angels, and have not charity, I am become  sounding brass, or a tinkling cymbal.
 

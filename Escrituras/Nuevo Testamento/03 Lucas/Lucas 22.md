@@ -1,22 +1,21 @@
 ---
 title: Lucas 22
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 22
 [[Lucas 21| <-- Lucas 21]] | [[Lucas]] | [[Lucas 23|Lucas 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús instituye la Santa Cena — Padece en Getsemaní y es entregado y arrestado — Pedro niega conocerle — Golpean y escarnecen a Jesús.
 
----
 ###### 1 
 Y estaba cerca el día de la fiesta de los panes sin levadura, que se llama la Pascua.
 

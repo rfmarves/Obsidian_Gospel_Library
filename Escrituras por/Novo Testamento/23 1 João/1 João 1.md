@@ -1,22 +1,21 @@
 ---
 title: 1 João 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 João 1
 [[2 Pedro 3| <-- 2 Pedro 3]] | [[1 João]] | [[1 João 2|1 João 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos alcançam a comunhão com Deus pela obediência — Devemos confessar nossos pecados para obter o perdão.
 
----
 ###### 1 
 O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que contemplamos, e as nossas mãos tocaram da Palavra da vida
 

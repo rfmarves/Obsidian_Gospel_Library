@@ -1,22 +1,21 @@
 ---
 title: Sofonias 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Sofonias 2
 [[Sofonias 1| <-- Sofonias 1]] | [[Sofonias]] | [[Sofonias 3|Sofonias 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zeph/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zeph/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Buscai a justiça, buscai a mansidão — Juízo virá sobre os filisteus, os moabitas, os filhos de Amom, os etíopes e os assírios.
 
----
 ###### 1 
 Congregai-vos, sim, congregai-vos, ó nação não desejável,
 

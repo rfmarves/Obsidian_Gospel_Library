@@ -1,10 +1,11 @@
 ---
 title: sw Job 42
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 42
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/42?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job repents in dust and ashes—He sees the Lord with his eyes—The Lord chastises Job’s friends, accepts Job, blesses him, and makes his latter days greater than his beginning.
 
----
 ###### 1 
 Then Job answered the , and said,
 

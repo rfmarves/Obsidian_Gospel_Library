@@ -1,10 +1,11 @@
 ---
 title: sw D&C 9
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, Other ancient records are yet to be translated; 7–14, The Book of Mormon is translated by study and by spiritual confirmation.
 
----
 ###### 1 
 Behold, I say unto you, my son, that because you did not translate according to that which you desired of me, and did commence again to write for my servant, Joseph Smith, Jun., even so I would that ye should continue until you have finished this record, which I have entrusted unto him.
 

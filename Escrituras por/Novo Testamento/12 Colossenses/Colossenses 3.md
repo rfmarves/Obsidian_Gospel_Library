@@ -1,22 +1,21 @@
 ---
 title: Colossenses 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Colossenses 3
 [[Colossenses 2| <-- Colossenses 2]] | [[Colossenses]] | [[Colossenses 4|Colossenses 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/col/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/col/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Algumas vidas estão escondidas com Deus em Cristo — Os santos são exortados a santificar-se e a servir ao Senhor Jesus Cristo.
 
----
 ###### 1 
 Portanto, se  ressuscitastes com Cristo, buscai as coisas que são de cima, onde Cristo está assentado à destra de Deus.
 

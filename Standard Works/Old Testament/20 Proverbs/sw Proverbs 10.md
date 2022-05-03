@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 A wise son makes a glad father—The mouth of a righteous man is a well of life—He who utters slander is a fool—The desire of the righteous will be granted.
 
----
 ###### 1 
 The proverbs of Solomon. A wise son maketh a glad father: but a foolish son  the heaviness of his mother.
 

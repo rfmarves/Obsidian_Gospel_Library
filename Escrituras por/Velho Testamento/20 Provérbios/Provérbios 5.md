@@ -1,22 +1,21 @@
 ---
 title: Provérbios 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 5
 [[Provérbios 4| <-- Provérbios 4]] | [[Provérbios]] | [[Provérbios 6|Provérbios 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Quem se envolver com mulheres imorais descerá ao inferno — Alegra-te com a mulher da tua mocidade.
 
----
 ###### 1 
 Filho meu, atende à minha sabedoria; à minha inteligência inclina o teu ouvido;
 

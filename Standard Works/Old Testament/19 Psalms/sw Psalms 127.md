@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 127
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 127
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/127?lang=eng)
 
----
+```
 A Song of degrees for Solomon.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Children are a heritage from the Lord.
 
----
 ###### 1 
 Except the  build the house, they labour in vain that build it: except the  keep the city, the watchman waketh  in vain.
 

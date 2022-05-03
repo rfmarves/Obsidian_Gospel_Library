@@ -1,10 +1,11 @@
 ---
 title: sw Moses 7
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moses 7
@@ -15,11 +16,9 @@ people:
 Moses
 (December 1830)
 
----
-__Summary__
+> __Summary__
 Enoch teaches, leads the people, and moves mountains—The city of Zion is established—Enoch foresees the coming of the Son of Man, His atoning sacrifice, and the resurrection of the Saints—He foresees the Restoration, the Gathering, the Second Coming, and the return of Zion.
 
----
 ###### 1 
 And it came to pass that Enoch continued his speech, saying: Behold, our father Adam taught these things, and many have believed and become the sons of God, and many have believed not, and have perished in their sins, and are looking forth with fear, in torment, for the fiery indignation of the wrath of God to be poured out upon them.
 

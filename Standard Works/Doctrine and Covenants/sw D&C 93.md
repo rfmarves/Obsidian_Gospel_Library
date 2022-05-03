@@ -1,10 +1,11 @@
 ---
 title: sw D&C 93
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 93
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, All who are faithful will see the Lord; 6–18, John bore record that the Son of God went from grace to grace until He received a fulness of the glory of the Father; 19–20, Faithful men, going from grace to grace, will also receive of His fulness; 21–22, Those who are begotten through Christ are the Church of the Firstborn; 23–28, Christ received a fulness of all truth, and man by obedience may do likewise; 29–32, Man was in the beginning with God; 33–35, The elements are eternal, and man may receive a fulness of joy in the Resurrection; 36–37, The glory of God is intelligence; 38–40, Children are innocent before God because of the redemption of Christ; 41–53, The leading brethren are commanded to set their families in order.
 
----
 ###### 1 
 Verily, thus saith the Lord: It shall come to pass that every soul who forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my voice, and keepeth my commandments, shall see my face and know that I am;
 

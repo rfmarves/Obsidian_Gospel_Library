@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 66
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 66
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/66?lang=eng)
 
----
+```
 To the chief Musician, A Song or Psalm.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Praise and worship the Lord—He tests and tries men—Sacrifices are to be offered in His house.
 
----
 ###### 1 
 Make a joyful noise unto God, all ye lands:
 

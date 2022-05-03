@@ -1,22 +1,21 @@
 ---
 title: Levíticos 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 3
 [[Levíticos 2| <-- Levíticos 2]] | [[Levíticos]] | [[Levíticos 4|Levíticos 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se hacen las ofrendas de paz con animales sin defecto, cuya sangre se rocía sobre el altar — Se prohíbe a Israel comer la grasa y la sangre.
 
----
 ###### 1 
 Y si su ofrenda fuere un sacrificio de las ofrendas de paz, si se ofreciere de ganado vacuno, sea macho o hembra, sin defecto lo ofrecerá delante de Jehová.
 

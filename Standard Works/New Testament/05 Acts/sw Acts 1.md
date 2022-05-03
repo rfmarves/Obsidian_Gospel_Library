@@ -1,10 +1,11 @@
 ---
 title: sw Acts 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus ministers for forty days after His resurrection—The kingdom is to be restored to Israel at a later time—The Twelve are to bear witness in Jerusalem, Judæa, Samaria, and the uttermost parts of the earth—Jesus ascends into heaven—Matthias is chosen to fill the vacancy in the Twelve.
 
----
 ###### 1 
 The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,
 

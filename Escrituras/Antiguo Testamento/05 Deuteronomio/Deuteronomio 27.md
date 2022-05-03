@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 27
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 27
 [[Deuteronomio 26| <-- Deuteronomio 26]] | [[Deuteronomio]] | [[Deuteronomio 28|Deuteronomio 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de Israel cruzarán el Jordán, edificarán un altar y adorarán a Jehová — Ellos son el pueblo de Jehová, pero si no le obedecen, serán maldecidos.
 
----
 ###### 1 
 Y mandó Moisés, con los ancianos de Israel, al pueblo, diciendo: Guardaréis todos los mandamientos que yo os prescribo hoy.
 

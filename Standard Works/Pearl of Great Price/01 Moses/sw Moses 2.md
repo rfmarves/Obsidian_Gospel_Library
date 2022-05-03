@@ -1,10 +1,11 @@
 ---
 title: sw Moses 2
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moses 2
@@ -15,11 +16,9 @@ people:
 Moses
 (June–October 1830)
 
----
-__Summary__
+> __Summary__
 God creates the heavens and the earth—All forms of life are created—God makes man and gives him dominion over all else.
 
----
 ###### 1 
 And it came to pass that the Lord spake unto Moses, saying: Behold, I reveal unto you concerning this heaven, and this earth; write the words which I speak. I am the Beginning and the End, the Almighty God; by mine Only Begotten I created these things; yea, in the beginning I created the heaven, and the earth upon which thou standest.
 

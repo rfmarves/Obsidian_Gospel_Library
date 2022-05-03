@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 10
 [[1 Samuel 9| <-- 1 Samuel 9]] | [[1 Samuel]] | [[1 Samuel 11|1 Samuel 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Samuel unge a Saúl para ser príncipe sobre la heredad de Jehová (Israel) — Samuel manifiesta el don de vidente — Saúl profetiza entre los profetas y Jehová efectúa un cambio en el corazón de él — Saúl es escogido rey en Mizpa.
 
----
 ###### 1 
 Tomando entonces Samuel un frasco de aceite, lo derramó sobre la cabeza  y lo besó y le dijo: ¿No te ha ungido Jehová como príncipe sobre su heredad?
 

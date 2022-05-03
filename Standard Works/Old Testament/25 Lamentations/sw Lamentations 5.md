@@ -1,10 +1,11 @@
 ---
 title: sw Lamentations 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Lamentations 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lam/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah recites in prayer the sorrowful condition of Zion.
 
----
 ###### 1 
 Remember, O , what is come upon us: consider, and behold our reproach.
 

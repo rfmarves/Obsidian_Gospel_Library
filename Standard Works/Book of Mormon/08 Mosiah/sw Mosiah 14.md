@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 14
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Isaiah speaks messianically—The Messiah’s humiliation and sufferings are set forth—He makes His soul an offering for sin and makes intercession for transgressors—Compare Isaiah 53. About 148 B.C.
 
----
 ###### 1 
 Yea, even doth not Isaiah say: Who hath believed our report, and to whom is the arm of the Lord revealed?
 

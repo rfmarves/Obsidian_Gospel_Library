@@ -1,10 +1,11 @@
 ---
 title: sw Daniel 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Daniel 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Belshazzar and his revelers drink from the vessels of the temple—A hand writes upon the wall, telling of Belshazzar’s downfall—Daniel interprets the words and reproves the king for pride and idolatry—That night Babylon is conquered.
 
----
 ###### 1 
 Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.
 

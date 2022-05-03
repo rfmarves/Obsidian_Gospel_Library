@@ -1,22 +1,21 @@
 ---
 title: Isaías 44
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 44
 [[Isaías 43| <-- Isaías 43]] | [[Isaías]] | [[Isaías 45|Isaías 45 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/44?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/44?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Espírito do Senhor se derramará sobre os descendentes de Israel — Os ídolos de madeira são como lenha para a fogueira — O Senhor reunirá, abençoará e redimirá Israel e reconstruirá Jerusalém.
 
----
 ###### 1 
 Agora, pois, ouve, ó Jacó, servo meu, e  ó Israel, a quem escolhi.
 

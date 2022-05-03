@@ -1,22 +1,21 @@
 ---
 title: Oseas 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseas 3
 [[Oseas 2| <-- Oseas 2]] | [[Oseas]] | [[Oseas 4|Oseas 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los últimos días, Israel buscará a Jehová, y volverá a Él y participará de Su bondad.
 
----
 ###### 1 
 Y me dijo otra vez Jehová: Ve, ama a una mujer amada de  compañero, aunque adúltera, tal como Jehová ama a los hijos de Israel, los cuales miran a dioses ajenos y aman los panes de pasas.
 

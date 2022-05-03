@@ -1,22 +1,21 @@
 ---
 title: Nahúm 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nahúm 2
 [[Nahúm 1| <-- Nahúm 1]] | [[Nahúm]] | [[Nahúm 3|Nahúm 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/nahum/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/nahum/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nínive será destruida, lo cual es símbolo de lo que acontecerá en los últimos días.
 
----
 ###### 1 
 Un destructor ha subido contra ti; guarda la fortaleza, vigila el camino, fortifica tus lomos, fortalece mucho tu poder.
 

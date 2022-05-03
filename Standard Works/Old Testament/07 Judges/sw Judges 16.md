@@ -1,10 +1,11 @@
 ---
 title: sw Judges 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Samson carries away the doors of the gate of Gaza—He loves Delilah, who delivers him to the Philistines—He destroys a building, killing himself and 3,000 others.
 
----
 ###### 1 
 Then went Samson to Gaza, and saw there an harlot, and went in unto her.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abram returns from Egypt—He and Lot part—The Lord will make Abram’s seed as the dust of the earth in number—Abram settles in Hebron.
 
----
 ###### 1 
 And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.
 

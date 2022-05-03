@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 25
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 25
 [[2 Reis 24| <-- 2 Reis 24]] | [[2 Reis]] | [[1 Crônicas 1|1 Crônicas 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nabucodonosor sitia novamente Jerusalém — Zedequias é capturado, Jerusalém e o templo são destruídos, e a maioria do povo de Judá é levada para a Babilônia — Gedalias, deixado para governar os remanescentes, é morto — Os remanescentes fogem para o Egito — Jeoaquim é tratado com benignidade na Babilônia.
 
----
 ###### 1 
 E sucedeu que, no nono ano do seu reinado, no mês décimo, aos dez do mês, Nabucodonosor, rei de Babilônia, foi contra Jerusalém, ele e todo o seu exército, e acampou contra ela, e levantaram contra ela baluartes em redor.
 

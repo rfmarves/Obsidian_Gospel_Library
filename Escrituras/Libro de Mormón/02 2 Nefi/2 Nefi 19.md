@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 19
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 19
 [[2 Nefi 18| <-- 2 Nefi 18]] | [[2 Nefi]] | [[2 Nefi 20|2 Nefi 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Isaías habla del Mesías — El pueblo que andaba en tinieblas verá una gran luz — Un niño nos es nacido — Será el Príncipe de Paz y reinará sobre el trono de David — Compárese con Isaías 9. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Sin embargo, la obscuridad no será como lo fue en su oprobio, cuando él primero afligió ligeramente la tierra de Zabulón y la de Neftalí, y después la angustió más penosamente por la costa del mar Rojo, del otro lado del Jordán, en Galilea de las naciones.
 

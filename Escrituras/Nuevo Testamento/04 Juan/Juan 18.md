@@ -1,22 +1,21 @@
 ---
 title: Juan 18
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 18
 [[Juan 17| <-- Juan 17]] | [[Juan]] | [[Juan 19|Juan 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús es entregado y arrestado — Es interrogado y torturado, primero ante Anás y después ante Caifás — Pedro niega conocer a Jesús — Llevan a Jesús a comparecer ante Pilato.
 
----
 ###### 1 
 Cuando Jesús hubo dicho estas cosas, salió con sus discípulos al otro lado del arroyo Cedrón, donde había un huerto en el cual entró Jesús con sus discípulos.
 

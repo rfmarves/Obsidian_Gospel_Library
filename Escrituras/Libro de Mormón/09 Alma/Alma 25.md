@@ -1,22 +1,21 @@
 ---
 title: Alma 25
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 25
 [[Alma 24| <-- Alma 24]] | [[Alma]] | [[Alma 26|Alma 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se extienden las agresiones lamanitas — Los descendientes de los sacerdotes de Noé perecen, tal como lo profetizó Abinadí — Se convierten muchos lamanitas y se unen al pueblo de Anti-Nefi-Lehi — Creen en Cristo y observan la ley de Moisés. Aproximadamente 90–77 a.C.
 
----
 ###### 1 
 Y he aquí, aconteció que aquellos lamanitas se irritaron más porque habían matado a sus hermanos; por tanto, juraron vengarse de los nefitas; y por lo pronto no intentaron más destruir al pueblo de Anti-Nefi-Lehi,
 

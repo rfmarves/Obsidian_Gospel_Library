@@ -1,10 +1,11 @@
 ---
 title: sw Mormon 3
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mormon 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mormon cries repentance unto the Nephites—They gain a great victory and glory in their own strength—Mormon refuses to lead them, and his prayers for them are without faith—The Book of Mormon invites the twelve tribes of Israel to believe the gospel. About A.D. 360–62.
 
----
 ###### 1 
 And it came to pass that the Lamanites did not come to battle again until ten years more had passed away. And behold, I had employed my people, the Nephites, in preparing their lands and their arms against the time of battle.
 

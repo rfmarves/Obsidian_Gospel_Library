@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 10
 [[2 Crônicas 9| <-- 2 Crônicas 9]] | [[2 Crônicas]] | [[2 Crônicas 11|2 Crônicas 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo pede alívio, mas Roboão promete aumentar os fardos do povo — Israel rebela-se, e o reino é dividido.
 
----
 ###### 1 
 E foi Roboão a Siquém, porque todo o Israel tinha ido a Siquém para o fazerem rei.
 

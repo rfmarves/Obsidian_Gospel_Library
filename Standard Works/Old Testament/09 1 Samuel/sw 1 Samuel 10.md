@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Samuel anoints Saul to be captain over the Lord’s inheritance—Samuel manifests the gift of seership—Saul prophesies among the prophets, and the Lord gives him a new heart—He is chosen king at Mizpeh.
 
----
 ###### 1 
 Then Samuel took a vial of oil, and poured  upon his head, and kissed him, and said,  not because the  hath anointed thee  captain over his inheritance?
 

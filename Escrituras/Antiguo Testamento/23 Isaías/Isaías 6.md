@@ -1,22 +1,21 @@
 ---
 title: Isaías 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 6
 [[Isaías 5| <-- Isaías 5]] | [[Isaías]] | [[Isaías 7|Isaías 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Isaías ve al Señor — Son perdonados los pecados de Isaías — Él es llamado a profetizar — Profetiza que los judíos rechazarán las enseñanzas de Cristo — Un remanente volverá — Compárese con 2 Nefi 16.
 
----
 ###### 1 
 El año en que murió el rey Uzías, vi yo al Señor sentado sobre un trono alto y exaltado, y las faldas  llenaban el templo.
 

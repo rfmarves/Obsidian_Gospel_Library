@@ -1,10 +1,11 @@
 ---
 title: sw Daniel 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Daniel 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Daniel sees four beasts representing the kingdoms of men—He sees the ancient of days (Adam) to whom the Son of Man (Christ) will come—The kingdom will be given to the Saints forever.
 
----
 ###### 1 
 In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream,  told the sum of the matters.
 

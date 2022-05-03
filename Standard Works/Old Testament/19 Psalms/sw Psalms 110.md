@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 110
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 110
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/110?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A messianic psalm of David—Christ will sit on the Lord’s right hand—He will be a priest forever after the order of Melchizedek.
 
----
 ###### 1 
 The  said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
 

@@ -1,22 +1,21 @@
 ---
 title: Isaías 63
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 63
 [[Isaías 62| <-- Isaías 62]] | [[Isaías]] | [[Isaías 64|Isaías 64 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/63?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/63?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La Segunda Venida será un día de venganza y también el año de los redimidos de Jehová — Entonces, los santos alabarán a Jehová y lo reconocerán como su padre.
 
----
 ###### 1 
 ¿Quién es este que viene de Edom con vestidos de Bosra teñidos de rojo? ¿Este, vestido con esplendidez, que marcha en la grandeza de su poder? Yo, el que hablo en justicia, poderoso para salvar.
 

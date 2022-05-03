@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 146
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 146
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/146?lang=eng)
 
----
-__Summary__
+> __Summary__
 Happy are they whose hope is in the Lord—The Lord frees the prisoners, loves the righteous, and reigns forever.
 
----
 ###### 1 
 Praise ye the . Praise the , O my soul.
 

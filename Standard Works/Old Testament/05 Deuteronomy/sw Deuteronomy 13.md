@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord tests His people to see if they will worship false gods—Prophets, dreamers, relatives, or friends who advocate worship of false gods will be put to death—Idolatrous cities will be destroyed.
 
----
 ###### 1 
 If there arise among you a prophet, or a dreamer of dreams, and giveth thee a sign or a wonder,
 

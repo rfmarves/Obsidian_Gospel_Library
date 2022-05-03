@@ -1,22 +1,21 @@
 ---
 title: Amós 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 5
 [[Amós 4| <-- Amós 4]] | [[Amós]] | [[Amós 6|Amós 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se exhorta al pueblo de Israel a buscar a Jehová y a hacer el bien para que vivan — Sus sacrificios a los dioses falsos son abominables.
 
----
 ###### 1 
 Oíd esta palabra que yo levanto para lamentación contra vosotros, oh casa de Israel.
 

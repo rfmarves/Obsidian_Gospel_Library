@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 28
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 28
 [[1 Samuel 27| <-- 1 Samuel 27]] | [[1 Samuel]] | [[1 Samuel 29|1 Samuel 29 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/28?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/28?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Saul consulta uma adivinha em Endor pedindo-lhe revelação — Ela prediz a morte dele e de seus filhos e a derrota de Israel pelos filisteus.
 
----
 ###### 1 
 E sucedeu naqueles dias que, reunindo os filisteus os seus exércitos para a peleja, para fazer guerra contra Israel, disse Aquis a Davi: Sabe por certo que comigo sairás no exército, tu e os teus homens.
 

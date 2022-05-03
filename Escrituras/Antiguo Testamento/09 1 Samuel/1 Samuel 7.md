@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 7
 [[1 Samuel 6| <-- 1 Samuel 6]] | [[1 Samuel]] | [[1 Samuel 8|1 Samuel 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Samuel exhorta a Israel a apartarse de Astarot y de los baales, y a servir a Jehová — Israel ayuna y busca a Jehová — Los filisteos son sometidos — Samuel juzga a Israel.
 
----
 ###### 1 
 Y vinieron los de Quiriat-jearim, y subieron el arca de Jehová y la llevaron a casa de Abinadab,  en el collado; y santificaron a Eleazar, su hijo, para que guardase el arca de Jehová.
 

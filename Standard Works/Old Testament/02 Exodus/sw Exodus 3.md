@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord appears to Moses at the burning bush—Moses is called to deliver Israel from bondage—The Lord identifies Himself as the God of Abraham, Isaac, and Jacob, and as the Great I Am—He promises to smite Egypt and bring His people out with great wealth.
 
----
 ###### 1 
 Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God,  to Horeb.
 

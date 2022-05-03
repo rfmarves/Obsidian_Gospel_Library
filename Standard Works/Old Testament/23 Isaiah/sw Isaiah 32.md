@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 32
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 32
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/32?lang=eng)
 
----
-__Summary__
+> __Summary__
 A king (the Messiah) will reign in righteousness—The land of Israel will be a wilderness until the day of restoration and gathering.
 
----
 ###### 1 
 Behold, a king shall reign in righteousness, and princes shall rule in judgment.
 

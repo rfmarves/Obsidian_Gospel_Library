@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 27
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 27
 [[2 Nefi 26| <-- 2 Nefi 26]] | [[2 Nefi]] | [[2 Nefi 28|2 Nefi 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Tinieblas y apostasía cubrirán la tierra en los últimos días — El Libro de Mormón saldrá a luz — Tres testigos darán testimonio del libro — El hombre instruido dirá que no puede leer el libro sellado — El Señor ejecutará una obra maravillosa y un prodigio — Compárese con Isaías 29. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Mas he aquí que en los últimos días, o sea, en los días de los gentiles, sí, he aquí que todas las naciones de los gentiles, y también los judíos, tanto los que vengan a esta tierra como los que se hallen sobre otras tierras, sí, sobre todas las tierras del mundo, he aquí, estarán ebrios de iniquidad y de toda clase de abominaciones.
 

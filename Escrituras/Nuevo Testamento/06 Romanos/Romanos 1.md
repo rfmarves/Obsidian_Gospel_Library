@@ -1,22 +1,21 @@
 ---
 title: Romanos 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 1
 [[Hechos 28| <-- Hechos 28]] | [[Romanos]] | [[Romanos 2|Romanos 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Evangelio es el poder de Dios para salvación por medio de Jesucristo — La ira de Dios está sobre los culpables de asesinato, de prácticas homosexuales, de fornicación y de otros pecados si los que los cometen no se arrepienten.
 
----
 ###### 1 
 Pablo, siervo de Jesucristo, llamado  apóstol, apartado para el evangelio de Dios,
 

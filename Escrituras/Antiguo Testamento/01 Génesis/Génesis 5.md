@@ -1,22 +1,21 @@
 ---
 title: Génesis 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 5
 [[Génesis 4| <-- Génesis 4]] | [[Génesis]] | [[Génesis 6|Génesis 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Las generaciones de Adán son: Adán, Set, Enós, Cainán, Mahalaleel, Jared, Enoc (quien caminó con Dios), Matusalén, Lamec y Noé (quien engendró a Sem, a Cam y a Jafet).
 
----
 ###### 1 
 Este es el libro de las generaciones de Adán. El día en que creó Dios al hombre, a semejanza de Dios lo hizo.
 

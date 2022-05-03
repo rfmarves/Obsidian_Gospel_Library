@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 121
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 121
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/121?lang=eng)
 
----
+```
 A Song of degrees.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Help comes from the Lord—He is the guardian of Israel.
 
----
 ###### 1 
 I will lift up mine eyes unto the hills, from whence cometh my help.
 

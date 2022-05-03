@@ -1,27 +1,25 @@
 ---
 title: Salmos 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 8
 [[Salmos 7| <-- Salmos 7]] | [[Salmos]] | [[Salmos 9|Salmos 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/8?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor, sobre aGitite.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo messiânico de Davi — Ele diz que os bebês e as crianças louvam ao Senhor — Ele pergunta: Que é o homem mortal para que te lembres dele?
 
----
 ###### 1 
 Ó , nosso Senhor, quão admirável  o teu nome sobre toda a terra, pois puseste a tua glória sobre os céus!
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 26
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Levites are assigned as porters—They have charge of the treasures, serve as officers and judges, and conduct the outward business pertaining to the Israelites.
 
----
 ###### 1 
 Concerning the divisions of the porters: Of the Korhites  Meshelemiah the son of Kore, of the sons of Asaph.
 

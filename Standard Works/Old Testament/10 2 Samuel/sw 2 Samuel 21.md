@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord sends a famine—David understands that the famine came because Saul smote the Gibeonites, contrary to the oath of Israel—David delivers up seven sons of Saul to be hanged by the Gibeonites—Israel and the Philistines continue their wars.
 
----
 ###### 1 
 Then there was a famine in the days of David three years, year after year; and David inquired of the . And the  answered,  for Saul, and for  bloody house, because he slew the Gibeonites.
 

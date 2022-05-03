@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 David praises the Lord in a psalm of thanksgiving—The Lord is his fortress and savior, He is mighty and powerful in deliverance, He rewards men according to their righteousness, He shows mercy to the merciful, His way is perfect, He lives, and blessed is He.
 
----
 ###### 1 
 And David spake unto the  the words of this song in the day  the  had delivered him out of the hand of all his enemies, and out of the hand of Saul:
 

@@ -1,22 +1,21 @@
 ---
 title: Mateus 26
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 26
 [[Mateus 25| <-- Mateus 25]] | [[Mateus]] | [[Mateus 27|Mateus 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus é ungido — Ele celebra a Páscoa e institui o sacramento — Ele sofre no Getsêmani, é traído por Judas e é levado perante Caifás — Pedro nega que conhece Jesus.
 
----
 ###### 1 
 E aconteceu que, quando Jesus concluiu todos esses discursos, disse aos seus discípulos:
 

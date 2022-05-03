@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is commanded to donate property and build a tabernacle, the ark of testimony (with the mercy seat and cherubims), a table (for the shewbread), and the candlestick, all according to patterns shown to Moses on the mount.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

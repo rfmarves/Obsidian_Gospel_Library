@@ -1,10 +1,11 @@
 ---
 title: sw Ether 7
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ether 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Orihah reigns in righteousness—Amid usurpation and strife, the rival kingdoms of Shule and Cohor are set up—Prophets condemn the wickedness and idolatry of the people, who then repent.
 
----
 ###### 1 
 And it came to pass that Orihah did execute judgment upon the land in righteousness all his days, whose days were exceedingly many.
 

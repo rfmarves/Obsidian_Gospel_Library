@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 17
 [[1 Crónicas 16| <-- 1 Crónicas 16]] | [[1 Crónicas]] | [[1 Crónicas 18|1 Crónicas 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Natán, al principio, aprueba que David construya una casa para Jehová, pero después se lo prohíbe — Un hijo de David construirá el templo — Se predice el triunfo de Israel — David agradece a Jehová Su bondad para con Israel.
 
----
 ###### 1 
 Y aconteció que cuando David ya moraba en su casa, dijo David al profeta Natán: He aquí, yo habito en casa de cedro mientras el arca del convenio de Jehová está bajo cortinas.
 

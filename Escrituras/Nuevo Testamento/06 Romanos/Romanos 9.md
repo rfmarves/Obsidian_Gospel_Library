@@ -1,22 +1,21 @@
 ---
 title: Romanos 9
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 9
 [[Romanos 8| <-- Romanos 8]] | [[Romanos]] | [[Romanos 10|Romanos 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo explica cómo funciona la ley de la elección (preordenación) — El pueblo de Israel es escogido (preordenado) para recibir la adopción, los convenios, las promesas y las bendiciones del Evangelio; sin embargo, no todos los que son de Israel son israelitas — Ellos deben procurar sus bendiciones por la fe — Los gentiles también alcanzan la justicia y la salvación por la fe.
 
----
 ###### 1 
 Verdad digo en Cristo, no miento, y mi conciencia me da testimonio en el Espíritu Santo,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 45
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 45
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/45?lang=eng)
 
----
-__Summary__
+> __Summary__
 Portions of land will be provided for the sanctuary and the dwellings of the priests—The people are to offer their sacrifices and oblations and keep their feasts.
 
----
 ###### 1 
 Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the , an holy portion of the land: the length  the length of five and twenty thousand  and the breadth  ten thousand. This  holy in all the borders thereof round about.
 

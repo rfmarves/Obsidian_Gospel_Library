@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 16
 [[1 Samuel 15| <-- 1 Samuel 15]] | [[1 Samuel]] | [[1 Samuel 17|1 Samuel 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová escoge a David, de Belén, como rey — Es ungido por Samuel — Saúl escoge a David como su acompañante y paje de armas.
 
----
 ###### 1 
 Y dijo Jehová a Samuel: ¿Hasta cuándo has tú de llorar por Saúl, habiéndolo yo desechado para que no reine sobre Israel? Llena tu cuerno de aceite y ve; te enviaré a Isaí de Belén, porque de entre sus hijos me he provisto de un rey.
 

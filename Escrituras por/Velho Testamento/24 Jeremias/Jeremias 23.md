@@ -1,22 +1,21 @@
 ---
 title: Jeremias 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 23
 [[Jeremias 22| <-- Jeremias 22]] | [[Jeremias]] | [[Jeremias 24|Jeremias 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os remanescentes de Israel serão reunidos nos últimos dias — O Renovo, que é o Rei (o Messias), reinará em retidão — Os falsos profetas que ensinam mentiras serão amaldiçoados.
 
----
 ###### 1 
 Ai dos pastores que destroem e dispersam as ovelhas do meu pasto, diz o .
 

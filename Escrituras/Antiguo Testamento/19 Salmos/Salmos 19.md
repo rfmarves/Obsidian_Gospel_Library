@@ -1,27 +1,25 @@
 ---
 title: Salmos 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 19
 [[Salmos 18| <-- Salmos 18]] | [[Salmos]] | [[Salmos 20|Salmos 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/19?lang=spa)
 
----
+```
 Al músico principal. Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David testifica: Los cielos cuentan la gloria de Dios, la ley de Jehová es perfecta y los decretos de Jehová son todos verdaderos y justos.
 
----
 ###### 1 
 
 

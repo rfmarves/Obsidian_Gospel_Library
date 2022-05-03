@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 28
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 The sons of Mosiah go to preach to the Lamanites—Using the two seer stones, Mosiah translates the Jaredite plates. About 92 B.C.
 
----
 ###### 1 
 Now it came to pass that after the sons of Mosiah had done all these things, they took a small number with them and returned to their father, the king, and desired of him that he would grant unto them that they might, with these whom they had selected, go up to the land of Nephi that they might preach the things which they had heard, and that they might impart the word of God to their brethren, the Lamanites—
 

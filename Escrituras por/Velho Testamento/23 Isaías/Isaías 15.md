@@ -1,22 +1,21 @@
 ---
 title: Isaías 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 15
 [[Isaías 14| <-- Isaías 14]] | [[Isaías]] | [[Isaías 16|Isaías 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moabe ficará desolada, e seu povo uivará e chorará.
 
----
 ###### 1 
 Peso de Moabe. Certamente de noite foi assolada Ar de Moabe,  foi destruída; certamente de noite foi assolada Quir de Moabe,  foi destruída.
 

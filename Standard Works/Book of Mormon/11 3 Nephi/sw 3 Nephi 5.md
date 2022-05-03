@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 5
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Nephites repent and forsake their sins—Mormon writes the history of his people and declares the everlasting word to them—Israel will be gathered in from her long dispersion. About A.D. 22–26.
 
----
 ###### 1 
 And now behold, there was not a living soul among all the people of the Nephites who did doubt in the least the words of all the holy prophets who had spoken; for they knew that it must needs be that they must be fulfilled.
 

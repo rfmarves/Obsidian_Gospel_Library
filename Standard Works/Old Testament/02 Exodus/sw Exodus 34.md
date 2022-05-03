@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 34
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 34
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/34?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses hews new tables of stone—He goes up into Mount Sinai for forty days—The Lord proclaims His name and attributes and reveals His law—He makes another covenant with Israel—The skin of Moses’ face shines, and he wears a veil.
 
----
 ###### 1 
 And the  said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon  tables the words that were in the first tables, which thou brakest.
 

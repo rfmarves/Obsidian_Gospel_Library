@@ -1,22 +1,21 @@
 ---
 title: Neemias 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Neemias 7
 [[Neemias 6| <-- Neemias 6]] | [[Neemias]] | [[Neemias 8|Neemias 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Tomam-se providências para a proteção de Jerusalém — Relaciona-se a genealogia dos judeus que voltaram da Babilônia — Nega-se a concessão do sacerdócio aos sacerdotes que não têm registros genealógicos.
 
----
 ###### 1 
 Sucedeu mais que, depois que o muro fora edificado, eu levantei as portas; e foram estabelecidos os porteiros, e os cantores, e os levitas.
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 138
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 138
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/138?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–10, President Joseph F. Smith ponders upon the writings of Peter and our Lord’s visit to the spirit world; 11–24, President Smith sees the righteous dead assembled in paradise and Christ’s ministry among them; 25–37, He sees how the preaching of the gospel was organized among the spirits; 38–52, He sees Adam, Eve, and many of the holy prophets in the spirit world who considered their spirit state before their resurrection as a bondage; 53–60, The righteous dead of this day continue their labors in the world of spirits.
 
----
 ###### 1 
 On the third of October, in the year nineteen hundred and eighteen, I sat in my room pondering over the scriptures;
 

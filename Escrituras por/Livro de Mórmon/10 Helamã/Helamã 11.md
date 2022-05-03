@@ -1,22 +1,21 @@
 ---
 title: Helamã 11
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamã 11
 [[Helamã 10| <-- Helamã 10]] | [[Helamã]] | [[Helamã 12|Helamã 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Néfi persuade o Senhor a substituir a guerra pela fome — Muitos perecem — Eles arrependem-se e Néfi suplica ao Senhor que faça chover — Néfi e Leí recebem muitas revelações — Os ladrões de Gadiânton tornam-se fortes na terra. Aproximadamente 20–6 a.C.
 
----
 ###### 1 
 E então aconteceu que, no septuagésimo segundo ano do governo dos juízes, as discórdias aumentaram de tal forma que houve guerras por toda a terra entre todo o povo de Néfi.
 

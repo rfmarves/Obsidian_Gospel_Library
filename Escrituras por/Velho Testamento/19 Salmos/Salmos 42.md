@@ -1,27 +1,25 @@
 ---
 title: Salmos 42
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 42
 [[Salmos 41| <-- Salmos 41]] | [[Salmos]] | [[Salmos 43|Salmos 43 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/42?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/42?lang=por)
 
----
+```
 Masquil para o músico-mor, entre os filhos de Coré.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 A alma dos justos tem sede de Deus — Os iníquos dizem: Onde está o teu Deus?
 
----
 ###### 1 
 Assim como o cervo brama pelas correntes das águas, assim brama a minha alma por ti, ó Deus!
 

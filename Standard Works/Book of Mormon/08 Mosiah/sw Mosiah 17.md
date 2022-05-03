@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 17
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Alma believes and writes the words of Abinadi—Abinadi suffers death by fire—He prophesies disease and death by fire upon his murderers. About 148 B.C.
 
----
 ###### 1 
 And now it came to pass that when Abinadi had finished these sayings, that the king commanded that the priests should take him and cause that he should be put to death.
 

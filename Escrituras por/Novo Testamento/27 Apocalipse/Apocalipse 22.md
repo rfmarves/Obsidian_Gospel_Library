@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 22
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 22
 [[Apocalipse 21| <-- Apocalipse 21]] | [[Apocalipse]] |
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos reinarão em celeste esplendor — Cristo virá, e os homens serão julgados — Bem-aventurados os que guardam os Seus mandamentos.
 
----
 ###### 1 
 E mostrou-me o rio puro da água da vida, claro como cristal, que procedia do trono de Deus e do Cordeiro.
 

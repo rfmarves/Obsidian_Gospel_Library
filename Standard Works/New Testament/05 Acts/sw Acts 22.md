@@ -1,10 +1,11 @@
 ---
 title: sw Acts 22
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul recounts the story of his conversion and also tells of seeing Jesus in a vision—He is accorded some privileges as a Roman citizen.
 
----
 ###### 1 
 Men, brethren, and fathers, hear ye my defence  now unto you.
 

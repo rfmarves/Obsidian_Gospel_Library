@@ -1,10 +1,11 @@
 ---
 title: sw Alma 23
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Religious freedom is proclaimed—The Lamanites in seven lands and cities are converted—They call themselves Anti-Nephi-Lehies and are freed from the curse—The Amalekites and the Amulonites reject the truth. About 90–77 B.C.
 
----
 ###### 1 
 Behold, now it came to pass that the king of the Lamanites sent a proclamation among all his people, that they should not lay their hands on Ammon, or Aaron, or Omner, or Himni, nor either of their brethren who should go forth preaching the word of God, in whatsoever place they should be, in any part of their land.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 11
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob saw his Redeemer—The law of Moses typifies Christ and proves He will come. About 559–545 B.C.
 
----
 ###### 1 
 And now, Jacob spake many more things to my people at that time; nevertheless only these things have I caused to be written, for the things which I have written sufficeth me.
 

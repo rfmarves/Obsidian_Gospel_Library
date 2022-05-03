@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Balaam sees in vision and prophesies of the destiny of Israel—He prophesies of the Messiah: There will come a Star out of Jacob, and a Sceptre will rise out of Israel.
 
----
 ###### 1 
 And when Balaam saw that it pleased the  to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.
 

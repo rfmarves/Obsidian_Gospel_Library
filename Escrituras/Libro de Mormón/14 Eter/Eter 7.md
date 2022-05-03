@@ -1,22 +1,21 @@
 ---
 title: Eter 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eter 7
 [[Eter 6| <-- Eter 6]] | [[Eter]] | [[Eter 8|Eter 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Oríah reina con rectitud — Se establecen los reinos rivales de Shule y Cohor en medio de la usurpación y las contiendas — Los profetas condenan la iniquidad y la idolatría del pueblo, que luego se arrepiente.
 
----
 ###### 1 
 Y ocurrió que Oríah juzgó sobre la tierra con rectitud todos sus días, que fueron muchos.
 

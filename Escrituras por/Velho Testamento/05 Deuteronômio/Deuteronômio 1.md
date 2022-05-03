@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 1
 [[Números 36| <-- Números 36]] | [[Deuteronômio]] | [[Deuteronômio 2|Deuteronômio 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés começa a relatar tudo o que sucedeu a Israel durante os quarenta anos no deserto — Os filhos de Israel recebem o mandamento de entrar em Canaã e tomar posse da terra — São escolhidos juízes e governantes para auxiliar Moisés — Os espias de Israel fazem um relato ruim — Os adultos de Israel perecerão — Os amorreus derrotam os exércitos de Israel.
 
----
 ###### 1 
 Estas  as palavras que Moisés falou a todo o Israel além do Jordão, no deserto, na planície defronte  Vermelho, entre Parã e Tôfel, e Labã, e Hazerote, e Di-Zaabe.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Acts 20
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul raises Eutychus from death—Paul is free from the blood of all men—He predicts apostasy from within the Church—He reveals a teaching from Jesus, It is more blessed to give than to receive.
 
----
 ###### 1 
 And after the uproar was ceased, Paul called unto  the disciples, and embraced  and departed for to go into Macedonia.
 

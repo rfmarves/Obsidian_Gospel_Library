@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 45
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 45
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/45?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah promises Baruch that his life will be preserved.
 
----
 ###### 1 
 The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,
 

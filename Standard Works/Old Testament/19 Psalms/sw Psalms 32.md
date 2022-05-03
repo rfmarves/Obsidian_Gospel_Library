@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 32
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 32
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/32?lang=eng)
 
----
+```
 A Psalm of David, Maschil.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David says, Blessed is the man unto whom the Lord imputes not iniquity—David acknowledges his sin—He recommends that the righteous be glad in the Lord and rejoice.
 
----
 ###### 1 
 Blessed  transgression  forgiven,  sin  covered.
 

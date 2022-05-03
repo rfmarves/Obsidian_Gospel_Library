@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 David fetches the ark from Kirjath-jearim—Uzza is slain by the Lord when he steadies the ark—The house of Obed-edom prospers because they care for the ark.
 
----
 ###### 1 
 And David consulted with the captains of thousands and hundreds,  with every leader.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 David’s mighty men are cataloged—The armies of the tribes of Israel join David at Hebron—Israel rejoices because of King David.
 
----
 ###### 1 
 Now these  they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they  among the mighty men, helpers of the war.
 

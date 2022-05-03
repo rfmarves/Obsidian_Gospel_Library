@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joshua recites how the Lord has blessed and led Israel—Joshua and all the people covenant to choose the Lord and serve Him only—Joshua and Eleazar die—The bones of Joseph, taken from Egypt, are buried in Shechem.
 
----
 ###### 1 
 And Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, and for their heads, and for their judges, and for their officers; and they presented themselves before God.
 

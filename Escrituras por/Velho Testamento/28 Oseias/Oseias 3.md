@@ -1,22 +1,21 @@
 ---
 title: Oseias 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseias 3
 [[Oseias 2| <-- Oseias 2]] | [[Oseias]] | [[Oseias 4|Oseias 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel buscará ao Senhor, voltará para Ele e participará de Sua bondade nos últimos dias.
 
----
 ###### 1 
 E o  me disse: Vai outra vez, ama uma mulher, amada de  amigo, contudo adúltera, como o  ama os filhos de Israel; mas eles olham para outros deuses, e amam os bolos de passas.
 

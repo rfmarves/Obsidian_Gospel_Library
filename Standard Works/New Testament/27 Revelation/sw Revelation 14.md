@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 14
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lamb will stand upon Mount Zion—The gospel will be restored in the last days by angelic ministry—The Son of Man will harvest the earth.
 
----
 ###### 1 
 And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty  four thousand, having his Father’s name written in their foreheads.
 

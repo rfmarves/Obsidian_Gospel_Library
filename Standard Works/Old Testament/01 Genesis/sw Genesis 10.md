@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 The descendants of Noah are Japheth, whose descendants are Gentiles; Ham, whose descendants include the Canaanites; and Shem, of whom came Peleg (in whose days the earth was divided).
 
----
 ###### 1 
 Now these  the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.
 

@@ -1,22 +1,21 @@
 ---
 title: Oseias 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseias 7
 [[Oseias 6| <-- Oseias 6]] | [[Oseias]] | [[Oseias 8|Oseias 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel é repreendido por seus muitos pecados — Efraim é disperso entre os povos.
 
----
 ###### 1 
 Quando eu quis sarar Israel, se descobriu a iniquidade de Efraim, como também as maldades de Samaria, porque praticaram a falsidade; e o ladrão entra, e a tropa dos salteadores despoja por fora.
 

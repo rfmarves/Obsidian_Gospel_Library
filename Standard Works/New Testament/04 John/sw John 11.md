@@ -1,10 +1,11 @@
 ---
 title: sw John 11
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus testifies that He is the Resurrection and the Life—Mary and Martha testify of Him—He raises Lazarus from the dead—Caiaphas speaks prophetically of the death of Jesus.
 
----
 ###### 1 
 Now a certain  was sick,  Lazarus, of Bethany, the town of Mary and her sister Martha.
 

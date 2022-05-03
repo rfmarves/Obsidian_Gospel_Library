@@ -1,27 +1,25 @@
 ---
 title: Salmos 26
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 26
 [[Salmos 25| <-- Salmos 25]] | [[Salmos]] | [[Salmos 27|Salmos 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/26?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi diz que se conduziu com integridade e obediência — Ele ama a casa do Senhor.
 
----
 ###### 1 
 Julga-me, , pois tenho andado em minha integridade; tenho confiado também no ; não vacilarei.
 

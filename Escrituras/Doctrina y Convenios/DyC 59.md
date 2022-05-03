@@ -1,22 +1,21 @@
 ---
 title: DyC 59
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 59
 [[DyC 58| <-- DyC 58]] | [[DyC]] | [[DyC 60|DyC 60 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/59?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/59?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, Los santos fieles de Sion serán bendecidos; 5–8, Han de amar y servir al Señor y guardar Sus mandamientos; 9–19, al santificar el día del Señor, los santos son bendecidos temporal y espiritualmente; 20–24, Se promete a los justos paz en este mundo y vida eterna en el mundo venidero.
 
----
 ###### 1 
 He aquí, dice el Señor, benditos son aquellos que han subido a esta tierra con la mira puesta únicamente en mi gloria, de acuerdo con mis mandamientos.
 

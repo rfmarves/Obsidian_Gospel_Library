@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 26
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 26
 [[1 Crônicas 25| <-- 1 Crônicas 25]] | [[1 Crônicas]] | [[1 Crônicas 27|1 Crônicas 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os levitas são designados porteiros — Eles ficam encarregados dos tesouros, servem como oficiais e juízes, e cuidam dos negócios externos dos Israelitas.
 
----
 ###### 1 
 Quanto à divisão dos porteiros: dos coraítas, Meselemias, filho de Coré, dos filhos de Asafe.
 

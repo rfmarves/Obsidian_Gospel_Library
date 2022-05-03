@@ -1,10 +1,11 @@
 ---
 title: sw 2 Corinthians 9
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Corinthians 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 God loves and rewards a cheerful giver—Thanks be to God for His unspeakable gift.
 
----
 ###### 1 
 For as touching the ministering to the saints, it is superfluous for me to write to you:
 

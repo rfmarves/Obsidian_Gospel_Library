@@ -1,22 +1,21 @@
 ---
 title: Filipenses 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Filipenses 2
 [[Filipenses 1| <-- Filipenses 1]] | [[Filipenses]] | [[Filipenses 3|Filipenses 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/philip/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/philip/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos devem ter uma só mente e um só espírito — Todo joelho se dobrará diante de Cristo — Os santos devem trabalhar por sua salvação — Paulo enfrenta o martírio com alegria.
 
----
 ###### 1 
 Portanto, se há algum conforto em Cristo, se alguma consolação de amor, se alguma comunhão de Espírito, se alguns entranháveis afetos e compaixões,
 

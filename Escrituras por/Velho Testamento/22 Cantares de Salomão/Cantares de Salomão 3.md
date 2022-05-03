@@ -1,22 +1,21 @@
 ---
 title: Cantares de Salomão 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Cantares de Salomão 3
 [[Cantares de Salomão 2| <-- Cantares de Salomão 2]] | [[Cantares de Salomão]] | [[Cantares de Salomão 4|Cantares de Salomão 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Apresenta-se uma canção de amor a respeito de Salomão.
 
----
 ###### 1 
 De noite busquei em minha cama a quem ama a minha alma; busquei-o, e não o achei.
 

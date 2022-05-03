@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 24
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 24
 [[1 Crônicas 23| <-- 1 Crônicas 23]] | [[1 Crônicas]] | [[1 Crônicas 25|1 Crônicas 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Aarão e o restante dos filhos de Levi são divididos em grupos e designados a seus deveres por sorteio.
 
----
 ###### 1 
 E quanto aos filhos de Aarão,  as suas divisões: os filhos de Aarão  Nadabe, e Abiú, e Eleazar, e Itamar.
 

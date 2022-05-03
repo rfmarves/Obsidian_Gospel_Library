@@ -1,22 +1,21 @@
 ---
 title: Jeremías 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 13
 [[Jeremías 12| <-- Jeremías 12]] | [[Jeremías]] | [[Jeremías 14|Jeremías 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel y Judá serán como un cinto podrido y deteriorado — Se manda a los del pueblo que se arrepientan — Judá será llevada cautiva y será esparcida como tamo.
 
----
 ###### 1 
 Así me dijo Jehová: Ve y cómprate un cinto de lino, y cíñelo sobre tus lomos y no lo metas en agua.
 

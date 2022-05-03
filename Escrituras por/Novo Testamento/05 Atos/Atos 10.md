@@ -1,22 +1,21 @@
 ---
 title: Atos 10
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 10
 [[Atos 9| <-- Atos 9]] | [[Atos]] | [[Atos 11|Atos 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Um anjo ministra a Cornélio — Pedro, em uma visão, recebe o mandamento de levar o evangelho aos gentios — O evangelho é ensinado por testemunhas — O Espírito Santo desce sobre os gentios.
 
----
 ###### 1 
 E havia em Cesareia um  homem por nome Cornélio, centurião da coorte chamada italiana,
 

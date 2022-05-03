@@ -1,10 +1,11 @@
 ---
 title: sw Luke 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus fasts forty days and is tempted by the devil—Jesus announces His divine sonship in Nazareth and is rejected—He casts out a devil in Capernaum, heals Peter’s mother-in-law, and preaches and heals throughout Galilee.
 
----
 ###### 1 
 And Jesus being full of the Holy Ghost returned from Jordan, and was led by the Spirit into the wilderness,
 

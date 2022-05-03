@@ -1,22 +1,21 @@
 ---
 title: 1 Pedro 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Pedro 4
 [[1 Pedro 3| <-- 1 Pedro 3]] | [[1 Pedro]] | [[1 Pedro 5|1 Pedro 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pedro explica por qué se predica el Evangelio a los muertos — Los santos deben hablar conforme a las palabras de Dios — Los justos serán puestos a prueba en todas las cosas.
 
----
 ###### 1 
 Puesto que Cristo ha padecido por nosotros en la carne, vosotros también armaos del mismo pensamiento; pues el que ha padecido en la carne, ha dejado el pecado;
 

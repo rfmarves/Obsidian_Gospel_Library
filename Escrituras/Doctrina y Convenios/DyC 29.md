@@ -1,22 +1,21 @@
 ---
 title: DyC 29
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 29
 [[DyC 28| <-- DyC 28]] | [[DyC]] | [[DyC 30|DyC 30 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–8, Cristo recoge a Sus escogidos; 9–11, Su venida iniciará el Milenio; 12–13, Los Doce juzgarán a todo Israel; 14–21, Señales, plagas y desolaciones precederán a la Segunda Venida; 22–28, La última resurrección y el juicio final se verificarán después del Milenio; 29–35, Para el Señor todas las cosas son espirituales; 36–39, El diablo y sus huestes fueron expulsados del cielo para tentar al hombre; 40–45, La Caída y la Expiación traen la salvación; 46–50, Los niños pequeños son redimidos por medio de la Expiación.
 
----
 ###### 1 
 Escuchad la voz de Jesucristo, vuestro Redentor, el Gran , cuyo brazo de misericordia ha expiado vuestros pecados;
 

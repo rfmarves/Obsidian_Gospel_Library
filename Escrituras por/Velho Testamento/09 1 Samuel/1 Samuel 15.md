@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 15
 [[1 Samuel 14| <-- 1 Samuel 14]] | [[1 Samuel]] | [[1 Samuel 16|1 Samuel 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ordena-se que Saul ataque e destrua os amalequitas e tudo o que eles possuem — Ele poupa alguns animais para sacrifícios — Saul é rejeitado como rei, sendo-lhe dito que obedecer é melhor do que sacrificar — Samuel destrói Agague.
 
----
 ###### 1 
 Então disse Samuel a Saul: Enviou-me o  para ungir-te rei sobre o seu povo, sobre Israel; ouve, pois, agora a voz das palavras do .
 

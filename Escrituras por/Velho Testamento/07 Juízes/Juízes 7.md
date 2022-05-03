@@ -1,22 +1,21 @@
 ---
 title: Juízes 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 7
 [[Juízes 6| <-- Juízes 6]] | [[Juízes]] | [[Juízes 8|Juízes 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O exército de Gideão é reduzido a trezentos homens — Eles atemorizam os exércitos midianitas com trombetas e tochas — Os midianitas lutam entre si, fogem e são derrotados por Israel.
 
----
 ###### 1 
 Então Jerubaal (que  Gideão) se levantou de madrugada, e todo o povo que com ele  e acamparam junto à fonte de Harode; de maneira que tinha o acampamento dos midianitas para o norte, junto ao outeiro de Moré no vale.
 

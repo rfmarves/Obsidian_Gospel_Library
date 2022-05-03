@@ -1,10 +1,11 @@
 ---
 title: sw Hosea 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hosea 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel, as a child, was called out of Egypt in similitude of our Lord, as a child, coming out of Egypt—But Ephraim turns away from the Lord.
 
----
 ###### 1 
 When Israel  a child, then I loved him, and called my son out of Egypt.
 

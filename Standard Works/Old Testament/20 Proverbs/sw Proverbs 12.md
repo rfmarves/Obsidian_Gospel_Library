@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 A virtuous woman is a crown to her husband—The way of a fool is right in his own eyes—Lying lips are an abomination to the Lord.
 
----
 ###### 1 
 Whoso loveth instruction loveth knowledge: but he that hateth reproof  brutish.
 

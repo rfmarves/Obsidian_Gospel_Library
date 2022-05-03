@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 33
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 33
 [[Ezequiel 32| <-- Ezequiel 32]] | [[Ezequiel]] | [[Ezequiel 34|Ezequiel 34 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/33?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/33?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os atalaias que erguem a voz de advertência salvam a sua própria alma — Os pecadores arrependidos são salvos — Os justos que se voltam para o pecado são condenados — Os judeus de Jerusalém são destruídos por causa de seus pecados.
 
----
 ###### 1 
 E veio a mim a palavra do , dizendo:
 

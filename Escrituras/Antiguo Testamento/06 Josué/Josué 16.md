@@ -1,22 +1,21 @@
 ---
 title: Josué 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 16
 [[Josué 15| <-- Josué 15]] | [[Josué]] | [[Josué 17|Josué 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de José (Efraín y Manasés) reciben sus heredades — Algunos cananeos se quedan a vivir en medio de Efraín.
 
----
 ###### 1 
 Y le tocó en suerte a los hijos de José desde el Jordán de Jericó hasta las aguas de Jericó hacia el oriente, hacia el desierto que sube de Jericó por la región montañosa de Bet-el.
 

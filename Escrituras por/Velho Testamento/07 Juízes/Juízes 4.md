@@ -1,22 +1,21 @@
 ---
 title: Juízes 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 4
 [[Juízes 3| <-- Juízes 3]] | [[Juízes]] | [[Juízes 5|Juízes 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Débora, uma profetisa, julga Israel — Ela e Baraque libertam Israel dos cananeus — Jael, uma mulher, mata Sísera, o cananeu.
 
----
 ###### 1 
 Porém os filhos de Israel tornaram a fazer o  mau aos olhos do , depois de falecer Eúde.
 

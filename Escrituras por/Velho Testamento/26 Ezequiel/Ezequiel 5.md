@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 5
 [[Ezequiel 4| <-- Ezequiel 4]] | [[Ezequiel]] | [[Ezequiel 6|Ezequiel 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O julgamento de Jerusalém incluirá fome, pestilência, guerra e a dispersão de seus habitantes.
 
----
 ###### 1 
 E tu, ó filho do homem, toma uma faca afiada, uma navalha de barbeiro, e tomá-la-ás, e a farás passar por cima da tua cabeça e da tua barba; então tomarás uma balança, e repartirás os 
 

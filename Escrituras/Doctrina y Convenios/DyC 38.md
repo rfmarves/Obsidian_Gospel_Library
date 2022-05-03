@@ -1,22 +1,21 @@
 ---
 title: DyC 38
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 38
 [[DyC 37| <-- DyC 37]] | [[DyC]] | [[DyC 39|DyC 39 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/38?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/38?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–6, Cristo creó todas las cosas; 7–8, Él se halla en medio de Sus santos, que pronto lo verán; 9–12, Toda carne se ha corrompido delante de Él; 13–22, Él ha reservado una tierra prometida para Sus santos por el tiempo y por la eternidad; 23–27, Se manda a los santos ser uno y estimarse unos a otros como hermanos; 28–29, Se predicen guerras; 30–33, Se dará a los santos poder de lo alto e irán a todas las naciones; 34–42, Se manda a los miembros de la Iglesia velar por los pobres y por los necesitados, y buscar las riquezas de la eternidad.
 
----
 ###### 1 
 Así dice el Señor vuestro Dios, Jesucristo, el Gran , el Alfa y la Omega, el principio y el fin, el mismo que contempló la vasta expansión de la eternidad y todas las huestes seráficas del cielo antes que el mundo fuese hecho;
 

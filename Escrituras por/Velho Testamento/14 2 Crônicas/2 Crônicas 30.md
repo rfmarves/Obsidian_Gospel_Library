@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 30
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 30
 [[2 Crônicas 29| <-- 2 Crônicas 29]] | [[2 Crônicas]] | [[2 Crônicas 31|2 Crônicas 31 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/30?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/30?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ezequias convida todo o Israel para uma Páscoa solene em Jerusalém — Alguns aceitam a convocação; outros riem dele com zombaria — Os israelitas fiéis adoram o Senhor em Jerusalém.
 
----
 ###### 1 
 Depois disso, Ezequias enviou  por todo o Israel e Judá, e escreveu também cartas a Efraim e a Manassés para que viessem à casa do  em Jerusalém, para celebrarem a páscoa ao  Deus de Israel.
 

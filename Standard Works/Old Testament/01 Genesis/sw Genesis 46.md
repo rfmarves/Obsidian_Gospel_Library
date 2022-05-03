@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 46
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 46
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/46?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord sends Jacob and his family of seventy souls to Egypt—The descendants of Jacob are named—Joseph meets Jacob.
 
----
 ###### 1 
 And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac.
 

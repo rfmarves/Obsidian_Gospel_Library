@@ -1,22 +1,21 @@
 ---
 title: Gênesis 25
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 25
 [[Gênesis 24| <-- Gênesis 24]] | [[Gênesis]] | [[Gênesis 26|Gênesis 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Abraão se casa novamente, tem descendência, morre e é sepultado na cova de Macpela — Sua descendência por meio de Ismael é enumerada — Rebeca concebe, e Jacó e Esaú lutam em seu ventre — O Senhor revela o destino deles a Rebeca — Esaú vende sua primogenitura por um guisado de lentilhas.
 
----
 ###### 1 
 E Abraão tomou  mulher; e o seu nome  Quetura;
 

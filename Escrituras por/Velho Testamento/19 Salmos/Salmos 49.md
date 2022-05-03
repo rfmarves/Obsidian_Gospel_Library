@@ -1,27 +1,25 @@
 ---
 title: Salmos 49
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 49
 [[Salmos 48| <-- Salmos 48]] | [[Salmos]] | [[Salmos 50|Salmos 50 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/49?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/49?lang=por)
 
----
+```
 Salmo para o músico-mor, entre os filhos de Coré.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Os homens não podem ser resgatados nem redimidos pela riqueza — Somente Deus pode redimir uma alma do sepulcro — A glória de um homem rico cessa quando ele morre.
 
----
 ###### 1 
 Ouvi isto,  todos os povos; inclinai os ouvidos, todos os moradores do mundo,
 

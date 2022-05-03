@@ -1,27 +1,25 @@
 ---
 title: Salmos 34
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 34
 [[Salmos 33| <-- Salmos 33]] | [[Salmos]] | [[Salmos 35|Salmos 35 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/34?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/34?lang=por)
 
----
+```
 Salmo de Davi, quando mudou a sua conduta perante aAbimeleque, e este o expulsou, e ele se foi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi louva ao Senhor em todo o tempo — Ele aconselha: Guarda a tua língua do mal; faze o bem e procura a paz — Ele diz que nenhum dos ossos do Messias será quebrado.
 
----
 ###### 1 
 Louvarei ao  em todo o tempo; o seu louvor  continuamente na minha boca.
 

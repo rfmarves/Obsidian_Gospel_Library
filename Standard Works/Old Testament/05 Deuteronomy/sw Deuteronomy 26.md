@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 26
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 The children of Israel are to offer to the Lord a basket of the firstfruits of Canaan—They are commanded to keep the law of tithing—They covenant to keep the commandments, and the Lord promises to make them a holy people and a great nation.
 
----
 ###### 1 
 And it shall be, when thou  come in unto the land which the  thy God giveth thee  an inheritance, and possessest it, and dwellest therein;
 

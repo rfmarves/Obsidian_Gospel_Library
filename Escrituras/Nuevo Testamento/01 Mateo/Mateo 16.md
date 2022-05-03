@@ -1,22 +1,21 @@
 ---
 title: Mateo 16
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 16
 [[Mateo 15| <-- Mateo 15]] | [[Mateo]] | [[Mateo 17|Mateo 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús previene contra la doctrina de los fariseos y de los saduceos — Pedro testifica que Jesús es el Cristo y se le prometen las llaves del reino — Jesús predice Su propia muerte y Su resurrección.
 
----
 ###### 1 
 Y se acercaron los fariseos y los saduceos para tentarle, y le pidieron que les mostrase una señal del cielo.
 

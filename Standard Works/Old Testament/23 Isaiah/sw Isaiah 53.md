@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 53
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 53
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/53?lang=eng)
 
----
-__Summary__
+> __Summary__
 Isaiah speaks about the Messiah—His humiliation and sufferings are described—He makes His soul an offering for sin and makes intercession for the transgressors—Compare Mosiah 14.
 
----
 ###### 1 
 Who hath believed our report? and to whom is the arm of the  revealed?
 

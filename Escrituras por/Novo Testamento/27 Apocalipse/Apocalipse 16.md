@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 16
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 16
 [[Apocalipse 15| <-- Apocalipse 15]] | [[Apocalipse]] | [[Apocalipse 17|Apocalipse 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Deus derrama pragas sobre os iníquos — As nações se reúnem para o Armagedom — Cristo vem, as ilhas fogem, e as montanhas desaparecem.
 
----
 ###### 1 
 E ouvi do templo uma grande voz, que dizia aos sete anjos: Ide, e derramai sobre a terra as  taças da ira de Deus.
 

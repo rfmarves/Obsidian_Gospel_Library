@@ -1,22 +1,21 @@
 ---
 title: João 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 1
 [[Lucas 24| <-- Lucas 24]] | [[João]] | [[João 2|João 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo é a Palavra de Deus — Ele criou todas as coisas e se fez carne — João batiza Jesus e testifica que Ele é o Cordeiro de Deus — João, André, Simão, Filipe e Natanael creem em Cristo e O seguem.
 
----
 ###### 1 
 No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.
 

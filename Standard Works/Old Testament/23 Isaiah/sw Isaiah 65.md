@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 65
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 65
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/65?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ancient Israel was rejected for rejecting the Lord—The Lord’s people will rejoice and triumph during the Millennium.
 
----
 ###### 1 
 I am sought of  asked not  I am found of  sought me not: I said, Behold me, behold me, unto a nation  was not called by my name.
 

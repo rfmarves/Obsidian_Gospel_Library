@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 1
 [[1 Crônicas 29| <-- 1 Crônicas 29]] | [[2 Crônicas]] | [[2 Crônicas 2|2 Crônicas 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor honra Salomão perante todo o Israel — O Senhor aparece a ele — Salomão escolhe e recebe sabedoria — Seu reino é abençoado com esplendor e riquezas.
 
----
 ###### 1 
 E Salomão, filho de Davi, fortaleceu-se no seu reino; e o  seu Deus  com ele, e o magnificou grandemente.
 

@@ -1,22 +1,21 @@
 ---
 title: Alma 11
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 11
 [[Alma 10| <-- Alma 10]] | [[Alma]] | [[Alma 12|Alma 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Descreve-se o sistema monetário nefita — Amuleque contende com Zeezrom — Cristo não salvará o povo em pecado — Somente os que herdam o reino do céu são salvos — Todos os homens se levantarão em imortalidade — Não há morte após a ressurreição. Aproximadamente 82 a.C.
 
----
 ###### 1 
 Ora, constava na lei de Mosias que todo homem que fosse um juiz da lei ou aqueles que fossem nomeados juízes recebessem um salário, de acordo com o tempo que empregassem para julgar aqueles que lhes eram levados para serem julgados.
 

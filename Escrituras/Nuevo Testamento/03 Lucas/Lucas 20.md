@@ -1,22 +1,21 @@
 ---
 title: Lucas 20
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 20
 [[Lucas 19| <-- Lucas 19]] | [[Lucas]] | [[Lucas 21|Lucas 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los principales sacerdotes se oponen a Jesús — Él enseña la parábola de los labradores malvados — Dad a César lo que es de César y a Dios lo que es de Dios — Enseña la ley del matrimonio.
 
----
 ###### 1 
 Y aconteció un día que, enseñando  al pueblo en el templo y predicando el evangelio, llegaron los principales sacerdotes y los escribas, con los ancianos,
 

@@ -1,22 +1,21 @@
 ---
 title: Filemón 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Filemón 1
 [[Tito 3| <-- Tito 3]] | [[Filemón]] | [[Hebreos 1|Hebreos 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/philem/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/philem/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Evangelio hace que el esclavo sea estimado como hermano.
 
----
 ###### 1 
 Pablo, prisionero de Jesucristo, y el hermano Timoteo, al amado Filemón, colaborador nuestro,
 

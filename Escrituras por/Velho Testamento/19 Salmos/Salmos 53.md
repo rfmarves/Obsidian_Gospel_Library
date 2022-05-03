@@ -1,27 +1,25 @@
 ---
 title: Salmos 53
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 53
 [[Salmos 52| <-- Salmos 52]] | [[Salmos]] | [[Salmos 54|Salmos 54 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/53?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/53?lang=por)
 
----
+```
 Masquil de Davi para o músico-mor sobre Maalate.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi afirma: O néscio diz que não há Deus — Ninguém há que faça o bem — O Israel coligado se regozijará.
 
----
 ###### 1 
 Disse o néscio no seu coração: Não há Deus. Corromperam-se, e cometeram abominável iniquidade; não há ninguém que faça o bem.
 

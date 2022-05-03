@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 15
 [[2 Reyes 14| <-- 2 Reyes 14]] | [[2 Reyes]] | [[2 Reyes 16|2 Reyes 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Muchos reyes reinan en Israel y en Judá — Se describen sus iniquidades, guerras, conspiraciones y maldades — Muchos de los de Israel son llevados cautivos a Asiria por Tiglat-pileser.
 
----
 ###### 1 
 En el año veintisiete de Jeroboam, rey de Israel, comenzó a reinar Azarías hijo de Amasías, rey de Judá.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel is called to take the word of the Lord to Israel—He sees a book in which lamentations and mourning are written.
 
----
 ###### 1 
 And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 15
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus announces that the law of Moses is fulfilled in Him—The Nephites are the other sheep of whom He spoke in Jerusalem—Because of iniquity, the Lord’s people in Jerusalem do not know of the scattered sheep of Israel. About A.D. 34.
 
----
 ###### 1 
 And now it came to pass that when Jesus had ended these sayings he cast his eyes round about on the multitude, and said unto them: Behold, ye have heard the things which I taught before I ascended to my Father; therefore, whoso remembereth these sayings of mine and doeth them, him will I raise up at the last day.
 

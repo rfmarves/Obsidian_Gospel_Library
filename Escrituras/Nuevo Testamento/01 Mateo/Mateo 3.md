@@ -1,22 +1,21 @@
 ---
 title: Mateo 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 3
 [[Mateo 2| <-- Mateo 2]] | [[Mateo]] | [[Mateo 4|Mateo 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Juan el Bautista predica en Judea — Jesús es bautizado, y el Padre proclama que Él es Su Hijo Amado.
 
----
 ###### 1 
 Y en aquellos días vino Juan el Bautista predicando en el desierto de Judea,
 

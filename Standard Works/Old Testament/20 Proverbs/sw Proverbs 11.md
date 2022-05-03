@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 The state and rewards of the righteous and the wicked are contrasted—When a wicked man dies, his expectations perish—He who wins souls is wise.
 
----
 ###### 1 
 A false balance  abomination to the : but a just weight  his delight.
 

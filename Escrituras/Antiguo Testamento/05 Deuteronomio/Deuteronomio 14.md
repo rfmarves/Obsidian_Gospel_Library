@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 14
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 14
 [[Deuteronomio 13| <-- Deuteronomio 13]] | [[Deuteronomio]] | [[Deuteronomio 15|Deuteronomio 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los israelitas son hijos de Jehová el Señor — No comerán animales, ni peces ni aves inmundos — Los israelitas diezmarán todo el aumento de su grano anualmente.
 
----
 ###### 1 
 Hijos sois de Jehová vuestro Dios; no os haréis incisiones ni os raparéis entre los ojos por causa de un muerto;
 

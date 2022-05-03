@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 2
 [[Apocalipsis 1| <-- Apocalipsis 1]] | [[Apocalipsis]] | [[Apocalipsis 3|Apocalipsis 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El que venciere obtendrá la vida eterna, no sufrirá la segunda muerte, heredará el reino celestial y gobernará muchas naciones.
 
----
 ###### 1 
 Escribe al ángel de la iglesia en Éfeso: El que tiene las siete estrellas en su diestra, el que anda en medio de los siete candeleros de oro, dice esto:
 

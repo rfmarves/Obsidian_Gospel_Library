@@ -1,22 +1,21 @@
 ---
 title: Tito 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Tito 2
 [[Tito 1| <-- Tito 1]] | [[Tito]] | [[Tito 3|Tito 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/titus/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/titus/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los santos deben vivir rectamente, rechazar toda impiedad y buscar al Señor.
 
----
 ###### 1 
 Pero tú, habla lo que está de acuerdo con la sana doctrina.
 

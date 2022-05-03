@@ -1,22 +1,21 @@
 ---
 title: Isaías 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 12
 [[Isaías 11| <-- Isaías 11]] | [[Isaías]] | [[Isaías 13|Isaías 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los días del Milenio, todos los hombres alabarán a Jehová — Él morará entre ellos — Compárese con 2 Nefi 22.
 
----
 ###### 1 
 Y dirás en aquel día: Te alabaré, oh Jehová; pues  te enojaste conmigo, tu ira se apartó, y me has consolado.
 

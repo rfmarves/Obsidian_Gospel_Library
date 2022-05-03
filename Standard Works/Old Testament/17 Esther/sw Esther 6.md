@@ -1,10 +1,11 @@
 ---
 title: sw Esther 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Esther 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mordecai receives great honors—Haman mourns and is counseled by his wife.
 
----
 ###### 1 
 On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king.
 

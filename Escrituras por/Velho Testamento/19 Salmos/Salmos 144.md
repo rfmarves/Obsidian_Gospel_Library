@@ -1,27 +1,25 @@
 ---
 title: Salmos 144
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 144
 [[Salmos 143| <-- Salmos 143]] | [[Salmos]] | [[Salmos 145|Salmos 145 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/144?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/144?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi bendiz o Senhor pela libertação e prosperidade temporal — Bem-aventurado é o povo cujo Deus é o Senhor.
 
----
 ###### 1 
 Bendito  o , minha rocha, que ensina as minhas mãos para a peleja e os meus dedos para a guerra;
 

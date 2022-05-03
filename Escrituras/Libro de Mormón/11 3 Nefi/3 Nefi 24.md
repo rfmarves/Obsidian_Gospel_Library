@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 24
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 24
 [[3 Nefi 23| <-- 3 Nefi 23]] | [[3 Nefi]] | [[3 Nefi 25|3 Nefi 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El mensajero del Señor preparará el camino para la Segunda Venida — Cristo se sentará para juzgar — Se manda a Israel que pague los diezmos y las ofrendas — Se escribe un libro de memorias — Compárese con Malaquías 3. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Y sucedió que les mandó escribir las palabras que el Padre había dado a Malaquías, las cuales él les diría. Y aconteció que después que fueron escritas, él las explicó. Y estas son las palabras que les habló, diciendo: Así dijo el Padre a Malaquías: He aquí, enviaré a mi mensajero, y él preparará el camino delante de mí, y repentinamente vendrá a su templo el Señor a quien buscáis, sí, el mensajero del convenio, en quien os deleitáis; he aquí, vendrá, dice el Señor de los Ejércitos.
 

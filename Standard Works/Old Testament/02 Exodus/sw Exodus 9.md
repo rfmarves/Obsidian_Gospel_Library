@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord destroys the cattle of the Egyptians, but not of the Israelites—Boils and blains are sent upon the Egyptians—The Lord sends hail and fire upon the people of Pharaoh, but not upon the people of Israel.
 
----
 ###### 1 
 Then the  said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the  God of the Hebrews, Let my people go, that they may serve me.
 

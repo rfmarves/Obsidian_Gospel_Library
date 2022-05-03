@@ -1,10 +1,11 @@
 ---
 title: sw Mark 15
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Pilate decrees the death of Jesus—Jesus is mocked and crucified between two thieves—He dies and is buried in the tomb of Joseph of Arimathæa.
 
----
 ###### 1 
 And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried  away, and delivered  to Pilate.
 

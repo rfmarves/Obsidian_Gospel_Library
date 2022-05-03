@@ -1,22 +1,21 @@
 ---
 title: Jeremías 35
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 35
 [[Jeremías 34| <-- Jeremías 34]] | [[Jeremías]] | [[Jeremías 36|Jeremías 36 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/35?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/35?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se elogia y se bendice a los recabitas por su obediencia.
 
----
 ###### 1 
 La palabra que vino a Jeremías de parte de Jehová en los días de Joacim hijo de Josías, rey de Judá, diciendo:
 

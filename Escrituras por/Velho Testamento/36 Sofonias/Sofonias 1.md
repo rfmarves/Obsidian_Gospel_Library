@@ -1,22 +1,21 @@
 ---
 title: Sofonias 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Sofonias 1
 [[Habacuque 3| <-- Habacuque 3]] | [[Sofonias]] | [[Sofonias 2|Sofonias 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zeph/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zeph/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A destruição de Judá é simbólica da Segunda Vinda — É o dia do sacrifício do Senhor, um dia de indignação e de angústia.
 
----
 ###### 1 
 Palavra do , que veio a Sofonias, filho de Cusi, filho de Gedalias, filho de Amarias, filho de Ezequias, nos dias de Josias, filho de Amom, rei de Judá.
 

@@ -1,22 +1,21 @@
 ---
 title: Amós 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 2
 [[Amós 1| <-- Amós 1]] | [[Amós]] | [[Amós 3|Amós 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor derramará juízos sobre Moabe, Judá e Israel por causa de sua iniquidade.
 
----
 ###### 1 
 Assim diz o : Por três transgressões de Moabe, e por quatro, não afastarei  porque queimou os ossos do rei de Edom, até  cal.
 

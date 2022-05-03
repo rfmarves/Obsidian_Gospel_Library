@@ -1,22 +1,21 @@
 ---
 title: Esdras 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 1
 [[2 Crônicas 36| <-- 2 Crônicas 36]] | [[Esdras]] | [[Esdras 2|Esdras 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O rei Ciro da Pérsia permite que os judeus voltem a Jerusalém para construir o templo — Ciro devolve os utensílios da casa do Senhor tomados por Nabucodonosor.
 
----
 ###### 1 
 No primeiro ano de Ciro, rei da Pérsia, (para que se cumprisse a palavra do , por boca de Jeremias) despertou o  o espírito de Ciro, rei da Pérsia, o qual fez passar pregão por todo o seu reino, como também por escrito, dizendo:
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 7
 [[2 Reis 6| <-- 2 Reis 6]] | [[2 Reis]] | [[2 Reis 8|2 Reis 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Eliseu profetiza uma abundância incrível em Samaria — Os exércitos sírios fogem ao ouvirem um clamor de batalha e deixam para trás seus pertences — Israel despoja os sírios.
 
----
 ###### 1 
 Então disse Eliseu: Ouvi a palavra do ; assim diz o : Amanhã, quase a esta hora,  uma medida de farinha por um siclo, e duas medidas de cevada por um siclo, à porta de Samaria.
 

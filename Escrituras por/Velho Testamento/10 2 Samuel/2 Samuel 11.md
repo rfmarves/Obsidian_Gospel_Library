@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 11
 [[2 Samuel 10| <-- 2 Samuel 10]] | [[2 Samuel]] | [[2 Samuel 12|2 Samuel 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi se deita com Bate-Seba, e ela concebe — Ele, então, toma providências para que Urias, o marido dela, morra em batalha.
 
----
 ###### 1 
 E aconteceu que, tendo decorrido um ano, no tempo em que os reis saem  Davi enviou Joabe, e seus servos com ele, e todo o Israel, para que destruíssem os filhos de Amom, e cercassem Rabá; porém Davi ficou em Jerusalém.
 

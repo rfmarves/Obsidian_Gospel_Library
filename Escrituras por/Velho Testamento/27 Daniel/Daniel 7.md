@@ -1,22 +1,21 @@
 ---
 title: Daniel 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 7
 [[Daniel 6| <-- Daniel 6]] | [[Daniel]] | [[Daniel 8|Daniel 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Daniel vê quatro animais que representam os reinos dos homens — Ele vê o Ancião de Dias (Adão) a quem virá o Filho do Homem (Cristo) — O reino será dado aos santos para sempre.
 
----
 ###### 1 
 No primeiro ano de Belsazar, rei de Babilônia, teve Daniel um sonho e visões da sua cabeça,  na sua cama; escreveu logo o sonho, e relatou a suma das coisas.
 

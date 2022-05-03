@@ -1,22 +1,21 @@
 ---
 title: Hechos 7
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 7
 [[Hechos 6| <-- Hechos 6]] | [[Hechos]] | [[Hechos 8|Hechos 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Esteban relata la historia de Israel y menciona a Moisés como prototipo de Cristo — Testifica de la apostasía de Israel — Ve a Jesús a la diestra de Dios — Rechazan el testimonio de Esteban y le apedrean hasta matarlo.
 
----
 ###### 1 
 El sumo sacerdote dijo entonces: ¿Es esto así?
 

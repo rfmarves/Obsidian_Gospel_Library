@@ -1,10 +1,11 @@
 ---
 title: sw Amos 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Amos 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Amos relates how he was called of God to be a prophet—He prophesies the captivity of Israel.
 
----
 ###### 1 
 Thus hath the Lord  shewed unto me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo,  the latter growth after the king’s mowings.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel and Judah are called to repentance—Jeremiah laments for the miseries of Judah.
 
----
 ###### 1 
 If thou wilt return, O Israel, saith the , return unto me: and if thou wilt put away thine abominations out of my sight, then shalt thou not remove.
 

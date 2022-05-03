@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 30
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 30
 [[Deuteronômio 29| <-- Deuteronômio 29]] | [[Deuteronômio]] | [[Deuteronômio 31|Deuteronômio 31 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/30?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/30?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os israelitas dispersos serão reunidos de todas as nações, quando se lembrarem do convênio — Moisés põe diante do povo a vida ou a morte, a bênção ou a maldição.
 
----
 ###### 1 
 E acontecerá  sobrevindo-te todas estas coisas, a bênção ou a maldição, que pus diante de ti, e te recordares  entre todas as nações, para onde te lançar o  teu Deus,
 

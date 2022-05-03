@@ -1,22 +1,21 @@
 ---
 title: Oseas 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseas 2
 [[Oseas 1| <-- Oseas 1]] | [[Oseas]] | [[Oseas 3|Oseas 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El adorar dioses falsos acarrea graves juicios sobre Israel — En los últimos días, Israel se reconciliará con Jehová y será Su pueblo.
 
----
 ###### 1 
 Decid a vuestros hermanos: Ammi, y a vuestras hermanas: Ruhama.
 

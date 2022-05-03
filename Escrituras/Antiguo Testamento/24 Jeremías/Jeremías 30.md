@@ -1,22 +1,21 @@
 ---
 title: Jeremías 30
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 30
 [[Jeremías 29| <-- Jeremías 29]] | [[Jeremías]] | [[Jeremías 31|Jeremías 31 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/30?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/30?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los últimos días, Judá e Israel serán congregados en sus propias tierras — David, su rey (el Mesías), reinará sobre ellos.
 
----
 ###### 1 
 La palabra que vino a Jeremías de parte de Jehová, diciendo:
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 17
 [[1 Crônicas 16| <-- 1 Crônicas 16]] | [[1 Crônicas]] | [[1 Crônicas 18|1 Crônicas 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Natã a princípio aprova e depois impede Davi de construir uma casa do Senhor — O filho de Davi construirá o templo — Prediz-se o triunfo de Israel — Davi agradece ao Senhor por Sua bondade para com Israel.
 
----
 ###### 1 
 Sucedeu, pois, que, morando Davi já em sua casa, disse Davi ao profeta Natã: Eis que moro em casa de cedros, mas a arca da aliança do   debaixo de cortinas.
 

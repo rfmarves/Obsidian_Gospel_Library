@@ -1,10 +1,11 @@
 ---
 title: sw Job 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job speaks against the wicked who oppose him—Though even his friends scorn him, he testifies that his witness is in heaven and his record is on high.
 
----
 ###### 1 
 Then Job answered and said,
 

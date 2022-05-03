@@ -1,27 +1,25 @@
 ---
 title: Salmos 52
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 52
 [[Salmos 51| <-- Salmos 51]] | [[Salmos]] | [[Salmos 53|Salmos 53 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/52?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/52?lang=por)
 
----
+```
 Masquil de Davi para o músico-mor, quando Doegue, o edomita, o anunciou a Saul, e lhe disse: Davi foi à casa de Abimeleque.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi diz que a língua iníqua intenta o mal e que os iníquos confiam nas riquezas — Os santos confiam na misericórdia de Deus para sempre.
 
----
 ###### 1 
 Por que te glorias na maldade, ó homem poderoso? Pois a bondade de Deus  continuamente.
 

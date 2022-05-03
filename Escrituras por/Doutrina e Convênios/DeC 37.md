@@ -1,22 +1,21 @@
 ---
 title: DeC 37
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 37
 [[DeC 36| <-- DeC 36]] | [[DeC]] | [[DeC 38|DeC 38 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/37?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/37?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, Os santos são chamados para reunir-se no Ohio.
 
----
 ###### 1 
 Eis que vos digo que não me convém traduzirdes mais até irdes para o Ohio; e isto por causa do inimigo e para o vosso bem.
 

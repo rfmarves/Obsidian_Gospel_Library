@@ -1,22 +1,21 @@
 ---
 title: 2 Coríntios 7
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Coríntios 7
 [[2 Coríntios 6| <-- 2 Coríntios 6]] | [[2 Coríntios]] | [[2 Coríntios 8|2 Coríntios 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A tristeza segundo Deus pelo pecado leva ao arrependimento — A tristeza do mundo conduz à morte.
 
----
 ###### 1 
 Ora, amados, sendo que temos tais promessas, purifiquemo-nos de toda imundície da carne e do espírito, aperfeiçoando a santificação no temor de Deus.
 

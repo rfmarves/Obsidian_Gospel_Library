@@ -1,22 +1,21 @@
 ---
 title: Zacarias 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarias 6
 [[Zacarias 5| <-- Zacarias 5]] | [[Zacarias]] | [[Zacarias 7|Zacarias 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Zacarias coroa Josué, o sumo sacerdote, à semelhança de Cristo, o Renovo, que virá — Cristo será um sacerdote no Seu trono para sempre.
 
----
 ###### 1 
 E outra vez levantei os meus olhos, e olhei, e eis que  quatro carros que saíram dentre dois montes, e estes montes  montes de bronze.
 

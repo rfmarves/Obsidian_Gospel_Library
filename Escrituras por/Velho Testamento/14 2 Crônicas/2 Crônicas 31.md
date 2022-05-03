@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 31
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 31
 [[2 Crônicas 30| <-- 2 Crônicas 30]] | [[2 Crônicas]] | [[2 Crônicas 32|2 Crônicas 32 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/31?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/31?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os israelitas fiéis eliminam a falsa adoração de seu meio — O povo paga dízimos e ofertas — Os levitas administram os assuntos temporais — Ezequias serve fielmente.
 
----
 ###### 1 
 E acabando tudo isso, todos os israelitas que ali se achavam saíram às cidades de Judá, e quebraram as estátuas, cortaram os postes-ídolos, e derrubaram os altos e os altares por toda Judá e Benjamim, como também em Efraim e Manassés, até que tudo destruíram; então retornaram todos os filhos de Israel, cada um para sua possessão, para as cidades deles.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 João 5
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 João 5
 [[1 João 4| <-- 1 João 4]] | [[1 João]] | [[2 João 1|2 João 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos nascem de Deus por meio da fé em Cristo — A água, o sangue e o Espírito testificam a respeito de Cristo — A crença em Cristo é necessária para se alcançar a vida eterna.
 
----
 ###### 1 
 Todo aquele que crê que Jesus é o Cristo é nascido de Deus; e todo aquele que ama o que o gerou também ama o que dele é nascido.
 

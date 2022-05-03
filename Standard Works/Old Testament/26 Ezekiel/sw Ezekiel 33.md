@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 33
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 33
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/33?lang=eng)
 
----
-__Summary__
+> __Summary__
 Watchmen who raise the warning voice save their own souls—Repentant sinners are saved—The righteous who turn to sin are damned—The people of Judah in Jerusalem are destroyed because of their sins.
 
----
 ###### 1 
 Again the word of the  came unto me, saying,
 

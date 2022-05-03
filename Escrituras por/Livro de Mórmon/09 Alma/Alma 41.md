@@ -1,22 +1,21 @@
 ---
 title: Alma 41
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 41
 [[Alma 40| <-- Alma 40]] | [[Alma]] | [[Alma 42|Alma 42 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Na Ressurreição os homens levantam-se para um estado de felicidade eterna ou de miséria eterna — Iniquidade nunca foi felicidade — Homens carnais estão sem Deus no mundo — Toda pessoa recebe novamente, na Restauração, as características e os atributos adquiridos na mortalidade. Aproximadamente 74 a.C.
 
----
 ###### 1 
 E agora, meu filho, tenho algo a dizer sobre a restauração da qual se tem falado; pois eis que alguns desvirtuaram as escrituras e se desencaminharam por essa razão. E eu percebo que tua mente também tem estado preocupada a esse respeito. Eis, porém, que eu te explicarei isto.
 

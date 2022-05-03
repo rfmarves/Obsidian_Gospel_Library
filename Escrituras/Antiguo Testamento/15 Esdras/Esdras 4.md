@@ -1,22 +1,21 @@
 ---
 title: Esdras 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 4
 [[Esdras 3| <-- Esdras 3]] | [[Esdras]] | [[Esdras 5|Esdras 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezra/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezra/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los samaritanos ofrecen ayuda y después estorban la obra — Cesa la construcción del templo y de los muros de Jerusalén.
 
----
 ###### 1 
 Y cuando oyeron los enemigos de Judá y de Benjamín que los que habían regresado de la cautividad reedificaban el templo de Jehová Dios de Israel,
 

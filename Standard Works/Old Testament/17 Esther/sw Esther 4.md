@@ -1,10 +1,11 @@
 ---
 title: sw Esther 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Esther 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mordecai and the Jews mourn and fast because of the king’s decree—Esther, at the peril of her life, prepares to go in unto the king.
 
----
 ###### 1 
 When Mordecai perceived all that was done, Mordecai rent his clothes, and put on sackcloth with ashes, and went out into the midst of the city, and cried with a loud and a bitter cry;
 

@@ -1,22 +1,21 @@
 ---
 title: Tito 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Tito 3
 [[Tito 2| <-- Tito 2]] | [[Tito]] | [[Filemom 1|Filemom 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/titus/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/titus/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos devem viver retamente depois do batismo.
 
----
 ###### 1 
 Admoesta-os a que se sujeitem aos principados e potestades, que  obedeçam,  estejam preparados para toda boa obra;
 

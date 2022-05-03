@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joab arranges by artifice to bring Absalom home after three years—After two more years, Absalom sees the king, and they are reconciled.
 
----
 ###### 1 
 Now Joab the son of Zeruiah perceived that the king’s heart  toward Absalom.
 

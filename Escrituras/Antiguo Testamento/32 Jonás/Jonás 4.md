@@ -1,22 +1,21 @@
 ---
 title: Jonás 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jonás 4
 [[Jonás 3| <-- Jonás 3]] | [[Jonás]] | [[Miqueas 1|Miqueas 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jonah/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jonah/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jonás se disgusta con Jehová por Su misericordia para con el pueblo — Jehová lo reprende.
 
----
 ###### 1 
 Pero esto desagradó a Jonás en extremo, y se enojó.
 

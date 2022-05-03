@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 24
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel will be gathered and will enjoy millennial rest—Lucifer was cast out of heaven for rebellion—Israel will triumph over Babylon (the world)—Compare Isaiah 14. About 559–545 B.C.
 
----
 ###### 1 
 For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land; and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
 

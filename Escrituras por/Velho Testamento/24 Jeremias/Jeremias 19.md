@@ -1,22 +1,21 @@
 ---
 title: Jeremias 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 19
 [[Jeremias 18| <-- Jeremias 18]] | [[Jeremias]] | [[Jeremias 20|Jeremias 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor trará o mal sobre Judá — Eles sacrificam os filhos a Baal — Durante o cerco, eles comerão a carne dos próprios filhos.
 
----
 ###### 1 
 Assim diz o : Vai, e compra uma botija de oleiro, e  dos anciãos do povo e dos anciãos dos sacerdotes;
 

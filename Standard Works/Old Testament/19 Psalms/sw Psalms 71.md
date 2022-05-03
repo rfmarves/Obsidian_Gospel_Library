@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 71
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 71
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/71?lang=eng)
 
----
-__Summary__
+> __Summary__
 David praises God with thanksgiving—Who is like unto the Lord!
 
----
 ###### 1 
 In thee, O , do I put my trust: let me never be put to confusion.
 

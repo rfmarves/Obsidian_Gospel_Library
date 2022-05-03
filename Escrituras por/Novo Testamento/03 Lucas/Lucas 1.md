@@ -1,22 +1,21 @@
 ---
 title: Lucas 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 1
 [[Marcos 16| <-- Marcos 16]] | [[Lucas]] | [[Lucas 2|Lucas 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Gabriel promete a Zacarias que Isabel terá um filho, a quem se dará o nome de João — Ele também diz a Maria que ela será a mãe do Filho de Deus — Maria visita Isabel e profere um salmo de louvor — Nasce João Batista — Zacarias profetiza a respeito da missão de João.
 
----
 ###### 1 
 Tendo, pois, muitos empreendido pôr em ordem a narração das coisas que entre nós se cumpriram,
 

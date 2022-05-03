@@ -1,22 +1,21 @@
 ---
 title: Êxodo 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 20
 [[Êxodo 19| <-- Êxodo 19]] | [[Êxodo]] | [[Êxodo 21|Êxodo 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor revela os Dez Mandamentos — Israel deve testificar que o Senhor falou dos céus — Os filhos de Israel são proibidos de fazer deuses de ouro ou prata — Ordena-se que façam altares de pedras não lavradas e neles ofereçam sacrifícios ao Senhor.
 
----
 ###### 1 
 Então falou Deus todas estas palavras, dizendo:
 

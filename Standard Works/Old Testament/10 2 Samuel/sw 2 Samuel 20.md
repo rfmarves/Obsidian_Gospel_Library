@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Sheba leads the tribes of Israel away from David—Joab slays Amasa and pursues Sheba—A wise woman intercedes—The death of Sheba ends the insurrection.
 
----
 ###### 1 
 And there happened to be there a man of Belial, whose name  Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and said, We have no part in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel.
 

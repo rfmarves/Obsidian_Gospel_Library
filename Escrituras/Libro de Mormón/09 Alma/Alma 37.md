@@ -1,22 +1,21 @@
 ---
 title: Alma 37
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 37
 [[Alma 36| <-- Alma 36]] | [[Alma]] | [[Alma 38|Alma 38 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Las planchas de bronce y otras Escrituras se conservan para conducir a las almas a la salvación — Los jareditas fueron destruidos por motivo de su iniquidad — Los juramentos y los convenios secretos de ellos deben esconderse del pueblo — Consulta al Señor en todos tus hechos — Así como la Liahona guio a los nefitas, de igual manera la palabra de Cristo guía a los hombres a la vida eterna. Aproximadamente 74 a.C.
 
----
 ###### 1 
 Y ahora, Helamán, hijo mío, te mando que tomes los anales que me han sido confiados;
 

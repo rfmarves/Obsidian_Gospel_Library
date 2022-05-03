@@ -1,22 +1,21 @@
 ---
 title: Alma 48
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 48
 [[Alma 47| <-- Alma 47]] | [[Alma]] | [[Alma 49|Alma 49 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/48?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/48?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amaliquias incita os lamanitas contra os nefitas — Morôni prepara seu povo para defender a causa dos cristãos — Ele rejubila-se com a liberdade e a independência e é um poderoso homem de Deus. Aproximadamente 72 a.C.
 
----
 ###### 1 
 E então aconteceu que assim que obteve o reino, Amaliquias começou a incitar o coração dos lamanitas contra o povo de Néfi; sim, nomeou alguns homens para falarem aos lamanitas contra os nefitas, do alto de suas torres.
 

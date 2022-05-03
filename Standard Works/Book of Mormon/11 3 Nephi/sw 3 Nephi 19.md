@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 19
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 The twelve disciples minister unto the people and pray for the Holy Ghost—The disciples are baptized and receive the Holy Ghost and the ministering of angels—Jesus prays using words that cannot be written—He attests to the exceedingly great faith of these Nephites. About A.D. 34.
 
----
 ###### 1 
 And now it came to pass that when Jesus had ascended into heaven, the multitude did disperse, and every man did take his wife and his children and did return to his own home.
 

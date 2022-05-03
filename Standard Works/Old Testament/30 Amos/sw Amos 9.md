@@ -1,10 +1,11 @@
 ---
 title: sw Amos 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Amos 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel will be sifted among all nations—In the last days, the people of Israel will be gathered again into their own land, and it will become productive.
 
----
 ###### 1 
 I saw the Lord standing upon the altar: and he said, Smite the lintel of the door, that the posts may shake: and cut them in the head, all of them; and I will slay the last of them with the sword: he that fleeth of them shall not flee away, and he that escapeth of them shall not be delivered.
 

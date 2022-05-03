@@ -1,22 +1,21 @@
 ---
 title: Isaías 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 20
 [[Isaías 19| <-- Isaías 19]] | [[Isaías]] | [[Isaías 21|Isaías 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Asiria invadirá y avergonzará a Egipto.
 
----
 ###### 1 
 El año en que vino Tartán a Asdod, cuando le envió Sargón, rey de Asiria, y peleó contra Asdod y la tomó,
 

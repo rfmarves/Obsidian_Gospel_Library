@@ -1,22 +1,21 @@
 ---
 title: Gênesis 30
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 30
 [[Gênesis 29| <-- Gênesis 29]] | [[Gênesis]] | [[Gênesis 31|Gênesis 31 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/30?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/30?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó se casa com Bila, e ela dá à luz Dã e Naftali — Jacó se casa com Zilpa, e ela dá à luz Gade e Aser — Lia dá à luz Issacar, Zebulom e uma filha, Diná — Então, Raquel concebe e dá à luz José — Jacó trabalha para Labão em troca de gado e ovelhas.
 
----
 ###### 1 
 Vendo, pois, Raquel que não dava filhos a Jacó, Raquel teve inveja de sua irmã, e disse a Jacó: Dá-me filhos, senão morro.
 

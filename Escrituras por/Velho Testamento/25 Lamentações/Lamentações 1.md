@@ -1,22 +1,21 @@
 ---
 title: Lamentações 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lamentações 1
 [[Jeremias 52| <-- Jeremias 52]] | [[Lamentações]] | [[Lamentações 2|Lamentações 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lam/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lam/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias lamenta a situação deplorável de Jerusalém — A própria Jerusalém se queixa de sua profunda dor.
 
----
 ###### 1 
 Quão solitária está assentada aquela cidade,  populosa! Tornou-se como viúva; a que foi grande entre as nações, como a princesa entre as províncias, tornou-se tributária!
 

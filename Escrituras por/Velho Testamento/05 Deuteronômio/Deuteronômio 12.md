@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 12
 [[Deuteronômio 11| <-- Deuteronômio 11]] | [[Deuteronômio]] | [[Deuteronômio 13|Deuteronômio 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel deve destruir os deuses e os lugares de adoração dos cananeus — O Senhor determinará onde Seu povo irá adorar — Proíbe-se a ingestão de sangue — Israel deve adorar de acordo com o padrão divino.
 
----
 ###### 1 
 Estes  os estatutos e os juízos que tereis cuidado em cumprir na terra que vos deu o  Deus de vossos pais, para a possuir todos os dias que viverdes sobre a terra.
 

@@ -1,10 +1,11 @@
 ---
 title: sw John 6
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus feeds the five thousand—He walks on the sea—He is the living manna sent from God—Salvation is gained by eating living bread—Jesus explains how men eat His flesh and drink His blood—Peter testifies that Jesus is the Messiah.
 
----
 ###### 1 
 After these things Jesus went over the sea of Galilee, which is  of Tiberias.
 

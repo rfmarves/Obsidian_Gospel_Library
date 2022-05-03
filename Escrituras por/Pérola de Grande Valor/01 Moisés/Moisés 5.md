@@ -1,25 +1,24 @@
 ---
 title: Moisés 5
-tags: #Escrituras\PdGV
+tags: Escrituras\PdGV
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moisés 5
 [[Moisés 4| <-- Moisés 4]] | [[Moisés]] | [[Moisés 6|Moisés 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/pgp/moses/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/pgp/moses/5?lang=por)
 
 Moisés
 (Junho a outubro de 1830)
 
----
-__Resumo__
+> __Resumo__
 Adão e Eva têm filhos — Adão oferece sacrifício e serve a Deus — Nascem Caim e Abel — Caim rebela-se, ama Satanás mais que a Deus e torna-se Perdição — Multiplicam-se os homicídios e a iniquidade — O evangelho é pregado desde o princípio.
 
----
 ###### 1 
 E aconteceu que, depois que eu, o Senhor Deus, os expulsei, Adão começou a lavrar a terra e a exercer domínio sobre as bestas do campo e a comer o pão com o suor de sua fronte, como eu, o Senhor, lhe ordenara: E Eva, sua mulher, também trabalhava com ele.
 

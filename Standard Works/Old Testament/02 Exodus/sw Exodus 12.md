@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord institutes the Passover and the Feast of Unleavened Bread—Lambs without blemish are slain—Israel is saved by their blood—The firstborn of all Egyptians are slain—Israel is thrust out of Egypt after 430 years—No bones of the paschal lambs are to be broken.
 
----
 ###### 1 
 And the  spake unto Moses and Aaron in the land of Egypt, saying,
 

@@ -1,22 +1,21 @@
 ---
 title: Números 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 16
 [[Números 15| <-- Números 15]] | [[Números]] | [[Números 17|Números 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Coré, Datán y Abiram, con doscientos cincuenta líderes, se rebelan y buscan oficios sacerdotales — La tierra traga a los tres rebeldes y a sus familias — Fuego de Jehová consume a los doscientos cincuenta rebeldes — Israel murmura en contra de Moisés y Aarón por matar al pueblo — Jehová envía una plaga, por la cual mueren catorce mil setecientas personas.
 
----
 ###### 1 
 Y Coré hijo de Izhar, hijo de Coat, hijo de Leví, y Datán y Abiram, hijos de Eliab, y On hijo de Pelet, de los hijos de Rubén, tomaron 
 

@@ -1,22 +1,21 @@
 ---
 title: Rut 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Rut 2
 [[Rut 1| <-- Rut 1]] | [[Rut]] | [[Rut 3|Rut 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ruth/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ruth/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Rut recoge espigas en los campos de Booz, un pariente cercano de Noemí — Booz trata bondadosamente a Rut.
 
----
 ###### 1 
 Y tenía Noemí un pariente de su marido, hombre de mucha riqueza de la familia de Elimelec, el cual se llamaba Booz.
 

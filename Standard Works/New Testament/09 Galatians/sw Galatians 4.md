@@ -1,10 +1,11 @@
 ---
 title: sw Galatians 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Galatians 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/gal/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Saints are children of God by adoption—Paul calls the Galatians back to Christ—He compares the two covenants.
 
----
 ###### 1 
 Now I say,  the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;
 

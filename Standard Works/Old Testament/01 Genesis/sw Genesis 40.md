@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 40
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 40
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/40?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joseph interprets the dreams of Pharaoh’s chief butler and chief baker—The butler fails to tell Pharaoh about Joseph.
 
----
 ###### 1 
 And it came to pass after these things,  the butler of the king of Egypt and  baker had offended their lord the king of Egypt.
 

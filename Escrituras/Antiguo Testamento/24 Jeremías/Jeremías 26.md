@@ -1,22 +1,21 @@
 ---
 title: Jeremías 26
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 26
 [[Jeremías 25| <-- Jeremías 25]] | [[Jeremías]] | [[Jeremías 27|Jeremías 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías profetiza la destrucción del pueblo — Por esto, Jeremías es acusado, juzgado y posteriormente absuelto.
 
----
 ###### 1 
 En el principio del reinado de Joacim hijo de Josías, rey de Judá, vino esta palabra de Jehová, diciendo:
 

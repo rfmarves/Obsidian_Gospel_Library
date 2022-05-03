@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Wine is a mocker, and strong drink is raging—Turn to the Lord, and He will save you.
 
----
 ###### 1 
 Wine  a mocker, strong drink  raging: and whosoever is deceived thereby is not wise.
 

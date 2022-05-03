@@ -1,22 +1,21 @@
 ---
 title: Gênesis 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 18
 [[Gênesis 17| <-- Gênesis 17]] | [[Gênesis]] | [[Gênesis 19|Gênesis 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Abraão recebe três homens santos — Eles prometem que Sara terá um filho — Abraão ordenará a seus filhos que sejam justos — O Senhor lhe aparece — Eles conversam sobre a destruição de Sodoma e Gomorra.
 
----
 ###### 1 
 Depois, apareceu-lhe o  nos carvalhais de Manre, estando ele assentado à porta da tenda, no calor do dia.
 

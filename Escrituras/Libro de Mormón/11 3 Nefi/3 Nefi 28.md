@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 28
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 28
 [[3 Nefi 27| <-- 3 Nefi 27]] | [[3 Nefi]] | [[3 Nefi 29|3 Nefi 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nueve de los doce discípulos desean, y se les promete una herencia en el reino de Cristo cuando mueran — Los Tres Nefitas desean, y se les concede, poder sobre la muerte para permanecer en la tierra hasta que Jesús venga de nuevo — Son trasladados y ven cosas que no es lícito declarar, y ahora se encuentran ministrando entre los hombres. Aproximadamente 34–35 d.C.
 
----
 ###### 1 
 Y sucedió que cuando Jesús hubo dicho estas palabras, habló a sus discípulos, uno por uno, diciéndoles: ¿Qué es lo que deseáis de mí después que haya ido al Padre?
 

@@ -1,10 +1,11 @@
 ---
 title: sw Moses 8
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moses 8
@@ -15,11 +16,9 @@ people:
 Moses
 (February 1831)
 
----
-__Summary__
+> __Summary__
 Methuselah prophesies—Noah and his sons preach the gospel—Great wickedness prevails—The call to repentance is unheeded—God decrees the destruction of all flesh by the Flood.
 
----
 ###### 1 
 And all the days of Enoch were four hundred and thirty years.
 

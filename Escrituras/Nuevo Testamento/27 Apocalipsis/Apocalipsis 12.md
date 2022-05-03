@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 12
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 12
 [[Apocalipsis 11| <-- Apocalipsis 11]] | [[Apocalipsis]] | [[Apocalipsis 13|Apocalipsis 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Juan ve la inminente apostasía de la Iglesia — También ve la guerra preterrenal en el cielo en la que Satanás fue arrojado abajo — Ve la continuación de esa guerra en la tierra.
 
----
 ###### 1 
 Y apareció una gran señal en el cielo: una mujer vestida del sol, con la luna debajo de sus pies, y sobre su cabeza una corona de doce estrellas.
 

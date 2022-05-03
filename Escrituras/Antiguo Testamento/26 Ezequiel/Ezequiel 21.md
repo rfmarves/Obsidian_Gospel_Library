@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 21
 [[Ezequiel 20| <-- Ezequiel 20]] | [[Ezequiel]] | [[Ezequiel 22|Ezequiel 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En Jerusalén, tanto el justo como el malvado serán talados — Babilonia sacará una espada afilada y brillante en contra de Israel y aquella prevalecerá.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

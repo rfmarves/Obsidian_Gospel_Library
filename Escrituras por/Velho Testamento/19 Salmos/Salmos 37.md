@@ -1,27 +1,25 @@
 ---
 title: Salmos 37
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 37
 [[Salmos 36| <-- Salmos 36]] | [[Salmos]] | [[Salmos 38|Salmos 38 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/37?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/37?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi aconselha: Confia no Senhor e faze o bem — Descansa no Senhor e espera Nele — Deixa a ira e abandona o furor — Os mansos herdarão a Terra — O Senhor ama a justiça e não desampara os Seus santos.
 
----
 ###### 1 
 Não te indignes por causa dos malfeitores, nem tenhas inveja dos que praticam a iniquidade.
 

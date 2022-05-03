@@ -1,10 +1,11 @@
 ---
 title: sw Helaman 15
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Helaman 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord chastened the Nephites because He loved them—Converted Lamanites are firm and steadfast in the faith—The Lord will be merciful unto the Lamanites in the latter days. About 6 B.C.
 
----
 ###### 1 
 And now, my beloved brethren, behold, I declare unto you that except ye shall repent your houses shall be left unto you desolate.
 

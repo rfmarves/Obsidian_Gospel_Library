@@ -1,22 +1,21 @@
 ---
 title: Lucas 14
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 14
 [[Lucas 13| <-- Lucas 13]] | [[Lucas]] | [[Lucas 15|Lucas 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus cura novamente no Sábado — Ele ensina a humildade e conta a parábola da grande ceia — Aqueles que O seguem devem abandonar tudo.
 
----
 ###### 1 
 Aconteceu num sábado que, entrando ele na casa de um dos principais dos fariseus para comer pão, eles o estavam observando.
 

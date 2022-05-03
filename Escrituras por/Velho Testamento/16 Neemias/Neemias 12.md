@@ -1,22 +1,21 @@
 ---
 title: Neemias 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Neemias 12
 [[Neemias 11| <-- Neemias 11]] | [[Neemias]] | [[Neemias 13|Neemias 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Enumeram-se os sacerdotes e os levitas que vieram da Babilônia — As muralhas de Jerusalém são dedicadas — Designam-se os ofícios dos sacerdotes e dos levitas no templo.
 
----
 ###### 1 
 Estes  os sacerdotes e os levitas que subiram com Zorobabel, filho de Sealtiel, e  Jesua: Seraías, Jeremias, Esdras,
 

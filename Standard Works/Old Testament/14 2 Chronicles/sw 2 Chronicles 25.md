@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 Amaziah reigns, smites the Edomites, and worships false gods—A prophet foretells Amaziah’s destruction—Judah is defeated by Israel, and Amaziah is slain in a conspiracy.
 
----
 ###### 1 
 Amaziah  twenty and five years old  he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother’s name  Jehoaddan of Jerusalem.
 

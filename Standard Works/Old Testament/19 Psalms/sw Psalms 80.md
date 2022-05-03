@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 80
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 80
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/80?lang=eng)
 
----
+```
 To the chief Musician upon Shoshannim-Eduth, A Psalm of Asaph.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Israel pleads with the Shepherd of Israel for deliverance, for salvation, and for His face to shine upon them.
 
----
 ###### 1 
 Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest  the cherubims, shine forth.
 

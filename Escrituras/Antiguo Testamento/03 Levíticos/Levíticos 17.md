@@ -1,22 +1,21 @@
 ---
 title: Levíticos 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 17
 [[Levíticos 16| <-- Levíticos 16]] | [[Levíticos]] | [[Levíticos 18|Levíticos 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los sacrificios han de ofrecerse únicamente a Jehová y en el tabernáculo de reunión — Se prohíbe a Israel hacer sacrificio a demonios — Toda ingestión de sangre es prohibida — Se requiere el derramamiento de sangre para expiación por los pecados.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

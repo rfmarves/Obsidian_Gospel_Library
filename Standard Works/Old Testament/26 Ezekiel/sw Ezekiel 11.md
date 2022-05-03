@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 He sees in vision the destruction of Jerusalem and the captivity of the Jews—He prophesies the latter-day gathering of Israel.
 
----
 ###### 1 
 Moreover the spirit lifted me up, and brought me unto the east gate of the ’s house, which looketh eastward: and behold at the door of the gate five and twenty men; among whom I saw Jaazaniah the son of Azur, and Pelatiah the son of Benaiah, princes of the people.
 

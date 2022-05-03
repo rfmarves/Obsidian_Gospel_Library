@@ -1,22 +1,21 @@
 ---
 title: Gênesis 36
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 36
 [[Gênesis 35| <-- Gênesis 35]] | [[Gênesis]] | [[Gênesis 37|Gênesis 37 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/36?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/36?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os descendentes de Esaú, que é Edom, são enumerados.
 
----
 ###### 1 
 E estas  as gerações de Esaú (que  Edom).
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 12
 [[1 Reis 11| <-- 1 Reis 11]] | [[1 Reis]] | [[1 Reis 13|1 Reis 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Roboão procura impor fardos mais pesados ao povo — As dez tribos se rebelam e se voltam para Jeroboão — Jeroboão se entrega à idolatria e adora deuses falsos.
 
----
 ###### 1 
 E foi Roboão para Siquém, porque todo o Israel foi a Siquém, para o fazerem rei.
 

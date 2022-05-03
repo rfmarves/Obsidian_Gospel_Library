@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 41
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 41
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/41?lang=eng)
 
----
-__Summary__
+> __Summary__
 To Israel the Lord says, Ye are my servants; I will preserve you—Idols are nothing—One will bring good tidings to Jerusalem.
 
----
 ###### 1 
 Keep silence before me, O islands; and let the people renew  strength: let them come near; then let them speak: let us come near together to judgment.
 

@@ -1,22 +1,21 @@
 ---
 title: Êxodo 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 10
 [[Êxodo 9| <-- Êxodo 9]] | [[Êxodo]] | [[Êxodo 11|Êxodo 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor envia uma praga de gafanhotos — Seguem-se trevas espessas sobre todo o Egito por três dias — Moisés é expulso da presença de Faraó.
 
----
 ###### 1 
 Depois disse o  a Moisés: Vai a Faraó, porque endureci o seu coração, e o coração de seus servos, para fazer estes meus sinais diante dele,
 

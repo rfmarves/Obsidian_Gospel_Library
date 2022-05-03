@@ -1,22 +1,21 @@
 ---
 title: Job 42
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 42
 [[Job 41| <-- Job 41]] | [[Job]] | [[Salmos 1|Salmos 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/42?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/42?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Job se arrepiente en polvo y ceniza — Él ve a Jehová con sus ojos — Jehová castiga a los amigos de Job, acepta a Job y lo bendice, y bendice sus postreros días más que los primeros.
 
----
 ###### 1 
 Y respondió Job a Jehová y dijo:
 

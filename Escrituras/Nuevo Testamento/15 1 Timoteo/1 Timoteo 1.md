@@ -1,22 +1,21 @@
 ---
 title: 1 Timoteo 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Timoteo 1
 [[2 Tesalonisenses 3| <-- 2 Tesalonisenses 3]] | [[1 Timoteo]] | [[1 Timoteo 2|1 Timoteo 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se aconseja enseñar solamente la doctrina verdadera — Cristo vino para salvar a los pecadores que se arrepienten.
 
----
 ###### 1 
 Pablo, apóstol de Jesucristo por mandato de Dios nuestro Salvador, el Señor Jesucristo, nuestra esperanza,
 

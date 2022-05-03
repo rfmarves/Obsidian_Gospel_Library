@@ -1,27 +1,25 @@
 ---
 title: Salmos 102
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 102
 [[Salmos 101| <-- Salmos 101]] | [[Salmos]] | [[Salmos 103|Salmos 103 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/102?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/102?lang=spa)
 
----
+```
 Oración del afligido cuando desmaya y derrama su lamento delante de Jehová.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 El salmista ofrece una oración del que sufre — Sion será edificada cuando Jehová aparezca en Su gloria — Aunque el cielo y la tierra perezcan, Jehová, que los creó, permanecerá para siempre.
 
----
 ###### 1 
 
 

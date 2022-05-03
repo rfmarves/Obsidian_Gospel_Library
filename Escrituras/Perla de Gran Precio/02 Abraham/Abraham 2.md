@@ -1,22 +1,21 @@
 ---
 title: Abraham 2
-tags: #Escrituras\PdGP
+tags: Escrituras\PdGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Abraham 2
 [[Abraham 1| <-- Abraham 1]] | [[Abraham]] | [[Abraham 3|Abraham 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Abraham sale de Ur para trasladarse a Canaán — Jehová se le aparece en Harán — Todas las bendiciones del Evangelio se prometen a su descendencia y, por medio de su descendencia, a todos — Llega a Canaán y sigue hasta Egipto.
 
----
 ###### 1 
 Ahora, Dios el Señor hizo que se agravase el hambre en la tierra de Ur, tanto que murió mi hermano Harán; pero mi padre Taré siguió viviendo en la tierra de Ur de los caldeos.
 

@@ -1,22 +1,21 @@
 ---
 title: Isaías 50
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 50
 [[Isaías 49| <-- Isaías 49]] | [[Isaías]] | [[Isaías 51|Isaías 51 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/50?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/50?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Isaías habla en lenguaje mesiánico — El Mesías tendrá lengua de sabios — Entregará Su espalda a los heridores — No será confundido — Compárese con 2 Nefi 7.
 
----
 ###### 1 
 Así ha dicho Jehová: ¿Dónde está la carta de divorcio de vuestra madre, con la cual yo la he repudiado? ¿O quiénes son mis acreedores, a quienes yo os he vendido? He aquí que por vuestras iniquidades habéis sido vendidos, y por vuestras transgresiones ha sido repudiada vuestra madre.
 

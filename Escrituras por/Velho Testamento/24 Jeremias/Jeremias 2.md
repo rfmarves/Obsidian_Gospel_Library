@@ -1,22 +1,21 @@
 ---
 title: Jeremias 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 2
 [[Jeremias 1| <-- Jeremias 1]] | [[Jeremias]] | [[Jeremias 3|Jeremias 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo de Judá deixou o Senhor, o manancial de águas vivas — Eles adoraram ídolos e rejeitaram os profetas.
 
----
 ###### 1 
 Então veio a mim a palavra do , dizendo:
 

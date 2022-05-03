@@ -1,22 +1,21 @@
 ---
 title: Proverbios 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 3
 [[Proverbios 2| <-- Proverbios 2]] | [[Proverbios]] | [[Proverbios 4|Proverbios 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Escribe en la tabla de tu corazón la misericordia y la verdad — Confía en Jehová — Hónrale con tus bienes; Jehová corrige a quien ama — Bienaventurado el hombre que halla la sabiduría.
 
----
 ###### 1 
 
 

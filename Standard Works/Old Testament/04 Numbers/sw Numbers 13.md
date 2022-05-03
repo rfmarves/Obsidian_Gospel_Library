@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses sends twelve spies to search the land of Canaan—Ten of them bring an evil report, telling only of the strength of the inhabitants.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

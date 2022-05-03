@@ -1,10 +1,11 @@
 ---
 title: sw Helaman 11
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Helaman 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nephi persuades the Lord to replace their war with a famine—Many people perish—They repent, and Nephi importunes the Lord for rain—Nephi and Lehi receive many revelations—The Gadianton robbers entrench themselves in the land. About 20–6 B.C.
 
----
 ###### 1 
 And now it came to pass in the seventy and second year of the reign of the judges that the contentions did increase, insomuch that there were wars throughout all the land among all the people of Nephi.
 

@@ -1,22 +1,21 @@
 ---
 title: Levíticos 26
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 26
 [[Levíticos 25| <-- Levíticos 25]] | [[Levíticos]] | [[Levíticos 27|Levíticos 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Si el pueblo guarda los mandamientos, bendiciones temporales y espirituales abundarán en Israel — Si desobedecen a Jehová, habrá maldiciones, azotes y desolación — Cuando Su pueblo se arrepienta, Jehová les mostrará misericordia.
 
----
 ###### 1 
 No haréis para vosotros ídolos, ni escultura, ni os levantaréis estatua, ni pondréis en vuestra tierra piedra grabada para inclinaros ante ella, porque yo soy Jehová, vuestro Dios.
 

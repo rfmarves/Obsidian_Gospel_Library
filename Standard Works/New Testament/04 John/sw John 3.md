@@ -1,10 +1,11 @@
 ---
 title: sw John 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus tells Nicodemus that men must be born again—God so loved the world that He sent His Only Begotten Son to save men—John the Baptist testifies that he that believes on the Son has everlasting life.
 
----
 ###### 1 
 There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
 

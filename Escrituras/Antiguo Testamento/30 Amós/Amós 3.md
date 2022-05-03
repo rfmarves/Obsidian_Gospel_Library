@@ -1,22 +1,21 @@
 ---
 title: Amós 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 3
 [[Amós 2| <-- Amós 2]] | [[Amós]] | [[Amós 4|Amós 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová revela Sus secretos a Sus siervos los profetas — Dado que Israel rechaza a los profetas y consiente el mal, la nación será derrotada por un enemigo.
 
----
 ###### 1 
 Oíd esta palabra que ha hablado Jehová contra vosotros, oh hijos de Israel, contra toda la familia que hice subir de la tierra de Egipto. Dice así:
 

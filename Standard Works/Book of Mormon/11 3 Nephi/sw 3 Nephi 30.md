@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 30
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 30
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/30?lang=eng)
 
----
-__Summary__
+> __Summary__
 The latter-day Gentiles are commanded to repent, come unto Christ, and be numbered with the house of Israel. About A.D. 34–35.
 
----
 ###### 1 
 Hearken, O ye Gentiles, and hear the words of Jesus Christ, the Son of the living God, which he hath commanded me that I should speak concerning you, for, behold he commandeth me that I should write, saying:
 

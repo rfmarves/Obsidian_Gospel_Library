@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 13
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 John sees fierce-looking beasts that represent degenerate earthly kingdoms controlled by Satan—The devil works miracles and deceives men.
 
----
 ###### 1 
 And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
 

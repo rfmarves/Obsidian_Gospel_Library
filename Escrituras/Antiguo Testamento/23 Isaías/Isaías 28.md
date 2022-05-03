@@ -1,22 +1,21 @@
 ---
 title: Isaías 28
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 28
 [[Isaías 27| <-- Isaías 27]] | [[Isaías]] | [[Isaías 29|Isaías 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 ¡Ay de los ebrios de Efraín! — La revelación viene línea sobre línea y precepto sobre precepto — Se promete que Cristo, el fundamento seguro, vendrá.
 
----
 ###### 1 
 ¡Ay de la corona de soberbia de los ebrios de Efraín y de la flor caduca de la hermosura de su gloria, que está sobre la cabeza del valle fértil de los aturdidos por el vino!
 

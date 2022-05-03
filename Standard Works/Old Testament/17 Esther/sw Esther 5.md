@@ -1,10 +1,11 @@
 ---
 title: sw Esther 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Esther 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The king receives Esther—She invites him and Haman to a banquet—Haman plans to have Mordecai hanged.
 
----
 ###### 1 
 Now it came to pass on the third day, that Esther put on  royal  and stood in the inner court of the king’s house, over against the king’s house: and the king sat upon his royal throne in the royal house, over against the gate of the house.
 

@@ -1,22 +1,21 @@
 ---
 title: Hechos 24
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 24
 [[Hechos 23| <-- Hechos 23]] | [[Hechos]] | [[Hechos 25|Hechos 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se acusa a Pablo de sedición — Él responde en defensa de su vida y de la doctrina — Enseña a Félix sobre la rectitud, la templanza y el juicio venidero.
 
----
 ###### 1 
 Y cinco días después, descendió el sumo sacerdote Ananías con algunos de los ancianos y un cierto orador llamado Tértulo; y acusaron a Pablo delante del gobernador.
 

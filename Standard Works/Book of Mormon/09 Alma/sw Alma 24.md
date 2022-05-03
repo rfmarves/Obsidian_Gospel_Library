@@ -1,10 +1,11 @@
 ---
 title: sw Alma 24
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lamanites come against the people of God—The Anti-Nephi-Lehies rejoice in Christ and are visited by angels—They choose to suffer death rather than to defend themselves—More Lamanites are converted. About 90–77 B.C.
 
----
 ###### 1 
 And it came to pass that the Amalekites and the Amulonites and the Lamanites who were in the land of Amulon, and also in the land of Helam, and who were in the land of Jerusalem, and in fine, in all the land round about, who had not been converted and had not taken upon them the name of Anti-Nephi-Lehi, were stirred up by the Amalekites and by the Amulonites to anger against their brethren.
 

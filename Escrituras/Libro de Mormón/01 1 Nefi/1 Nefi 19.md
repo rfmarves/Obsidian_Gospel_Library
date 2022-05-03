@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 19
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 19
 [[1 Nefi 18| <-- 1 Nefi 18]] | [[1 Nefi]] | [[1 Nefi 20|1 Nefi 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nefi hace unas planchas de metal y graba en ellas la historia de su pueblo — El Dios de Israel vendrá seiscientos años después de la salida de Lehi de Jerusalén — Nefi habla de los sufrimientos y la crucifixión del Señor — Los judíos serán despreciados y esparcidos hasta los últimos días, cuando vuelvan ellos al Señor. Aproximadamente 588–570 a.C.
 
----
 ###### 1 
 Y aconteció que me mandó el Señor, por tanto, hice unas planchas de metal para grabar sobre ellas la historia de mi pueblo. Y sobre las planchas que hice, grabé la historia de mi padre, y también nuestros viajes en el desierto y las profecías de mi padre; y también muchas de mis propias profecías he grabado sobre ellas.
 

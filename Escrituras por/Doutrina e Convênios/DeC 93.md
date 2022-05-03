@@ -1,22 +1,21 @@
 ---
 title: DeC 93
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 93
 [[DeC 92| <-- DeC 92]] | [[DeC]] | [[DeC 94|DeC 94 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, Todos os que forem fiéis verão o Senhor; 6–18, João prestou testemunho de que o Filho de Deus recebeu graça por graça até receber a plenitude da glória do Pai; 19–20, Os homens fiéis que avançarem de graça em graça também receberão de Sua plenitude; 21–22, Os que são gerados por meio de Cristo são a Igreja do Primogênito; 23–28, Cristo recebeu a plenitude de toda a verdade e o homem, pela obediência, pode fazer o mesmo; 29–32, O homem estava, no princípio, com Deus; 33–35, Os elementos são eternos e o homem pode receber a plenitude da alegria na Ressurreição; 36–37, A glória de Deus é inteligência; 38–40, As crianças são inocentes perante Deus por causa da redenção de Cristo; 41–53, Ordena-se que os irmãos da liderança ponham ordem em suas famílias.
 
----
 ###### 1 
 Em verdade, assim diz o Senhor: Acontecerá que toda alma que abandonar os seus pecados e vier a mim, e invocar o meu nome, e obedecer à minha voz, e guardar os meus mandamentos verá a minha face e saberá que eu sou;
 

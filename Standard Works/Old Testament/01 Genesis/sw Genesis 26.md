@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 26
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord promises Isaac posterity as the stars of heaven in number—In his seed, all nations will be blessed—The Lord prospers Isaac, temporally and spiritually, for Abraham’s sake—Isaac offers sacrifices—Esau marries Hittite wives to the sorrow of his parents.
 
----
 ###### 1 
 And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar.
 

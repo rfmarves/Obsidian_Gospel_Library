@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the millennial day, all men will praise the Lord—He will dwell among them—Compare 2 Nephi 22.
 
----
 ###### 1 
 And in that day thou shalt say, O , I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.
 

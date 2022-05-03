@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 There remain some lands yet to be possessed—Some inhabitants are not expelled—The inheritances of Reuben, Gad, and one half of Manasseh are confirmed.
 
----
 ###### 1 
 Now Joshua was old  stricken in years; and the  said unto him, Thou art old  stricken in years, and there remaineth yet very much land to be possessed.
 

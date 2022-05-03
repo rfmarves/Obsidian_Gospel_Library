@@ -1,10 +1,11 @@
 ---
 title: sw John 12
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mary anoints Jesus’ feet—His triumphal entry into Jerusalem is recounted—He foretells His death—To receive Christ is to receive the Father.
 
----
 ###### 1 
 Then Jesus six days before the passover came to Bethany, where Lazarus was which had been dead, whom he raised from the dead.
 

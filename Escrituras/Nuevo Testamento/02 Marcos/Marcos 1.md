@@ -1,22 +1,21 @@
 ---
 title: Marcos 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 1
 [[Mateo 28| <-- Mateo 28]] | [[Marcos]] | [[Marcos 2|Marcos 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús es bautizado por Juan — Jesús predica el Evangelio, llama discípulos, expulsa demonios, sana a los enfermos y limpia a un leproso.
 
----
 ###### 1 
 Principio del evangelio de Jesucristo, Hijo de Dios.
 

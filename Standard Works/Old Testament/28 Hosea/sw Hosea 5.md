@@ -1,10 +1,11 @@
 ---
 title: sw Hosea 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hosea 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The kingdoms of Judah and Israel will both fall because of their iniquities.
 
----
 ###### 1 
 Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment  toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.
 

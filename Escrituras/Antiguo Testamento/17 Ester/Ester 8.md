@@ -1,22 +1,21 @@
 ---
 title: Ester 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 8
 [[Ester 7| <-- Ester 7]] | [[Ester]] | [[Ester 9|Ester 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se honra a Mardoqueo y se le pone a cargo de la casa de Amán — Asuero promulga un decreto para la preservación de los judíos.
 
----
 ###### 1 
 El mismo día dio el rey Asuero a la reina Ester la casa de Amán, enemigo de los judíos; y Mardoqueo fue ante el rey, porque Ester le había dicho lo que él era para ella.
 

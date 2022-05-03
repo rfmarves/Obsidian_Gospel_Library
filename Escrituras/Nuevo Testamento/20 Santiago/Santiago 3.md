@@ -1,22 +1,21 @@
 ---
 title: Santiago 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Santiago 3
 [[Santiago 2| <-- Santiago 2]] | [[Santiago]] | [[Santiago 4|Santiago 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/james/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/james/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Si refrenamos la lengua, logramos perfección — La sabiduría celestial es pura, pacífica y llena de misericordia.
 
----
 ###### 1 
 Hermanos míos, no os hagáis maestros muchos de vosotros, sabiendo que recibiremos mayor condenación.
 

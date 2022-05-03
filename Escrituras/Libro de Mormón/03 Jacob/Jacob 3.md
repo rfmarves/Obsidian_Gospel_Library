@@ -1,22 +1,21 @@
 ---
 title: Jacob 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jacob 3
 [[Jacob 2| <-- Jacob 2]] | [[Jacob]] | [[Jacob 4|Jacob 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los puros de corazón reciben la placentera palabra de Dios — La rectitud de los lamanitas es mayor que la de los nefitas — Jacob amonesta contra la fornicación, la lascivia y todo pecado. Aproximadamente 544–421 a.C.
 
----
 ###### 1 
 Mas he aquí que yo, Jacob, quisiera dirigirme a vosotros, los que sois puros de corazón. Confiad en Dios con mentes firmes, y orad a él con suma fe, y él os consolará en vuestras aflicciones, y abogará por vuestra causa, y hará que la justicia descienda sobre los que buscan vuestra destrucción.
 

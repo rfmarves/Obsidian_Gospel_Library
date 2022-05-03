@@ -1,22 +1,21 @@
 ---
 title: Helamã 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamã 4
 [[Helamã 3| <-- Helamã 3]] | [[Helamã]] | [[Helamã 5|Helamã 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Dissidentes nefitas e os lamanitas unem forças e tomam a terra de Zaraenla — As derrotas dos nefitas ocorrem por causa de sua iniquidade — A Igreja decai e o povo torna-se fraco, da mesma forma que os lamanitas. Aproximadamente 38–30 a.C.
 
----
 ###### 1 
 E aconteceu que no quinquagésimo quarto ano houve muitas dissensões na igreja e houve também uma contenda entre o povo, de modo que muito sangue foi derramado.
 

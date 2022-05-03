@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 30
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 30
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/30?lang=eng)
 
----
-__Summary__
+> __Summary__
 Converted Gentiles will be numbered with the covenant people—Many Lamanites and Jews will believe the word and become delightsome—Israel will be restored and the wicked destroyed. About 559–545 B.C.
 
----
 ###### 1 
 And now behold, my beloved brethren, I would speak unto you; for I, Nephi, would not suffer that ye should suppose that ye are more righteous than the Gentiles shall be. For behold, except ye shall keep the commandments of God ye shall all likewise perish; and because of the words which have been spoken ye need not suppose that the Gentiles are utterly destroyed.
 

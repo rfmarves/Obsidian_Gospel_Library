@@ -1,22 +1,21 @@
 ---
 title: Isaías 54
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 54
 [[Isaías 53| <-- Isaías 53]] | [[Isaías]] | [[Isaías 55|Isaías 55 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/54?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/54?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nos últimos dias, Sião e suas estacas serão estabelecidas, e Israel será recolhida com misericórdia e compaixão — Israel triunfará — Comparar com 3 Néfi 22.
 
----
 ###### 1 
 Canta alegremente, ó estéril,  não deste à luz; exclama de prazer com alegre canto, e exulta, tu  não tiveste dores de parto; porque mais  os filhos da solitária, do que os filhos da casada, diz o .
 

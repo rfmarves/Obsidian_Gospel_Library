@@ -1,25 +1,24 @@
 ---
 title: José Smith--Historia 1
-tags: #Escrituras\PdGP
+tags: Escrituras\PdGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # José Smith--Historia 1
 [[José Smith--Mateo 1| <-- José Smith--Mateo 1]] | [[José Smith--Historia]] | [[Los Artículos de Fe 1|Los Artículos de Fe 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=spa)
 
 José Smith--Historia
 Selecciones de la Historia de José Smith el Profeta
 
----
-__Resumen__
+> __Resumen__
 José Smith habla de sus ascendientes, de los miembros de su familia y de los lugares donde habían vivido anteriormente — En la parte occidental de Nueva York, predomina una agitación extraordinaria en cuanto a religión — Resuelve buscar sabiduría como lo aconseja Santiago — El Padre y el Hijo se aparecen a José Smith y este es llamado a su ministerio profético. (Versículos 1–20).
 
----
 José Smith habla de sus ascendientes, de los miembros de su familia y de los lugares donde habían vivido anteriormente — En la parte occidental de Nueva York, predomina una agitación extraordinaria en cuanto a religión — Resuelve buscar sabiduría como lo aconseja Santiago — El Padre y el Hijo se aparecen a José Smith y este es llamado a su ministerio profético. (Versículos 1–20).
 
 ###### 1 

@@ -1,22 +1,21 @@
 ---
 title: Zacarias 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarias 10
 [[Zacarias 9| <-- Zacarias 9]] | [[Zacarias]] | [[Zacarias 11|Zacarias 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Judá e José serão dispersos entre os povos de países distantes — O Senhor lhes assobiará e os reunirá e redimirá.
 
----
 ###### 1 
 Pedi ao  chuva no tempo da serôdia; o  que faz relâmpagos lhes dará chuvas abundantes, e erva no campo a cada um.
 

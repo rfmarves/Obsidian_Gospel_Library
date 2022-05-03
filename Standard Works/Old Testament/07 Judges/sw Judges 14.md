@@ -1,10 +1,11 @@
 ---
 title: sw Judges 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Samson slays a young lion with his bare hands—He marries a Philistine wife, propounds a riddle, is deceived by his wife, and slays thirty Philistines.
 
----
 ###### 1 
 And Samson went down to Timnath, and saw a woman in Timnath of the daughters of the Philistines.
 

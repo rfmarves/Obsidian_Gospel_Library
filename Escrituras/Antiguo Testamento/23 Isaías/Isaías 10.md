@@ -1,22 +1,21 @@
 ---
 title: Isaías 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 10
 [[Isaías 9| <-- Isaías 9]] | [[Isaías]] | [[Isaías 11|Isaías 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La destrucción de Asiria es un símbolo de la destrucción de los inicuos en la Segunda Venida — Pocas personas quedarán después que el Señor venga de nuevo — El remanente de los de Jacob volverá en ese día — Compárese con 2 Nefi 20.
 
----
 ###### 1 
 ¡Ay de los que decretan leyes inicuas y que prescriben opresión,
 

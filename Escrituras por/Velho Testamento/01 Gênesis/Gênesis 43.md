@@ -1,22 +1,21 @@
 ---
 title: Gênesis 43
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 43
 [[Gênesis 42| <-- Gênesis 42]] | [[Gênesis]] | [[Gênesis 44|Gênesis 44 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/43?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/43?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó é persuadido a enviar Benjamim ao Egito — Os irmãos de José o reverenciam — Todos eles comem e bebem juntos.
 
----
 ###### 1 
 E a fome  gravíssima na terra.
 

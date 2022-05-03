@@ -1,22 +1,21 @@
 ---
 title: Jeremias 44
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 44
 [[Jeremias 43| <-- Jeremias 43]] | [[Jeremias]] | [[Jeremias 45|Jeremias 45 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/44?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/44?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias profetiza que os judeus que estão no Egito, com exceção de um pequeno remanescente, serão destruídos por adorarem deuses falsos.
 
----
 ###### 1 
 A palavra que veio a Jeremias, acerca de todos os judeus, habitantes da terra do Egito, que habitavam em Migdol, e em Tafnes, e em Mênfis, e na terra de Patros, dizendo:
 

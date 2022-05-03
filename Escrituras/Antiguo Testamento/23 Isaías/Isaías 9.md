@@ -1,22 +1,21 @@
 ---
 title: Isaías 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 9
 [[Isaías 8| <-- Isaías 8]] | [[Isaías]] | [[Isaías 10|Isaías 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Isaías habla del Mesías — El pueblo que andaba en tinieblas verá una gran luz — Un niño nos es nacido — Será el Príncipe de Paz y reinará sobre el trono de David — Compárese con 2 Nefi 19.
 
----
 ###### 1 
 Sin embargo, no habrá oscuridad tal como la aflicción que hubo en el tiempo en que él livianamente afligió la primera vez a la tierra de Zabulón y a la tierra de Neftalí; y después la angustió más penosamente por la vía del mar, del otro lado del Jordán, en Galilea de las naciones.
 

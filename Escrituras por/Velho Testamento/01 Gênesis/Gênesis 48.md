@@ -1,22 +1,21 @@
 ---
 title: Gênesis 48
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 48
 [[Gênesis 47| <-- Gênesis 47]] | [[Gênesis]] | [[Gênesis 49|Gênesis 49 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/48?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/48?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó narra a aparição de Deus a ele em Luz — Adota Efraim e Manassés como seus próprios filhos — Jacó abençoa José — Põe Efraim adiante de Manassés — A semente de Efraim se tornará uma multidão de nações — Os filhos de Israel regressarão à terra de seus pais.
 
----
 ###### 1 
 E aconteceu, depois dessas coisas, que alguém disse a José: Eis que teu pai está enfermo. Então tomou consigo os seus dois filhos, Manassés e Efraim.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 A prophet anoints Jehu king over Israel and prophesies the destruction of the house of Ahab and the death of Jezebel—Jehu kills Joram in the field of Naboth—Jezebel is killed by Jehu and is eaten by dogs.
 
----
 ###### 1 
 And Elisha the prophet called one of the children of the prophets, and said unto him, Gird up thy loins, and take this box of oil in thine hand, and go to Ramoth-gilead:
 

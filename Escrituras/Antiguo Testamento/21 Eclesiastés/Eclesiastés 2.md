@@ -1,22 +1,21 @@
 ---
 title: Eclesiastés 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastés 2
 [[Eclesiastés 1| <-- Eclesiastés 1]] | [[Eclesiastés]] | [[Eclesiastés 3|Eclesiastés 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Todas las riquezas y la abundancia del rey son vanidad y aflicción de espíritu — La sabiduría sobrepuja a la necedad — Dios da al hombre sabiduría, conocimiento y gozo.
 
----
 ###### 1 
 Dije yo en mi corazón: Ve ahora, te probaré con la alegría, y gozarás de lo bueno. Mas he aquí esto también era vanidad.
 

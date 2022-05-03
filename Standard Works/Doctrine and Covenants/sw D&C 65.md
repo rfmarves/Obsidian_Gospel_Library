@@ -1,10 +1,11 @@
 ---
 title: sw D&C 65
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 65
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/65?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–2, The keys of the kingdom of God are committed to man on earth, and the gospel cause will triumph; 3–6, The millennial kingdom of heaven will come and join the kingdom of God on earth.
 
----
 ###### 1 
 Hearken, and lo, a voice as of one sent down from on high, who is mighty and powerful, whose going forth is unto the ends of the earth, yea, whose voice is unto men—Prepare ye the way of the Lord, make his paths straight.
 

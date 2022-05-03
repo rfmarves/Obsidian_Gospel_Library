@@ -1,22 +1,21 @@
 ---
 title: Êxodo 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 22
 [[Êxodo 21| <-- Êxodo 21]] | [[Êxodo]] | [[Êxodo 23|Êxodo 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor revela as Suas leis concernentes a furtos, destruição pelo fogo, cuidado de propriedade alheia, empréstimos, atos lascivos, sacrifícios a deuses falsos, afligir viúvas, usura, amaldiçoar a Deus, ao primogênito de homens e de animais — Ordena-se aos homens de Israel que sejam santos.
 
----
 ###### 1 
 Se alguém furtar boi ou ovelha, e o matar ou vender, por um boi pagará cinco bois, e pela ovelha, quatro ovelhas.
 

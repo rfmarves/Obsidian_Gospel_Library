@@ -1,10 +1,11 @@
 ---
 title: sw Jonah 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jonah 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jonah/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jonah is sent to call Nineveh to repentance—He flees on a ship, is cast into the sea, and is swallowed by a great fish.
 
----
 ###### 1 
 Now the word of the  came unto Jonah the son of Amittai, saying,
 

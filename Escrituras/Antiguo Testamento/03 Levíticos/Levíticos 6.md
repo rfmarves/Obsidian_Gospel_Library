@@ -1,22 +1,21 @@
 ---
 title: Levíticos 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 6
 [[Levíticos 5| <-- Levíticos 5]] | [[Levíticos]] | [[Levíticos 7|Levíticos 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El pueblo debe hacer primero la restitución por el pecado; después debe ofrecer la ofrenda por la culpa y así lograr el perdón mediante la expiación hecha por los sacerdotes.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

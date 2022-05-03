@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 28
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 28
 [[2 Crônicas 27| <-- 2 Crônicas 27]] | [[2 Crônicas]] | [[2 Crônicas 29|2 Crônicas 29 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/28?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/28?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Acaz reina iniquamente e pratica a idolatria; seu povo é derrotado por Israel — Os cativos são libertados por ordem de um profeta — Os edomitas e os filisteus atacam Judá — Acaz continua a praticar a idolatria.
 
----
 ###### 1 
 Tinha Acaz vinte anos de idade quando começou a reinar, e dezesseis anos reinou em Jerusalém; e não fez o  reto aos olhos do , como Davi, seu pai.
 

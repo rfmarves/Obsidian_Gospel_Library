@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 5
 [[1 Samuel 4| <-- 1 Samuel 4]] | [[1 Samuel]] | [[1 Samuel 6|1 Samuel 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los filisteos colocan el arca en la casa de su dios Dagón — Primero los filisteos de Asdod, enseguida los de Gat y posteriormente los de Ecrón son heridos con una plaga y mueren por tener el arca entre ellos.
 
----
 ###### 1 
 Y cuando los filisteos capturaron el arca de Dios, la trajeron desde Eben-ezer a Asdod.
 

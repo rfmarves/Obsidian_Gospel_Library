@@ -1,22 +1,21 @@
 ---
 title: Malaquias 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Malaquias 4
 [[Malaquias 3| <-- Malaquias 3]] | [[Malaquias]] |
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/mal/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/mal/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Na Segunda Vinda, os orgulhosos e os iníquos serão queimados como restolho — Elias, o profeta, voltará antes desse grande e terrível dia.
 
----
 ###### 1 
 Porque eis que aquele dia vem ardendo como fornalha; todos os soberbos, e todos os que cometem impiedade serão como a palha; e o dia que está para vir os abrasará, diz o  dos Exércitos, de modo que não lhes deixará nem raiz nem ramo.
 

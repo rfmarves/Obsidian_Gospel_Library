@@ -1,10 +1,11 @@
 ---
 title: sw Judges 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Gideon pursues and destroys the Midianites—He frees the children of Israel but refuses their invitation to reign as king over them—Gideon dies, and Israel returns to idolatry.
 
----
 ###### 1 
 And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites? And they did chide with him sharply.
 

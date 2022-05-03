@@ -1,10 +1,11 @@
 ---
 title: sw Mormon 6
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mormon 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Nephites gather to the land of Cumorah for the final battles—Mormon hides the sacred records in the hill Cumorah—The Lamanites are victorious, and the Nephite nation is destroyed—Hundreds of thousands are slain with the sword. About A.D. 385.
 
----
 ###### 1 
 And now I finish my record concerning the destruction of my people, the Nephites. And it came to pass that we did march forth before the Lamanites.
 

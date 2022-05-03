@@ -1,22 +1,21 @@
 ---
 title: Hechos 27
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 27
 [[Hechos 26| <-- Hechos 26]] | [[Hechos]] | [[Hechos 28|Hechos 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo, en un viaje peligroso, se dirige a Roma — Un ángel lo consuela — Emplea el don de vidente — Su barco naufraga.
 
----
 ###### 1 
 Cuando se decidió que habíamos de navegar para Italia, entregaron a Pablo y a algunos otros presos a un centurión llamado Julio, de la compañía Augusta.
 

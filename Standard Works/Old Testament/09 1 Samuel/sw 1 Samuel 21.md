@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 David gets help from Ahimelech the priest—He eats the shewbread—He goes to Gath, where he pretends madness.
 
----
 ###### 1 
 Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why  thou alone, and no man with thee?
 

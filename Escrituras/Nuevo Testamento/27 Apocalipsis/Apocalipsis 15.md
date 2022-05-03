@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 15
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 15
 [[Apocalipsis 14| <-- Apocalipsis 14]] | [[Apocalipsis]] | [[Apocalipsis 16|Apocalipsis 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los santos exaltados alaban a Dios en la gloria celestial para siempre.
 
----
 ###### 1 
 Y vi otra señal en el cielo, grande y admirable: siete ángeles que tenían las siete plagas postreras, porque en ellas es consumada la ira de Dios.
 

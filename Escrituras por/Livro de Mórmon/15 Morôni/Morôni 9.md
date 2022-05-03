@@ -1,27 +1,25 @@
 ---
 title: Morôni 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Morôni 9
 [[Morôni 8| <-- Morôni 8]] | [[Morôni]] | [[Morôni 10|Morôni 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/9?lang=por)
 
----
+```
 A segunda epístola de Mórmon a seu filho Morôni.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Tanto os nefitas como os lamanitas tornaram-se depravados e degenerados — Torturam-se e assassinam-se uns aos outros — Mórmon ora para que a graça e a bondade descansem sobre Morôni para sempre. Aproximadamente 401 d.C.
 
----
 ###### 1 
 Meu amado filho, torno a escrever-te a fim de que saibas que ainda estou vivo; mas escrevo algumas coisas que são penosas.
 

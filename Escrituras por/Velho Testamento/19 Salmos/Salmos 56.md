@@ -1,27 +1,25 @@
 ---
 title: Salmos 56
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 56
 [[Salmos 55| <-- Salmos 55]] | [[Salmos]] | [[Salmos 57|Salmos 57 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/56?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/56?lang=por)
 
----
+```
 Para o músico-mor, sobre Jonate-Elém-Recoquim. Mictão de Davi, quando os filisteus o prenderam em Gate.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi busca misericórdia, confia no Senhor e O louva, agradecendo a Ele pela libertação.
 
----
 ###### 1 
 Tem misericórdia de mim, ó Deus, porque o homem procura devorar-me; pelejando todo dia, me oprime.
 

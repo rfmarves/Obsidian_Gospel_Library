@@ -1,22 +1,21 @@
 ---
 title: Gênesis 42
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 42
 [[Gênesis 41| <-- Gênesis 41]] | [[Gênesis]] | [[Gênesis 43|Gênesis 43 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/42?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/42?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó envia os filhos ao Egito para comprar trigo — Eles se inclinam diante de José — José faz acusações ásperas contra eles, aprisiona Simeão e envia-os de volta para buscar Benjamim.
 
----
 ###### 1 
 Vendo então Jacó que havia mantimento no Egito, disse Jacó a seus filhos: Por que estais olhando uns para os outros?
 

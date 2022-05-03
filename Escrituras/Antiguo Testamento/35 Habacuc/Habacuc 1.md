@@ -1,22 +1,21 @@
 ---
 title: Habacuc 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Habacuc 1
 [[Nahúm 3| <-- Nahúm 3]] | [[Habacuc]] | [[Habacuc 2|Habacuc 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hab/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hab/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cuando Habacuc se entera de que Jehová levantará a los caldeos para invadir la tierra de Israel, le aflige el que se vaya a emplear a los malvados para esos fines.
 
----
 ###### 1 
 La profecía que vio el profeta Habacuc.
 

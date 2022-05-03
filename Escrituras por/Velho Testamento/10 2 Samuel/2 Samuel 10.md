@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 10
 [[2 Samuel 9| <-- 2 Samuel 9]] | [[2 Samuel]] | [[2 Samuel 11|2 Samuel 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os amonitas maltratam os mensageiros de Davi — Israel derrota os amonitas e os sírios.
 
----
 ###### 1 
 E aconteceu depois disso que morreu o rei dos filhos de Amom, e seu filho Hanum reinou em seu lugar.
 

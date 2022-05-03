@@ -1,22 +1,21 @@
 ---
 title: Helamán 11
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 11
 [[Helamán 10| <-- Helamán 10]] | [[Helamán]] | [[Helamán 12|Helamán 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nefi persuade al Señor a que cambie la guerra por el hambre — Muchas personas perecen — Se arrepienten, y Nefi clama al Señor para que envíe lluvia — Nefi y Lehi reciben muchas revelaciones — Los ladrones de Gadiantón se hacen fuertes en la tierra. Aproximadamente 20–6 a.C.
 
----
 ###### 1 
 Y aconteció que en el año setenta y dos del gobierno de los jueces, aumentaron las contenciones, de tal modo que hubo guerras por toda la tierra, entre todo el pueblo de Nefi.
 

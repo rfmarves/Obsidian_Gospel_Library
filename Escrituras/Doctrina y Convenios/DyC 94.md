@@ -1,22 +1,21 @@
 ---
 title: DyC 94
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 94
 [[DyC 93| <-- DyC 93]] | [[DyC]] | [[DyC 95|DyC 95 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/94?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/94?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–9, Un mandamiento relacionado con la construcción de una casa para la obra de la Presidencia; 10–12, Se ha de edificar una casa para imprimir; 13–17, Se señalan ciertas heredades.
 
----
 ###### 1 
 Y además, de cierto os digo, mis amigos, os mando dar principio a la obra de proyectar y preparar el comienzo y fundación de la ciudad de la estaca de Sion, aquí en la tierra de Kirtland, principiando por mi casa.
 

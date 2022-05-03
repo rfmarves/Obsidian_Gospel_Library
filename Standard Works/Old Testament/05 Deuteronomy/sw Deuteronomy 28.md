@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 28
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 If the children of Israel are obedient, they will be blessed temporally and spiritually—If they are disobedient, they will be cursed, smitten, and destroyed; diseases, plagues, and oppression will come upon them; they will serve false gods and become a byword among all nations; fierce nations will enslave them; and they will eat their own children and be scattered among all nations.
 
----
 ###### 1 
 And it shall come to pass, if thou shalt hearken diligently unto the voice of the  thy God, to observe  to do all his commandments which I command thee this day, that the  thy God will set thee on high above all nations of the earth:
 

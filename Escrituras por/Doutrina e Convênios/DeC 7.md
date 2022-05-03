@@ -1,22 +1,21 @@
 ---
 title: DeC 7
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 7
 [[DeC 6| <-- DeC 6]] | [[DeC]] | [[DeC 8|DeC 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, João, o Amado, viverá até que o Senhor venha; 4–8, Pedro, Tiago e João possuem as chaves do evangelho.
 
----
 ###### 1 
 E O Senhor disse-me: João, meu amado, o que desejas? Pois se pedires o que desejas, ser-te-á concedido.
 

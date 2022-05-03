@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ is born of Mary—She conceives by the power of the Holy Ghost—Our Lord is named Jesus.
 
----
 ###### 1 
 The book of the generation of Jesus Christ, the son of David, the son of Abraham.
 

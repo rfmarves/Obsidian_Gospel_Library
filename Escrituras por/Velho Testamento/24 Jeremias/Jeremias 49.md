@@ -1,22 +1,21 @@
 ---
 title: Jeremias 49
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 49
 [[Jeremias 48| <-- Jeremias 48]] | [[Jeremias]] | [[Jeremias 50|Jeremias 50 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/49?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/49?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sobrevirão juízo e destruição sobre o povo de Amom, de Edom, de Quedar, de Hazor e de Elão.
 
----
 ###### 1 
 Contra os filhos de Amom. Assim diz o : Acaso não tem filhos Israel, nem tem herdeiro? Por que, pois, Malcã herdou Gade e o seu povo habitou nas suas cidades?
 

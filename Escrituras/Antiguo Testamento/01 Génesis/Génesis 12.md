@@ -1,22 +1,21 @@
 ---
 title: Génesis 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 12
 [[Génesis 11| <-- Génesis 11]] | [[Génesis]] | [[Génesis 13|Génesis 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Abram llegará a ser una gran nación — Él y su descendencia bendecirán a todas las familias de la tierra — Él viaja de Harán a la tierra de Canaán — Debido a la hambruna, Abram desciende a Egipto — Abram y Sarai son puestos a prueba en la corte de Faraón.
 
----
 ###### 1 
 Ahora bien, Jehová había dicho a Abram: Vete de tu tierra, y de tu parentela y de la casa de tu padre, a la tierra que te mostraré;
 

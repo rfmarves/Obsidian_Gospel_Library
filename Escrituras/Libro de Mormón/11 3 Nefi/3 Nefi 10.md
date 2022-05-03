@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 10
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 10
 [[3 Nefi 9| <-- 3 Nefi 9]] | [[3 Nefi]] | [[3 Nefi 11|3 Nefi 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Reina el silencio en la tierra durante muchas horas — La voz de Cristo promete juntar a los de Su pueblo así como la gallina junta a sus polluelos — La parte más justa del pueblo es preservada. Aproximadamente 34–35 d.C.
 
----
 ###### 1 
 Y he aquí, aconteció que todos los habitantes de la tierra oyeron estas palabras, y fueron testigos de ello. Y después de estas palabras, hubo silencio en la tierra por el término de muchas horas;
 

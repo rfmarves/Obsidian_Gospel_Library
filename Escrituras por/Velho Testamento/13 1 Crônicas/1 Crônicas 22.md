@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 22
 [[1 Crônicas 21| <-- 1 Crônicas 21]] | [[1 Crônicas]] | [[1 Crônicas 23|1 Crônicas 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi prepara ouro, prata, bronze, ferro, pedras e madeira de cedro para o templo — Ele encarrega Salomão de realizar o trabalho de construção do templo.
 
----
 ###### 1 
 E disse Davi: Esta  a casa do  Deus, e este  o altar do holocausto para Israel.
 

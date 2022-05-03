@@ -1,22 +1,21 @@
 ---
 title: Éter 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éter 8
 [[Éter 7| <-- Éter 7]] | [[Éter]] | [[Éter 9|Éter 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Há luta e contenda pelo reino — Aquis estabelece uma combinação secreta, regida por juramento, para matar o rei — Combinações secretas são do diabo e resultam na destruição de nações — Gentios modernos são advertidos contra a combinação secreta que procurará destruir a liberdade de todas as terras, nações e países.
 
----
 ###### 1 
 E aconteceu que ele gerou a Ômer e Ômer reinou em seu lugar. E Ômer gerou a Jarede; e Jarede gerou filhos e filhas.
 

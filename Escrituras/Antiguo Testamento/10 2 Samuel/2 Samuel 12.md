@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 12
 [[2 Samuel 11| <-- 2 Samuel 11]] | [[2 Samuel]] | [[2 Samuel 13|2 Samuel 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Natán narra a David la parábola de la corderita — Jehová dio muchas esposas a David, que llega a ser maldecido por haber tomado a Betsabé — David ayuna y ora por su hijo, pero Jehová se lleva al niño — Nace Salomón — David conquista la ciudad real de los amonitas.
 
----
 ###### 1 
 Y Jehová envió a Natán ante David; y fue a él y le dijo: Había dos hombres en una ciudad, el uno rico y el otro pobre.
 

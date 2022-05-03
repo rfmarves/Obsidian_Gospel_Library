@@ -1,27 +1,25 @@
 ---
 title: Salmos 44
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 44
 [[Salmos 43| <-- Salmos 43]] | [[Salmos]] | [[Salmos 45|Salmos 45 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/44?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/44?lang=spa)
 
----
+```
 Al músico principal. aMasquil de los hijos de Coré.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Los santos alaban al Señor y se glorían en Su nombre para siempre — Son perseguidos, difamados y considerados como ovejas para el matadero.
 
----
 ###### 1 
 
 

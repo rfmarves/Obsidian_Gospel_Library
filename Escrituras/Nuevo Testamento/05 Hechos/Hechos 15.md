@@ -1,22 +1,21 @@
 ---
 title: Hechos 15
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 15
 [[Hechos 14| <-- Hechos 14]] | [[Hechos]] | [[Hechos 16|Hechos 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Surge una gran disensión en Antioquía con respecto a la circuncisión — En Jerusalén, los apóstoles deciden sobre el asunto — Pablo escoge a Silas como su compañero.
 
----
 ###### 1 
 Entonces algunos que venían de Judea enseñaban a los hermanos: Si no os circuncidáis conforme al rito de Moisés, no podéis ser salvos.
 

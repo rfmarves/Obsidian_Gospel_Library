@@ -1,10 +1,11 @@
 ---
 title: sw Amos 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Amos 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people of Israel are exhorted to seek the Lord and do good so that they may live—Their sacrifices to false gods are abhorrent.
 
----
 ###### 1 
 Hear ye this word which I take up against you,  a lamentation, O house of Israel.
 

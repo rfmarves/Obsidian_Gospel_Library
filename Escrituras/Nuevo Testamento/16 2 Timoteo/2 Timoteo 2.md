@@ -1,22 +1,21 @@
 ---
 title: 2 Timoteo 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Timoteo 2
 [[2 Timoteo 1| <-- 2 Timoteo 1]] | [[2 Timoteo]] | [[2 Timoteo 3|2 Timoteo 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cristo da gloria eterna a los escogidos — Evitad la contención y procurad la piedad.
 
----
 ###### 1 
 Así que tú, hijo mío, esfuérzate en la gracia que es en Cristo Jesús.
 

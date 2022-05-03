@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Hoshea reigns in Israel and is subject to the Assyrians—The Israelites forsake the Lord, worship idols, serve Baal, and reject all that the Lord has given them—The ten tribes are carried away captive by the kings of Assyria—The land of Israel (Samaria) is repopulated by other people—Many forms of false worship are found among the Samaritans.
 
----
 ###### 1 
 In the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel nine years.
 

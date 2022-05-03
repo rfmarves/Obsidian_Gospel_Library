@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord reveals His laws pertaining to stealing, destructions by fire, care of the property of others, borrowing, lascivious acts, sacrifices to false gods, afflicting widows, usury, reviling God, and the firstborn of men and of animals—The men of Israel are commanded to be holy.
 
----
 ###### 1 
 If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.
 

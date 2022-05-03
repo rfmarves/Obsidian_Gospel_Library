@@ -1,10 +1,11 @@
 ---
 title: sw D&C 87
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 87
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/87?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, War is foretold between the Northern States and the Southern States; 5–8, Great calamities will fall upon all the inhabitants of the earth.
 
----
 ###### 1 
 Verily, thus saith the Lord concerning the wars that will shortly come to pass, beginning at the rebellion of South Carolina, which will eventually terminate in the death and misery of many souls;
 

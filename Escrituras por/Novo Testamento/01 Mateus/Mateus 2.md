@@ -1,22 +1,21 @@
 ---
 title: Mateus 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 2
 [[Mateus 1| <-- Mateus 1]] | [[Mateus]] | [[Mateus 3|Mateus 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os magos são guiados por uma estrela até Jesus — José leva a criança para o Egito — Herodes mata as crianças em Belém — Jesus é levado para morar em Nazaré.
 
----
 ###### 1 
 E tendo nascido Jesus em Belém da Judeia, no tempo do rei Herodes, eis que  magos vieram do oriente a Jerusalém,
 

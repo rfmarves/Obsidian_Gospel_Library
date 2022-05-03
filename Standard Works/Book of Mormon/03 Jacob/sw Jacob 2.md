@@ -1,10 +1,11 @@
 ---
 title: sw Jacob 2
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jacob 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob denounces the love of riches, pride, and unchastity—Men may seek riches to help their fellowmen—The Lord commands that no man among the Nephites may have more than one wife—The Lord delights in the chastity of women. About 544–421 B.C.
 
----
 ###### 1 
 The words which Jacob, the brother of Nephi, spake unto the people of Nephi, after the death of Nephi:
 

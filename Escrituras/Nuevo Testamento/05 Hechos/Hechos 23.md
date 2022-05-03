@@ -1,22 +1,21 @@
 ---
 title: Hechos 23
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 23
 [[Hechos 22| <-- Hechos 22]] | [[Hechos]] | [[Hechos 24|Hechos 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo es golpeado por orden de Ananías — El Señor se aparece a Pablo nuevamente — Cuarenta judíos traman su muerte — Pablo es entregado a Félix.
 
----
 ###### 1 
 Entonces Pablo, mirando fijamente al concilio, dijo: Varones hermanos, yo con toda buena conciencia he vivido delante de Dios hasta el día de hoy.
 

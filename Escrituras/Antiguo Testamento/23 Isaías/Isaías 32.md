@@ -1,22 +1,21 @@
 ---
 title: Isaías 32
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 32
 [[Isaías 31| <-- Isaías 31]] | [[Isaías]] | [[Isaías 33|Isaías 33 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/32?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/32?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Un rey, el Mesías, reinará con justicia — La tierra de Israel será un desierto hasta el día de la restauración y del recogimiento.
 
----
 ###### 1 
 He aquí que con justicia reinará un rey, y príncipes presidirán con justicia.
 

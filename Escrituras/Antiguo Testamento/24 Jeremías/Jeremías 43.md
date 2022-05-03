@@ -1,22 +1,21 @@
 ---
 title: Jeremías 43
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 43
 [[Jeremías 42| <-- Jeremías 42]] | [[Jeremías]] | [[Jeremías 44|Jeremías 44 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/43?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/43?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Johanán se lleva a Jeremías y al remanente de Judá a Egipto — Jeremías profetiza que Babilonia conquistará Egipto.
 
----
 ###### 1 
 Y aconteció que cuando Jeremías acabó de hablar a todo el pueblo todas las palabras de Jehová su Dios, todas estas palabras que Jehová su Dios le había enviado a decirles,
 

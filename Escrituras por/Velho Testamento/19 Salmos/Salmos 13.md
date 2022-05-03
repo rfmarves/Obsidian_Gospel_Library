@@ -1,27 +1,25 @@
 ---
 title: Salmos 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 13
 [[Salmos 12| <-- Salmos 12]] | [[Salmos]] | [[Salmos 14|Salmos 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/13?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi confia na misericórdia do Senhor e se regozija em Sua salvação.
 
----
 ###### 1 
 Até quando te esquecerás de mim, ? Para sempre? Até quando esconderás de mim o teu rosto?
 

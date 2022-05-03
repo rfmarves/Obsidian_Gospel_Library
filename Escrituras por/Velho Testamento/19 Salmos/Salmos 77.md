@@ -1,27 +1,25 @@
 ---
 title: Salmos 77
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 77
 [[Salmos 76| <-- Salmos 76]] | [[Salmos]] | [[Salmos 78|Salmos 78 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/77?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/77?lang=por)
 
----
+```
 Salmo de Asafe, para o músico-mor, por Jedutum.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Os justos clamam ao Senhor — Eles se lembram das maravilhas do passado e de como Ele redimiu os filhos de Jacó e guiou Israel como a um rebanho.
 
----
 ###### 1 
 Clamei a Deus  a minha voz; a Deus  a minha voz, e ele inclinou para mim os ouvidos.
 

@@ -1,22 +1,21 @@
 ---
 title: DyC 19
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 19
 [[DyC 18| <-- DyC 18]] | [[DyC]] | [[DyC 20|DyC 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–3, Cristo tiene todo poder; 4–5, Todos los hombres deben arrepentirse o padecer; 6–12, Castigo eterno es castigo de Dios; 13–20, Cristo ha padecido por todos, para que no tengan que sufrir, si se arrepienten; 21–28, Predica el Evangelio de arrepentimiento; 29–41, Declara buenas nuevas.
 
----
 ###### 1 
 Yo soy el Alfa y la Omega, Cristo el Señor; sí, soy él, el principio y el fin, el Redentor del mundo.
 

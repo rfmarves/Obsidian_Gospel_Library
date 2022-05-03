@@ -1,22 +1,21 @@
 ---
 title: 2 Pedro 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Pedro 1
 [[1 Pedro 5| <-- 1 Pedro 5]] | [[2 Pedro]] | [[2 Pedro 2|2 Pedro 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pedro insta a los santos a hacer firme su llamamiento y elección — La profecía se recibe por el poder del Espíritu Santo.
 
----
 ###### 1 
 Simón Pedro, siervo y apóstol de Jesucristo, a los que habéis alcanzado una fe igualmente preciosa que la nuestra por la justicia de nuestro Dios y Salvador Jesucristo:
 

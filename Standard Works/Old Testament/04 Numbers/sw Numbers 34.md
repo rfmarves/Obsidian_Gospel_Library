@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 34
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 34
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/34?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses specifies the borders of Israel’s inheritance in Canaan and names the princes of the tribes who will divide the land.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

@@ -1,22 +1,21 @@
 ---
 title: Números 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 10
 [[Números 9| <-- Números 9]] | [[Números]] | [[Números 11|Números 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se usan trompetas de plata para convocar a la congregación y para tocar alarma — La nube es quitada del tabernáculo y los hijos de Israel marchan en su orden prescrito — El arca del convenio va delante de ellos en sus viajes.
 
----
 ###### 1 
 Y Jehová habló a Moisés, diciendo:
 

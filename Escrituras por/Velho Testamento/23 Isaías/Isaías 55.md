@@ -1,22 +1,21 @@
 ---
 title: Isaías 55
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 55
 [[Isaías 54| <-- Isaías 54]] | [[Isaías]] | [[Isaías 56|Isaías 56 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/55?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/55?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Vinde e bebei; a salvação é gratuita — O Senhor fará um convênio eterno com Israel — Buscai ao Senhor enquanto Ele está perto.
 
----
 ###### 1 
 Ó vós, todos os que tendes sede, vinde às águas, e os que não tendes dinheiro, vinde, comprai, e comei; sim, vinde e comprai, sem dinheiro e sem preço, vinho e leite.
 

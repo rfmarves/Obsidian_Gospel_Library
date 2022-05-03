@@ -1,10 +1,11 @@
 ---
 title: sw Romans 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abraham’s faith was accounted to him for righteousness—Man is justified by faith, righteous works, and grace.
 
----
 ###### 1 
 What shall we say then that Abraham our father, as pertaining to the flesh, hath found?
 

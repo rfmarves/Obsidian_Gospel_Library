@@ -1,27 +1,25 @@
 ---
 title: Salmos 62
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 62
 [[Salmos 61| <-- Salmos 61]] | [[Salmos]] | [[Salmos 63|Salmos 63 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/62?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/62?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor, sobre Jedutum.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi exalta Deus como sua defesa, sua rocha e sua salvação — O Senhor julga os homens de acordo com suas obras.
 
----
 ###### 1 
 A minha alma espera somente em Deus; dele  a minha salvação.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Luke 10
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus calls, empowers, and instructs the Seventy—They preach and heal—Those who receive Christ’s disciples receive Christ—The Father is revealed by the Son—Jesus gives the parable of the good Samaritan.
 
----
 ###### 1 
 After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.
 

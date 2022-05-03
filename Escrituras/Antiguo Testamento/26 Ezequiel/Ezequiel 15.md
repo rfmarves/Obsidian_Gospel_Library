@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 15
 [[Ezequiel 14| <-- Ezequiel 14]] | [[Ezequiel]] | [[Ezequiel 16|Ezequiel 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jerusalén, como la madera inútil de la vid, será quemada.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

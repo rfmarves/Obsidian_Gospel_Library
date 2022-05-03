@@ -1,22 +1,21 @@
 ---
 title: Mateus 22
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 22
 [[Mateus 21| <-- Mateus 21]] | [[Mateus]] | [[Mateus 23|Mateus 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus conta a parábola do casamento do filho do rei — Pagai tributos a César e a Deus — Os casamentos deste mundo só perduram nesta vida — O primeiro mandamento é amar ao Senhor — Jesus pergunta: Que pensais vós do Cristo?
 
----
 ###### 1 
 Então Jesus, tomando a palavra, tornou a falar-lhes em parábolas, dizendo:
 

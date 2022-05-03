@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 29
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 Hezekiah reigns in righteousness and restores the worship of Jehovah—The Levites cleanse and sanctify the house of the Lord—The priests offer sacrifices and make reconciliation and atonement for the people—Hezekiah and all the people worship the Lord and praise His name.
 
----
 ###### 1 
 Hezekiah began to reign  five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother’s name  Abijah, the daughter of Zechariah.
 

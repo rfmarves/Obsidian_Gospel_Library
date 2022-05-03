@@ -1,22 +1,21 @@
 ---
 title: Alma 42
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 42
 [[Alma 41| <-- Alma 41]] | [[Alma]] | [[Alma 43|Alma 43 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A mortalidade é um período probatório, que permite ao homem arrepender-se e servir a Deus — A queda trouxe a morte física e a espiritual a toda a humanidade — A redenção advém-nos por meio do arrependimento — O próprio Deus expia os pecados do mundo — A misericórdia é para os que se arrependem — Todos os outros estão sujeitos à justiça de Deus — A misericórdia é concedida por causa da Expiação — Somente os verdadeiros penitentes são salvos. Aproximadamente 74 a.C.
 
----
 ###### 1 
 E agora, meu filho, eu percebo que existe algo mais que te preocupa e que não podes compreender, relativo à justiça de Deus na punição do pecador; pois tentas acreditar que é injustiça ser o pecador entregue a um estado de miséria.
 

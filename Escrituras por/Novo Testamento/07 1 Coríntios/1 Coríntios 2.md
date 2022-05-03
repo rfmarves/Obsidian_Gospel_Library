@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 2
 [[1 Coríntios 1| <-- 1 Coríntios 1]] | [[1 Coríntios]] | [[1 Coríntios 3|1 Coríntios 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O evangelho é pregado pelo poder do Espírito — O Espírito revela todas as coisas aos santos — O homem natural que não se arrepende não pode receber as coisas do Espírito de Deus.
 
----
 ###### 1 
 E eu, irmãos, quando fui ter convosco, anunciando-vos o testemunho de Deus, não fui com sublimidade de palavras ou de sabedoria.
 

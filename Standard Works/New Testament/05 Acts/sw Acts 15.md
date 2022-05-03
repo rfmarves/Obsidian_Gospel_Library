@@ -1,10 +1,11 @@
 ---
 title: sw Acts 15
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Great dissension arises at Antioch concerning circumcision—The Apostles at Jerusalem decide the issue—Paul chooses Silas as his companion.
 
----
 ###### 1 
 And certain men which came down from Judæa taught the brethren,  Except ye be circumcised after the manner of Moses, ye cannot be saved.
 

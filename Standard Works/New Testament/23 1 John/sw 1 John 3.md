@@ -1,10 +1,11 @@
 ---
 title: sw 1 John 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 John 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The sons of God will become like Christ—Love for others is required to gain eternal life—Obedience ensures us an answer to our prayers.
 
----
 ###### 1 
 Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
 

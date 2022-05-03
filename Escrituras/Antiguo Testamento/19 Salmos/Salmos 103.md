@@ -1,27 +1,25 @@
 ---
 title: Salmos 103
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 103
 [[Salmos 102| <-- Salmos 102]] | [[Salmos]] | [[Salmos 104|Salmos 104 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/103?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/103?lang=spa)
 
----
+```
 Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David exhorta a los santos a bendecir a Jehová por Su misericordia — Jehová es misericordioso con los que guardan Sus mandamientos.
 
----
 ###### 1 
 
 

@@ -1,22 +1,21 @@
 ---
 title: Génesis 27
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 27
 [[Génesis 26| <-- Génesis 26]] | [[Génesis]] | [[Génesis 28|Génesis 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Rebeca guía a Jacob para que este reciba bendiciones — Jacob es bendecido para tener dominio y para gobernar sobre pueblos y naciones — Esaú aborrece a Jacob y piensa matarlo — Rebeca teme que Jacob tome esposa de entre las hijas de Het.
 
----
 ###### 1 
 Y aconteció que cuando hubo Isaac envejecido y sus ojos se debilitaron, quedando sin vista, llamó a Esaú, su hijo mayor, y le dijo: Hijo mío. Y él respondió: Heme aquí.
 

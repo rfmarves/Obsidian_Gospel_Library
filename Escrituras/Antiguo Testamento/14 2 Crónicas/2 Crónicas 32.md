@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 32
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 32
 [[2 Crónicas 31| <-- 2 Crónicas 31]] | [[2 Crónicas]] | [[2 Crónicas 33|2 Crónicas 33 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/32?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/32?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Senaquerib invade Judá y sitia las ciudades — Senaquerib blasfema contra Jehová — Isaías y Ezequías oran y un ángel destruye a los líderes de los ejércitos asirios — Ezequías reina con rectitud a pesar de algunas faltas.
 
----
 ###### 1 
 Después de estas cosas y de esta fidelidad, vino Senaquerib, rey de los asirios, e invadió a Judá y acampó contra las ciudades fortificadas con la intención de conquistarlas.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 23
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 23
 [[2 Reyes 22| <-- 2 Reyes 22]] | [[2 Reyes]] | [[2 Reyes 24|2 Reyes 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Josías lee el libro del convenio al pueblo — Hacen convenio de guardar los mandamientos — Josías suprime la adoración de dioses falsos, quita a los sodomitas y termina con la idolatría — Se da muerte a los sacerdotes idólatras — Judá celebra una Pascua solemne — Egipto somete a la tierra de Judá.
 
----
 ###### 1 
 Entonces el rey mandó reunir ante él a todos los ancianos de Judá y de Jerusalén.
 

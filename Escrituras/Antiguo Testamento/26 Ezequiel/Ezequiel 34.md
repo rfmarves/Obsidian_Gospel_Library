@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 34
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 34
 [[Ezequiel 33| <-- Ezequiel 33]] | [[Ezequiel]] | [[Ezequiel 35|Ezequiel 35 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová reprende a los pastores que no apacientan al rebaño — En los últimos días, Jehová recogerá a las ovejas perdidas de Israel — El Mesías será su Pastor — Jehová hará un convenio de paz con ellos.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

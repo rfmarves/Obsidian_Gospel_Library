@@ -1,10 +1,11 @@
 ---
 title: sw Acts 14
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Persecution attends the spread of the gospel—Paul heals a crippled man; Paul and Barnabas are hailed as gods—Paul is stoned and revived; he preaches—Elders are ordained.
 
----
 ###### 1 
 And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed.
 

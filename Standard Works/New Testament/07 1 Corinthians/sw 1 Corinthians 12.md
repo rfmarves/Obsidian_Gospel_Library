@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 12
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Holy Ghost reveals that Jesus is the Christ—Spiritual gifts are present among the Saints—Apostles, prophets, and miracles are found in the true Church.
 
----
 ###### 1 
 Now concerning spiritual  brethren, I would not have you ignorant.
 

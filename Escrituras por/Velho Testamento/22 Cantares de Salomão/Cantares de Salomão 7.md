@@ -1,22 +1,21 @@
 ---
 title: Cantares de Salomão 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Cantares de Salomão 7
 [[Cantares de Salomão 6| <-- Cantares de Salomão 6]] | [[Cantares de Salomão]] | [[Cantares de Salomão 8|Cantares de Salomão 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Continuação da canção de amor.
 
----
 ###### 1 
 Que formosos são os teus pés nos sapatos, ó filha do príncipe! Os contornos de tuas coxas são como joias, segundo a obra de mãos de artífice.
 

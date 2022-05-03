@@ -1,22 +1,21 @@
 ---
 title: Jacó 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jacó 3
 [[Jacó 2| <-- Jacó 2]] | [[Jacó]] | [[Jacó 4|Jacó 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os puros de coração recebem a agradável palavra de Deus — A retidão dos lamanitas excede a dos nefitas — Jacó adverte contra fornicação, lascívia e todo pecado. Aproximadamente 544–421 a.C.
 
----
 ###### 1 
 Mas eis que eu, Jacó, desejo falar a vós, que sois puros de coração. Confiai em Deus com a mente firme e orai a ele com grande fé; e ele consolar-vos-á nas aflições e defenderá vossa causa e enviará justiça sobre os que procuram a vossa destruição.
 

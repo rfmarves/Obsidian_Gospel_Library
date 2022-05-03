@@ -1,22 +1,21 @@
 ---
 title: Hebreos 10
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreos 10
 [[Hebreos 9| <-- Hebreos 9]] | [[Hebreos]] | [[Hebreos 11|Hebreos 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Somos santificados mediante el derramamiento de la sangre de Cristo — Se explica lo excelso de Su sacrificio — Los que pierden la gracia por pecar voluntariamente son maldecidos — El justo vivirá por la fe.
 
----
 ###### 1 
 Porque la ley, teniendo la sombra de las cosas buenas por venir, no la imagen misma de las cosas, nunca puede, por los mismos sacrificios que se ofrecen continuamente cada año, hacer perfectos a los que se acercan.
 

@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 13
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 13
 [[Apocalipsis 12| <-- Apocalipsis 12]] | [[Apocalipsis]] | [[Apocalipsis 14|Apocalipsis 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Juan ve bestias de apariencia feroz que representan a reinos terrenales que se han degradado y están bajo el dominio de Satanás — El diablo realiza milagros y engaña a los hombres.
 
----
 ###### 1 
 Y yo me paré sobre la arena del mar, y vi subir del mar una bestia que tenía siete cabezas y diez cuernos; y en sus cuernos tenía diez diademas, y sobre las cabezas de ella, nombres de blasfemia.
 

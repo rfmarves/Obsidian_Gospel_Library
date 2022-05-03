@@ -1,22 +1,21 @@
 ---
 title: Rut 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Rut 1
 [[Jueces 21| <-- Jueces 21]] | [[Rut]] | [[Rut 2|Rut 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ruth/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ruth/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Elimelec y su familia van a Moab por causa de la hambruna — Sus hijos contraen matrimonio — El padre y los hijos mueren — Rut, la moabita, habiendo muerto su esposo, insiste en irse con Noemí — Ellas van a Belén.
 
----
 ###### 1 
 Y aconteció que en los días en que gobernaban los jueces, hubo hambre en la tierra. Y un hombre de Belén de Judá fue a vivir en los campos de Moab, él y su esposa y sus dos hijos.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 66
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 66
 [[Salmos 65| <-- Salmos 65]] | [[Salmos]] | [[Salmos 67|Salmos 67 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/66?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/66?lang=por)
 
----
+```
 Cântico e salmo para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Louvai e adorai ao Senhor — Ele testa e põe os homens à prova — Os sacrifícios devem ser oferecidos em Sua casa.
 
----
 ###### 1 
 Aclamai a Deus com alegria, todas as terras.
 

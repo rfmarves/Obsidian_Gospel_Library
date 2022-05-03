@@ -1,10 +1,11 @@
 ---
 title: sw 1 John 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 John 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Try the spirits—God is love and dwells in those who love Him.
 
----
 ###### 1 
 Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
 

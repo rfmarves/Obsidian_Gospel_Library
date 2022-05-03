@@ -1,22 +1,21 @@
 ---
 title: Êxodo 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 11
 [[Êxodo 10| <-- Êxodo 10]] | [[Êxodo]] | [[Êxodo 12|Êxodo 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Em sua partida, os israelitas são autorizados a pedir joias e ouro a seus vizinhos — O Senhor promete matar o primogênito de todos os lares egípcios — Ele diferencia os egípcios dos israelitas.
 
----
 ###### 1 
 E o  disse a Moisés: Ainda uma praga trarei sobre Faraó, e sobre o Egito; depois vos deixará ir daqui; e quando  deixar ir a todos, sem dúvida vos expulsará daqui.
 

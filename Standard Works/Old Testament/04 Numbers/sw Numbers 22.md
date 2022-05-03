@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Balak offers money, cattle, and great honors to Balaam to curse Israel—The Lord forbids Balaam to do so—An angel opposes Balaam on the way.
 
----
 ###### 1 
 And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan  Jericho.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 89
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 89
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/89?lang=eng)
 
----
+```
 Maschil of Ethan the Ezrahite.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A messianic psalm—A song setting forth the mercy, greatness, justice, and righteousness of the Holy One of Israel—The Lord will establish David’s seed and throne forever—God’s Firstborn will be made higher than the kings of the earth.
 
----
 ###### 1 
 I will sing of the mercies of the  for ever: with my mouth will I make known thy faithfulness to all generations.
 

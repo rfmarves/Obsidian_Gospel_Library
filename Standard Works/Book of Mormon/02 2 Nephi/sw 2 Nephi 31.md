@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 31
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 31
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nephi tells why Christ was baptized—Men must follow Christ, be baptized, receive the Holy Ghost, and endure to the end to be saved—Repentance and baptism are the gate to the strait and narrow path—Eternal life comes to those who keep the commandments after baptism. About 559–545 B.C.
 
----
 ###### 1 
 And now I, Nephi, make an end of my prophesying unto you, my beloved brethren. And I cannot write but a few things, which I know must surely come to pass; neither can I write but a few of the words of my brother Jacob.
 

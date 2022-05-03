@@ -1,22 +1,21 @@
 ---
 title: Provérbios 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 22
 [[Provérbios 21| <-- Provérbios 21]] | [[Provérbios]] | [[Provérbios 23|Provérbios 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Um bom nome é melhor do que riquezas — Instrui a criança no caminho em que deve andar.
 
----
 ###### 1 
 Mais  de ser escolhido é o  nome do que as muitas riquezas; e a graça é melhor do que a riqueza e o ouro.
 

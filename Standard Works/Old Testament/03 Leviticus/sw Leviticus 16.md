@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 How and when Aaron must enter the holy place is explained—Sacrifices are offered to reconcile Israel to God—The scapegoat carries away the sins of the people—The sins of all Israel are forgiven on the Day of Atonement.
 
----
 ###### 1 
 And the  spake unto Moses after the death of the two sons of Aaron, when they offered before the , and died;
 

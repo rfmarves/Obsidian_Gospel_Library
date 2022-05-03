@@ -1,22 +1,21 @@
 ---
 title: Génesis 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 15
 [[Génesis 14| <-- Génesis 14]] | [[Génesis]] | [[Génesis 16|Génesis 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Abram desea tener progenie — Jehová le promete una descendencia tan numerosa como las estrellas del cielo — Abram cree en la promesa — Su descendencia será extranjera en Egipto — Entonces, después de cuatro generaciones, ellos heredarán Canaán.
 
----
 ###### 1 
 Después de estas cosas vino la palabra de Jehová a Abram en visión, diciendo: No temas, Abram; yo soy tu escudo,  tu galardón será sobremanera grande.
 

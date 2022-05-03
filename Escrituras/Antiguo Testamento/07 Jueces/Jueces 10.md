@@ -1,22 +1,21 @@
 ---
 title: Jueces 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 10
 [[Jueces 9| <-- Jueces 9]] | [[Jueces]] | [[Jueces 11|Jueces 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Tola y después Jair juzgan a Israel — Los hijos de Israel adoran dioses falsos; Jehová los desampara y son afligidos por sus enemigos — Los israelitas se arrepienten y suplican a Jehová que los libre.
 
----
 ###### 1 
 Y después de Abimelec, se levantó para librar a Israel Tola hijo de Fúa, hijo de Dodo, hombre de Isacar, el cual habitaba en Samir, en los montes de Efraín.
 

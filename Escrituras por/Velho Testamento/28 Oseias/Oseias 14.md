@@ -1,22 +1,21 @@
 ---
 title: Oseias 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseias 14
 [[Oseias 13| <-- Oseias 13]] | [[Oseias]] | [[Joel 1|Joel 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nos últimos dias, Efraim vai se arrepender e voltar para o Senhor.
 
----
 ###### 1 
 Converte-te, ó Israel, ao  teu Deus; porque pelos teus pecados caíste.
 

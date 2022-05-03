@@ -1,27 +1,25 @@
 ---
 title: Salmos 73
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 73
 [[Salmos 72| <-- Salmos 72]] | [[Salmos]] | [[Salmos 74|Salmos 74 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/73?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/73?lang=spa)
 
----
+```
 Salmo de Asaf.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Dios es bueno para con Israel — Los inicuos y los impíos prosperan en este mundo — Ellos serán consumidos de terrores en lo futuro — Aquellos que confían en Jehová serán recibidos en gloria.
 
----
 ###### 1 
 
 

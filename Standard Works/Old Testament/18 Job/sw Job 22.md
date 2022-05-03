@@ -1,10 +1,11 @@
 ---
 title: sw Job 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Eliphaz accuses Job of various sins and exhorts him to repent.
 
----
 ###### 1 
 Then Eliphaz the Temanite answered and said,
 

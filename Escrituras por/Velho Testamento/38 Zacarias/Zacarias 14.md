@@ -1,22 +1,21 @@
 ---
 title: Zacarias 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarias 14
 [[Zacarias 13| <-- Zacarias 13]] | [[Zacarias]] | [[Malaquias 1|Malaquias 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Em Sua Segunda Vinda, o Senhor vai lutar por Israel — Seus pés estarão sobre o Monte das Oliveiras — Ele será Rei sobre toda a Terra — Pragas destruirão os iníquos.
 
----
 ###### 1 
 Eis que o dia do  vem; repartir-se-ão no meio de ti os teus despojos.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel catalogs the sins of the people of Judah in Jerusalem—They will be scattered and destroyed for their iniquities.
 
----
 ###### 1 
 Moreover the word of the  came unto me, saying,
 

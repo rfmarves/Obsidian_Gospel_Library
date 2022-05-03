@@ -1,22 +1,21 @@
 ---
 title: DeC 19
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 19
 [[DeC 18| <-- DeC 18]] | [[DeC]] | [[DeC 20|DeC 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, Cristo tem todo o poder; 4–5, Todos os homens devem arrepender-se ou sofrer; 6–12, Castigo eterno é castigo de Deus; 13–20, Cristo sofreu por todos, para que não tenham que sofrer, caso se arrependam; 21–28, Prega o evangelho de arrependimento; 29–41, Anuncia boas novas.
 
----
 ###### 1 
 Eu sou o Alfa e o Ômega, Cristo, o Senhor; sim, eu sou ele, o princípio e o fim, o Redentor do mundo.
 

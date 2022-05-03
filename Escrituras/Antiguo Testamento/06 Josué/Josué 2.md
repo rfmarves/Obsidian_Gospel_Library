@@ -1,22 +1,21 @@
 ---
 title: Josué 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 2
 [[Josué 1| <-- Josué 1]] | [[Josué]] | [[Josué 3|Josué 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Josué envía espías a Jericó — Ellos son recibidos y escondidos por Rahab — Los espías prometen preservar la vida a Rahab y a los de su casa.
 
----
 ###### 1 
 Y Josué hijo de Nun, envió desde Sitim dos espías secretamente, diciéndoles: Id, reconoced la tierra y Jericó. Y fueron, y entraron en casa de una mujer ramera que se llamaba Rahab, y se hospedaron allí.
 

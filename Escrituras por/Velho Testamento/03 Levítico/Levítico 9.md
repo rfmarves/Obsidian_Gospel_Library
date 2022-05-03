@@ -1,22 +1,21 @@
 ---
 title: Levítico 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 9
 [[Levítico 8| <-- Levítico 8]] | [[Levítico]] | [[Levítico 10|Levítico 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Por meio de sacrifício, Aarão faz uma expiação para si mesmo e para todo o Israel — Ele e seus filhos oferecem sacrifícios — A glória do Senhor aparece a todos — As ofertas que estão sobre o altar são consumidas por fogo que sai de diante do Senhor.
 
----
 ###### 1 
 E aconteceu, ao dia oitavo,  Moisés chamou Aarão e seus filhos, e os anciãos de Israel,
 

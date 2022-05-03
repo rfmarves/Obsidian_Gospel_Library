@@ -1,10 +1,11 @@
 ---
 title: sw Acts 24
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul is accused of sedition—He answers in defense of his life and doctrine—He teaches Felix of righteousness, temperance, and the judgment to come.
 
----
 ###### 1 
 And after five days Ananias the high priest descended with the elders, and  a certain orator  Tertullus, who informed the governor against Paul.
 

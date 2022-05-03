@@ -1,10 +1,11 @@
 ---
 title: sw Philippians 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Philippians 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/philip/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul sacrifices all things for Christ—True ministers set examples of righteousness.
 
----
 ###### 1 
 Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed  not grievous, but for you  safe.
 

@@ -1,22 +1,21 @@
 ---
 title: Salmos 119
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 119
 [[Salmos 118| <-- Salmos 118]] | [[Salmos]] | [[Salmos 120|Salmos 120 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/119?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/119?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Bem-aventurados os que guardam os mandamentos.
 
----
 Bem-aventurados os que guardam os mandamentos.
 
 ###### 1 

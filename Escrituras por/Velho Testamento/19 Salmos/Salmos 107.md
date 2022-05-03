@@ -1,22 +1,21 @@
 ---
 title: Salmos 107
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 107
 [[Salmos 106| <-- Salmos 106]] | [[Salmos]] | [[Salmos 108|Salmos 108 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/107?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/107?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo de Israel deve louvar e dar graças ao Senhor quando for coligado e redimido — Louvem ao Senhor todos os homens — As bênçãos do Senhor são abundantes na vida dos homens.
 
----
 ###### 1 
 Louvai ao , porque ele  bom, porque a sua benignidade  para sempre.
 

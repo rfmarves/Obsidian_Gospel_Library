@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Laws are given concerning divorce, newly married persons, making merchandise of men, taking pledges, leprosy, oppression of servants, and leaving gleanings of crops.
 
----
 ###### 1 
 When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give  in her hand, and send her out of his house.
 

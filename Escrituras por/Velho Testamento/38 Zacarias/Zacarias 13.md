@@ -1,22 +1,21 @@
 ---
 title: Zacarias 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarias 13
 [[Zacarias 12| <-- Zacarias 12]] | [[Zacarias]] | [[Zacarias 14|Zacarias 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os judeus vão receber o perdão na Segunda Vinda — Eles vão perguntar ao Senhor: Que feridas são essas nas Tuas mãos? — Os remanescentes, postos à prova e refinados, serão o Seu povo.
 
----
 ###### 1 
 Naquele dia haverá  fonte aberta para a casa de Davi, e para os habitantes de Jerusalém, contra o pecado, e contra a imundície.
 

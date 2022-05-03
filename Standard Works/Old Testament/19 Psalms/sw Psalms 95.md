@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 95
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 95
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/95?lang=eng)
 
----
-__Summary__
+> __Summary__
 Let us sing unto the Lord—Let us worship and bow down before Him—Israel provoked the Lord and failed to enter into His rest.
 
----
 ###### 1 
 O come, let us sing unto the : let us make a joyful noise to the rock of our salvation.
 

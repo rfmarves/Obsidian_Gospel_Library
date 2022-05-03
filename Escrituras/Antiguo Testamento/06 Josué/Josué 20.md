@@ -1,22 +1,21 @@
 ---
 title: Josué 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 20
 [[Josué 19| <-- Josué 19]] | [[Josué]] | [[Josué 21|Josué 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se señalan seis ciudades de refugio para los culpables de homicidio sin intención.
 
----
 ###### 1 
 Y habló Jehová a Josué, diciendo:
 

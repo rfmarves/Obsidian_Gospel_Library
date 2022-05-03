@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 42
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 42
 [[Ezequiel 41| <-- Ezequiel 41]] | [[Ezequiel]] | [[Ezequiel 43|Ezequiel 43 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/42?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/42?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ezequiel vê no templo as câmaras dos sacerdotes.
 
----
 ###### 1 
 Depois disso fez-me sair para fora, ao átrio exterior, para o lado do caminho do norte; e me levou às câmaras que  defronte do lugar separado, e que  defronte do edifício, do lado do norte.
 

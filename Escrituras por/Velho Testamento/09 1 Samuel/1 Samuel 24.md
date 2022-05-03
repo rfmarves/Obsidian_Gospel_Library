@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 24
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 24
 [[1 Samuel 23| <-- 1 Samuel 23]] | [[1 Samuel]] | [[1 Samuel 25|1 Samuel 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi encontra Saul em uma caverna e lhe poupa a vida — Saul confessa que Davi é mais justo que ele — Davi jura que não destruirá a descendência de Saul.
 
----
 ###### 1 
 E sucedeu que, voltando Saul de perseguir os filisteus, lhe anunciaram, dizendo: Eis que Davi  no deserto de En-Gedi.
 

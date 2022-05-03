@@ -1,27 +1,25 @@
 ---
 title: Mosíah 23
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 23
 [[Mosíah 22| <-- Mosíah 22]] | [[Mosíah]] | [[Mosíah 24|Mosíah 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/23?lang=spa)
 
----
+```
 Una relación de Alma y del pueblo del Señor, que fueron echados al desierto por el pueblo del rey Noé.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Alma se niega a ser rey — Presta servicio como sumo sacerdote — El Señor disciplina a Su pueblo y los lamanitas se apoderan de la tierra de Helam — Amulón, jefe de los sacerdotes inicuos del rey Noé, gobierna bajo el monarca lamanita. Aproximadamente 145–121 a.C.
 
----
 ###### 1 
 Ahora bien, Alma, habiendo sido advertido por el Señor de que las tropas del rey Noé caerían sobre ellos, y habiéndolo hecho saber a su pueblo, por tanto, reunieron sus rebaños, y tomaron de su grano, y salieron para el desierto, seguidos por las tropas del rey Noé.
 

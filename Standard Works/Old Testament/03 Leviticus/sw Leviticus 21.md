@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 The priests are to be holy—The high priest is not to marry a widow, a divorced person, or a harlot—Descendants of Aaron with physical blemishes may not offer the bread of God upon the altar.
 
----
 ###### 1 
 And the  said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:
 

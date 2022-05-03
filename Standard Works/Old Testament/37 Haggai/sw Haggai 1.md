@@ -1,10 +1,11 @@
 ---
 title: sw Haggai 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Haggai 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hag/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Haggai exhorts the people to build the temple.
 
----
 ###### 1 
 In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the  by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,
 

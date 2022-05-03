@@ -1,22 +1,21 @@
 ---
 title: Amós 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 9
 [[Amós 8| <-- Amós 8]] | [[Amós]] | [[Obadias 1|Obadias 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel será peneirada entre todas as nações — Nos últimos dias, o povo de Israel será reunido novamente em sua própria terra, e ela se tornará produtiva.
 
----
 ###### 1 
 Vi o Senhor, que estava em pé sobre o altar, e me disse: Fere o capitel, e estremeçam os umbrais, e corta-lhes em pedaços a cabeça a todos eles; e eu matarei à espada até o último deles; o que fugir dentre eles não escapará, nem o que escapar dentre eles se salvará.
 

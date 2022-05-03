@@ -1,22 +1,21 @@
 ---
 title: Filemom 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Filemom 1
 [[Tito 3| <-- Tito 3]] | [[Filemom]] | [[Hebreus 1|Hebreus 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/philem/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/philem/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O evangelho transforma um servo em um irmão.
 
----
 ###### 1 
 Paulo, prisioneiro de Jesus Cristo, e o irmão Timóteo, ao amado Filemom, nosso cooperador,
 

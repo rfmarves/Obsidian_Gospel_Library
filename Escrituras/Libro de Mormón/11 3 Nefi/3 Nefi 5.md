@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 5
 [[3 Nefi 4| <-- 3 Nefi 4]] | [[3 Nefi]] | [[3 Nefi 6|3 Nefi 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los nefitas se arrepienten y abandonan sus pecados — Mormón escribe la historia de su pueblo y le declara la palabra sempiterna — Israel será recogido de su larga dispersión. Aproximadamente 22–26 d.C.
 
----
 ###### 1 
 Y he aquí, no hubo alma viviente, entre todo el pueblo de los nefitas, que dudara en lo más mínimo de las palabras que todos los santos profetas habían hablado; porque sabían que era necesario que se cumplieran.
 

@@ -1,22 +1,21 @@
 ---
 title: DyC 68
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 68
 [[DyC 67| <-- DyC 67]] | [[DyC]] | [[DyC 69|DyC 69 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, Cuando son inspirados por el Espíritu Santo, las palabras de los élderes son Escritura; 6–12, Los élderes han de predicar y bautizar, y las señales acompañarán a los verdaderos creyentes; 13–24, El primogénito de entre los hijos de Aarón puede servir de Obispo Presidente (es decir, poseer las llaves de la presidencia como obispo) bajo la dirección de la Primera Presidencia; 25–28, Se manda a los padres enseñar el Evangelio a sus hijos; 29–35, Los santos deben observar el día del Señor, trabajar diligentemente y orar.
 
----
 ###### 1 
 Mi siervo Orson Hyde fue llamado mediante su ordenación para proclamar el evangelio sempiterno por el Espíritu del Dios viviente, de pueblo en pueblo, y de tierra en tierra, entre las congregaciones de los inicuos, en sus sinagogas, razonando con ellos y declarándoles todas las Escrituras.
 

@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 20
 [[Ezequiel 19| <-- Ezequiel 19]] | [[Ezequiel]] | [[Ezequiel 21|Ezequiel 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Desde la época en que fue liberado de Egipto hasta los días de Ezequiel, el pueblo de Israel se ha rebelado y no ha guardado los mandamientos — En los últimos días, Jehová recogerá a Israel y restaurará el convenio del Evangelio.
 
----
 ###### 1 
 Y aconteció en el año séptimo, en el  quinto, a los diez días del mes, que vinieron algunos de los ancianos de Israel a consultar a Jehová y se sentaron delante de mí.
 

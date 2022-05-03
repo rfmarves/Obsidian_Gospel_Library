@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 15
 [[1 Crônicas 14| <-- 1 Crônicas 14]] | [[1 Crônicas]] | [[1 Crônicas 16|1 Crônicas 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi prepara um lugar para a arca — Os levitas levam a arca para Jerusalém — Eles cantam e ministram perante o Senhor.
 
----
 ###### 1 
 Fez também Davi casa para si na cidade de Davi; e preparou um lugar para a arca de Deus, e armou-lhe uma tenda.
 

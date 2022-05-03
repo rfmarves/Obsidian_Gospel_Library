@@ -1,27 +1,25 @@
 ---
 title: Alma 45
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 45
 [[Alma 44| <-- Alma 44]] | [[Alma]] | [[Alma 46|Alma 46 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/45?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/45?lang=spa)
 
----
+```
 La historia del pueblo de Nefi y sus guerras y disensiones en los días de Helamán, según los anales que Helamán escribió en sus días.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Helamán cree las palabras de Alma — Alma profetiza la destrucción de los nefitas — Bendice y maldice la tierra — Puede ser que Alma haya sido arrebatado por el Espíritu, como lo fue Moisés — Aumenta la disensión en la Iglesia. Aproximadamente 73 a.C.
 
----
 ###### 1 
 Y he aquí, aconteció que el pueblo de Nefi se regocijó en extremo porque el Señor de nuevo lo había librado de las manos de sus enemigos; por tanto, le dieron gracias al Señor su Dios; sí, y ayunaron y oraron mucho, y adoraron a Dios con un gozo inmensamente grande.
 

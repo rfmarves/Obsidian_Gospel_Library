@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 88
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 88
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/88?lang=eng)
 
----
+```
 A Song or Psalm for the sons of Korah, to the chief Musician upon Mahalath Leannoth, Maschil of Heman the Ezrahite.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A prayer of one who feels forsaken and who asks whether the Lord’s loving kindness will be declared in the grave.
 
----
 ###### 1 
 O  God of my salvation, I have cried day  night before thee:
 

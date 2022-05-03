@@ -1,22 +1,21 @@
 ---
 title: Efésios 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Efésios 4
 [[Efésios 3| <-- Efésios 3]] | [[Efésios]] | [[Efésios 5|Efésios 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Há um só Senhor, uma só fé e um só batismo — Os apóstolos e profetas são essenciais para a Igreja — Os santos são exortados a viver retamente — Eles são selados para o dia da redenção.
 
----
 ###### 1 
 Rogo-vos, pois, eu, o preso do Senhor, que andeis como é digno da vocação com que sois chamados,
 

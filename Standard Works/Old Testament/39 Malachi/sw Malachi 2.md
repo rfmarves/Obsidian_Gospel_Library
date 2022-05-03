@@ -1,10 +1,11 @@
 ---
 title: sw Malachi 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Malachi 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The priests are reproved for not keeping their covenants and not teaching the people—The Jews are condemned for dealing treacherously with one another and with their wives.
 
----
 ###### 1 
 And now, O ye priests, this commandment  for you.
 

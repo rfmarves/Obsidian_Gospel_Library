@@ -1,22 +1,21 @@
 ---
 title: Alma 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 4
 [[Alma 3| <-- Alma 3]] | [[Alma]] | [[Alma 5|Alma 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Alma bautiza a miles de conversos — Surge la iniquidad en la Iglesia y el progreso de esta disminuye — Nefíah es nombrado juez superior — Alma, en calidad de sumo sacerdote, se dedica al ministerio. Aproximadamente 86–83 a.C.
 
----
 ###### 1 
 Y sucedió que en el sexto año del gobierno de los jueces sobre el pueblo de Nefi, no hubo contenciones ni guerras en la tierra de Zarahemla.
 

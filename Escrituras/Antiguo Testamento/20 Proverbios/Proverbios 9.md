@@ -1,22 +1,21 @@
 ---
 title: Proverbios 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 9
 [[Proverbios 8| <-- Proverbios 8]] | [[Proverbios]] | [[Proverbios 10|Proverbios 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Reprende al sabio y te amará — El temor de Jehová es el principio de la sabiduría — Los convidados de la mujer inmoral están en las profundidades del infierno.
 
----
 ###### 1 
 
 

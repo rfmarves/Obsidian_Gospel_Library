@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 2
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Redemption comes through the Holy Messiah—Freedom of choice (agency) is essential to existence and progression—Adam fell that men might be—Men are free to choose liberty and eternal life. About 588–570 B.C.
 
----
 ###### 1 
 And now, Jacob, I speak unto you: Thou art my firstborn in the days of my tribulation in the wilderness. And behold, in thy childhood thou hast suffered afflictions and much sorrow, because of the rudeness of thy brethren.
 

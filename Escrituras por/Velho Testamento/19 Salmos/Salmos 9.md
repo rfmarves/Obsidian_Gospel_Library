@@ -1,27 +1,25 @@
 ---
 title: Salmos 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 9
 [[Salmos 8| <-- Salmos 8]] | [[Salmos]] | [[Salmos 10|Salmos 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/9?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor, sobre aMute-Láben.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo messiânico de Davi — Ele louva ao Senhor por repreender as nações — O Senhor julgará o mundo em retidão — Ele habitará em Sião — Os iníquos serão lançados no inferno.
 
----
 ###### 1 
 Eu  louvarei, , com todo o meu coração; contarei todas as tuas maravilhas.
 

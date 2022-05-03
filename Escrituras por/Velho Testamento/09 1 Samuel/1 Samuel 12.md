@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 12
 [[1 Samuel 11| <-- 1 Samuel 11]] | [[1 Samuel]] | [[1 Samuel 13|1 Samuel 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Samuel testifica que agiu de modo justo em Israel — Ele reprova o povo por sua ingratidão — Exorta-os a guardar os mandamentos para que o Senhor não destrua a eles e a seu rei.
 
----
 ###### 1 
 Então disse Samuel a todo o Israel: Eis que ouvi a vossa voz em tudo quanto me dissestes, e pus sobre vós um rei.
 

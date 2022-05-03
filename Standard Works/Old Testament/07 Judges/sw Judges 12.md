@@ -1,10 +1,11 @@
 ---
 title: sw Judges 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Gileadites slay 42,000 Ephraimites—Jephthah, Ibzan, Elon, and Abdon each in turn judge Israel.
 
----
 ###### 1 
 And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire.
 

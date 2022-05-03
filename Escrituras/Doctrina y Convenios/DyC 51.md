@@ -1,22 +1,21 @@
 ---
 title: DyC 51
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 51
 [[DyC 50| <-- DyC 50]] | [[DyC]] | [[DyC 52|DyC 52 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/51?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/51?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–8, Edward Partridge es nombrado para regular las mayordomías y las propiedades; 9–12, Los santos deben actuar con honradez y recibir partes iguales; 13–15, Deben tener un almacén del obispo y organizar las propiedades de acuerdo con la ley del Señor; 16–20, Ohio será un sitio provisional de recogimiento.
 
----
 ###### 1 
 Escúchame, dice el Señor tu Dios, y hablaré a mi siervo Edward Partridge y le daré instrucciones; porque es menester que reciba instrucciones tocante a la manera de organizar a este pueblo.
 

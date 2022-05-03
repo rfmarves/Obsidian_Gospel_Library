@@ -1,22 +1,21 @@
 ---
 title: Êxodo 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 13
 [[Êxodo 12| <-- Êxodo 12]] | [[Êxodo]] | [[Êxodo 14|Êxodo 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Todo primogênito de homem e de animais será santificado ao Senhor — A Festa dos Pães Ázimos deverá ser guardada na terra de Canaã — Moisés leva os ossos de José para fora do Egito — O Senhor guia Israel numa coluna de nuvem de dia e numa coluna de fogo de noite.
 
----
 ###### 1 
 Então falou o  a Moisés, dizendo:
 

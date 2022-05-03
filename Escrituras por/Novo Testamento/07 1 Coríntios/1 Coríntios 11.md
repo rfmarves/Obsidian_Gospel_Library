@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 11
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 11
 [[1 Coríntios 10| <-- 1 Coríntios 10]] | [[1 Coríntios]] | [[1 Coríntios 12|1 Coríntios 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo fala a respeito de certos costumes referentes ao cabelo — Surgirão heresias para testar e pôr à prova os fiéis — Os emblemas do sacramento são partilhados em lembrança da carne e do sangue de Cristo — Acautelai-vos de partilhar do sacramento indignamente.
 
----
 ###### 1 
 Sede meus imitadores, como também eu, de Cristo.
 

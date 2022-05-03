@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ahaziah reigns in wickedness and is slain by Jehu; his mother, Athaliah, reigns in his stead.
 
----
 ###### 1 
 And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned.
 

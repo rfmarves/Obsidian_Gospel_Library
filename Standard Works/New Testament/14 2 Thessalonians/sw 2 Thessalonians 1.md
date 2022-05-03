@@ -1,10 +1,11 @@
 ---
 title: sw 2 Thessalonians 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Thessalonians 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-thes/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 At His Second Coming, the Lord Jesus will take vengeance upon the ungodly.
 
----
 ###### 1 
 Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 

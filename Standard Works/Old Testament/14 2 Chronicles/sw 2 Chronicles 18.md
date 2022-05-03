@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jehoshaphat of Judah joins Ahab of Israel to fight Syria—Ahab’s false prophets foretell victory—Micaiah prophesies the fall and death of Ahab—The Syrians slay Ahab.
 
----
 ###### 1 
 Now Jehoshaphat had riches and honour in abundance, and joined affinity with Ahab.
 

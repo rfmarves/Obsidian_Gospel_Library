@@ -1,10 +1,11 @@
 ---
 title: sw Alma 40
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 40
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ brings to pass the resurrection of all men—The righteous dead go to paradise and the wicked to outer darkness to await the day of their resurrection—All things will be restored to their proper and perfect frame in the Resurrection. About 74 B.C.
 
----
 ###### 1 
 Now my son, here is somewhat more I would say unto thee; for I perceive that thy mind is worried concerning the resurrection of the dead.
 

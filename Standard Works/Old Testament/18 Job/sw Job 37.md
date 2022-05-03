@@ -1,10 +1,11 @@
 ---
 title: sw Job 37
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 37
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/37?lang=eng)
 
----
-__Summary__
+> __Summary__
 Elihu concludes, saying, The Lord controls the laws of nature—God reigns in terrible majesty.
 
----
 ###### 1 
 At this also my heart trembleth, and is moved out of his place.
 

@@ -1,22 +1,21 @@
 ---
 title: Éxodo 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 5
 [[Éxodo 4| <-- Éxodo 4]] | [[Éxodo]] | [[Éxodo 6|Éxodo 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moisés y Aarón piden a Faraón que libre a Israel — Faraón responde: ¿Quién es Jehová? — Faraón pone cargas aún mayores sobre los hijos de Israel.
 
----
 ###### 1 
 Después fueron Moisés y Aarón ante Faraón y le dijeron: Jehová, el Dios de Israel, dice así: Deja ir a mi pueblo a celebrarme fiesta en el desierto.
 

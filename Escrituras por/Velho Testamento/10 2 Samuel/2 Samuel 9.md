@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 9
 [[2 Samuel 8| <-- 2 Samuel 8]] | [[2 Samuel]] | [[2 Samuel 10|2 Samuel 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi procura honrar a casa de Saul — Encontra Mefibosete, o filho de Jônatas, e lhe restitui todas as terras de Saul.
 
----
 ###### 1 
 E disse Davi: Há ainda alguém que tenha ficado da casa de Saul, para que eu lhe faça benevolência por causa de Jônatas?
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 32
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 32
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=eng)
 
----
-__Summary__
+> __Summary__
 Angels speak by the power of the Holy Ghost—Men must pray and gain knowledge for themselves from the Holy Ghost. About 559–545 B.C.
 
----
 ###### 1 
 And now, behold, my beloved brethren, I suppose that ye ponder somewhat in your hearts concerning that which ye should do after ye have entered in by the way. But, behold, why do ye ponder these things in your hearts?
 

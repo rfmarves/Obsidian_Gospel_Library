@@ -1,10 +1,11 @@
 ---
 title: sw Alma 8
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Alma preaches and baptizes in Melek—He is rejected in Ammonihah and leaves—An angel commands him to return and cry repentance unto the people—He is received by Amulek, and the two of them preach in Ammonihah. About 82 B.C.
 
----
 ###### 1 
 And now it came to pass that Alma returned from the land of Gideon, after having taught the people of Gideon many things which cannot be written, having established the order of the church, according as he had before done in the land of Zarahemla, yea, he returned to his own house at Zarahemla to rest himself from the labors which he had performed.
 

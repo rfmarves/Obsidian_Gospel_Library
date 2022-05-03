@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 6
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 King Benjamin records the names of the people and appoints priests to teach them—Mosiah reigns as a righteous king. About 124–121 B.C.
 
----
 ###### 1 
 And now, king Benjamin thought it was expedient, after having finished speaking to the people, that he should take the names of all those who had entered into a covenant with God to keep his commandments.
 

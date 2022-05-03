@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel and Judah defiled and polluted the land through wickedness—In the last days, the Lord will gather the people of Israel, one from a city and two from a family, and bring them to Zion.
 
----
 ###### 1 
 They say, If a man put away his wife, and she go from him, and become another man’s, shall he return unto her again? shall not that land be greatly polluted? but thou hast played the harlot with many lovers; yet return again to me, saith the .
 

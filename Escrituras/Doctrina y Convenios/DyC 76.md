@@ -1,22 +1,21 @@
 ---
 title: DyC 76
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 76
 [[DyC 75| <-- DyC 75]] | [[DyC]] | [[DyC 77|DyC 77 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, El Señor es Dios; 5–10, Los misterios del reino serán revelados a todos los fieles; 11–17, Todos saldrán o en la resurrección de los justos o en la de los injustos; 18–24, Los habitantes de muchos mundos son engendrados hijos e hijas para Dios por medio de la expiación de Jesucristo; 25–29, Un ángel de Dios cayó y se convirtió en el diablo; 30–49, Los hijos de perdición padecen condenación eterna; todos los demás logran algún grado de salvación; 50–70, Se describen la gloria y el galardón de los seres exaltados en el reino celestial; 71–80, Aquellos que heredarán el reino terrestre; 81–113, El estado de los que se hallarán en la gloria telestial, en la terrestre y en la celestial; 114–119, Los fieles podrán ver y comprender los misterios del Reino de Dios mediante el poder del Espíritu Santo.
 
----
 ###### 1 
 ¡Oíd, oh cielos, escucha, oh tierra, y regocijaos, vosotros los habitantes de ellos, porque el Señor es Dios, y aparte de él no hay Salvador!
 

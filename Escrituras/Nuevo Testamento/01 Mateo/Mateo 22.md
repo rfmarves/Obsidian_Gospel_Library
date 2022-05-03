@@ -1,22 +1,21 @@
 ---
 title: Mateo 22
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 22
 [[Mateo 21| <-- Mateo 21]] | [[Mateo]] | [[Mateo 23|Mateo 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús enseña la parábola de la fiesta de bodas del hijo del rey — Pagad tributo a César y a Dios — Los matrimonios del mundo solo perduran por esta vida — El primer mandamiento consiste en amar al Señor nuestro Dios — Jesús pregunta: ¿Qué pensáis del Cristo?
 
----
 ###### 1 
 Y respondiendo Jesús, les volvió a hablar en parábolas, diciendo:
 

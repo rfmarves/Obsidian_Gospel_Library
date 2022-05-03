@@ -1,22 +1,21 @@
 ---
 title: Mosíah 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 1
 [[Palabras de Mormón 1| <-- Palabras de Mormón 1]] | [[Mosíah]] | [[Mosíah 2|Mosíah 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El rey Benjamín enseña a sus hijos el idioma y las profecías de sus padres — Se habían preservado su religión y su civilización por motivo de los anales que estaban grabados en las diversas planchas — Mosíah es nombrado rey y se le encomiendan los anales y otras cosas. Aproximadamente 130–124 a.C.
 
----
 ###### 1 
 Y entonces no hubo más contiendas en toda la tierra de Zarahemla, entre todo el pueblo que pertenecía al rey Benjamín, de modo que el rey Benjamín gozó de una paz continua todo el resto de sus días.
 

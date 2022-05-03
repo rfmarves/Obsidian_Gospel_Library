@@ -1,22 +1,21 @@
 ---
 title: Jacó 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jacó 4
 [[Jacó 3| <-- Jacó 3]] | [[Jacó]] | [[Jacó 5|Jacó 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Todos os profetas adoravam o Pai em nome de Cristo — A oferta que Abraão fez de Isaque foi à semelhança de Deus e Seu Unigênito — Os homens devem reconciliar-se com Deus por meio da expiação — Os judeus rejeitarão a pedra de fundamento. Aproximadamente 544–421 a.C.
 
----
 ###### 1 
 Ora, então aconteceu que eu, Jacó, tendo ensinado muito meu povo com palavras (e não posso escrever senão poucas de minhas palavras, devido à dificuldade de gravá-las em placas) e sabemos que as coisas que escrevemos em placas perdurarão;
 

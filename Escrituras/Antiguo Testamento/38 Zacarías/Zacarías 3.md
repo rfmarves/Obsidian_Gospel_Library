@@ -1,22 +1,21 @@
 ---
 title: Zacarías 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarías 3
 [[Zacarías 2| <-- Zacarías 2]] | [[Zacarías]] | [[Zacarías 4|Zacarías 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Zacarías habla del Mesías — El Renuevo vendrá — En la Segunda Venida, la iniquidad desaparecerá en un solo día.
 
----
 ###### 1 
 Y me mostró al sumo sacerdote Josué, el sumo sacerdote que estaba delante del ángel de Jehová, y Satanás estaba a su mano derecha para acusarle.
 

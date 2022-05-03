@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 17
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 John is shown that Babylon the great, the mother of harlots and abominations, has become established throughout the earth.
 
----
 ###### 1 
 And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jerusalem has become as a harlot, reveling in her idols and worshipping false gods—She has partaken of all the sins of Egypt and the nations round about, and she is rejected—Yet in the last days, the Lord will again establish His covenant with her.
 
----
 ###### 1 
 Again the word of the  came unto me, saying,
 

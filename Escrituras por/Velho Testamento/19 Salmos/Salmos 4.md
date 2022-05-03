@@ -1,27 +1,25 @@
 ---
 title: Salmos 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 4
 [[Salmos 3| <-- Salmos 3]] | [[Salmos]] | [[Salmos 5|Salmos 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/4?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor, sobre Neginote.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi implora misericórdia — Ele aconselha: Confiai no Senhor.
 
----
 ###### 1 
 Ouve-me quando eu clamo, ó Deus da minha justiça; na angústia me deste alívio; tem misericórdia de mim e ouve a minha oração.
 

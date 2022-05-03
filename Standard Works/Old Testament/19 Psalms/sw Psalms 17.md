@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 17
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/17?lang=eng)
 
----
+```
 A Prayer of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David pleads with the Lord to hear his voice and to preserve him from men of the world—David hopes to behold the Lord’s face in righteousness.
 
----
 ###### 1 
 Hear the right, O , attend unto my cry, give ear unto my prayer,  not out of feigned lips.
 

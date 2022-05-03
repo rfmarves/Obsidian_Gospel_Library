@@ -1,22 +1,21 @@
 ---
 title: DyC 98
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 98
 [[DyC 97| <-- DyC 97]] | [[DyC]] | [[DyC 99|DyC 99 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/98?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/98?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–3, Las aflicciones que padezcan los santos serán para su bien; 4–8, Los santos deben apoyar la ley constitucional del país; 9–10, Se debe apoyar a hombres honrados, sabios y rectos para el gobierno secular; 11–15, Aquellos que pierdan su vida en la causa del Señor tendrán vida eterna; 16–18, Renunciad a la guerra y proclamad la paz; 19–22, Se reprende a los santos que viven en Kirtland y se les manda que se arrepientan; 23–32, El Señor revela Sus leyes concernientes a las persecuciones y aflicciones que se imponen sobre Su pueblo; 33–38, La guerra se justifica únicamente cuando el Señor la ordena; 39–48, Los santos deben perdonar a sus enemigos, los cuales, si se arrepienten, también se librarán de la venganza del Señor.
 
----
 ###### 1 
 De cierto os digo, mis amigos, no temáis, consuélense vuestros corazones; sí, regocijaos para siempre, y en todas las cosas dad gracias;
 

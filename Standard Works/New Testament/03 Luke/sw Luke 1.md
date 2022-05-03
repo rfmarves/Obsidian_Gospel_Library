@@ -1,10 +1,11 @@
 ---
 title: sw Luke 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Gabriel promises Zacharias that Elisabeth will bear a son, whom they will name John—He also tells Mary that she will be the mother of the Son of God—Mary visits Elisabeth and utters a psalm of praise—John the Baptist is born—Zacharias prophesies of John’s mission.
 
----
 ###### 1 
 Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,
 

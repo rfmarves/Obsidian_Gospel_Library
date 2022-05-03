@@ -1,22 +1,21 @@
 ---
 title: Provérbios 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 12
 [[Provérbios 11| <-- Provérbios 11]] | [[Provérbios]] | [[Provérbios 13|Provérbios 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A mulher virtuosa é a coroa do seu marido — O caminho do tolo é reto aos seus próprios olhos — Os lábios mentirosos são abomináveis ao Senhor.
 
----
 ###### 1 
 O que ama a correção ama o conhecimento, mas o que odeia a repreensão  estúpido.
 

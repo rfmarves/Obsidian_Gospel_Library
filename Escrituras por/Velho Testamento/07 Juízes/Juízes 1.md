@@ -1,22 +1,21 @@
 ---
 title: Juízes 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 1
 [[Josué 24| <-- Josué 24]] | [[Juízes]] | [[Juízes 2|Juízes 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Judá, Simeão e José continuam a conquista dos cananeus — Permanecem remanescentes dos cananeus nas terras de Judá, Manassés, Efraim, Zebulom, Aser, Naftali e Dã.
 
----
 ###### 1 
 E sucedeu que, depois da morte de Josué, os filhos de Israel perguntaram ao , dizendo: Quem dentre nós primeiro subirá aos cananeus, para pelejar contra eles?
 

@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 29
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 29
 [[Deuteronomio 28| <-- Deuteronomio 28]] | [[Deuteronomio]] | [[Deuteronomio 30|Deuteronomio 30 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/29?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de Israel hacen un convenio con Jehová bajo el cual serán bendecidos si son obedientes y maldecidos si son desobedientes — Si son desobedientes, su tierra será como azufre y sal.
 
----
 ###### 1 
 Estas son las palabras del convenio que Jehová mandó a Moisés que hiciera con los hijos de Israel en la tierra de Moab, además del convenio que concertó con ellos en Horeb.
 

@@ -1,22 +1,21 @@
 ---
 title: Zacarías 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarías 9
 [[Zacarías 8| <-- Zacarías 8]] | [[Zacarías]] | [[Zacarías 10|Zacarías 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Zacarías habla del Mesías — El Mesías vendrá trayendo salvación, humilde y montado sobre un asno — Liberará del foso a los presos — Judá y Efraín son instrumentos de Jehová.
 
----
 ###### 1 
 La profecía de la palabra de Jehová contra la tierra de Hadrac y Damasco, su lugar de reposo; porque en Jehová están puestos los ojos de los hombres y de todas las tribus de Israel.
 

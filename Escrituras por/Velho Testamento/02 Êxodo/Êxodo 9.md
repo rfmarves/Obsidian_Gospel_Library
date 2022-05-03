@@ -1,22 +1,21 @@
 ---
 title: Êxodo 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 9
 [[Êxodo 8| <-- Êxodo 8]] | [[Êxodo]] | [[Êxodo 10|Êxodo 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor destrói o gado dos egípcios, mas não o dos israelitas — Uma praga de sarna e úlceras é enviada sobre os egípcios — O Senhor envia saraiva e fogo sobre o povo de Faraó, mas não sobre o povo de Israel.
 
----
 ###### 1 
 Depois o  disse a Moisés: Vai a Faraó, e dize-lhe: Assim diz o , o Deus dos hebreus: Deixa ir o meu povo, para que me sirva.
 

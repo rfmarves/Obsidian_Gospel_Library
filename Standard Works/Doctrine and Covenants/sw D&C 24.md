@@ -1,10 +1,11 @@
 ---
 title: sw D&C 24
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–9, Joseph Smith is called to translate, preach, and expound scriptures; 10–12, Oliver Cowdery is called to preach the gospel; 13–19, The law is revealed relative to miracles, cursings, casting off the dust of one’s feet, and going without purse or scrip.
 
----
 ###### 1 
 Behold, thou wast called and chosen to write the Book of Mormon, and to my ministry; and I have lifted thee up out of thine afflictions, and have counseled thee, that thou hast been delivered from all thine enemies, and thou hast been delivered from the powers of Satan and from darkness!
 

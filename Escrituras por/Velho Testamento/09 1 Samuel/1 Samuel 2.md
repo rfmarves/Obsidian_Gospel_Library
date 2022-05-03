@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 2
 [[1 Samuel 1| <-- 1 Samuel 1]] | [[1 Samuel]] | [[1 Samuel 3|1 Samuel 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ana canta louvores ao Senhor — Samuel ministra diante do Senhor — Eli abençoa Elcana e Ana, e eles têm filhos e filhas — Os filhos de Eli rejeitam o Senhor e levam uma vida iníqua — O Senhor rejeita a casa de Eli.
 
----
 ###### 1 
 Então orou Ana, e disse: O meu coração exulta ao , o meu poder está exaltado no ; a minha boca se alargou sobre os meus inimigos, porquanto me alegro na tua salvação.
 

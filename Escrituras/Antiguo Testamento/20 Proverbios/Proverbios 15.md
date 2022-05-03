@@ -1,22 +1,21 @@
 ---
 title: Proverbios 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 15
 [[Proverbios 14| <-- Proverbios 14]] | [[Proverbios]] | [[Proverbios 16|Proverbios 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La blanda respuesta quita la ira — El hijo sabio alegra al padre — Los pensamientos del malo son abominación a Jehová — La humildad precede a la honra.
 
----
 ###### 1 
 
 

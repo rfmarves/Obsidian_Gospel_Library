@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 10
 [[2 Reis 9| <-- 2 Reis 9]] | [[2 Reis]] | [[2 Reis 11|2 Reis 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os setenta filhos de Acabe são mortos — Jeú destrói a casa de Acabe e todos os adoradores de Baal, mas continua a adorar os bezerros de ouro em Betel e em Dã.
 
----
 ###### 1 
 E Acabe tinha setenta filhos em Samaria; e Jeú escreveu cartas, e  enviou a Samaria, aos chefes de Jezreel, aos anciãos, e aos aios de Acabe, dizendo:
 

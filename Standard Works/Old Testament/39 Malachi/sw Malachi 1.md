@@ -1,10 +1,11 @@
 ---
 title: sw Malachi 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Malachi 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/mal/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Jews despise the Lord by offering polluted bread upon the altar and by sacrificing animals with blemishes—The Lord’s name will be great among the Gentiles.
 
----
 ###### 1 
 The burden of the word of the  to Israel by Malachi.
 

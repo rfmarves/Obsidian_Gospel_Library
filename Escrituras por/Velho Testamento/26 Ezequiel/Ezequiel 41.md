@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 41
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 41
 [[Ezequiel 40| <-- Ezequiel 40]] | [[Ezequiel]] | [[Ezequiel 42|Ezequiel 42 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/41?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/41?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ezequiel vê o interior do templo e o Santo dos Santos, e sua forma e tamanho são mostrados a ele.
 
----
 ###### 1 
 Então me levou ao templo, e mediu os pilares, seis côvados de largura de um lado, e seis côvados de largura do outro, que era a largura do tabernáculo.
 

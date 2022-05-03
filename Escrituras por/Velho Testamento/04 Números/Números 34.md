@@ -1,22 +1,21 @@
 ---
 title: Números 34
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 34
 [[Números 33| <-- Números 33]] | [[Números]] | [[Números 35|Números 35 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/34?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/34?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés determina os limites da herança de Israel em Canaã e nomeia os príncipes das tribos que repartirão a terra.
 
----
 ###### 1 
 Falou mais o  a Moisés, dizendo:
 

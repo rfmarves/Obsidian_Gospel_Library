@@ -1,10 +1,11 @@
 ---
 title: sw Alma 22
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Aaron teaches Lamoni’s father about the Creation, the Fall of Adam, and the plan of redemption through Christ—The king and all his household are converted—The division of the land between the Nephites and the Lamanites is explained. About 90–77 B.C.
 
----
 ###### 1 
 Now, as Ammon was thus teaching the people of Lamoni continually, we will return to the account of Aaron and his brethren; for after he departed from the land of Middoni he was led by the Spirit to the land of Nephi, even to the house of the king which was over all the land save it were the land of Ishmael; and he was the father of Lamoni.
 

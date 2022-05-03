@@ -1,10 +1,11 @@
 ---
 title: sw Zechariah 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zechariah 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Zechariah speaks as the Messiah—The Messiah will come, having salvation, lowly and riding upon an ass—He will free the prisoners from the pit—Judah and Ephraim are instruments of the Lord.
 
----
 ###### 1 
 The burden of the word of the  in the land of Hadrach, and Damascus  the rest thereof: when the eyes of man, as of all the tribes of Israel,  toward the .
 

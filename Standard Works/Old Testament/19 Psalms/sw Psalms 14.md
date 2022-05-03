@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 14
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/14?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David says, The fool has said in his heart, there is no God—Israel will rejoice in the day of restoration.
 
----
 ###### 1 
 The fool hath said in his heart,  no God. They are corrupt, they have done abominable works,  none that doeth good.
 

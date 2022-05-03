@@ -1,22 +1,21 @@
 ---
 title: Miqueias 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Miqueias 1
 [[Jonas 4| <-- Jonas 4]] | [[Miqueias]] | [[Miqueias 2|Miqueias 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/micah/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/micah/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Miqueias profetiza a queda de Samaria e de Jerusalém.
 
----
 ###### 1 
 Palavra do , que veio a Miqueias, morastita, nos dias de Jotão, Acaz  Ezequias, reis de Judá, a qual ele viu sobre Samaria e Jerusalém.
 

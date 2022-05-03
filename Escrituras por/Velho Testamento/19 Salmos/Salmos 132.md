@@ -1,27 +1,25 @@
 ---
 title: Salmos 132
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 132
 [[Salmos 131| <-- Salmos 131]] | [[Salmos]] | [[Salmos 133|Salmos 133 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/132?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/132?lang=por)
 
----
+```
 Cântico das subidas.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo messiânico — Do fruto dos lombos de Davi o Senhor porá Um sobre Seu trono — O Senhor abençoará Sião, e seus santos bradarão de alegria.
 
----
 ###### 1 
 Lembra-te, , de Davi,  de todas as suas aflições.
 

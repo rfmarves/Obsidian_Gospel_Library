@@ -1,22 +1,21 @@
 ---
 title: 1 Corintios 5
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Corintios 5
 [[1 Corintios 4| <-- 1 Corintios 4]] | [[1 Corintios]] | [[1 Corintios 6|1 Corintios 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La Iglesia no ha de hermanar a pecadores — Cristo, nuestra Pascua, fue sacrificado por nosotros.
 
----
 ###### 1 
 De cierto se oye que hay entre vosotros fornicación, y tal fornicación cual ni aun se nombra entre los gentiles, al extremo de que alguno tiene la esposa de su padre.
 

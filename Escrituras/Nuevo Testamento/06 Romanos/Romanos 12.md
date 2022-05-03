@@ -1,22 +1,21 @@
 ---
 title: Romanos 12
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 12
 [[Romanos 11| <-- Romanos 11]] | [[Romanos]] | [[Romanos 13|Romanos 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo aconseja a los santos que presenten sus cuerpos como sacrificio vivo, que usen sus propios dones dados por gracia y que vivan como deben vivir los santos.
 
----
 ###### 1 
 Así que, hermanos, os ruego por las misericordias de Dios, que presentéis vuestros cuerpos en sacrificio vivo, santo, agradable a Dios,  vuestro servicio razonable.
 

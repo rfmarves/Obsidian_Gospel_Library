@@ -1,22 +1,21 @@
 ---
 title: DeC 41
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 41
 [[DeC 40| <-- DeC 40]] | [[DeC]] | [[DeC 42|DeC 42 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/41?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/41?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, Os élderes dirigirão a Igreja pelo espírito de revelação; 4–6, Os verdadeiros discípulos receberão e guardarão a lei do Senhor; 7–12, Edward Partridge é designado bispo da Igreja.
 
----
 ###### 1 
 Escutai e dai ouvidos, ó vós, meu povo, diz o Senhor e vosso Deus, vós, que me deleito em abençoar com as maiores de todas as bênçãos, vós que me dais ouvidos; e vós, que não me ouvis e que professastes meu nome, amaldiçoarei com a mais pesada de todas as maldições.
 

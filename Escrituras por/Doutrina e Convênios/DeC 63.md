@@ -1,22 +1,21 @@
 ---
 title: DeC 63
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 63
 [[DeC 62| <-- DeC 62]] | [[DeC]] | [[DeC 64|DeC 64 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/63?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/63?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–6, Um dia de ira virá sobre os iníquos; 7–12, Sinais virão pela fé; 13–19, Os adúlteros de coração negarão a fé e serão lançados no lago de fogo; 20, Os fiéis receberão uma herança na Terra transfigurada; 21, Um relato completo dos eventos ocorridos no Monte da Transfiguração ainda não foi revelado; 22–23, Os obedientes recebem os mistérios do reino; 24–31, Devem ser compradas heranças em Sião; 32–35, O Senhor decreta guerras e os iníquos destroem os iníquos; 36–48, Os santos devem reunir-se em Sião e dar dinheiro para construí-la; 49–54, Asseguram-se bênçãos aos fiéis na Segunda Vinda, na Ressurreição e durante o Milênio; 55–58, Este é um dia de advertência; 59–66, O nome do Senhor é tomado em vão por aqueles que o usam sem autoridade.
 
----
 ###### 1 
 Escutai, ó povo, e abri o coração e de longe ouvi; e escutai, vós que vos chamais povo do Senhor; e ouvi a palavra do Senhor e a sua vontade a respeito de vós.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 The 2½ tribes are dismissed with a blessing—They build an altar of testimony by the Jordan to show they are the Lord’s people—It is not an altar for sacrifices or burnt offerings.
 
----
 ###### 1 
 Then Joshua called the Reubenites, and the Gadites, and the half tribe of Manasseh,
 

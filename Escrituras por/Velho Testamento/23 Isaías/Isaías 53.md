@@ -1,22 +1,21 @@
 ---
 title: Isaías 53
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 53
 [[Isaías 52| <-- Isaías 52]] | [[Isaías]] | [[Isaías 54|Isaías 54 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/53?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/53?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Isaías fala acerca do Messias — Descrevem-se a humilhação e os sofrimentos do Messias — Ele põe Sua alma como oferta pelo pecado e intercede pelos transgressores — Comparar com Mosias 14.
 
----
 ###### 1 
 Quem deu crédito à nossa pregação? e a quem se manifestou o braço do ?
 

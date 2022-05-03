@@ -1,10 +1,11 @@
 ---
 title: sw Mark 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus casts out a legion of devils, who then enter the swine—A woman is healed by touching Jesus’ clothes—He raises Jairus’s daughter from the dead.
 
----
 ###### 1 
 And they came over unto the other side of the sea, into the country of the Gadarenes.
 

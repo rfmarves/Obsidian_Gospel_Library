@@ -1,10 +1,11 @@
 ---
 title: sw Mark 7
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus reproves the Pharisees for their false traditions and ceremonies—He casts a devil out of the daughter of a Greek woman—He opens the ears and loosens the tongue of a person with an impediment.
 
----
 ###### 1 
 Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.
 

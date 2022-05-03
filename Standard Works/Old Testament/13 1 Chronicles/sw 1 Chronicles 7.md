@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 The sons and families are named for Issachar, Benjamin, Naphtali, Manasseh, Ephraim, and Asher.
 
----
 ###### 1 
 Now the sons of Issachar  Tola, and Puah, Jashub, and Shimron, four.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 8
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob continues reading from Isaiah: In the last days, the Lord will comfort Zion and gather Israel—The redeemed will come to Zion amid great joy—Compare Isaiah 51 and 52:1–2. About 559–545 B.C.
 
----
 ###### 1 
 Hearken unto me, ye that follow after righteousness. Look unto the rock from whence ye are hewn, and to the hole of the pit from whence ye are digged.
 

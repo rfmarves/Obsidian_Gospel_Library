@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 20
 [[2 Crónicas 19| <-- 2 Crónicas 19]] | [[2 Crónicas]] | [[2 Crónicas 21|2 Crónicas 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los amonitas y otros pueblos más atacan a Judá — Josafat y todo el pueblo ayunan y oran — Jahaziel profetiza la liberación de Judá — Los que atacan a Judá luchan entre sí y se destruyen.
 
----
 ###### 1 
 Pasadas estas cosas, aconteció que los hijos de Moab y de Amón, y con ellos  de los amonitas, vinieron contra Josafat a la guerra.
 

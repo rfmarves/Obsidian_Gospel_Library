@@ -1,27 +1,25 @@
 ---
 title: Salmos 86
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 86
 [[Salmos 85| <-- Salmos 85]] | [[Salmos]] | [[Salmos 87|Salmos 87 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/86?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/86?lang=por)
 
----
+```
 Oração de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi implora misericórdia a Deus e é salvo do inferno mais profundo — O Senhor é bom e abundante em misericórdia — Todas as nações se prostrarão diante Dele.
 
----
 ###### 1 
 Inclina, , os teus ouvidos,  ouve-me, porque  necessitado e aflito.
 

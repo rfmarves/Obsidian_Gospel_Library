@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 24
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 24
 [[Deuteronomio 23| <-- Deuteronomio 23]] | [[Deuteronomio]] | [[Deuteronomio 25|Deuteronomio 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se dan leyes concernientes al divorcio, a las personas recién casadas, al comercio de esclavos, a tomar prendas en garantía, a la lepra, a la opresión de los siervos y al dejar restos de las cosechas en el campo.
 
----
 ###### 1 
 Si alguno toma una mujer y se casa con ella, si no le agrada por haber hallado en ella alguna cosa reprochable, le escribirá carta de divorcio, y se la entregará en la mano y la despedirá de su casa.
 

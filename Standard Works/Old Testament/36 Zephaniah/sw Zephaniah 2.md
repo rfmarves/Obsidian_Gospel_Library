@@ -1,10 +1,11 @@
 ---
 title: sw Zephaniah 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zephaniah 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zeph/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Seek righteousness; seek meekness—Judgment will come upon the Philistines, the Moabites, the children of Ammon, the Ethiopians, and the Assyrians.
 
----
 ###### 1 
 Gather yourselves together, yea, gather together, O nation not desired;
 

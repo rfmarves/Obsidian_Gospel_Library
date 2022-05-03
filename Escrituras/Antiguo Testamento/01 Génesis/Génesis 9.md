@@ -1,22 +1,21 @@
 ---
 title: Génesis 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 9
 [[Génesis 8| <-- Génesis 8]] | [[Génesis]] | [[Génesis 10|Génesis 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se manda a Noé y a sus hijos multiplicarse y henchir la tierra — Se les da dominio sobre todas las formas de vida — Se decreta la pena de muerte por asesinato — Dios nunca volverá a destruir la tierra por medio de un diluvio — Canaán es maldecido; Sem y Jafet son bendecidos.
 
----
 ###### 1 
 Y bendijo Dios a Noé y a sus hijos, y les dijo: Fructificad, y multiplicaos y henchid la tierra;
 

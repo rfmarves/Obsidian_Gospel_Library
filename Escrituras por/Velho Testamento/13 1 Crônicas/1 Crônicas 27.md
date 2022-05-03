@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 27
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 27
 [[1 Crônicas 26| <-- 1 Crônicas 26]] | [[1 Crônicas]] | [[1 Crônicas 28|1 Crônicas 28 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/27?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Enumeram-se os oficiais que serviam ao rei — Os príncipes das tribos de Israel são apresentados.
 
----
 ###### 1 
 Estes  os filhos de Israel segundo o seu número, os chefes dos pais, e os capitães de mil e de cem, com os seus oficiais, que serviam ao rei em todos os assuntos dos turnos, que entravam e saíam de mês em mês, em todos os meses do ano, cada turno de vinte e quatro mil.
 

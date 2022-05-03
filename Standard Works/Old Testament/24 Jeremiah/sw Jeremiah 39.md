@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 39
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 39
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/39?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jerusalem is taken, and the people are taken captive—Jeremiah and Ebed-melech, the Ethiopian, are preserved.
 
----
 ###### 1 
 In the ninth year of Zedekiah king of Judah, in the tenth month, came Nebuchadrezzar king of Babylon and all his army against Jerusalem, and they besieged it.
 

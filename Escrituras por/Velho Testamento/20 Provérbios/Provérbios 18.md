@@ -1,22 +1,21 @@
 ---
 title: Provérbios 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 18
 [[Provérbios 17| <-- Provérbios 17]] | [[Provérbios]] | [[Provérbios 19|Provérbios 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A boca do tolo é a sua própria destruição — Aquele que encontra uma esposa, encontra o bem — O homem de muitos amigos deve mostrar-se amigável.
 
----
 ###### 1 
 Busca seu próprio desejo aquele que se isola, e se insurge contra toda a sabedoria.
 

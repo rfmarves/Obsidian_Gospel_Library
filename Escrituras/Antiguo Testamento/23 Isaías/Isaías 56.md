@@ -1,22 +1,21 @@
 ---
 title: Isaías 56
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 56
 [[Isaías 55| <-- Isaías 55]] | [[Isaías]] | [[Isaías 57|Isaías 57 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/56?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/56?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Todos los que guarden los mandamientos serán exaltados — Otros pueblos se unirán a Israel — Jehová recogerá a otros más en la casa de Israel.
 
----
 ###### 1 
 Así ha dicho Jehová: Guardad el derecho y practicad la justicia, porque mi salvación está por venir y mi justicia por manifestarse.
 

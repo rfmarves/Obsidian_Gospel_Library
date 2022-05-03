@@ -1,22 +1,21 @@
 ---
 title: DeC 31
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 31
 [[DeC 30| <-- DeC 30]] | [[DeC]] | [[DeC 32|DeC 32 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/31?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/31?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–6, Thomas B. Marsh é chamado para pregar o evangelho e o bem-estar de sua família é-lhe assegurado; 7–13, Ele é aconselhado a ser paciente, orar sempre e seguir o Consolador.
 
----
 ###### 1 
 Thomas, meu filho, bem-aventurado és tu por causa de tua fé em minha obra.
 

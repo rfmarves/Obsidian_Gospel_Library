@@ -1,10 +1,11 @@
 ---
 title: sw Judges 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The children of Israel intermarry with the Canaanites, worship false gods, and are cursed—Othniel judges the Israelites—They serve Moab and are delivered by Ehud, who slays Eglon.
 
----
 ###### 1 
 Now these  the nations which the  left, to prove Israel by them,  as many  as had not known all the wars of Canaan;
 

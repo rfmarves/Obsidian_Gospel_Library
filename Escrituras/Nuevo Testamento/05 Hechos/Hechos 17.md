@@ -1,22 +1,21 @@
 ---
 title: Hechos 17
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 17
 [[Hechos 16| <-- Hechos 16]] | [[Hechos]] | [[Hechos 18|Hechos 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo y Silas predican en Tesalónica y en Berea, y son perseguidos en ambos lugares — Ya en Atenas, Pablo predica desde el Areópago sobre el Dios no conocido — Pablo declara que somos linaje de Dios.
 
----
 ###### 1 
 Y pasando por Anfípolis y Apolonia, llegaron a Tesalónica, donde había una sinagoga de los judíos.
 

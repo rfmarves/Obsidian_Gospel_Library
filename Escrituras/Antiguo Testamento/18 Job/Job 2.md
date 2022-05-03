@@ -1,22 +1,21 @@
 ---
 title: Job 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 2
 [[Job 1| <-- Job 1]] | [[Job]] | [[Job 3|Job 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Satanás recibe permiso de Jehová para afligir físicamente a Job — Este es herido con sarna — Elifaz, Bildad y Zofar vienen a consolarlo.
 
----
 ###### 1 
 Y aconteció que otro día vinieron los hijos de Dios para presentarse delante de Jehová, y Satanás vino también entre ellos para presentarse delante de Jehová.
 

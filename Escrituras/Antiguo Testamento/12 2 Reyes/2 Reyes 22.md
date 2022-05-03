@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 22
 [[2 Reyes 21| <-- 2 Reyes 21]] | [[2 Reyes]] | [[2 Reyes 23|2 Reyes 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Josías reina con rectitud en Judá — Hilcías repara el templo y encuentra el libro de la ley — Josías se entristece a causa de la iniquidad de sus padres — Hulda profetiza ira sobre el pueblo, pero bendiciones sobre Josías.
 
----
 ###### 1 
 Cuando Josías comenzó a reinar tenía ocho años, y reinó en Jerusalén treinta y un años. El nombre de su madre era Jedida hija de Adaía, de Boscat.
 

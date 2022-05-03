@@ -1,10 +1,11 @@
 ---
 title: sw Lamentations 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Lamentations 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lam/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 The condition of Zion is pitiful because of sin and iniquity.
 
----
 ###### 1 
 How is the gold become dim!  is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.
 

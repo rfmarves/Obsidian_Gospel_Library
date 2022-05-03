@@ -1,22 +1,21 @@
 ---
 title: Levítico 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 19
 [[Levítico 18| <-- Levítico 18]] | [[Levítico]] | [[Levítico 20|Levítico 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ordena-se a Israel: Sede santos, vivei em retidão, amai o próximo e guardai os mandamentos — O Senhor revela e reitera diversas leis e mandamentos — Proíbem-se feitiçarias, adivinhações, prostituição e toda prática iníqua.
 
----
 ###### 1 
 Falou mais o  a Moisés, dizendo:
 

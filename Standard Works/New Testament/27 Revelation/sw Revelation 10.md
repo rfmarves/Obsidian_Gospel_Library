@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 10
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 John seals up many things relative to the last days—He is commissioned to participate in the restoration of all things.
 
----
 ###### 1 
 And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow  upon his head, and his face  as it were the sun, and his feet as pillars of fire:
 

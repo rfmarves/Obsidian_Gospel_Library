@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord will raise the gospel ensign, send messengers to His scattered people, and gather them to Mount Zion.
 
----
 ###### 1 
 Woe to the land shadowing with wings, which  beyond the rivers of Ethiopia:
 

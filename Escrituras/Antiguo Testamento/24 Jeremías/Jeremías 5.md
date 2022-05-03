@@ -1,22 +1,21 @@
 ---
 title: Jeremías 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 5
 [[Jeremías 4| <-- Jeremías 4]] | [[Jeremías]] | [[Jeremías 6|Jeremías 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se derramarán juicios sobre el pueblo de Judá a causa de sus pecados — Sus iniquidades hacen que las bendiciones les sean retenidas.
 
----
 ###### 1 
 Recorred las calles de Jerusalén, y mirad ahora, y sabed y buscad en sus plazas a ver si halláis un solo hombre, si hay alguno que haga justicia, que busque la verdad, y yo la perdonaré.
 

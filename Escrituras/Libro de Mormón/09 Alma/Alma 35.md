@@ -1,22 +1,21 @@
 ---
 title: Alma 35
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 35
 [[Alma 34| <-- Alma 34]] | [[Alma]] | [[Alma 36|Alma 36 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/35?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/35?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La predicación de la palabra destruye las artimañas de los zoramitas — Expulsan a los convertidos, los cuales se unen al pueblo de Ammón en Jersón — Alma se aflige por la iniquidad de su pueblo. Aproximadamente 74 a.C.
 
----
 ###### 1 
 Y aconteció que después que Amulek hubo dado fin a estas palabras, se separaron de la multitud y se fueron a la tierra de Jersón.
 

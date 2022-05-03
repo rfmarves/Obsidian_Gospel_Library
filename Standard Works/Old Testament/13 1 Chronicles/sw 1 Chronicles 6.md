@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The sons of Levi, including David’s singers, are listed—The responsibilities of Aaron and his descendants are given—Levite cities are designated in the areas of the various tribes.
 
----
 ###### 1 
 The sons of Levi; Gershon, Kohath, and Merari.
 

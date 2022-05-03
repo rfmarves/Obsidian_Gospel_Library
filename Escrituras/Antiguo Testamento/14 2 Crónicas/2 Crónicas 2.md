@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 2
 [[2 Crónicas 1| <-- 2 Crónicas 1]] | [[2 Crónicas]] | [[2 Crónicas 3|2 Crónicas 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Salomón contrata a Hiram de Tiro para suministrar madera para el templo — Se organiza a los obreros para efectuar la obra.
 
----
 ###### 1 
 Determinó, pues, Salomón edificar una casa al nombre de Jehová, y  casa para su reino.
 

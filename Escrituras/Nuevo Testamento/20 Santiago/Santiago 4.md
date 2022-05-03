@@ -1,22 +1,21 @@
 ---
 title: Santiago 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Santiago 4
 [[Santiago 3| <-- Santiago 3]] | [[Santiago]] | [[Santiago 5|Santiago 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/james/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/james/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Las guerras se originan de las concupiscencias — Los amigos del mundo son enemigos de Dios — El pecado consiste en no andar en la luz que hemos recibido.
 
----
 ###### 1 
 ¿De dónde  las guerras y los pleitos entre vosotros? ¿No  de vuestras concupiscencias, las cuales combaten en vuestros miembros?
 

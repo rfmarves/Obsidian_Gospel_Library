@@ -1,10 +1,11 @@
 ---
 title: sw D&C 130
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 130
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, The Father and the Son may appear personally to men; 4–7, Angels reside in a celestial sphere; 8–9, The celestial earth will be a great Urim and Thummim; 10–11, A white stone is given to all who enter the celestial world; 12–17, The time of the Second Coming is withheld from the Prophet; 18–19, Intelligence gained in this life rises with us in the Resurrection; 20–21, All blessings come by obedience to law; 22–23, The Father and the Son have bodies of flesh and bones.
 
----
 ###### 1 
 When the Savior shall appear we shall see him as he is. We shall see that he is a man like ourselves.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 2
 [[2 Nefi 1| <-- 2 Nefi 1]] | [[2 Nefi]] | [[2 Nefi 3|2 Nefi 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La redención viene por medio del Santo Mesías — La libertad para escoger (el albedrío) es esencial para la existencia y el progreso — Adán cayó para que los hombres existiesen — Los hombres son libres para escoger la libertad y la vida eterna. Aproximadamente 588–570 a.C.
 
----
 ###### 1 
 Y ahora, Jacob, te hablo a ti: Tú eres mi primer hijo nacido en los días de mi tribulación en el desierto. Y he aquí, tú has padecido aflicciones y mucho pesar en tu infancia a causa de la rudeza de tus hermanos.
 

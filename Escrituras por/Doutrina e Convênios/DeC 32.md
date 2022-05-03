@@ -1,22 +1,21 @@
 ---
 title: DeC 32
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 32
 [[DeC 31| <-- DeC 31]] | [[DeC]] | [[DeC 33|DeC 33 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/32?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/32?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, Parley P. Pratt e Ziba Peterson são chamados para pregar aos lamanitas e acompanhar Oliver Cowdery e Peter Whitmer Júnior; 4–5, Eles devem orar pedindo compreensão das escrituras.
 
----
 ###### 1 
 E agora, concernente a meu servo Parley P. Pratt, eis que lhe digo que, tão certamente como eu vivo, desejo que ele proclame meu evangelho e aprenda de mim e seja manso e humilde de coração.
 

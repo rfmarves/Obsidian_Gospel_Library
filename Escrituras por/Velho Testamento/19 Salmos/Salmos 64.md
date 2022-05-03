@@ -1,27 +1,25 @@
 ---
 title: Salmos 64
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 64
 [[Salmos 63| <-- Salmos 63]] | [[Salmos]] | [[Salmos 65|Salmos 65 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/64?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/64?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi ora pedindo proteção — O justo se alegrará no coração.
 
----
 ###### 1 
 Ouve, ó Deus, a minha voz na minha oração; guarda a minha vida do temor do inimigo.
 

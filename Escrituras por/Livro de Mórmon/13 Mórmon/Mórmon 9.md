@@ -1,22 +1,21 @@
 ---
 title: Mórmon 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mórmon 9
 [[Mórmon 8| <-- Mórmon 8]] | [[Mórmon]] | [[Éter 1|Éter 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Morôni chama ao arrependimento aqueles que não creem em Cristo — Ele proclama um Deus de milagres, que faz revelações e derrama dons e sinais sobre os fiéis — Cessam os milagres por causa da descrença — Sinais seguem os que creem — Os homens são exortados a serem sábios e a obedecerem aos mandamentos. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 E agora falo também a respeito daqueles que não creem em Cristo.
 

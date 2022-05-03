@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 29
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob meets Rachel at the well—He serves Laban seven years for her—Laban gives to Jacob first Leah then Rachel in marriage—Jacob serves another seven years—Leah bears Reuben, Simeon, Levi, and Judah.
 
----
 ###### 1 
 Then Jacob went on his journey, and came into the land of the people of the east.
 

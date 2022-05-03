@@ -1,22 +1,21 @@
 ---
 title: Mórmon 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mórmon 5
 [[Mórmon 4| <-- Mórmon 4]] | [[Mórmon]] | [[Mórmon 6|Mórmon 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mórmon lidera novamente os exércitos nefitas em batalhas de sangue e carnificina — O Livro de Mórmon aparecerá para convencer toda Israel de que Jesus é o Cristo — Por causa de sua incredulidade os lamanitas serão dispersos e o Espírito cessará de lutar com eles — Eles receberão o evangelho dos gentios nos últimos dias. Aproximadamente 375–384 d.C.
 
----
 ###### 1 
 E aconteceu que fui para o meio dos nefitas e arrependi-me do juramento que fizera de não mais os ajudar; e deram-me novamente o comando de seus exércitos, pois julgavam que eu poderia livrá-los de suas aflições.
 

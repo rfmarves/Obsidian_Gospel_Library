@@ -1,22 +1,21 @@
 ---
 title: João 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 4
 [[João 3| <-- João 3]] | [[João]] | [[João 5|João 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus ensina uma mulher de Samaria — Todos devem adorar o Pai em espírito e em verdade — Aqueles que colhem almas ganham a vida eterna — Muitos samaritanos acreditam — Jesus cura o filho de um nobre.
 
----
 ###### 1 
 E quando o Senhor entendeu que os fariseus tinham ouvido que Jesus fazia e batizava mais discípulos do que João
 

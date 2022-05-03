@@ -1,10 +1,11 @@
 ---
 title: sw D&C 85
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 85
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/85?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, Inheritances in Zion are to be received through consecration; 6–12, One mighty and strong will give the Saints their inheritance in Zion.
 
----
 ###### 1 
 It is the duty of the Lord’s clerk, whom he has appointed, to keep a history, and a general church record of all things that transpire in Zion, and of all those who consecrate properties, and receive inheritances legally from the bishop;
 

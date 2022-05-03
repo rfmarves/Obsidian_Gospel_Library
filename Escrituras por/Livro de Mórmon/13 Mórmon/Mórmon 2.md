@@ -1,22 +1,21 @@
 ---
 title: Mórmon 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mórmon 2
 [[Mórmon 1| <-- Mórmon 1]] | [[Mórmon]] | [[Mórmon 3|Mórmon 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mórmon comanda os exércitos nefitas — Sangue e carnificina varrem a terra — Os nefitas lamentam e pranteiam com a tristeza dos condenados — Passado é o seu dia de graça — Mórmon obtém as placas de Néfi — Continuam as guerras. Aproximadamente 327–350 d.C.
 
----
 ###### 1 
 E aconteceu que nesse mesmo ano começou a haver guerra novamente entre os nefitas e os lamanitas. E apesar de jovem, eu era de grande estatura; por conseguinte, o povo de Néfi designou-me chefe, ou seja, comandante dos seus exércitos.
 

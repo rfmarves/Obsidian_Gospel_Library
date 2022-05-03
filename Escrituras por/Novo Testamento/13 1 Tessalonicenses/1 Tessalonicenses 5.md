@@ -1,22 +1,21 @@
 ---
 title: 1 Tessalonicenses 5
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Tessalonicenses 5
 [[1 Tessalonicenses 4| <-- 1 Tessalonicenses 4]] | [[1 Tessalonicenses]] | [[2 Tessalonicenses 1|2 Tessalonicenses 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos saberão a época da Segunda Vinda de Cristo — Vivei como devem viver os santos — Regozijai-vos sempre — Não desprezeis as profecias.
 
----
 ###### 1 
 Porém, irmãos, acerca dos tempos e das estações, não necessitais de que se vos escreva;
 

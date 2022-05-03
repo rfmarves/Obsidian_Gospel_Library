@@ -1,10 +1,11 @@
 ---
 title: sw D&C 86
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 86
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/86?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–7, The Lord gives the meaning of the parable of the wheat and tares; 8–11, He explains priesthood blessings to those who are lawful heirs according to the flesh.
 
----
 ###### 1 
 Verily, thus saith the Lord unto you my servants, concerning the parable of the wheat and of the tares:
 

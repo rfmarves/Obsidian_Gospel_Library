@@ -1,22 +1,21 @@
 ---
 title: Génesis 48
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 48
 [[Génesis 47| <-- Génesis 47]] | [[Génesis]] | [[Génesis 49|Génesis 49 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/48?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/48?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob narra la aparición de Dios a él en Luz — Adopta a Efraín y a Manasés como sus propios hijos — Jacob bendice a José — Pone a Efraín antes que a Manasés — La descendencia de Efraín formará multitud de naciones — Los hijos de Israel volverán a la tierra de sus padres.
 
----
 ###### 1 
 Y sucedió después de estas cosas que se le dijo a José: He aquí tu padre está enfermo. Y él tomó consigo a sus dos hijos, Manasés y Efraín.
 

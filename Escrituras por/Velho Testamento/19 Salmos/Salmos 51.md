@@ -1,27 +1,25 @@
 ---
 title: Salmos 51
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 51
 [[Salmos 50| <-- Salmos 50]] | [[Salmos]] | [[Salmos 52|Salmos 52 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/51?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/51?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor, quando o profeta Natã foi a ele, depois de Davi achegar-se a Bate-Seba.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi pede perdão depois de ter-se achegado a Bate-Seba — Ele roga: Cria em mim um coração puro e renova em mim um espírito reto.
 
----
 ###### 1 
 Tem misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias.
 

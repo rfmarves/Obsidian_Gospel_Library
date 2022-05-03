@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord reveals His laws pertaining to servants, marriage, the death penalty for various offenses, the giving of an eye for an eye and a tooth for a tooth, and the damage done by oxen.
 
----
 ###### 1 
 Now these  the judgments which thou shalt set before them.
 

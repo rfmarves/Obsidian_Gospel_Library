@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 11
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 King Noah rules in wickedness—He revels in riotous living with his wives and concubines—Abinadi prophesies that the people will be taken into bondage—His life is sought by King Noah. About 160–150 B.C.
 
----
 ###### 1 
 And now it came to pass that Zeniff conferred the kingdom upon Noah, one of his sons; therefore Noah began to reign in his stead; and he did not walk in the ways of his father.
 

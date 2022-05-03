@@ -1,22 +1,21 @@
 ---
 title: Colosenses 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Colosenses 3
 [[Colosenses 2| <-- Colosenses 2]] | [[Colosenses]] | [[Colosenses 4|Colosenses 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/col/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/col/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La vida de algunos está escondida con Cristo en Dios — Se exhorta a los miembros de la Iglesia a ser santos y a servir al Señor Jesucristo.
 
----
 ###### 1 
 Si habéis, pues, resucitado con Cristo, buscad las cosas de arriba, donde está Cristo sentado a la diestra de Dios.
 

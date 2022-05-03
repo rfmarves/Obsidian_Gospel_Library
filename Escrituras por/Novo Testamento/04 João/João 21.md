@@ -1,22 +1,21 @@
 ---
 title: João 21
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 21
 [[João 20| <-- João 20]] | [[João]] | [[Atos 1|Atos 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus aparece aos discípulos junto do mar de Tiberíades — Ele diz: Apascenta as minhas ovelhas — Ele prediz o martírio de Pedro e declara que João não vai morrer.
 
----
 ###### 1 
 Depois disso manifestou-se Jesus outra vez aos discípulos junto do mar de Tiberíades; e manifestou-se assim:
 

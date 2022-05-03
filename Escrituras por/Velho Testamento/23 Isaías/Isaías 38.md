@@ -1,22 +1,21 @@
 ---
 title: Isaías 38
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 38
 [[Isaías 37| <-- Isaías 37]] | [[Isaías]] | [[Isaías 39|Isaías 39 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/38?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/38?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A vida de Ezequias é prolongada em quinze anos — O sol volta dez graus como sinal — Ezequias louva e agradece ao Senhor.
 
----
 ###### 1 
 Naqueles dias Ezequias adoeceu de  enfermidade mortal; e veio a ele Isaías, o profeta, filho de Amós, e lhe disse: Assim diz o : Põe em ordem a tua casa, porque morrerás, e não viverás.
 

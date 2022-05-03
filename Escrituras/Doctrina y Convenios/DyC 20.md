@@ -1,22 +1,21 @@
 ---
 title: DyC 20
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 20
 [[DyC 19| <-- DyC 19]] | [[DyC]] | [[DyC 21|DyC 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–16, El Libro de Mormón demuestra la divinidad de la obra de los últimos días; 17–28, Se afirman las doctrinas de la Creación, la Caída, la Expiación y el bautismo; 29–37, Se declaran las leyes que rigen el arrepentimiento, la justificación, la santificación y el bautismo; 38–67, Se hace un resumen de los deberes de los élderes, de los presbíteros, de los maestros y de los diáconos; 68–74, Se revelan los deberes de los miembros, la bendición de los niños y el modo de bautizar; 75–84, Se dan las oraciones para la Santa Cena y los reglamentos para dirigir a los miembros de la Iglesia.
 
----
 ###### 1 
 El origen de la Iglesia de Cristo en estos últimos días, habiendo transcurrido mil ochocientos treinta años desde la venida de nuestro Señor y Salvador Jesucristo en la carne; habiendo sido debidamente organizada y establecida de acuerdo con las leyes del país, por la voluntad y el mandamiento de Dios, en el cuarto mes y el sexto día del mes que es llamado abril,
 

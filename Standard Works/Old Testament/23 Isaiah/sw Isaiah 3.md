@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Judah and Jerusalem will be punished for their disobedience—The Lord pleads for and judges His people—The daughters of Zion are cursed and tormented for their worldliness—Compare 2 Nephi 13.
 
----
 ###### 1 
 For, behold, the Lord, the  of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water,
 

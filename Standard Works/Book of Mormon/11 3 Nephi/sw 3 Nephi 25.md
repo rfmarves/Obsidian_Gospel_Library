@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 25
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 At the Second Coming, the proud and wicked will be burned as stubble—Elijah will return before that great and dreadful day—Compare Malachi 4. About A.D. 34.
 
----
 ###### 1 
 For behold, the day cometh that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble; and the day that cometh shall burn them up, saith the Lord of Hosts, that it shall leave them neither root nor branch.
 

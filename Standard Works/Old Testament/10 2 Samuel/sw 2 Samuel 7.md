@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 David offers to build a house for the Lord—The Lord, through Nathan, says He has not asked David to do so—The Lord will establish David’s house and kingdom forever—David offers a prayer of thanksgiving.
 
----
 ###### 1 
 And it came to pass, when the king sat in his house, and the  had given him rest round about from all his enemies;
 

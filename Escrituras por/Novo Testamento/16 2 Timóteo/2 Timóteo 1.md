@@ -1,22 +1,21 @@
 ---
 title: 2 Timóteo 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Timóteo 1
 [[1 Timóteo 6| <-- 1 Timóteo 6]] | [[2 Timóteo]] | [[2 Timóteo 2|2 Timóteo 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo proporciona a imortalidade e a vida eterna por meio do evangelho — Sede fortes na fé.
 
----
 ###### 1 
 Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,
 

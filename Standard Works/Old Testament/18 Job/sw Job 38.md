@@ -1,10 +1,11 @@
 ---
 title: sw Job 38
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 38
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/38?lang=eng)
 
----
-__Summary__
+> __Summary__
 God asks Job where he was when the foundations of the earth were laid, when the morning stars sang together, and when all the sons of God shouted for joy—The phenomena of nature show the greatness of God and the weakness of man.
 
----
 ###### 1 
 Then the  answered Job out of the whirlwind, and said,
 

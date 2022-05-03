@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jehoshaphat of Judah and Ahab of Israel join forces against Syria—Ahab’s prophets foretell success—Micaiah foretells the defeat and death of Ahab—Ahab is slain and dogs lick up his blood—Jehoshaphat reigns in righteousness in Judah—Ahaziah reigns in Israel and serves Baal.
 
----
 ###### 1 
 And they continued three years without war between Syria and Israel.
 

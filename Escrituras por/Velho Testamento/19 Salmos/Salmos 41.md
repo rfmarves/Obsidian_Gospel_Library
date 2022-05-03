@@ -1,27 +1,25 @@
 ---
 title: Salmos 41
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 41
 [[Salmos 40| <-- Salmos 40]] | [[Salmos]] | [[Salmos 42|Salmos 42 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/41?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/41?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo messiânico de Davi — Bem-aventurado é aquele que atende ao pobre — Predita a traição de Judas.
 
----
 ###### 1 
 Bem-aventurado  aquele que atende ao pobre; o  o livrará no dia do mal.
 

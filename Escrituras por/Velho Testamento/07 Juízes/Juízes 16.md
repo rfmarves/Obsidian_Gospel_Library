@@ -1,22 +1,21 @@
 ---
 title: Juízes 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 16
 [[Juízes 15| <-- Juízes 15]] | [[Juízes]] | [[Juízes 17|Juízes 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sansão carrega para longe as portas da entrada de Gaza — Ele ama Dalila, que o entrega aos filisteus — Ele destrói um edifício, matando a si mesmo e a outros 3.000.
 
----
 ###### 1 
 E foi Sansão a Gaza, e viu ali uma mulher prostituta, e achegou-se a ela.
 

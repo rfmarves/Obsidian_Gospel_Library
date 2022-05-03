@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jehoshaphat is rebuked for helping ungodly Ahab—He helps the people return to the Lord, sets up judges, and administers justice.
 
----
 ###### 1 
 And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem.
 

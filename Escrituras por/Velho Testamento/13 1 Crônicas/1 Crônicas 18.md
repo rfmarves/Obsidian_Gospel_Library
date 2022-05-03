@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 18
 [[1 Crônicas 17| <-- 1 Crônicas 17]] | [[1 Crônicas]] | [[1 Crônicas 19|1 Crônicas 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi subjuga todos os inimigos de Israel e reina com justiça sobre o povo.
 
----
 ###### 1 
 E depois disso aconteceu que Davi derrotou os filisteus, e os abateu; e tomou Gate, e as suas vilas, da mão dos filisteus.
 

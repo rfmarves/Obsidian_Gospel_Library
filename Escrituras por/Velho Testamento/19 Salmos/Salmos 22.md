@@ -1,27 +1,25 @@
 ---
 title: Salmos 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 22
 [[Salmos 21| <-- Salmos 21]] | [[Salmos]] | [[Salmos 23|Salmos 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/22?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor, sobre Aijelete Hashahar.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo messiânico de Davi — Ele prediz acontecimentos da vida do Messias — O Messias diz: Deus meu, Deus meu, por que me desamparaste? — Eles transpassarão Suas mãos e pés — Ele ainda há de governar entre todas as nações.
 
----
 ###### 1 
 Deus meu, Deus meu, por que me desamparaste?  te afastas do meu auxílio  das palavras do meu bramido?
 

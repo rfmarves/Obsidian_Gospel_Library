@@ -1,22 +1,21 @@
 ---
 title: Oseas 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseas 7
 [[Oseas 6| <-- Oseas 6]] | [[Oseas]] | [[Oseas 8|Oseas 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se reprende a Israel por sus numerosos pecados — Efraín se mezcla con los demás pueblos.
 
----
 ###### 1 
 Mientras yo quería curar a Israel, se descubrió la iniquidad de Efraín y las maldades de Samaria, porque hacen engaño; y entra el ladrón, y la banda de salteadores despoja por fuera.
 

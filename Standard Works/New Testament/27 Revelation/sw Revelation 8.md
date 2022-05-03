@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 8
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 John sees fire and desolation poured out during the seventh seal and preceding the Second Coming.
 
----
 ###### 1 
 And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.
 

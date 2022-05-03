@@ -1,22 +1,21 @@
 ---
 title: Hebreos 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreos 2
 [[Hebreos 1| <-- Hebreos 1]] | [[Hebreos]] | [[Hebreos 3|Hebreos 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús vino a padecer la muerte y a salvar a los hombres — Él vino para expiar los pecados del pueblo.
 
----
 ###### 1 
 Por tanto, es necesario que con más diligencia atendamos a las cosas que hemos oído, no sea que nos desviemos.
 

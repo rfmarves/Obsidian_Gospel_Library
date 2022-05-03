@@ -1,10 +1,11 @@
 ---
 title: sw D&C 124
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 124
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–14, Joseph Smith is commanded to make a solemn proclamation of the gospel to the president of the United States, the governors, and the rulers of all nations; 15–21, Hyrum Smith, David W. Patten, Joseph Smith Sr., and others among the living and the dead are blessed for their integrity and virtues; 22–28, The Saints are commanded to build both a house for the entertainment of strangers and a temple in Nauvoo; 29–36, Baptisms for the dead are to be performed in temples; 37–44, The Lord’s people always build temples for the performance of holy ordinances; 45–55, The Saints are excused from building the temple in Jackson County because of the oppression of their enemies; 56–83, Directions are given for the building of the Nauvoo House; 84–96, Hyrum Smith is called to be a patriarch, to receive the keys, and to stand in the place of Oliver Cowdery; 97–122, William Law and others are counseled in their labors; 123–45, General and local officers are named, along with their duties and quorum affiliations.
 
----
 ###### 1 
 Verily, thus saith the Lord unto you, my servant Joseph Smith, I am well pleased with your offering and acknowledgments, which you have made; for unto this end have I raised you up, that I might show forth my wisdom through the weak things of the earth.
 

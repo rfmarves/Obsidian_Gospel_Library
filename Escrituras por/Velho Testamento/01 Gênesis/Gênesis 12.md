@@ -1,22 +1,21 @@
 ---
 title: Gênesis 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 12
 [[Gênesis 11| <-- Gênesis 11]] | [[Gênesis]] | [[Gênesis 13|Gênesis 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Abrão se tornará uma grande nação — Ele e sua semente abençoarão todas as famílias da Terra — Abrão viaja de Harã para a terra de Canaã — Devido à fome, ele desce ao Egito — Abrão e Sarai são postos à prova na corte de Faraó.
 
----
 ###### 1 
 Ora, o  disse a Abrão: Sai da tua terra, e da tua parentela, e da casa de teu pai, para a terra que eu te mostrarei.
 

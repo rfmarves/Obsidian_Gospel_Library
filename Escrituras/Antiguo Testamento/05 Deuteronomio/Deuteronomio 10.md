@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 10
 [[Deuteronomio 9| <-- Deuteronomio 9]] | [[Deuteronomio]] | [[Deuteronomio 11|Deuteronomio 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Las tablas de piedra que contienen los Diez Mandamientos se colocan en el arca — Todo lo que Dios requiere es que Israel le ame y le sirva — ¡Cuán grande y poderoso es Jehová!
 
----
 ###### 1 
 En aquel tiempo Jehová me dijo: Lábrate dos tablas de piedra como las primeras, y sube hasta mí al monte y hazte un arca de madera.
 

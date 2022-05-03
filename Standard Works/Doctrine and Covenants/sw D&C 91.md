@@ -1,10 +1,11 @@
 ---
 title: sw D&C 91
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 91
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/91?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, The Apocrypha is mostly translated correctly but contains many interpolations by the hands of men that are not true; 4–6, It benefits those enlightened by the Spirit.
 
----
 ###### 1 
 Verily, thus saith the Lord unto you concerning the Apocrypha—There are many things contained therein that are true, and it is mostly translated correctly;
 

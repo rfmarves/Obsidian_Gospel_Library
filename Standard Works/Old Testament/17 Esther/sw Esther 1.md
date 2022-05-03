@@ -1,10 +1,11 @@
 ---
 title: sw Esther 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Esther 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ahasuerus of Persia and Media makes royal feasts—Vashti disobeys the king and is deposed as queen.
 
----
 ###### 1 
 Now it came to pass in the days of Ahasuerus, (this  Ahasuerus which reigned, from India even unto Ethiopia,  an hundred and seven and twenty provinces:)
 

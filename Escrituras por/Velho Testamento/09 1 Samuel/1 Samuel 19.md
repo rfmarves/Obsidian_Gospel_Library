@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 19
 [[1 Samuel 18| <-- 1 Samuel 18]] | [[1 Samuel]] | [[1 Samuel 20|1 Samuel 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Saul procura matar Davi — Mical salva Davi por meio de estratagema — Davi se une a Samuel e a um grupo de profetas.
 
----
 ###### 1 
 E falou Saul a Jônatas, seu filho, e a todos os seus servos, para que matassem Davi. Porém Jônatas, filho de Saul, estava muito afeiçoado a Davi.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 22
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 22
 [[1 Nefi 21| <-- 1 Nefi 21]] | [[1 Nefi]] | [[2 Nefi 1|2 Nefi 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel será esparcido sobre toda la faz de la tierra — Los gentiles alimentarán y nutrirán a Israel con el Evangelio en los últimos días — Israel será congregado y se salvará, y los inicuos arderán como rastrojo — El reino del diablo será destruido y Satanás será atado. Aproximadamente 588–570 a.C.
 
----
 ###### 1 
 Y aconteció que después que yo, Nefi, hube leído estas cosas que estaban grabadas sobre las planchas de bronce, mis hermanos vinieron a mí, y me dijeron: ¿Qué significan estas cosas que has leído? He aquí, ¿deben entenderse conforme a cosas que son espirituales, que se verificarán según el espíritu, y no según la carne?
 

@@ -1,16 +1,17 @@
 ---
 title: Introdução do Livro de Mórmon
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Introdução do Livro de Mórmon
 [[Página de Título do Livro de Mórmon| <-- Página de Título do Livro de Mórmon]] | [[Introdução e Testemunhos]] | [[Depoimento de Três Testemunhas|Depoimento de Três Testemunhas --> ]]
 
-[Em linha](https://www.churchofjesuschrist.org/study/scriptures/bofm/introduction?lang=por)
+[em linha](https://www.churchofjesuschrist.org/study/scriptures/bofm/introduction?lang=por)
 
 O Livro de Mórmon é um volume de escrituras sagradas comparável à Bíblia. É um registro da comunicação de Deus com antigos habitantes das Américas e contém a plenitude do evangelho eterno.
 

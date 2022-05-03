@@ -1,10 +1,11 @@
 ---
 title: sw 2 Peter 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Peter 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Some in the latter days will doubt the Second Coming—The elements will melt at the coming of the Lord.
 
----
 ###### 1 
 This second epistle, beloved, I now write unto you; in  which I stir up your pure minds by way of remembrance:
 

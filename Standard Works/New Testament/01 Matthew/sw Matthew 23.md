@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 23
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus pronounces woes upon the scribes and Pharisees—They will be held responsible for killing the prophets—They will not escape the damnation of hell.
 
----
 ###### 1 
 Then spake Jesus to the multitude, and to his disciples,
 

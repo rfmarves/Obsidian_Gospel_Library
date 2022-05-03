@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 51
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 51
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/51?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bath-sheba.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David pleads for forgiveness after he went in to Bathsheba—He pleads, Create in me a clean heart, and renew a right spirit within me.
 
----
 ###### 1 
 Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
 

@@ -1,22 +1,21 @@
 ---
 title: Éxodo 34
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 34
 [[Éxodo 33| <-- Éxodo 33]] | [[Éxodo]] | [[Éxodo 35|Éxodo 35 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/34?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/34?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moisés prepara nuevas tablas de piedra — Él sube al monte Sinaí y está allí cuarenta días — Jehová proclama Su nombre y atributos, y revela Su ley — Hace otro convenio con Israel — La tez del rostro de Moisés resplandece y se pone un velo.
 
----
 ###### 1 
 Y Jehová dijo a Moisés: Labra dos tablas de piedra como las primeras, y escribiré sobre esas tablas las palabras que estaban en las tablas primeras que quebraste.
 

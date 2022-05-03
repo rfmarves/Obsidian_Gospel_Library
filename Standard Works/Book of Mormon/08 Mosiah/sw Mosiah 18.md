@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 18
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Alma preaches in private—He sets forth the covenant of baptism and baptizes at the waters of Mormon—He organizes the Church of Christ and ordains priests—They support themselves and teach the people—Alma and his people flee from King Noah into the wilderness. About 147–145 B.C.
 
----
 ###### 1 
 And now, it came to pass that Alma, who had fled from the servants of king Noah, repented of his sins and iniquities, and went about privately among the people, and began to teach the words of Abinadi—
 

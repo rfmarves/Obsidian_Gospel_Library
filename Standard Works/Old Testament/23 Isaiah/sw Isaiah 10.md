@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 The destruction of Assyria is a type of the destruction of the wicked at the Second Coming—Few people will be left after the Lord comes again—The remnant of Jacob will return in that day—Compare 2 Nephi 20.
 
----
 ###### 1 
 Woe unto them that decree unrighteous decrees, and that write grievousness  they have prescribed;
 

@@ -1,22 +1,21 @@
 ---
 title: Juízes 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 3
 [[Juízes 2| <-- Juízes 2]] | [[Juízes]] | [[Juízes 4|Juízes 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Israel e os cananeus casam-se entre si — Os filhos de Israel adoram falsos deuses e são amaldiçoados — Otniel julga os israelitas — Eles servem Moabe, sendo libertados por Eúde, que mata Eglom.
 
----
 ###### 1 
 Estas, pois,  as nações, que o  deixou ficar, para por meio delas pôr Israel à prova,  todos os que não sabiam de todas as guerras de Canaã,
 

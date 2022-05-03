@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 39
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 39
 [[Ezequiel 38| <-- Ezequiel 38]] | [[Ezequiel]] | [[Ezequiel 40|Ezequiel 40 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/39?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/39?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Gogue e a terra de Magogue serão destruídas — Por sete anos, nas cidades de Israel, o povo queimará as armas de guerra — Por sete meses, enterrarão os mortos — Então virá a ceia do grande Deus e a continuação da coligação de Israel.
 
----
 ###### 1 
 Tu, pois, ó filho do homem, profetiza  contra Gogue, e dize: Assim diz o Senhor : Eis que eu  contra ti, ó Gogue, príncipe e chefe de Meseque e Tubal.
 

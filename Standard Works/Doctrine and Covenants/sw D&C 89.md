@@ -1,10 +1,11 @@
 ---
 title: sw D&C 89
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 89
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–9, The use of wine, strong drinks, tobacco, and hot drinks is proscribed; 10–17, Herbs, fruits, flesh, and grain are ordained for the use of man and of animals; 18–21, Obedience to gospel law, including the Word of Wisdom, brings temporal and spiritual blessings.
 
----
 ###### 1 
 A , for the benefit of the council of high priests, assembled in Kirtland, and the church, and also the saints in Zion—
 

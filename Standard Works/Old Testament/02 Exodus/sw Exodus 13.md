@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 The firstborn of man and of beasts are to be sanctified unto the Lord—The Feast of Unleavened Bread is to be kept in the land of Canaan—Moses takes Joseph’s bones out of Egypt—The Lord attends Israel in a pillar of cloud by day and a pillar of fire by night.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

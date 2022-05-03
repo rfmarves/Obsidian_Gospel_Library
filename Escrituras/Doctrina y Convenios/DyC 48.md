@@ -1,22 +1,21 @@
 ---
 title: DyC 48
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 48
 [[DyC 47| <-- DyC 47]] | [[DyC]] | [[DyC 49|DyC 49 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/48?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/48?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–3, Los santos radicados en Ohio deben compartir sus terrenos con sus hermanos; 4–6, Los santos han de comprar tierras, edificar una ciudad y seguir el consejo de sus oficiales presidentes.
 
----
 ###### 1 
 Es necesario que permanezcáis por lo pronto en los sitios donde moráis, como convenga a vuestras circunstancias.
 

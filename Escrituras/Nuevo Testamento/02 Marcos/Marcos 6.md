@@ -1,22 +1,21 @@
 ---
 title: Marcos 6
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 6
 [[Marcos 5| <-- Marcos 5]] | [[Marcos]] | [[Marcos 7|Marcos 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús envía a los Doce — Herodes manda decapitar a Juan el Bautista — Nuestro Señor alimenta a cinco mil, anda sobre las aguas y sana a multitudes.
 
----
 ###### 1 
 Y salió de allí y fue a su tierra, y le siguieron sus discípulos.
 

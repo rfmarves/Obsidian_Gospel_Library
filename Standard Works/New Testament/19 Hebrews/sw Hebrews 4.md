@@ -1,10 +1,11 @@
 ---
 title: sw Hebrews 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hebrews 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 The gospel was offered to ancient Israel—Saints enter into the rest of the Lord—Though tempted in all points, Jesus was without sin.
 
----
 ###### 1 
 Let us therefore fear, lest, a promise being left  of entering into his rest, any of you should seem to come short of it.
 

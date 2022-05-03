@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 26
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus expounds all things from the beginning to the end—Babes and children utter marvelous things that cannot be written—Those in the Church of Christ have all things in common among them. About A.D. 34.
 
----
 ###### 1 
 And now it came to pass that when Jesus had told these things he expounded them unto the multitude; and he did expound all things unto them, both great and small.
 

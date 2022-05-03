@@ -1,10 +1,11 @@
 ---
 title: sw Micah 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Micah 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/micah/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 In spite of all His goodness to them, the people have not served the Lord in spirit and in truth—They must act righteously, love mercy, and walk humbly before Him.
 
----
 ###### 1 
 Hear ye now what the  saith; Arise, contend thou before the mountains, and let the hills hear thy voice.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 6
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ opens the six seals, and John sees the events therein—In the fifth seal, he sees the Christian martyrs; and in the sixth, he sees the signs of the times.
 
----
 ###### 1 
 And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.
 

@@ -1,22 +1,21 @@
 ---
 title: Amós 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 9
 [[Amós 8| <-- Amós 8]] | [[Amós]] | [[Abdías 1|Abdías 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel será zarandeada entre todas las naciones — En los últimos días, el pueblo de Israel será congregado nuevamente en su propia tierra, y esta será productiva.
 
----
 ###### 1 
 Vi al Señor que estaba sobre el altar, y dijo: Golpea los capiteles, y estremézcanse los umbrales, y hazlos pedazos sobre la cabeza de todos; y al resto de ellos mataré a espada; no habrá de ellos quien huya ni quien escape.
 

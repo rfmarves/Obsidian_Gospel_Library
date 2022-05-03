@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 20
 [[2 Reyes 19| <-- 2 Reyes 19]] | [[2 Reyes]] | [[2 Reyes 21|2 Reyes 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se le dice a Ezequías que morirá; él suplica a Jehová, y su vida es prolongada quince años — La sombra retrocede diez grados en el reloj de sol de Acaz — Isaías profetiza la cautividad babilónica de Judá.
 
----
 ###### 1 
 En aquellos días Ezequías cayó enfermo de muerte; y vino a él el profeta Isaías hijo de Amoz y le dijo: Así dice Jehová: Ordena tu casa, porque vas a morir y no vivirás.
 

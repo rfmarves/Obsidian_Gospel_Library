@@ -1,22 +1,21 @@
 ---
 title: Lucas 15
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 15
 [[Lucas 14| <-- Lucas 14]] | [[Lucas]] | [[Lucas 16|Lucas 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús enseña las parábolas de la oveja perdida, de la moneda perdida y del hijo pródigo.
 
----
 ###### 1 
 Y se acercaban a  todos los publicanos y pecadores para oírle.
 

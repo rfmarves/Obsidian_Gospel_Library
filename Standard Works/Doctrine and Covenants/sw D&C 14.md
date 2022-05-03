@@ -1,10 +1,11 @@
 ---
 title: sw D&C 14
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, Laborers in the vineyard will gain salvation; 7–8, Eternal life is the greatest of God’s gifts; 9–11, Christ created the heavens and the earth.
 
----
 ###### 1 
 A great and marvelous work is about to come forth unto the children of men.
 

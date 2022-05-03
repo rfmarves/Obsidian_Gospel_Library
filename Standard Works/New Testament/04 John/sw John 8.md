@@ -1,10 +1,11 @@
 ---
 title: sw John 8
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 The woman taken in adultery is brought before Christ—Christ is the Light of the world—He again proclaims that He is the Messiah—The true children of Abraham believe in Christ—Jesus says, Before Abraham was I, Jehovah.
 
----
 ###### 1 
 Jesus went unto the mount of Olives.
 

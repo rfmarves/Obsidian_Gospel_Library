@@ -1,27 +1,25 @@
 ---
 title: Salmos 103
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 103
 [[Salmos 102| <-- Salmos 102]] | [[Salmos]] | [[Salmos 104|Salmos 104 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/103?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/103?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi exorta os santos a bendizer ao Senhor por Sua misericórdia — O Senhor é misericordioso com aqueles que guardam Seus mandamentos.
 
----
 ###### 1 
 Bendize, ó minha alma, ao , e tudo o que há em mim  o seu santo nome.
 

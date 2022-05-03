@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 20
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 20
 [[1 Nefi 19| <-- 1 Nefi 19]] | [[1 Nefi]] | [[1 Nefi 21|1 Nefi 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Señor revela Sus propósitos a Israel — Israel ha sido escogido en el horno de la aflicción y ha de salir de Babilonia — Compárese con Isaías 48. Aproximadamente 588–570 a.C.
 
----
 ###### 1 
 Escuchad y oíd esto, oh casa de Jacob, que os llamáis del nombre de Israel, y habéis salido de las aguas de Judá, o sea, de las aguas del bautismo, los que juráis por el nombre del Señor y hacéis mención del Dios de Israel, mas no juráis ni en verdad ni en rectitud.
 

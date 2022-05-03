@@ -1,22 +1,21 @@
 ---
 title: Romanos 8
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 8
 [[Romanos 7| <-- Romanos 7]] | [[Romanos]] | [[Romanos 9|Romanos 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La ley de Cristo trae vida y paz — Los que son adoptados como hijos de Dios llegan a ser coherederos con Cristo — Los escogidos de Dios son preordenados para vida eterna — Cristo intercede por el hombre.
 
----
 ###### 1 
 Ahora, pues, ninguna condenación hay para los que están en Cristo Jesús, los que no andan conforme a la carne, sino conforme al espíritu.
 

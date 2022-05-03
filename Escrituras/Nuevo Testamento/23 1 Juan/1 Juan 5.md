@@ -1,22 +1,21 @@
 ---
 title: 1 Juan 5
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Juan 5
 [[1 Juan 4| <-- 1 Juan 4]] | [[1 Juan]] | [[2 Juan 1|2 Juan 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Todos los que creen en Cristo han nacido de Dios — El agua, la sangre y el Espíritu testifican de Cristo — Es necesario creer en Cristo para lograr la vida eterna.
 
----
 ###### 1 
 Todo aquel que cree que Jesús es el Cristo ha nacido de Dios; y todo aquel que ama al que engendró, ama también al que ha sido engendrado por él.
 

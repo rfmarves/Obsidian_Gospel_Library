@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord reveals His laws pertaining to integrity and godly conduct—The land is to rest during a sabbatical year—The children of Israel are to keep three annual feasts—An angel, bearing the Lord’s name, will guide them—Sickness will be removed—The nations of Canaan will be driven out gradually.
 
----
 ###### 1 
 Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.
 

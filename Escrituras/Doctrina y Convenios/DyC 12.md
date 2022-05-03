@@ -1,22 +1,21 @@
 ---
 title: DyC 12
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 12
 [[DyC 11| <-- DyC 11]] | [[DyC]] | [[DyC 13|DyC 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–6, Los obreros de la viña lograrán la salvación; 7–9, Todos los que tengan deseos de ayudar en la obra del Señor y que posean las cualidades necesarias pueden hacerlo.
 
----
 ###### 1 
 Una obra grande y maravillosa está a punto de aparecer entre los hijos de los hombres.
 

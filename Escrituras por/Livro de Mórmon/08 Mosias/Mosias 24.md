@@ -1,22 +1,21 @@
 ---
 title: Mosias 24
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 24
 [[Mosias 23| <-- Mosias 23]] | [[Mosias]] | [[Mosias 25|Mosias 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amulon persegue Alma e seu povo — Se orarem, deverão ser mortos — O Senhor faz com que seus fardos pareçam leves — Livra-os do cativeiro e eles voltam para Zaraenla. Aproximadamente 145–120 a.C.
 
----
 ###### 1 
 E aconteceu que Amulon caiu nas graças do rei dos lamanitas; portanto, o rei dos lamanitas permitiu que ele e seus irmãos fossem nomeados mestres de seu povo, sim, do povo que se achava na terra de Senlon e na terra de Silom e na terra de Amulon.
 

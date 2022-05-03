@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 39
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 39
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/39?lang=eng)
 
----
-__Summary__
+> __Summary__
 Holy garments are made for Aaron and the priests—The breastplate is made—The tabernacle of the congregation is finished—Moses blesses the people.
 
----
 ###### 1 
 And of the blue, and purple, and scarlet, they made cloths of service, to do service in the holy  and made the holy garments for Aaron; as the  commanded Moses.
 

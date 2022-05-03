@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Silver trumpets are used to call assemblies and to blow alarms—The cloud is taken from the tabernacle, and the children of Israel march forth in their prescribed order—The ark of the covenant goes before them in their journeyings.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

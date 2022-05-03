@@ -1,22 +1,21 @@
 ---
 title: Números 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 13
 [[Números 12| <-- Números 12]] | [[Números]] | [[Números 14|Números 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés envia doze espias para investigar a terra de Canaã — Dez deles trazem um relato ruim, falando apenas da força de seus habitantes.
 
----
 ###### 1 
 E falou o  a Moisés, dizendo:
 

@@ -1,22 +1,21 @@
 ---
 title: Esdras 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 5
 [[Esdras 4| <-- Esdras 4]] | [[Esdras]] | [[Esdras 6|Esdras 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezra/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezra/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Hageo y Zacarías profetizan — Zorobabel reanuda la construcción del templo — Los samaritanos desafían el derecho de los judíos de continuar la obra de la construcción.
 
----
 ###### 1 
 Y profetizaron Hageo y Zacarías hijo de Iddo, ambos profetas, a los judíos que estaban en Judá y en Jerusalén en el nombre del Dios de Israel, que estaba sobre ellos.
 

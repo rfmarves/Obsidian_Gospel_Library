@@ -1,22 +1,21 @@
 ---
 title: Jonás 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jonás 3
 [[Jonás 2| <-- Jonás 2]] | [[Jonás]] | [[Jonás 4|Jonás 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jonah/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jonah/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jonás profetiza la caída de Nínive — La gente se arrepiente y la ciudad se salva.
 
----
 ###### 1 
 Y vino la palabra de Jehová por segunda vez a Jonás, diciendo:
 

@@ -1,22 +1,21 @@
 ---
 title: Juan 8
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 8
 [[Juan 7| <-- Juan 7]] | [[Juan]] | [[Juan 9|Juan 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Una mujer adúltera es llevada ante Cristo — Cristo es la Luz del mundo — Él proclama nuevamente que es el Mesías — Los verdaderos hijos de Abraham creen en Cristo — Jesús dice: Antes que Abraham fuese, yo soy.
 
----
 ###### 1 
 Y Jesús se fue al monte de los Olivos.
 

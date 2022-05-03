@@ -1,22 +1,21 @@
 ---
 title: Ester 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 3
 [[Ester 2| <-- Ester 2]] | [[Ester]] | [[Ester 4|Ester 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mardoqueu, o judeu, recusa-se a inclinar-se perante Hamã — Hamã prepara um decreto para matar todos os judeus do reino.
 
----
 ###### 1 
 Depois dessas coisas, o rei Assuero engrandeceu Hamã, filho de Hamedata, agagita, e o exaltou, e pôs o seu assento acima de todos os príncipes que  com ele.
 

@@ -1,22 +1,21 @@
 ---
 title: 3 João 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 João 1
 [[2 João 1| <-- 2 João 1]] | [[3 João]] | [[Judas 1|Judas 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/3-jn/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/3-jn/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 João elogia Gaio por ajudar os que amam a verdade.
 
----
 ###### 1 
 O ancião ao amado Gaio, a quem em verdade eu amo.
 

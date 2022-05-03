@@ -1,22 +1,21 @@
 ---
 title: Isaías 32
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 32
 [[Isaías 31| <-- Isaías 31]] | [[Isaías]] | [[Isaías 33|Isaías 33 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/32?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/32?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Um rei (o Messias) reinará em retidão — A terra de Israel será um deserto até o dia da restauração e coligação.
 
----
 ###### 1 
 Eis que reinará um Rei em justiça, e os príncipes governarão segundo o juízo.
 

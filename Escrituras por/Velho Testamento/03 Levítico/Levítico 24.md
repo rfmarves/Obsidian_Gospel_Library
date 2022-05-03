@@ -1,22 +1,21 @@
 ---
 title: Levítico 24
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 24
 [[Levítico 23| <-- Levítico 23]] | [[Levítico]] | [[Levítico 25|Levítico 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Um fogo perpétuo deverá arder fora do véu no tabernáculo — Um blasfemador é morto por apedrejamento — A lei de Israel é de olho por olho, dente por dente.
 
----
 ###### 1 
 Falou mais o  a Moisés, dizendo:
 

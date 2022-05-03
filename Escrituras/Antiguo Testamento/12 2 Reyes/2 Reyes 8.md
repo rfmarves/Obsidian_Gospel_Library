@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 8
 [[2 Reyes 7| <-- 2 Reyes 7]] | [[2 Reyes]] | [[2 Reyes 9|2 Reyes 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Eliseo profetiza siete años de hambre — La mujer sunamita es protegida durante el hambre — Joram y Ocozías reinan con iniquidad en Judá.
 
----
 ###### 1 
 Y habló Eliseo a aquella mujer a cuyo hijo había hecho revivir, diciendo: Levántate, vete tú y toda tu casa a vivir donde puedas, porque Jehová ha llamado al hambre, que vendrá también sobre la tierra durante siete años.
 

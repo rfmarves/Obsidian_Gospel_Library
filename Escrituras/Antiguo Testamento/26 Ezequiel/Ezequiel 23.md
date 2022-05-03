@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 23
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 23
 [[Ezequiel 22| <-- Ezequiel 22]] | [[Ezequiel]] | [[Ezequiel 24|Ezequiel 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dos hermanas, Samaria y Jerusalén, se prostituyeron al adorar ídolos — Ambas son destruidas por causa de su lujuria.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

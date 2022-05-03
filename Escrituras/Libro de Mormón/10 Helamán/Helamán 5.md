@@ -1,22 +1,21 @@
 ---
 title: Helamán 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 5
 [[Helamán 4| <-- Helamán 4]] | [[Helamán]] | [[Helamán 6|Helamán 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nefi y Lehi se dedican a predicar — Sus nombres los inducen a regir sus vidas conforme al modelo de sus antepasados — Cristo redime a aquellos que se arrepienten — Nefi y Lehi logran convertir a muchos, son encarcelados y son envueltos como por fuego — Una nube de obscuridad cubre a trescientas personas — Tiembla la tierra, y una voz manda a los hombres que se arrepientan — Nefi y Lehi conversan con ángeles, y los de la multitud son rodeados por fuego. Aproximadamente 30 a.C.
 
----
 ###### 1 
 Y aconteció que en este mismo año, he aquí, Nefi entregó el asiento judicial a un hombre llamado Cezóram.
 

@@ -1,22 +1,21 @@
 ---
 title: Esdras 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 7
 [[Esdras 6| <-- Esdras 6]] | [[Esdras]] | [[Esdras 8|Esdras 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Esdras sobe a Jerusalém — Artaxerxes fornece o necessário para o embelezamento do templo e sustenta os judeus em sua adoração.
 
----
 ###### 1 
 E passadas essas coisas, no reinado de Artaxerxes, rei da Pérsia, Esdras, filho de Seraías, filho de Azarias, filho de Hilquias,
 

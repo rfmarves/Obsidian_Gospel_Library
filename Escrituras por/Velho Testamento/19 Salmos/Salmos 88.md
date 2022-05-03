@@ -1,27 +1,25 @@
 ---
 title: Salmos 88
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 88
 [[Salmos 87| <-- Salmos 87]] | [[Salmos]] | [[Salmos 89|Salmos 89 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/88?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/88?lang=por)
 
----
+```
 Cântico e salmo para os filhos de Coré e para o músico-mor, sobre Maalate-Leanote, Masquil de Hemã, ezraíta.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Oração de alguém que se sente abandonado e pergunta se a benignidade do Senhor será anunciada na sepultura.
 
----
 ###### 1 
  Deus da minha salvação, diante de ti tenho clamado de dia e de noite.
 

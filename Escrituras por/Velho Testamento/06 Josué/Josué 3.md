@@ -1,22 +1,21 @@
 ---
 title: Josué 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 3
 [[Josué 2| <-- Josué 2]] | [[Josué]] | [[Josué 4|Josué 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Josué lidera Israel até o Jordão — O Senhor separa as águas do Jordão; o rio se detém em um montão, e Israel atravessa em terra seca.
 
----
 ###### 1 
 Levantou-se, pois, Josué de madrugada, e partiram de Sitim, e foram até o Jordão, ele e todos os filhos de Israel, e pousaram ali, antes que passassem.
 

@@ -1,22 +1,21 @@
 ---
 title: Oseas 14
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseas 14
 [[Oseas 13| <-- Oseas 13]] | [[Oseas]] | [[Joel 1|Joel 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los últimos días, Efraín se arrepentirá y volverá a Jehová.
 
----
 ###### 1 
 ¡Vuélvete, oh Israel, a Jehová tu Dios, porque por tu iniquidad has caído!
 

@@ -1,22 +1,21 @@
 ---
 title: Juan 21
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 21
 [[Juan 20| <-- Juan 20]] | [[Juan]] | [[Hechos 1|Hechos 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús se aparece a los discípulos junto al mar de Tiberias — Dice: Apacienta mis ovejas — Predice el martirio de Pedro y que Juan no habría de morir.
 
----
 ###### 1 
 Después de esto, Jesús se manifestó otra vez a sus discípulos junto al mar de Tiberias; y se manifestó de esta manera:
 

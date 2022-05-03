@@ -1,22 +1,21 @@
 ---
 title: Números 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 18
 [[Números 17| <-- Números 17]] | [[Números]] | [[Números 19|Números 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Aarão e seus filhos são chamados para ministrar no ofício de sacerdote — Os levitas são chamados para ministrar no serviço do tabernáculo — Os levitas não recebem herança na terra, mas são sustentados pelos dízimos do povo.
 
----
 ###### 1 
 Então disse o  a Aarão: Tu, e teus filhos, e a casa de teu pai contigo, levareis  a iniquidade do santuário; e tu e teus filhos contigo levareis  a iniquidade do vosso sacerdócio.
 

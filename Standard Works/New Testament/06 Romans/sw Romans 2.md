@@ -1,10 +1,11 @@
 ---
 title: sw Romans 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 God will render to every person according to his or her deeds—Both Jews and Gentiles will be judged by gospel laws.
 
----
 ###### 1 
 Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.
 

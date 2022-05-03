@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 12
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus proclaims Himself Lord of the Sabbath and heals on the Sabbath day—He is accused of casting out devils through the power of Beelzebub—He speaks of blasphemy against the Holy Ghost and says that an evil and adulterous generation seeks signs.
 
----
 ###### 1 
 At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat.
 

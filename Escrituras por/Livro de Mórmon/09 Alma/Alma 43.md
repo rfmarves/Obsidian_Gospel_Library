@@ -1,22 +1,21 @@
 ---
 title: Alma 43
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 43
 [[Alma 42| <-- Alma 42]] | [[Alma]] | [[Alma 44|Alma 44 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/43?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/43?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Alma e seus filhos pregam a palavra — Os zoramitas e outros dissidentes nefitas tornam-se lamanitas — Os lamanitas guerreiam os nefitas — Morôni arma os nefitas com armaduras defensivas — O Senhor revela a Alma a estratégia dos lamanitas — Os nefitas defendem seus lares, sua liberdade, suas famílias e religião — Os exércitos de Morôni e Leí cercam os lamanitas. Aproximadamente 74 a.C.
 
----
 ###### 1 
 E então aconteceu que os filhos de Alma andaram entre o povo para proclamar-lhes a palavra. E o próprio Alma não conseguiu descansar e fez o mesmo.
 

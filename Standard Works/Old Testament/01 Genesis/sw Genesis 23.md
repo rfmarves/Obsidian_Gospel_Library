@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Sarah dies and is buried in the cave of Machpelah, which Abraham buys from Ephron the Hittite.
 
----
 ###### 1 
 And Sarah was an hundred and seven and twenty years old:  the years of the life of Sarah.
 

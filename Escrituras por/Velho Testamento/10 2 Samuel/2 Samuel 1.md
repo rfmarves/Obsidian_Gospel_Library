@@ -1,25 +1,24 @@
 ---
 title: 2 Samuel 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 1
 [[1 Samuel 31| <-- 1 Samuel 31]] | [[2 Samuel]] | [[2 Samuel 2|2 Samuel 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/1?lang=por)
 
 2 Samuel
 Também Chamado de Segundo Livro dos Reis
 
----
-__Resumo__
+> __Resumo__
 Davi fica sabendo da morte de Saul e de Jônatas — Ele tira a vida do amalequita que afirma ter matado Saul — Davi lamenta a morte de Saul e de Jônatas com um cântico.
 
----
 ###### 1 
 E sucedeu, depois da morte de Saul, voltando Davi da derrota dos amalequitas, e ficando Davi dois dias em Ziclague,
 

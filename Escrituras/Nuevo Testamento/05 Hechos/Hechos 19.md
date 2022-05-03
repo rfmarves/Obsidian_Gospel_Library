@@ -1,22 +1,21 @@
 ---
 title: Hechos 19
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 19
 [[Hechos 18| <-- Hechos 18]] | [[Hechos]] | [[Hechos 20|Hechos 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo confiere el don del Espíritu Santo por la imposición de manos — Predica y efectúa muchos milagros — Los hijos de Esceva no logran expulsar demonios — Los adoradores de Diana (Artemisa) provocan un tumulto contra Pablo.
 
----
 ###### 1 
 Y aconteció que mientras Apolos estaba en Corinto, Pablo, después de recorrer las regiones superiores, vino a Éfeso, y hallando a ciertos discípulos,
 

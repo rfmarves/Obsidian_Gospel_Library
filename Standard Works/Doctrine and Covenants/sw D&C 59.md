@@ -1,10 +1,11 @@
 ---
 title: sw D&C 59
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 59
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/59?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, The faithful Saints in Zion will be blessed; 5–8, They are to love and serve the Lord and keep His commandments; 9–19, By keeping the Lord’s day holy, the Saints are blessed temporally and spiritually; 20–24, The righteous are promised peace in this world and eternal life in the world to come.
 
----
 ###### 1 
 Behold, blessed, saith the Lord, are they who have come up unto this land with an eye single to my glory, according to my commandments.
 

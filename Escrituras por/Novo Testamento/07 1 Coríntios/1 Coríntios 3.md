@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 3
 [[1 Coríntios 2| <-- 1 Coríntios 2]] | [[1 Coríntios]] | [[1 Coríntios 4|1 Coríntios 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O leite vem antes do alimento sólido na Igreja — As obras dos homens serão postas à prova pelo fogo — Os santos são o templo de Deus e, se forem fiéis, herdarão todas as coisas.
 
----
 ###### 1 
 E eu, irmãos, não vos pude falar como a espirituais, mas como a carnais, como a crianças em Cristo.
 

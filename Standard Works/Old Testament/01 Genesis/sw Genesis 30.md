@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 30
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 30
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/30?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob marries Bilhah, and she bears Dan and Naphtali—He marries Zilpah, and she bears Gad and Asher—Leah bears Issachar and Zebulun and a daughter, Dinah—Then Rachel conceives and bears Joseph—Jacob works for Laban for wages of cattle and sheep.
 
----
 ###### 1 
 And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.
 

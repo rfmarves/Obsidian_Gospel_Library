@@ -1,22 +1,21 @@
 ---
 title: Efesios 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Efesios 3
 [[Efesios 2| <-- Efesios 2]] | [[Efesios]] | [[Efesios 4|Efesios 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/eph/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/eph/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los gentiles son coherederos con Israel — El amor de Cristo excede a toda comprensión.
 
----
 ###### 1 
 Por esta causa yo, Pablo, prisionero de Cristo Jesús por vosotros los gentiles,
 

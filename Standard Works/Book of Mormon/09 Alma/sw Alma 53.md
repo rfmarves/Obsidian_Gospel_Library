@@ -1,10 +1,11 @@
 ---
 title: sw Alma 53
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 53
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/53?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lamanite prisoners are used to fortify the city Bountiful—Dissensions among the Nephites give rise to Lamanite victories—Helaman takes command of the two thousand stripling sons of the people of Ammon. About 64–63 B.C.
 
----
 ###### 1 
 And it came to pass that they did set guards over the prisoners of the Lamanites, and did compel them to go forth and bury their dead, yea, and also the dead of the Nephites who were slain; and Moroni placed men over them to guard them while they should perform their labors.
 

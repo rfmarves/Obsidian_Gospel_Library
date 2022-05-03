@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 31
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 31
 [[1 Samuel 30| <-- 1 Samuel 30]] | [[1 Samuel]] | [[2 Samuel 1|2 Samuel 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/31?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/31?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los filisteos derrotan a Israel — Matan a Saúl y a sus tres hijos — Sus cuerpos son retirados y quemados por los galaaditas.
 
----
 ###### 1 
 Los filisteos, pues, pelearon contra Israel, y los de Israel huyeron delante de los filisteos y cayeron muertos en el monte Gilboa.
 

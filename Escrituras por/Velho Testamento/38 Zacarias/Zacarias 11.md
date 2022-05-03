@@ -1,22 +1,21 @@
 ---
 title: Zacarias 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarias 11
 [[Zacarias 10| <-- Zacarias 10]] | [[Zacarias]] | [[Zacarias 12|Zacarias 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Zacarias fala a respeito do Messias — O Messias será traído por trinta moedas de prata — Elas serão lançadas ao oleiro na casa do Senhor.
 
----
 ###### 1 
 Abre, ó Líbano, as tuas portas para que o fogo consuma os cedros.
 

@@ -1,10 +1,11 @@
 ---
 title: sw John 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus heals an invalid on the Sabbath—He explains why men must honor the Son—Jesus promises to take the gospel to the dead—Man is resurrected, judged, and assigned his glory by the Son—Jesus obeys the divine law of witnesses.
 
----
 ###### 1 
 After this there was a feast of the Jews; and Jesus went up to Jerusalem.
 

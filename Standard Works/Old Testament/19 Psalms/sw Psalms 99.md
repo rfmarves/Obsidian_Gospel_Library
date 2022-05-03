@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 99
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 99
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/99?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord is great in Zion—Exalt the Lord and worship at His footstool, for He is holy.
 
----
 ###### 1 
 The  reigneth; let the people tremble: he sitteth  the cherubims; let the earth be moved.
 

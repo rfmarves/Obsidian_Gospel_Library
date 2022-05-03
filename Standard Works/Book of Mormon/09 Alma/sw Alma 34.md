@@ -1,10 +1,11 @@
 ---
 title: sw Alma 34
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 34
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=eng)
 
----
-__Summary__
+> __Summary__
 Amulek testifies that the word is in Christ unto salvation—Unless an atonement is made, all mankind must perish—The whole law of Moses points toward the sacrifice of the Son of God—The eternal plan of redemption is based on faith and repentance—Pray for temporal and spiritual blessings—This life is the time for men to prepare to meet God—Work out your salvation with fear before God. About 74 B.C.
 
----
 ###### 1 
 And now it came to pass that after Alma had spoken these words unto them he sat down upon the ground, and Amulek arose and began to teach them, saying:
 

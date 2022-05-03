@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Philistines defeat Israel—Saul dies for his transgressions.
 
----
 ###### 1 
 Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.
 

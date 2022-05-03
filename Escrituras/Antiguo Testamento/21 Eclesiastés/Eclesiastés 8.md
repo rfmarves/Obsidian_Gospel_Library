@@ -1,22 +1,21 @@
 ---
 title: Eclesiastés 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastés 8
 [[Eclesiastés 7| <-- Eclesiastés 7]] | [[Eclesiastés]] | [[Eclesiastés 9|Eclesiastés 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nadie tiene el poder de evitar la muerte — No le irá bien al malvado; se vuelve al placer y no halla sabiduría.
 
----
 ###### 1 
 ¿Quién como el sabio? ¿Y quién sabe la interpretación de las cosas? La sabiduría del hombre hace relucir su rostro y cambia la tosquedad de su semblante.
 

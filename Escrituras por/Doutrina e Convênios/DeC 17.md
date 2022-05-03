@@ -1,22 +1,21 @@
 ---
 title: DeC 17
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 17
 [[DeC 16| <-- DeC 16]] | [[DeC]] | [[DeC 18|DeC 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, Pela fé, as Três Testemunhas verão as placas e outros objetos sagrados; 5–9, Cristo presta testemunho da divindade do Livro de Mórmon.
 
----
 ###### 1 
 Eis que vos digo que devereis confiar em minha palavra e, se o fizerdes de todo o coração, vereis as placas e também o peitoral, a espada de Labão, o Urim e Tumim, que foram dados ao irmão de Jarede no monte quando ele falou com o Senhor face a face; e os guias milagrosos que foram dados a Leí enquanto estava no deserto, às margens do Mar Vermelho.
 

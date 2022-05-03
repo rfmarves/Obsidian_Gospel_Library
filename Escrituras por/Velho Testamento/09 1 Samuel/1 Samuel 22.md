@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 22
 [[1 Samuel 21| <-- 1 Samuel 21]] | [[1 Samuel]] | [[1 Samuel 23|1 Samuel 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi ganha seguidores — Vai de um lugar a outro, fugindo de Saul — Saul mata os sacerdotes que foram bondosos com Davi.
 
----
 ###### 1 
 Então Davi se retirou dali, e escapou para a caverna de Adulão; e ouviram-no seus irmãos e toda a casa de seu pai, e desceram ali para ele.
 

@@ -1,22 +1,21 @@
 ---
 title: Jeremías 27
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 27
 [[Jeremías 26| <-- Jeremías 26]] | [[Jeremías]] | [[Jeremías 28|Jeremías 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová anuncia a muchas naciones que han de servir a Babilonia — Los utensilios de la casa de Jehová serán llevados a Babilonia.
 
----
 ###### 1 
 En el principio del reinado de Joacim hijo de Josías, rey de Judá, esta palabra vino de Jehová a Jeremías, diciendo:
 

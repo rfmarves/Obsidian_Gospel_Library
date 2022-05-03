@@ -1,22 +1,21 @@
 ---
 title: Números 33
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 33
 [[Números 32| <-- Números 32]] | [[Números]] | [[Números 34|Números 34 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/33?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/33?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se revisan los viajes de Israel desde Egipto hasta Canaán — Se manda al pueblo echar a los habitantes de esa tierra — Cualquier habitante que quede afligirá a Israel.
 
----
 ###### 1 
 Estos son los viajes de los hijos de Israel, que salieron de la tierra de Egipto, por sus ejércitos, bajo la dirección de Moisés y Aarón.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 48
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 48
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/48?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob tells of the appearance of God to him in Luz—He adopts Ephraim and Manasseh as his own children—Jacob blesses Joseph—He puts Ephraim before Manasseh—The seed of Ephraim will become a multitude of nations—The children of Israel will come again into the land of their fathers.
 
----
 ###### 1 
 And it came to pass after these things, that  told Joseph, Behold, thy father  sick: and he took with him his two sons, Manasseh and Ephraim.
 

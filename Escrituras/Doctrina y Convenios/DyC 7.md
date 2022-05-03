@@ -1,22 +1,21 @@
 ---
 title: DyC 7
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 7
 [[DyC 6| <-- DyC 6]] | [[DyC]] | [[DyC 8|DyC 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–3, Juan el Amado vivirá hasta que venga el Señor; 4–8, Pedro, Santiago y Juan poseen las llaves del Evangelio.
 
----
 ###### 1 
 Y el Señor me dijo: Juan, mi amado, ¿qué deseas? Pues lo que quieras pedir te será concedido.
 

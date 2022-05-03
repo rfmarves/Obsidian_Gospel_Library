@@ -1,10 +1,11 @@
 ---
 title: sw Job 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job is weary of life—He reasons with God about his afflictions—He asks, Why hast Thou brought me forth out of the womb?
 
----
 ###### 1 
 My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.
 

@@ -1,22 +1,21 @@
 ---
 title: Jueces 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 13
 [[Jueces 12| <-- Jueces 12]] | [[Jueces]] | [[Jueces 14|Jueces 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel queda bajo cautiverio filisteo durante cuarenta años — Un ángel viene a la esposa de Manoa y le promete un hijo que comenzará a librar a Israel — El ángel viene otra vez; asciende en una llama desde el altar — Nace Sansón y el Espíritu de Jehová se manifiesta en él.
 
----
 ###### 1 
 Y los hijos de Israel volvieron a hacer lo malo ante los ojos de Jehová, y Jehová los entregó en manos de los filisteos durante cuarenta años.
 

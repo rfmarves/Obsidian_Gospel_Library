@@ -1,10 +1,11 @@
 ---
 title: sw Zechariah 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zechariah 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the final great war, all nations will be engaged at Jerusalem, but the Lord will defend His people—Then the Jews will look upon the Lord, whom they crucified, and there will be great mourning.
 
----
 ###### 1 
 The burden of the word of the  for Israel, saith the , which stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 4
 [[1 Nefi 3| <-- 1 Nefi 3]] | [[1 Nefi]] | [[1 Nefi 5|1 Nefi 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nefi mata a Labán por mandato del Señor y luego obtiene las planchas de bronce por una estratagema — Zoram opta por unirse a la familia de Lehi en el desierto. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 Y aconteció que hablé a mis hermanos diciéndoles: Subamos de nuevo a Jerusalén, y seamos fieles en guardar los mandamientos del Señor, pues he aquí, él es más poderoso que toda la tierra. ¿Por qué, pues, no ha de ser más poderoso que Labán con sus cincuenta, o aun con sus decenas de millares?
 

@@ -1,22 +1,21 @@
 ---
 title: Gênesis 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 15
 [[Gênesis 14| <-- Gênesis 14]] | [[Gênesis]] | [[Gênesis 16|Gênesis 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Abrão deseja ter progênie — O Senhor lhe promete uma semente tão numerosa quanto as estrelas — Abrão crê na promessa — Sua semente será peregrina no Egito — Então, após quatro gerações, eles herdarão Canaã.
 
----
 ###### 1 
 Depois dessas coisas, veio a palavra do  a Abrão em visão, dizendo: Não temas, Abrão, eu sou o teu escudo, o teu grandíssimo galardão.
 

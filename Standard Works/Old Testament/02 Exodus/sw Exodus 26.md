@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 26
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 The tabernacle is to be built with ten curtains and with boards—A veil is to separate the holy place from the most holy place—The ark of testimony (with the mercy seat) is to be put in the most holy place.
 
----
 ###### 1 
 Moreover thou shalt make the tabernacle  ten curtains  fine twined linen, and blue, and purple, and scarlet:  cherubims of cunning work shalt thou make them.
 

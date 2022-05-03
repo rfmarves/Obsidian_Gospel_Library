@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people of Judah forsook the Lord, the fountain of living waters—They worshipped idols and rejected the prophets.
 
----
 ###### 1 
 Moreover the word of the  came to me, saying,
 

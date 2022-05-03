@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 12
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nephi sees in vision the land of promise; the righteousness, iniquity, and downfall of its inhabitants; the coming of the Lamb of God among them; how the Twelve Disciples and the Twelve Apostles will judge Israel; and the loathsome and filthy state of those who dwindle in unbelief. About 600–592 B.C.
 
----
 ###### 1 
 And it came to pass that the angel said unto me: Look, and behold thy seed, and also the seed of thy brethren. And I looked and beheld the land of promise; and I beheld multitudes of people, yea, even as it were in number as many as the sand of the sea.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Zechariah 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zechariah 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, Judah will gather to Jerusalem—The people will come from the land of the north—The Lord will dwell among them.
 
----
 ###### 1 
 I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand.
 

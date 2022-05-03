@@ -1,22 +1,21 @@
 ---
 title: DeC 58
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 58
 [[DeC 57| <-- DeC 57]] | [[DeC]] | [[DeC 59|DeC 59 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, Os que suportarem tribulações serão coroados de glória; 6–12, Os santos devem preparar-se para as bodas do Cordeiro e a ceia do Senhor; 13–18, Os bispos são juízes em Israel; 19–23, Os santos devem obedecer às leis do país; 24–29, Os homens devem usar seu livre-arbítrio para fazer o bem; 30–33, O Senhor ordena e revoga; 34–43, Para arrependerem-se, os homens precisam confessar e abandonar seus pecados; 44–58, Os santos devem comprar sua herança e congregar-se em Missouri; 59–65, O evangelho deve ser pregado a toda criatura.
 
----
 ###### 1 
 Escutai, ó élderes de minha igreja, e dai ouvidos à minha palavra, e aprendei de mim a minha vontade concernente a vós, e também a esta terra para a qual vos enviei.
 

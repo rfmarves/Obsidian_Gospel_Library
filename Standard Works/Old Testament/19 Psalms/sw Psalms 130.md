@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 130
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 130
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/130?lang=eng)
 
----
+```
 A Song of degrees.
+```
 
----
-
----
-__Summary__
+> __Summary__
 O Lord, hear our prayers, forgive iniquity, and redeem Israel.
 
----
 ###### 1 
 Out of the depths have I cried unto thee, O .
 

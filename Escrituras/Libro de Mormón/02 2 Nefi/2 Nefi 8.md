@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 8
 [[2 Nefi 7| <-- 2 Nefi 7]] | [[2 Nefi]] | [[2 Nefi 9|2 Nefi 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob continúa leyendo en Isaías: En los últimos días, el Señor consolará a Sion y recogerá a Israel — Los redimidos irán a Sion en medio de gran gozo — Compárese con Isaías 51 y 52:1–2. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Oídme, los que seguís la rectitud. Mirad a la roca de donde fuisteis cortados, y al hueco de la cantera de donde os sacaron.
 

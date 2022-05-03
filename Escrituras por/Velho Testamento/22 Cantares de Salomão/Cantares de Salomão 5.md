@@ -1,22 +1,21 @@
 ---
 title: Cantares de Salomão 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Cantares de Salomão 5
 [[Cantares de Salomão 4| <-- Cantares de Salomão 4]] | [[Cantares de Salomão]] | [[Cantares de Salomão 6|Cantares de Salomão 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Continuação da canção de amor e afeto.
 
----
 ###### 1 
 Já vim para o meu jardim, minha irmã, ó esposa; colhi a minha mirra com a minha especiaria, comi o meu favo com o meu mel, bebi o meu vinho com o meu leite; comei, amigos, bebei, ó amados, e embriagai-vos.
 

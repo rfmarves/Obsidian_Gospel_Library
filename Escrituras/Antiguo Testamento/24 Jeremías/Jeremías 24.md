@@ -1,22 +1,21 @@
 ---
 title: Jeremías 24
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 24
 [[Jeremías 23| <-- Jeremías 23]] | [[Jeremías]] | [[Jeremías 25|Jeremías 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Sedequías y el pueblo de Judá serán maldecidos y dispersados — Algunos serán traídos de nuevo desde Caldea para servir a Jehová.
 
----
 ###### 1 
 Me mostró Jehová, y he aquí, dos cestas de higos puestas delante del templo de Jehová, después de haber llevado cautivo Nabucodonosor, rey de Babilonia, a Jeconías hijo de Joacim, rey de Judá, y a los príncipes de Judá, y a los artesanos y herreros de Jerusalén, y de haberlos llevado a Babilonia.
 

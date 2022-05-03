@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 2
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 King Benjamin addresses his people—He recounts the equity, fairness, and spirituality of his reign—He counsels them to serve their Heavenly King—Those who rebel against God will suffer anguish like unquenchable fire. About 124 B.C.
 
----
 ###### 1 
 And it came to pass that after Mosiah had done as his father had commanded him, and had made a proclamation throughout all the land, that the people gathered themselves together throughout all the land, that they might go up to the temple to hear the words which king Benjamin should speak unto them.
 

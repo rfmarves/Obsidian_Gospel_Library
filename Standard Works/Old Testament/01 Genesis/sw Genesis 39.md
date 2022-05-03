@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 39
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 39
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/39?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joseph, prospered by the Lord, becomes ruler of Potiphar’s house—He resists the advances of Potiphar’s wife, is falsely accused, and is cast into prison—The keeper of the prison commits the prison’s affairs into Joseph’s hands.
 
----
 ###### 1 
 And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.
 

@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 22
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 22
 [[3 Nefi 21| <-- 3 Nefi 21]] | [[3 Nefi]] | [[3 Nefi 23|3 Nefi 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los últimos días, Sion y sus estacas serán establecidas, e Israel será recogido con misericordia y ternura — Ellos triunfarán — Compárese con Isaías 54. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Entonces se realizará lo que está escrito: ¡Canta, oh estéril, tú que no dabas a luz! ¡Prorrumpe en cánticos, y da voces de júbilo, tú que nunca estuviste de parto!, porque más son los hijos de la desolada que los de la casada, dice el Señor.
 

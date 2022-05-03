@@ -1,22 +1,21 @@
 ---
 title: Números 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 18
 [[Números 17| <-- Números 17]] | [[Números]] | [[Números 19|Números 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se llama a Aarón y a sus hijos para ministrar como sacerdotes — Se llama a los levitas para servir en el servicio del tabernáculo — Los levitas no reciben heredad en la tierra, sino que se mantienen con los diezmos del pueblo.
 
----
 ###### 1 
 Y Jehová dijo a Aarón: Tú y tus hijos, y tu casa paterna contigo, llevaréis la culpa con relación al santuario; y tú y tus hijos contigo llevaréis la culpa con relación a vuestro sacerdocio.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 1
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 King Benjamin teaches his sons the language and prophecies of their fathers—Their religion and civilization have been preserved because of the records kept on the various plates—Mosiah is chosen as king and is given custody of the records and other things. About 130–124 B.C.
 
----
 ###### 1 
 And now there was no more contention in all the land of Zarahemla, among all the people who belonged to king Benjamin, so that king Benjamin had continual peace all the remainder of his days.
 

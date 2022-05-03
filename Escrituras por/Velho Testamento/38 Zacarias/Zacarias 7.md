@@ -1,22 +1,21 @@
 ---
 title: Zacarias 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarias 7
 [[Zacarias 6| <-- Zacarias 6]] | [[Zacarias]] | [[Zacarias 8|Zacarias 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor reprova a hipocrisia nos jejuns — Ele conclama o povo a mostrar misericórdia e compaixão e a viver em retidão.
 
----
 ###### 1 
 Aconteceu, pois, no ano quarto do rei Dario, que a palavra do  veio a Zacarias, no  quarto do nono mês,  Quisleu;
 

@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 33
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 33
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/33?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses blesses the tribes of Israel—Levi is blessed to teach the Lord’s judgments and His law—Joseph is blessed above all; the Lord will gather Israel in the latter days—Israel will triumph.
 
----
 ###### 1 
 And this  the blessing, wherewith Moses the man of God blessed the children of Israel before his death.
 

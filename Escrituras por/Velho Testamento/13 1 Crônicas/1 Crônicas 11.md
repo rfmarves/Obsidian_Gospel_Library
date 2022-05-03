@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 11
 [[1 Crônicas 10| <-- 1 Crônicas 10]] | [[1 Crônicas]] | [[1 Crônicas 12|1 Crônicas 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi é ungido rei em Hebrom — Ele toma Sião, a Cidade de Davi — Seus valentes guerreiros são citados pelo nome, e narram-se os feitos deles.
 
----
 ###### 1 
 Então todo o Israel se ajuntou a Davi em Hebrom, dizendo: Eis que  teus ossos e tua carne.
 

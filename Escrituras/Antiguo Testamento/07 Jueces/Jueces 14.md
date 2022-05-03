@@ -1,22 +1,21 @@
 ---
 title: Jueces 14
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 14
 [[Jueces 13| <-- Jueces 13]] | [[Jueces]] | [[Jueces 15|Jueces 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Sansón mata un cachorro de león con sus propias manos — Se casa con una mujer filistea, propone un acertijo, su esposa lo engaña y él mata a treinta filisteos.
 
----
 ###### 1 
 Y descendió Sansón a Timnat y vio en Timnat a una mujer de las hijas de los filisteos.
 

@@ -1,22 +1,21 @@
 ---
 title: Filipenses 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Filipenses 1
 [[Efésios 6| <-- Efésios 6]] | [[Filipenses]] | [[Filipenses 2|Filipenses 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/philip/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/philip/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Tudo o que aconteceu com Paulo promoveu a causa do evangelho — Nossa conduta deve ser digna do evangelho.
 
----
 ###### 1 
 Paulo e Timóteo, servos de Jesus Cristo, a todos os santos em Cristo Jesus que estão em Filipos, com os bispos e diáconos:
 

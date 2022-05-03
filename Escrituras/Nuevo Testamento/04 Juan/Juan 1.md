@@ -1,22 +1,21 @@
 ---
 title: Juan 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 1
 [[Lucas 24| <-- Lucas 24]] | [[Juan]] | [[Juan 2|Juan 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cristo es el Verbo de Dios — Él creó todas las cosas y fue hecho carne — Juan bautiza a Jesús y testifica que Jesús es el Cordero de Dios — Juan, Andrés, Simón, Felipe y Natanael creen en Cristo y lo siguen.
 
----
 ###### 1 
 En el principio era el Verbo, y el Verbo estaba con Dios, y el Verbo era Dios.
 

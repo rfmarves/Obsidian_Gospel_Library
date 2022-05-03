@@ -1,22 +1,21 @@
 ---
 title: Eclesiastes 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastes 3
 [[Eclesiastes 2| <-- Eclesiastes 2]] | [[Eclesiastes]] | [[Eclesiastes 4|Eclesiastes 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Tudo tem o seu tempo determinado — Tudo o que Deus faz durará eternamente — Deus julgará o justo e o ímpio.
 
----
 ###### 1 
 Tudo  o  tempo determinado, e todo propósito debaixo do céu 
 

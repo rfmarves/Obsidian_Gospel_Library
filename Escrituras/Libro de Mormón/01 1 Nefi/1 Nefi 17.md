@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 17
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 17
 [[1 Nefi 16| <-- 1 Nefi 16]] | [[1 Nefi]] | [[1 Nefi 18|1 Nefi 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se le manda a Nefi construir un barco — Sus hermanos se le oponen — Él los exhorta contándoles de nuevo la historia de los tratos de Dios con Israel — Nefi se llena del poder de Dios — Prohíbe a sus hermanos que lo toquen, no sea que se marchiten como una caña seca. Aproximadamente 592–591 a.C.
 
----
 ###### 1 
 Y sucedió que emprendimos otra vez nuestro viaje por el desierto, y nos dirigimos casi hacia el este de allí en adelante. Y viajamos y pasamos por muchas aflicciones en el desierto; y nuestras mujeres dieron a luz hijos en el yermo.
 

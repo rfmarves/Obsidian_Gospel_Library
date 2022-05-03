@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 49
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 49
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/49?lang=eng)
 
----
+```
 To the chief Musician, A Psalm for the sons of Korah.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Men cannot be ransomed or redeemed by wealth—God alone can redeem a soul from the grave—The glory of a rich man ceases with his death.
 
----
 ###### 1 
 Hear this, all  people; give ear, all  inhabitants of the world:
 

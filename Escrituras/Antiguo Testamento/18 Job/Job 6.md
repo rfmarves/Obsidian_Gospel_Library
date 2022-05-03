@@ -1,22 +1,21 @@
 ---
 title: Job 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 6
 [[Job 5| <-- Job 5]] | [[Job]] | [[Job 7|Job 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Job se lamenta por su pesar — Ora a Dios para que le conceda sus peticiones — Se debe tener compasión por aquellos que están atribulados — ¡Cuán poderosas son las palabras de rectitud!
 
----
 ###### 1 
 Y respondió Job y dijo:
 

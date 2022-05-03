@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 24
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Amulon persecutes Alma and his people—They are to be put to death if they pray—The Lord makes their burdens seem light—He delivers them from bondage, and they return to Zarahemla. About 145–120 B.C.
 
----
 ###### 1 
 And it came to pass that Amulon did gain favor in the eyes of the king of the Lamanites; therefore, the king of the Lamanites granted unto him and his brethren that they should be appointed teachers over his people, yea, even over the people who were in the land of Shemlon, and in the land of Shilom, and in the land of Amulon.
 

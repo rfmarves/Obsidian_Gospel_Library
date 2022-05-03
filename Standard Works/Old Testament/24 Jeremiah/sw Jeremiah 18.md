@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is as potter’s clay in the hands of the Lord—If nations repent, the Lord withholds the evil decreed against them—The people of Judah will be scattered.
 
----
 ###### 1 
 The word which came to Jeremiah from the , saying,
 

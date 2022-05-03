@@ -1,22 +1,21 @@
 ---
 title: Josué 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 9
 [[Josué 8| <-- Josué 8]] | [[Josué]] | [[Josué 10|Josué 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os gibeonitas usam de estratagema para fazer aliança com Israel — Josué faz deles servos da congregação de Israel.
 
----
 ###### 1 
 E sucedeu  ouvindo  todos os reis que  além do Jordão, nas montanhas, e nas campinas, em toda a costa do grande mar, em frente do Líbano, os heteus, e os amorreus, os cananeus, os perizeus, os heveus, e os jebuseus,
 

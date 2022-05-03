@@ -1,10 +1,11 @@
 ---
 title: sw 2 Timothy 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Timothy 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ gives eternal glory to the elect—Shun contention and seek godliness.
 
----
 ###### 1 
 Thou therefore, my son, be strong in the grace that is in Christ Jesus.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 4
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 King Benjamin continues his address—Salvation comes because of the Atonement—Believe in God to be saved—Retain a remission of your sins through faithfulness—Impart of your substance to the poor—Do all things in wisdom and order. About 124 B.C.
 
----
 ###### 1 
 And now, it came to pass that when king Benjamin had made an end of speaking the words which had been delivered unto him by the angel of the Lord, that he cast his eyes round about on the multitude, and behold they had fallen to the earth, for the fear of the Lord had come upon them.
 

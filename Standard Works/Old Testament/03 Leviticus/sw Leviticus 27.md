@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 27
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 How properties are consecrated unto the Lord is explained—Israel is commanded to pay tithes of their crops, flocks, and herds.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

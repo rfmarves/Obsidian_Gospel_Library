@@ -1,10 +1,11 @@
 ---
 title: sw Judges 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Tola and then Jair judge Israel—The children of Israel worship false gods, are forsaken by the Lord, and are distressed by their enemies—They repent and ask the Lord for deliverance.
 
----
 ###### 1 
 And after Abimelech there arose to defend Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in mount Ephraim.
 

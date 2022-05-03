@@ -1,22 +1,21 @@
 ---
 title: Génesis 43
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 43
 [[Génesis 42| <-- Génesis 42]] | [[Génesis]] | [[Génesis 44|Génesis 44 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/43?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/43?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Persuaden a Jacob a que envíe a Benjamín a Egipto — Los hermanos de José le muestran respeto — Todos ellos comen y beben juntos.
 
----
 ###### 1 
 Y el hambre era grande en la tierra.
 

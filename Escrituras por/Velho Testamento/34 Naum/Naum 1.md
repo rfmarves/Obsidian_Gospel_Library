@@ -1,22 +1,21 @@
 ---
 title: Naum 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Naum 1
 [[Miqueias 7| <-- Miqueias 7]] | [[Naum]] | [[Naum 2|Naum 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/nahum/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/nahum/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Naum fala da queima da Terra na Segunda Vinda e da misericórdia e do poder do Senhor.
 
----
 ###### 1 
 Peso de Nínive. Livro da visão de Naum, o elcosita.
 

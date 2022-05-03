@@ -1,27 +1,25 @@
 ---
 title: Moroni 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moroni 9
 [[Moroni 8| <-- Moroni 8]] | [[Moroni]] | [[Moroni 10|Moroni 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/9?lang=spa)
 
----
+```
 La segunda epístola de Mormón a su hijo Moroni.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Tanto los nefitas como los lamanitas se han depravado y degenerado — Se torturan y se asesinan unos a otros — Mormón suplica que la gracia y la bondad de Dios acompañen a Moroni para siempre. Aproximadamente 401 d.C.
 
----
 ###### 1 
 Mi amado hijo, te escribo otra vez para que sepas que estoy vivo todavía; pero escribo algo de aquello que es penoso.
 

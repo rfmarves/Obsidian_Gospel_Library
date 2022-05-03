@@ -1,10 +1,11 @@
 ---
 title: sw Job 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Murderers, adulterers, those who oppress the poor, and wicked people in general often go unpunished for a little while.
 
----
 ###### 1 
 Why, seeing times are not hidden from the Almighty, do they that know him not see his days?
 

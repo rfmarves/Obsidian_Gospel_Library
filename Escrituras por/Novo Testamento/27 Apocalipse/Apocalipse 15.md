@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 15
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 15
 [[Apocalipse 14| <-- Apocalipse 14]] | [[Apocalipse]] | [[Apocalipse 16|Apocalipse 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos exaltados louvam a Deus na glória celestial para sempre.
 
----
 ###### 1 
 E vi outro grande e admirável sinal no céu: sete anjos, que tinham as sete últimas pragas, porque nelas é consumada a ira de Deus.
 

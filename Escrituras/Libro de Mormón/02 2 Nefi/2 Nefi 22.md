@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 22
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 22
 [[2 Nefi 21| <-- 2 Nefi 21]] | [[2 Nefi]] | [[2 Nefi 23|2 Nefi 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los días del Milenio todos los hombres alabarán al Señor — Él morará entre ellos — Compárese con Isaías 12. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Y dirás en aquel día: ¡Te alabaré, oh Señor! Aunque estabas enojado conmigo, tu ira se ha apartado, y me has consolado.
 

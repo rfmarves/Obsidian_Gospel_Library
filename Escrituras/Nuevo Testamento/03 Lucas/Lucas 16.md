@@ -1,22 +1,21 @@
 ---
 title: Lucas 16
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 16
 [[Lucas 15| <-- Lucas 15]] | [[Lucas]] | [[Lucas 17|Lucas 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús enseña la parábola del mayordomo injusto — Instruye acerca del servicio y condena el divorcio — Enseña la parábola de Lázaro y el hombre rico.
 
----
 ###### 1 
 Y  dijo también a sus discípulos: Había un hombre rico que tenía un mayordomo, y este fue acusado delante de él como disipador de sus bienes.
 

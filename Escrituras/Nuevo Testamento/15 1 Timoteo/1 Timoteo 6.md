@@ -1,22 +1,21 @@
 ---
 title: 1 Timoteo 6
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Timoteo 6
 [[1 Timoteo 5| <-- 1 Timoteo 5]] | [[1 Timoteo]] | [[2 Timoteo 1|2 Timoteo 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El amor al dinero es la raíz de todos los males — Pelead la buena batalla de la fe — No pongáis vuestra esperanza en las riquezas del mundo.
 
----
 ###### 1 
 Todos los que están bajo el yugo de esclavitud tengan a sus amos como dignos de toda honra, para que no sea blasfemado el nombre de Dios ni la doctrina.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 He who overcomes will gain eternal life, avoid the second death, inherit the celestial kingdom, and rule many kingdoms.
 
----
 ###### 1 
 Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;
 

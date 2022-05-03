@@ -1,22 +1,21 @@
 ---
 title: Miqueias 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Miqueias 4
 [[Miqueias 3| <-- Miqueias 3]] | [[Miqueias]] | [[Miqueias 5|Miqueias 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/micah/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/micah/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nos últimos dias, o templo será construído, Israel se reunirá nele, terá início a era milenar e o Senhor reinará em Sião.
 
----
 ###### 1 
 Mas nos últimos dias acontecerá que o monte da casa do  será estabelecido no cume dos montes, e se elevará sobre os outeiros, e concorrerão a ele os povos.
 

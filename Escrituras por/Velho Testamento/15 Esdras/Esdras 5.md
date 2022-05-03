@@ -1,22 +1,21 @@
 ---
 title: Esdras 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 5
 [[Esdras 4| <-- Esdras 4]] | [[Esdras]] | [[Esdras 6|Esdras 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ageu e Zacarias profetizam — Zorobabel retoma a construção do templo — Os samaritanos questionam o direito dos judeus de continuarem seu trabalho de construção.
 
----
 ###### 1 
 E os profetas Ageu e Zacarias, filho de Ido, profetizaram aos judeus que  em Judá, e em Jerusalém; em nome do Deus de Israel lhes 
 

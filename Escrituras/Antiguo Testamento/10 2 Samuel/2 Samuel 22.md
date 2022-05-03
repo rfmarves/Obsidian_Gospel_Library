@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 22
 [[2 Samuel 21| <-- 2 Samuel 21]] | [[2 Samuel]] | [[2 Samuel 23|2 Samuel 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David alaba a Jehová con un salmo de agradecimiento — Jehová es su fortaleza y su salvador; Jehová es fuerte y poderoso para librar, premia a los hombres de acuerdo con su rectitud, muestra misericordia al misericordioso y Su camino es perfecto; Él vive y bendito sea.
 
----
 ###### 1 
 Y dirigió David a Jehová las palabras de este cántico, el día en que Jehová le libró de manos de todos sus enemigos y de manos de Saúl.
 

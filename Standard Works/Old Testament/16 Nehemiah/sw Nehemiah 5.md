@@ -1,10 +1,11 @@
 ---
 title: sw Nehemiah 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nehemiah 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Many Jews are in bondage to their fellow Jews—At Nehemiah’s direction they are freed, their lands are restored, and the taking of usury is discontinued.
 
----
 ###### 1 
 And there was a great cry of the people and of their wives against their brethren the Jews.
 

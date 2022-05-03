@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel laments for Israel because she has been taken captive by other nations and has become like a vine planted in dry and thirsty ground.
 
----
 ###### 1 
 Moreover take thou up a lamentation for the princes of Israel,
 

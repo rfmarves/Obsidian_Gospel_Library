@@ -1,22 +1,21 @@
 ---
 title: João 14
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 14
 [[João 13| <-- João 13]] | [[João]] | [[João 15|João 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus fala de muitas mansões — Ele diz ser o caminho, a verdade e a vida e que vê-Lo é ver o Pai — Ele promete o primeiro e o segundo Consolador.
 
----
 ###### 1 
 Não se turbe o vosso coração; credes em Deus, crede também em mim.
 

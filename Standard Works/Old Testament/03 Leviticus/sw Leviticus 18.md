@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel shall not live as the Egyptians and the Canaanites—Marriages to many close relatives and others are forbidden—Homosexual behavior and other sexual perversions are an abomination—The land expels those nations that practice sexual abominations.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

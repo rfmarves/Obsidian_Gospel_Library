@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 As a test, a rod for each tribe is placed in the tabernacle of witness—Aaron’s rod buds and blossoms and brings forth almonds—It is kept as a token against rebels.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

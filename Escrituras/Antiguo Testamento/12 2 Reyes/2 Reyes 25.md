@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 25
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 25
 [[2 Reyes 24| <-- 2 Reyes 24]] | [[2 Reyes]] | [[1 Crónicas 1|1 Crónicas 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nabucodonosor sitia nuevamente Jerusalén — Sedequías es capturado, Jerusalén y el templo son destruidos, y la mayoría de los judíos son llevados a Babilonia — Dan muerte a Gedalías, a quien habían dejado para gobernar al remanente que quedó — El remanente huye a Egipto — A Joaquín le tratan con cortesía en Babilonia.
 
----
 ###### 1 
 Y aconteció en el noveno año de su reinado, el día diez del mes décimo, que Nabucodonosor, rey de Babilonia, llegó con todo su ejército contra Jerusalén, y la sitió, y levantó contra ella torres alrededor.
 

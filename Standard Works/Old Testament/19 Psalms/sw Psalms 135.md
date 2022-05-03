@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 135
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 135
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/135?lang=eng)
 
----
-__Summary__
+> __Summary__
 Praise and bless the Lord—Our Lord is above all gods; idols cannot see, hear, or speak.
 
----
 ###### 1 
 Praise ye the . Praise ye the name of the ; praise  O ye servants of the .
 

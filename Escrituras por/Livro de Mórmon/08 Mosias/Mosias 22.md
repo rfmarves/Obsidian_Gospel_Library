@@ -1,22 +1,21 @@
 ---
 title: Mosias 22
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 22
 [[Mosias 21| <-- Mosias 21]] | [[Mosias]] | [[Mosias 23|Mosias 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Feitos planos para o povo escapar do cativeiro lamanita — Os lamanitas são embebedados — O povo escapa, volta a Zaraenla e submete-se ao rei Mosias. Aproximadamente 121–120 a.C.
 
----
 ###### 1 
 Ora, aconteceu que Amon e o rei Lími começaram a consultar o povo sobre como poderiam livrar-se do cativeiro; e fizeram com que todo o povo se reunisse; e fizeram isso para ouvir a voz do povo acerca do assunto.
 

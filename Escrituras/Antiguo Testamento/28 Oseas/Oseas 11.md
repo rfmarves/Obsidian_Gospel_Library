@@ -1,22 +1,21 @@
 ---
 title: Oseas 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseas 11
 [[Oseas 10| <-- Oseas 10]] | [[Oseas]] | [[Oseas 12|Oseas 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel, en su niñez, fue llamado a salir de Egipto a semejanza del Señor que, en su niñez, salió de Egipto — Pero Efraín se aleja del Señor.
 
----
 ###### 1 
 Cuando Israel era niño, yo lo amé, y de Egipto llamé a mi hijo.
 

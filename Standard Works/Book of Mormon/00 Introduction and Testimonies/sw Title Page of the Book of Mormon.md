@@ -1,10 +1,11 @@
 ---
 title: sw Title Page of the Book of Mormon
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Title Page of the Book of Mormon

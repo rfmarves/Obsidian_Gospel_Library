@@ -1,22 +1,21 @@
 ---
 title: Salmos 146
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 146
 [[Salmos 145| <-- Salmos 145]] | [[Salmos]] | [[Salmos 147|Salmos 147 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/146?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/146?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Bem-aventurado aquele cuja esperança está no Senhor — O Senhor solta os encarcerados, ama os justos e reina para sempre.
 
----
 ###### 1 
 Louvai ao . Ó minha alma, louva ao .
 

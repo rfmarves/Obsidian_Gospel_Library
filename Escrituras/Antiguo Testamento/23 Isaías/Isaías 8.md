@@ -1,22 +1,21 @@
 ---
 title: Isaías 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 8
 [[Isaías 7| <-- Isaías 7]] | [[Isaías]] | [[Isaías 9|Isaías 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cristo será piedra de tropiezo y tropezadero — Buscad al Señor y no a los adivinos murmuradores — Volveos a la ley y al testimonio para recibir orientación — Compárese con 2 Nefi 18.
 
----
 ###### 1 
 Y me dijo Jehová: Toma una tabla grande y escribe en ella con estilete de hombre tocante a Maher-salal-hasbaz.
 

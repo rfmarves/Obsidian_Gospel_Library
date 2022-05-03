@@ -1,22 +1,21 @@
 ---
 title: Atos 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 2
 [[Atos 1| <-- Atos 1]] | [[Atos]] | [[Atos 3|Atos 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Espírito é derramado no dia de Pentecostes — Pedro testifica da ressurreição de Jesus — Ele explica como alcançar a salvação e fala do dom do Espírito Santo — Muitos acreditam e são batizados.
 
----
 ###### 1 
 E cumprindo-se o dia de Pentecostes, estavam todos concordemente reunidos.
 

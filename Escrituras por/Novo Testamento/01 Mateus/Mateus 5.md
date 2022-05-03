@@ -1,22 +1,21 @@
 ---
 title: Mateus 5
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 5
 [[Mateus 4| <-- Mateus 4]] | [[Mateus]] | [[Mateus 6|Mateus 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus prega o Sermão da Montanha — Seus ensinamentos substituem e transcendem alguns aspectos da lei de Moisés — É dado o mandamento de que todos sejam perfeitos como o Pai Celestial.
 
----
 ###### 1 
 E Jesus, vendo as multidões, subiu a um monte, e assentando-se, aproximaram-se dele os seus discípulos;
 

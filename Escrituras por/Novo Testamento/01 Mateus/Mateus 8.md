@@ -1,22 +1,21 @@
 ---
 title: Mateus 8
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 8
 [[Mateus 7| <-- Mateus 7]] | [[Mateus]] | [[Mateus 9|Mateus 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus sara um leproso, cura o criado do centurião e outros, acalma a tempestade e expulsa demônios — Os demônios entram em uma manada de porcos.
 
----
 ###### 1 
 E descendo ele do monte, seguiu-o uma grande multidão.
 

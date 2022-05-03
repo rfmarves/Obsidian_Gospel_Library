@@ -1,22 +1,21 @@
 ---
 title: Êxodo 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 18
 [[Êxodo 17| <-- Êxodo 17]] | [[Êxodo]] | [[Êxodo 19|Êxodo 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jetro vai a Moisés levando a mulher e os filhos de Moisés e oferece sacrifícios ao Senhor — Moisés asssenta-se para julgar o povo e ouve todos os casos — Jetro aconselha Moisés a ensinar a lei, a nomear juízes menores e a delegar-lhes poder.
 
----
 ###### 1 
 E Jetro, sacerdote de Midiã, sogro de Moisés, ouviu todas as coisas que Deus tinha feito a Moisés e a Israel, seu povo; como o  tinha tirado Israel do Egito.
 

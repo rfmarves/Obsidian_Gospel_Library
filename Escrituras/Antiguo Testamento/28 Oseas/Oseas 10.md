@@ -1,22 +1,21 @@
 ---
 title: Oseas 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseas 10
 [[Oseas 9| <-- Oseas 9]] | [[Oseas]] | [[Oseas 11|Oseas 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel ha arado maldad y segado iniquidad — Oseas exhorta a Israel a buscar a Jehová.
 
----
 ###### 1 
 Israel es una frondosa viña que da fruto para sí; conforme a la abundancia de su fruto, multiplicaba los altares; conforme a la bondad de su tierra, mejor adorna sus ídolos.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 11
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul speaks of certain customs of hair and grooming—Heresies will arise that test and prove the faithful—The sacramental emblems are partaken in remembrance of the flesh and blood of Christ—Beware of partaking unworthily.
 
----
 ###### 1 
 Be ye followers of me, even as I also  of Christ.
 

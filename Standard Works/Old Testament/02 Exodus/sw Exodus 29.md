@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 29
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 Aaron and his sons are to be washed, anointed, and consecrated—Various sacrificial rites are to be performed—Atonement is to be made for the sins of the people—The Lord promises to dwell among them.
 
----
 ###### 1 
 And this  the thing that thou shalt do unto them to hallow them, to minister unto me in the priest’s office: Take one young bullock, and two rams without blemish,
 

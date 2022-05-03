@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 26
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 Honor is not fitting for a fool—Answer not a fool according to his folly—Where there is no talebearer, the strife ceases.
 
----
 ###### 1 
 As snow in summer, and as rain in harvest, so honour is not seemly for a fool.
 

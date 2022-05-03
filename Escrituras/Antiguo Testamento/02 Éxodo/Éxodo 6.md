@@ -1,22 +1,21 @@
 ---
 title: Éxodo 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 6
 [[Éxodo 5| <-- Éxodo 5]] | [[Éxodo]] | [[Éxodo 7|Éxodo 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dios se identifica a Sí mismo como Jehová — Se detallan las genealogías de Rubén, de Simeón y de Leví.
 
----
 ###### 1 
 Jehová respondió a Moisés: Ahora verás lo que yo haré a Faraón, porque con mano fuerte los dejará ir, y con mano fuerte los ha de echar de su tierra.
 

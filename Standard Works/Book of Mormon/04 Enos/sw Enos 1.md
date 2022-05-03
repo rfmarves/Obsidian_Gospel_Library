@@ -1,10 +1,11 @@
 ---
 title: sw Enos 1
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Enos 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/enos/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Enos prays mightily and gains a remission of his sins—The voice of the Lord comes into his mind, promising salvation for the Lamanites in a future day—The Nephites sought to reclaim the Lamanites—Enos rejoices in his Redeemer. About 420 B.C.
 
----
 ###### 1 
 Behold, it came to pass that I, Enos, knowing my father that he was a just man—for he taught me in his language, and also in the nurture and admonition of the Lord—and blessed be the name of my God for it—
 

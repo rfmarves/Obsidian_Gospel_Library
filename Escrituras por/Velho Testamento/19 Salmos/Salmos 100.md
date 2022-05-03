@@ -1,27 +1,25 @@
 ---
 title: Salmos 100
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 100
 [[Salmos 99| <-- Salmos 99]] | [[Salmos]] | [[Salmos 101|Salmos 101 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/100?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/100?lang=por)
 
----
+```
 Salmo de louvor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo de louvor — Servi ao Senhor com alegria, todos vós, Seu povo — Dai-Lhe graças e bendizei o Seu nome.
 
----
 ###### 1 
 Celebrai com júbilo ao , todas as terras.
 

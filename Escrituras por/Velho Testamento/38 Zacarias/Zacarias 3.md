@@ -1,22 +1,21 @@
 ---
 title: Zacarias 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarias 3
 [[Zacarias 2| <-- Zacarias 2]] | [[Zacarias]] | [[Zacarias 4|Zacarias 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Zacarias fala sobre o Messias — O Renovo virá — Na Segunda Vinda, a iniquidade será removida em um dia.
 
----
 ###### 1 
 E ele me mostrou o sumo sacerdote Josué, o qual estava diante do anjo do , e Satanás estava à sua mão direita, para se lhe opor.
 

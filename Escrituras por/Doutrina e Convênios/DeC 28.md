@@ -1,22 +1,21 @@
 ---
 title: DeC 28
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 28
 [[DeC 27| <-- DeC 27]] | [[DeC]] | [[DeC 29|DeC 29 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/28?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/28?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–7, Joseph Smith possui as chaves dos mistérios e somente ele recebe revelações para a Igreja; 8–10, Oliver Cowdery deverá pregar aos lamanitas; 11–16, Satanás engana Hiram Page e dá-lhe revelações falsas.
 
----
 ###### 1 
 Eis que te digo, Oliver, que te será concedido ser ouvido pela igreja em todas as coisas que lhes ensinares por meio do Consolador, a respeito das revelações e dos mandamentos que dei.
 

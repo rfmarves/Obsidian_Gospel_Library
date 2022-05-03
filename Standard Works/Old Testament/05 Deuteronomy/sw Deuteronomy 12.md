@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is to destroy the Canaanite gods and places of worship—The Lord will designate where His people will worship—The eating of blood is forbidden—Israel’s worship must conform to the divine standard.
 
----
 ###### 1 
 These  the statutes and judgments, which ye shall observe to do in the land, which the  God of thy fathers giveth thee to possess it, all the days that ye live upon the earth.
 

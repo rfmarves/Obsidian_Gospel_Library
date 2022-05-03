@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jerusalem is besieged and taken by Nebuchadnezzar—Many of the people of Judah are carried captive into Babylon—Zedekiah becomes king in Jerusalem—He rebels against Babylon.
 
----
 ###### 1 
 In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him.
 

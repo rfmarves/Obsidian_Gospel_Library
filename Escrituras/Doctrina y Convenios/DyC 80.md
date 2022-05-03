@@ -1,22 +1,21 @@
 ---
 title: DyC 80
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 80
 [[DyC 79| <-- DyC 79]] | [[DyC]] | [[DyC 81|DyC 81 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/80?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/80?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, Stephen Burnett y Eden Smith son llamados a predicar en cualquier lugar que ellos escojan.
 
----
 ###### 1 
 De cierto, así te dice el Señor, mi siervo Stephen Burnett: Ve, ve entre los del mundo y predica el evangelio a toda criatura a quien llegue el son de tu voz.
 

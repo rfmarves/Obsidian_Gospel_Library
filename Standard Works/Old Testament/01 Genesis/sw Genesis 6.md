@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The sons of God marry the daughters of men—Men turn to wickedness, the earth is filled with violence, and all flesh is corrupted—The Flood is promised—God establishes His covenant with Noah, who builds an ark to save his family and various living things.
 
----
 ###### 1 
 And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,
 

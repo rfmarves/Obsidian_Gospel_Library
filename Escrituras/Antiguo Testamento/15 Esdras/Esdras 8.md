@@ -1,22 +1,21 @@
 ---
 title: Esdras 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 8
 [[Esdras 7| <-- Esdras 7]] | [[Esdras]] | [[Esdras 9|Esdras 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezra/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezra/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se enumera a aquellos que subieron de Babilonia a Jerusalén — Se llama a los levitas para que los acompañen — Durante el viaje a Jerusalén, Esdras y el pueblo piden guía y protección con ayuno y oración, y las reciben.
 
----
 ###### 1 
 Y estos son los jefes de las casas paternas y la genealogía de aquellos que subieron conmigo desde Babilonia, cuando reinaba el rey Artajerjes:
 

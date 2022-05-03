@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses exhorts the children of Israel to keep the commandments, to teach them to their children, and to be exemplary before all nations—They are forbidden to make graven images or worship other gods—They are to witness that they have heard the voice of God—They will be scattered among all nations when they worship other gods—They will be gathered again in the latter days when they seek the Lord their God—Moses extols the mercy and goodness of God to Israel.
 
----
 ###### 1 
 Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do  that ye may live, and go in and possess the land which the  God of your fathers giveth you.
 

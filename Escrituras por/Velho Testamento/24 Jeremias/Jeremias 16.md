@@ -1,22 +1,21 @@
 ---
 title: Jeremias 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 16
 [[Jeremias 15| <-- Jeremias 15]] | [[Jeremias]] | [[Jeremias 17|Jeremias 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Prevê-se a ruína total de Judá — Israel é rejeitada e dispersa por servir deuses falsos — Pescadores e caçadores reunirão Israel novamente, e o povo servirá ao Senhor — O evangelho será restaurado.
 
----
 ###### 1 
 E veio a mim a palavra do , dizendo:
 

@@ -1,10 +1,11 @@
 ---
 title: sw James 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw James 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/james/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 God has chosen the poor of this world who are rich in faith—Salvation is gained by keeping the whole law—Faith without works is dead.
 
----
 ###### 1 
 My brethren, have not the faith of our Lord Jesus Christ,  of glory, with respect of persons.
 

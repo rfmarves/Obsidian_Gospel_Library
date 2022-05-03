@@ -1,22 +1,21 @@
 ---
 title: Isaías 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 17
 [[Isaías 16| <-- Isaías 16]] | [[Isaías]] | [[Isaías 18|Isaías 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel foi dispersa por esquecer-se de Deus — Contudo, as nações que a saquearem serão destruídas.
 
----
 ###### 1 
 Peso de Damasco. Eis que Damasco será removida, e não mais será cidade, antes será  montão de ruínas.
 

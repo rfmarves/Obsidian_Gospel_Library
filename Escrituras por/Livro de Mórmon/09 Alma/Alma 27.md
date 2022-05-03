@@ -1,22 +1,21 @@
 ---
 title: Alma 27
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 27
 [[Alma 26| <-- Alma 26]] | [[Alma]] | [[Alma 28|Alma 28 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/27?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor manda Amon levar o povo de Ânti-Néfi-Leí a um lugar seguro — Ao encontrar Alma, a alegria de Amon exaure-lhe as forças — Os nefitas dão aos ânti-néfi-leítas a terra de Jérson — Eles são chamados povo de Amon. Aproximadamente 90–77 a.C.
 
----
 ###### 1 
 Ora, aconteceu que quando os lamanitas que haviam ido guerrear os nefitas descobriram, depois de haverem empregado muitos esforços para destruí-los, que era inútil procurar destruí-los, retornaram à terra de Néfi.
 

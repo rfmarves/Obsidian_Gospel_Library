@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 27
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 Rebekah guides Jacob in seeking blessings—Jacob is blessed to have dominion and rule over peoples and nations—Esau hates Jacob and plans to slay him—Rebekah fears that Jacob may marry one of the daughters of Heth.
 
----
 ###### 1 
 And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold,  I.
 

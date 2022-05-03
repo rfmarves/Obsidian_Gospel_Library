@@ -1,22 +1,21 @@
 ---
 title: Proverbios 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 18
 [[Proverbios 17| <-- Proverbios 17]] | [[Proverbios]] | [[Proverbios 19|Proverbios 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La boca del necio es su destrucción — El que halla esposa halla el bien — El hombre que tiene amigos ha de mostrarse amistoso.
 
----
 ###### 1 
 
 

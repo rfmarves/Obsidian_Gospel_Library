@@ -1,22 +1,21 @@
 ---
 title: Atos 8
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 8
 [[Atos 7| <-- Atos 7]] | [[Atos]] | [[Atos 9|Atos 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Saulo persegue a Igreja — Descreve-se o ministério de Filipe em Samaria — Filipe realiza milagres e batiza homens e mulheres — Pedro e João chegam a Samaria e conferem o dom do Espírito Santo pela imposição de mãos — Simão procura comprar esse dom, e é repreendido por Pedro — Filipe prega a respeito de Cristo e batiza um eunuco etíope.
 
----
 ###### 1 
 E Saulo consentia na morte dele. E fez-se naquele dia uma grande perseguição contra a igreja que estava em Jerusalém; e todos foram dispersos pelas terras da Judeia e da Samaria, exceto os apóstolos.
 

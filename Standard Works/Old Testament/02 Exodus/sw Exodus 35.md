@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 35
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 35
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/35?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is admonished to observe the Sabbath—Free gifts are offered for the tabernacle—The calls and inspiration of certain artisans are confirmed.
 
----
 ###### 1 
 And Moses gathered all the congregation of the children of Israel together, and said unto them, These  the words which the  hath commanded, that  should do them.
 

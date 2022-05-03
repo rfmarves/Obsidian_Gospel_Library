@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 36
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 36
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/36?lang=eng)
 
----
-__Summary__
+> __Summary__
 The descendants of Esau, who is Edom, are listed.
 
----
 ###### 1 
 Now these  the generations of Esau, who  Edom.
 

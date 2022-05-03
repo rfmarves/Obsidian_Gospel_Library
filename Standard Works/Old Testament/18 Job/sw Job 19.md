@@ -1,10 +1,11 @@
 ---
 title: sw Job 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job tells of the ills that have befallen him and then testifies, I know that my Redeemer lives—Job prophesies that he will be resurrected and that in his flesh he will see God.
 
----
 ###### 1 
 Then Job answered and said,
 

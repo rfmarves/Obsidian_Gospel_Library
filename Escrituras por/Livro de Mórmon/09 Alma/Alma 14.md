@@ -1,22 +1,21 @@
 ---
 title: Alma 14
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 14
 [[Alma 13| <-- Alma 13]] | [[Alma]] | [[Alma 15|Alma 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Alma e Amuleque são aprisionados e espancados — Queimados os crentes e suas escrituras sagradas — Esses mártires são recebidos em glória pelo Senhor — As paredes da prisão fendem-se e caem — Alma e Amuleque são libertados e seus perseguidores, mortos. Aproximadamente 82–81 a.C.
 
----
 ###### 1 
 E aconteceu que depois de haver ele acabado de falar ao povo, muitos acreditaram em suas palavras e começaram a arrepender-se e a examinar as escrituras.
 

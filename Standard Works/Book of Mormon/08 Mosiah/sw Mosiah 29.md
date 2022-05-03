@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 29
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mosiah proposes that judges be chosen in place of a king—Unrighteous kings lead their people into sin—Alma the younger is chosen chief judge by the voice of the people—He is also the high priest over the Church—Alma the elder and Mosiah die. About 92–91 B.C.
 
----
 ###### 1 
 Now when Mosiah had done this he sent out throughout all the land, among all the people, desiring to know their will concerning who should be their king.
 

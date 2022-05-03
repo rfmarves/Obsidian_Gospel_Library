@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 3
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Giddianhi, the Gadianton leader, demands that Lachoneus and the Nephites surrender themselves and their lands—Lachoneus appoints Gidgiddoni as chief captain of the armies—The Nephites assemble in Zarahemla and Bountiful to defend themselves. About A.D. 16–18.
 
----
 ###### 1 
 And now it came to pass that in the sixteenth year from the coming of Christ, Lachoneus, the governor of the land, received an epistle from the leader and the governor of this band of robbers; and these were the words which were written, saying:
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 26
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 26
 [[2 Crônicas 25| <-- 2 Crônicas 25]] | [[2 Crônicas]] | [[2 Crônicas 27|2 Crônicas 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Uzias reina e prospera enquanto guarda os mandamentos — Ele transgride, tenta queimar incenso sobre o altar e é amaldiçoado com lepra.
 
----
 ###### 1 
 Então todo o povo tomou Uzias, que  da idade de dezesseis anos, e o fizeram rei em lugar de seu pai Amazias.
 

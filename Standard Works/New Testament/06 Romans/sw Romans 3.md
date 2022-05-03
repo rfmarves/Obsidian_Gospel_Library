@@ -1,10 +1,11 @@
 ---
 title: sw Romans 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Man is not justified by the law of Moses—He is justified through righteousness, which comes through faith in Christ, made possible through Christ’s atoning sacrifice.
 
----
 ###### 1 
 What advantage then hath the Jew? or what profit  of circumcision?
 

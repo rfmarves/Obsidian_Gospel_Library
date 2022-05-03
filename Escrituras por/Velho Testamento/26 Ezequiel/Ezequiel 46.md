@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 46
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 46
 [[Ezequiel 45| <-- Ezequiel 45]] | [[Ezequiel]] | [[Ezequiel 47|Ezequiel 47 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/46?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/46?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Explicam-se as ordenanças de adoração e sacrifício.
 
----
 ###### 1 
 Assim diz o Senhor : A porta do átrio interior, que dá para o oriente, estará fechada durante os seis dias  de trabalho; porém no dia do sábado ela se abrirá; também no dia da lua nova se abrirá.
 

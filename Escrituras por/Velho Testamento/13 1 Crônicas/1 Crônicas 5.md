@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 5
 [[1 Crônicas 4| <-- 1 Crônicas 4]] | [[1 Crônicas]] | [[1 Crônicas 6|1 Crônicas 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de José recebem a primogenitura de Rúben — Judá e seus descendentes tornam-se governantes em Israel — A linhagem de Rúben até o cativeiro é mencionada — Os assírios levam cativos os rubenitas, os gaditas e metade de Manassés.
 
----
 ###### 1 
 Quanto aos filhos de Rúben, o primogênito de Israel; (porque ele  o primogênito, mas porque profanara a cama de seu pai, deu-se a sua primogenitura aos filhos de José, filho de Israel; para assim não ser contado na genealogia da primogenitura.
 

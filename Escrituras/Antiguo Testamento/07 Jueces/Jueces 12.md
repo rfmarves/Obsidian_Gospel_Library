@@ -1,22 +1,21 @@
 ---
 title: Jueces 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 12
 [[Jueces 11| <-- Jueces 11]] | [[Jueces]] | [[Jueces 13|Jueces 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los galaaditas matan a cuarenta y dos mil de los de Efraín — Jefté, Ibzán, Elón y Abdón juzgan a Israel consecutivamente.
 
----
 ###### 1 
 Y se convocó a los hombres de Efraín, y pasaron hacia el norte y dijeron a Jefté: ¿Por qué fuiste a hacer la guerra contra los hijos de Amón y no nos llamaste para que fuéramos contigo? Nosotros quemaremos a fuego tu casa contigo dentro.
 

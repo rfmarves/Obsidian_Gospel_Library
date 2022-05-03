@@ -1,10 +1,11 @@
 ---
 title: sw Luke 21
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus foretells the destruction of the temple and of Jerusalem—He tells of the signs to precede His Second Coming and gives the parable of the fig tree.
 
----
 ###### 1 
 And he looked up, and saw the rich men casting their gifts into the treasury.
 

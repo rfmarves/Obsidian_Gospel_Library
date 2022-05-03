@@ -1,22 +1,21 @@
 ---
 title: Eclesiastés 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastés 7
 [[Eclesiastés 6| <-- Eclesiastés 6]] | [[Eclesiastés]] | [[Eclesiastés 8|Eclesiastés 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La sabiduría da vida a los que la poseen — Todos los hombres son pecadores — Dios ha hecho recto al hombre.
 
----
 ###### 1 
 
 

@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 43
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 43
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/43?lang=eng)
 
----
-__Summary__
+> __Summary__
 Johanan carries Jeremiah and the remnant of Judah into Egypt—Jeremiah prophesies that Babylon will conquer Egypt.
 
----
 ###### 1 
 And it came to pass,  when Jeremiah had made an end of speaking unto all the people all the words of the  their God, for which the  their God had sent him to them,  all these words,
 

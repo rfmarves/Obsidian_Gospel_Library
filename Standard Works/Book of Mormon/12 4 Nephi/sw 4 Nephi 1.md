@@ -1,10 +1,11 @@
 ---
 title: sw 4 Nephi 1
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 4 Nephi 1
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/4-ne/1?lang=eng)
 
----
+```
 An account of the people of Nephi, according to his record.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The Nephites and the Lamanites are all converted unto the Lord—They have all things in common, work miracles, and prosper in the land—After two centuries, divisions, evils, false churches, and persecutions arise—After three hundred years, both the Nephites and the Lamanites are wicked—Ammaron hides up the sacred records. About A.D. 35–321.
 
----
 ###### 1 
 And it came to pass that the thirty and fourth year passed away, and also the thirty and fifth, and behold the disciples of Jesus had formed a church of Christ in all the lands round about. And as many as did come unto them, and did truly repent of their sins, were baptized in the name of Jesus; and they did also receive the Holy Ghost.
 

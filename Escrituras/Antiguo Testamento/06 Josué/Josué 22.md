@@ -1,22 +1,21 @@
 ---
 title: Josué 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 22
 [[Josué 21| <-- Josué 21]] | [[Josué]] | [[Josué 23|Josué 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Las dos tribus y media son despedidas con una bendición — Estas edifican un altar de testimonio a orillas del Jordán para mostrar que son el pueblo del Jehová — No es un altar para sacrificios ni para holocaustos.
 
----
 ###### 1 
 Entonces Josué llamó a los rubenitas y a los gaditas, y a la media tribu de Manasés,
 

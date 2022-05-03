@@ -1,22 +1,21 @@
 ---
 title: Colosenses 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Colosenses 1
 [[Filipenses 4| <-- Filipenses 4]] | [[Colosenses]] | [[Colosenses 2|Colosenses 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/col/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/col/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La redención viene por medio de Cristo — Él creó todas las cosas, es la imagen de Dios y es el Primogénito del Padre.
 
----
 ###### 1 
 Pablo, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,
 

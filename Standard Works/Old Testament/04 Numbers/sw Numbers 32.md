@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 32
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 32
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/32?lang=eng)
 
----
-__Summary__
+> __Summary__
 Reuben, Gad, and half the tribe of Manasseh receive their inheritances east of the Jordan—They covenant to join other tribes in conquering Canaan.
 
----
 ###### 1 
 Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place  a place for cattle;
 

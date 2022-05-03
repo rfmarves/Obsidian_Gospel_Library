@@ -1,27 +1,25 @@
 ---
 title: Alma 17
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 17
 [[Alma 16| <-- Alma 16]] | [[Alma]] | [[Alma 18|Alma 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=spa)
 
----
+```
 Una relación de los hijos de Mosíah, que renunciaron a sus derechos al reino por la palabra de Dios y subieron a la tierra de Nefi para predicar a los lamanitas; sus padecimientos y liberación, según los anales de Alma.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Los hijos de Mosíah tienen el espíritu de profecía y de revelación — Cada cual va por su propio camino para declarar la palabra a los lamanitas — Ammón va a la tierra de Ismael y se hace siervo del rey Lamoni — Ammón salva los rebaños del rey y mata a los enemigos de este junto a las aguas de Sebús. Versículos 1–3, aproximadamente 77 a.C.; versículo 4, aproximadamente 91–77 a.C.; y versículos 5–39, aproximadamente 91 a.C.
 
----
 ###### 1 
 Y aconteció que mientras Alma iba viajando hacia el sur, de la tierra de Gedeón a la tierra de Manti, he aquí, para asombro suyo, encontró a los hijos de Mosíah que viajaban hacia la tierra de Zarahemla.
 

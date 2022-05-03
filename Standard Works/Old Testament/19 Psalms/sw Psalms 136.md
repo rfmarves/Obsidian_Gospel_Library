@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 136
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 136
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/136?lang=eng)
 
----
-__Summary__
+> __Summary__
 Give thanks unto God for all things, for His mercy endures forever.
 
----
 ###### 1 
 O give thanks unto the ; for  good: for his mercy  for ever.
 

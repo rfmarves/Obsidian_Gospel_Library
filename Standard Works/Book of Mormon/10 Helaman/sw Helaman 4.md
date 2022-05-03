@@ -1,10 +1,11 @@
 ---
 title: sw Helaman 4
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Helaman 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nephite dissenters and the Lamanites join forces and take the land of Zarahemla—The Nephites’ defeats come because of their wickedness—The Church dwindles, and the people become weak like the Lamanites. About 38–30 B.C.
 
----
 ###### 1 
 And it came to pass in the fifty and fourth year there were many dissensions in the church, and there was also a contention among the people, insomuch that there was much bloodshed.
 

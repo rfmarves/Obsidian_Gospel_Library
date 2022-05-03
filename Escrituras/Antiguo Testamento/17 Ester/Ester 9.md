@@ -1,22 +1,21 @@
 ---
 title: Ester 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 9
 [[Ester 8| <-- Ester 8]] | [[Ester]] | [[Ester 10|Ester 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los judíos matan a sus enemigos, entre ellos a los diez hijos de Amán — Se instituye la fiesta de Purim para conmemorar su liberación y su victoria.
 
----
 ###### 1 
 Y en el mes duodécimo, que es el mes de Adar, el día trece del mismo mes, en el que debía ejecutarse el mandato del rey y su decreto, el mismo día en que esperaban los enemigos de los judíos enseñorearse de ellos, sucedió lo contrario; porque los judíos se enseñorearon de los que los aborrecían.
 

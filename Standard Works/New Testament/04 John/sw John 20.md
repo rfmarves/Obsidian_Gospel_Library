@@ -1,10 +1,11 @@
 ---
 title: sw John 20
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mary Magdalene, Peter, and John find the empty tomb—The risen Christ appears to Mary Magdalene in the garden—He appears to the disciples and shows His resurrected body—Thomas feels the wounds in Jesus’ hands, feet, and side—Jesus is the Christ, the Son of God.
 
----
 ###### 1 
 The first  of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.
 

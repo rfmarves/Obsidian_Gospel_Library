@@ -1,22 +1,21 @@
 ---
 title: Joel 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Joel 3
 [[Joel 2| <-- Joel 2]] | [[Joel]] | [[Amós 1|Amós 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/joel/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/joel/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Todas las naciones estarán en guerra — Multitudes se congregan en el valle de la decisión al acercarse la Segunda Venida — Jehová morará en Sion.
 
----
 ###### 1 
 Porque he aquí que en aquellos días y en aquel tiempo en que haré volver a los cautivos de Judá y de Jerusalén,
 

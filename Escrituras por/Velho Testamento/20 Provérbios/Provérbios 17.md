@@ -1,22 +1,21 @@
 ---
 title: Provérbios 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 17
 [[Provérbios 16| <-- Provérbios 16]] | [[Provérbios]] | [[Provérbios 18|Provérbios 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O que se alegra com a calamidade será punido — O amigo ama em todo o tempo — Até o tolo, quando se cala, é reputado por sábio.
 
----
 ###### 1 
 Melhor  um bocado seco, e com ele a tranquilidade, do que a casa cheia de carne, com contenda.
 

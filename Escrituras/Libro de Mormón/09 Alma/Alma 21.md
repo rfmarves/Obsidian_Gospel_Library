@@ -1,27 +1,25 @@
 ---
 title: Alma 21
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 21
 [[Alma 20| <-- Alma 20]] | [[Alma]] | [[Alma 22|Alma 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/21?lang=spa)
 
----
+```
 Una relación de la predicación de Aarón y Muloki y sus compañeros entre los lamanitas.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Aarón enseña a los amalekitas acerca de Cristo y Su expiación — Aarón y sus hermanos son encarcelados en Middoni — Después de ser librados, enseñan en las sinagogas y logran convertir a muchas personas — Lamoni concede la libertad religiosa al pueblo en la tierra de Ismael. Aproximadamente 90–77 a.C.
 
----
 ###### 1 
 Ahora bien, cuando Ammón y sus hermanos se separaron en las fronteras de la tierra de los lamanitas, he aquí que Aarón emprendió su viaje a la tierra que los lamanitas llamaban Jerusalén, nombre dado en memoria del país natal de sus padres; y se encontraba allá, en las fronteras de Mormón.
 

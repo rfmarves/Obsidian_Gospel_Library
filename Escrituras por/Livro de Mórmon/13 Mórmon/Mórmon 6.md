@@ -1,22 +1,21 @@
 ---
 title: Mórmon 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mórmon 6
 [[Mórmon 5| <-- Mórmon 5]] | [[Mórmon]] | [[Mórmon 7|Mórmon 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os nefitas reúnem-se na terra de Cumora para as batalhas finais — Mórmon esconde os registros sagrados no monte Cumora — Os lamanitas saem vitoriosos e a nação nefita é destruída — Centenas de milhares são mortos pela espada. Aproximadamente 385 d.C.
 
----
 ###### 1 
 E agora termino meu relato concernente à destruição de meu povo, os nefitas. E aconteceu que marchamos adiante dos lamanitas.
 

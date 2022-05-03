@@ -1,22 +1,21 @@
 ---
 title: Éxodo 24
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 24
 [[Éxodo 23| <-- Éxodo 23]] | [[Éxodo]] | [[Éxodo 25|Éxodo 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel acepta la palabra de Jehová por convenio — Moisés rocía la sangre del convenio — Moisés, Aarón, Nadab, Abiú y setenta élderes de Israel ven a Dios — Jehová llama a Moisés al monte para recibir las tablas de piedra y los mandamientos.
 
----
 ###### 1 
 Y dijo a Moisés: Sube ante Jehová, tú, y Aarón, Nadab, y Abiú y setenta de los ancianos de Israel; y os inclinaréis desde lejos.
 

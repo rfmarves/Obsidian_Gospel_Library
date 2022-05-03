@@ -1,10 +1,11 @@
 ---
 title: sw Hosea 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hosea 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel has plowed wickedness and reaped iniquity—Hosea calls upon Israel to seek the Lord.
 
----
 ###### 1 
 Israel  an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images.
 

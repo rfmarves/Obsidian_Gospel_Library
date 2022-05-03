@@ -1,22 +1,21 @@
 ---
 title: DeC 34
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 34
 [[DeC 33| <-- DeC 33]] | [[DeC]] | [[DeC 35|DeC 35 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/34?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/34?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, Os fiéis tornam-se filhos de Deus por meio da Expiação; 5–9, A pregação do evangelho prepara o caminho para a Segunda Vinda; 10–12, Profecias são dadas pelo poder do Espírito Santo.
 
----
 ###### 1 
 Meu filho Orson, escuta, ouve e considera o que te direi eu, o Senhor Deus, Jesus Cristo, teu Redentor;
 

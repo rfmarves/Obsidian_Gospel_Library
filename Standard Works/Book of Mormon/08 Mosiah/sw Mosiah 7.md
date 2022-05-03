@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 7
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ammon finds the land of Lehi-Nephi, where Limhi is king—Limhi’s people are in bondage to the Lamanites—Limhi recounts their history—A prophet (Abinadi) had testified that Christ is the God and Father of all things—Those who sow filthiness reap the whirlwind, and those who put their trust in the Lord will be delivered. About 121 B.C.
 
----
 ###### 1 
 And now, it came to pass that after king Mosiah had had continual peace for the space of three years, he was desirous to know concerning the people who went up to dwell in the land of Lehi-Nephi, or in the city of Lehi-Nephi; for his people had heard nothing from them from the time they left the land of Zarahemla; therefore, they wearied him with their teasings.
 

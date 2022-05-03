@@ -1,22 +1,21 @@
 ---
 title: Isaías 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 9
 [[Isaías 8| <-- Isaías 8]] | [[Isaías]] | [[Isaías 10|Isaías 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Isaías fala a respeito do Messias — O povo que andava em trevas verá uma grande Luz — Um menino nos nasceu — Ele será o Príncipe da Paz e reinará no trono de Davi — Comparar com 2 Néfi 19.
 
----
 ###### 1 
 Mas  que foi angustiada, não será entenebrecida; ele envileceu, nos primeiros tempos, a terra de Zebulom, e a terra de Naftali; mas nos últimos  enobreceu junto ao caminho do mar, de além do Jordão, na Galileia dos gentios.
 

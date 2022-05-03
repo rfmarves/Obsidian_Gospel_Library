@@ -1,10 +1,11 @@
 ---
 title: sw D&C 90
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 90
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/90?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, The keys of the kingdom are committed to Joseph Smith and through him to the Church; 6–7, Sidney Rigdon and Frederick G. Williams are to serve in the First Presidency; 8–11, The gospel is to be preached to the nations of Israel, to the Gentiles, and to the Jews, every man hearing in his own tongue; 12–18, Joseph Smith and his counselors are to set the Church in order; 19–37, Various individuals are counseled by the Lord to walk uprightly and serve in His kingdom.
 
----
 ###### 1 
 Thus saith the Lord, verily, verily I say unto you my son, thy sins are forgiven thee, according to thy petition, for thy prayers and the prayers of thy brethren have come up into my ears.
 

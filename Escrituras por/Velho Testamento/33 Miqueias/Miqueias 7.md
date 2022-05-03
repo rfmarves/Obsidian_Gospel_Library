@@ -1,22 +1,21 @@
 ---
 title: Miqueias 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Miqueias 7
 [[Miqueias 6| <-- Miqueias 6]] | [[Miqueias]] | [[Naum 1|Naum 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/micah/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/micah/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Embora o povo de Israel tenha se rebelado, nos últimos dias o Senhor terá misericórdia deles — Ele terá compaixão e perdoará as suas iniquidades.
 
----
 ###### 1 
 Ai de mim! Porque estou feito como quando se tem colhido as frutas do verão, como os respigos da vindima; não  cacho de uvas para comer; a minha alma desejou figos temporãos.
 

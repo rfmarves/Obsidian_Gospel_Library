@@ -1,22 +1,21 @@
 ---
 title: DeC 50
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 50
 [[DeC 49| <-- DeC 49]] | [[DeC]] | [[DeC 51|DeC 51 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, Muitos espíritos falsos estão espalhados pela Terra; 6–9, Ai dos hipócritas e dos que são expulsos da Igreja; 10–14, Os élderes devem pregar o evangelho pelo Espírito; 15–22, Tanto os pregadores quanto os ouvintes precisam ser iluminados pelo Espírito; 23–25, Aquilo que não edifica não é de Deus; 26–28, Os fiéis são possuidores de todas as coisas; 29–36, As preces dos purificados são respondidas; 37–46, Cristo é o Bom Pastor e a Pedra de Israel.
 
----
 ###### 1 
 Escutai, ó élderes da minha igreja, e dai ouvidos à voz do Deus vivo; e atentai para as palavras de sabedoria que vos serão dadas, segundo o que haveis perguntado e concordado com relação à igreja e aos espíritos que estão espalhados pela Terra.
 

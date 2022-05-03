@@ -1,22 +1,21 @@
 ---
 title: Alma 58
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 58
 [[Alma 57| <-- Alma 57]] | [[Alma]] | [[Alma 59|Alma 59 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/58?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/58?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Helamã, Gide e Teômner tomam a cidade de Mânti por meio de um estratagema — Os lamanitas retiram-se — Os filhos do povo de Amon permanecem firmes na defesa de sua liberdade e fé e são preservados. Aproximadamente 63–62 a.C.
 
----
 ###### 1 
 E eis que então aconteceu que nosso objetivo seguinte era conquistar a cidade de Mânti; mas eis que não houve meio de fazê-los sair da cidade com nossas pequenas tropas. Pois eis que se lembravam do que nós havíamos feito antes; portanto, não conseguimos atraí-los para fora de suas fortalezas.
 

@@ -1,22 +1,21 @@
 ---
 title: Jueces 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 15
 [[Jueces 14| <-- Jueces 14]] | [[Jueces]] | [[Jueces 16|Jueces 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Sansón quema las mieses de los filisteos — Estos queman a su esposa y a su suegro — Sansón mata a mil filisteos en Lehi con una quijada de asno.
 
----
 ###### 1 
 Y aconteció después de algún tiempo, en los días de la siega del trigo, que Sansón visitó a su esposa con un cabrito y dijo: Me llegaré a mi esposa en la alcoba. Pero el padre de ella no lo dejó entrar.
 

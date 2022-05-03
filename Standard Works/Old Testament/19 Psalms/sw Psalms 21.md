@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 21
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/21?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A messianic psalm of David—He tells of the glory of the great King—The King will triumph over all His enemies—Their evil designs will fail.
 
----
 ###### 1 
 The king shall joy in thy strength, O ; and in thy salvation how greatly shall he rejoice!
 

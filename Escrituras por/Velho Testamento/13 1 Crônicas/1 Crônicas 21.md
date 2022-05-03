@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 21
 [[1 Crônicas 20| <-- 1 Crônicas 20]] | [[1 Crônicas]] | [[1 Crônicas 22|1 Crônicas 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi peca ao contar Israel — O Senhor envia uma peste sobre o povo — Davi oferece sacrifícios, e a praga é detida.
 
----
 ###### 1 
 Então Satanás se levantou contra Israel, e incitou Davi a contar Israel.
 

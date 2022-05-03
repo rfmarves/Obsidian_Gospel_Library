@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 23
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus approves the words of Isaiah—He commands the people to search the prophets—The words of Samuel the Lamanite concerning the Resurrection are added to their records. About A.D. 34.
 
----
 ###### 1 
 And now, behold, I say unto you, that ye ought to search these things. Yea, a commandment I give unto you that ye search these things diligently; for great are the words of Isaiah.
 

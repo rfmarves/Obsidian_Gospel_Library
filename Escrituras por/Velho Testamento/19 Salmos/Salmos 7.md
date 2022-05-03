@@ -1,27 +1,25 @@
 ---
 title: Salmos 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 7
 [[Salmos 6| <-- Salmos 6]] | [[Salmos]] | [[Salmos 8|Salmos 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/7?lang=por)
 
----
+```
 aSigaiom de Davi que cantou ao Senhor, sobre as palavras de Cuxe, benjamita.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi confia no Senhor, que julgará o povo — Deus se ira com os iníquos.
 
----
 ###### 1 
  meu Deus, em ti confio; salva-me de todos os que me perseguem, e livra-me;
 

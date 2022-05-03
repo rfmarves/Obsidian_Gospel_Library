@@ -1,22 +1,21 @@
 ---
 title: Mateo 27
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 27
 [[Mateo 26| <-- Mateo 26]] | [[Mateo]] | [[Mateo 28|Mateo 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús es acusado y condenado ante Pilato — Se libera a Barrabás — Jesús es escarnecido y crucificado, y sepultado en la tumba de José de Arimatea.
 
----
 ###### 1 
 Y cuando llegó la mañana, todos los principales sacerdotes y los ancianos del pueblo entraron en consejo contra Jesús, para entregarle a muerte.
 

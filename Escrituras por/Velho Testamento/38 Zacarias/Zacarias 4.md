@@ -1,22 +1,21 @@
 ---
 title: Zacarias 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarias 4
 [[Zacarias 3| <-- Zacarias 3]] | [[Zacarias]] | [[Zacarias 5|Zacarias 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Zorobabel lançará os alicerces da casa do Senhor, o templo de Zorobabel, e terminará de construí-la.
 
----
 ###### 1 
 E retornou o anjo que falava comigo, e me despertou, como a  homem que se desperta do seu sono.
 

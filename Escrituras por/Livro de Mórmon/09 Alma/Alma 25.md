@@ -1,22 +1,21 @@
 ---
 title: Alma 25
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 25
 [[Alma 24| <-- Alma 24]] | [[Alma]] | [[Alma 26|Alma 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Aumentam as agressões lamanitas — A semente dos sacerdotes de Noé perece, conforme Abinádi profetizara — Muitos lamanitas são convertidos e juntam-se ao povo de Ânti-Néfi-Leí — Eles creem em Cristo e guardam a lei de Moisés. Aproximadamente 90–77 a.C.
 
----
 ###### 1 
 E eis que então aconteceu que aqueles lamanitas ficaram mais zangados porque haviam matado seus irmãos; portanto, juraram vingança contra os nefitas e não mais tentaram matar o povo de Ânti-Néfi-Leí naquela ocasião.
 

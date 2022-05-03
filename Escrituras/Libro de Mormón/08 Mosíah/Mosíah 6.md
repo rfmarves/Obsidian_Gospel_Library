@@ -1,22 +1,21 @@
 ---
 title: Mosíah 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 6
 [[Mosíah 5| <-- Mosíah 5]] | [[Mosíah]] | [[Mosíah 7|Mosíah 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El rey Benjamín registra los nombres de los del pueblo y nombra sacerdotes para que les enseñen — Mosíah reina como rey justo. Aproximadamente 124–121 a.C.
 
----
 ###### 1 
 Y ahora bien, el rey Benjamín consideró prudente, después de haber acabado de hablar al pueblo, tomar los nombres de todos los que habían hecho convenio con Dios de guardar sus mandamientos.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 7
 [[2 Crônicas 6| <-- 2 Crônicas 6]] | [[2 Crônicas]] | [[2 Crônicas 8|2 Crônicas 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Desce fogo do céu e consome os sacrifícios e holocaustos — O Senhor aparece a Salomão e promete abençoar o povo — Os israelitas prosperarão se guardarem os mandamentos.
 
----
 ###### 1 
 E acabando Salomão de orar, desceu o fogo do céu, e consumiu o holocausto e os sacrifícios; e a glória do  encheu a casa.
 

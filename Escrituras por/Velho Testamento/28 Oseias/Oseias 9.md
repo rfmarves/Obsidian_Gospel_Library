@@ -1,22 +1,21 @@
 ---
 title: Oseias 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseias 9
 [[Oseias 8| <-- Oseias 8]] | [[Oseias]] | [[Oseias 10|Oseias 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo de Israel é levado em cativeiro por seus pecados — Efraim será um errante entre as nações.
 
----
 ###### 1 
 Não te alegres, ó Israel, não exultes, como os povos; porque pela prostituição abandonaste o teu Deus; amaste a paga  sobre todas as eiras de trigo.
 

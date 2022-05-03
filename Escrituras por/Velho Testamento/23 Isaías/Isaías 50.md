@@ -1,22 +1,21 @@
 ---
 title: Isaías 50
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 50
 [[Isaías 49| <-- Isaías 49]] | [[Isaías]] | [[Isaías 51|Isaías 51 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/50?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/50?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Isaías fala como se fosse o Messias — O Messias terá uma língua erudita — Ele oferecerá as costas aos que O ferem — Ele não será confundido — Comparar com 2 Néfi 7.
 
----
 ###### 1 
 Assim diz o : Onde está esse libelo de divórcio de vossa mãe, pelo qual eu a repudiei? Ou quem  o meu credor, a quem eu vos tenha vendido? Eis que por vossas maldades fostes vendidos, e por vossas transgressões vossa mãe foi repudiada.
 

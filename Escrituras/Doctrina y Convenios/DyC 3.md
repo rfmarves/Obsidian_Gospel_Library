@@ -1,22 +1,21 @@
 ---
 title: DyC 3
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 3
 [[DyC 2| <-- DyC 2]] | [[DyC]] | [[DyC 4|DyC 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, La vía del Señor es un giro eterno; 5–15, José Smith debe arrepentirse o perderá el don de traducir; 16–20, El Libro de Mormón sale a luz para salvar a la posteridad de Lehi.
 
----
 ###### 1 
 Las obras, los designios y los propósitos de Dios no se pueden frustrar ni tampoco pueden reducirse a la nada.
 

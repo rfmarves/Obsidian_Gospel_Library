@@ -1,22 +1,21 @@
 ---
 title: Gênesis 47
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 47
 [[Gênesis 46| <-- Gênesis 46]] | [[Gênesis]] | [[Gênesis 48|Gênesis 48 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/47?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/47?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os israelitas se estabelecem em Gósen — Jacó abençoa Faraó — José vende trigo aos egípcios — Faraó recebe o gado e as terras dos egípcios — Jacó deseja ser sepultado com seus pais em Canaã.
 
----
 ###### 1 
 Então foi José, e anunciou a Faraó, e disse: Meu pai, e os meus irmãos, e as suas ovelhas, e as suas vacas, com tudo o que têm, vieram da terra de Canaã, e eis que  na terra de Gósen.
 

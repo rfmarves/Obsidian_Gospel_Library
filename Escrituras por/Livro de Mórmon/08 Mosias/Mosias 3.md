@@ -1,22 +1,21 @@
 ---
 title: Mosias 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 3
 [[Mosias 2| <-- Mosias 2]] | [[Mosias]] | [[Mosias 4|Mosias 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O rei Benjamim continua seu discurso — O Senhor Onipotente ministrará entre os homens num tabernáculo de barro — De todos os seus poros sairá sangue quando Ele expiar os pecados do mundo — Seu nome é o único pelo qual se alcança a salvação — Os homens podem despojar-se do homem natural e tornar-se santos, por meio da Expiação — O tormento dos iníquos será como um lago de fogo e enxofre. Aproximadamente 124 a.C.
 
----
 ###### 1 
 E quero chamar a vossa atenção mais uma vez, meus irmãos, porque ainda tenho algo mais para vos dizer; pois eis que tenho coisas para vos dizer sobre o que deverá acontecer.
 

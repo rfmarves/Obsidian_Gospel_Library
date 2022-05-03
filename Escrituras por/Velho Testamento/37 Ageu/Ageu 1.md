@@ -1,22 +1,21 @@
 ---
 title: Ageu 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ageu 1
 [[Sofonias 3| <-- Sofonias 3]] | [[Ageu]] | [[Ageu 2|Ageu 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hag/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hag/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ageu exorta o povo a construir o templo.
 
----
 ###### 1 
 No ano segundo do rei Dario, no sexto mês, no primeiro dia do mês, veio a palavra do , pelo ministério do profeta Ageu, a Zorobabel, filho de Sealtiel, príncipe de Judá, e a Josué, filho de Josadaque, o sumo sacerdote, dizendo:
 

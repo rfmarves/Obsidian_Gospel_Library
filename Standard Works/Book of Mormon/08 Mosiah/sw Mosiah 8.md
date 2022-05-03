@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 8
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ammon teaches the people of Limhi—He learns of the twenty-four Jaredite plates—Ancient records can be translated by seers—No gift is greater than seership. About 121 B.C.
 
----
 ###### 1 
 And it came to pass that after king Limhi had made an end of speaking to his people, for he spake many things unto them and only a few of them have I written in this book, he told his people all the things concerning their brethren who were in the land of Zarahemla.
 

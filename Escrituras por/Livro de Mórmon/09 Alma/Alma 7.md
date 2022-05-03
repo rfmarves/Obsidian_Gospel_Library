@@ -1,27 +1,25 @@
 ---
 title: Alma 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 7
 [[Alma 6| <-- Alma 6]] | [[Alma]] | [[Alma 8|Alma 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=por)
 
----
+```
 Palavras de Alma ao povo de Gideão, segundo seu próprio registro.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Cristo nascerá de Maria — Ele soltará as ligaduras da morte e carregará os pecados de Seu povo — Aqueles que se arrependerem, forem batizados e guardarem os mandamentos terão vida eterna — A imundície não pode herdar o reino de Deus — Requer-se humildade, fé, esperança e caridade. Aproximadamente 83 a.C.
 
----
 ###### 1 
 Eis que, meus amados irmãos, já que me foi permitido vir até vós, tentarei, portanto, falar-vos em minha linguagem; sim, de minha própria boca, sendo que é a primeira vez que vos falo com as palavras de minha boca, pois tenho estado completamente restrito à cadeira de juiz, com tantos deveres que não me foi possível vir até vós.
 

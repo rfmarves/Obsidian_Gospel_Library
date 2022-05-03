@@ -1,22 +1,21 @@
 ---
 title: Jeremias 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 14
 [[Jeremias 13| <-- Jeremias 13]] | [[Jeremias]] | [[Jeremias 15|Jeremias 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias ora por causa da seca e da fome — O Senhor não ouvirá por causa da iniquidade de Seu povo.
 
----
 ###### 1 
 A palavra do , que veio a Jeremias, acerca da grande seca.
 

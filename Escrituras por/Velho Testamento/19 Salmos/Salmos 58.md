@@ -1,27 +1,25 @@
 ---
 title: Salmos 58
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 58
 [[Salmos 57| <-- Salmos 57]] | [[Salmos]] | [[Salmos 59|Salmos 59 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/58?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/58?lang=por)
 
----
+```
 Mictão de Davi para o músico-mor, Al-Tachete.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi repreende os juízes iníquos — Eles se perdem e dizem mentiras.
 
----
 ###### 1 
 Acaso falais vós deveras a justiça, ó congregação? Julgais retamente, ó filhos dos homens?
 

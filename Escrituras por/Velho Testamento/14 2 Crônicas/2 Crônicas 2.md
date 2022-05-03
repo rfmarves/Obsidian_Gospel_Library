@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 2
 [[2 Crônicas 1| <-- 2 Crônicas 1]] | [[2 Crônicas]] | [[2 Crônicas 3|2 Crônicas 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Salomão contrata Hurão de Tiro para fornecer madeira para o templo — Os trabalhadores são organizados para realizar a obra.
 
----
 ###### 1 
 E determinou Salomão edificar uma casa ao nome do , como também  casa para o seu reino.
 

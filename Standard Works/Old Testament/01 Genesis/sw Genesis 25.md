@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abraham marries, has descendants, dies, and is buried in the cave of Machpelah—His descendants through Ishmael are listed—Rebekah conceives, and Jacob and Esau struggle in her womb—The Lord reveals their destiny to Rebekah—Esau sells his birthright for a mess of pottage.
 
----
 ###### 1 
 Then again Abraham took a wife, and her name  Keturah.
 

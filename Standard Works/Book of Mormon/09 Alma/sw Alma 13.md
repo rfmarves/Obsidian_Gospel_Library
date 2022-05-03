@@ -1,10 +1,11 @@
 ---
 title: sw Alma 13
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Men are called as high priests because of their exceeding faith and good works—They are to teach the commandments—Through righteousness they are sanctified and enter into the rest of the Lord—Melchizedek was one of these—Angels are declaring glad tidings throughout the land—They will declare the actual coming of Christ. About 82 B.C.
 
----
 ###### 1 
 And again, my brethren, I would cite your minds forward to the time when the Lord God gave these commandments unto his children; and I would that ye should remember that the Lord God ordained priests, after his holy order, which was after the order of his Son, to teach these things unto the people.
 

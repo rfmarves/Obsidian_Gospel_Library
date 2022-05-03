@@ -1,22 +1,21 @@
 ---
 title: DyC 60
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 60
 [[DyC 59| <-- DyC 59]] | [[DyC]] | [[DyC 61|DyC 61 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/60?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/60?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–9, Los élderes han de predicar el Evangelio entre las congregaciones de los inicuos; 10–14, No deben desperdiciar el tiempo, ni esconder sus talentos; 15–17, Pueden lavar sus pies como testimonio en contra de aquellos que rechacen el Evangelio.
 
----
 ###### 1 
 He aquí, así dice el Señor a los élderes de su iglesia que han de volver con presteza a la tierra de donde vinieron: He aquí, me complace que hayáis venido acá;
 

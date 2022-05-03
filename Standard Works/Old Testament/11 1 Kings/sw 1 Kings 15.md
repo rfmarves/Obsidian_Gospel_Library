@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abijam reigns in wickedness and then Asa reigns in righteousness in Judah—Nadab and then Baasha reign in wickedness in Israel—Baasha destroys the house of Jeroboam.
 
----
 ###### 1 
 Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah.
 

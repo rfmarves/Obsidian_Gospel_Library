@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 18
 [[1 Reis 17| <-- 1 Reis 17]] | [[1 Reis]] | [[1 Reis 19|1 Reis 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Elias, o profeta, é enviado a Acabe — Obadias salva cem profetas e se encontra com Elias, o profeta — Elias desafia os profetas de Baal a invocarem fogo dos céus — Eles falham — Elias faz cair fogo, mata os profetas de Baal e abre os céus para que chova.
 
----
 ###### 1 
 E sucedeu que,  de muitos dias, a palavra do  veio a Elias no terceiro ano, dizendo: Vai, mostra-te a Acabe; e darei chuva sobre a terra.
 

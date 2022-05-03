@@ -1,22 +1,21 @@
 ---
 title: Jacob 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jacob 5
 [[Jacob 4| <-- Jacob 4]] | [[Jacob]] | [[Jacob 6|Jacob 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob cita las palabras de Zenós en cuanto a la alegoría del olivo cultivado y el olivo silvestre — Estos son una similitud de Israel y los gentiles — Se representan el esparcimiento y el recogimiento de Israel — Se hacen alusiones a los nefitas y a los lamanitas y a toda la casa de Israel — Los gentiles serán injertados en Israel — Finalmente la viña será quemada. Aproximadamente 544–421 a.C.
 
----
 ###### 1 
 He aquí, hermanos míos, ¿no os acordáis de haber leído las palabras del profeta Zenós, las cuales habló a la casa de Israel, diciendo:
 

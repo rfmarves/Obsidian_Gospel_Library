@@ -1,22 +1,21 @@
 ---
 title: Levítico 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 22
 [[Levítico 21| <-- Levítico 21]] | [[Levítico]] | [[Levítico 23|Levítico 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Descreve-se quem dos sacerdotes e de suas famílias pode comer das coisas sagradas — Os animais para sacrifício devem ser perfeitos e sem defeito.
 
----
 ###### 1 
 Falou mais o  a Moisés, dizendo:
 

@@ -1,22 +1,21 @@
 ---
 title: Hechos 11
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 11
 [[Hechos 10| <-- Hechos 10]] | [[Hechos]] | [[Hechos 12|Hechos 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dios concede a los gentiles el don del arrepentimiento — Los discípulos son llamados cristianos por primera vez en Antioquía — La Iglesia es guiada por revelación.
 
----
 ###### 1 
 Y oyeron los apóstoles y los hermanos que estaban en Judea que también los gentiles habían recibido la palabra de Dios.
 

@@ -1,22 +1,21 @@
 ---
 title: DeC 21
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 21
 [[DeC 20| <-- DeC 20]] | [[DeC]] | [[DeC 22|DeC 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, Joseph Smith é chamado para ser vidente, tradutor, profeta, apóstolo e élder; 4–8, Sua palavra guiará a causa de Sião; 9–12, Os santos acreditarão nas palavras dele, quando falar por meio do Consolador.
 
----
 ###### 1 
 Eis que um registro será escrito entre vós; e nele serás chamado vidente, tradutor, profeta, apóstolo de Jesus Cristo, élder da igreja pela vontade de Deus, o Pai, e pela graça de vosso Senhor Jesus Cristo,
 

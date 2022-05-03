@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 22
 [[1 Reis 21| <-- 1 Reis 21]] | [[1 Reis]] | [[2 Reis 1|2 Reis 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Josafá, de Judá, e Acabe, de Israel, unem forças contra a Síria — Os profetas de Acabe predizem sucesso — Micaías prediz a derrota e a morte de Acabe — Acabe é morto, e cães lambem o seu sangue — Josafá reina em retidão em Judá — Acazias reina em Israel e serve Baal.
 
----
 ###### 1 
 E estiveram quietos três anos, não havendo guerra entre Síria e Israel.
 

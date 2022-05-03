@@ -1,22 +1,21 @@
 ---
 title: Job 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 9
 [[Job 8| <-- Job 8]] | [[Job]] | [[Job 10|Job 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Job reconoce la justicia y la grandeza de Dios y concluye que el hombre no puede contender con Él.
 
----
 ###### 1 
 Y respondió Job y dijo:
 

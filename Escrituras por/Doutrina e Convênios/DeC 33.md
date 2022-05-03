@@ -1,22 +1,21 @@
 ---
 title: DeC 33
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 33
 [[DeC 32| <-- DeC 32]] | [[DeC]] | [[DeC 34|DeC 34 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/33?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/33?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, São chamados trabalhadores para proclamar o evangelho na décima primeira hora; 5–6, A Igreja é estabelecida e os eleitos deverão ser reunidos; 7–10, Arrependei-vos, pois o reino do céu está próximo; 11–15, A Igreja é edificada sobre a rocha do evangelho; 16–18, Preparai-vos para a vinda do Esposo.
 
----
 ###### 1 
 Eis que vos digo, meus servos Ezra e Northrop: Abri os ouvidos e atendei à voz do Senhor vosso Deus, cuja palavra é viva e poderosa, mais penetrante que uma espada de dois gumes, que penetra até dividir as juntas e medulas, alma e espírito; e discerne os pensamentos e as intenções do coração.
 

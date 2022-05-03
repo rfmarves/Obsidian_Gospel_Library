@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 21
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Those who overcome will be sons of God—The earth attains its celestial glory.
 
----
 ###### 1 
 And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.
 

@@ -1,22 +1,21 @@
 ---
 title: Romanos 7
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 7
 [[Romanos 6| <-- Romanos 6]] | [[Romanos]] | [[Romanos 8|Romanos 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A lei de Moisés se cumpre em Cristo — Paulo se deleita na lei de Deus segundo o homem interior.
 
----
 ###### 1 
 Não sabeis vós, irmãos (pois que falo aos que sabem a lei), que a lei tem domínio sobre o homem por todo o tempo que vive?
 

@@ -1,22 +1,21 @@
 ---
 title: Mateo 10
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 10
 [[Mateo 9| <-- Mateo 9]] | [[Mateo]] | [[Mateo 11|Mateo 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús instruye y autoriza a los Doce Apóstoles y los envía a predicar, ministrar y sanar a los enfermos — Quienes reciben a los Doce, reciben al Señor.
 
----
 ###### 1 
 Entonces, llamando a sus doce discípulos, les dio autoridad sobre los espíritus inmundos, para que los echasen fuera y sanasen toda enfermedad y toda dolencia.
 

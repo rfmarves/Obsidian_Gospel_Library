@@ -1,22 +1,21 @@
 ---
 title: Marcos 5
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 5
 [[Marcos 4| <-- Marcos 4]] | [[Marcos]] | [[Marcos 6|Marcos 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus expulsa uma legião de demônios, que entram em porcos — Uma mulher é curada ao tocar nas vestes de Jesus — Ele levanta dos mortos a filha de Jairo.
 
----
 ###### 1 
 E chegaram ao outro lado do mar, à província dos gadarenos.
 

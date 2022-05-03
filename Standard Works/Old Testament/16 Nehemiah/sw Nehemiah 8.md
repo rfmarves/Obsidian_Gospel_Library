@@ -1,10 +1,11 @@
 ---
 title: sw Nehemiah 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nehemiah 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezra reads and interprets the law of Moses to the people—They keep the Feast of Tabernacles.
 
----
 ###### 1 
 And all the people gathered themselves together as one man into the street that  before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the  had commanded to Israel.
 

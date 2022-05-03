@@ -1,10 +1,11 @@
 ---
 title: sw Jacob 4
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jacob 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 All the prophets worshiped the Father in the name of Christ—Abraham’s offering of Isaac was in similitude of God and His Only Begotten—Men should reconcile themselves to God through the Atonement—The Jews will reject the foundation stone. About 544–421 B.C.
 
----
 ###### 1 
 Now behold, it came to pass that I, Jacob, having ministered much unto my people in word, (and I cannot write but a little of my words, because of the difficulty of engraving our words upon plates) and we know that the things which we write upon plates must remain;
 

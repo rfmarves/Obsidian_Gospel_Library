@@ -1,27 +1,25 @@
 ---
 title: Salmos 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 19
 [[Salmos 18| <-- Salmos 18]] | [[Salmos]] | [[Salmos 20|Salmos 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/19?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi testifica: Os céus proclamam a glória de Deus, a lei do Senhor é perfeita, e os julgamentos do Senhor são todos verdadeiros e justos.
 
----
 ###### 1 
 Os céus proclamam a glória de Deus, e o firmamento anuncia a obra das suas mãos.
 

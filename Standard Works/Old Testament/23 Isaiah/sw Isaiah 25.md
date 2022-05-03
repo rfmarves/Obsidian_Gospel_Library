@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 In Mount Zion the Lord will prepare a gospel feast of rich food—He will swallow up death in victory—It will be said, Lo, this is our God.
 
----
 ###### 1 
 O , thou  my God; I will exalt thee, I will praise thy name; for thou hast done wonderful  counsels of old  faithfulness  truth.
 

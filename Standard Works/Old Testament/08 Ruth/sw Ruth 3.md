@@ -1,10 +1,11 @@
 ---
 title: sw Ruth 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ruth 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ruth/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 By Naomi’s instruction, Ruth lies at the feet of Boaz—He promises as a relative to take her as his wife.
 
----
 ###### 1 
 Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee?
 

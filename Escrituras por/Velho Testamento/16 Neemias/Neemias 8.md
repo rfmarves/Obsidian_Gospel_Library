@@ -1,22 +1,21 @@
 ---
 title: Neemias 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Neemias 8
 [[Neemias 7| <-- Neemias 7]] | [[Neemias]] | [[Neemias 9|Neemias 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Esdras lê e interpreta para o povo a lei de Moisés — Eles guardam a Festa dos Tabernáculos.
 
----
 ###### 1 
 E chegado o sétimo mês, e estando os filhos de Israel nas suas cidades, todo o povo se ajuntou como um só homem na praça, diante da porta das águas, e disseram a Esdras, o escriba, que trouxesse o livro da lei de Moisés, que o  tinha ordenado a Israel.
 

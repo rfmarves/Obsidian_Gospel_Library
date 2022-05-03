@@ -1,10 +1,11 @@
 ---
 title: sw Brief Explanation about the Book of Mormon
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Brief Explanation about the Book of Mormon

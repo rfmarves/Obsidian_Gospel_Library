@@ -1,22 +1,21 @@
 ---
 title: Juan 17
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 17
 [[Juan 16| <-- Juan 16]] | [[Juan]] | [[Juan 18|Juan 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús ofrece la gran Oración Intercesora — Es glorificado al obtener la vida eterna — Ora por Sus Apóstoles y por todos los santos — Explica cómo el Padre y el Hijo son uno.
 
----
 ###### 1 
 Estas cosas habló Jesús, y alzando los ojos al cielo, dijo: Padre, la hora ha llegado; glorifica a tu Hijo, para que también tu Hijo te glorifique a ti;
 

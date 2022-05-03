@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 33
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 33
 [[Deuteronomio 32| <-- Deuteronomio 32]] | [[Deuteronomio]] | [[Deuteronomio 34|Deuteronomio 34 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/33?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/33?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moisés bendice a las tribus de Israel — Leví es bendecido para enseñar los decretos de Jehová y Su ley — José es el más bendecido; se recogerá a Israel en los últimos días — Israel triunfará.
 
----
 ###### 1 
 Y esta es la bendición con la cual Moisés, varón de Dios, bendijo a los hijos de Israel, antes de morir.
 

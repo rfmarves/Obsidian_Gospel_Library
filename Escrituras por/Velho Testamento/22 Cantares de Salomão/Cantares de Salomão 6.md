@@ -1,22 +1,21 @@
 ---
 title: Cantares de Salomão 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Cantares de Salomão 6
 [[Cantares de Salomão 5| <-- Cantares de Salomão 5]] | [[Cantares de Salomão]] | [[Cantares de Salomão 7|Cantares de Salomão 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Continuação da canção de amor.
 
----
 ###### 1 
 Para onde foi o teu amado, ó mais formosa entre as mulheres? Que rumo tomou o teu amado, para que o busquemos contigo?
 

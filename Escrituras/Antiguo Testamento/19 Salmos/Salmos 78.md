@@ -1,27 +1,25 @@
 ---
 title: Salmos 78
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 78
 [[Salmos 77| <-- Salmos 77]] | [[Salmos]] | [[Salmos 79|Salmos 79 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/78?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/78?lang=spa)
 
----
+```
 aMasquil de Asaf.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Los israelitas han de enseñar a sus hijos la ley de Jehová — El Israel desobediente se rebeló contra el Altísimo en el desierto — Se recuerdan las plagas que hubo en Egipto — El Señor escoge y bendice a Judá y a David.
 
----
 ###### 1 
 
 

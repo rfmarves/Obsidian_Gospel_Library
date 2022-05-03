@@ -1,10 +1,11 @@
 ---
 title: sw D&C 109
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 109
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/109?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, The Kirtland Temple was built as a place for the Son of Man to visit; 6–21, It is to be a house of prayer, fasting, faith, learning, glory, and order, and a house of God; 22–33, May the unrepentant who oppose the Lord’s people be confounded; 34–42, May the Saints go forth in power to gather the righteous to Zion; 43–53, May the Saints be delivered from the terrible things to be poured out upon the wicked in the last days; 54–58, May nations and peoples and churches be prepared for the gospel; 59–67, May the Jews, the Lamanites, and all Israel be redeemed; 68–80, May the Saints be crowned with glory and honor and gain eternal salvation.
 
----
 ###### 1 
 Thanks be to thy name, O Lord God of Israel, who keepest covenant and showest mercy unto thy servants who walk uprightly before thee, with all their hearts—
 

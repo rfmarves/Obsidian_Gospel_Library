@@ -1,10 +1,11 @@
 ---
 title: sw Judges 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people lament the desolation of Benjamin—The inhabitants of Jabesh-gilead are destroyed for not engaging in the war with Benjamin—Wives are provided for the remnant of Benjamin.
 
----
 ###### 1 
 Now the men of Israel had sworn in Mizpeh, saying, There shall not any of us give his daughter unto Benjamin to wife.
 

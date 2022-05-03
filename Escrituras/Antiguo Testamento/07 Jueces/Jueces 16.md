@@ -1,22 +1,21 @@
 ---
 title: Jueces 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 16
 [[Jueces 15| <-- Jueces 15]] | [[Jueces]] | [[Jueces 17|Jueces 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Sansón se lleva las puertas de la ciudad de Gaza — Ama a Dalila, quien lo entrega a los filisteos — Destruye un edificio, se mata a sí mismo y al mismo tiempo mata a otras tres mil personas.
 
----
 ###### 1 
 Y fue Sansón a Gaza, y vio allí a una ramera y se llegó a ella.
 

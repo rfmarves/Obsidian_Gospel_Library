@@ -1,22 +1,21 @@
 ---
 title: Levíticos 23
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 23
 [[Levíticos 22| <-- Levíticos 22]] | [[Levíticos]] | [[Levíticos 24|Levíticos 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel debe realizar una santa convocación semanalmente en el día de reposo — Israel debe guardar la Fiesta de la Pascua, la de los Panes sin Levadura, la de Pentecostés o de las Primicias, la de las Trompetas, la del día de la Expiación y la de los Tabernáculos.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

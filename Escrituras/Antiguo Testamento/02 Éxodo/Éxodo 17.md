@@ -1,22 +1,21 @@
 ---
 title: Éxodo 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 17
 [[Éxodo 16| <-- Éxodo 16]] | [[Éxodo]] | [[Éxodo 18|Éxodo 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel murmura por la falta de agua — Moisés golpea una roca en Horeb y brota agua — Aarón y Hur sostienen las manos de Moisés para que Josué prevalezca contra Amalec.
 
----
 ###### 1 
 Y toda la congregación de los hijos de Israel partió del desierto de Sin, por jornadas, conforme al mandamiento de Jehová; y acamparon en Refidim, y no había agua para que el pueblo bebiese.
 

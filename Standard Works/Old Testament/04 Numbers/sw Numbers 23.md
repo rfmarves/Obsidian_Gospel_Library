@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord commands Balaam to bless Israel—He does so, saying, Who can count the dust of Jacob? and, What hath God wrought!
 
----
 ###### 1 
 And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams.
 

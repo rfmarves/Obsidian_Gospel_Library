@@ -1,22 +1,21 @@
 ---
 title: Ester 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 2
 [[Ester 1| <-- Ester 1]] | [[Ester]] | [[Ester 3|Ester 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Assuero procura uma nova rainha — Mardoqueu apresenta Ester — Ester agrada ao rei e é escolhida como rainha — Mardoqueu denuncia um complô contra o rei.
 
----
 ###### 1 
 Passadas essas coisas, e apaziguado já o furor do rei Assuero, lembrou-se de Vasti, e do que ela fizera, e do que se tinha decretado a seu respeito.
 

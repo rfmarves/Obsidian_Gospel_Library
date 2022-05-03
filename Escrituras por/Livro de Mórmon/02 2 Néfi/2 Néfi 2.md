@@ -1,22 +1,21 @@
 ---
 title: 2 Néfi 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Néfi 2
 [[2 Néfi 1| <-- 2 Néfi 1]] | [[2 Néfi]] | [[2 Néfi 3|2 Néfi 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A redenção vem-nos por intermédio do Santo Messias — A liberdade de escolha (livre-arbítrio) é essencial para a existência e para o progresso — Adão caiu para que os homens existissem — Os homens são livres para escolher a liberdade e a vida eterna. Aproximadamente 588–570 a.C.
 
----
 ###### 1 
 E agora, Jacó, falo a ti: Tu és meu primogênito nos dias de minha tribulação no deserto. E eis que na tua infância sofreste aflições e muito pesar por causa da rudeza de teus irmãos.
 

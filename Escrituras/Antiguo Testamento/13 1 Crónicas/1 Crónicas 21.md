@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 21
 [[1 Crónicas 20| <-- 1 Crónicas 20]] | [[1 Crónicas]] | [[1 Crónicas 22|1 Crónicas 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David peca al contar a Israel — Jehová envía una peste sobre el pueblo — David ofrece sacrificios y la plaga se detiene.
 
----
 ###### 1 
 Y Satanás se levantó contra Israel e incitó a David a que hiciese un censo de Israel.
 

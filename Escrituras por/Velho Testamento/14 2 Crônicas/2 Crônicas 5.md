@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 5
 [[2 Crônicas 4| <-- 2 Crônicas 4]] | [[2 Crônicas]] | [[2 Crônicas 6|2 Crônicas 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O templo é terminado, e a arca da aliança é colocada no Santo dos Santos — A glória do Senhor enche o templo.
 
----
 ###### 1 
 Assim, se acabou toda a obra que Salomão fez para a casa do ; então trouxe Salomão as coisas consagradas de seu pai Davi, e a prata, e o ouro, e todos os utensílios, e pô-los entre os tesouros da casa de Deus.
 

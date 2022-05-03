@@ -1,10 +1,11 @@
 ---
 title: sw Esther 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Esther 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ahasuerus seeks a new queen—Mordecai presents Esther—Esther pleases the king and is chosen as queen—Mordecai exposes a plot against the king.
 
----
 ###### 1 
 After these things, when the wrath of king Ahasuerus was appeased, he remembered Vashti, and what she had done, and what was decreed against her.
 

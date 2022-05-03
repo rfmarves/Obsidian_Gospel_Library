@@ -1,10 +1,11 @@
 ---
 title: sw D&C 71
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 71
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/71?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, Joseph Smith and Sidney Rigdon are sent forth to proclaim the gospel; 5–11, Enemies of the Saints will be confounded.
 
----
 ###### 1 
 Behold, thus saith the Lord unto you my servants Joseph Smith, Jun., and Sidney Rigdon, that the time has verily come that it is necessary and expedient in me that you should open your mouths in proclaiming my gospel, the things of the kingdom, expounding the mysteries thereof out of the scriptures, according to that portion of Spirit and power which shall be given unto you, even as I will.
 

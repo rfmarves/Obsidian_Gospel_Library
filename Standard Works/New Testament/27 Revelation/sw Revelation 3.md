@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 He who overcomes will retain his name in the book of life, reach godhood, and be with Jesus as He is with the Father.
 
----
 ###### 1 
 And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.
 

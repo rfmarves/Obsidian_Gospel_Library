@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 12
 [[1 Crônicas 11| <-- 1 Crônicas 11]] | [[1 Crônicas]] | [[1 Crônicas 13|1 Crônicas 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os heróis valentes de Davi são enumerados — Os exércitos das tribos de Israel se unem a Davi em Hebrom — Israel se regozija por causa do rei Davi.
 
----
 ###### 1 
 Estes, porém,  os que foram a Davi, a Ziclague, estando ele ainda confinado, por causa de Saul, filho de Quis; e eram dos valentes que ajudaram na guerra,
 

@@ -2,11 +2,13 @@ import os, requests
 from bs4 import BeautifulSoup
 
 # Configuration parameters
-filename = 'list-es.txt' #Change to file created with data list, using Excel workbook
-SummaryText = "Resumen"   #Text to use for each chapter summary
-OnlineText = "En línea"   #Text to use for web page link
+filename = 'list.txt' #Change to file created with data list, using Excel workbook
 
-# DO NOT CHANGE BELOW THIS LINE UNLESS YOU REALLY KNOW WHAT YOU'RE DOING
+LangList = ["eng", "spa", "por"]                        #Language Code list
+SummaryTextList = ["Summary", "Resumen", "Resumo"]      #Text to use for each chapter summary
+OnlineTextList = [ "Online", "en línea", "em linha"]    #Text to use for web page link
+
+# DO NOT CHANGE BELOW THIS LINE UNLESS YOU KNOW WHAT YOU'RE DOING
 counter = 0
 # Loads data list file.
 datalist = open(filename, 'r',encoding='utf8').readlines()
@@ -24,9 +26,26 @@ for line in datalist:
     PreviousChapter = linedata[4]
     NextChapter = linedata[5]
     tags = linedata[6]
+    
+    LangCode = LangList.index(url[-3:])
+    SummaryText = SummaryTextList[LangCode]
+    OnlineText = OnlineTextList[LangCode]
 
     #get web data
-    wp = requests.get(url)
+    outputfilename = (FolderPath + '/' + ChapterName).strip() + '.md'
+    print(str(counter) + ":Getting " + outputfilename)
+    AttemptCount = 0
+    while True:
+        AttemptCount += 1
+        wp = requests.get(url)
+        if wp.ok:
+            break
+        if AttemptCount > 11:
+            print("Failed dowloading after 10 attempts")
+            break
+        if AttemptCount > 1:
+            print("Download attempt " + str(AttemptCount))
+
     soup = BeautifulSoup(wp.content, 'html.parser')
 
     #Construct YAML heading for each md file
@@ -36,6 +55,7 @@ for line in datalist:
     mdFile += "cssclass: scriptures" + "\n"
     mdFile += "publish: false" + "\n"
     mdFile += "people:" + "\n"
+    mdFile += "obsidianUIMode: preview" + "\n"
     mdFile += "---" + "\n" + "\n"
     
     ### Add chapter data for headings ###
@@ -61,16 +81,15 @@ for line in datalist:
     # Introduction if there is one (like the one on 1 Nephi 1), pulled from web
     ChapterIntro = soup.find('p', class_='intro')
     if ChapterIntro != None:
-        mdFile += "---" + "\n"
-        mdFile += ChapterIntro.text + "\n" + "\n"
-        mdFile += "---" + "\n" + "\n"
+        mdFile += "```" + "\n"
+        mdFile += ChapterIntro.text + "\n"
+        mdFile += "```" + "\n" + "\n"
     
     # Adds Chapter summary, if there is one. Pulled from web.
     ChapterSummary = soup.find('p', class_='study-summary')
     if ChapterSummary != None:
-        mdFile += "---" + "\n" + "__" + SummaryText + "__" + "\n"
+        mdFile += "> __" + SummaryText + "__" + "\n"
         mdFile += ChapterSummary.text + "\n" + "\n"
-        mdFile += "---" + "\n"
 
     ### Adds parragraphs/verses. Adding verse numbers if they exist Pulled from web. ###
     for verse in soup.find('div', class_='body-block').find_all('p'):
@@ -87,12 +106,10 @@ for line in datalist:
     # writes file
     if not os.path.exists(FolderPath):
         os.makedirs(FolderPath)
-    outputfilename = (FolderPath + '/' + ChapterName).strip() + '.md'
     f = open(outputfilename, 'wb')
     n = f.write(mdFile.encode("utf-8"))
     f.close
-    print("Saved " + outputfilename)
+    print("File saved" + "\n")
 
-end_time = timeit.default_timer()
 print("Processed " + counter + "files.")
 input("Press any key to exit")

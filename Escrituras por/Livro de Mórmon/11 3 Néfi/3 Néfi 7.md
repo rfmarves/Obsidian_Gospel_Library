@@ -1,22 +1,21 @@
 ---
 title: 3 Néfi 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Néfi 7
 [[3 Néfi 6| <-- 3 Néfi 6]] | [[3 Néfi]] | [[3 Néfi 8|3 Néfi 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O juiz supremo é assassinado, o governo é destruído e o povo divide-se em tribos — Jacó, um anti-Cristo, torna-se rei de uma coligação de tribos — Néfi prega arrependimento e fé em Cristo — Recebe diariamente o ministério de anjos e levanta seu irmão dentre os mortos — Muitos se arrependem e são batizados. Aproximadamente 30–33 d.C.
 
----
 ###### 1 
 Ora, eis que vos mostrarei que não estabeleceram um rei na terra; mas nesse mesmo ano, sim, no trigésimo ano, destruíram, sim, assassinaram o juiz supremo da terra na cadeira de juiz.
 

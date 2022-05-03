@@ -1,22 +1,21 @@
 ---
 title: Helamã 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamã 6
 [[Helamã 5| <-- Helamã 5]] | [[Helamã]] | [[Helamã 7|Helamã 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os lamanitas justos pregam a nefitas iníquos — Ambos os povos prosperam durante uma era de paz e abundância — Lúcifer, o autor do pecado, incita o coração dos iníquos e dos ladrões de Gadiânton ao assassinato e à iniquidade — Os ladrões apoderam-se do governo nefita. Aproximadamente 29–23 a.C.
 
----
 ###### 1 
 E aconteceu que quando terminou o sexagésimo segundo ano do governo dos juízes, todas essas coisas haviam acontecido e os lamanitas tinham-se tornado, na maior parte, um povo justo, a tal ponto que sua retidão excedia à dos nefitas em virtude de sua firmeza e constância na fé.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 83
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 83
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/83?lang=eng)
 
----
+```
 A Song or Psalm of Asaph.
+```
 
----
-
----
-__Summary__
+> __Summary__
 God is asked to confound the enemies of His people—Jehovah is the Most High over all the earth.
 
----
 ###### 1 
 Keep not thou silence, O God: hold not thy peace, and be not still, O God.
 

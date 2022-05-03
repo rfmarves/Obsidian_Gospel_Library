@@ -1,27 +1,25 @@
 ---
 title: Salmos 120
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 120
 [[Salmos 119| <-- Salmos 119]] | [[Salmos]] | [[Salmos 121|Salmos 121 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/120?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/120?lang=por)
 
----
+```
 Cântico das asubidas.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Clamai ao Senhor quando estiverdes em angústia.
 
----
 ###### 1 
 Na minha angústia clamei ao , e ele me ouviu.
 

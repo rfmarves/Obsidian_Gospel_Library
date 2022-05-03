@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Tyre will be overthrown.
 
----
 ###### 1 
 The burden of Tyre. Howl, ye ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Chittim it is revealed to them.
 

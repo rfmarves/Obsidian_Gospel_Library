@@ -1,10 +1,11 @@
 ---
 title: sw Acts 13
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saul and Barnabas are called to missionary service—Saul, now called Paul, curses a sorcerer—Christ is a descendant of David—Paul offers the gospel to Israel, then to the Gentiles.
 
----
 ###### 1 
 Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.
 

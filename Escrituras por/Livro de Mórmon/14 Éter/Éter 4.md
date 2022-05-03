@@ -1,22 +1,21 @@
 ---
 title: Éter 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éter 4
 [[Éter 3| <-- Éter 3]] | [[Éter]] | [[Éter 5|Éter 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Morôni recebe ordem de selar os escritos do irmão de Jarede — Eles não serão revelados até que os homens tenham a mesma fé que o irmão de Jarede — Cristo ordena aos homens que creiam em Suas palavras e nas de Seus discípulos — Ordena aos homens que se arrependam, creiam no evangelho e sejam salvos.
 
----
 ###### 1 
 E o Senhor ordenou ao irmão de Jarede que descesse do monte, da presença do Senhor, e escrevesse as coisas que vira; e foi proibido que elas chegassem aos filhos dos homens até depois de ele ter sido levantado sobre a cruz; e por esta razão o rei Mosias guardou-as, a fim de que não viessem ao mundo senão depois que Cristo aparecesse a seu povo.
 

@@ -1,22 +1,21 @@
 ---
 title: Oseas 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseas 8
 [[Oseas 7| <-- Oseas 7]] | [[Oseas]] | [[Oseas 9|Oseas 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Tanto Israel como Judá han abandonado a Jehová — Jehová ha escrito las grandezas de Su ley a Efraín.
 
----
 ###### 1 
 Pon a tu boca la trompeta.  como águila contra la casa de Jehová, porque traspasaron mi convenio y se rebelaron contra mi ley.
 

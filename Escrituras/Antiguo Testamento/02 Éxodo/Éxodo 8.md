@@ -1,22 +1,21 @@
 ---
 title: Éxodo 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 8
 [[Éxodo 7| <-- Éxodo 7]] | [[Éxodo]] | [[Éxodo 9|Éxodo 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová envía plagas de ranas, de piojos y de moscas sobre Egipto — Faraón endurece su corazón.
 
----
 ###### 1 
 Entonces Jehová dijo a Moisés: Preséntate ante Faraón y dile: Jehová ha dicho así: Deja ir a mi pueblo para que me sirva.
 

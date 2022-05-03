@@ -1,22 +1,21 @@
 ---
 title: Marcos 14
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 14
 [[Marcos 13| <-- Marcos 13]] | [[Marcos]] | [[Marcos 15|Marcos 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus é ungido com óleo — Ele come a Páscoa, institui o sacramento, sofre no Getsêmani e é traído por Judas — Jesus é acusado falsamente, e Pedro nega que O conhece.
 
----
 ###### 1 
 E dali a dois dias era a páscoa, e a  ázimos, e os principais dos sacerdotes e os escribas buscavam como o prenderiam com dolo, e o matariam.
 

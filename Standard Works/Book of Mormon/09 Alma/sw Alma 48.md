@@ -1,10 +1,11 @@
 ---
 title: sw Alma 48
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 48
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/48?lang=eng)
 
----
-__Summary__
+> __Summary__
 Amalickiah incites the Lamanites against the Nephites—Moroni prepares his people to defend the cause of the Christians—He rejoices in liberty and freedom and is a mighty man of God. About 72 B.C.
 
----
 ###### 1 
 And now it came to pass that, as soon as Amalickiah had obtained the kingdom he began to inspire the hearts of the Lamanites against the people of Nephi; yea, he did appoint men to speak unto the Lamanites from their towers, against the Nephites.
 

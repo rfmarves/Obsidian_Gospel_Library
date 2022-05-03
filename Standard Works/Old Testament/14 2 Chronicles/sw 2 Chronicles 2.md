@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Solomon engages Huram of Tyre to supply timber for the temple—Laborers are organized to do the work.
 
----
 ###### 1 
 And Solomon determined to build an house for the name of the , and an house for his kingdom.
 

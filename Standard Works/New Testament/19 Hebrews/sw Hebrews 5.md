@@ -1,10 +1,11 @@
 ---
 title: sw Hebrews 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hebrews 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 For a man to hold the priesthood, he must be called of God as was Aaron—Christ was a priest forever after the order of Melchizedek—Jesus Christ is the Author of eternal salvation.
 
----
 ###### 1 
 For every high priest taken from among men is ordained for men in things  to God, that he may offer both gifts and sacrifices for sins:
 

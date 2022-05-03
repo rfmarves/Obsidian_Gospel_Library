@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 29
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 Egypt will be overthrown by Babylon—When Egypt rises again, it will be the basest of kingdoms.
 
----
 ###### 1 
 In the tenth year, in the tenth  in the twelfth  of the month, the word of the  came unto me, saying,
 

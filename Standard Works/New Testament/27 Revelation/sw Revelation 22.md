@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 22
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Saints will reign in celestial splendor—Christ will come, and men will be judged—Blessed are they who keep His commandments.
 
----
 ###### 1 
 And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.
 

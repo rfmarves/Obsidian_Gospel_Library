@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 21
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 21
 [[1 Nefi 20| <-- 1 Nefi 20]] | [[1 Nefi]] | [[1 Nefi 22|1 Nefi 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Mesías será una luz a los gentiles y pondrá en libertad a los presos — Israel será recogido con poder en los últimos días — Reyes serán sus ayos — Compárese con Isaías 49. Aproximadamente 588–570 a.C.
 
----
 ###### 1 
 Y además: ¡Oídme, oh casa de Israel, todos vosotros los que habéis sido separados y echados fuera por causa de la iniquidad de los pastores de mi pueblo; sí, todos vosotros que habéis sido separados y esparcidos, quienes sois de mi pueblo, oh casa de Israel! ¡Oídme, islas del mar, y escuchad, pueblos lejanos! El Señor me llamó desde el vientre; desde las entrañas de mi madre hizo él mención de mi nombre.
 

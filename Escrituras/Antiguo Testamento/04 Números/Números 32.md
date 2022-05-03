@@ -1,22 +1,21 @@
 ---
 title: Números 32
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 32
 [[Números 31| <-- Números 31]] | [[Números]] | [[Números 33|Números 33 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/32?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/32?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Rubén, Gad y la mitad de la tribu de Manasés reciben sus heredades al oriente del Jordán — Hacen pacto de unirse a las otras tribus para conquistar Canaán.
 
----
 ###### 1 
 Y los hijos de Rubén y los hijos de Gad tenían una cantidad muy grande de ganado; y ellos, al ver la tierra de Jazer y de Galaad, y he aquí que les pareció la región lugar para ganado.
 

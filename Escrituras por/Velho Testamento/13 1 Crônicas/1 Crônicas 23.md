@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 23
 [[1 Crônicas 22| <-- 1 Crônicas 22]] | [[1 Crônicas]] | [[1 Crônicas 24|1 Crônicas 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Salomão é constituído rei — Os levitas são contados e designados a seus diversos deveres religiosos.
 
----
 ###### 1 
 Sendo, pois, Davi já velho, e cheio de dias, fez Salomão, seu filho, rei sobre Israel.
 

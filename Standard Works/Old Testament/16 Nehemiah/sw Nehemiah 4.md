@@ -1,10 +1,11 @@
 ---
 title: sw Nehemiah 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nehemiah 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Jews’ enemies seek to prevent them from rebuilding the walls of Jerusalem—Nehemiah arms the laborers and keeps the work progressing.
 
----
 ###### 1 
 But it came to pass, that when Sanballat heard that we builded the wall, he was wroth, and took great indignation, and mocked the Jews.
 

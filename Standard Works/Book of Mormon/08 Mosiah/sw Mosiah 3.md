@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 3
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 King Benjamin continues his address—The Lord Omnipotent will minister among men in a tabernacle of clay—Blood will come from every pore as He atones for the sins of the world—His is the only name whereby salvation comes—Men can put off the natural man and become Saints through the Atonement—The torment of the wicked will be as a lake of fire and brimstone. About 124 B.C.
 
----
 ###### 1 
 And again my brethren, I would call your attention, for I have somewhat more to speak unto you; for behold, I have things to tell you concerning that which is to come.
 

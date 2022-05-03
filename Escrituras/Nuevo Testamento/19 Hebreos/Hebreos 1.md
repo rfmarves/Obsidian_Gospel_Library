@@ -1,22 +1,21 @@
 ---
 title: Hebreos 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreos 1
 [[Filemón 1| <-- Filemón 1]] | [[Hebreos]] | [[Hebreos 2|Hebreos 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Hijo es la imagen misma de la persona del Padre — Cristo es el Hijo Unigénito y, por tanto, es superior a los ángeles.
 
----
 ###### 1 
 Dios, habiendo hablado muchas veces y de muchas maneras en otro tiempo a los padres por medio de los profetas,
 

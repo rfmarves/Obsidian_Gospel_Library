@@ -1,27 +1,25 @@
 ---
 title: Alma 36
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 36
 [[Alma 35| <-- Alma 35]] | [[Alma]] | [[Alma 37|Alma 37 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=spa)
 
----
+```
 Los mandamientos de Alma a su hijo Helamán.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Alma testifica a Helamán acerca de su conversión tras haber visto a un ángel — Padeció las penas de un alma condenada, invocó el nombre de Jesús y entonces nació de Dios — Un dulce gozo llenó su alma — Vio concursos de ángeles que alababan a Dios — Muchos conversos han probado y visto como él ha probado y visto. Aproximadamente 74 a.C.
 
----
 ###### 1 
 Hijo mío, da oído a mis palabras, porque te juro que al grado que guardes los mandamientos de Dios, prosperarás en la tierra.
 

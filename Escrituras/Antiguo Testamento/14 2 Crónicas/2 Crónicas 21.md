@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 21
 [[2 Crónicas 20| <-- 2 Crónicas 20]] | [[2 Crónicas]] | [[2 Crónicas 22|2 Crónicas 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Joram mata a sus hermanos, se casa con la hija de Acab y reina con iniquidad — El profeta Elías profetiza una plaga sobre el pueblo y también la muerte de Joram — Los filisteos y otros hacen la guerra contra Judá — Joram muere de una enfermedad muy penosa.
 
----
 ###### 1 
 Y durmió Josafat con sus padres, y lo sepultaron con sus padres en la ciudad de David. Y reinó en su lugar Joram, su hijo.
 

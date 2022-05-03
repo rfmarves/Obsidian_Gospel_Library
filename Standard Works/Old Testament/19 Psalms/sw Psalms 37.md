@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 37
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 37
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/37?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David counsels, Trust in the Lord and do good—Rest in the Lord and wait patiently for Him—Cease from anger and forsake wrath—The meek will inherit the earth—The Lord loves justice and does not forsake His Saints.
 
----
 ###### 1 
 Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.
 

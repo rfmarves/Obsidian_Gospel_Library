@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 47
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 47
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/47?lang=eng)
 
----
-__Summary__
+> __Summary__
 Babylon and Chaldea will be destroyed for their iniquities—No one will save them.
 
----
 ###### 1 
 Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground:  no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
 

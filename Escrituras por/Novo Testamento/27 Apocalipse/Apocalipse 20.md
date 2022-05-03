@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 20
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 20
 [[Apocalipse 19| <-- Apocalipse 19]] | [[Apocalipse]] | [[Apocalipse 21|Apocalipse 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Satanás é amarrado durante o Milênio — Os santos então viverão e reinarão com Cristo — Os mortos se apresentam perante Deus e são julgados de acordo com os livros, segundo suas obras.
 
----
 ###### 1 
 E vi descer do céu um anjo, que tinha a chave do abismo, e uma grande cadeia na sua mão.
 

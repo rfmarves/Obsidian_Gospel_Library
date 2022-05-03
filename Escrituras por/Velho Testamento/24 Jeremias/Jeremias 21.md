@@ -1,22 +1,21 @@
 ---
 title: Jeremias 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 21
 [[Jeremias 20| <-- Jeremias 20]] | [[Jeremias]] | [[Jeremias 22|Jeremias 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias prediz o cerco, o cativeiro e a destruição de Jerusalém — Zedequias será levado cativo por Nabucodonosor.
 
----
 ###### 1 
 A palavra que veio a Jeremias  do , quando o rei Zedequias lhe enviou Pasur, filho de Malquias, e Zefanias filho de Maaseia, o sacerdote, dizendo:
 

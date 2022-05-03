@@ -1,10 +1,11 @@
 ---
 title: sw D&C 131
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 131
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/131?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, Celestial marriage is essential to exaltation in the highest heaven; 5–6, How men are sealed up unto eternal life is explained; 7–8, All spirit is matter.
 
----
 ###### 1 
 In the celestial glory there are three heavens or degrees;
 

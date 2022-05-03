@@ -1,22 +1,21 @@
 ---
 title: 2 Corintios 9
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Corintios 9
 [[2 Corintios 8| <-- 2 Corintios 8]] | [[2 Corintios]] | [[2 Corintios 10|2 Corintios 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dios ama y recompensa al dador alegre — Gracias sean dadas a Dios por Su don inefable.
 
----
 ###### 1 
 Porque en cuanto a la ministración de ayuda para los santos, por demás me es escribiros;
 

@@ -1,22 +1,21 @@
 ---
 title: Génesis 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 22
 [[Génesis 21| <-- Génesis 21]] | [[Génesis]] | [[Génesis 23|Génesis 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se manda a Abraham que sacrifique a su hijo Isaac — Padre e hijo se someten a la voluntad de Dios — La descendencia de Abraham será tan numerosa como las estrellas y como la arena — En su descendencia serán bendecidas todas las naciones — Betuel engendra a Rebeca.
 
----
 ###### 1 
 Y aconteció después de estas cosas, que Dios puso a prueba a Abraham y le dijo: Abraham. Y él respondió: Heme aquí.
 

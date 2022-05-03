@@ -1,22 +1,21 @@
 ---
 title: Levíticos 27
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 27
 [[Levíticos 26| <-- Levíticos 26]] | [[Levíticos]] | [[Números 1|Números 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se explica cómo se consagran los bienes a Jehová — Se manda a Israel que pague diezmos de sus cosechas, rebaños y ganados.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

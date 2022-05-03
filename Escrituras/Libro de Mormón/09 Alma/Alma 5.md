@@ -1,27 +1,25 @@
 ---
 title: Alma 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 5
 [[Alma 4| <-- Alma 4]] | [[Alma]] | [[Alma 6|Alma 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa)
 
----
+```
 Las palabras que Alma, el Sumo Sacerdote según el santo orden de Dios, proclamó al pueblo en sus ciudades y aldeas por todo el país.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Para lograr la salvación, los hombres deben arrepentirse y guardar los mandamientos, nacer de nuevo, purificar sus vestidos mediante la sangre de Cristo, ser humildes, despojarse del orgullo y de la envidia, y hacer las obras de rectitud — El Buen Pastor llama a Su pueblo — Los que hacen obras malas son hijos del diablo — Alma testifica de la veracidad de su doctrina y manda a los hombres que se arrepientan — Los nombres de los justos serán escritos en el libro de la vida. Aproximadamente 83 a.C.
 
----
 ###### 1 
 Aconteció, pues, que Alma empezó a proclamar la palabra de Dios al pueblo, primero en la tierra de Zarahemla, y desde allí por toda la tierra.
 

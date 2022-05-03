@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 18
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Saints are called out of Babylon lest they partake of her sins—She falls and is lamented by her supporters.
 
----
 ###### 1 
 And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Corintios 10
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Corintios 10
 [[1 Corintios 9| <-- 1 Corintios 9]] | [[1 Corintios]] | [[1 Corintios 11|1 Corintios 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cristo es el Dios de los de Israel y la Roca espiritual que los guio — El antiguo Israel se rebeló contra Cristo — Pablo compara los sacramentos verdaderos con los falsos.
 
----
 ###### 1 
 Porque no quiero, hermanos, que ignoréis que nuestros padres todos estuvieron bajo la nube, y todos pasaron por el mar;
 

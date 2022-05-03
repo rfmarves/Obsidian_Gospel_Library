@@ -1,10 +1,11 @@
 ---
 title: sw Alma 58
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 58
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/58?lang=eng)
 
----
-__Summary__
+> __Summary__
 Helaman, Gid, and Teomner take the city of Manti by a stratagem—The Lamanites withdraw—The sons of the people of Ammon are preserved as they stand fast in defense of their liberty and faith. About 63–62 B.C.
 
----
 ###### 1 
 And behold, now it came to pass that our next object was to obtain the city of Manti; but behold, there was no way that we could lead them out of the city by our small bands. For behold, they remembered that which we had hitherto done; therefore we could not decoy them away from their strongholds.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 90
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 90
 [[Salmos 89| <-- Salmos 89]] | [[Salmos]] | [[Salmos 91|Salmos 91 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/90?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/90?lang=por)
 
----
+```
 Oração de Moisés, homem de Deus.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Oração de Moisés, homem de Deus — Deus é de eternidade em eternidade — Os dias do homem não duram mais que setenta anos — Moisés implora ao Senhor que conceda misericórdia e bênçãos a Seu povo.
 
----
 ###### 1 
 , tu tens sido o nosso refúgio, de geração em geração.
 

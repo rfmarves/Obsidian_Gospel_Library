@@ -1,22 +1,21 @@
 ---
 title: Proverbios 25
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 25
 [[Proverbios 24| <-- Proverbios 24]] | [[Proverbios]] | [[Proverbios 26|Proverbios 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 No te jactes de falsos dones — Da de comer y de beber a tu enemigo.
 
----
 ###### 1 
 También estos son proverbios de Salomón, los cuales copiaron los hombres de Ezequías, rey de Judá:
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 18
 [[1 Samuel 17| <-- 1 Samuel 17]] | [[1 Samuel]] | [[1 Samuel 19|1 Samuel 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jonatán ama a David como a sí mismo — Saúl pone a David sobre todos sus ejércitos — David es honrado por el pueblo y Saúl siente envidia — David se casa con Mical, una de las hijas de Saúl.
 
----
 ###### 1 
 Y aconteció que cuando él acabó de hablar con Saúl, el alma de Jonatán quedó ligada con la de David, y le amó Jonatán como a sí mismo.
 

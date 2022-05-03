@@ -1,10 +1,11 @@
 ---
 title: sw Ezra 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezra 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The descendants of the Jews taken captive who return to Jerusalem and to Judah are listed—The children of priests whose genealogy is lost are denied the priesthood—Faithful people contribute to the building of the temple.
 
----
 ###### 1 
 Now these  the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;
 

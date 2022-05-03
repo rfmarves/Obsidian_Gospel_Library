@@ -1,22 +1,21 @@
 ---
 title: Provérbios 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 1
 [[Salmos 150| <-- Salmos 150]] | [[Provérbios]] | [[Provérbios 2|Provérbios 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O temor do Senhor é o princípio do conhecimento — Se os pecadores te atraírem com afagos, não consintas — Aquele que der ouvidos à sabedoria habitará em segurança.
 
----
 ###### 1 
 Provérbios de Salomão, filho de Davi, rei de Israel;
 

@@ -1,10 +1,11 @@
 ---
 title: sw John 14
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus speaks of many mansions—He says that He is the way, the truth, and the life and that to see Him is to see the Father—He promises the first and second Comforters.
 
----
 ###### 1 
 Let not your heart be troubled: ye believe in God, believe also in me.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Coríntios 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Coríntios 4
 [[2 Coríntios 3| <-- 2 Coríntios 3]] | [[2 Coríntios]] | [[2 Coríntios 5|2 Coríntios 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A luz do evangelho brilha sobre os santos — As provações terrenas nada são quando comparadas à glória eterna.
 
----
 ###### 1 
 Pelo que, tendo este ministério, segundo a misericórdia que nos foi feita, não desfalecemos,
 

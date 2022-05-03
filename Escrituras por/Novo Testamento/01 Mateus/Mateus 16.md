@@ -1,22 +1,21 @@
 ---
 title: Mateus 16
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 16
 [[Mateus 15| <-- Mateus 15]] | [[Mateus]] | [[Mateus 17|Mateus 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus adverte contra a doutrina dos fariseus e saduceus — Pedro testifica que Jesus é o Cristo, sendo-lhe prometidas as chaves do reino — Jesus prediz Sua morte e ressurreição.
 
----
 ###### 1 
 E chegando-se os fariseus e os saduceus, e tentando-o, pediram-lhe que lhes mostrasse algum sinal do céu.
 

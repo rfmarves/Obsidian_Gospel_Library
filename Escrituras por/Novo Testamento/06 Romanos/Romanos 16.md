@@ -1,22 +1,21 @@
 ---
 title: Romanos 16
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 16
 [[Romanos 15| <-- Romanos 15]] | [[Romanos]] | [[1 Coríntios 1|1 Coríntios 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo saúda vários santos — Ele aconselha os santos a evitar os que causam dissensão — Os santos devem ser sábios no tocante ao bem, e inocentes no tocante ao mal.
 
----
 ###### 1 
 Recomendo-vos, pois, Febe, nossa irmã, a qual serve na igreja que está em Cencreia,
 

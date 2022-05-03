@@ -1,22 +1,21 @@
 ---
 title: Alma 44
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 44
 [[Alma 43| <-- Alma 43]] | [[Alma]] | [[Alma 45|Alma 45 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/44?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/44?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Morôni ordena aos lamanitas que façam um convênio de paz; do contrário serão destruídos — Zeraemna rejeita a oferta e a batalha recomeça — Os exércitos de Morôni derrotam os lamanitas. Aproximadamente 74–73 a.C.
 
----
 ###### 1 
 E aconteceu que pararam e recuaram um pouco. E Morôni disse a Zeraemna: Eis, Zeraemna, que não desejamos ser sanguinários. Sabeis que estais em nossas mãos, mas não vos desejamos matar.
 

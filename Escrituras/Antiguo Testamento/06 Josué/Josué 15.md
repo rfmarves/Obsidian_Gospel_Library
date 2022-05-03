@@ -1,22 +1,21 @@
 ---
 title: Josué 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 15
 [[Josué 14| <-- Josué 14]] | [[Josué]] | [[Josué 16|Josué 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 A Judá se le da heredad en Canaán — Los jebuseos habitan junto con Judá en Jerusalén.
 
----
 ###### 1 
 Y esta fue la parte que le tocó en suerte a la tribu de los hijos de Judá, conforme a sus familias, hasta la frontera de Edom, del desierto de Zin al sur, al extremo sur.
 

@@ -1,22 +1,21 @@
 ---
 title: Atos 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 1
 [[João 21| <-- João 21]] | [[Atos]] | [[Atos 2|Atos 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus ministra por quarenta dias após Sua ressurreição — O reino será posteriormente restaurado a Israel — Os Doze devem testificar em Jerusalém, na Judeia, em Samaria e até os confins da terra — Jesus ascende aos céus — Matias é escolhido para preencher a vaga deixada nos Doze.
 
----
 ###### 1 
 Fiz o primeiro tratado, ó Teófilo, acerca de todas as  que Jesus começou a fazer, e a ensinar,
 

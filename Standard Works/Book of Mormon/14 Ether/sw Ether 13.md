@@ -1,10 +1,11 @@
 ---
 title: sw Ether 13
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ether 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ether speaks of a New Jerusalem to be built in America by the seed of Joseph—He prophesies, is cast out, writes the Jaredite history, and foretells the destruction of the Jaredites—War rages over all the land.
 
----
 ###### 1 
 And now I, Moroni, proceed to finish my record concerning the destruction of the people of whom I have been writing.
 

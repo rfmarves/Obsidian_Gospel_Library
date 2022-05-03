@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 15
 [[2 Samuel 14| <-- 2 Samuel 14]] | [[2 Samuel]] | [[2 Samuel 16|2 Samuel 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Absalón conspira contra David y consigue el apoyo del pueblo — David huye y Absalón entra en Jerusalén.
 
----
 ###### 1 
 Aconteció después de esto que Absalón se hizo de un carro, y caballos y cincuenta hombres que corriesen delante de él.
 

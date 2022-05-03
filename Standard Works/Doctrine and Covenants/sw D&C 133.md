@@ -1,10 +1,11 @@
 ---
 title: sw D&C 133
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 133
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/133?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, The Saints are commanded to prepare for the Second Coming; 7–16, All men are commanded to flee from Babylon, come to Zion, and prepare for the great day of the Lord; 17–35, He will stand on Mount Zion, the continents will become one land, and the lost tribes of Israel will return; 36–40, The gospel was restored through Joseph Smith to be preached in all the world; 41–51, The Lord will come down in vengeance upon the wicked; 52–56, It will be the year of His redeemed; 57–74, The gospel is to be sent forth to save the Saints and for the destruction of the wicked.
 
----
 ###### 1 
 Hearken, O ye people of my church, saith the Lord your God, and hear the word of the Lord concerning you—
 

@@ -1,22 +1,21 @@
 ---
 title: Josué 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 10
 [[Josué 9| <-- Josué 9]] | [[Josué]] | [[Josué 11|Josué 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel derrota os amorreus e seus aliados, e o Senhor lança pedras do céu sobre eles — O sol e a lua se detêm — Vários reis e cidades são destruídos — O Senhor peleja por Israel.
 
----
 ###### 1 
 E sucedeu  ouvindo Adoni-Zedeque, rei de Jerusalém, que Josué tomara Ai, e a tinha destruído totalmente,  fizera a Ai e ao seu rei como tinha feito a Jericó e ao seu rei, e que os moradores de Gibeom fizeram paz com os israelitas, e estavam no meio deles,
 

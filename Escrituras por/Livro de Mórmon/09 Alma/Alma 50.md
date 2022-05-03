@@ -1,22 +1,21 @@
 ---
 title: Alma 50
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 50
 [[Alma 49| <-- Alma 49]] | [[Alma]] | [[Alma 51|Alma 51 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/50?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/50?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Morôni fortifica as terras dos nefitas — Eles constroem muitas cidades novas — Os nefitas sofrem guerras e destruições nos dias de suas iniquidades e abominações — Moriânton e seus dissidentes são derrotados por Teâncum — Nefia morre e seu filho Paorã ocupa a cadeira de juiz. Aproximadamente 72–67 a.C.
 
----
 ###### 1 
 E então aconteceu que Morôni não suspendeu seus preparativos para a guerra, ou seja, para defender seu povo dos lamanitas; pois fez com que seus exércitos, no início do vigésimo ano do governo dos juízes, começassem a cavar, levantando montes de terra ao redor de todas as cidades por toda a terra habitada pelos nefitas.
 

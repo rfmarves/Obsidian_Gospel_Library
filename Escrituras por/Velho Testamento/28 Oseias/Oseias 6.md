@@ -1,22 +1,21 @@
 ---
 title: Oseias 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseias 6
 [[Oseias 5| <-- Oseias 5]] | [[Oseias]] | [[Oseias 7|Oseias 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Oseias conclama Israel a voltar e a servir ao Senhor — A misericórdia e o conhecimento de Deus são mais importantes que os sacrifícios ritualísticos.
 
----
 ###### 1 
 Vinde, e retornemos ao , porque ele despedaçou, e nos sarará; feriu, e nos atará 
 

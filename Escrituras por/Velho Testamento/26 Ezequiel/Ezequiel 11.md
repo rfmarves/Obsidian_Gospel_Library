@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 11
 [[Ezequiel 10| <-- Ezequiel 10]] | [[Ezequiel]] | [[Ezequiel 12|Ezequiel 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ele vê em uma visão a destruição de Jerusalém e o cativeiro dos judeus — Ele profetiza a coligação de Israel nos últimos dias.
 
----
 ###### 1 
 Então me levantou o Espírito, e me levou à porta oriental da casa do , que dá para o oriente; e eis que estavam à entrada da porta vinte e cinco homens; e no meio deles vi Jaazanias, filho de Azur, e Pelatias, filho de Benaia, príncipes do povo.
 

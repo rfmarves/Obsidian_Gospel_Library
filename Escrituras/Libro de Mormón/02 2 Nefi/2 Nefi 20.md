@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 20
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 20
 [[2 Nefi 19| <-- 2 Nefi 19]] | [[2 Nefi]] | [[2 Nefi 21|2 Nefi 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La destrucción de Asiria es un símbolo de la destrucción de los inicuos a la Segunda Venida — Pocas personas quedarán después que el Señor venga de nuevo — El resto de los de Jacob volverán en ese día — Compárese con Isaías 10. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 ¡Ay de aquellos que establecen decretos injustos y ponen por escrito la opresión que prescriben,
 

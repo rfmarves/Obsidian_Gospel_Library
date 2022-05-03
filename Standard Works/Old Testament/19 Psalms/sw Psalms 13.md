@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 13
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/13?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David trusts in the Lord’s mercy and rejoices in His salvation.
 
----
 ###### 1 
 How long wilt thou forget me, O ? for ever? how long wilt thou hide thy face from me?
 

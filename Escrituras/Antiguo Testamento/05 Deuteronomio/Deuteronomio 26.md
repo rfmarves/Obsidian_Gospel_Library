@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 26
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 26
 [[Deuteronomio 25| <-- Deuteronomio 25]] | [[Deuteronomio]] | [[Deuteronomio 27|Deuteronomio 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de Israel ofrecerán a Jehová una canasta de las primicias de Canaán — Se les manda guardar la ley del diezmo — Israel hace convenio de guardar los mandamientos y Jehová promete hacer de ellos un pueblo santo y una gran nación.
 
----
 ###### 1 
 Y acontecerá que cuando hayas entrado en la tierra que Jehová tu Dios te da por heredad, y la tomes en posesión y habites en ella,
 

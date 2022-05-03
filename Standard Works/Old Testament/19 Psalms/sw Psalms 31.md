@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 31
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 31
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/31?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David trusts in the Lord and rejoices in His mercy—Speaking as the Messiah he says, Into Thine hand I commit my spirit—He counsels, O love the Lord, all ye His Saints, for the Lord preserves the faithful.
 
----
 ###### 1 
 In thee, O , do I put my trust; let me never be ashamed: deliver me in thy righteousness.
 

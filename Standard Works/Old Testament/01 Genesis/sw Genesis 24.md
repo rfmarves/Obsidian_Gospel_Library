@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abraham commands that Isaac shall not marry a Canaanite—The Lord guides Abraham’s servant in choosing Rebekah as a wife for Isaac—Rebekah is blessed to be the mother of thousands of millions—She marries Isaac.
 
----
 ###### 1 
 And Abraham was old,  well stricken in age: and the  had blessed Abraham in all things.
 

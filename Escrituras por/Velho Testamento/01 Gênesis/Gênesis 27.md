@@ -1,22 +1,21 @@
 ---
 title: Gênesis 27
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 27
 [[Gênesis 26| <-- Gênesis 26]] | [[Gênesis]] | [[Gênesis 28|Gênesis 28 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/27?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Rebeca orienta Jacó para que ele seja abençoado — Jacó é abençoado para que tenha domínio sobre povos e nações e os governe — Esaú odeia Jacó e planeja matá-lo — Rebeca teme que Jacó se case com uma das filhas de Hete.
 
----
 ###### 1 
 E aconteceu que, como Isaque envelheceu, e os seus olhos se escureceram, de maneira que não podia ver, chamou Esaú, seu filho mais velho, e disse-lhe: Meu filho. E ele lhe disse: Eis-me 
 

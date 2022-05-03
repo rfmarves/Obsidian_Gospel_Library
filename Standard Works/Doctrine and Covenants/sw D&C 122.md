@@ -1,10 +1,11 @@
 ---
 title: sw D&C 122
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 122
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/122?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, The ends of the earth will inquire after the name of Joseph Smith; 5–7, All his perils and travails will give him experience and be for his good; 8–9, The Son of Man has descended below them all.
 
----
 ###### 1 
 The ends of the earth shall inquire after thy name, and fools shall have thee in derision, and hell shall rage against thee;
 

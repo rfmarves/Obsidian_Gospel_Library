@@ -1,22 +1,21 @@
 ---
 title: Números 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 14
 [[Números 13| <-- Números 13]] | [[Números]] | [[Números 15|Números 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel murmura e fala de voltar ao Egito — Josué e Calebe fazem um relato bom de Canaã — Moisés faz mediação entre Israel e o Senhor — Os adultos de Israel não entrarão na terra prometida — O Senhor mata os falsos espias por meio de uma praga — Alguns rebeldes tentam seguir sozinhos e são mortos pelos amalequitas e pelos cananeus.
 
----
 ###### 1 
 Então levantou-se toda a congregação, e alçaram a sua voz; e o povo chorou naquela mesma noite.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Samuel exhorts Israel to forsake Ashtaroth and Baalim and serve the Lord—Israel fasts and seeks the Lord—The Philistines are subdued—Samuel judges Israel.
 
----
 ###### 1 
 And the men of Kirjath-jearim came, and fetched up the ark of the , and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the .
 

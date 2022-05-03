@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 12
 [[2 Crónicas 11| <-- 2 Crónicas 11]] | [[2 Crónicas]] | [[2 Crónicas 13|2 Crónicas 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Roboam abandona la ley de Jehová — Los egipcios saquean Jerusalén y se llevan los tesoros de la casa de Jehová — El pueblo se arrepiente y recibe liberación parcial — Muere Roboam.
 
----
 ###### 1 
 Y sucedió que cuando Roboam hubo consolidado el reino y se hubo fortalecido a sí mismo, abandonó la ley de Jehová, y todo Israel con él.
 

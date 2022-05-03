@@ -1,22 +1,21 @@
 ---
 title: Mosias 10
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 10
 [[Mosias 9| <-- Mosias 9]] | [[Mosias]] | [[Mosias 11|Mosias 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Morre o rei Lamã — Seu povo é selvagem e feroz e crê em falsas tradições — Zênife e seu povo prevalecem contra eles. Aproximadamente 187–160 a.C.
 
----
 ###### 1 
 E aconteceu que novamente começamos a organizar o reino e novamente começamos a habitar aquela terra em paz. E fiz com que se fabricassem armas de guerra de toda espécie, para que assim eu tivesse armas para o meu povo quando os lamanitas subissem novamente para guerrear meu povo.
 

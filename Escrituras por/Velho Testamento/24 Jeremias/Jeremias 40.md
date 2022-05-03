@@ -1,22 +1,21 @@
 ---
 title: Jeremias 40
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 40
 [[Jeremias 39| <-- Jeremias 39]] | [[Jeremias]] | [[Jeremias 41|Jeremias 41 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/40?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/40?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O rei de Babilônia nomeia Gedalias governador dos remanescentes que ficaram em Judá — Jeremias é libertado e mora entre eles.
 
----
 ###### 1 
 A palavra que veio a Jeremias  do , depois que Nebuzaradã, capitão da guarda, o deixara ir de Ramá, quando o tomou, estando ele atado com cadeias no meio de todos os do cativeiro de Jerusalém e de Judá, que foram levados cativos para Babilônia;
 

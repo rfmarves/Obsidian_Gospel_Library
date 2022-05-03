@@ -1,22 +1,21 @@
 ---
 title: Isaías 27
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 27
 [[Isaías 26| <-- Isaías 26]] | [[Isaías]] | [[Isaías 28|Isaías 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El pueblo de Israel florecerá, y retoñará y llenará de fruto la tierra — Serán recogidos uno por uno y adorarán a Jehová.
 
----
 ###### 1 
 En aquel día Jehová castigará con su espada dura, grande y fuerte a Leviatán, la serpiente escurridiza, a Leviatán, la serpiente tortuosa; y matará al dragón que está en el mar.
 

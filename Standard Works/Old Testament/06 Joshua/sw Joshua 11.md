@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joshua and Israel conquer the whole land, destroying many cities and nations.
 
----
 ###### 1 
 And it came to pass, when Jabin king of Hazor had heard  that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,
 

@@ -1,22 +1,21 @@
 ---
 title: Alma 55
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 55
 [[Alma 54| <-- Alma 54]] | [[Alma]] | [[Alma 56|Alma 56 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/55?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/55?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Morôni recusa-se a trocar prisioneiros — Os guardas lamanitas são induzidos a embebedarem-se e os prisioneiros nefitas são libertados — A cidade de Gide é tomada sem derramamento de sangue. Aproximadamente 63–62 a.C.
 
----
 ###### 1 
 Ora, aconteceu que quando recebeu esta epístola, Morôni ficou ainda mais irado, porque sabia que Amoron tinha perfeito conhecimento de sua fraude; sim, ele sabia que Amoron não ignorava que aquela guerra contra os nefitas era movida por uma causa injusta.
 

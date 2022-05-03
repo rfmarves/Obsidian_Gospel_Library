@@ -1,22 +1,21 @@
 ---
 title: Alma 29
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 29
 [[Alma 28| <-- Alma 28]] | [[Alma]] | [[Alma 30|Alma 30 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/29?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/29?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Alma deseja proclamar arrependimento com zelo angélico — O Senhor concede mestres a todas as nações — Alma gloria-se na obra do Senhor e no sucesso de Amon e seus irmãos. Aproximadamente 76 a.C.
 
----
 ###### 1 
 Oh! eu quisera ser um anjo e poder realizar o desejo de meu coração de ir e falar com a trombeta de Deus, com uma voz que estremecesse a terra, e proclamar arrependimento a todos os povos!
 

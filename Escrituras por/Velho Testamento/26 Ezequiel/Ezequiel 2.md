@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 2
 [[Ezequiel 1| <-- Ezequiel 1]] | [[Ezequiel]] | [[Ezequiel 3|Ezequiel 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ezequiel é chamado para levar a palavra do Senhor a Israel — Ele vê um livro em que estão escritos lamentos e lamúrias.
 
----
 ###### 1 
 E disse-me: Filho do homem, põe-te sobre os teus pés, e falarei contigo.
 

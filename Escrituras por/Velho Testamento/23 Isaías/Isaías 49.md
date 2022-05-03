@@ -1,22 +1,21 @@
 ---
 title: Isaías 49
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 49
 [[Isaías 48| <-- Isaías 48]] | [[Isaías]] | [[Isaías 50|Isaías 50 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Messias será uma luz para os gentios e libertará os cativos — Israel será reunida com poder nos últimos dias — Reis serão os aios de Israel — Comparar com 1 Néfi 21.
 
----
 ###### 1 
 Ouvi-me, ilhas, e escutai vós, povos de longe: O  me chamou desde o ventre, desde as entranhas de minha mãe fez menção do meu nome.
 

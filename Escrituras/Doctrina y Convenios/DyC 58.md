@@ -1,22 +1,21 @@
 ---
 title: DyC 58
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 58
 [[DyC 57| <-- DyC 57]] | [[DyC]] | [[DyC 59|DyC 59 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, Aquellos que soporten la tribulación serán coronados con gloria; 6–12, Los santos deben prepararse para las bodas del Cordero y la cena del Señor; 13–18, Los obispos son jueces en Israel; 19–23, Los santos deben obedecer las leyes del país; 24–29, Los hombres deben emplear su albedrío para hacer lo bueno; 30–33, El Señor manda y revoca; 34–43, Para arrepentirse, los hombres deben confesar sus pecados y abandonarlos; 44–58, Los santos deben comprar su heredad y congregarse en Misuri; 59–65, Se debe predicar el Evangelio a toda criatura.
 
----
 ###### 1 
 Escuchad, oh élderes de mi iglesia, y dad oído a mi palabra, y de mí aprended mi voluntad en cuanto a vosotros, y también concerniente a esta tierra a la cual os he mandado.
 

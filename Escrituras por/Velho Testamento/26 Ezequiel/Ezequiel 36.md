@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 36
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 36
 [[Ezequiel 35| <-- Ezequiel 35]] | [[Ezequiel]] | [[Ezequiel 37|Ezequiel 37 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/36?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/36?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nos últimos dias, toda a casa de Israel será reunida em suas próprias terras — O Senhor lhes dará um novo coração e um novo espírito — Eles terão Sua lei do evangelho.
 
----
 ###### 1 
 E tu, ó filho do homem, profetiza aos montes de Israel, e dize: Montes de Israel, ouvi a palavra do .
 

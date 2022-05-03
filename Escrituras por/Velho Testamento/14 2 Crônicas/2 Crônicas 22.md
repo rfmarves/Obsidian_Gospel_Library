@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 22
 [[2 Crônicas 21| <-- 2 Crônicas 21]] | [[2 Crônicas]] | [[2 Crônicas 23|2 Crônicas 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Acazias reina iniquamente e é morto por Jeú; sua mãe, Atalia, reina em seu lugar.
 
----
 ###### 1 
 E os moradores de Jerusalém fizeram rei a Acazias, seu filho mais moço, em seu lugar, porque a tropa que viera com os árabes ao acampamento tinha matado a todos os mais velhos; e assim reinou Acazias, filho de Jorão, rei de Judá.
 

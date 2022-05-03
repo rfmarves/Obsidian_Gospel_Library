@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 36
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 36
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/36?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Assyrians war against Judah and blaspheme the Lord.
 
----
 ###### 1 
 Now it came to pass in the fourteenth year of king Hezekiah,  Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them.
 

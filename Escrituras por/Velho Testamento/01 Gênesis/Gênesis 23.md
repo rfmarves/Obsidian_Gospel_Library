@@ -1,22 +1,21 @@
 ---
 title: Gênesis 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 23
 [[Gênesis 22| <-- Gênesis 22]] | [[Gênesis]] | [[Gênesis 24|Gênesis 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sara morre e é sepultada na cova de Macpela, que Abraão comprou de Efrom, o heteu.
 
----
 ###### 1 
 E foi a vida de Sara cento e vinte e sete anos;  os anos da vida de Sara.
 

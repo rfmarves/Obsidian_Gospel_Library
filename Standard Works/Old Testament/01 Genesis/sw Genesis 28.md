@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 28
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 Isaac forbids Jacob to marry a Canaanite—He blesses Jacob and his seed with the blessings of Abraham—Esau marries a daughter of Ishmael—Jacob sees in vision a ladder reaching up into heaven—The Lord promises him seed as the dust of the earth in number—The Lord also promises Jacob that in him and in his seed all the families of the earth will be blessed—Jacob covenants to pay tithes.
 
----
 ###### 1 
 And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan.
 

@@ -1,22 +1,21 @@
 ---
 title: Mosias 25
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 25
 [[Mosias 24| <-- Mosias 24]] | [[Mosias]] | [[Mosias 26|Mosias 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os do povo de Zaraenla (os mulequitas) tornam-se nefitas — Eles tomam conhecimento do povo de Alma e de Zênife — Alma batiza Lími e todo o seu povo — Mosias autoriza Alma a organizar a Igreja de Deus. Aproximadamente 120 a.C.
 
----
 ###### 1 
 E então o rei Mosias fez com que todo o povo se reunisse.
 

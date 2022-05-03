@@ -1,22 +1,21 @@
 ---
 title: Éxodo 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 19
 [[Éxodo 18| <-- Éxodo 18]] | [[Éxodo]] | [[Éxodo 20|Éxodo 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová hace convenio de hacer de Israel un tesoro especial, un reino de sacerdotes y un pueblo santo — El pueblo se santifica — Jehová aparece en Sinaí en medio de fuego, humo y temblores.
 
----
 ###### 1 
 Al mes tercero de la salida de los hijos de Israel de la tierra de Egipto, en ese mismo día llegaron al desierto de Sinaí.
 

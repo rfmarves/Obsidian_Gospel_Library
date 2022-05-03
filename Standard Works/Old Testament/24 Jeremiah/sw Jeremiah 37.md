@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 37
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 37
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/37?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah prophesies that Egypt will not save Judah from Babylon—He is cast into a dungeon—Zedekiah transfers him to the court of the prison.
 
----
 ###### 1 
 And king Zedekiah the son of Josiah reigned instead of Coniah the son of Jehoiakim, whom Nebuchadrezzar king of Babylon made king in the land of Judah.
 

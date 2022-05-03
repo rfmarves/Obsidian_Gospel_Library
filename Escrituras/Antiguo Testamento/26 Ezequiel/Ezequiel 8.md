@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 8
 [[Ezequiel 7| <-- Ezequiel 7]] | [[Ezequiel]] | [[Ezequiel 9|Ezequiel 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequiel ve en visión la iniquidad y las abominaciones del pueblo de Judá en Jerusalén — Ve la idolatría que practicaban en el templo mismo.
 
----
 ###### 1 
 Y aconteció en el sexto año, en el sexto  a los cinco  del mes, que estaba yo sentado en mi casa, y los ancianos de Judá estaban sentados delante de mí, y allí descendió sobre mí la mano de Jehová el Señor.
 

@@ -1,22 +1,21 @@
 ---
 title: Daniel 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 3
 [[Daniel 2| <-- Daniel 2]] | [[Daniel]] | [[Daniel 4|Daniel 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nabucodonosor cria uma imagem de ouro e ordena que todos os homens a adorem — Sadraque, Mesaque e Abede-Nego se recusam e são lançados na fornalha ardente — Eles são preservados e saem ilesos.
 
----
 ###### 1 
 O rei Nabucodonosor fez uma estátua de ouro, a altura da qual  de sessenta côvados, e a sua largura, de seis côvados; levantou-a no campo de Dura, na província de Babilônia.
 

@@ -1,22 +1,21 @@
 ---
 title: Abraão 2
-tags: #Escrituras\PdGV
+tags: Escrituras\PdGV
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Abraão 2
 [[Abraão 1| <-- Abraão 1]] | [[Abraão]] | [[Abraão 3|Abraão 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Abraão sai de Ur a fim de ir para Canaã — Jeová aparece-lhe em Harã — Prometidas todas as bênçãos do evangelho a sua semente e, por meio da semente dele, a todos — Ele vai para Canaã e, de lá, para o Egito.
 
----
 ###### 1 
 Ora, o Senhor Deus fez com que a fome se agravasse na terra de Ur, tanto que Harã, meu irmão, morreu; mas Terá, meu pai, ainda vivia na terra de Ur dos caldeus.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 120
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 120
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/120?lang=eng)
 
----
+```
 A Song of degrees.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Call upon the Lord when in distress.
 
----
 ###### 1 
 In my distress I cried unto the , and he heard me.
 

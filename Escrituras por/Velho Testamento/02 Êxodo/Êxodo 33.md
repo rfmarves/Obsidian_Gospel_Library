@@ -1,22 +1,21 @@
 ---
 title: Êxodo 33
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 33
 [[Êxodo 32| <-- Êxodo 32]] | [[Êxodo]] | [[Êxodo 34|Êxodo 34 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/33?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/33?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor promete estar com Israel e expulsar os povos daquela terra — O tabernáculo da congregação é levado para fora do acampamento — O Senhor fala a Moisés face a face no tabernáculo — Mais tarde, Moisés vê a glória de Deus, mas não a Sua face.
 
----
 ###### 1 
 Disse mais o  a Moisés: Vai, sobe daqui, tu e o povo que fizeste subir da terra do Egito, à terra que jurei a Abraão, e a Isaque, e a Jacó, dizendo: À tua semente a darei.
 

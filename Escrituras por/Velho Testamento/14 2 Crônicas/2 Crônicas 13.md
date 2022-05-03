@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 13
 [[2 Crônicas 12| <-- 2 Crônicas 12]] | [[2 Crônicas]] | [[2 Crônicas 14|2 Crônicas 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Abias reina em Judá — Ele derrota Jeroboão e os exércitos de Israel — O Senhor fere Jeroboão, e ele morre.
 
----
 ###### 1 
 No ano décimo oitavo do rei Jeroboão, reinou Abias sobre Judá.
 

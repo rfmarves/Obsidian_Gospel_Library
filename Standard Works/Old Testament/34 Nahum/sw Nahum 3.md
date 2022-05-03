@@ -1,10 +1,11 @@
 ---
 title: sw Nahum 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nahum 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/nahum/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The miserable downfall of Nineveh is foretold.
 
----
 ###### 1 
 Woe to the bloody city! it  all full of lies  robbery; the prey departeth not;
 

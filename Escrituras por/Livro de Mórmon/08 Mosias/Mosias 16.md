@@ -1,22 +1,21 @@
 ---
 title: Mosias 16
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 16
 [[Mosias 15| <-- Mosias 15]] | [[Mosias]] | [[Mosias 17|Mosias 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Deus redime os homens de seu estado de perdição e queda — Aqueles que são carnais permanecem como se não houvesse redenção — Cristo efetua a ressurreição para a vida eterna ou para a condenação eterna. Aproximadamente 148 a.C.
 
----
 ###### 1 
 E então aconteceu que após Abinádi ter dito estas palavras, estendeu a mão e disse: Tempo virá em que todos verão a salvação do Senhor; em que toda nação, tribo, língua e povo verá olho a olho e confessará, diante de Deus, que seus julgamentos são justos.
 

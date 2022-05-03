@@ -1,22 +1,21 @@
 ---
 title: Atos 22
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 22
 [[Atos 21| <-- Atos 21]] | [[Atos]] | [[Atos 23|Atos 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo conta a história de sua conversão e também declara ter visto Jesus em uma visão — A ele são concedidos alguns privilégios por ser cidadão romano.
 
----
 ###### 1 
 Homens irmãos e pais, ouvi agora a minha defesa perante vós.
 

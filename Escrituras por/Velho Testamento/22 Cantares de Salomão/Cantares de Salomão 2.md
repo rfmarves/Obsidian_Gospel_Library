@@ -1,22 +1,21 @@
 ---
 title: Cantares de Salomão 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Cantares de Salomão 2
 [[Cantares de Salomão 1| <-- Cantares de Salomão 1]] | [[Cantares de Salomão]] | [[Cantares de Salomão 3|Cantares de Salomão 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os bem-amados são louvados e descritos.
 
----
 ###### 1 
 Eu  a rosa de Sarom, o lírio dos vales.
 

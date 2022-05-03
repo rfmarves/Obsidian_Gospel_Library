@@ -1,22 +1,21 @@
 ---
 title: Gênesis 31
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 31
 [[Gênesis 30| <-- Gênesis 30]] | [[Gênesis]] | [[Gênesis 32|Gênesis 32 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/31?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/31?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor manda Jacó voltar para Canaã, e Jacó parte em segredo — Labão o persegue; eles resolvem suas diferenças e fazem um convênio de paz — Labão abençoa seus descendentes, e ele e Jacó se separam.
 
----
 ###### 1 
 Então ouvia as palavras dos filhos de Labão, que diziam: Jacó tomou tudo o que  de nosso pai, e do que  de nosso pai obteve ele toda essa glória.
 

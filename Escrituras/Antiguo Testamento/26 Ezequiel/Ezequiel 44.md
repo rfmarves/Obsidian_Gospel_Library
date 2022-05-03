@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 44
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 44
 [[Ezequiel 43| <-- Ezequiel 43]] | [[Ezequiel]] | [[Ezequiel 45|Ezequiel 45 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/44?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/44?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La gloria de Jehová llena la casa de Jehová — Ningún extranjero puede tener acceso al santuario — Se explica el servicio que prestan los sacerdotes en el templo.
 
----
 ###### 1 
 Entonces me hizo volver hacia la puerta exterior del santuario, la cual mira hacia el oriente; y estaba cerrada.
 

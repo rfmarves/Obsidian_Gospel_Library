@@ -1,22 +1,21 @@
 ---
 title: DeC 97
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 97
 [[DeC 96| <-- DeC 96]] | [[DeC]] | [[DeC 98|DeC 98 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–2, Muitos dos santos de Sião (Condado de Jackson, Missouri) são abençoados por sua fidelidade; 3–5, Parley P. Pratt é elogiado por seu trabalho na escola de Sião; 6–9, Os que observam seus convênios são aceitos pelo Senhor; 10–17, Deve-se construir uma casa em Sião, na qual os puros de coração verão a Deus; 18–21, Sião é o puro de coração; 22–28, Sião escapará do flagelo do Senhor, se for fiel.
 
----
 ###### 1 
 Em verdade vos digo, meus amigos: Falo-vos com a minha voz, sim, a voz de meu Espírito, a fim de mostrar-vos a minha vontade relativa a vossos irmãos da terra de Sião, muitos dos quais são verdadeiramente humildes e procuram zelosamente adquirir sabedoria e encontrar a verdade.
 

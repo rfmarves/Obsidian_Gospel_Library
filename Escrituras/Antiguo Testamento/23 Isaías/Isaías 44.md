@@ -1,22 +1,21 @@
 ---
 title: Isaías 44
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 44
 [[Isaías 43| <-- Isaías 43]] | [[Isaías]] | [[Isaías 45|Isaías 45 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/44?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/44?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Espíritu de Jehová será derramado sobre la descendencia de Israel — Los ídolos de madera son combustible para el fuego — Jehová recogerá, bendecirá y redimirá a Israel, y reconstruirá Jerusalén.
 
----
 ###### 1 
 Ahora pues, oye, oh Jacob, siervo mío, y  oh Israel, a quien yo escogí.
 

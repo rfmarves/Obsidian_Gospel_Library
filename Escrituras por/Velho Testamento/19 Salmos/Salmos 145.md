@@ -1,27 +1,25 @@
 ---
 title: Salmos 145
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 145
 [[Salmos 144| <-- Salmos 144]] | [[Salmos]] | [[Salmos 146|Salmos 146 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/145?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/145?lang=por)
 
----
+```
 Cântico de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi exalta a grandeza e a majestade de Deus — O Senhor é bom para todos — Seu reino é um reino eterno — Ele está perto de todos os que O invocam e guarda aqueles que O amam.
 
----
 ###### 1 
 Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre.
 

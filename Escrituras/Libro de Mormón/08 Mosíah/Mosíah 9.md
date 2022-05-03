@@ -1,27 +1,25 @@
 ---
 title: Mosíah 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 9
 [[Mosíah 8| <-- Mosíah 8]] | [[Mosíah]] | [[Mosíah 10|Mosíah 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/9?lang=spa)
 
----
+```
 Los Anales de Zeniff — Un relato de su pueblo desde la época en que salieron de la tierra de Zarahemla hasta la época en que fueron librados de las manos de los lamanitas.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Zeniff conduce a un grupo de los de Zarahemla para poseer la tierra de Lehi-Nefi — El rey lamanita les permite poseer la tierra — Hay guerra entre los lamanitas y el pueblo de Zeniff. Aproximadamente 200–187 a.C.
 
----
 ###### 1 
 Yo, Zeniff, habiendo sido instruido en todo el idioma de los nefitas y habiendo tenido conocimiento de la tierra de Nefi, o sea, la tierra de la primera herencia de nuestros padres, y habiendo sido enviado como espía entre los lamanitas para que observase sus fuerzas —a fin de que nuestro ejército cayera sobre ellos y los destruyera— mas cuando vi lo bueno que había entre ellos, no quise que fuesen destruidos.
 

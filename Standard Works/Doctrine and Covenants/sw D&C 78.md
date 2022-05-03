@@ -1,10 +1,11 @@
 ---
 title: sw D&C 78
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 78
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, The Saints should organize and establish a storehouse; 5–12, Wise use of their properties will lead to salvation; 13–14, The Church should be independent of earthly powers; 15–16, Michael (Adam) serves under the direction of the Holy One (Christ); 17–22, Blessed are the faithful, for they will inherit all things.
 
----
 ###### 1 
 The Lord spake unto Joseph Smith, Jun., saying: Hearken unto me, saith the Lord your God, who are ordained unto the high priesthood of my church, who have assembled yourselves together;
 

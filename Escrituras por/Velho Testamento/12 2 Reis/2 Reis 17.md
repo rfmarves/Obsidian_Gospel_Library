@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 17
 [[2 Reis 16| <-- 2 Reis 16]] | [[2 Reis]] | [[2 Reis 18|2 Reis 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Oseias reina em Israel e se submete aos assírios — Os israelitas abandonam o Senhor, adoram ídolos, servem Baal e rejeitam tudo o que o Senhor lhes deu — As dez tribos são levadas cativas pelos reis da Assíria — A terra de Israel (Samaria) é repovoada com outros povos — Observam-se muitas formas de adoração falsa entre os samaritanos.
 
----
 ###### 1 
 No ano duodécimo de Acaz, rei de Judá, começou a reinar Oseias, filho de Elá, e reinou sobre Israel, em Samaria, nove anos.
 

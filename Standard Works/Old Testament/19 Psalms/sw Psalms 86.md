@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 86
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 86
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/86?lang=eng)
 
----
+```
 A Prayer of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David implores God for mercy and is saved from the lowest hell—The Lord is good and generous in mercy—All nations will worship before Him.
 
----
 ###### 1 
 Bow down thine ear, O , hear me: for I  poor and needy.
 

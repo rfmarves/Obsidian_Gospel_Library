@@ -1,10 +1,11 @@
 ---
 title: sw Song of Solomon 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Song of Solomon 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 The song of love continues.
 
----
 ###### 1 
 How beautiful are thy feet with shoes, O prince’s daughter! the joints of thy thighs  like jewels, the work of the hands of a cunning workman.
 

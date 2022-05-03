@@ -1,22 +1,21 @@
 ---
 title: 1 Corintios 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Corintios 2
 [[1 Corintios 1| <-- 1 Corintios 1]] | [[1 Corintios]] | [[1 Corintios 3|1 Corintios 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Evangelio se predica por el poder del Espíritu — El Espíritu revela a los santos todas las cosas — El hombre natural que no se ha arrepentido no puede recibir las cosas del Espíritu de Dios.
 
----
 ###### 1 
 Así que, hermanos, cuando fui a vosotros para anunciaros el testimonio de Dios, no fui con excelencia de palabras o de sabiduría.
 

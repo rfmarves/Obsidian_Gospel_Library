@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Aaron and his sons are washed, anointed, clothed in their priesthood robes, and consecrated before all Israel—Moses and Aaron offer sacrifices to make reconciliation and atonement with the Lord.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

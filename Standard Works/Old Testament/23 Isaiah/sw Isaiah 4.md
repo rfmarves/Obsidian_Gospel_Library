@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Zion and her daughters will be redeemed and cleansed in the millennial day—Compare 2 Nephi 14.
 
----
 ###### 1 
 And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.
 

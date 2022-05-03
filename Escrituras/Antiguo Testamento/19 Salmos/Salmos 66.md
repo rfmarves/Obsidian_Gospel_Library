@@ -1,27 +1,25 @@
 ---
 title: Salmos 66
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 66
 [[Salmos 65| <-- Salmos 65]] | [[Salmos]] | [[Salmos 67|Salmos 67 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/66?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/66?lang=spa)
 
----
+```
 Al músico principal. Cántico. Salmo.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Alabad y adorad a Dios — Él pone a prueba y refina a los hombres — Se ofrecerán sacrificios en Su casa.
 
----
 ###### 1 
 
 

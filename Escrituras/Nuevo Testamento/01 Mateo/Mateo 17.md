@@ -1,22 +1,21 @@
 ---
 title: Mateo 17
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 17
 [[Mateo 16| <-- Mateo 16]] | [[Mateo]] | [[Mateo 18|Mateo 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús se transfigura en el monte delante de Pedro, Santiago (Jacobo) y Juan — Sana a un lunático, habla de Su muerte cercana y paga impuestos de un modo milagroso.
 
----
 ###### 1 
 Y después de seis días, Jesús tomó consigo a Pedro, y a Jacobo y a Juan, su hermano, y los llevó aparte a un monte alto;
 

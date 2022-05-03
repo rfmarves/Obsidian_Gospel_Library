@@ -1,22 +1,21 @@
 ---
 title: Nehemías 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nehemías 5
 [[Nehemías 4| <-- Nehemías 4]] | [[Nehemías]] | [[Nehemías 6|Nehemías 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Muchos judíos se encuentran en servidumbre bajo el dominio de sus hermanos — Bajo la dirección de Nehemías, ellos son liberados, sus tierras les son devueltas y la usura es abolida.
 
----
 ###### 1 
 Y hubo gran clamor del pueblo y de sus esposas contra sus hermanos judíos.
 

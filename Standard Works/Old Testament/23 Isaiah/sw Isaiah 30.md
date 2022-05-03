@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 30
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 30
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/30?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is scattered for rejecting the seers and prophets—Israel’s people will be gathered and blessed temporally and spiritually—The Lord will come in a day of apostasy to judge and destroy the wicked.
 
----
 ###### 1 
 Woe to the rebellious children, saith the , that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:
 

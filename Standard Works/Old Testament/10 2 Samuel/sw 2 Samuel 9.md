@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 David seeks to honor the house of Saul—He finds Mephibosheth, the son of Jonathan, to whom he restores all the land of Saul.
 
----
 ###### 1 
 And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan’s sake?
 

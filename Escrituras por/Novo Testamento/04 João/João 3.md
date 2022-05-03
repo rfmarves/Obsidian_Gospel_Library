@@ -1,22 +1,21 @@
 ---
 title: João 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 3
 [[João 2| <-- João 2]] | [[João]] | [[João 4|João 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus diz a Nicodemos que os homens devem nascer de novo — Deus amou o mundo de tal maneira que enviou Seu Filho Unigênito para salvar os homens — João Batista testifica que aquele que crê no Filho tem a vida eterna.
 
----
 ###### 1 
 E havia entre os fariseus um homem, chamado Nicodemos, príncipe dos judeus.
 

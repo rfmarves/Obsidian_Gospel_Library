@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Solomon begins to build the temple—He makes the veil and the pillars, and uses much gold and many precious stones.
 
----
 ###### 1 
 Then Solomon began to build the house of the  at Jerusalem in mount Moriah, where  appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite.
 

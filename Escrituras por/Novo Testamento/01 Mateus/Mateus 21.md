@@ -1,22 +1,21 @@
 ---
 title: Mateus 21
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 21
 [[Mateus 20| <-- Mateus 20]] | [[Mateus]] | [[Mateus 22|Mateus 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus entra triunfalmente em Jerusalém — Ele purifica o templo, amaldiçoa a figueira e fala sobre autoridade — Ele conta a parábola dos dois filhos e a dos lavradores maus.
 
----
 ###### 1 
 E quando se aproximaram de Jerusalém, e chegaram a Betfagé, ao Monte das Oliveiras, enviou então Jesus dois discípulos, dizendo-lhes:
 

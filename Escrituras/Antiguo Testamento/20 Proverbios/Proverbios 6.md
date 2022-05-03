@@ -1,22 +1,21 @@
 ---
 title: Proverbios 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 6
 [[Proverbios 5| <-- Proverbios 5]] | [[Proverbios]] | [[Proverbios 7|Proverbios 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se mencionan seis cosas que Jehová aborrece — Los que cometen adulterio corrompen sus propias almas.
 
----
 ###### 1 
 
 

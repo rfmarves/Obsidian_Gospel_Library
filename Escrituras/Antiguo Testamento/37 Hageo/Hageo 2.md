@@ -1,22 +1,21 @@
 ---
 title: Hageo 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hageo 2
 [[Hageo 1| <-- Hageo 1]] | [[Hageo]] | [[Zacarías 1|Zacarías 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hag/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hag/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Hageo habla del Mesías — Vendrá el Deseado de todas las naciones — Jehová dará paz en Su templo.
 
----
 ###### 1 
 En el  séptimo, a los veintiún  vino la palabra de Jehová por medio del profeta Hageo, diciendo:
 

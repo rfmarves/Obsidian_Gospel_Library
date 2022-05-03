@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 The stem of Jesse (Christ) will judge in righteousness—The knowledge about God will cover the earth in the Millennium—The Lord will raise an ensign and gather Israel—Compare 2 Nephi 21.
 
----
 ###### 1 
 And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:
 

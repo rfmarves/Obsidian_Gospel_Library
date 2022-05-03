@@ -1,22 +1,21 @@
 ---
 title: Lucas 16
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 16
 [[Lucas 15| <-- Lucas 15]] | [[Lucas]] | [[Lucas 17|Lucas 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus conta a parábola do mordomo injusto — Ele ensina a respeito do serviço e condena o divórcio — Ele conta a parábola do homem rico e Lázaro.
 
----
 ###### 1 
 E dizia também aos seus discípulos: Havia um certo homem rico, o qual tinha um mordomo; e este foi acusado perante ele de dissipar os seus bens.
 

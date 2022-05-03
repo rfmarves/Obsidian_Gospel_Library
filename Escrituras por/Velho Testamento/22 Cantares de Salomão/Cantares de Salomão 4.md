@@ -1,22 +1,21 @@
 ---
 title: Cantares de Salomão 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Cantares de Salomão 4
 [[Cantares de Salomão 3| <-- Cantares de Salomão 3]] | [[Cantares de Salomão]] | [[Cantares de Salomão 5|Cantares de Salomão 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Canção que descreve a beleza da bem-amada do poeta.
 
----
 ###### 1 
 Eis que  formosa, amada minha, eis que  formosa; os teus olhos  das pombas por detrás do teu véu; o teu cabelo  como o rebanho de cabras que pastam no monte de Gileade.
 

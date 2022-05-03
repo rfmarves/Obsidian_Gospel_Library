@@ -1,22 +1,21 @@
 ---
 title: Hechos 16
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 16
 [[Hechos 15| <-- Hechos 15]] | [[Hechos]] | [[Hechos 17|Hechos 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Mediante una visión, se indica a Pablo que predique en Macedonia — Saca de una mujer a un espíritu maligno — Pablo y Silas son encarcelados y convierten al carcelero — Los dos instan a todos a creer en el Señor Jesús y a ser salvos.
 
----
 ###### 1 
 Después llegó a Derbe y a Listra; y he aquí, había allí cierto discípulo llamado Timoteo, hijo de una mujer judía creyente, pero de padre griego.
 

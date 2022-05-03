@@ -1,27 +1,25 @@
 ---
 title: Salmos 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 17
 [[Salmos 16| <-- Salmos 16]] | [[Salmos]] | [[Salmos 18|Salmos 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/17?lang=spa)
 
----
+```
 Oración de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David suplica a Jehová que oiga su voz y que lo guarde de hombres mundanos — David confía en llegar a ver el rostro de Jehová en justicia.
 
----
 ###### 1 
 
 

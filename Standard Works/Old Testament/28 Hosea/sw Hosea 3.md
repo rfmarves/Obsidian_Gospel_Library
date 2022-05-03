@@ -1,10 +1,11 @@
 ---
 title: sw Hosea 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hosea 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel will seek the Lord, return to the Lord, and receive of His goodness in the latter days.
 
----
 ###### 1 
 Then said the  unto me, Go yet, love a woman beloved of  friend, yet an adulteress, according to the love of the  toward the children of Israel, who look to other gods, and love flagons of wine.
 

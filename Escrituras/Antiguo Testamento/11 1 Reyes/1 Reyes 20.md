@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 20
 [[1 Reyes 19| <-- 1 Reyes 19]] | [[1 Reyes]] | [[1 Reyes 21|1 Reyes 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ben-adad, de Siria, hace la guerra contra Israel — Los sirios son derrotados dos veces — Acab deja libre a Ben-adad, en contra de la voluntad de Jehová.
 
----
 ###### 1 
 Entonces Ben-adad, rey de Siria, reunió a todo su ejército, y con él treinta y dos reyes, con caballos y carros; y subió, y sitió Samaria y la atacó.
 

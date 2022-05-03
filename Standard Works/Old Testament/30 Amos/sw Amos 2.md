@@ -1,10 +1,11 @@
 ---
 title: sw Amos 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Amos 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord will pour out judgments upon Moab, Judah, and Israel for their unrighteousness.
 
----
 ###### 1 
 Thus saith the ; For three transgressions of Moab, and for four, I will not turn away  thereof; because he burned the bones of the king of Edom into lime:
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 63
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 63
 [[Salmos 62| <-- Salmos 62]] | [[Salmos]] | [[Salmos 64|Salmos 64 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/63?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/63?lang=por)
 
----
+```
 Salmo de Davi quando estava no deserto de Judá.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 A alma de Davi tem sede de Deus, a quem ele louva com lábios alegres.
 
----
 ###### 1 
 Ó Deus, tu  o meu Deus, cedo te buscarei; a minha alma tem sede de ti; a minha carne te deseja muito em uma terra seca e cansada, onde não há água,
 

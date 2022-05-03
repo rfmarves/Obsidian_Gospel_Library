@@ -1,27 +1,25 @@
 ---
 title: Salmos 50
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 50
 [[Salmos 49| <-- Salmos 49]] | [[Salmos]] | [[Salmos 51|Salmos 51 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/50?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/50?lang=por)
 
----
+```
 Salmo de Asafe.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Asafe fala da Segunda Vinda — O Senhor aceita os sacrifícios dos justos e os libertará — Aqueles cuja conduta é justa verão a salvação de Deus.
 
----
 ###### 1 
 O Deus poderoso, o , falou e chamou a terra desde o nascimento do sol até o seu ocaso.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abraham is commanded to sacrifice Isaac, his son—Both father and son yield to the will of God—Abraham’s seed will be as the stars and the sand in number—In his seed, all nations will be blessed—Rebekah is born to Bethuel.
 
----
 ###### 1 
 And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold,  I 
 

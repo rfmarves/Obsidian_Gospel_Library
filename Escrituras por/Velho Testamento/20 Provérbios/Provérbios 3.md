@@ -1,22 +1,21 @@
 ---
 title: Provérbios 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 3
 [[Provérbios 2| <-- Provérbios 2]] | [[Provérbios]] | [[Provérbios 4|Provérbios 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Escreve a benignidade e a fidelidade na tábua do teu coração — Confia no Senhor — Honra-O com os teus bens — O Senhor repreende aquele a quem ama — Bem-aventurado o homem que acha sabedoria.
 
----
 ###### 1 
 Filho meu, não te esqueças da minha lei, e o teu coração guarde os meus mandamentos.
 

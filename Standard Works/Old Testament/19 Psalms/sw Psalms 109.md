@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 109
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 109
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/109?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David speaks of the cursings due to the wicked and deceitful—He prays that his enemies will be confounded.
 
----
 ###### 1 
 Hold not thy peace, O God of my praise;
 

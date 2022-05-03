@@ -1,10 +1,11 @@
 ---
 title: sw 2 Corinthians 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Corinthians 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saints walk by faith and seek tabernacles of immortal glory—The gospel reconciles man to God—God’s ministers carry the word of reconciliation to the world.
 
----
 ###### 1 
 For we know that if our earthly house of  tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 20
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus gives the parable of the laborers in the vineyard—He foretells His crucifixion and resurrection—He came to give His life as a ransom for many.
 
----
 ###### 1 
 For the kingdom of heaven is like unto a man  an householder, which went out early in the morning to hire labourers into his vineyard.
 

@@ -1,22 +1,21 @@
 ---
 title: Provérbios 24
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 24
 [[Provérbios 23| <-- Provérbios 23]] | [[Provérbios]] | [[Provérbios 25|Provérbios 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Há segurança na multidão de conselheiros — Não te indignes por causa dos malfeitores — Não é bom ser parcial no julgamento.
 
----
 ###### 1 
 Não tenhas inveja dos homens malignos, nem desejes estar com eles,
 

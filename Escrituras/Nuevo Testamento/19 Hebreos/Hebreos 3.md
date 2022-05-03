@@ -1,22 +1,21 @@
 ---
 title: Hebreos 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreos 3
 [[Hebreos 2| <-- Hebreos 2]] | [[Hebreos]] | [[Hebreos 4|Hebreos 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cristo es el Apóstol y Sumo Sacerdote de lo que profesamos — Jesús, por ser el Hijo, es más que un siervo — Ahora es el tiempo y el día de nuestra salvación.
 
----
 ###### 1 
 Por tanto, hermanos santos, participantes del llamamiento celestial, considerad al Apóstol y Sumo Sacerdote de nuestra profesión, Cristo Jesús,
 

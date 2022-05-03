@@ -1,22 +1,21 @@
 ---
 title: Jeremías 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 22
 [[Jeremías 21| <-- Jeremías 21]] | [[Jeremías]] | [[Jeremías 23|Jeremías 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El trono de David permanece o cae según la obediencia de los reyes — Los juicios de Jehová están sobre los reyes de Judá.
 
----
 ###### 1 
 Así ha dicho Jehová: Desciende a la casa del rey de Judá y habla allí esta palabra,
 

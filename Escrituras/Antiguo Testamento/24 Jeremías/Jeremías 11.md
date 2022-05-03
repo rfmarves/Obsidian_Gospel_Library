@@ -1,22 +1,21 @@
 ---
 title: Jeremías 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 11
 [[Jeremías 10| <-- Jeremías 10]] | [[Jeremías]] | [[Jeremías 12|Jeremías 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El pueblo de Judá es maldecido por haber quebrantado el convenio de obediencia — Jehová no oirá sus oraciones.
 
----
 ###### 1 
 La palabra que vino de Jehová, a Jeremías, diciendo:
 

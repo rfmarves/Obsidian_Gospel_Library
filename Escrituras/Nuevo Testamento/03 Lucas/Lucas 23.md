@@ -1,22 +1,21 @@
 ---
 title: Lucas 23
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 23
 [[Lucas 22| <-- Lucas 22]] | [[Lucas]] | [[Lucas 24|Lucas 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se lleva a Jesús ante Pilato, después ante Herodes y nuevamente ante Pilato — Se pone en libertad a Barrabás — Se crucifica a Jesús entre dos ladrones — Se le sepulta en la tumba de José de Arimatea.
 
----
 ###### 1 
 Levantándose entonces toda la multitud de ellos, le llevaron a Pilato.
 

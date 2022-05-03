@@ -1,10 +1,11 @@
 ---
 title: sw Alma 62
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 62
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/62?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moroni marches to the aid of Pahoran in the land of Gideon—The king-men who refuse to defend their country are put to death—Pahoran and Moroni retake Nephihah—Many Lamanites join the people of Ammon—Teancum slays Ammoron and is in turn slain—The Lamanites are driven from the land, and peace is established—Helaman returns to the ministry and builds up the Church. About 62–57 B.C.
 
----
 ###### 1 
 And now it came to pass that when Moroni had received this epistle his heart did take courage, and was filled with exceedingly great joy because of the faithfulness of Pahoran, that he was not also a traitor to the freedom and cause of his country.
 

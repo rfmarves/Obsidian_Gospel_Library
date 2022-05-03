@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 3
 [[2 Samuel 2| <-- 2 Samuel 2]] | [[2 Samuel]] | [[2 Samuel 4|2 Samuel 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Las casas de David y de Saúl se traban en una guerra prolongada — David se hace más fuerte — Abner se une a David, pero es muerto por Joab — David se lamenta por Abner.
 
----
 ###### 1 
 Y hubo una larga guerra entre la casa de Saúl y la casa de David; pero David se iba fortaleciendo, y la casa de Saúl se iba debilitando.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 74
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 74
 [[Salmos 73| <-- Salmos 73]] | [[Salmos]] | [[Salmos 75|Salmos 75 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/74?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/74?lang=por)
 
----
+```
 Masquil de Asafe.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Ó Deus, lembra-Te da tua congregação escolhida — Os iníquos destroem o santuário e queimam sinagogas — Ó Deus, lembra-Te deles por suas obras e salva Teu povo.
 
----
 ###### 1 
 Ó Deus, por que  rejeitaste para sempre?  se acende a tua ira contra as ovelhas do teu pasto?
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 27
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 27
 [[1 Samuel 26| <-- 1 Samuel 26]] | [[1 Samuel]] | [[1 Samuel 28|1 Samuel 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David huye a Aquis, en Gat — Mora entre los filisteos durante dieciséis meses.
 
----
 ###### 1 
 Y dijo David en su corazón: Ahora bien, seré muerto algún día por la mano de Saúl; nada, por tanto, me será mejor que fugarme a la tierra de los filisteos, para que Saúl deje de ocuparse de mí y no me ande buscando más por todo el territorio de Israel, y así escaparé de sus manos.
 

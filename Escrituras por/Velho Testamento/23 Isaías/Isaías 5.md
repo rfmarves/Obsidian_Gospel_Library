@@ -1,22 +1,21 @@
 ---
 title: Isaías 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 5
 [[Isaías 4| <-- Isaías 4]] | [[Isaías]] | [[Isaías 6|Isaías 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A vinha do Senhor (Israel) se tornará desolada, e seu povo será disperso — Sobrevir-lhes-ão calamidades em seu estado apóstata e disperso — O Senhor levantará um estandarte e reunirá Israel — Comparar com 2 Néfi 15.
 
----
 ###### 1 
 Agora cantarei ao meu amado o cântico do meu querido a respeito da sua vinha. O meu amado tem uma vinha num outeiro fértil.
 

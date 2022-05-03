@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 3
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/3?lang=eng)
 
----
+```
 A Psalm of David, when he fled from Absalom his son.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David cries unto the Lord and is heard—Salvation is of the Lord.
 
----
 ###### 1 
 , how are they increased that trouble me! many  they that rise up against me.
 

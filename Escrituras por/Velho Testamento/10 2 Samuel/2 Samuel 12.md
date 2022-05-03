@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 12
 [[2 Samuel 11| <-- 2 Samuel 11]] | [[2 Samuel]] | [[2 Samuel 13|2 Samuel 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Natã conta a Davi a parábola da pequena cordeira — O Senhor deu muitas esposas a Davi, que passa a ser amaldiçoado por haver tomado Bate-Seba — Davi jejua e ora por seu filho, mas o Senhor leva o menino — Nasce Salomão — Davi conquista a cidade real dos amonitas.
 
----
 ###### 1 
 E o  enviou Natã a Davi; e indo ele a Davi, disse-lhe: Havia numa cidade dois homens, um rico e outro pobre.
 

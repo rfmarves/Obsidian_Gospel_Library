@@ -1,22 +1,21 @@
 ---
 title: Isaías 14
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 14
 [[Isaías 13| <-- Isaías 13]] | [[Isaías]] | [[Isaías 15|Isaías 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel será recogido y disfrutará de reposo milenario — Lucifer fue echado del cielo por su rebelión — Israel triunfará sobre Babilonia (el mundo) — Compárese con 2 Nefi 24.
 
----
 ###### 1 
 Porque Jehová tendrá piedad de Jacob, y todavía escogerá a Israel y lo hará reposar en su propia tierra; y extranjeros se juntarán con ellos y se unirán a la casa de Jacob.
 

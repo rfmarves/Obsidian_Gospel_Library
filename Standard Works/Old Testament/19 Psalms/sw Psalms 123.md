@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 123
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 123
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/123?lang=eng)
 
----
+```
 A Song of degrees.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Lift up your eyes unto the Lord, and plead with Him for mercy.
 
----
 ###### 1 
 Unto thee lift I up mine eyes, O thou that dwellest in the heavens.
 

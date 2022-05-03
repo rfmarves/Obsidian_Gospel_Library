@@ -1,22 +1,21 @@
 ---
 title: DeC 71
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 71
 [[DeC 70| <-- DeC 70]] | [[DeC]] | [[DeC 72|DeC 72 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/71?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/71?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, Joseph Smith e Sidney Rigdon são enviados para pregar o evangelho; 5–11, Os inimigos dos santos serão confundidos.
 
----
 ###### 1 
 Eis que assim vos diz o Senhor, meus servos Joseph Smith Júnior e Sidney Rigdon, que em verdade é chegada a hora em que me é necessário e conveniente que abrais a boca para proclamar meu evangelho e as coisas do reino, expondo seus mistérios pelas escrituras, conforme a porção do Espírito e do poder que vos será dada, sim, segundo a minha vontade.
 

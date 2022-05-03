@@ -1,22 +1,21 @@
 ---
 title: Mateo 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 4
 [[Mateo 3| <-- Mateo 3]] | [[Mateo]] | [[Mateo 5|Mateo 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús ayuna cuarenta días y es tentado — Inicia Su ministerio, llama discípulos y sana a los enfermos.
 
----
 ###### 1 
 Entonces Jesús fue llevado por el Espíritu al desierto para ser tentado por el diablo.
 

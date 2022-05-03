@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 21
 [[1 Reis 20| <-- 1 Reis 20]] | [[1 Reis]] | [[1 Reis 22|1 Reis 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Acabe deseja a vinha de Nabote — Jezabel arranja testemunhas falsas, e Nabote é apedrejado por blasfêmia — Elias, o profeta, profetiza que Acabe, Jezabel e a casa deles serão destruídos.
 
----
 ###### 1 
 E sucedeu depois destas coisas, tendo Nabote, o jezreelita, uma vinha, que  em Jezreel, junto ao palácio de Acabe, rei de Samaria,
 

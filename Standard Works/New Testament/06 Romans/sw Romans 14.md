@@ -1,10 +1,11 @@
 ---
 title: sw Romans 14
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Avoid quarreling about opinions and making unrighteous judgment of each other—Every knee will bow to Christ—The kingdom of God embraces righteousness, peace, and joy in the Holy Ghost.
 
----
 ###### 1 
 Him that is weak in the faith receive ye,  not to doubtful disputations.
 

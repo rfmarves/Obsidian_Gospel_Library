@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 74
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 74
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/74?lang=eng)
 
----
+```
 Maschil of Asaph.
+```
 
----
-
----
-__Summary__
+> __Summary__
 O God, remember Thy chosen congregation—The wicked destroy the sanctuary and burn the synagogues—O God, remember them for their deeds, and save Thy people.
 
----
 ###### 1 
 O God, why hast thou cast  off for ever?  doth thine anger smoke against the sheep of thy pasture?
 

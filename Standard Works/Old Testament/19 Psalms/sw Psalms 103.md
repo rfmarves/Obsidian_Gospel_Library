@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 103
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 103
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/103?lang=eng)
 
----
+```
 A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David exhorts the Saints to bless the Lord for His mercy—The Lord is merciful unto those who keep His commandments.
 
----
 ###### 1 
 Bless the , O my soul: and all that is within me,  his holy name.
 

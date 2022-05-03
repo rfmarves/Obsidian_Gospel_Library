@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 The queen of Sheba visits Solomon—His wealth and wisdom exceed that of all the kings of the earth.
 
----
 ###### 1 
 And when the queen of Sheba heard of the fame of Solomon concerning the name of the , she came to prove him with hard questions.
 

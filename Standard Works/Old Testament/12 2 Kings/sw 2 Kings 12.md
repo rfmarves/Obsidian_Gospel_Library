@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jehoash (Joash) reigns in righteousness—The breaches in the temple are repaired—The safety of Jerusalem is purchased with the hallowed things in the temple—Joash is slain and Amaziah reigns.
 
----
 ###### 1 
 In the seventh year of Jehu Jehoash began to reign; and forty years reigned he in Jerusalem. And his mother’s name  Zibiah of Beer-sheba.
 

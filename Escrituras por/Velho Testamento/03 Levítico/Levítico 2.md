@@ -1,22 +1,21 @@
 ---
 title: Levítico 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 2
 [[Levítico 1| <-- Levítico 1]] | [[Levítico]] | [[Levítico 3|Levítico 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Explica-se como são feitas as ofertas de farinha com azeite e incenso.
 
----
 ###### 1 
 E quando  pessoa oferecer oferta de manjares ao , a sua oferta será  flor de farinha, e nela deitará azeite, e porá o incenso sobre ela;
 

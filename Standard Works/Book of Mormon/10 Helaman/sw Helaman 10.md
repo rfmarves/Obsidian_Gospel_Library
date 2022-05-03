@@ -1,10 +1,11 @@
 ---
 title: sw Helaman 10
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Helaman 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord gives Nephi the sealing power—He is empowered to bind and loose on earth and in heaven—He commands the people to repent or perish—The Spirit carries him from multitude to multitude. About 21–20 B.C.
 
----
 ###### 1 
 And it came to pass that there arose a division among the people, insomuch that they divided hither and thither and went their ways, leaving Nephi alone, as he was standing in the midst of them.
 

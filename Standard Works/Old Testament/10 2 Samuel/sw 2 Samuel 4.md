@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Two of Saul’s captains slay Ishbosheth—They take his head to David, who has them slain for killing a righteous person.
 
----
 ###### 1 
 And when Saul’s son heard that Abner was dead in Hebron, his hands were feeble, and all the Israelites were troubled.
 

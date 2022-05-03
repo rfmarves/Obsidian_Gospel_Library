@@ -1,22 +1,21 @@
 ---
 title: Morôni 10
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Morôni 10
 [[Morôni 9| <-- Morôni 9]] | [[Morôni]] |
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O testemunho do Livro de Mórmon é recebido pelo poder do Espírito Santo — Os dons do Espírito são concedidos aos fiéis — Os dons espirituais sempre acompanham a fé — As palavras de Morôni falam do pó — Vinde a Cristo, aperfeiçoai-vos Nele e santificai vossa alma. Aproximadamente 421 d.C.
 
----
 ###### 1 
 Agora eu, Morôni, escrevo algo que me parece bom; e escrevo a meus irmãos, os lamanitas; e quero que saibam que se passaram mais de quatrocentos e vinte anos desde que foi dado o sinal da vinda de Cristo.
 

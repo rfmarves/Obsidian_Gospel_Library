@@ -1,10 +1,11 @@
 ---
 title: sw D&C 10
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–26, Satan stirs up wicked men to oppose the Lord’s work; 27–33, He seeks to destroy the souls of men; 34–52, The gospel is to go to the Lamanites and all nations through the Book of Mormon; 53–63, The Lord will establish His Church and His gospel among men; 64–70, He will gather the repentant into His Church and will save the obedient.
 
----
 ###### 1 
 Now, behold, I say unto you, that because you delivered up those writings which you had power given unto you to translate by the means of the Urim and Thummim, into the hands of a wicked man, you have lost them.
 

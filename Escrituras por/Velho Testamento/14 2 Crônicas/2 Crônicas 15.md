@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 15
 [[2 Crônicas 14| <-- 2 Crônicas 14]] | [[2 Crônicas]] | [[2 Crônicas 16|2 Crônicas 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Azarias profetiza que Judá prosperará se o povo guardar os mandamentos — Asa elimina de Judá a adoração falsa — Muitos de Efraim, Manassés e Simeão migram para Judá — O povo faz convênio de servir ao Senhor e é abençoado.
 
----
 ###### 1 
 Então veio o Espírito de Deus sobre Azarias, filho de Obede.
 

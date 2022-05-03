@@ -1,22 +1,21 @@
 ---
 title: 1 Pedro 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Pedro 2
 [[1 Pedro 1| <-- 1 Pedro 1]] | [[1 Pedro]] | [[1 Pedro 3|1 Pedro 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los conversos son como niños recién nacidos en Cristo — Él es la principal piedra del ángulo — Los santos poseen un real sacerdocio y son un pueblo adquirido por Dios — Los santos están sujetos a las leyes del hombre.
 
----
 ###### 1 
 Desechando, pues, toda malicia, y todo engaño, e hipocresías, y envidias y toda calumnia,
 

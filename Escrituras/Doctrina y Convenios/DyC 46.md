@@ -1,22 +1,21 @@
 ---
 title: DyC 46
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 46
 [[DyC 45| <-- DyC 45]] | [[DyC]] | [[DyC 47|DyC 47 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–2, Los élderes han de dirigir las reuniones conforme los guíe el Santo Espíritu; 3–6, Los que buscan la verdad no deben ser excluidos de los servicios sacramentales; 7–12, Pedid a Dios y buscad los dones del Espíritu; 13–26, Se enumeran algunos de estos dones; 27–33, Se da poder a los oficiales que dirigen la Iglesia para discernir los dones del Espíritu.
 
----
 ###### 1 
 Escuchad, oh pueblo de mi iglesia, porque en verdad os digo que estas cosas os fueron declaradas para vuestro provecho e instrucción.
 

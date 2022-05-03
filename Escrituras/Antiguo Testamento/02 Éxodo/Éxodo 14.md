@@ -1,22 +1,21 @@
 ---
 title: Éxodo 14
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 14
 [[Éxodo 13| <-- Éxodo 13]] | [[Éxodo]] | [[Éxodo 15|Éxodo 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel sale de Egipto — Israel cruza el mar Rojo sobre tierra seca — Jehová derrota a los egipcios en medio del mar.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

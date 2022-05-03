@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 28
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 David assembles the leaders of Israel—Solomon is appointed to build the temple—David exhorts Solomon and the people to keep the commandments—David gives Solomon the pattern and materials for the temple.
 
----
 ###### 1 
 And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem.
 

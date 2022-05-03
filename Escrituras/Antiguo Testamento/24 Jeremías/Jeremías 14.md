@@ -1,22 +1,21 @@
 ---
 title: Jeremías 14
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 14
 [[Jeremías 13| <-- Jeremías 13]] | [[Jeremías]] | [[Jeremías 15|Jeremías 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías ora por motivo de la sequía y del hambre — Jehová no escuchará a causa de la iniquidad de Su pueblo.
 
----
 ###### 1 
 La palabra de Jehová que vino a Jeremías por motivo de la sequía.
 

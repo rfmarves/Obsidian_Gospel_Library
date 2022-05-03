@@ -1,10 +1,11 @@
 ---
 title: sw Habakkuk 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Habakkuk 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hab/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 In his prayer Habakkuk trembles at the majesty of God.
 
----
 ###### 1 
 A prayer of Habakkuk the prophet upon Shigionoth.
 

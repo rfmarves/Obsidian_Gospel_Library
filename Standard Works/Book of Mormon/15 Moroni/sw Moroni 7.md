@@ -1,10 +1,11 @@
 ---
 title: sw Moroni 7
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moroni 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 An invitation is given to enter into the rest of the Lord—Pray with real intent—The Spirit of Christ enables men to know good from evil—Satan persuades men to deny Christ and do evil—The prophets manifest the coming of Christ—By faith, miracles are wrought and angels minister—Men should hope for eternal life and cleave unto charity. About A.D. 401–21.
 
----
 ###### 1 
 And now I, Moroni, write a few of the words of my father Mormon, which he spake concerning faith, hope, and charity; for after this manner did he speak unto the people, as he taught them in the synagogue which they had built for the place of worship.
 

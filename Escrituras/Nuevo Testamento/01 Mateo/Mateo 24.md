@@ -1,22 +1,21 @@
 ---
 title: Mateo 24
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 24
 [[Mateo 23| <-- Mateo 23]] | [[Mateo]] | [[Mateo 25|Mateo 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús predice la condenación de Jerusalén y la destrucción del templo — Grandes calamidades precederán a Su segunda venida — Jesús enseña la parábola de la higuera.
 
----
 ###### 1 
 Y Jesús salió del templo y, cuando se iba, se le acercaron sus discípulos para mostrarle los edificios del templo.
 

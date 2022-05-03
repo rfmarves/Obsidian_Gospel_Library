@@ -1,22 +1,21 @@
 ---
 title: Nehemías 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nehemías 4
 [[Nehemías 3| <-- Nehemías 3]] | [[Nehemías]] | [[Nehemías 5|Nehemías 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los enemigos de los judíos procuran impedir que estos reconstruyan los muros de Jerusalén — Nehemías arma a los obreros y continúa haciendo avanzar la obra.
 
----
 ###### 1 
 Y aconteció que cuando oyó Sanbalat que nosotros reedificábamos el muro, se enojó y se enfureció en gran manera, y se burló de los judíos.
 

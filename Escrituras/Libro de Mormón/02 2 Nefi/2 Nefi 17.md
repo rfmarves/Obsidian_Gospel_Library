@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 17
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 17
 [[2 Nefi 16| <-- 2 Nefi 16]] | [[2 Nefi]] | [[2 Nefi 18|2 Nefi 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Efraín y Siria guerrean contra Judá — Cristo nacerá de una virgen — Compárese con Isaías 7. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Y en los días de Acaz hijo de Jotam, hijo de Uzías, rey de Judá, aconteció que Rezín, rey de Siria, y Peca hijo de Remalías, rey de Israel, vinieron sobre Jerusalén para combatirla, mas no pudieron prevalecer contra ella.
 

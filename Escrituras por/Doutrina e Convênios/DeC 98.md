@@ -1,22 +1,21 @@
 ---
 title: DeC 98
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 98
 [[DeC 97| <-- DeC 97]] | [[DeC]] | [[DeC 99|DeC 99 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/98?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/98?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–3, As aflições dos santos são para o seu bem; 4–8, Os santos devem apoiar a lei constitucional do país; 9–10, Devem ser apoiados homens honestos, prudentes e bons para o governo secular; 11–15, Os que perderem a vida na causa do Senhor terão vida eterna; 16–18, Renunciai à guerra e proclamai a paz; 19–22, Os santos de Kirtland são repreendidos e ordena-se que se arrependam; 23–32, O Senhor revela as Suas leis com respeito às perseguições e aflições impostas a Seu povo; 33–38, A guerra é justificada apenas quando o Senhor a ordena; 39–48, Os santos devem perdoar seus inimigos, os quais, caso se arrependam, escaparão à vingança do Senhor.
 
----
 ###### 1 
 Em verdade vos digo, meus amigos: Não temais; que se console vosso coração; sim, regozijai-vos sempre e em tudo dai graças;
 

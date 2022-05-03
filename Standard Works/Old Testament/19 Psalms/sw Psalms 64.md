@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 64
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 64
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/64?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David prays for safety—The righteous will be glad in heart.
 
----
 ###### 1 
 Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.
 

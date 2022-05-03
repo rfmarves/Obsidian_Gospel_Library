@@ -1,22 +1,21 @@
 ---
 title: DyC 10
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 10
 [[DyC 9| <-- DyC 9]] | [[DyC]] | [[DyC 11|DyC 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–26, Satanás incita a hombres inicuos a oponerse a la obra del Señor; 27–33, Su propósito es procurar destruir las almas de los hombres; 34–52, El Evangelio ha de ir a los lamanitas y a todas las naciones por medio del Libro de Mormón; 53–63, El Señor establecerá Su Iglesia y Su Evangelio entre los hombres; 64–70, Recogerá en Su Iglesia a los que se arrepientan y salvará a los obedientes.
 
----
 ###### 1 
 He aquí, te digo que por haber entregado en manos de un hombre inicuo esos escritos para lo cual se te dio el poder de traducirlos por medio del Urim y Tumim, ahora los has perdido.
 

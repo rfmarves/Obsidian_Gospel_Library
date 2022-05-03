@@ -1,22 +1,21 @@
 ---
 title: Números 31
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 31
 [[Números 30| <-- Números 30]] | [[Números]] | [[Números 32|Números 32 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/31?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/31?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés envia 12.000 homens à guerra, e eles destroem os midianitas — O espólio é dividido em Israel — Ninguém dos exércitos de Israel foi morto.
 
----
 ###### 1 
 E falou o  a Moisés, dizendo:
 

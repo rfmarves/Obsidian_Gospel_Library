@@ -1,10 +1,11 @@
 ---
 title: sw Philemon 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Philemon 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/philem/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The gospel changes a servant into a brother.
 
----
 ###### 1 
 Paul, a prisoner of Jesus Christ, and Timothy  brother, unto Philemon our dearly beloved, and fellowlabourer,
 

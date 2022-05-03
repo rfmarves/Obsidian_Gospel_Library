@@ -1,10 +1,11 @@
 ---
 title: sw D&C 98
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 98
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/98?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, The afflictions of the Saints will be for their good; 4–8, The Saints are to befriend the constitutional law of the land; 9–10, Honest, wise, and good men should be supported for secular government; 11–15, Those who lay down their lives in the Lord’s cause will have eternal life; 16–18, Renounce war and proclaim peace; 19–22, The Saints in Kirtland are reproved and commanded to repent; 23–32, The Lord reveals His laws governing the persecutions and afflictions imposed on His people; 33–38, War is justified only when the Lord commands it; 39–48, The Saints are to forgive their enemies, who, if they repent, will also escape the Lord’s vengeance.
 
----
 ###### 1 
 Verily I say unto you my friends, fear not, let your hearts be comforted; yea, rejoice evermore, and in everything give thanks;
 

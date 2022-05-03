@@ -1,22 +1,21 @@
 ---
 title: Génesis 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 19
 [[Génesis 18| <-- Génesis 18]] | [[Génesis]] | [[Génesis 20|Génesis 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Lot atiende a los hombres santos — Los hombres de Sodoma tratan de abusar de los huéspedes de Lot y son heridos con ceguera — A Lot se le manda salir de Sodoma — Jehová hace llover azufre y fuego sobre Sodoma y Gomorra — Las hijas de Lot conservan su descendencia en la tierra.
 
----
 ###### 1 
 Llegaron, pues, los dos ángeles a Sodoma a la caída de la tarde; y Lot estaba sentado a la puerta de Sodoma. Y al verlos Lot, se levantó a recibirlos, y se inclinó hacia el suelo
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 12
 [[1 Reyes 11| <-- 1 Reyes 11]] | [[1 Reyes]] | [[1 Reyes 13|1 Reyes 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Roboam trata de imponer cargas más pesadas sobre el pueblo — Las diez tribus se rebelan y se vuelven a Jeroboam — Jeroboam se entrega a la idolatría y adora dioses falsos.
 
----
 ###### 1 
 Y Roboam fue a Siquem, porque todo Israel había ido a Siquem para hacerlo rey.
 

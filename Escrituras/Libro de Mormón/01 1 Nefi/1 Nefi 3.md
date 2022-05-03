@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 3
 [[1 Nefi 2| <-- 1 Nefi 2]] | [[1 Nefi]] | [[1 Nefi 4|1 Nefi 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de Lehi vuelven a Jerusalén para conseguir las planchas de bronce — Labán se niega a entregarlas — Nefi exhorta y anima a sus hermanos — Labán se apodera de sus bienes y procura matarlos — Lamán y Lemuel golpean a Nefi y a Sam, y son reprendidos por un ángel. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 Y aconteció que después de hablar con el Señor, yo, Nefi, volví a la tienda de mi padre.
 

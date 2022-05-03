@@ -1,10 +1,11 @@
 ---
 title: sw Hebrews 10
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hebrews 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 We are sanctified by the shedding of the blood of Christ—The superiority of His sacrifice is explained—Those who fall from grace through willful sin are damned—The just will live by faith.
 
----
 ###### 1 
 For the law having a shadow of good things to come,  not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.
 

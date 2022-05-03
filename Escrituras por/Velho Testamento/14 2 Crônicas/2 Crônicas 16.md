@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 16
 [[2 Crônicas 15| <-- 2 Crônicas 15]] | [[2 Crônicas]] | [[2 Crônicas 17|2 Crônicas 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Asa se vale da Síria para derrotar Israel — Hanani, o vidente, repreende Asa por sua falta de fé — Asa padece de uma enfermidade e morre.
 
----
 ###### 1 
 No ano trigésimo sexto do reinado de Asa, Baasa, rei de Israel, subiu contra Judá e edificou Ramá, para não deixar ninguém sair de junto de Asa, rei de Judá, nem chegar a ele.
 

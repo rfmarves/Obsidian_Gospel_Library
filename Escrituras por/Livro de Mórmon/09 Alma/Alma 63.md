@@ -1,22 +1,21 @@
 ---
 title: Alma 63
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 63
 [[Alma 62| <-- Alma 62]] | [[Alma]] | [[Helamã 1|Helamã 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/63?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/63?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Siblon e, posteriormente, Helamã tomam posse dos registros sagrados — Muitos nefitas viajam para a terra do norte — Hagote constrói navios que navegam no mar do oeste — Moronia derrota os lamanitas em batalha. Aproximadamente 56–52 a.C.
 
----
 ###### 1 
 E aconteceu, no começo do trigésimo sexto ano em que os juízes governaram o povo de Néfi, que Siblon se encarregou das coisas sagradas que Alma havia confiado a Helamã.
 

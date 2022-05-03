@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 29
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 All Israel makes a liberal offering for the temple—David blesses and praises the Lord and instructs the people—David dies—Solomon reigns as king—The books of Nathan and Gad are mentioned.
 
----
 ###### 1 
 Furthermore David the king said unto all the congregation, Solomon my son, whom alone God hath chosen,  young and tender, and the work  great: for the palace  not for man, but for the  God.
 

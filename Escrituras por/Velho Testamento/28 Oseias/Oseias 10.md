@@ -1,22 +1,21 @@
 ---
 title: Oseias 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseias 10
 [[Oseias 9| <-- Oseias 9]] | [[Oseias]] | [[Oseias 11|Oseias 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel lavrou impiedade e ceifou perversidade — Oseias conclama Israel a buscar ao Senhor.
 
----
 ###### 1 
 Israel  uma vide vazia; dá fruto para si mesmo; segundo a multidão do seu fruto, multiplicou os altares; segundo a bondade da sua terra, fizeram belas as estátuas.
 

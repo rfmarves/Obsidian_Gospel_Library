@@ -1,22 +1,21 @@
 ---
 title: Salmos 116
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 116
 [[Salmos 115| <-- Salmos 115]] | [[Salmos]] | [[Salmos 117|Salmos 117 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/116?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/116?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová es clemente y justo — Ante los ojos de Jehová la muerte de Sus santos es estimada.
 
----
 ###### 1 
 
 

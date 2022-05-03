@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 111
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 111
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/111?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord is gracious and full of compassion—Holy and reverend is His name—The fear of the Lord is the beginning of wisdom.
 
----
 ###### 1 
 Praise ye the . I will praise the  with  whole heart, in the assembly of the upright, and  the congregation.
 

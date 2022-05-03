@@ -1,22 +1,21 @@
 ---
 title: Alma 16
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 16
 [[Alma 15| <-- Alma 15]] | [[Alma]] | [[Alma 17|Alma 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los lamanitas destruyen a la gente de Ammoníah — Zoram dirige a los nefitas al triunfo sobre los lamanitas — Alma, Amulek y muchos otros predican la palabra — Enseñan que, después de Su resurrección, Cristo se aparecerá a los nefitas. Aproximadamente 81–77 a.C.
 
----
 ###### 1 
 Y sucedió que en el año undécimo del gobierno de los jueces sobre el pueblo de Nefi, el día cinco del segundo mes —habiendo existido mucha paz en la tierra de Zarahemla, pues no había habido guerras ni contenciones por determinado número de años, aun hasta el quinto día del segundo mes del año undécimo— resonó por todo el país el grito de guerra.
 

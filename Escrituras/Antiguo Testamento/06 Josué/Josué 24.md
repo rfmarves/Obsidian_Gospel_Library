@@ -1,22 +1,21 @@
 ---
 title: Josué 24
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 24
 [[Josué 23| <-- Josué 23]] | [[Josué]] | [[Jueces 1|Jueces 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Josué relata la forma en que Jehová ha bendecido y dirigido a Israel — Josué y todo el pueblo hacen convenio de escoger a Jehová y servirlo a Él únicamente — Mueren Josué y Eleazar — Los huesos de José, llevados desde Egipto, son enterrados en Siquem.
 
----
 ###### 1 
 Y reunió Josué a todas las tribus de Israel en Siquem y llamó a los ancianos de Israel, y a sus príncipes, y a sus jueces, y a sus oficiales; y se presentaron delante de Dios.
 

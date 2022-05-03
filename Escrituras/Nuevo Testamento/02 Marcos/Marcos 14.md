@@ -1,22 +1,21 @@
 ---
 title: Marcos 14
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 14
 [[Marcos 13| <-- Marcos 13]] | [[Marcos]] | [[Marcos 15|Marcos 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús es ungido con aceite — Come la Pascua, instituye la Santa Cena, padece en Getsemaní y es entregado por Judas — Se le acusa falsamente, y Pedro niega conocerlo.
 
----
 ###### 1 
 Y dos días después era la Pascua y  de los panes sin levadura; y los principales sacerdotes y los escribas buscaban cómo arrestarle con engaño y matarle.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 The queen of Sheba visits Solomon—He excels in wisdom, wealth, and magnificence—After reigning forty years, Solomon dies, and Rehoboam becomes king.
 
----
 ###### 1 
 And when the queen of Sheba heard of the fame of Solomon, she came to prove Solomon with hard questions at Jerusalem, with a very great company, and camels that bare spices, and gold in abundance, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart.
 

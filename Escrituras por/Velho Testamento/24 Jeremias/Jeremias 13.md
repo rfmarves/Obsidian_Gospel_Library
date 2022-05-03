@@ -1,22 +1,21 @@
 ---
 title: Jeremias 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 13
 [[Jeremias 12| <-- Jeremias 12]] | [[Jeremias]] | [[Jeremias 14|Jeremias 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel e Judá serão como um cinto apodrecido e deteriorado — Ordena-se ao povo que se arrependa — Judá será levada cativa e dispersa como restolho.
 
----
 ###### 1 
 Assim me disse o : Vai, e compra um cinto de linho, e põe-no sobre os teus lombos, porém não o coloques na água.
 

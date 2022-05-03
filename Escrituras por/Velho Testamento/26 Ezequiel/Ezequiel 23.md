@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 23
 [[Ezequiel 22| <-- Ezequiel 22]] | [[Ezequiel]] | [[Ezequiel 24|Ezequiel 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Duas irmãs, Samaria e Jerusalém, cometeram prostituição ao adorar ídolos — Ambas são destruídas por causa de sua lascívia.
 
----
 ###### 1 
 E veio mais a mim a palavra do , dizendo:
 

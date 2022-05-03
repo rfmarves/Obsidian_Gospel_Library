@@ -1,22 +1,21 @@
 ---
 title: DyC 84
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 84
 [[DyC 83| <-- DyC 83]] | [[DyC]] | [[DyC 85|DyC 85 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, La Nueva Jerusalén y el templo serán edificados en Misuri; 6–17, Se da la línea del sacerdocio desde Moisés hasta Adán; 18–25, El sacerdocio mayor posee la llave del conocimiento de Dios; 26–32, El sacerdocio menor tiene la llave del ministerio de ángeles y el Evangelio preparatorio; 33–44, Los hombres logran la vida eterna por medio del juramento y el convenio del sacerdocio; 45–53, El Espíritu de Cristo ilumina a los hombres, y el mundo yace en el pecado; 54–61, Los santos deben testificar de las cosas que han recibido; 62–76, Han de predicar el Evangelio, y seguirán las señales; 77–91, Los élderes han de salir sin bolsa ni alforja, y el Señor se encargará de atender a sus necesidades; 92–97, Plagas y maldiciones aguardan a aquellos que rechacen el Evangelio; 98–102, Se da el nuevo cántico de la redención de Sion; 103–110, Ocupe cada hombre su propio oficio y trabaje en su propio llamamiento; 111–120, Los siervos del Señor han de proclamar la abominación desoladora de los últimos días.
 
----
 ###### 1 
 Una revelación de Jesucristo a su siervo José Smith, hijo, y a seis élderes, cuando unieron sus corazones y elevaron sus voces al cielo.
 

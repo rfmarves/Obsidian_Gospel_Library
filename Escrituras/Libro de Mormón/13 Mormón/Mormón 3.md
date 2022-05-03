@@ -1,22 +1,21 @@
 ---
 title: Mormón 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mormón 3
 [[Mormón 2| <-- Mormón 2]] | [[Mormón]] | [[Mormón 4|Mormón 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Mormón proclama el arrepentimiento a los nefitas — Logran una gran victoria y se jactan de su propia fuerza — Mormón se niega a dirigirlos, y sus oraciones por ellos carecen de fe — El Libro de Mormón invita a las doce tribus de Israel a creer en el Evangelio. Aproximadamente 360–362 d.C.
 
----
 ###### 1 
 Y sucedió que los lamanitas no volvieron de nuevo a la batalla sino hasta después de haber transcurrido diez años más. Y he aquí, yo había ocupado a mi pueblo, los nefitas, en preparar sus tierras y sus armas para el día de la batalla.
 

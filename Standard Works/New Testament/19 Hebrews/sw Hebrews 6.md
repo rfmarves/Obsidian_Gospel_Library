@@ -1,10 +1,11 @@
 ---
 title: sw Hebrews 6
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hebrews 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Let us go on to perfection—The sons of perdition crucify Christ anew—God swears with an oath that the faithful will be saved.
 
----
 ###### 1 
 Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,
 

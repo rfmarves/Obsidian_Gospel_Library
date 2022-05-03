@@ -1,22 +1,21 @@
 ---
 title: Miqueias 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Miqueias 6
 [[Miqueias 5| <-- Miqueias 5]] | [[Miqueias]] | [[Miqueias 7|Miqueias 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/micah/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/micah/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Apesar de toda a Sua bondade para com eles, o povo não serviu ao Senhor em espírito e em verdade — Eles devem agir com retidão, amar a misericórdia e andar humildemente diante Dele.
 
----
 ###### 1 
 Ouvi agora o que diz o : Levanta-te, contende com os montes, e ouçam os outeiros a tua voz.
 

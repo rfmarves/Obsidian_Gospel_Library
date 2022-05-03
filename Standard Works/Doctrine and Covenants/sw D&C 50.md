@@ -1,10 +1,11 @@
 ---
 title: sw D&C 50
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 50
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, Many false spirits are abroad in the earth; 6–9, Wo unto the hypocrites and those who are cut off from the Church; 10–14, Elders are to preach the gospel by the Spirit; 15–22, Both preachers and hearers need to be enlightened by the Spirit; 23–25, That which doth not edify is not of God; 26–28, The faithful are possessors of all things; 29–36, The prayers of the purified are answered; 37–46, Christ is the Good Shepherd and the Stone of Israel.
 
----
 ###### 1 
 Hearken, O ye elders of my church, and give ear to the voice of the living God; and attend to the words of wisdom which shall be given unto you, according as ye have asked and are agreed as touching the church, and the spirits which have gone abroad in the earth.
 

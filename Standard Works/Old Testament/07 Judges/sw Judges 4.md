@@ -1,10 +1,11 @@
 ---
 title: sw Judges 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Deborah, a prophetess, judges Israel—She and Barak deliver Israel from the Canaanites—Jael, a woman, slays Sisera, the Canaanite.
 
----
 ###### 1 
 And the children of Israel again did evil in the sight of the , when Ehud was dead.
 

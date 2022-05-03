@@ -1,22 +1,21 @@
 ---
 title: Alma 54
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 54
 [[Alma 53| <-- Alma 53]] | [[Alma]] | [[Alma 55|Alma 55 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/54?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/54?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amoron e Morôni negociam a troca de prisioneiros — Morôni exige que os lamanitas se retirem e cessem os seus ataques assassinos — Amoron exige que os nefitas deponham suas armas e submetam-se aos lamanitas. Aproximadamente 63 a.C.
 
----
 ###### 1 
 E então aconteceu que no início do vigésimo nono ano dos juízes, Amoron enviou uma mensagem a Morôni, propondo a troca de prisioneiros.
 

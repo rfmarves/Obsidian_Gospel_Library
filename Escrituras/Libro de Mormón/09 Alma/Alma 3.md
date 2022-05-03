@@ -1,22 +1,21 @@
 ---
 title: Alma 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 3
 [[Alma 2| <-- Alma 2]] | [[Alma]] | [[Alma 4|Alma 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los amlicitas se habían hecho una marca, de acuerdo con las profecías — Los lamanitas habían sido maldecidos por su rebelión — Los hombres traen sobre sí su propia maldición — Los nefitas derrotan a otro ejército lamanita. Aproximadamente 87–86 a.C.
 
----
 ###### 1 
 Y sucedió que los nefitas que no fueron muertos por las armas de guerra, luego que hubieron sepultado a los que habían perecido —y el número de los muertos no se contó a causa de la magnitud de su número— después que hubieron sepultado a sus muertos, todos se volvieron a sus tierras y sus casas, y a sus esposas y a sus hijos.
 

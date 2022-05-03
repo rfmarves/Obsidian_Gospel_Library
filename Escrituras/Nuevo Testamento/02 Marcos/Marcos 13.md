@@ -1,22 +1,21 @@
 ---
 title: Marcos 13
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 13
 [[Marcos 12| <-- Marcos 12]] | [[Marcos]] | [[Marcos 14|Marcos 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/mark/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús narra las calamidades y las señales que precederán a la Segunda Venida — Habrá falsos Cristos y falsos profetas — Jesús enseña la parábola de la higuera.
 
----
 ###### 1 
 Y al salir  del templo, le dijo uno de sus discípulos: Maestro, ¡mira qué piedras y qué edificios!
 

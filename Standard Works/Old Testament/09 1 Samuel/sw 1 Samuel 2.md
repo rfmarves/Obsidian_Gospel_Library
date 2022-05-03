@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Hannah sings praises to the Lord—Samuel ministers before the Lord—Eli blesses Elkanah and Hannah, and they have sons and daughters—The sons of Eli reject the Lord and live in wickedness—The Lord rejects the house of Eli.
 
----
 ###### 1 
 And Hannah prayed, and said, My heart rejoiceth in the , mine horn is exalted in the : my mouth is enlarged over mine enemies; because I rejoice in thy salvation.
 

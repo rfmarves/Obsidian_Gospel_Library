@@ -1,22 +1,21 @@
 ---
 title: Daniel 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 9
 [[Daniel 8| <-- Daniel 8]] | [[Daniel]] | [[Daniel 10|Daniel 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Daniel jejua, confessa e ora por todo o Israel — Gabriel revela o tempo da vinda do Messias, que fará a reconciliação pela iniquidade — O Messias será morto.
 
----
 ###### 1 
 No ano primeiro de Dario, filho de Assuero, da nação dos medos, o qual foi constituído rei sobre o reino dos caldeus,
 

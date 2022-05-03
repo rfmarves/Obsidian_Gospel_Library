@@ -1,22 +1,21 @@
 ---
 title: Jueces 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 17
 [[Jueces 16| <-- Jueces 16]] | [[Jueces]] | [[Jueces 18|Jueces 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Micaía tiene una casa de dioses (imágenes) y consagra a sus propios sacerdotes.
 
----
 ###### 1 
 Hubo un hombre de los montes de Efraín que se llamaba Micaía,
 

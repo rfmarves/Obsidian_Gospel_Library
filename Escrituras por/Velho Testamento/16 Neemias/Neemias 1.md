@@ -1,22 +1,21 @@
 ---
 title: Neemias 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Neemias 1
 [[Esdras 10| <-- Esdras 10]] | [[Neemias]] | [[Neemias 2|Neemias 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Neemias chora, jejua e ora pelos judeus que estão em Jerusalém.
 
----
 ###### 1 
 As palavras de Neemias, filho de Hacalias. E sucedeu no mês de Quisleu, no ano vigésimo, estando eu em Susã, a fortaleza,
 

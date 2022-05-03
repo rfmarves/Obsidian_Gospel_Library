@@ -1,22 +1,21 @@
 ---
 title: Isaías 66
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 66
 [[Isaías 65| <-- Isaías 65]] | [[Isaías]] | [[Jeremias 1|Jeremias 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/66?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/66?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Na Segunda Vinda, Israel, como nação, nascerá em um dia; os iníquos serão destruídos; e os gentios ouvirão o evangelho.
 
----
 ###### 1 
 Assim diz o : Os céus  o meu trono, e a terra o escabelo dos meus pés; qual  a casa que vós me edificaríeis? e qual  o lugar do meu descanso?
 

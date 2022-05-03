@@ -1,10 +1,11 @@
 ---
 title: sw Hebrews 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hebrews 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ is the Apostle and High Priest of our profession—Jesus, being the Son, is more than a servant—Now is the time and the day of our salvation.
 
----
 ###### 1 
 Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;
 

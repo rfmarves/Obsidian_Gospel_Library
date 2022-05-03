@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people must first make restitution for sin, then offer a trespass offering, and thereby gain forgiveness through atonement made by the priests.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

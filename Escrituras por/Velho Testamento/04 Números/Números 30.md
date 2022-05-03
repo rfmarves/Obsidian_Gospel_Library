@@ -1,22 +1,21 @@
 ---
 title: Números 30
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 30
 [[Números 29| <-- Números 29]] | [[Números]] | [[Números 31|Números 31 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/30?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/30?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os votos e juramentos devem ser cumpridos — O pai pode invalidar o voto das filhas, e o marido pode invalidar o voto da esposa.
 
----
 ###### 1 
 E falou Moisés aos cabeças das tribos dos filhos de Israel, dizendo: Esta  a palavra que o  ordenou:
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 6
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 6
 [[1 Coríntios 5| <-- 1 Coríntios 5]] | [[1 Coríntios]] | [[1 Coríntios 7|1 Coríntios 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os membros da Igreja não devem contender uns com os outros em tribunais — Os iníquos não serão salvos — Os verdadeiros santos são o templo do Espírito Santo.
 
----
 ###### 1 
 Ousa algum de vós, tendo  questão contra outro, ir a juízo perante os injustos, e não perante os santos?
 

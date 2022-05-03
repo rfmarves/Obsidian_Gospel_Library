@@ -1,22 +1,21 @@
 ---
 title: Mosíah 26
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 26
 [[Mosíah 25| <-- Mosíah 25]] | [[Mosíah]] | [[Mosíah 27|Mosíah 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los incrédulos conducen al pecado a muchos miembros de la Iglesia — Se promete a Alma la vida eterna — Aquellos que se arrepientan y sean bautizados lograrán el perdón — Los miembros de la Iglesia que hayan pecado y que se arrepientan y se confiesen a Alma y al Señor serán perdonados; de lo contrario, no serán contados entre los de la Iglesia. Aproximadamente 120–100 a.C.
 
----
 ###### 1 
 Y aconteció que había muchos de los de la nueva generación que no pudieron entender las palabras del rey Benjamín, pues eran niños pequeños en la ocasión en que él habló a su pueblo; y no creían en la tradición de sus padres.
 

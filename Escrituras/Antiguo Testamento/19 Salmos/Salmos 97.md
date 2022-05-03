@@ -1,22 +1,21 @@
 ---
 title: Salmos 97
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 97
 [[Salmos 96| <-- Salmos 96]] | [[Salmos]] | [[Salmos 98|Salmos 98 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/97?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/97?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová reina en gloria milenaria — Los montes se derriten ante Su presencia — Los que aman a Jehová aborrecen el mal.
 
----
 ###### 1 
 
 

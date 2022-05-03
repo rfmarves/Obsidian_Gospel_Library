@@ -1,27 +1,25 @@
 ---
 title: Salmos 142
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 142
 [[Salmos 141| <-- Salmos 141]] | [[Salmos]] | [[Salmos 143|Salmos 143 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/142?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/142?lang=por)
 
----
+```
 Masquil de Davi; oração que fez quando estava na caverna.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi ora para que seja protegido de seus perseguidores.
 
----
 ###### 1 
 Com a minha voz clamei ao , com a minha voz supliquei ao .
 

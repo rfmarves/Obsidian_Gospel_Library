@@ -1,22 +1,21 @@
 ---
 title: Éxodo 32
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 32
 [[Éxodo 31| <-- Éxodo 31]] | [[Éxodo]] | [[Éxodo 33|Éxodo 33 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/32?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/32?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Aarón hace un becerro de oro, al cual Israel adora — Moisés sirve como mediador entre Dios y el Israel rebelde — Moisés quiebra las tablas de piedra — Los levitas matan a unos 3.000 rebeldes — Moisés ruega por el pueblo e intercede por él.
 
----
 ###### 1 
 Mas al ver los del pueblo que Moisés tardaba en descender del monte, se acercaron a Aarón y le dijeron: Levántate, haznos dioses que vayan delante de nosotros, porque a ese Moisés, aquel hombre que nos sacó de la tierra de Egipto, no sabemos qué le haya acontecido.
 

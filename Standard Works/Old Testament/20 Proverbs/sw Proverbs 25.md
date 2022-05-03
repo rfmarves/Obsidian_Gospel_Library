@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 Boast not of false gifts—Give food and drink to your enemy.
 
----
 ###### 1 
 These  also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.
 

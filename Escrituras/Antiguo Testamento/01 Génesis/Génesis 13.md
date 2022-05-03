@@ -1,22 +1,21 @@
 ---
 title: Génesis 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 13
 [[Génesis 12| <-- Génesis 12]] | [[Génesis]] | [[Génesis 14|Génesis 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Abram regresa de Egipto — Él y Lot se separan — Jehová hará la descendencia de Abram tan numerosa como el polvo de la tierra — Abram se establece en Hebrón.
 
----
 ###### 1 
 Subió, pues, Abram de Egipto hacia el sur, él y su esposa, con todo lo que tenía, y con él, Lot.
 

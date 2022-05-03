@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 27
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 Let another man praise you—A prudent man foresees evil—Hell and destruction are never full.
 
----
 ###### 1 
 Boast not thyself of to morrow; for thou knowest not what a day may bring forth.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Jonah 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jonah 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jonah/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jonah is displeased with the Lord for His mercy upon the people—The Lord rebukes him.
 
----
 ###### 1 
 But it displeased Jonah exceedingly, and he was very angry.
 

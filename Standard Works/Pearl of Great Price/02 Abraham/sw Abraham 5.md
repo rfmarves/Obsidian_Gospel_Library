@@ -1,10 +1,11 @@
 ---
 title: sw Abraham 5
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Abraham 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/abr/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Gods finish Their planning of the creation of all things—They bring to pass the Creation according to Their plans—Adam names every living creature.
 
----
 ###### 1 
 And thus we will finish the heavens and the earth, and all the hosts of them.
 

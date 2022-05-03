@@ -1,22 +1,21 @@
 ---
 title: Jeremías 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 17
 [[Jeremías 16| <-- Jeremías 16]] | [[Jeremías]] | [[Jeremías 18|Jeremías 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El cautiverio de Judá es consecuencia del pecado y del haberse apartado de Jehová — Santificad el día de reposo; el hacerlo salvará al pueblo; de otro modo, será destruido.
 
----
 ###### 1 
 El pecado de Judá escrito está con cincel de hierro  con punta de diamante; esculpido está en la tabla de su corazón y en los cuernos de vuestros altares,
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Timoteo 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Timoteo 4
 [[1 Timoteo 3| <-- 1 Timoteo 3]] | [[1 Timoteo]] | [[1 Timoteo 5|1 Timoteo 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo describe la apostasía de los últimos días — Cristo es el Salvador de todos los hombres, sobre todo de quienes creen.
 
----
 ###### 1 
 Pero el Espíritu dice claramente que, en los últimos tiempos, algunos apostatarán de la fe, escuchando a espíritus engañadores y a doctrinas de demonios;
 

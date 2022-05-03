@@ -1,22 +1,21 @@
 ---
 title: Mateus 9
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 9
 [[Mateus 8| <-- Mateus 8]] | [[Mateus]] | [[Mateus 10|Mateus 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus perdoa pecados, cura um paralítico e chama Mateus — Jesus come com os pecadores, cura uma mulher que toca as Suas vestes e revive a filha de Jairo — Ele abre os olhos dos cegos, expulsa um demônio e prega o evangelho.
 
----
 ###### 1 
 E entrando no barco, passou para o outro lado, e chegou à sua cidade. E eis que lhe trouxeram um paralítico deitado  cama.
 

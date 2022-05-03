@@ -1,22 +1,21 @@
 ---
 title: DeC 30
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 30
 [[DeC 29| <-- DeC 29]] | [[DeC]] | [[DeC 31|DeC 31 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/30?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/30?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, David Whitmer é repreendido por deixar de servir diligentemente; 5–8, Peter Whitmer Júnior deverá acompanhar Oliver Cowdery em uma missão junto aos lamanitas; 9–11, John Whitmer é chamado para pregar o evangelho.
 
----
 ###### 1 
 Eis que te digo, David, que temeste os homens e não confiaste em mim para receber forças, como devias.
 

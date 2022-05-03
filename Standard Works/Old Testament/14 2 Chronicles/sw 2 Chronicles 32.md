@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 32
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 32
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/32?lang=eng)
 
----
-__Summary__
+> __Summary__
 Sennacherib invades Judah and besieges the cities—He rails against the Lord—Isaiah and Hezekiah pray, and an angel destroys the leaders of the Assyrian armies—Hezekiah reigns in righteousness despite some pride in his heart.
 
----
 ###### 1 
 After these things, and the establishment thereof, Sennacherib king of Assyria came, and entered into Judah, and encamped against the fenced cities, and thought to win them for himself.
 

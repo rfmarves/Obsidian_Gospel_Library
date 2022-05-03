@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses is born to Levite parents, is raised by Pharaoh’s daughter, slays an Egyptian in defense of an Israelite, flees to Midian, and marries Zipporah—Israel in bondage cries to the Lord.
 
----
 ###### 1 
 And there went a man of the house of Levi, and took  a daughter of Levi.
 

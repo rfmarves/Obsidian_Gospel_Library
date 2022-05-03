@@ -1,22 +1,21 @@
 ---
 title: Eclesiastés 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastés 10
 [[Eclesiastés 9| <-- Eclesiastés 9]] | [[Eclesiastés]] | [[Eclesiastés 11|Eclesiastés 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Una pequeña locura destruye la reputación del sabio y honorable — Las palabras de la boca del sabio están llenas de gracia — El necio multiplica las palabras.
 
----
 ###### 1 
 Las moscas muertas hacen heder  dar mal olor al perfume del perfumista;  una pequeña locura pesa más que la sabiduría y la honra.
 

@@ -1,27 +1,25 @@
 ---
 title: 3 Nefi 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 1
 [[Helamán 16| <-- Helamán 16]] | [[3 Nefi]] | [[3 Nefi 2|3 Nefi 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/1?lang=spa)
 
----
+```
 Y Helamán era hijo de Helamán, que era hijo de Alma, el hijo de Alma, el cual era descendiente de Nefi, que era hijo de Lehi, quien salió de Jerusalén el primer año del reinado de Sedequías, rey de Judá.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Nefi hijo de Helamán, parte de la tierra, y su hijo Nefi conserva los anales — Aunque abundan las señales y las maravillas, los inicuos hacen planes para matar a los justos — Llega la noche del nacimiento de Cristo — Se da la señal y aparece una nueva estrella — Aumentan las mentiras y los engaños, y los ladrones de Gadiantón asesinan a muchos. Aproximadamente 1–4 d.C.
 
----
 ###### 1 
 Y aconteció que el año noventa y uno había concluido, y habían pasado seiscientos años de la época en que Lehi salió de Jerusalén; y fue el año en que Laconeo era juez superior y gobernador en toda la tierra.
 

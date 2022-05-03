@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Aaron and his sons minister in the priest’s office—The Levites are chosen to do the service of the tabernacle—They are the Lord’s, replacing the firstborn of all families of Israel—Their number, charge, and service are given.
 
----
 ###### 1 
 These also  the generations of Aaron and Moses in the day  the  spake with Moses in mount Sinai.
 

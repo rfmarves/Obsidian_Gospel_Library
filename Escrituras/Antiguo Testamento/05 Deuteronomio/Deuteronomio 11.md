@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 11
 [[Deuteronomio 10| <-- Deuteronomio 10]] | [[Deuteronomio]] | [[Deuteronomio 12|Deuteronomio 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Amarás y obedecerás a Jehová tu Dios — Si los hijos de Israel obedecen, serán bendecidos con lluvia y con cosechas, y echarán a las naciones poderosas — Israel debe aprender las leyes de Dios y enseñarlas — Las bendiciones se reciben por medio de la obediencia; las maldiciones son consecuencia de la desobediencia.
 
----
 ###### 1 
 Amarás, pues, a Jehová tu Dios y guardarás su mandato, y sus estatutos, y sus decretos y sus mandamientos, todos los días.
 

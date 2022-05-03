@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 27
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 27
 [[1 Crónicas 26| <-- 1 Crónicas 26]] | [[1 Crónicas]] | [[1 Crónicas 28|1 Crónicas 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se nombra a los oficiales que sirven al rey — Se enumeran los jefes de las tribus de Israel.
 
----
 ###### 1 
 Y los hijos de Israel, según su número,  los jefes de casas paternas, los jefes de millares y de centenas, y sus oficiales que servían al rey en todos los asuntos de las divisiones que entraban y salían cada mes, durante todos los meses del año, eran en cada división veinticuatro mil.
 

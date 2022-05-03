@@ -1,22 +1,21 @@
 ---
 title: Atos 28
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 28
 [[Atos 27| <-- Atos 27]] | [[Atos]] | [[Romanos 1|Romanos 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/28?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/28?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo escapa ileso da picada de uma víbora — Ele cura os enfermos em Malta — Ele prega em Roma, primeiro aos judeus e depois aos gentios.
 
----
 ###### 1 
 E havendo escapado, então souberam que a ilha se chamava Malta.
 

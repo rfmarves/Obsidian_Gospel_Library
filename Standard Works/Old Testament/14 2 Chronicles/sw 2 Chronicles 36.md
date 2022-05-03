@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 36
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 36
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/36?lang=eng)
 
----
-__Summary__
+> __Summary__
 Various kings rule in Judah—Nebuchadnezzar overruns Judah and makes Zedekiah king—Zedekiah rebels, the people reject the prophets, and the Chaldeans burn the temple and destroy Jerusalem—Cyrus of Persia decrees the building of the temple.
 
----
 ###### 1 
 Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s stead in Jerusalem.
 

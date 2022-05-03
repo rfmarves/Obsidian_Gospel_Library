@@ -1,22 +1,21 @@
 ---
 title: Mateo 21
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 21
 [[Mateo 20| <-- Mateo 20]] | [[Mateo]] | [[Mateo 22|Mateo 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La entrada triunfal de Jesús en Jerusalén — Purifica el templo, maldice la higuera y diserta sobre la autoridad — Enseña la parábola de los dos hijos y la de los labradores malvados.
 
----
 ###### 1 
 Y cuando se acercaron a Jerusalén y llegaron a Betfagé, al monte de los Olivos, entonces Jesús envió a dos discípulos,
 

@@ -1,22 +1,21 @@
 ---
 title: Malaquías 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Malaquías 1
 [[Zacarías 14| <-- Zacarías 14]] | [[Malaquías]] | [[Malaquías 2|Malaquías 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/mal/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/mal/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los judíos desprecian a Jehová al ofrecer pan inmundo sobre el altar y al sacrificar animales con defectos — El nombre de Jehová será temible entre las naciones.
 
----
 ###### 1 
 Profecía de la palabra de Jehová contra Israel, por medio de Malaquías:
 

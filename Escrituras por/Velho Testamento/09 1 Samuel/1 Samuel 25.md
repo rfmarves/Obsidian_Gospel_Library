@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 25
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 25
 [[1 Samuel 24| <-- 1 Samuel 24]] | [[1 Samuel]] | [[1 Samuel 26|1 Samuel 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Morre Samuel — Nabal rejeita Davi com desprezo e se recusa a dar-lhe alimento — Abigail intercede, salva Nabal e dá um presente a Davi — Davi é apaziguado, Nabal morre, e Davi se casa com Abigail.
 
----
 ###### 1 
 E faleceu Samuel, e todo o Israel se ajuntou, e o prantearam, e o sepultaram na sua casa, em Ramá. E Davi se levantou e desceu ao deserto de Parã.
 

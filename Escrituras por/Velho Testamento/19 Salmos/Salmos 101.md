@@ -1,27 +1,25 @@
 ---
 title: Salmos 101
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 101
 [[Salmos 100| <-- Salmos 100]] | [[Salmos]] | [[Salmos 102|Salmos 102 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/101?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/101?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi canta a misericórdia e a justiça — Ele rejeitará a companhia dos que praticam a iniquidade.
 
----
 ###### 1 
 Cantarei a misericórdia e o juízo; a ti, , cantarei.
 

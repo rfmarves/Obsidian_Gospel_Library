@@ -1,27 +1,25 @@
 ---
 title: Salmos 83
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 83
 [[Salmos 82| <-- Salmos 82]] | [[Salmos]] | [[Salmos 84|Salmos 84 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/83?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/83?lang=spa)
 
----
+```
 Cántico. Salmo de Asaf.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Se pide a Dios que confunda a los enemigos de Su pueblo — Jehová es el Altísimo sobre toda la tierra.
 
----
 ###### 1 
 
 

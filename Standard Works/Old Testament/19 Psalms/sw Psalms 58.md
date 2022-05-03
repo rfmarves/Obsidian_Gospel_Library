@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 58
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 58
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/58?lang=eng)
 
----
+```
 To the chief Musician, Al-taschith, Michtam of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David reproves wicked judges—They go astray and speak lies.
 
----
 ###### 1 
 Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?
 

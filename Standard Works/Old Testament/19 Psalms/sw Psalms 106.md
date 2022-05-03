@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 106
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 106
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/106?lang=eng)
 
----
-__Summary__
+> __Summary__
 Praise the Lord for His mercy and mighty works—Israel rebelled and did wickedly—Moses mediated between Israel and the Lord—Israel was scattered and slain for worshipping false gods.
 
----
 ###### 1 
 Praise ye the . O give thanks unto the ; for  good: for his mercy  for ever.
 

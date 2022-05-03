@@ -1,22 +1,21 @@
 ---
 title: Mosíah 19
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 19
 [[Mosíah 18| <-- Mosíah 18]] | [[Mosíah]] | [[Mosíah 20|Mosíah 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Gedeón intenta matar al rey Noé — Los lamanitas invaden la tierra — El rey Noé padece la muerte por fuego — Limhi reina como monarca tributario. Aproximadamente 145–121 a.C.
 
----
 ###### 1 
 Y aconteció que el ejército del rey volvió, después de haber buscado en vano al pueblo del Señor.
 

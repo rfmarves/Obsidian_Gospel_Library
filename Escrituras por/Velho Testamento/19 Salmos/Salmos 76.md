@@ -1,27 +1,25 @@
 ---
 title: Salmos 76
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 76
 [[Salmos 75| <-- Salmos 75]] | [[Salmos]] | [[Salmos 77|Salmos 77 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/76?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/76?lang=por)
 
----
+```
 Salmo e cântico de Asafe, para o músico-mor, sobre Neginote.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Deus é conhecido em Judá e habita em Sião — Ele livrará os mansos da Terra.
 
----
 ###### 1 
 Conhecido  Deus em Judá; grande  o seu nome em Israel.
 

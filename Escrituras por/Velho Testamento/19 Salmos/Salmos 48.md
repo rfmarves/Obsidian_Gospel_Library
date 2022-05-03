@@ -1,27 +1,25 @@
 ---
 title: Salmos 48
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 48
 [[Salmos 47| <-- Salmos 47]] | [[Salmos]] | [[Salmos 49|Salmos 49 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/48?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/48?lang=por)
 
----
+```
 Cântico e salmo para os filhos de Coré.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Sião, a cidade de Deus, a alegria de toda a Terra, será estabelecida para sempre.
 
----
 ###### 1 
 Grande  o  e muito  de louvor, na cidade do nosso Deus,  seu monte santo.
 

@@ -1,16 +1,17 @@
 ---
 title: Declaração Oficial 1
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Declaração Oficial 1
 [[DeC 138| <-- DeC 138]] | [[Declaração Oficial]] | [[Declaração Oficial 2|Declaração Oficial 2 --> ]]
 
-[Em linha](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/1?lang=por)
+[em linha](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/1?lang=por)
 
 A Quem Interessar Possa:
 

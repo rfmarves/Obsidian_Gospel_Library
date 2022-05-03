@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah sorrows greatly because of the sins of the people—They will be scattered among the nations and punished.
 
----
 ###### 1 
 Oh that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!
 

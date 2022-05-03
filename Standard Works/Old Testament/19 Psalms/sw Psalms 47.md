@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 47
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 47
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/47?lang=eng)
 
----
+```
 To the chief Musician, A Psalm for the sons of Korah.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The Lord is King over all the earth—Sing praises to His name, for He reigns over all.
 
----
 ###### 1 
 O clap your hands, all ye people; shout unto God with the voice of triumph.
 

@@ -1,27 +1,25 @@
 ---
 title: Alma 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 7
 [[Alma 6| <-- Alma 6]] | [[Alma]] | [[Alma 8|Alma 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa)
 
----
+```
 Las palabras de Alma que, según sus propios anales, dirigió al pueblo de Gedeón.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Cristo nacerá de María — Él soltará las ligaduras de la muerte y tomará sobre sí los pecados de Su pueblo — Aquellos que se arrepientan, se bauticen y guarden los mandamientos tendrán la vida eterna — La inmundicia no puede heredar el reino de Dios — Se requieren la humildad, la fe, la esperanza y la caridad. Aproximadamente 83 a.C.
 
----
 ###### 1 
 He aquí, amados hermanos míos, ya que se me ha permitido venir a vosotros, trataré, por tanto, de hablaros en mi lenguaje, sí, por mi propia boca, en vista de que es la primera vez que os hablo con las palabras de mi boca, pues me he visto totalmente limitado al tribunal, con tantos asuntos que no pude visitaros antes.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Zephaniah 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zephaniah 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zeph/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The destruction of Judah is symbolic of the Second Coming—It is the day of the Lord’s sacrifice, a day of wrath and trouble.
 
----
 ###### 1 
 The word of the  which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.
 

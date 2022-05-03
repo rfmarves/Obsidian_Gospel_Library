@@ -1,22 +1,21 @@
 ---
 title: Juízes 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 10
 [[Juízes 9| <-- Juízes 9]] | [[Juízes]] | [[Juízes 11|Juízes 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Tola e depois Jair julgam Israel — Os filhos de Israel adoram falsos deuses, são desamparados pelo Senhor e afligidos por seus inimigos — Eles se arrependem e clamam ao Senhor pedindo libertação.
 
----
 ###### 1 
 E depois de Abimeleque, se levantou, para livrar Israel, Tola, filho de Puá, filho de Dodô, homem de Issacar; e habitava em Samir, na montanha de Efraim.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 5
 [[2 Crónicas 4| <-- 2 Crónicas 4]] | [[2 Crónicas]] | [[2 Crónicas 6|2 Crónicas 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se termina el templo y el arca del convenio es colocada en el lugar santísimo — La gloria de Jehová llena el templo.
 
----
 ###### 1 
 Así se acabó toda la obra que hizo Salomón para la casa de Jehová, y trajo Salomón  las cosas que David su padre había dedicado; y puso la plata, y el oro y todos los utensilios en los tesoros de la casa de Dios.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 13
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus explains why He teaches with parables—He gives the parables of the sower, the wheat and the tares, the grain of mustard seed, the leaven, the treasure hidden in the field, the pearl of great price, and the net cast into the sea—A prophet is not honored by his own people.
 
----
 ###### 1 
 The same day went Jesus out of the house, and sat by the sea side.
 

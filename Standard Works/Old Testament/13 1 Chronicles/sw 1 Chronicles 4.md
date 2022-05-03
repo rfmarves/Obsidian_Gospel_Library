@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 The families and descendants of Judah, Simeon, and others are chronicled—Various princes in their families are named.
 
----
 ###### 1 
 The sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal.
 

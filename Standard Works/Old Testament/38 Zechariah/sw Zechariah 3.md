@@ -1,10 +1,11 @@
 ---
 title: sw Zechariah 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zechariah 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Zechariah speaks about the Messiah—The Branch will come—At the Second Coming, iniquity will be removed in one day.
 
----
 ###### 1 
 And he shewed me Joshua the high priest standing before the angel of the , and Satan standing at his right hand to resist him.
 

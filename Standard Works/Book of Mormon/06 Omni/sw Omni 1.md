@@ -1,10 +1,11 @@
 ---
 title: sw Omni 1
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Omni 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/omni/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Omni, Amaron, Chemish, Abinadom, and Amaleki, each in turn, keep the records—Mosiah discovers the people of Zarahemla, who came from Jerusalem in the days of Zedekiah—Mosiah is made king over them—The descendants of Mulek at Zarahemla had discovered Coriantumr, the last of the Jaredites—King Benjamin succeeds Mosiah—Men should offer their souls as an offering to Christ. About 323–130 B.C.
 
----
 ###### 1 
 Behold, it came to pass that I, Omni, being commanded by my father, Jarom, that I should write somewhat upon these plates, to preserve our genealogy—
 

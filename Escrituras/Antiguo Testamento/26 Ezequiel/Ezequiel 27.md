@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 27
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 27
 [[Ezequiel 26| <-- Ezequiel 26]] | [[Ezequiel]] | [[Ezequiel 28|Ezequiel 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequiel lamenta la caída de Tiro y la pérdida de las riquezas y del comercio de este.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

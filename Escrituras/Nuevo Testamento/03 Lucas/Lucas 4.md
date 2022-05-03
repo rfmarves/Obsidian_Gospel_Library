@@ -1,22 +1,21 @@
 ---
 title: Lucas 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 4
 [[Lucas 3| <-- Lucas 3]] | [[Lucas]] | [[Lucas 5|Lucas 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús ayuna cuarenta días y es tentado por el diablo — Jesús anuncia en Nazaret Su origen divino y es rechazado — Echa fuera un demonio en Capernaúm, sana a la suegra de Pedro, y predica y sana en toda Galilea.
 
----
 ###### 1 
 Y Jesús, lleno del Espíritu Santo, volvió del Jordán y fue llevado por el Espíritu al desierto
 

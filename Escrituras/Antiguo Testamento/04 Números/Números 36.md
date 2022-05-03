@@ -1,22 +1,21 @@
 ---
 title: Números 36
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 36
 [[Números 35| <-- Números 35]] | [[Números]] | [[Deuteronomio 1|Deuteronomio 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/36?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/36?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se manda a ciertas hijas en Israel casarse dentro de su propia tribu — Las heredades no pasarán de una tribu a otra.
 
----
 ###### 1 
 Y llegaron los jefes de las casas paternas de la familia de Galaad hijo de Maquir, hijo de Manasés, de las familias de los hijos de José; y hablaron delante de Moisés y de los jefes, cabezas de las casas paternas de los hijos de Israel,
 

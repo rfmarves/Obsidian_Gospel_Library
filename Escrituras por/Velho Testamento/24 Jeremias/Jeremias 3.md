@@ -1,22 +1,21 @@
 ---
 title: Jeremias 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 3
 [[Jeremias 2| <-- Jeremias 2]] | [[Jeremias]] | [[Jeremias 4|Jeremias 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel e Judá profanaram e poluíram a terra com sua iniquidade — Nos últimos dias, o Senhor reunirá o povo de Israel, tomando um de uma cidade e dois de uma família, e os levará a Sião.
 
----
 ###### 1 
 Dizem: Se um homem repudiar sua mulher, e ela o deixar, e se ajuntar a outro homem,  voltará outra vez a ela?  não se profanaria de todo aquela terra? Ora, pois, tu te prostituíste  tantos amantes; ainda assim, volta para mim, diz o .
 

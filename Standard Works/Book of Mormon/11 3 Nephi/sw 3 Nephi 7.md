@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 7
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 The chief judge is murdered, the government is destroyed, and the people divide into tribes—Jacob, an anti-Christ, becomes king of a secret combination—Nephi preaches repentance and faith in Christ—Angels minister to him daily, and he raises his brother from the dead—Many repent and are baptized. About A.D. 30–33.
 
----
 ###### 1 
 Now behold, I will show unto you that they did not establish a king over the land; but in this same year, yea, the thirtieth year, they did destroy upon the judgment-seat, yea, did murder the chief judge of the land.
 

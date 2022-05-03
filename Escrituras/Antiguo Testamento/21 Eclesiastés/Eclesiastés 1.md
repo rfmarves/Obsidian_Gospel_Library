@@ -1,22 +1,21 @@
 ---
 title: Eclesiastés 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastés 1
 [[Proverbios 31| <-- Proverbios 31]] | [[Eclesiastés]] | [[Eclesiastés 2|Eclesiastés 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Todo lo que está debajo del sol es vanidad y aflicción de espíritu — Quien añade conocimiento, añade dolor.
 
----
 ###### 1 
 Palabras del Predicador, hijo de David, rey en Jerusalén.
 

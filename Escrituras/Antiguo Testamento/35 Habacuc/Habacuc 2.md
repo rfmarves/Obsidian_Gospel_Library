@@ -1,22 +1,21 @@
 ---
 title: Habacuc 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Habacuc 2
 [[Habacuc 1| <-- Habacuc 1]] | [[Habacuc]] | [[Habacuc 3|Habacuc 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hab/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hab/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová insta a tener paciencia y promete que el justo vivirá por fe — La tierra será llena del conocimiento de la gloria de Jehová — Los ídolos no tienen poder.
 
----
 ###### 1 
 En mi puesto de guardia estaré, y sobre la fortaleza afirmaré el pie, y velaré para ver lo que él me dirá y lo que he de responder cuando sea reprendido.
 

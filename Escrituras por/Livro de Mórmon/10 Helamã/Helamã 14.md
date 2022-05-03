@@ -1,22 +1,21 @@
 ---
 title: Helamã 14
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamã 14
 [[Helamã 13| <-- Helamã 13]] | [[Helamã]] | [[Helamã 15|Helamã 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Samuel prediz que haverá luz durante a noite e que uma nova estrela aparecerá quando Cristo nascer — Cristo redime os homens da morte física e da espiritual — Entre os sinais de Sua morte haverá três dias de trevas, fender-se-ão as rochas e haverá grandes cataclismos da natureza. Aproximadamente 6 a.C.
 
----
 ###### 1 
 E então aconteceu que Samuel, o lamanita, profetizou muitas coisas mais que não podem ser escritas.
 

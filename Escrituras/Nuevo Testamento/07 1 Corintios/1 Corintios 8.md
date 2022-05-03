@@ -1,22 +1,21 @@
 ---
 title: 1 Corintios 8
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Corintios 8
 [[1 Corintios 7| <-- 1 Corintios 7]] | [[1 Corintios]] | [[1 Corintios 9|1 Corintios 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Hay muchos dioses y muchos señores — Para nosotros hay un solo Dios (el Padre) y un solo Señor, que es Cristo.
 
----
 ###### 1 
 En cuanto a lo sacrificado a los ídolos, sabemos que todos tenemos conocimiento. El conocimiento envanece, pero la caridad edifica.
 

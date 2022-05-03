@@ -1,10 +1,11 @@
 ---
 title: sw Ecclesiastes 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ecclesiastes 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Wisdom gives life to them that have it—All men are sinners—God has made man upright.
 
----
 ###### 1 
 A good name  better than precious ointment; and the day of death than the day of one’s birth.
 

@@ -1,22 +1,21 @@
 ---
 title: Isaías 42
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 42
 [[Isaías 41| <-- Isaías 41]] | [[Isaías]] | [[Isaías 43|Isaías 43 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/42?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/42?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Isaías fala a respeito do Messias — O Senhor trará Sua lei e Sua justiça, será uma luz para os gentios e libertará os cativos — Louvai ao Senhor.
 
----
 ###### 1 
 Eis aqui o meu Servo, a quem sustenho, o meu Eleito,  se apraz a minha alma; pus o meu Espírito sobre ele; juízo trará aos gentios.
 

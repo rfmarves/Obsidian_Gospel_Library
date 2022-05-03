@@ -1,22 +1,21 @@
 ---
 title: Oseias 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseias 5
 [[Oseias 4| <-- Oseias 4]] | [[Oseias]] | [[Oseias 6|Oseias 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os reinos de Judá e Israel cairão por causa de suas iniquidades.
 
----
 ###### 1 
 Ouvi isto, ó sacerdotes, e escutai, ó casa de Israel, e escutai, ó casa do rei, porque este juízo é contra vós, visto que fostes um laço para Mizpá, e rede estendida sobre Tabor.
 

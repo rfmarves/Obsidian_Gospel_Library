@@ -1,22 +1,21 @@
 ---
 title: Números 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 8
 [[Números 7| <-- Números 7]] | [[Números]] | [[Números 9|Números 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los levitas son lavados, consagrados y apartados por la imposición de manos — Ellos son de Jehová en lugar del primogénito de cada familia — Se dan los levitas como un don para Aarón y sus hijos para efectuar el servicio del tabernáculo.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

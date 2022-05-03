@@ -1,22 +1,21 @@
 ---
 title: Zacarias 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarias 1
 [[Ageu 2| <-- Ageu 2]] | [[Zacarias]] | [[Zacarias 2|Zacarias 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Zacarias chama Judá ao arrependimento — É mostrado a ele em visão que as cidades de Judá e o templo serão reconstruídos.
 
----
 ###### 1 
 No oitavo mês do segundo ano de Dario veio a palavra do  ao profeta Zacarias, filho de Berequias, filho de Ido, dizendo:
 

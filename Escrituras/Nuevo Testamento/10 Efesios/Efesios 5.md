@@ -1,22 +1,21 @@
 ---
 title: Efesios 5
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Efesios 5
 [[Efesios 4| <-- Efesios 4]] | [[Efesios]] | [[Efesios 6|Efesios 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/eph/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/eph/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se exhorta a los santos a evitar el pecado y a andar rectamente — Marido y mujer deben amarse el uno al otro.
 
----
 ###### 1 
 Sed, pues, imitadores de Dios como hijos amados.
 

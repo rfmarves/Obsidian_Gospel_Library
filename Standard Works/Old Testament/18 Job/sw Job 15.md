@@ -1,10 +1,11 @@
 ---
 title: sw Job 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Eliphaz sets forth the disquietude of wicked men—They do not believe they will return out of darkness and be resurrected.
 
----
 ###### 1 
 Then answered Eliphaz the Temanite, and said,
 

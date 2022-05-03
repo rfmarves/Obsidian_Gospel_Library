@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 28
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 28
 [[2 Nefi 27| <-- 2 Nefi 27]] | [[2 Nefi]] | [[2 Nefi 29|2 Nefi 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los últimos días se establecerán muchas iglesias falsas — Enseñarán doctrinas falsas, vanas e insensatas — Abundará la apostasía por motivo de los maestros falsos — El diablo enfurecerá el corazón de los hombres — Él enseñará todo género de doctrinas falsas. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Y ahora bien, hermanos míos, he aquí que os he hablado según el Espíritu me ha constreñido; por tanto, sé que ciertamente se han de verificar.
 

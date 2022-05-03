@@ -1,22 +1,21 @@
 ---
 title: Job 14
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 14
 [[Job 13| <-- Job 13]] | [[Job]] | [[Job 15|Job 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Job testifica de la brevedad de la vida, de la certeza de la muerte y de la certidumbre de la resurrección — Job pregunta: Si el hombre muriere, ¿volverá a vivir? — Responde que esperará el llamado de Jehová para salir del sepulcro.
 
----
 ###### 1 
 
 

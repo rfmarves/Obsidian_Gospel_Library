@@ -1,10 +1,11 @@
 ---
 title: sw Alma 10
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Lehi descended from Manasseh—Amulek recounts the angelic command that he care for Alma—The prayers of the righteous cause the people to be spared—Unrighteous lawyers and judges lay the foundation of the destruction of the people. About 82 B.C.
 
----
 ###### 1 
 Now these are the words which Amulek preached unto the people who were in the land of Ammonihah, saying:
 

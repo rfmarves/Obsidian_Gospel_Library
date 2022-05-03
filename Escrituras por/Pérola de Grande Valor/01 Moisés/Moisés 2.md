@@ -1,25 +1,24 @@
 ---
 title: Moisés 2
-tags: #Escrituras\PdGV
+tags: Escrituras\PdGV
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moisés 2
 [[Moisés 1| <-- Moisés 1]] | [[Moisés]] | [[Moisés 3|Moisés 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/pgp/moses/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/pgp/moses/2?lang=por)
 
 Moisés
 (Junho a outubro de 1830)
 
----
-__Resumo__
+> __Resumo__
 Deus cria os céus e a Terra — Criadas todas as formas de vida — Deus faz o homem e dá-lhe domínio sobre tudo o mais.
 
----
 ###### 1 
 E aconteceu que o Senhor falou a Moisés, dizendo: Eis que eu te revelo o que concerne a este céu e a esta Terra; escreve as palavras que eu digo. Eu sou o Princípio e o Fim, o Deus Todo-Poderoso; por meio de meu Unigênito eu criei estas coisas; sim, no princípio criei o céu e a Terra sobre a qual estás.
 

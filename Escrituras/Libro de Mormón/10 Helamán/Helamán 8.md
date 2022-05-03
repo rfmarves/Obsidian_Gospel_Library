@@ -1,22 +1,21 @@
 ---
 title: Helamán 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 8
 [[Helamán 7| <-- Helamán 7]] | [[Helamán]] | [[Helamán 9|Helamán 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los jueces corruptos procuran incitar al pueblo en contra de Nefi — Abraham, Moisés, Zenós, Zenoc, Ezías, Isaías, Jeremías, Lehi y Nefi, todos ellos testificaron de Cristo — Por inspiración, Nefi anuncia el asesinato del juez superior. Aproximadamente 23–21 a.C.
 
----
 ###### 1 
 Y aconteció que cuando Nefi hubo dicho estas palabras, he aquí, estaban presentes unos hombres que eran jueces, los cuales también pertenecían a la banda secreta de Gadiantón; y se llenaron de ira y gritaron contra él, diciendo al pueblo: ¿Por qué no prendéis a este hombre, y lo lleváis para que sea condenado según el delito que ha cometido?
 

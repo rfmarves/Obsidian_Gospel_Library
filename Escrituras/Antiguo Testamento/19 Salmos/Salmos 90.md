@@ -1,27 +1,25 @@
 ---
 title: Salmos 90
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 90
 [[Salmos 89| <-- Salmos 89]] | [[Salmos]] | [[Salmos 91|Salmos 91 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/90?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/90?lang=spa)
 
----
+```
 Oración de Moisés, varón de Dios.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Oración de Moisés, varón de Dios — Dios es de eternidad en eternidad — Los días de los hombres son setenta años — Moisés implora a Jehová que sea misericordioso con Su pueblo y que le dé bendiciones.
 
----
 ###### 1 
 
 

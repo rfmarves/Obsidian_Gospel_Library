@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 8
 [[1 Crônicas 7| <-- 1 Crônicas 7]] | [[1 Crônicas]] | [[1 Crônicas 9|1 Crônicas 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos e os chefes de Benjamim são citados pelo nome.
 
----
 ###### 1 
 E Benjamim gerou Belá, seu primogênito, Asbel, o segundo, e Aará, o terceiro,
 

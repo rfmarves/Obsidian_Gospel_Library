@@ -1,22 +1,21 @@
 ---
 title: Hechos 26
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 26
 [[Hechos 25| <-- Hechos 25]] | [[Hechos]] | [[Hechos 27|Hechos 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo relata la manera como perseguía anteriormente a los santos cuando él era fariseo — Testifica de la aparición de Jesús en el camino a Damasco — Testifica ante el rey Agripa.
 
----
 ###### 1 
 Entonces Agripa dijo a Pablo: Se te permite hablar por ti mismo. Pablo entonces, extendiendo la mano, comenzó así su defensa, 
 

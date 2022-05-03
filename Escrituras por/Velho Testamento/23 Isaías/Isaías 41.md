@@ -1,22 +1,21 @@
 ---
 title: Isaías 41
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 41
 [[Isaías 40| <-- Isaías 40]] | [[Isaías]] | [[Isaías 42|Isaías 42 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/41?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/41?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor diz a Israel: Sois meus servos, Eu vos preservarei — Os ídolos nada são — Serão anunciadas boas novas a Jerusalém.
 
----
 ###### 1 
 Calai-vos perante mim, ó ilhas, e os povos renovem as forças; cheguem-se,  então falem; cheguemo-nos juntos a juízo.
 

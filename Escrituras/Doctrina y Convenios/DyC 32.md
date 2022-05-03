@@ -1,22 +1,21 @@
 ---
 title: DyC 32
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 32
 [[DyC 31| <-- DyC 31]] | [[DyC]] | [[DyC 33|DyC 33 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/32?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/32?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–3, Parley P. Pratt y Ziba Peterson son llamados para predicar a los lamanitas y para acompañar a Oliver Cowdery y a Peter Whitmer, hijo; 4–5, Deben orar para entender las Escrituras.
 
----
 ###### 1 
 Y ahora, concerniente a mi siervo Parley P. Pratt, he aquí, le digo: Vivo yo, que es mi voluntad que declare mi evangelio y aprenda de mí, y sea manso y humilde de corazón.
 

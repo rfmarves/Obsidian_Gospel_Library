@@ -1,10 +1,11 @@
 ---
 title: sw Galatians 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Galatians 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/gal/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 God gave the gospel to Abraham—The Mosaic law was added because of transgressions—The law was a schoolmaster until Christ—The Saints are children of God by faith—All who are of the faith and baptized into Christ become Abraham’s seed.
 
----
 ###### 1 
 O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?
 

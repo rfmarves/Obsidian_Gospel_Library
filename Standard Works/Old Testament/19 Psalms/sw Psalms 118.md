@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 118
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 118
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/118?lang=eng)
 
----
-__Summary__
+> __Summary__
 A messianic psalm—Let all Israel say of the Lord, His mercy endures forever—The Stone that the builders refused is become the headstone of the corner—Blessed is he who comes in the name of the Lord.
 
----
 ###### 1 
 O give thanks unto the ; for  good: because his mercy  for ever.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Judges 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Judah, Simeon, and Joseph continue to conquer the Canaanites—Remnants of the Canaanites remain in the lands of Judah, Manasseh, Ephraim, Zebulun, Asher, Naphtali, and Dan.
 
----
 ###### 1 
 Now after the death of Joshua it came to pass, that the children of Israel asked the , saying, Who shall go up for us against the Canaanites first, to fight against them?
 

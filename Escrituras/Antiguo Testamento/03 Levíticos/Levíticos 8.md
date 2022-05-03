@@ -1,22 +1,21 @@
 ---
 title: Levíticos 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 8
 [[Levíticos 7| <-- Levíticos 7]] | [[Levíticos]] | [[Levíticos 9|Levíticos 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Aarón y sus hijos son lavados, ungidos, vestidos con sus túnicas del sacerdocio y consagrados delante de todo Israel — Moisés y Aarón ofrecen sacrificios de reconciliación y de expiación.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

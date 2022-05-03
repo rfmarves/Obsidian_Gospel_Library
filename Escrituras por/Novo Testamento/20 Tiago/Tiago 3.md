@@ -1,22 +1,21 @@
 ---
 title: Tiago 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Tiago 3
 [[Tiago 2| <-- Tiago 2]] | [[Tiago]] | [[Tiago 4|Tiago 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/james/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/james/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Governando a língua, adquirimos perfeição — A sabedoria celestial é pura, pacífica e cheia de misericórdia.
 
----
 ###### 1 
 Meus irmãos, não vos torneis,  mestres, sabendo que receberemos maior condenação.
 

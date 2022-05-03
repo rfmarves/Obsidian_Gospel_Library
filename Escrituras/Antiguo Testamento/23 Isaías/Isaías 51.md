@@ -1,22 +1,21 @@
 ---
 title: Isaías 51
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 51
 [[Isaías 50| <-- Isaías 50]] | [[Isaías]] | [[Isaías 52|Isaías 52 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/51?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/51?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los últimos días, Jehová consolará a Sion y recogerá a Israel — Los redimidos irán a Sion en medio de gran gozo — Compárese con 2 Nefi 8.
 
----
 ###### 1 
 Oídme, los que seguís la justicia, los que buscáis a Jehová; mirad a la piedra de donde fuisteis cortados y al hueco de la cantera de donde fuisteis arrancados.
 

@@ -1,22 +1,21 @@
 ---
 title: Éter 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éter 3
 [[Éter 2| <-- Éter 2]] | [[Éter]] | [[Éter 4|Éter 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O irmão de Jarede vê o dedo do Senhor tocar dezesseis pedras — Cristo mostra o corpo de Seu espírito ao irmão de Jarede — Aqueles que têm um conhecimento perfeito não podem ser impedidos de transpor o véu — São providenciados intérpretes para trazer à luz o registro jaredita.
 
----
 ###### 1 
 E aconteceu que o irmão de Jarede (ora, eram oito os barcos que haviam sido preparados) subiu ao monte a que chamaram monte Selém, por causa de sua grande altura, e de uma rocha fundiu dezesseis pequenas pedras; e elas eram brancas e límpidas, como vidro transparente; e ele levou-as em suas mãos ao cimo do monte e clamou novamente ao Senhor, dizendo:
 

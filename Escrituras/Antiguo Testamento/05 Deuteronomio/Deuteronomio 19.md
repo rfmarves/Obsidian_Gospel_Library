@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 19
 [[Deuteronomio 18| <-- Deuteronomio 18]] | [[Deuteronomio]] | [[Deuteronomio 20|Deuteronomio 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se señalan las ciudades de refugio para los casos de homicidio sin intención — Se dará muerte a los asesinos — Es preciso que haya dos o tres testigos para llevar a cabo un juicio — Se castigará a los testigos falsos.
 
----
 ###### 1 
 Cuando Jehová tu Dios haya destruido las naciones cuya tierra Jehová tu Dios te da a ti, y tú las heredes y habites en sus ciudades y en sus casas,
 

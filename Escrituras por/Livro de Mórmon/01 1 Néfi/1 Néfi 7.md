@@ -1,22 +1,21 @@
 ---
 title: 1 Néfi 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Néfi 7
 [[1 Néfi 6| <-- 1 Néfi 6]] | [[1 Néfi]] | [[1 Néfi 8|1 Néfi 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Leí retornam a Jerusalém e pedem a Ismael e sua família que os acompanhem em sua viagem — Lamã e outros rebelam-se — Néfi exorta seus irmãos a terem fé no Senhor — Eles amarram-no com cordas e planejam sua destruição — Ele é libertado pelo poder da fé — Seus irmãos pedem perdão — Leí e seu grupo oferecem sacrifício e holocaustos. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 E agora quisera que soubésseis que depois de meu pai, Leí, haver terminado de profetizar acerca de seus descendentes, aconteceu que o Senhor lhe falou outra vez, dizendo que ele, Leí, não deveria levar sua família sozinha para o deserto; mas que seus filhos deveriam tomar filhas para esposas, a fim de suscitarem descendência para o Senhor na terra da promissão.
 

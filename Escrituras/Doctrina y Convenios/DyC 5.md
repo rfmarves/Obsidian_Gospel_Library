@@ -1,22 +1,21 @@
 ---
 title: DyC 5
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 5
 [[DyC 4| <-- DyC 4]] | [[DyC]] | [[DyC 6|DyC 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–10, Esta generación recibirá la palabra del Señor por medio de José Smith; 11–18, Tres testigos darán testimonio del Libro de Mormón; 19–20, La palabra del Señor se verificará como en épocas anteriores; 21–35, Martin Harris podrá arrepentirse y ser uno de los testigos.
 
----
 ###### 1 
 He aquí, te digo que por cuanto mi siervo Martin Harris ha deseado un testimonio de mi mano de que tú, mi siervo José Smith, hijo, tienes las planchas de las cuales has testificado y dado fe de haber recibido de mí,
 

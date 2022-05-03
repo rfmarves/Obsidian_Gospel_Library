@@ -1,22 +1,21 @@
 ---
 title: Romanos 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 4
 [[Romanos 3| <-- Romanos 3]] | [[Romanos]] | [[Romanos 5|Romanos 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A fé exercida por Abraão lhe foi imputada por retidão — O homem é justificado pela fé, pelos atos de retidão e pela graça.
 
----
 ###### 1 
 Que diremos, pois, ter alcançado Abraão, nosso pai segundo a carne?
 

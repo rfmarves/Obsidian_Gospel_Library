@@ -1,22 +1,21 @@
 ---
 title: 1 Pedro 5
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Pedro 5
 [[1 Pedro 4| <-- 1 Pedro 4]] | [[1 Pedro]] | [[2 Pedro 1|2 Pedro 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los ancianos (élderes) deben apacentar la grey de Dios — La humildad y la gracia divina conducen a la perfección.
 
----
 ###### 1 
 Ruego a los ancianos que están entre vosotros, yo anciano  con ellos, y testigo de los padecimientos de Cristo, que soy también participante de la gloria que será revelada:
 

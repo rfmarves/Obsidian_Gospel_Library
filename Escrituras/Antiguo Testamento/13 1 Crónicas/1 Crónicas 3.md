@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 3
 [[1 Crónicas 2| <-- 1 Crónicas 2]] | [[1 Crónicas]] | [[1 Crónicas 4|1 Crónicas 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se nombra a los hijos de David — Se hace mención de los sucesores de Salomón hasta Jeconías y después de este.
 
----
 ###### 1 
 Estos son los hijos de David que le nacieron en Hebrón: Amnón, el primogénito, de Ahinoam, la jezreelita; el segundo, Daniel, de Abigail, la de Carmel;
 

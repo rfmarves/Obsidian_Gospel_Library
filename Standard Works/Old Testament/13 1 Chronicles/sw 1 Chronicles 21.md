@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 David sins by numbering Israel—The Lord sends pestilence upon the people—David offers sacrifices and the plague is stayed.
 
----
 ###### 1 
 And Satan stood up against Israel, and provoked David to number Israel.
 

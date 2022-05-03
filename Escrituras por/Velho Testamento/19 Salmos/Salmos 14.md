@@ -1,27 +1,25 @@
 ---
 title: Salmos 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 14
 [[Salmos 13| <-- Salmos 13]] | [[Salmos]] | [[Salmos 15|Salmos 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/14?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi proclama: Disse o néscio no seu coração: Não há Deus — Israel se regozijará no dia da restauração.
 
----
 ###### 1 
 O néscio disse no seu coração: Não  Deus. Corrompem-se, fazem-se abomináveis em suas obras, não  ninguém que faça o bem.
 

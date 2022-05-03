@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Philistines place the ark in the house of Dagon, their god—The Philistines in Ashdod, then Gath, and then Ekron are plagued and slain because the ark is lodged with them.
 
----
 ###### 1 
 And the Philistines took the ark of God, and brought it from Eben-ezer unto Ashdod.
 

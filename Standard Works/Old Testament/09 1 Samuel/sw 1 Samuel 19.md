@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saul seeks to kill David—Michal saves David by artifice—David joins Samuel and the company of prophets.
 
----
 ###### 1 
 And Saul spake to Jonathan his son, and to all his servants, that they should kill David.
 

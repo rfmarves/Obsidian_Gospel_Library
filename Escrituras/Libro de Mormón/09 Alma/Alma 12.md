@@ -1,22 +1,21 @@
 ---
 title: Alma 12
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 12
 [[Alma 11| <-- Alma 11]] | [[Alma]] | [[Alma 13|Alma 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Alma habla con Zeezrom — Los misterios de Dios se dan a conocer únicamente a los fieles — Los hombres son juzgados por sus pensamientos, creencias, palabras y obras — Los inicuos padecerán la muerte espiritual — Esta vida terrenal es un estado de probación — El plan de redención lleva a efecto la Resurrección y, por medio de la fe, la remisión de los pecados — Los que se arrepienten tienen derecho a reclamar la misericordia por medio del Hijo Unigénito. Aproximadamente 82 a.C.
 
----
 ###### 1 
 Entonces Alma, notando que las palabras de Amulek habían callado a Zeezrom, pues vio que Amulek lo había sorprendido en sus mentiras y ardides para destruirlo, y viendo que Zeezrom, consciente de su culpabilidad, empezaba a temblar, Alma abrió su boca y comenzó a hablarle y a afirmar las palabras de Amulek, y a explicar las cosas, o aclarar las Escrituras más de lo que Amulek había hecho.
 

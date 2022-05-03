@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 41
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 41
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/41?lang=eng)
 
----
-__Summary__
+> __Summary__
 Pharaoh dreams of the cattle and the ears of grain—Joseph interprets the dreams as seven years of plenty and seven of famine—He proposes a grain storage program—Pharaoh makes him ruler of all Egypt—Joseph marries Asenath—He gathers grain as the sand upon the seashore—Asenath bears Manasseh and Ephraim—Joseph sells grain to Egyptians and others during the famine.
 
----
 ###### 1 
 And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.
 

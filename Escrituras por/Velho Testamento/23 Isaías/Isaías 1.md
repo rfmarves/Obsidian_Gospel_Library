@@ -1,22 +1,21 @@
 ---
 title: Isaías 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 1
 [[Cantares de Salomão 8| <-- Cantares de Salomão 8]] | [[Isaías]] | [[Isaías 2|Isaías 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo de Israel é apóstata, rebelde e corrupto; só uns poucos permanecem fiéis — Os sacrifícios e as festas do povo são rejeitados — Eles são chamados ao arrependimento e exortados a praticar a retidão — Sião será redimida no dia da restauração.
 
----
 ###### 1 
 Visão de Isaías, filho de Amós, que ele teve a respeito de Judá e Jerusalém, nos dias de Uzias, Jotão, Acaz,  Ezequias, reis de Judá.
 

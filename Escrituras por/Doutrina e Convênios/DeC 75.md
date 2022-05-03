@@ -1,22 +1,21 @@
 ---
 title: DeC 75
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 75
 [[DeC 74| <-- DeC 74]] | [[DeC]] | [[DeC 76|DeC 76 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/75?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/75?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, Os élderes fiéis que pregam o evangelho ganharão a vida eterna; 6–12, Orai para receberdes o Consolador, que ensina todas as coisas; 13–22, Os élderes julgarão os que rejeitarem sua mensagem; 23–36, As famílias dos missionários devem receber ajuda da Igreja.
 
----
 ###### 1 
 Em verdade, em verdade vos digo, eu que falo pela voz de meu Espírito, sim, o Alfa e o Ômega, vosso Senhor e vosso Deus:
 

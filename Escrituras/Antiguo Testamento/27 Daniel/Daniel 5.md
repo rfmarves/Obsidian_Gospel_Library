@@ -1,22 +1,21 @@
 ---
 title: Daniel 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 5
 [[Daniel 4| <-- Daniel 4]] | [[Daniel]] | [[Daniel 6|Daniel 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Belsasar y sus convidados beben en los vasos del templo — Una mano escribe en la pared, anunciando la caída de Belsasar — Daniel interpreta las palabras y reprende al rey por su orgullo y su idolatría — Esa misma noche Babilonia es conquistada.
 
----
 ###### 1 
 El rey Belsasar hizo un gran banquete a mil de sus nobles, y en presencia de los mil bebía vino.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Alma 61
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 61
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/61?lang=eng)
 
----
-__Summary__
+> __Summary__
 Pahoran tells Moroni of the insurrection and rebellion against the government—The king-men take Zarahemla and are in league with the Lamanites—Pahoran asks for military aid against the rebels. About 62 B.C.
 
----
 ###### 1 
 Behold, now it came to pass that soon after Moroni had sent his epistle unto the chief governor, he received an epistle from Pahoran, the chief governor. And these are the words which he received:
 

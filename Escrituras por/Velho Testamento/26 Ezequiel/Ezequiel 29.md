@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 29
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 29
 [[Ezequiel 28| <-- Ezequiel 28]] | [[Ezequiel]] | [[Ezequiel 30|Ezequiel 30 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/29?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/29?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Egito será derrotado pela Babilônia — Quando o Egito se levantar novamente, será o mais humilde dos reinos.
 
----
 ###### 1 
 No décimo ano, no décimo  no  doze do mês, veio a mim a palavra do , dizendo:
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 John 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 John 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saints are born of God through belief in Christ—Water, blood, and the Spirit testify of Christ—Belief in Christ is required in order to gain eternal life.
 
----
 ###### 1 
 Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him.
 

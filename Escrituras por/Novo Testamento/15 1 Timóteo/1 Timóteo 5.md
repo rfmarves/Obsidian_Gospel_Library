@@ -1,22 +1,21 @@
 ---
 title: 1 Timóteo 5
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Timóteo 5
 [[1 Timóteo 4| <-- 1 Timóteo 4]] | [[1 Timóteo]] | [[1 Timóteo 6|1 Timóteo 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos devem cuidar de seus pobres que são dignos — Determinam-se normas referentes aos idosos.
 
----
 ###### 1 
 Não repreendas asperamente os homens idosos, mas admoesta-os como a pais; aos jovens, como a irmãos.
 

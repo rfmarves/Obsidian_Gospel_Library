@@ -1,22 +1,21 @@
 ---
 title: Miqueias 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Miqueias 2
 [[Miqueias 1| <-- Miqueias 1]] | [[Miqueias]] | [[Miqueias 3|Miqueias 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/micah/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/micah/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Lamenta-se a destruição de Israel — O Senhor vai congregar o remanescente de Israel.
 
----
 ###### 1 
 Ai daqueles que nas suas camas intentam a iniquidade, e planejam o mal; à luz da alva o põem em obra, porque está no poder da sua mão!
 

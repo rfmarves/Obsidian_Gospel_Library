@@ -1,30 +1,28 @@
 ---
 title: 1 Nefi 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 1
 [[Una breve explicación del Libro de Mormón| <-- Una breve explicación del Libro de Mormón]] | [[1 Nefi]] | [[1 Nefi 2|1 Nefi 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=spa)
 
 1 Nefi
 Su reinado y ministerio
 
----
+```
 Relato de Lehi, de su esposa Saríah y de sus cuatro hijos, que se llamaban (empezando por el mayor) Lamán, Lemuel, Sam y Nefi. El Señor advierte a Lehi que salga de la tierra de Jerusalén, porque este profetiza al pueblo sobre su iniquidad, y tratan de quitarle la vida. Lehi viaja tres días por el desierto con su familia. Nefi, acompañado de sus hermanos, vuelve a la tierra de Jerusalén por los anales de los judíos. El relato de sus padecimientos. Toman por esposas a las hijas de Ismael. Salen para el desierto con sus familias. Sus padecimientos y aflicciones en el desierto. Rumbo de sus viajes. Llegan a las grandes aguas. Se rebelan los hermanos de Nefi contra él. Él los confunde y construye un barco. Dan al lugar el nombre de Abundancia. Atraviesan los grandes mares hasta llegar a la tierra prometida, etcétera. Esto es según la narración de Nefi, o en otras palabras, yo, Nefi, escribí estos anales.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Nefi da principio a la historia de su pueblo — Lehi ve en visión un pilar de fuego y lee en un libro de profecías — Alaba a Dios, predice la venida del Mesías y profetiza la destrucción de Jerusalén — Es perseguido por los judíos. Aproximadamente 600 a.C.
 
----
 ###### 1 
 Yo, Nefi, nací de buenos padres y recibí, por tanto, alguna instrucción en toda la ciencia de mi padre; y habiendo conocido muchas aflicciones durante el curso de mi vida, siendo, no obstante, altamente favorecido del Señor todos mis días; sí, habiendo logrado un conocimiento grande de la bondad y los misterios de Dios, escribo, por tanto, la historia de los hechos de mi vida.
 

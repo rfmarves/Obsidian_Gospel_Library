@@ -1,10 +1,11 @@
 ---
 title: sw D&C 55
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 55
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/55?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, William W. Phelps is called and chosen to be baptized, to be ordained an elder, and to preach the gospel; 4, He is also to write books for children in Church schools; 5–6, He is to travel to Missouri, which will be the area of his labors.
 
----
 ###### 1 
 Behold, thus saith the Lord unto you, my servant William, yea, even the Lord of the whole earth, thou art called and chosen; and after thou hast been baptized by water, which if you do with an eye single to my glory, you shall have a remission of your sins and a reception of the Holy Spirit by the laying on of hands;
 

@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 5
 [[Ezequiel 4| <-- Ezequiel 4]] | [[Ezequiel]] | [[Ezequiel 6|Ezequiel 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El juicio de Jerusalén comprenderá el hambre, la pestilencia, la guerra y la dispersión de sus habitantes.
 
----
 ###### 1 
 Y tú, hijo de hombre, toma una espada aguda, toma una navaja de barbero y hazla pasar sobre tu cabeza y tu barba; toma después una balanza de pesar, y divide 
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 4
 [[1 Samuel 3| <-- 1 Samuel 3]] | [[1 Samuel]] | [[1 Samuel 5|1 Samuel 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los israelitas son afligidos y derrotados por los filisteos, quienes además toman el arca de Dios — Matan a los hijos de Elí; Elí muere en un accidente, y su nuera muere en el parto.
 
----
 ###### 1 
 Y llegaba la palabra de Samuel a todo Israel. Por aquel tiempo salió Israel en batalla al encuentro de los filisteos y acampó junto a Eben-ezer, y los filisteos acamparon en Afec.
 

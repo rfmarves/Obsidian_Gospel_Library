@@ -1,22 +1,21 @@
 ---
 title: Jeremias 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 1
 [[Isaías 66| <-- Isaías 66]] | [[Jeremias]] | [[Jeremias 2|Jeremias 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias foi preordenado para ser um profeta para as nações — Ele é chamado como mortal para declarar a palavra do Senhor.
 
----
 ###### 1 
 Palavras de Jeremias, filho de Hilquias, um dos sacerdotes que  em Anatote, na terra de Benjamim,
 

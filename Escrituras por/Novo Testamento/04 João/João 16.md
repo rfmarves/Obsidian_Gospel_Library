@@ -1,22 +1,21 @@
 ---
 title: João 16
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 16
 [[João 15| <-- João 15]] | [[João]] | [[João 17|João 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus discursa sobre a missão do Espírito Santo — Ele fala de Sua morte e ressurreição, anuncia que Ele é o Filho de Deus e diz que venceu o mundo.
 
----
 ###### 1 
 Tenho-vos dito essas  para que não vos escandalizeis.
 

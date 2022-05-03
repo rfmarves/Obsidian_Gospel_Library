@@ -1,22 +1,21 @@
 ---
 title: Génesis 14
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 14
 [[Génesis 13| <-- Génesis 13]] | [[Génesis]] | [[Génesis 15|Génesis 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Lot es capturado en las batallas de los reyes — Él es rescatado por Abram — Melquisedec administra pan y vino, y bendice a Abram — Abram paga los diezmos — Él se niega a aceptar el botín de la conquista.
 
----
 ###### 1 
 Y aconteció en los días de Amrafel, rey de Sinar, Arioc, rey de Elasar, Quedorlaomer, rey de Elam, y Tidal, rey de naciones,
 

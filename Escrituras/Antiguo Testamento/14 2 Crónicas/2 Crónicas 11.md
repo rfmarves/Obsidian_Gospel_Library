@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 11
 [[2 Crónicas 10| <-- 2 Crónicas 10]] | [[2 Crónicas]] | [[2 Crónicas 12|2 Crónicas 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Roboam fortalece el reino de Judá, pero se le prohíbe someter a Israel — Jeroboam conduce a la idolatría al reino de Israel — Roboam toma muchas esposas y concubinas.
 
----
 ###### 1 
 Y cuando llegó Roboam a Jerusalén, reunió de la casa de Judá y de Benjamín a ciento ochenta mil hombres de guerra escogidos, para pelear contra Israel y devolver el reino a Roboam.
 

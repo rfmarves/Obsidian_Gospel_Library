@@ -1,27 +1,25 @@
 ---
 title: Salmos 83
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 83
 [[Salmos 82| <-- Salmos 82]] | [[Salmos]] | [[Salmos 84|Salmos 84 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/83?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/83?lang=por)
 
----
+```
 Cântico e salmo de Asafe.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Pede-se a Deus que confunda os inimigos de Seu povo — Jeová é o Altíssimo sobre toda a Terra.
 
----
 ###### 1 
 Ó Deus, não estejas em silêncio; não te cales, nem te aquietes, ó Deus.
 

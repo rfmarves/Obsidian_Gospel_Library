@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is to destroy the seven nations of Canaan—Marriages with them are forbidden lest apostasy result—Israel has a mission as a holy and chosen people—The Lord shows mercy unto those who love Him and keep His commandments—He promises to remove sickness from the children of Israel if they obey.
 
----
 ###### 1 
 When the  thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;
 

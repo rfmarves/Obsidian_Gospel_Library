@@ -1,22 +1,21 @@
 ---
 title: DyC 54
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 54
 [[DyC 53| <-- DyC 53]] | [[DyC]] | [[DyC 55|DyC 55 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/54?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/54?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–6, Los santos deben guardar el convenio del Evangelio para obtener misericordia; 7–10, Deben ser pacientes en la tribulación.
 
----
 ###### 1 
 He aquí, así dice el Señor, el Alfa y la Omega, el principio y el fin, el mismo que fue crucificado por los pecados del mundo:
 

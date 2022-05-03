@@ -1,10 +1,11 @@
 ---
 title: sw D&C 62
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 62
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/62?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, Testimonies are recorded in heaven; 4–9, The elders are to travel and preach according to judgment and as directed by the Spirit.
 
----
 ###### 1 
 Behold, and hearken, O ye elders of my church, saith the Lord your God, even Jesus Christ, your advocate, who knoweth the weakness of man and how to succor them who are tempted.
 

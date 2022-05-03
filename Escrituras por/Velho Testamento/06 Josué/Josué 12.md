@@ -1,22 +1,21 @@
 ---
 title: Josué 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 12
 [[Josué 11| <-- Josué 11]] | [[Josué]] | [[Josué 13|Josué 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Dois reis a leste do Jordão e trinta e um a oeste são conquistados por Israel.
 
----
 ###### 1 
 Estes, pois,  os reis da terra, os quais os filhos de Israel derrotaram e cujas terras possuíram além do Jordão ao nascente do sol, desde o ribeiro de Arnom, até o monte Hermom, e toda a planície do oriente:
 

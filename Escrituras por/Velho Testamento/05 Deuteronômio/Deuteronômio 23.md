@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 23
 [[Deuteronômio 22| <-- Deuteronômio 22]] | [[Deuteronômio]] | [[Deuteronômio 24|Deuteronômio 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés especifica os que podem e os que não podem entrar na congregação — Ele estabelece leis referentes à higiene, aos servos, à usura e aos votos.
 
----
 ###### 1 
 Aquele a quem forem trilhados os testículos, ou cortado o membro viril, não entrará na congregação do .
 

@@ -1,22 +1,21 @@
 ---
 title: Tito 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Tito 1
 [[2 Timóteo 4| <-- 2 Timóteo 4]] | [[Tito]] | [[Tito 2|Tito 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/titus/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/titus/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A vida eterna foi prometida antes do princípio do mundo — Enumeram-se as qualificações dos bispos — Para os puros, todas as coisas são puras.
 
----
 ###### 1 
 Paulo, servo de Deus, e apóstolo de Jesus Cristo, segundo a fé dos eleitos de Deus, e o conhecimento da verdade, que é segundo a piedade,
 

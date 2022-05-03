@@ -1,22 +1,21 @@
 ---
 title: Juízes 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 6
 [[Juízes 5| <-- Juízes 5]] | [[Juízes]] | [[Juízes 7|Juízes 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel torna-se cativo dos midianitas — Um anjo aparece a Gideão e ordena-lhe que liberte Israel — Gideão derruba o altar de Baal, o Espírito do Senhor repousa sobre ele, e o Senhor dá-lhe um sinal de que ele está sendo chamado para libertar Israel.
 
----
 ###### 1 
 Porém os filhos de Israel fizeram o  mau aos olhos do ; e o  os deu na mão dos midianitas por sete anos.
 

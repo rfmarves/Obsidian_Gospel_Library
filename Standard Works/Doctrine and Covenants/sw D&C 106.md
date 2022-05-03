@@ -1,10 +1,11 @@
 ---
 title: sw D&C 106
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 106
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/106?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, Warren A. Cowdery is called as a local presiding officer; 4–5, The Second Coming will not overtake the children of light as a thief; 6–8, Great blessings follow faithful service in the Church.
 
----
 ###### 1 
 It is my will that my servant Warren A. Cowdery should be appointed and ordained a presiding high priest over my church, in the land of Freedom and the regions round about;
 

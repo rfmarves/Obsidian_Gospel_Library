@@ -1,22 +1,21 @@
 ---
 title: Lucas 12
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 12
 [[Lucas 11| <-- Lucas 11]] | [[Lucas]] | [[Lucas 13|Lucas 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús enseña: Guardaos de la hipocresía; haceos tesoros en el cielo y no en la tierra; preparaos para la venida del Señor; a quien mucho se da, mucho se requiere; la prédica del Evangelio causa división.
 
----
 ###### 1 
 En esto, se había reunido una multitud innumerable, tantos que unos a otros se atropellaban.  comenzó a decir primeramente a sus discípulos: Guardaos de la levadura de los fariseos, que es la hipocresía,
 

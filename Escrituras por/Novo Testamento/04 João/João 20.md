@@ -1,22 +1,21 @@
 ---
 title: João 20
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 20
 [[João 19| <-- João 19]] | [[João]] | [[João 21|João 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Maria Madalena, Pedro e João encontram o sepulcro vazio — O Cristo ressuscitado aparece a Maria Madalena no jardim — Ele aparece aos discípulos e mostra Seu corpo ressuscitado — Tomé toca as feridas nas mãos, pés e lado de Jesus — Jesus é o Cristo, o Filho de Deus.
 
----
 ###### 1 
 E no primeiro  da semana, Maria Madalena foi ao sepulcro de madrugada, sendo ainda escuro, e viu a pedra  tirada do sepulcro.
 

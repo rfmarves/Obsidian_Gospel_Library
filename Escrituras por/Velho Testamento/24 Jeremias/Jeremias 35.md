@@ -1,22 +1,21 @@
 ---
 title: Jeremias 35
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 35
 [[Jeremias 34| <-- Jeremias 34]] | [[Jeremias]] | [[Jeremias 36|Jeremias 36 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/35?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/35?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os recabitas são elogiados e abençoados por sua obediência.
 
----
 ###### 1 
 A palavra que do  veio a Jeremias, nos dias de Joaquim, filho de Josias, rei de Judá, dizendo:
 

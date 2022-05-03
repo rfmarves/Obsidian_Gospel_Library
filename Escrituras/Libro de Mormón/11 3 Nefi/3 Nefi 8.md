@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 8
 [[3 Nefi 7| <-- 3 Nefi 7]] | [[3 Nefi]] | [[3 Nefi 9|3 Nefi 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Tempestades, terremotos, incendios, torbellinos y convulsiones naturales testifican de la crucifixión de Cristo — Muchas personas son destruidas — Las tinieblas cubren la tierra durante tres días — Los sobrevivientes lamentan su destino. Aproximadamente 33–34 d.C.
 
----
 ###### 1 
 Ahora bien, aconteció que según nuestros anales, y sabemos que son verdaderos, porque, he aquí, un hombre justo llevaba los anales, porque en verdad hizo muchos milagros en el nombre de Jesús, y no había hombre alguno que pudiera hacer un milagro en el nombre de Jesús, a menos que estuviese enteramente limpio de su iniquidad;
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 130
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 130
 [[Salmos 129| <-- Salmos 129]] | [[Salmos]] | [[Salmos 131|Salmos 131 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/130?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/130?lang=por)
 
----
+```
 Cântico das subidas.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Ó Senhor, ouve nossas orações, perdoa as iniquidades e redime Israel.
 
----
 ###### 1 
 Das profundezas a ti clamo, ó .
 

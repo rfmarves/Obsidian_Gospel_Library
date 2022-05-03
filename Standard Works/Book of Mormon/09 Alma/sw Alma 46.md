@@ -1,10 +1,11 @@
 ---
 title: sw Alma 46
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 46
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/46?lang=eng)
 
----
-__Summary__
+> __Summary__
 Amalickiah conspires to be king—Moroni raises the title of liberty—He rallies the people to defend their religion—True believers are called Christians—A remnant of Joseph will be preserved—Amalickiah and the dissenters flee to the land of Nephi—Those who will not support the cause of freedom are put to death. About 73–72 B.C.
 
----
 ###### 1 
 And it came to pass that as many as would not hearken to the words of Helaman and his brethren were gathered together against their brethren.
 

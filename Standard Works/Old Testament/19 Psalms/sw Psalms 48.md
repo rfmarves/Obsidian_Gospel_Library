@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 48
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 48
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/48?lang=eng)
 
----
+```
 A Song and Psalm for the sons of Korah.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Zion, the city of God, the joy of the whole earth, will be established forever.
 
----
 ###### 1 
 Great  the , and greatly to be praised in the city of our God,  the mountain of his holiness.
 

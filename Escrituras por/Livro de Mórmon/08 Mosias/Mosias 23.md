@@ -1,27 +1,25 @@
 ---
 title: Mosias 23
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 23
 [[Mosias 22| <-- Mosias 22]] | [[Mosias]] | [[Mosias 24|Mosias 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/23?lang=por)
 
----
+```
 Relato de Alma e do povo do Senhor, que foram impelidos para o deserto pelo povo do rei Noé.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Alma recusa-se a ser rei — Ele serve como sumo sacerdote — O Senhor castiga Seu povo e os lamanitas conquistam a terra de Helã — Amulon, chefe dos iníquos sacerdotes do rei Noé, governa sujeito ao monarca lamanita. Aproximadamente 145–121 a.C.
 
----
 ###### 1 
 Ora, Alma, tendo sido avisado pelo Senhor de que os exércitos do rei Noé cairiam sobre eles, avisou seu povo; portanto, reuniram seus rebanhos e recolheram seus cereais e partiram para o deserto, adiante dos exércitos do rei Noé.
 

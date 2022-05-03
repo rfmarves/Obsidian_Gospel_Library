@@ -1,22 +1,21 @@
 ---
 title: Jeremías 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 18
 [[Jeremías 17| <-- Jeremías 17]] | [[Jeremías]] | [[Jeremías 19|Jeremías 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel es como el barro del alfarero en las manos de Jehová — Si las naciones se arrepienten, Jehová retendrá los males decretados en contra de ellas — El pueblo de Judá será esparcido.
 
----
 ###### 1 
 La palabra de Jehová que vino a Jeremías, diciendo:
 

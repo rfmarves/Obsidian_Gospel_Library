@@ -1,22 +1,21 @@
 ---
 title: Jacob 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jacob 7
 [[Jacob 6| <-- Jacob 6]] | [[Jacob]] | [[Enós 1|Enós 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Sherem niega a Cristo, contiende con Jacob, demanda una señal y es herido por Dios — Todos los profetas han hablado de Cristo y Su expiación — Los nefitas han pasado su vida errantes, nacidos en la tribulación, y aborrecidos por los lamanitas. Aproximadamente 544–421 a.C.
 
----
 ###### 1 
 Y aconteció que después de transcurrir algunos años, vino entre el pueblo de Nefi un hombre que se llamaba Sherem.
 

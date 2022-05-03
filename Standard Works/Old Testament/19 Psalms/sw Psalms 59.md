@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 59
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 59
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/59?lang=eng)
 
----
+```
 To the chief Musician, Al-taschith, Michtam of David; when Saul sent, and they watched the house to kill him.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David prays to be delivered from his enemies—God rules in Jacob unto the ends of the earth.
 
----
 ###### 1 
 Deliver me from mine enemies, O my God: defend me from them that rise up against me.
 

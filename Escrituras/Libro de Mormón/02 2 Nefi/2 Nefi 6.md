@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 6
 [[2 Nefi 5| <-- 2 Nefi 5]] | [[2 Nefi]] | [[2 Nefi 7|2 Nefi 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob narra la historia judía: El cautiverio de los judíos en Babilonia y su regreso; el ministerio y la crucifixión del Santo de Israel; la ayuda recibida de los gentiles; y la restauración de los judíos en los últimos días cuando crean en el Mesías. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Las palabras de Jacob, hermano de Nefi, las cuales habló al pueblo de Nefi:
 

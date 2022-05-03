@@ -1,22 +1,21 @@
 ---
 title: DyC 64
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 64
 [[DyC 63| <-- DyC 63]] | [[DyC]] | [[DyC 65|DyC 65 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–11, Se manda a los santos que se perdonen unos a otros, no sea que permanezca en ellos el mayor pecado; 12–22, Los que no se arrepientan han de comparecer ante la Iglesia; 23–25, El que es diezmado no será quemado a la venida del Señor; 26–32, Se amonesta a los santos a evitar las deudas; 33–36, Los rebeldes serán desterrados de Sion; 37–40, La Iglesia juzgará a las naciones; 41–43, Sion florecerá.
 
----
 ###### 1 
 He aquí, así os dice el Señor vuestro Dios: Oh élderes de mi iglesia, escuchad y oíd, y recibid mi voluntad concerniente a vosotros.
 

@@ -1,22 +1,21 @@
 ---
 title: Marcos 15
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 15
 [[Marcos 14| <-- Marcos 14]] | [[Marcos]] | [[Marcos 16|Marcos 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Pilatos decreta a morte de Jesus — Jesus é escarnecido e crucificado entre dois ladrões — Ele morre e é sepultado no sepulcro de José de Arimateia.
 
----
 ###### 1 
 E logo ao amanhecer os principais dos sacerdotes, com os anciãos, e os escribas, e todo o Sinédrio, tiveram conselho; e amarrando Jesus,  levaram e entregaram a Pilatos.
 

@@ -1,22 +1,21 @@
 ---
 title: Abdías 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Abdías 1
 [[Amós 9| <-- Amós 9]] | [[Abdías]] | [[Jonás 1|Jonás 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/obad/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/obad/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Abdías profetiza la caída de Edom — Habrá salvadores sobre el monte Sion.
 
----
 ###### 1 
 Visión de Abdías. Jehová el Señor ha dicho así en cuanto a Edom: Hemos oído el pregón de parte de Jehová, y mensajero ha sido enviado a las naciones. Levantaos, y levantémonos contra este pueblo en batalla.
 

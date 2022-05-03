@@ -1,22 +1,21 @@
 ---
 title: Juan 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 2
 [[Juan 1| <-- Juan 1]] | [[Juan]] | [[Juan 3|Juan 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús convierte el agua en vino, en Caná — Asiste a la Pascua, purifica el templo, predice Su muerte y Su resurrección, y efectúa milagros.
 
----
 ###### 1 
 Y al tercer día se celebraron unas bodas en Caná de Galilea; y estaba allí la madre de Jesús.
 

@@ -1,22 +1,21 @@
 ---
 title: Malaquías 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Malaquías 4
 [[Malaquías 3| <-- Malaquías 3]] | [[Malaquías]] |
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/mal/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/mal/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En la Segunda Venida, los soberbios y los inicuos arderán como estopa — Elías el Profeta volverá antes de ese día grande y terrible. Véase 3 Nefi 25.
 
----
 ###### 1 
 Porque he aquí, viene el día ardiente como un horno, y todos los soberbios y todos los que hacen maldad serán estopa; y aquel día que vendrá los abrasará, ha dicho Jehová de los ejércitos, y no les dejará ni raíz ni rama.
 

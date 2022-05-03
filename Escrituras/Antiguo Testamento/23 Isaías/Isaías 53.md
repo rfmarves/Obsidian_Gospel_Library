@@ -1,22 +1,21 @@
 ---
 title: Isaías 53
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 53
 [[Isaías 52| <-- Isaías 52]] | [[Isaías]] | [[Isaías 54|Isaías 54 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/53?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/53?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Isaías habla acerca del Mesías — Se describen la humillación y los sufrimientos del Mesías — Él pone Su alma como ofrenda por la culpa e intercede por los transgresores — Compárese con Mosíah 14.
 
----
 ###### 1 
 ¿Quién ha creído nuestro mensaje? ¿Y a quién se ha manifestado el brazo de Jehová?
 

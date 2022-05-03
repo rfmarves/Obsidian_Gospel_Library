@@ -1,22 +1,21 @@
 ---
 title: Mateus 7
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 7
 [[Mateus 6| <-- Mateus 6]] | [[Mateus]] | [[Mateus 8|Mateus 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus conclui o Sermão da Montanha — Ele ordena: Não julgueis; pedi a Deus; acautelai-vos dos falsos profetas — Ele promete salvação àqueles que fazem a vontade do Pai.
 
----
 ###### 1 
 Não julgueis, para que não sejais julgados.
 

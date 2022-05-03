@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jehoahaz and his successors reign in wickedness in Israel—Elisha prophesies that Joash will defeat Syria—Elisha dies—A dead Israelite is restored to life after touching Elisha’s bones.
 
----
 ###### 1 
 In the three and twentieth year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria,  seventeen years.
 

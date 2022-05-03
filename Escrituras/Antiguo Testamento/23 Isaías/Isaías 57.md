@@ -1,22 +1,21 @@
 ---
 title: Isaías 57
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 57
 [[Isaías 56| <-- Isaías 56]] | [[Isaías]] | [[Isaías 58|Isaías 58 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/57?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/57?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cuando el justo muere, alcanza la paz — Se promete misericordia al arrepentido — No hay paz para los malvados.
 
----
 ###### 1 
 Perece el justo, y no hay quien piense en ello; y los piadosos son llevados, y no hay quien entienda que ante la maldad es recogido el justo.
 

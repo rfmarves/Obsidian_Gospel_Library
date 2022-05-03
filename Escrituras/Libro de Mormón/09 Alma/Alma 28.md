@@ -1,22 +1,21 @@
 ---
 title: Alma 28
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 28
 [[Alma 27| <-- Alma 27]] | [[Alma]] | [[Alma 29|Alma 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los lamanitas son derrotados en una batalla tremenda — Decenas de millares mueren — Los malos son condenados a un estado de angustia interminable; los justos logran una felicidad perpetua. Aproximadamente 77–76 a.C.
 
----
 ###### 1 
 Y aconteció que después que el pueblo de Ammón quedó establecido en la tierra de Jersón, y se hubo organizado también una iglesia en la tierra de Jersón, y los ejércitos de los nefitas fueron colocados alrededor de la tierra de Jersón, sí, por todas las fronteras que circundaban la tierra de Zarahemla, he aquí, los ejércitos de los lamanitas habían seguido a sus hermanos al desierto.
 

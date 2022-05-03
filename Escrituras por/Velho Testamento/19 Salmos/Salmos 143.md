@@ -1,27 +1,25 @@
 ---
 title: Salmos 143
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 143
 [[Salmos 142| <-- Salmos 142]] | [[Salmos]] | [[Salmos 144|Salmos 144 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/143?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/143?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi ora pedindo que seja favorecido em juízo — Ele medita sobre as obras do Senhor e confia Nele.
 
----
 ###### 1 
 Ó , ouve a minha oração, inclina os ouvidos às minhas súplicas; escuta-me segundo a tua verdade,  segundo a tua justiça,
 

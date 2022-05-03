@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus fasts forty days and is tempted—He begins His ministry, calls disciples, and heals the sick.
 
----
 ###### 1 
 Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.
 

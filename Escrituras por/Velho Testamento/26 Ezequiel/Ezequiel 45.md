@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 45
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 45
 [[Ezequiel 44| <-- Ezequiel 44]] | [[Ezequiel]] | [[Ezequiel 46|Ezequiel 46 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/45?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/45?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Serão repartidas porções de terra para o santuário e para as moradias dos sacerdotes — O povo deve oferecer seus sacrifícios e oblações e guardar suas festas.
 
----
 ###### 1 
 Quando, pois, repartirdes a terra por sortes em herança, oferecereis uma oferta ao , um lugar santo da terra; o comprimento  o comprimento de vinte e cinco mil  e a largura, de dez mil; este  santo em todo o seu contorno ao redor.
 

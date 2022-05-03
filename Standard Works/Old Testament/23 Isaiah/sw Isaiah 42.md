@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 42
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 42
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/42?lang=eng)
 
----
-__Summary__
+> __Summary__
 Isaiah speaks about the Messiah—The Lord will bring His law and His justice, be a light to the Gentiles, and free the prisoners—Praise the Lord.
 
----
 ###### 1 
 Behold my servant, whom I uphold; mine elect,  my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles.
 

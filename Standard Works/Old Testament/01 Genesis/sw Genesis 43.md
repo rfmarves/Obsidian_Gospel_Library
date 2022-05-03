@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 43
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 43
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/43?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob is persuaded to send Benjamin to Egypt—Joseph’s brothers show respect to him—They all eat and drink together.
 
----
 ###### 1 
 And the famine  sore in the land.
 

@@ -1,22 +1,21 @@
 ---
 title: Tiago 5
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Tiago 5
 [[Tiago 4| <-- Tiago 4]] | [[Tiago]] | [[1 Pedro 1|1 Pedro 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/james/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/james/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A miséria aguarda os ricos devassos — Aguardai a vinda do Senhor com paciência — Os anciãos devem ungir e curar os enfermos.
 
----
 ###### 1 
 Vede, pois, agora vós, ricos, chorai e pranteai por vossas misérias, que sobre vós hão de vir.
 

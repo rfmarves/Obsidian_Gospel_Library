@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 44
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 44
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/44?lang=eng)
 
----
-__Summary__
+> __Summary__
 The glory of the Lord fills the house of the Lord—No strangers may enter the sanctuary—The services of the priests in the temple are explained.
 
----
 ###### 1 
 Then he brought me back the way of the gate of the outward sanctuary which looketh toward the east; and it  shut.
 

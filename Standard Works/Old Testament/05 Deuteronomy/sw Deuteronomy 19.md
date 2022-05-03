@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Cities of refuge are appointed for cases of manslaughter—Murderers will be put to death—Two or three witnesses are required in court cases—False witnesses will be punished.
 
----
 ###### 1 
 When the  thy God hath cut off the nations, whose land the  thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;
 

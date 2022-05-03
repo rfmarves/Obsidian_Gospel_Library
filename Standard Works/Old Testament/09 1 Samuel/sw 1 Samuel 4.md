@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Israelites are smitten and defeated by the Philistines, who also capture the ark of God—Eli’s sons are slain, Eli dies in an accident, and his daughter-in-law dies in childbirth.
 
----
 ###### 1 
 And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Eben-ezer: and the Philistines pitched in Aphek.
 

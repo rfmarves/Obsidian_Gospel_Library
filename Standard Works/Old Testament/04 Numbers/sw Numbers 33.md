@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 33
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 33
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/33?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel’s journeys from Egypt to Canaan are reviewed—The people are commanded to drive out the inhabitants of the land—Any remaining inhabitants will vex Israel.
 
----
 ###### 1 
 These  the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ether 10
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ether 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 One king succeeds another—Some of the kings are righteous; others are wicked—When righteousness prevails, the people are blessed and prospered by the Lord.
 
----
 ###### 1 
 And it came to pass that Shez, who was a descendant of Heth—for Heth had perished by the famine, and all his household save it were Shez—wherefore, Shez began to build up again a broken people.
 

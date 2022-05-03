@@ -1,22 +1,21 @@
 ---
 title: Esdras 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 10
 [[Esdras 9| <-- Esdras 9]] | [[Esdras]] | [[Nehemías 1|Nehemías 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezra/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezra/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los judíos hacen convenio de despedir a las esposas que habían tomado de los cananeos y de otros pueblos — Esdras reúne al pueblo en Jerusalén — Se menciona a los levitas que se casaron con mujeres extranjeras.
 
----
 ###### 1 
 Y mientras oraba Esdras y hacía confesión, llorando y postrándose delante de la casa de Dios, se reunió alrededor de él una congregación muy grande de Israel, hombres, y mujeres y niños; y lloraba el pueblo amargamente.
 

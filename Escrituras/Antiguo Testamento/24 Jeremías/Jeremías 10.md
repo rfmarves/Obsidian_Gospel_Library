@@ -1,22 +1,21 @@
 ---
 title: Jeremías 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 10
 [[Jeremías 9| <-- Jeremías 9]] | [[Jeremías]] | [[Jeremías 11|Jeremías 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 No aprendáis el camino de las demás naciones — Sus dioses son ídolos e imágenes de fundición — Jehová es el Dios verdadero y viviente.
 
----
 ###### 1 
 Oíd la palabra que Jehová ha hablado a vosotros, oh casa de Israel.
 

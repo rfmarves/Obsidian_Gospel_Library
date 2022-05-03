@@ -1,22 +1,21 @@
 ---
 title: Jeremias 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 22
 [[Jeremias 21| <-- Jeremias 21]] | [[Jeremias]] | [[Jeremias 23|Jeremias 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O trono de Davi permanece ou cai de acordo com a obediência dos reis — Os juízos do Senhor estão sobre os reis de Judá.
 
----
 ###### 1 
 Assim diz o : Desce à casa do rei de Judá, e fala ali esta palavra,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 61
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 61
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/61?lang=eng)
 
----
-__Summary__
+> __Summary__
 Isaiah speaks about the Messiah—The Messiah will have the Spirit, preach the gospel, and proclaim liberty—In the last days, the Lord will call His ministers and make an everlasting covenant with the people.
 
----
 ###### 1 
 The Spirit of the Lord   upon me; because the  hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to  bound;
 

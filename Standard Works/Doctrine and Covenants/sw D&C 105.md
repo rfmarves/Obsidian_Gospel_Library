@@ -1,10 +1,11 @@
 ---
 title: sw D&C 105
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 105
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/105?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, Zion will be built up by conformity to celestial law; 6–13, The redemption of Zion is deferred for a little season; 14–19, The Lord will fight the battles of Zion; 20–26, The Saints are to be wise and not boast of mighty works as they gather; 27–30, Lands in Jackson and adjoining counties should be purchased; 31–34, The elders are to receive an endowment in the house of the Lord in Kirtland; 35–37, Saints who are both called and chosen will be sanctified; 38–41, The Saints are to lift an ensign of peace to the world.
 
----
 ###### 1 
 Verily I say unto you who have assembled yourselves together that you may learn my will concerning the redemption of mine afflicted people—
 

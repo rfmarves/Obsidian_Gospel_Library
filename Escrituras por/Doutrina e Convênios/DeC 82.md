@@ -1,22 +1,21 @@
 ---
 title: DeC 82
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 82
 [[DeC 81| <-- DeC 81]] | [[DeC]] | [[DeC 83|DeC 83 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, Onde muito se dá, muito se requer; 5–7, A escuridão reina no mundo; 8–13, O Senhor está obrigado quando fazemos o que Ele diz; 14–18, Sião deve aumentar em beleza e santidade; 19–24, Todo homem deve buscar o interesse de seu próximo.
 
----
 ###### 1 
 Em verdade, em verdade vos digo, meus servos, que como vos tendes perdoado uns aos outros vossas ofensas, assim também eu, o Senhor, vos perdoo.
 

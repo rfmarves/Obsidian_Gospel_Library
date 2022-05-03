@@ -1,27 +1,25 @@
 ---
 title: Salmos 141
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 141
 [[Salmos 140| <-- Salmos 140]] | [[Salmos]] | [[Salmos 142|Salmos 142 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/141?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/141?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi implora ao Senhor que ouça suas orações — A repreensão do justo é uma benignidade.
 
----
 ###### 1 
 , a ti clamo, escuta-me; inclina os teus ouvidos à minha voz, quando a ti clamar.
 

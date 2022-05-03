@@ -1,10 +1,11 @@
 ---
 title: sw Obadiah 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Obadiah 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/obad/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Obadiah prophesies the downfall of Edom—Saviors will stand upon Mount Zion.
 
----
 ###### 1 
 The vision of Obadiah. Thus saith the Lord  concerning Edom; We have heard a rumour from the , and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
 

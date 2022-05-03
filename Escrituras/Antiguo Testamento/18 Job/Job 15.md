@@ -1,22 +1,21 @@
 ---
 title: Job 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 15
 [[Job 14| <-- Job 14]] | [[Job]] | [[Job 16|Job 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Elifaz explica el desasosiego de los malvados — Estos no creen que volverán de las tinieblas ni que resucitarán.
 
----
 ###### 1 
 Y respondió Elifaz, el temanita, y dijo:
 

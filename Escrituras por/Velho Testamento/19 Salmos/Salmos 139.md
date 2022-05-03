@@ -1,27 +1,25 @@
 ---
 title: Salmos 139
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 139
 [[Salmos 138| <-- Salmos 138]] | [[Salmos]] | [[Salmos 140|Salmos 140 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/139?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/139?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi diz que o Senhor conhece todos os pensamentos e feitos do homem — Ele pergunta: Para onde irá o homem para fugir do Espírito e da presença do Senhor? — O homem foi feito de modo assombroso e maravilhoso.
 
----
 ###### 1 
 , tu me sondaste, e  conheces.
 

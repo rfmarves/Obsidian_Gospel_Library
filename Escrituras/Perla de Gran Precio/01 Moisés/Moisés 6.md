@@ -1,25 +1,24 @@
 ---
 title: Moisés 6
-tags: #Escrituras\PdGP
+tags: Escrituras\PdGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moisés 6
 [[Moisés 5| <-- Moisés 5]] | [[Moisés]] | [[Moisés 7|Moisés 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=spa)
 
 Moisés
 (De noviembre a diciembre de 1830)
 
----
-__Resumen__
+> __Resumen__
 Los de la posteridad de Adán llevan un libro de memorias — Los justos de su posteridad predican el arrepentimiento — Dios se revela a Enoc — Enoc predica el Evangelio — El plan de salvación se reveló a Adán — Este recibió el bautismo y el sacerdocio.
 
----
 ###### 1 
 Y Adán escuchó la voz de Dios, y exhortó a sus hijos a que se arrepintieran.
 

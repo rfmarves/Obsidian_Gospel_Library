@@ -1,10 +1,11 @@
 ---
 title: sw Romans 9
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul explains how the law of election (foreordination) operates—The people of Israel are chosen (foreordained) to receive the adoption, covenants, promises, and blessings of the gospel; yet they are not all Israel who are of Israel—They must seek their blessings by faith—The Gentiles also attain to righteousness and salvation by faith.
 
----
 ###### 1 
 I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,
 

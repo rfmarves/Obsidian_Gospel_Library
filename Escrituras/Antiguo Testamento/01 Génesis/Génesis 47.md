@@ -1,22 +1,21 @@
 ---
 title: Génesis 47
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 47
 [[Génesis 46| <-- Génesis 46]] | [[Génesis]] | [[Génesis 48|Génesis 48 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/47?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/47?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los israelitas se establecen en Gosén — Jacob bendice a Faraón — José vende grano a los egipcios — Faraón recibe el ganado y las tierras de los egipcios — Jacob desea ser enterrado con sus padres en Canaán.
 
----
 ###### 1 
 Y José fue y lo hizo saber a Faraón, y dijo: Mi padre y mis hermanos, con sus ovejas, y sus vacas y todo lo que tienen, han venido de la tierra de Canaán, y he aquí, están en la tierra de Gosén.
 

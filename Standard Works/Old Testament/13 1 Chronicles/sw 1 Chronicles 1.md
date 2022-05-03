@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The genealogies and family ties from Adam to Abraham are given—The posterity of Abraham is listed.
 
----
 ###### 1 
 Adam, Sheth, Enosh,
 

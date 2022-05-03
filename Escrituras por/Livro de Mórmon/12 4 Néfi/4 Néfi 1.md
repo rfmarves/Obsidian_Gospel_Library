@@ -1,27 +1,25 @@
 ---
 title: 4 Néfi 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 4 Néfi 1
 [[3 Néfi 30| <-- 3 Néfi 30]] | [[4 Néfi]] | [[Mórmon 1|Mórmon 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/4-ne/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/4-ne/1?lang=por)
 
----
+```
 Relato do povo de Néfi, segundo o registro dele.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Os Nefitas e os Lamanitas são todos convertidos ao Senhor — Eles têm todas as coisas em comum, operam milagres e prosperam na terra — Depois de dois séculos surgem divisões, iniquidade, falsas igrejas e perseguições — Passados trezentos anos, tanto os nefitas como os lamanitas tornam-se iníquos — Amaron esconde os registros sagrados. Aproximadamente 35–321 d.C.
 
----
 ###### 1 
 E aconteceu que se passou o trigésimo quarto ano, como também o trigésimo quinto, e eis que os discípulos de Jesus organizaram uma igreja de Cristo em todas as terras circunvizinhas. E todos os que a eles se chegavam e verdadeiramente se arrependiam de seus pecados, eram batizados em nome de Jesus; e também recebiam o Espírito Santo.
 

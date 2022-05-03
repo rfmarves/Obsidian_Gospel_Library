@@ -1,27 +1,25 @@
 ---
 title: Salmos 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 3
 [[Salmos 2| <-- Salmos 2]] | [[Salmos]] | [[Salmos 4|Salmos 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/3?lang=por)
 
----
+```
 Salmo de Davi, quando fugiu de diante da face de Absalão, seu filho.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi clama ao Senhor e é ouvido — A salvação vem do Senhor.
 
----
 ###### 1 
 , como se têm multiplicado os meus adversários!  muitos os que se levantam contra mim.
 

@@ -1,22 +1,21 @@
 ---
 title: Provérbios 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 19
 [[Provérbios 18| <-- Provérbios 18]] | [[Provérbios]] | [[Provérbios 20|Provérbios 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A esposa prudente vem do Senhor — Quem empresta ao pobre empresta ao Senhor — É melhor ser pobre do que mentiroso.
 
----
 ###### 1 
 Melhor  o pobre que anda na sua integridade do que o perverso de lábios e tolo.
 

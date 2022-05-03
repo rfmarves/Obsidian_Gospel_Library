@@ -1,22 +1,21 @@
 ---
 title: DyC 85
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 85
 [[DyC 84| <-- DyC 84]] | [[DyC]] | [[DyC 86|DyC 86 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/85?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/85?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, En Sion, las heredades han de recibirse por medio de la consagración; 6–12, Uno poderoso y fuerte dará a los santos sus heredades respectivas en Sion.
 
----
 ###### 1 
 Es el deber del secretario del Señor, a quien él ha nombrado, llevar una historia y un registro general de la iglesia de todas las cosas que acontezcan en Sion, y de todos los que consagren bienes y reciban legalmente heredades del obispo;
 

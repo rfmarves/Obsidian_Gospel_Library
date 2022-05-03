@@ -1,22 +1,21 @@
 ---
 title: Lucas 13
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 13
 [[Lucas 12| <-- Lucas 12]] | [[Lucas]] | [[Lucas 14|Lucas 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús enseña: Arrepentíos o pereceréis — Enseña la parábola de la higuera estéril; sana a una mujer en el día de reposo y compara el reino de Dios a un grano de mostaza — Habla sobre si serán pocos o muchos los que se salven, y se lamenta por Jerusalén.
 
----
 ###### 1 
 Y en este mismo tiempo estaban allí algunos que le contaban acerca de los galileos cuya sangre Pilato había mezclado con los sacrificios de ellos.
 

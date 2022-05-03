@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people request relief, but Rehoboam promises to increase the burdens upon the people—Israel rebels and the kingdom is divided.
 
----
 ###### 1 
 And Rehoboam went to Shechem: for to Shechem were all Israel come to make him king.
 

@@ -1,22 +1,21 @@
 ---
 title: 3 Néfi 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Néfi 9
 [[3 Néfi 8| <-- 3 Néfi 8]] | [[3 Néfi]] | [[3 Néfi 10|3 Néfi 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Na escuridão, a voz de Cristo proclama a destruição de muita gente e de cidades, devido a suas iniquidades — Ele também proclama Sua divindade, anuncia que a lei de Moisés foi cumprida e convida os homens a virem a Ele e serem salvos. Aproximadamente 34 d.C.
 
----
 ###### 1 
 E aconteceu que se ouviu uma voz entre todos os habitantes da terra, em toda a face desta terra, clamando:
 

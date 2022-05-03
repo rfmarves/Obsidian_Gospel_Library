@@ -1,10 +1,11 @@
 ---
 title: sw Micah 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Micah 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/micah/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Messiah will be born in Bethlehem—In the last days, the remnant of Jacob will triumph gloriously over the Gentiles.
 
----
 ###### 1 
 Now gather thyself in troops, O daughter of troops: he hath laid siege against us: they shall smite the judge of Israel with a rod upon the cheek.
 

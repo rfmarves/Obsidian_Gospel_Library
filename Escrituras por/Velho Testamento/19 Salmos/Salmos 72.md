@@ -1,27 +1,25 @@
 ---
 title: Salmos 72
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 72
 [[Salmos 71| <-- Salmos 71]] | [[Salmos]] | [[Salmos 73|Salmos 73 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/72?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/72?lang=por)
 
----
+```
 Salmo para Salomão.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi fala de Salomão, que se torna um símbolo do Messias — Ele terá domínio — Seu nome permanecerá eternamente — Todas as nações o chamarão bem-aventurado — Toda a Terra se encherá com a glória do Senhor.
 
----
 ###### 1 
 Ó Deus, dá ao rei os teus juízos, e a tua justiça, ao filho do rei.
 

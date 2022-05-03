@@ -1,10 +1,11 @@
 ---
 title: sw Job 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Eliphaz reproves Job, asking such questions as, Are the righteous cut off? Shall a man be more pure than his maker?
 
----
 ###### 1 
 Then Eliphaz the Temanite answered and said,
 

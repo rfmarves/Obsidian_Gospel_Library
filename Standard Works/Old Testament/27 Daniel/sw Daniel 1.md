@@ -1,10 +1,11 @@
 ---
 title: sw Daniel 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Daniel 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Daniel and certain Hebrews are trained in the court of Nebuchadnezzar—They eat plain food and drink no wine—God gives them knowledge and wisdom beyond all others.
 
----
 ###### 1 
 In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.
 

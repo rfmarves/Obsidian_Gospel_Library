@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 35
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 35
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/35?lang=eng)
 
----
-__Summary__
+> __Summary__
 Judgment will fall upon Mount Seir and all Idumea for their hatred of Israel.
 
----
 ###### 1 
 Moreover the word of the  came unto me, saying,
 

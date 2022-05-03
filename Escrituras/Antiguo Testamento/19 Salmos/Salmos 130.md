@@ -1,27 +1,25 @@
 ---
 title: Salmos 130
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 130
 [[Salmos 129| <-- Salmos 129]] | [[Salmos]] | [[Salmos 131|Salmos 131 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/130?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/130?lang=spa)
 
----
+```
 Cántico de aascenso gradual.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Oh Señor, oye nuestras oraciones, perdona la iniquidad y redime a Israel.
 
----
 ###### 1 
 
 

@@ -1,22 +1,21 @@
 ---
 title: Génesis 45
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 45
 [[Génesis 44| <-- Génesis 44]] | [[Génesis]] | [[Génesis 46|Génesis 46 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/45?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/45?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 José se da a conocer a sus hermanos — Todos ellos se regocijan juntamente — Faraón invita a Jacob y a su familia a morar en Egipto y a comer de la grosura de la tierra.
 
----
 ###### 1 
 No podía ya José contenerse delante de todos los que estaban al lado suyo, y clamó: Haced salir de mi presencia a todos. Y no quedó nadie con él al darse a conocer José a sus hermanos.
 

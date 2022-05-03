@@ -1,22 +1,21 @@
 ---
 title: Salmos 149
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 149
 [[Salmos 148| <-- Salmos 148]] | [[Salmos]] | [[Salmos 150|Salmos 150 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/149?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/149?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Louvai ao Senhor na congregação dos santos — Ele ornará os mansos com salvação.
 
----
 ###### 1 
 Louvai ao . Cantai ao  um cântico novo; e o seu louvor, na congregação dos santos.
 

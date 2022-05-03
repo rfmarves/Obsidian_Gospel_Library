@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 32
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 32
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/32?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel will sing the song of Moses and acclaim: God speaks to heaven and earth; the children of Israel were known in the premortal life; God chose them in this life; they forgot the Rock of their salvation; He sent terror, a sword, and vengeance upon them; there is no God beside Him—Moses will be gathered to his people.
 
----
 ###### 1 
 Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.
 

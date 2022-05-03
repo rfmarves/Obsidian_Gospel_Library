@@ -1,10 +1,11 @@
 ---
 title: sw D&C 5
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–10, This generation will receive the Lord’s word through Joseph Smith; 11–18, Three witnesses will testify of the Book of Mormon; 19–20, The word of the Lord will be verified as in previous times; 21–35, Martin Harris may repent and be one of the witnesses.
 
----
 ###### 1 
 Behold, I say unto you, that as my servant Martin Harris has desired a witness at my hand, that you, my servant Joseph Smith, Jun., have got the plates of which you have testified and borne record that you have received of me;
 

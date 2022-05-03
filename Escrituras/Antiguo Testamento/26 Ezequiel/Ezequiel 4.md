@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 4
 [[Ezequiel 3| <-- Ezequiel 3]] | [[Ezequiel]] | [[Ezequiel 5|Ezequiel 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequiel ilustra simbólicamente el asedio y el hambre que sobrevendrán a Jerusalén.
 
----
 ###### 1 
 Y tú, hijo de hombre, toma un adobe, y ponlo delante de ti y graba sobre él una ciudad: Jerusalén.
 

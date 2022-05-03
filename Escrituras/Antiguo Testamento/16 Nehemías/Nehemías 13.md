@@ -1,22 +1,21 @@
 ---
 title: Nehemías 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nehemías 13
 [[Nehemías 12| <-- Nehemías 12]] | [[Nehemías]] | [[Ester 1|Ester 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 A los amonitas y a los moabitas se les niega lugar en la congregación de Dios — Tobías es echado del templo, del lugar que ocupaba como habitación — Nehemías corrige los abusos y vuelve a instituir la observancia del día de reposo — Algunos judíos son reprendidos por casarse con mujeres extranjeras y por profanar el sacerdocio.
 
----
 ###### 1 
 Aquel día se leyó en el libro de Moisés a oídos del pueblo, y fue hallado escrito en él que los amonitas y los moabitas no debían entrar jamás en la congregación de Dios,
 

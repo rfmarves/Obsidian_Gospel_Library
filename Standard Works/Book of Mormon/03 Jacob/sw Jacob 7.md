@@ -1,10 +1,11 @@
 ---
 title: sw Jacob 7
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jacob 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Sherem denies Christ, contends with Jacob, demands a sign, and is smitten of God—All of the prophets have spoken of Christ and His Atonement—The Nephites lived out their days as wanderers, born in tribulation, and hated by the Lamanites. About 544–421 B.C.
 
----
 ###### 1 
 And now it came to pass after some years had passed away, there came a man among the people of Nephi, whose name was Sherem.
 

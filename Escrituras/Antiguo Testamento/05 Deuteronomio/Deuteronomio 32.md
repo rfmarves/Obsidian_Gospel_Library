@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 32
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 32
 [[Deuteronomio 31| <-- Deuteronomio 31]] | [[Deuteronomio]] | [[Deuteronomio 33|Deuteronomio 33 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/32?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/32?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel cantará el cántico de Moisés y aclamará: Dios habla a los cielos y a la tierra; los hijos de Israel eran conocidos en la vida preterrenal; Dios los escogió en esta vida; ellos se olvidaron de la Roca de su salvación; Dios envió terror y una espada y venganza sobre ellos; no hay Dios aparte de Él — Moisés es reunido con su pueblo.
 
----
 ###### 1 
 
 

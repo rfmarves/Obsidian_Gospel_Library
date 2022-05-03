@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The descendants of Israel, Judah, Jesse, Caleb, and others are listed.
 
----
 ###### 1 
 These  the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,
 

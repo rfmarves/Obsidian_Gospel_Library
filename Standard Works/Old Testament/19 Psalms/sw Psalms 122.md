@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 122
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 122
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/122?lang=eng)
 
----
+```
 A Song of degrees of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David says, Go into the house of the Lord—Give thanks unto Him.
 
----
 ###### 1 
 I was glad when they said unto me, Let us go into the house of the .
 

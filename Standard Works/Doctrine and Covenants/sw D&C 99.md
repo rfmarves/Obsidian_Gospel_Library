@@ -1,10 +1,11 @@
 ---
 title: sw D&C 99
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 99
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/99?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–8, John Murdock is called to proclaim the gospel, and those who receive him receive the Lord and will obtain mercy.
 
----
 ###### 1 
 Behold, thus saith the Lord unto my servant John Murdock—thou art called to go into the eastern countries from house to house, from village to village, and from city to city, to proclaim mine everlasting gospel unto the inhabitants thereof, in the midst of persecution and wickedness.
 

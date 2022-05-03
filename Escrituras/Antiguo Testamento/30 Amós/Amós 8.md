@@ -1,22 +1,21 @@
 ---
 title: Amós 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 8
 [[Amós 7| <-- Amós 7]] | [[Amós]] | [[Amós 9|Amós 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Amós profetiza la caída de Israel — Habrá hambre de oír la palabra de Jehová.
 
----
 ###### 1 
 Así me ha mostrado Jehová el Señor: Y he aquí, un canastillo de fruta de verano.
 

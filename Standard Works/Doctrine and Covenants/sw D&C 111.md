@@ -1,10 +1,11 @@
 ---
 title: sw D&C 111
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 111
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/111?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, The Lord looks to the temporal needs of His servants; 6–11, He will deal mercifully with Zion and arrange all things for the good of His servants.
 
----
 ###### 1 
 I, the Lord your God, am not displeased with your coming this journey, notwithstanding your follies.
 

@@ -1,22 +1,21 @@
 ---
 title: Joseph Smith--Mateus 1
-tags: #Escrituras\PdGV
+tags: Escrituras\PdGV
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Joseph Smith--Mateus 1
 [[Abraão 5| <-- Abraão 5]] | [[Joseph Smith--Mateus]] | [[Joseph Smith--História 1|Joseph Smith--História 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/pgp/js-m/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/pgp/js-m/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus prediz a iminente destruição de Jerusalém — Ele fala também sobre a Segunda Vinda do Filho do Homem e a destruição dos iníquos.
 
----
 ###### 1 
 Porque eu vos digo que desde agora não me vereis, nem sabereis que sou aquele de quem os profetas escreveram, até que digais: Bendito o que vem em nome do Senhor, nas nuvens do céu, e todos os santos anjos com ele. Então entenderam seus discípulos que ele retornaria à Terra, depois de haver sido glorificado e coroado à mão direita de Deus.
 

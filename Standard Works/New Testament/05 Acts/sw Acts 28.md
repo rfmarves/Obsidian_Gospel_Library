@@ -1,10 +1,11 @@
 ---
 title: sw Acts 28
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul is unharmed by a viper’s bite—He heals the sick in Melita—He preaches in Rome, first to the Jews and then to the Gentiles.
 
----
 ###### 1 
 And when they were escaped, then they knew that the island was called Melita.
 

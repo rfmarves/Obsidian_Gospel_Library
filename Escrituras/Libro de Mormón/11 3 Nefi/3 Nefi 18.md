@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 18
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 18
 [[3 Nefi 17| <-- 3 Nefi 17]] | [[3 Nefi]] | [[3 Nefi 19|3 Nefi 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús instituye la Santa Cena entre los nefitas — Les manda orar siempre en Su nombre — Los que comen Su carne y beben Su sangre indignamente son condenados — Da a los discípulos el poder para conferir el Espíritu Santo. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Y aconteció que Jesús mandó a sus discípulos que le llevasen pan y vino.
 

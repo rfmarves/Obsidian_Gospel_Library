@@ -1,22 +1,21 @@
 ---
 title: Job 31
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 31
 [[Job 30| <-- Job 30]] | [[Job]] | [[Job 32|Job 32 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/31?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/31?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Job pide un juicio para que Dios reconozca su integridad — Job dice que, si ha hecho mal, recibirá con agrado los castigos por ello.
 
----
 ###### 1 
 
 

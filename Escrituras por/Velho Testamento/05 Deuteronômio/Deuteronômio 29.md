@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 29
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 29
 [[Deuteronômio 28| <-- Deuteronômio 28]] | [[Deuteronômio]] | [[Deuteronômio 30|Deuteronômio 30 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/29?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/29?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Israel fazem um convênio com o Senhor pelo qual serão abençoados se forem obedientes, e amaldiçoados, se forem desobedientes — Se forem desobedientes, sua terra será como enxofre e sal.
 
----
 ###### 1 
 Estas  as palavras do convênio que o  ordenou a Moisés, na terra de Moabe, que fizesse com os filhos de Israel, além do convênio que fizera com eles em Horebe.
 

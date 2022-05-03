@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 4
 [[2 Samuel 3| <-- 2 Samuel 3]] | [[2 Samuel]] | [[2 Samuel 5|2 Samuel 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dos de los capitanes de Saúl matan a Is-boset — Llevan su cabeza a David, quien los manda matar por haber asesinado a un hombre justo.
 
----
 ###### 1 
 Y cuando oyó el hijo de Saúl que Abner había muerto en Hebrón, las manos se le debilitaron, y todo Israel se atemorizó.
 

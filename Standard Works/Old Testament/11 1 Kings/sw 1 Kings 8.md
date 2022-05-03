@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 The ark, containing the two tablets of stone, is placed in the holy of holies—The glory of the Lord fills the temple—Solomon offers the dedicatory prayer—He asks for temporal and spiritual blessings upon repentant and prayerful Israel—The people sacrifice and worship for fourteen days.
 
----
 ###### 1 
 Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto king Solomon in Jerusalem, that they might bring up the ark of the covenant of the  out of the city of David, which  Zion.
 

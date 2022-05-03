@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 13
 [[Ezequiel 12| <-- Ezequiel 12]] | [[Ezequiel]] | [[Ezequiel 14|Ezequiel 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequiel reprende a los falsos profetas, tanto hombres como mujeres, que hablan mentiras y a quienes Jehová no ha hablado.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

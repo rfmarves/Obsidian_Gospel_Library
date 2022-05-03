@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 18
 [[2 Reis 17| <-- 2 Reis 17]] | [[2 Reis]] | [[2 Reis 19|2 Reis 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ezequias reina em retidão em Judá — Ele destrói a idolatria e quebra a serpente de bronze feita por Moisés, porque os filhos de Israel queimavam incenso a ela — Senaqueribe, rei da Assíria, invade Judá — Em discurso blasfemo, Rabsaqué pede a Jerusalém que se renda aos assírios.
 
----
 ###### 1 
 E sucedeu  no terceiro ano de Oseias, filho de Elá, rei de Israel, começou a reinar Ezequias, filho de Acaz, rei de Judá.
 

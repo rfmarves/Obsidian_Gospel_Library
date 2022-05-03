@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Elisha causes an ax to float—He reveals to the king how to conduct a war with Syria—Horses and chariots of fire protect Elisha—The Syrians are smitten with blindness—Benhadad besieges Samaria, and foodstuff sells for a great price.
 
----
 ###### 1 
 And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us.
 

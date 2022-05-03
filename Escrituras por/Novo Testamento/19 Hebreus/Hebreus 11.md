@@ -1,22 +1,21 @@
 ---
 title: Hebreus 11
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreus 11
 [[Hebreus 10| <-- Hebreus 10]] | [[Hebreus]] | [[Hebreus 12|Hebreus 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Pela fé entendemos a palavra e a obra de Deus — A fé que tinham os antigos estava centralizada em Cristo — Pela fé, os homens subjugaram reinos, praticaram a retidão e realizaram milagres.
 
----
 ###### 1 
 Ora, a fé é o firme fundamento das  que se esperam,  a prova das coisas que não se veem.
 

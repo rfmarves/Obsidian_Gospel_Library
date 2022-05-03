@@ -1,22 +1,21 @@
 ---
 title: Lamentações 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lamentações 2
 [[Lamentações 1| <-- Lamentações 1]] | [[Lamentações]] | [[Lamentações 3|Lamentações 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lam/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lam/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Prevalecem a miséria, o sofrimento e a desolação em Jerusalém.
 
----
 ###### 1 
 Como cobriu o Senhor de nuvens na sua ira a filha de Sião! Derrubou do céu à terra a glória de Israel, e não se lembrou do escabelo de seus pés, no dia da sua ira.
 

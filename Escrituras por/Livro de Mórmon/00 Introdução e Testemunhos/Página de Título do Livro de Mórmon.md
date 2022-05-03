@@ -1,16 +1,17 @@
 ---
 title: Página de Título do Livro de Mórmon
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Página de Título do Livro de Mórmon
 | [[Introdução e Testemunhos]] | [[Introdução do Livro de Mórmon|Introdução do Livro de Mórmon --> ]]
 
-[Em linha](https://www.churchofjesuschrist.org/study/scriptures/bofm/title-page?lang=por)
+[em linha](https://www.churchofjesuschrist.org/study/scriptures/bofm/title-page?lang=por)
 
 Introdução e Testemunhos
 Outro Testamento de Jesus Cristo

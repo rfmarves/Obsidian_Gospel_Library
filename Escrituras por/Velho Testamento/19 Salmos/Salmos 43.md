@@ -1,22 +1,21 @@
 ---
 title: Salmos 43
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 43
 [[Salmos 42| <-- Salmos 42]] | [[Salmos]] | [[Salmos 44|Salmos 44 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/43?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/43?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os justos louvam a Deus e clamam: Envia a Tua luz e a Tua verdade.
 
----
 ###### 1 
 Faze-me justiça, ó Deus, e pleiteia a minha causa contra uma nação ímpia; livra-me do homem fraudulento e injusto.
 

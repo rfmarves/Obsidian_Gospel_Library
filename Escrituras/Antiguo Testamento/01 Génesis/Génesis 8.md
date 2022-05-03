@@ -1,22 +1,21 @@
 ---
 title: Génesis 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 8
 [[Génesis 7| <-- Génesis 7]] | [[Génesis]] | [[Génesis 9|Génesis 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cesa el Diluvio — Noé envía una paloma, la cual regresa con una hoja de olivo — Noé hace salir del arca a todo ser viviente — Ofrece sacrificios — Se aseguran la siembra, la siega y las estaciones.
 
----
 ###### 1 
 Y se acordó Dios de Noé, y de todos los animales y de todas las bestias que estaban con él en el arca; e hizo pasar Dios un viento sobre la tierra, y disminuyeron las aguas.
 

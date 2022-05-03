@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 27
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 27
 [[2 Crônicas 26| <-- 2 Crônicas 26]] | [[2 Crônicas]] | [[2 Crônicas 28|2 Crônicas 28 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/27?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jotão reina, edifica o reino e subjuga os amonitas.
 
----
 ###### 1 
 Tinha Jotão vinte e cinco anos de idade quando começou a reinar, e dezesseis anos reinou em Jerusalém; e  o nome de sua mãe Jerusa, filha de Zadoque.
 

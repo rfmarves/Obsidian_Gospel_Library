@@ -1,22 +1,21 @@
 ---
 title: Éter 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éter 2
 [[Éter 1| <-- Éter 1]] | [[Éter]] | [[Éter 3|Éter 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os jareditas preparam-se para sua jornada a uma terra prometida — É uma terra escolhida, onde os homens deverão servir a Cristo; caso contrário serão varridos — O Senhor fala ao irmão de Jarede durante três horas — Os jareditas constroem barcos — O Senhor pede ao irmão de Jarede que sugira como iluminar os barcos.
 
----
 ###### 1 
 E aconteceu que Jarede e seu irmão e suas famílias e também os amigos de Jarede e seu irmão e suas famílias desceram com os rebanhos de toda espécie que haviam reunido, macho e fêmea, para o vale situado ao norte (e ao vale havia sido dado o nome de Ninrode, o grande caçador).
 

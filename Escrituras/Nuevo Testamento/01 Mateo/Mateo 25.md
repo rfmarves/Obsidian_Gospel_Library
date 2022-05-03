@@ -1,22 +1,21 @@
 ---
 title: Mateo 25
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 25
 [[Mateo 24| <-- Mateo 24]] | [[Mateo]] | [[Mateo 26|Mateo 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús enseña la parábola de las diez vírgenes, la de los talentos, y la de las ovejas y los cabritos.
 
----
 ###### 1 
 Entonces el reino de los cielos será semejante a diez vírgenes que, tomando sus lámparas, salieron a recibir al novio.
 

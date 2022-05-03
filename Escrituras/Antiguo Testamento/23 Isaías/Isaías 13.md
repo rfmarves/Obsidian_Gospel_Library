@@ -1,22 +1,21 @@
 ---
 title: Isaías 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 13
 [[Isaías 12| <-- Isaías 12]] | [[Isaías]] | [[Isaías 14|Isaías 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La destrucción de Babilonia es un símbolo de la destrucción que habrá a la Segunda Venida — Será un día de ira y de venganza — Babilonia (el mundo) caerá para siempre — Compárese con 2 Nefi 23.
 
----
 ###### 1 
 Profecía sobre Babilonia, que vio Isaías hijo de Amoz:
 

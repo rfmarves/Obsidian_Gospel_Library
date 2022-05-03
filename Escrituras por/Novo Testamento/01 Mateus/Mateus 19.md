@@ -1,22 +1,21 @@
 ---
 title: Mateus 19
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 19
 [[Mateus 18| <-- Mateus 18]] | [[Mateus]] | [[Mateus 20|Mateus 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus ensina sobre casamento e divórcio — A vida eterna é para aqueles que guardam os mandamentos — Os Doze Apóstolos julgarão a casa de Israel.
 
----
 ###### 1 
 E aconteceu  concluindo Jesus esses discursos, saiu da Galileia, e dirigiu-se aos confins da Judeia, de além do Jordão;
 

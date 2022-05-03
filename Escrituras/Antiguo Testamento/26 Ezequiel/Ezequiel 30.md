@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 30
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 30
 [[Ezequiel 29| <-- Ezequiel 29]] | [[Ezequiel]] | [[Ezequiel 31|Ezequiel 31 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/30?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/30?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Egipto y sus aliados serán asolados por Babilonia.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

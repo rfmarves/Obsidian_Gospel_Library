@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 116
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 116
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/116?lang=eng)
 
----
-__Summary__
+> __Summary__
 Gracious is the Lord, and righteous—Precious in the sight of the Lord is the death of His Saints.
 
----
 ###### 1 
 I love the , because he hath heard my voice  my supplications.
 

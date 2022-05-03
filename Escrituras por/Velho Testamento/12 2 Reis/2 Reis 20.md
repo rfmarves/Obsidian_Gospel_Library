@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 20
 [[2 Reis 19| <-- 2 Reis 19]] | [[2 Reis]] | [[2 Reis 21|2 Reis 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Quando lhe foi dito que iria morrer, Ezequias roga ao Senhor, e sua vida é prolongada em quinze anos — A sombra do sol volta dez graus no relógio de sol de Acaz — Isaías profetiza o cativeiro babilônico de Judá.
 
----
 ###### 1 
 Naqueles dias adoeceu Ezequias de morte; e o profeta Isaías, filho de Amós, foi a ele, e lhe disse: Assim diz o : Põe em ordem a tua casa, porque morrerás, e não viverás.
 

@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 37
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 37
 [[Ezequiel 36| <-- Ezequiel 36]] | [[Ezequiel]] | [[Ezequiel 38|Ezequiel 38 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/37?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/37?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O vale de ossos secos é mostrado a Ezequiel — Israel herdará a terra na Ressurreição — A vara de Judá (a Bíblia) e a vara de José (o Livro de Mórmon) se tornarão uma na mão do Senhor — Os filhos de Israel serão reunidos e purificados — Davi (o Messias) reinará sobre eles — Eles receberão o convênio eterno do evangelho.
 
----
 ###### 1 
 Veio sobre mim a mão do , e me levou para fora no Espírito do , e me pôs no meio de um vale que  cheio de ossos.
 

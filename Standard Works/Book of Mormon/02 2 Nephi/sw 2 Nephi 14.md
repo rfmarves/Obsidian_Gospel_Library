@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 14
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Zion and her daughters will be redeemed and cleansed in the millennial day—Compare Isaiah 4. About 559–545 B.C.
 
----
 ###### 1 
 And in that day, seven women shall take hold of one man, saying: We will eat our own bread, and wear our own apparel; only let us be called by thy name to take away our reproach.
 

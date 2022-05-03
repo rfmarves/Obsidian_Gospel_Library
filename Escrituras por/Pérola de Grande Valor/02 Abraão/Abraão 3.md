@@ -1,22 +1,21 @@
 ---
 title: Abraão 3
-tags: #Escrituras\PdGV
+tags: Escrituras\PdGV
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Abraão 3
 [[Abraão 2| <-- Abraão 2]] | [[Abraão]] | [[Abraão 4|Abraão 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Abraão aprende acerca do sol, da lua e das estrelas, por meio do Urim e Tumim — O Senhor revela-lhe a natureza eterna dos espíritos — Abraão aprende a respeito da vida pré-mortal, da preordenação, da Criação, da escolha de um Redentor e do segundo estado do homem.
 
----
 ###### 1 
 E eu, Abraão, tinha o Urim e Tumim, que o Senhor meu Deus me dera em Ur dos caldeus;
 

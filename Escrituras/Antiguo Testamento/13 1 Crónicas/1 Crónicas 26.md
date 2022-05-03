@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 26
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 26
 [[1 Crónicas 25| <-- 1 Crónicas 25]] | [[1 Crónicas]] | [[1 Crónicas 27|1 Crónicas 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se designa a los levitas ser porteros — Los levitas tienen a su cargo los tesoros, sirven como oficiales y jueces y se encargan de los asuntos exteriores pertinentes a los israelitas.
 
----
 ###### 1 
 En cuanto a la distribución de los porteros: De los coreítas, Meselemías hijo de Coré, de los hijos de Asaf.
 

@@ -1,22 +1,21 @@
 ---
 title: Mateo 28
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 28
 [[Mateo 27| <-- Mateo 27]] | [[Mateo]] | [[Marcos 1|Marcos 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Resurrección de Cristo, el Señor — Se aparece a muchos — Tiene todo poder en el cielo y en la tierra — Envía a los apóstoles a todas las naciones a enseñar y a bautizar.
 
----
 ###### 1 
 Y pasado el día de reposo, al amanecer del primer día de la semana, vinieron María Magdalena y la otra María a ver el sepulcro.
 

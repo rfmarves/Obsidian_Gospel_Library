@@ -1,10 +1,11 @@
 ---
 title: sw D&C 31
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 31
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/31?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, Thomas B. Marsh is called to preach the gospel and is assured of his family’s well-being; 7–13, He is counseled to be patient, pray always, and follow the Comforter.
 
----
 ###### 1 
 Thomas, my son, blessed are you because of your faith in my work.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Daniel 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Daniel 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Daniel sees in vision a ram (Media and Persia), a goat (Greece), four other kings, and then, in the last days, a fierce king who will destroy the holy people—This king will be broken when he stands up against the Prince of Princes.
 
----
 ###### 1 
 In the third year of the reign of king Belshazzar a vision appeared unto me,  me Daniel, after that which appeared unto me at the first.
 

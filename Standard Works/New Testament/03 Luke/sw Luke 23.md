@@ -1,10 +1,11 @@
 ---
 title: sw Luke 23
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus is taken before Pilate, then to Herod, and then to Pilate again—Barabbas is released—Jesus is crucified between two thieves—He is buried in the tomb of Joseph of Arimathæa.
 
----
 ###### 1 
 And the whole multitude of them arose, and led him unto Pilate.
 

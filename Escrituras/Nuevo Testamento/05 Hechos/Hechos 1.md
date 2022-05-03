@@ -1,22 +1,21 @@
 ---
 title: Hechos 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 1
 [[Juan 21| <-- Juan 21]] | [[Hechos]] | [[Hechos 2|Hechos 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús ministra durante cuarenta días después de Su resurrección — El reino ha de ser restaurado a Israel en un tiempo postrero — Los Doce darán testimonio en Jerusalén, Judea, Samaria y hasta lo último de la tierra — Jesús asciende al cielo — Se escoge a Matías para ocupar la vacante que había en los Doce.
 
----
 ###### 1 
 En el primer tratado, oh Teófilo, he hablado de todas las cosas que Jesús comenzó a hacer y a enseñar,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 6
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus continues the Sermon on the Mount—He teaches the disciples the Lord’s Prayer—They are commanded to seek first the kingdom of God and His righteousness.
 
----
 ###### 1 
 Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.
 

@@ -1,22 +1,21 @@
 ---
 title: Nehemías 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nehemías 12
 [[Nehemías 11| <-- Nehemías 11]] | [[Nehemías]] | [[Nehemías 13|Nehemías 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se nombra a los sacerdotes y a los levitas que subieron de Babilonia — Se dedican los muros de Jerusalén — Se señalan los oficios de los sacerdotes y de los levitas en el templo.
 
----
 ###### 1 
 Y estos son los sacerdotes y los levitas que subieron con Zorobabel hijo de Salatiel, y con Jesúa: Seraías, Jeremías, Esdras,
 

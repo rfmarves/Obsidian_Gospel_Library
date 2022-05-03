@@ -1,22 +1,21 @@
 ---
 title: Hechos 14
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 14
 [[Hechos 13| <-- Hechos 13]] | [[Hechos]] | [[Hechos 15|Hechos 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La persecución acompaña a la difusión del Evangelio — Pablo sana a un hombre cojo; Pablo y Bernabé son aclamados como dioses — Pablo, tras ser apedreado y ser reanimado, predica — Se ordenan élderes.
 
----
 ###### 1 
 Y aconteció en Iconio que entraron juntos en la sinagoga de los judíos, y hablaron de tal manera que creyó una gran multitud de judíos y asimismo de griegos.
 

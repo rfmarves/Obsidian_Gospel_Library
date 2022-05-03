@@ -1,22 +1,21 @@
 ---
 title: Salmos 148
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 148
 [[Salmos 147| <-- Salmos 147]] | [[Salmos]] | [[Salmos 149|Salmos 149 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/148?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/148?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Alaben a Jehová los hombres y los ángeles, los cuerpos celestes, los elementos y la tierra, y todo lo que en ella hay.
 
----
 ###### 1 
 
 

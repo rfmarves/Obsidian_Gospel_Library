@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 8
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus heals a leper, cures the centurion’s servant and others, stills the tempest, and casts out devils—The devils enter a herd of swine.
 
----
 ###### 1 
 When he was come down from the mountain, great multitudes followed him.
 

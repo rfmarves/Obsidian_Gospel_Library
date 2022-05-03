@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 22
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus gives the parable of the marriage of the king’s son—Pay tribute to Cæsar and to God—Worldly marriages endure in this life only—The first commandment is to love the Lord—Jesus asks, What think ye of Christ?
 
----
 ###### 1 
 And Jesus answered and spake unto them again by parables, and said,
 

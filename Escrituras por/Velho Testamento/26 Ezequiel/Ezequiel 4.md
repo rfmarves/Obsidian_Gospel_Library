@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 4
 [[Ezequiel 3| <-- Ezequiel 3]] | [[Ezequiel]] | [[Ezequiel 5|Ezequiel 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ezequiel ilustra simbolicamente o cerco e a fome que sobrevirão sobre Jerusalém.
 
----
 ###### 1 
 Tu, pois, ó filho do homem, toma um tijolo, e pô-lo-ás diante de ti, e grava nele a cidade de Jerusalém.
 

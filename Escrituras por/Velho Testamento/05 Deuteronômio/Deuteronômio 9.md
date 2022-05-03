@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 9
 [[Deuteronômio 8| <-- Deuteronômio 8]] | [[Deuteronômio]] | [[Deuteronômio 10|Deuteronômio 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 As outras nações são expulsas de Canaã devido à sua iniquidade — Moisés recorda as rebeliões de Israel e relata como foi mediador entre o povo e o Senhor — Em duas ocasiões, ele passou quarenta dias sem ingerir comida nem água.
 
----
 ###### 1 
 Ouve, ó Israel, hoje passarás o Jordão, para entrares a fim de desapossares nações maiores e mais fortes do que tu; cidades grandes, e muradas até os céus;
 

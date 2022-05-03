@@ -1,22 +1,21 @@
 ---
 title: Génesis 33
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 33
 [[Génesis 32| <-- Génesis 32]] | [[Génesis]] | [[Génesis 34|Génesis 34 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/33?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/33?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob y Esaú se encuentran y se reconcilian — Esaú recibe los presentes de Jacob — Jacob se establece en Canaán, donde edifica un altar.
 
----
 ###### 1 
 Y alzando Jacob sus ojos, miró y he aquí venía Esaú y los cuatrocientos hombres con él; entonces repartió él los niños entre Lea y Raquel y las dos siervas.
 

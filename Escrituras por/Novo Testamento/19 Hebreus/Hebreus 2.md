@@ -1,22 +1,21 @@
 ---
 title: Hebreus 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreus 2
 [[Hebreus 1| <-- Hebreus 1]] | [[Hebreus]] | [[Hebreus 3|Hebreus 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus veio para sofrer a morte e salvar os homens — Ele veio para expiar os pecados do povo.
 
----
 ###### 1 
 Portanto, convém-nos atentar com mais diligência para as  que  ouvimos, para que em tempo algum nos venhamos a esquecer.
 

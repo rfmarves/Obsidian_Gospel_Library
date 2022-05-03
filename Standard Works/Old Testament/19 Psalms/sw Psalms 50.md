@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 50
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 50
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/50?lang=eng)
 
----
+```
 A Psalm of Asaph.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Asaph speaks of the Second Coming—The Lord accepts the sacrifices of the righteous and will deliver them—Those whose conduct is right will see the salvation of God.
 
----
 ###### 1 
 The mighty God,  the , hath spoken, and called the earth from the rising of the sun unto the going down thereof.
 

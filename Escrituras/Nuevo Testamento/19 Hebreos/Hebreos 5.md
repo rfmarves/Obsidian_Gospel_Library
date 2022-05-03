@@ -1,22 +1,21 @@
 ---
 title: Hebreos 5
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreos 5
 [[Hebreos 4| <-- Hebreos 4]] | [[Hebreos]] | [[Hebreos 6|Hebreos 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Para que un hombre posea el sacerdocio, debe ser llamado de Dios como lo fue Aarón — Cristo fue sacerdote para siempre según el orden de Melquisedec — Jesucristo es el Autor de la salvación eterna.
 
----
 ###### 1 
 Porque todo sumo sacerdote, tomado de entre los hombres, es constituido a favor de los hombres en lo que atañe a Dios, para presentar ofrendas y sacrificios por los pecados,
 

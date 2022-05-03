@@ -1,10 +1,11 @@
 ---
 title: sw Lamentations 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Lamentations 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lam/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Misery, sorrow, and desolation prevail in Jerusalem.
 
----
 ###### 1 
 How hath the Lord covered the daughter of Zion with a cloud in his anger,  cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!
 

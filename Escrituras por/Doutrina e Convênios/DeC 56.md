@@ -1,22 +1,21 @@
 ---
 title: DeC 56
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 56
 [[DeC 55| <-- DeC 55]] | [[DeC]] | [[DeC 57|DeC 57 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/56?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/56?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–2, Os santos devem tomar sua cruz e seguir o Senhor para alcançar a salvação; 3–13, O Senhor ordena e revoga e os desobedientes são afastados; 14–17, Ai dos ricos que não ajudam os pobres e ai dos pobres cujo coração não está quebrantado; 18–20, Benditos os pobres que são puros de coração, porque eles herdarão a Terra.
 
----
 ###### 1 
 Escutai, ó povo, vós que professais meu nome, diz o Senhor vosso Deus; pois eis que minha cólera está acesa contra os rebeldes e eles conhecerão meu braço e minha indignação no dia da visitação e da ira sobre as nações.
 

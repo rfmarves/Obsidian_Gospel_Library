@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 18
 [[2 Crónicas 17| <-- 2 Crónicas 17]] | [[2 Crónicas]] | [[2 Crónicas 19|2 Crónicas 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Josafat de Judá se une a Acab de Israel para luchar contra Siria — Los profetas falsos de Acab predicen victoria — Micaías profetiza la caída y la muerte de Acab — Los sirios matan a Acab.
 
----
 ###### 1 
 Tenía, pues, Josafat riquezas y gloria en abundancia, y se emparentó con Acab.
 

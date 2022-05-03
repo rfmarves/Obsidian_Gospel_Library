@@ -1,22 +1,21 @@
 ---
 title: Ester 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 6
 [[Ester 5| <-- Ester 5]] | [[Ester]] | [[Ester 7|Ester 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Mardoqueo recibe grandes honores — Amán, apesadumbrado, es aconsejado por su esposa.
 
----
 ###### 1 
 Aquella misma noche se le fue el sueño al rey, y mandó que le trajesen el libro de las memorias de las crónicas y las leyeron delante del rey.
 

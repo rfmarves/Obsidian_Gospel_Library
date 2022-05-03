@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 137
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 137
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/137?lang=eng)
 
----
-__Summary__
+> __Summary__
 While in captivity, the Jews wept by the rivers of Babylon—Because of sorrow, they could not bear to sing the songs of Zion.
 
----
 ###### 1 
 By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
 

@@ -1,22 +1,21 @@
 ---
 title: Jueces 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 3
 [[Jueces 2| <-- Jueces 2]] | [[Jueces]] | [[Jueces 4|Jueces 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los israelitas y los cananeos se casan entre sí — Los hijos de Israel adoran dioses falsos y son maldecidos — Otoniel juzga a los israelitas — Sirven a Moab y son liberados por Aod, quien mata a Eglón.
 
----
 ###### 1 
 Estas, pues, son las naciones que dejó Jehová para probar con ellas a Israel, a todos aquellos que no habían conocido todas las guerras de Canaán;
 

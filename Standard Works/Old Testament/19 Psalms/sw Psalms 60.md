@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 60
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 60
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/60?lang=eng)
 
----
+```
 To the chief Musician upon Shushaneduth, Michtam of David, to teach; when he strove with Aram-naharaim and with Aram-zobah, when Joab returned, and smote of Edom in the valley of salt twelve thousand.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David says that the Lord has scattered His people—The Lord places Ephraim at the head and makes Judah His lawgiver.
 
----
 ###### 1 
 O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.
 

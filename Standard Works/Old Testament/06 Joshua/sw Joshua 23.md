@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joshua exhorts Israel to be courageous, keep the commandments, love the Lord, and neither marry among nor cleave unto the remnants of the Canaanites who remain in the land—When the children of Israel serve other gods, they will be cursed and dispossessed.
 
----
 ###### 1 
 And it came to pass a long time after that the  had given rest unto Israel from all their enemies round about, that Joshua waxed old  stricken in age.
 

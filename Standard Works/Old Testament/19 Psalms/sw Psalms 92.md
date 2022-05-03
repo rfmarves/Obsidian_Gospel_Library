@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 92
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 92
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/92?lang=eng)
 
----
+```
 A Psalm or Song for the sabbath day.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A psalm or song for the Sabbath day—Give thanks unto the Lord—His enemies will perish—The righteous will flourish—There is no unrighteousness in the Lord.
 
----
 ###### 1 
  good  to give thanks unto the , and to sing praises unto thy name, O most High:
 

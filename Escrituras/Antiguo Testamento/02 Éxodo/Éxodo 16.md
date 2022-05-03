@@ -1,22 +1,21 @@
 ---
 title: Éxodo 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 16
 [[Éxodo 15| <-- Éxodo 15]] | [[Éxodo]] | [[Éxodo 17|Éxodo 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel murmura por la falta de pan y codicia las ollas de carne de Egipto — Jehová hace llover pan del cielo y envía codornices para darles carne — Se da el maná a Israel cada día, excepto el día de reposo, durante cuarenta años.
 
----
 ###### 1 
 Y partió de Elim toda la congregación de los hijos de Israel y llegó al desierto de Sin, que está entre Elim y Sinaí, a los quince días del segundo mes después que salieron de la tierra de Egipto.
 

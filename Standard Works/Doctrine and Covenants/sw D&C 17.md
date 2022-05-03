@@ -1,10 +1,11 @@
 ---
 title: sw D&C 17
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, By faith the Three Witnesses will see the plates and other sacred items; 5–9, Christ bears testimony of the divinity of the Book of Mormon.
 
----
 ###### 1 
 Behold, I say unto you, that you must rely upon my word, which if you do with full purpose of heart, you shall have a view of the plates, and also of the breastplate, the sword of Laban, the Urim and Thummim, which were given to the brother of Jared upon the mount, when he talked with the Lord face to face, and the miraculous directors which were given to Lehi while in the wilderness, on the borders of the Red Sea.
 

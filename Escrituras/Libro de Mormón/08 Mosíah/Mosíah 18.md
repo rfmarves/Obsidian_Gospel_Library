@@ -1,22 +1,21 @@
 ---
 title: Mosíah 18
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 18
 [[Mosíah 17| <-- Mosíah 17]] | [[Mosíah]] | [[Mosíah 19|Mosíah 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Alma predica secretamente — Declara el convenio del bautismo y bautiza en las aguas de Mormón — Organiza la Iglesia de Cristo y ordena sacerdotes — Estos se mantienen con el trabajo de sus manos y enseñan al pueblo — Alma y su pueblo huyen del rey Noé al desierto. Aproximadamente 147–145 a.C.
 
----
 ###### 1 
 Y sucedió que Alma, quien había huido de los siervos del rey Noé, se arrepintió de sus pecados e iniquidades, y fue secretamente entre el pueblo, y empezó a enseñar las palabras de Abinadí;
 

@@ -1,22 +1,21 @@
 ---
 title: Josué 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 19
 [[Josué 18| <-- Josué 18]] | [[Josué]] | [[Josué 20|Josué 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Simeón, Zabulón, Isacar, Aser, Neftalí y Dan reciben sus heredades por sorteo.
 
----
 ###### 1 
 La segunda suerte le tocó a Simeón, a la tribu de los hijos de Simeón, conforme a sus familias; y su heredad estaba en medio de la heredad de los hijos de Judá.
 

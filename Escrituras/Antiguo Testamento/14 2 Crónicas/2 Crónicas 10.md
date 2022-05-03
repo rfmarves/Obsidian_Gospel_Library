@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 10
 [[2 Crónicas 9| <-- 2 Crónicas 9]] | [[2 Crónicas]] | [[2 Crónicas 11|2 Crónicas 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El pueblo pide alivio, pero Roboam se empecina en aumentar las cargas sobre el pueblo — Israel se rebela y el reino se divide.
 
----
 ###### 1 
 Y Roboam fue a Siquem, porque en Siquem se había reunido todo Israel para hacerlo rey.
 

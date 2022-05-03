@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 8
 [[Deuteronomio 7| <-- Deuteronomio 7]] | [[Deuteronomio]] | [[Deuteronomio 9|Deuteronomio 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová puso a prueba a los hijos de Israel durante cuarenta años en el desierto — El comer maná les enseñó que el hombre vive de la palabra de Dios — Su ropa no envejeció — Jehová los disciplinó — Si Israel sirve a otros dioses, perecerá.
 
----
 ###### 1 
 Cuidaréis de poner por obra todo mandamiento que yo os ordeno hoy, para que viváis, y seáis multiplicados, y entréis a poseer la tierra que juró Jehová dar a vuestros padres.
 

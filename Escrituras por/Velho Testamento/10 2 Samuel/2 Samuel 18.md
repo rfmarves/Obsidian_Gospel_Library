@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 18
 [[2 Samuel 17| <-- 2 Samuel 17]] | [[2 Samuel]] | [[2 Samuel 19|2 Samuel 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os israelitas são derrotados nos bosques de Efraim — Joabe mata Absalão — A notícia de sua morte é levada a Davi, que lamenta a morte do filho.
 
----
 ###### 1 
 E Davi contou o povo que tinha consigo, e pôs sobre eles capitães de mil e capitães de cem.
 

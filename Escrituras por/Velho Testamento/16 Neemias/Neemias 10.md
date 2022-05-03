@@ -1,22 +1,21 @@
 ---
 title: Neemias 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Neemias 10
 [[Neemias 9| <-- Neemias 9]] | [[Neemias]] | [[Neemias 11|Neemias 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo faz convênio de não se casar com quem não seja de Israel — Eles também fazem convênio de honrar o Sábado, de pagar os dízimos e de guardar os mandamentos.
 
----
 ###### 1 
 E os que selaram  Neemias, o governador, filho de Hacalias, e Zedequias,
 

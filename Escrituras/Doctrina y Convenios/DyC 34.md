@@ -1,22 +1,21 @@
 ---
 title: DyC 34
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 34
 [[DyC 33| <-- DyC 33]] | [[DyC]] | [[DyC 35|DyC 35 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/34?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/34?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, Los fieles llegan a ser hijos de Dios por medio de la Expiación; 5–9, La predicación del Evangelio prepara el camino para la Segunda Venida; 10–12, La profecía viene por el poder del Espíritu Santo.
 
----
 ###### 1 
 Orson, hijo mío, escucha, oye y ve lo que te diré yo, Dios el Señor, Jesucristo tu Redentor,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Desolation, war, pestilence, and destruction will sweep the land of Israel—The desolation of the people is foreseen.
 
----
 ###### 1 
 Moreover the word of the  came unto me, saying,
 

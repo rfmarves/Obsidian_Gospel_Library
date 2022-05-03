@@ -1,10 +1,11 @@
 ---
 title: sw Luke 14
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus again heals on the Sabbath—He teaches humility and gives the parable of the great supper—Those who follow Him must forsake all else.
 
----
 ###### 1 
 And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him.
 

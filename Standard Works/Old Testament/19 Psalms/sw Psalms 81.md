@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 81
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 81
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/81?lang=eng)
 
----
+```
 To the chief Musician upon Gittith, A Psalm of Asaph.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Israel is commanded to sing praises to God—If the Israelites had walked in the Lord’s ways, they would have triumphed over their enemies.
 
----
 ###### 1 
 Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.
 

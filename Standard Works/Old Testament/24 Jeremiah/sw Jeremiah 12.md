@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah complains of the prosperity of the wicked—If other nations learn the ways of Israel, they will be numbered with Israel.
 
----
 ###### 1 
 Righteous  thou, O , when I plead with thee: yet let me talk with thee of  judgments: Wherefore doth the way of the wicked prosper?  are all they happy that deal very treacherously?
 

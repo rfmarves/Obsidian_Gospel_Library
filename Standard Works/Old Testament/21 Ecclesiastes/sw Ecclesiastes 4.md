@@ -1,10 +1,11 @@
 ---
 title: sw Ecclesiastes 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ecclesiastes 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Oppression and evil deeds are vanity—The strength of two is better than one—Better is a poor and wise child than an old and foolish king.
 
----
 ###### 1 
 So I returned, and considered all the oppressions that are done under the sun: and behold the tears of  oppressed, and they had no comforter; and on the side of their oppressors  power; but they had no comforter.
 

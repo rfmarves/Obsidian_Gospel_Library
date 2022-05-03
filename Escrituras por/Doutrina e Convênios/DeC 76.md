@@ -1,22 +1,21 @@
 ---
 title: DeC 76
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 76
 [[DeC 75| <-- DeC 75]] | [[DeC]] | [[DeC 77|DeC 77 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, O Senhor é Deus; 5–10, Os mistérios do reino serão revelados a todos os fiéis; 11–17, Todos ressurgirão na ressurreição dos justos ou dos injustos; 18–24, Os habitantes de muitos mundos são filhos e filhas gerados para Deus por meio da Expiação de Jesus Cristo; 25–29, Um anjo de Deus caiu e tornou-se o diabo; 30–49, Os filhos de perdição sofrem condenação eterna; todos os outros obtêm algum grau de salvação; 50–70, Descrevem-se a glória e a recompensa de seres exaltados no reino celestial; 71–80, Descrevem-se os que herdarão o reino terrestre; 81–113, Explica-se a condição dos que estiverem nas glórias telestial, terrestre e celestial; 114–119, Os fiéis podem ver e compreender os mistérios do reino de Deus pelo poder do Santo Espírito.
 
----
 ###### 1 
 Ouvi, ó céus, e dai ouvidos, ó Terra, e regozijai-vos, vós, seus habitantes, pois o Senhor é Deus e além dele não há Salvador algum.
 

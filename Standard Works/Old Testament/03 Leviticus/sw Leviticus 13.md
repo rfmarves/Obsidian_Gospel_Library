@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Laws and tokens are revealed for discerning and controlling leprosy—Leprous garments are to be burnt.
 
----
 ###### 1 
 And the  spake unto Moses and Aaron, saying,
 

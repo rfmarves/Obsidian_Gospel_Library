@@ -1,27 +1,25 @@
 ---
 title: Salmos 59
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 59
 [[Salmos 58| <-- Salmos 58]] | [[Salmos]] | [[Salmos 60|Salmos 60 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/59?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/59?lang=por)
 
----
+```
 Mictão de Davi para o músico-mor, Al-Tachete, quando Saul lhes mandou que vigiassem a sua casa para o matarem.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi ora pedindo que seja libertado de seus inimigos — Deus governa em Jacó até os confins da Terra.
 
----
 ###### 1 
 Livra-me, meu Deus, dos meus inimigos, defende-me daqueles que se levantam contra mim.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ’s ministers must be faithful—The Apostles suffer, minister, and keep the faith—The kingdom of God is not in word but in power.
 
----
 ###### 1 
 Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God.
 

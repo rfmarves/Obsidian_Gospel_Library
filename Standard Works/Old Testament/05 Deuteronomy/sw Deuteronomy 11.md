@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Thou shalt love and obey the Lord thy God—If the children of Israel obey, they will be blessed with rain and harvests and will drive out mighty nations—Israel must learn God’s laws and teach them—Blessings flow from obedience; cursings attend disobedience.
 
----
 ###### 1 
 Therefore thou shalt love the  thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway.
 

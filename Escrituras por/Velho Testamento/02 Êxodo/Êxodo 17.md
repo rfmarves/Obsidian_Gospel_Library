@@ -1,22 +1,21 @@
 ---
 title: Êxodo 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 17
 [[Êxodo 16| <-- Êxodo 16]] | [[Êxodo]] | [[Êxodo 18|Êxodo 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel murmura por falta de água — Moisés fere a rocha em Horebe, de onde jorra água — Aarão e Hur sustentam as mãos de Moisés para que Josué prevaleça sobre Amaleque.
 
----
 ###### 1 
 Depois, toda a congregação dos filhos de Israel partiu do deserto de Sim em suas jornadas, segundo o mandamento do , e acamparam em Refidim; e não  água para o povo beber.
 

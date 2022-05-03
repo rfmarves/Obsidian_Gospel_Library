@@ -1,10 +1,11 @@
 ---
 title: sw Hebrews 13
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hebrews 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Marriage is honorable—Christ is the same everlastingly—Paul explains how the Saints are to offer acceptable sacrifices.
 
----
 ###### 1 
 Let brotherly love continue.
 

@@ -1,27 +1,25 @@
 ---
 title: 3 Nefi 11
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 11
 [[3 Nefi 10| <-- 3 Nefi 10]] | [[3 Nefi]] | [[3 Nefi 12|3 Nefi 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=spa)
 
----
+```
 Jesucristo se manifestó a los del pueblo de Nefi, mientras se hallaba reunida la multitud en la tierra de Abundancia, y les ministró; y de esta manera se les manifestó.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 El Padre da testimonio de Su Hijo Amado — Cristo aparece y proclama Su expiación — Los del pueblo palpan las marcas de las heridas en Sus manos, en Sus pies y en Su costado — La multitud exclama ¡Hosanna! — Él establece el método y la manera del bautismo — El espíritu de contención es del diablo — La doctrina de Cristo es que los hombres deben creer, ser bautizados y recibir el Espíritu Santo. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Y aconteció que se hallaba reunida una gran multitud del pueblo de Nefi en los alrededores del templo que se encontraba en la tierra de Abundancia, y estaban maravillándose y asombrándose entre sí, y mostrándose los unos a los otros el grande y maravilloso cambio que se había verificado.
 

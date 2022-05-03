@@ -1,10 +1,11 @@
 ---
 title: sw Mark 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus forgives sins, heals a paralytic, eats with tax gatherers and sinners, and announces that He is Lord of the Sabbath.
 
----
 ###### 1 
 And again he entered into Capernaum after  days; and it was noised that he was in the house.
 

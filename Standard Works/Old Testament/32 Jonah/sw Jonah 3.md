@@ -1,10 +1,11 @@
 ---
 title: sw Jonah 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jonah 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jonah/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jonah prophesies the downfall of Nineveh—The people repent, and the city is saved.
 
----
 ###### 1 
 And the word of the  came unto Jonah the second time, saying,
 

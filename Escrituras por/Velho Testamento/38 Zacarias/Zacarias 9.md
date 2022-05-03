@@ -1,22 +1,21 @@
 ---
 title: Zacarias 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarias 9
 [[Zacarias 8| <-- Zacarias 8]] | [[Zacarias]] | [[Zacarias 10|Zacarias 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zech/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Zacarias fala como o Messias — O Messias virá, trazendo a salvação, humilde e montado sobre um jumento — Ele vai libertar os prisioneiros do abismo — Judá e Efraim são instrumentos do Senhor.
 
----
 ###### 1 
 Peso da palavra do  contra a terra de Hadraque, e Damasco  o seu repouso; porque os olhos do homem e de todas as tribos de Israel estão voltados para o .
 

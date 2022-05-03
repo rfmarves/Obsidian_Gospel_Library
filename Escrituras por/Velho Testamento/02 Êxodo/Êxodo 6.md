@@ -1,22 +1,21 @@
 ---
 title: Êxodo 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 6
 [[Êxodo 5| <-- Êxodo 5]] | [[Êxodo]] | [[Êxodo 7|Êxodo 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor se identifica como Jeová — Os descendentes de Rúben, de Simeão, e de Levi são enumerados.
 
----
 ###### 1 
 Então disse o  a Moisés: Agora verás o que hei de fazer a Faraó, porque por mão poderosa ele os deixará ir, sim, por mão poderosa os expulsará de sua terra.
 

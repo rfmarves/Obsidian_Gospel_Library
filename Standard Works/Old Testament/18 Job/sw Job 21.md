@@ -1,10 +1,11 @@
 ---
 title: sw Job 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job admits that the wicked sometimes prosper in this life—Then he testifies that their judgment will be hereafter in the day of wrath and destruction.
 
----
 ###### 1 
 But Job answered and said,
 

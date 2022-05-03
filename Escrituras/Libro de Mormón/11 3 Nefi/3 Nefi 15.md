@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 15
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 15
 [[3 Nefi 14| <-- 3 Nefi 14]] | [[3 Nefi]] | [[3 Nefi 16|3 Nefi 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús anuncia que la ley de Moisés se ha cumplido en Él — Los nefitas son las otras ovejas a quienes Él se refirió en Jerusalén — Por causa de la iniquidad, el pueblo del Señor en Jerusalén no sabe acerca de las ovejas esparcidas de Israel. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Y aconteció que cuando Jesús hubo concluido estas palabras, miró alrededor a la multitud, y les dijo: He aquí, habéis oído las cosas que enseñé antes que ascendiera a mi Padre; por tanto, a cualquiera que se acuerde de estas palabras mías, y las haga, lo exaltaré en el postrer día.
 

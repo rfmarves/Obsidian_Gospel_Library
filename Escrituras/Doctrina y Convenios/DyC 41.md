@@ -1,22 +1,21 @@
 ---
 title: DyC 41
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 41
 [[DyC 40| <-- DyC 40]] | [[DyC]] | [[DyC 42|DyC 42 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/41?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/41?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–3, Los élderes gobernarán la Iglesia por el espíritu de revelación; 4–6, Los discípulos verdaderos recibirán y obedecerán la ley del Señor; 7–12, Edward Partridge es nombrado obispo de la Iglesia.
 
----
 ###### 1 
 Escuchad y dad oído, oh pueblo mío, dice el Señor y vuestro Dios, vosotros que me oís, y a quienes me deleito en bendecir con la mayor de todas las bendiciones; y a vosotros que habéis profesado mi nombre y no me oís, os maldeciré con las más graves de todas las maldiciones.
 

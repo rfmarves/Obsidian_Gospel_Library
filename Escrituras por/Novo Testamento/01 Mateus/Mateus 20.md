@@ -1,22 +1,21 @@
 ---
 title: Mateus 20
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 20
 [[Mateus 19| <-- Mateus 19]] | [[Mateus]] | [[Mateus 21|Mateus 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus conta a parábola dos trabalhadores na vinha — Ele prediz Sua crucificação e ressurreição — Ele veio para dar a Sua vida em resgate por muitos.
 
----
 ###### 1 
 Porque o reino dos céus é semelhante a um homem, pai de família, que saiu de madrugada para contratar trabalhadores para a sua vinha.
 

@@ -1,22 +1,21 @@
 ---
 title: Alma 23
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 23
 [[Alma 22| <-- Alma 22]] | [[Alma]] | [[Alma 24|Alma 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se proclama la libertad religiosa — Se convierten los lamanitas de siete tierras y ciudades — Se ponen el nombre de anti-nefi-lehitas y son librados de la maldición — Los amalekitas y los amulonitas rechazan la verdad. Aproximadamente 90–77 a.C.
 
----
 ###### 1 
 Y he aquí, sucedió que el rey de los lamanitas envió una proclamación entre todo su pueblo, que no debían echar mano a Ammón, ni a Aarón, ni a Omner, ni a Himni, ni a ninguno de sus hermanos que anduviesen predicando la palabra de Dios, en cualquier lugar donde se hallaran, en la parte de su tierra que fuese.
 

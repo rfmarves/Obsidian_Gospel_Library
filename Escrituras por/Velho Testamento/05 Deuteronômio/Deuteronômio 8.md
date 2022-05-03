@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 8
 [[Deuteronômio 7| <-- Deuteronômio 7]] | [[Deuteronômio]] | [[Deuteronômio 9|Deuteronômio 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor pôs os filhos de Israel à prova no deserto por quarenta anos — O fato de terem comido maná lhes ensinou que o homem vive pela palavra de Deus — Suas vestes não envelheceram — O Senhor os castigou — Se eles servirem outros deuses, perecerão.
 
----
 ###### 1 
 Todos os mandamentos que hoje vos ordeno guardareis para  cumprir; para que vivais, e vos multipliqueis, e entreis, e possuais a terra que o  jurou dar a vossos pais.
 

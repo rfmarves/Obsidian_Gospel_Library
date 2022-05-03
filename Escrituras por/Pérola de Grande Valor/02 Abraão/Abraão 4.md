@@ -1,22 +1,21 @@
 ---
 title: Abraão 4
-tags: #Escrituras\PdGV
+tags: Escrituras\PdGV
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Abraão 4
 [[Abraão 3| <-- Abraão 3]] | [[Abraão]] | [[Abraão 5|Abraão 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/pgp/abr/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/pgp/abr/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os Deuses planejam a criação da Terra e de toda vida sobre ela — Apresentados os seus planos para os seis dias da criação.
 
----
 ###### 1 
 E então o Senhor disse: Desçamos. E eles desceram no princípio; e eles, isto é, os Deuses, organizaram e formaram os céus e a Terra.
 

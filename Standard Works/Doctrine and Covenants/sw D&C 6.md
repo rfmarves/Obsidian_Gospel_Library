@@ -1,10 +1,11 @@
 ---
 title: sw D&C 6
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, Laborers in the Lord’s field gain salvation; 7–13, There is no gift greater than the gift of salvation; 14–27, A witness of the truth comes by the power of the Spirit; 28–37, Look unto Christ, and do good continually.
 
----
 ###### 1 
 A great and marvelous work is about to come forth unto the children of men.
 

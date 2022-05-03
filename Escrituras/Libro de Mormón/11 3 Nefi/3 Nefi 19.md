@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 19
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 19
 [[3 Nefi 18| <-- 3 Nefi 18]] | [[3 Nefi]] | [[3 Nefi 20|3 Nefi 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los doce discípulos ministran al pueblo y oran para recibir el Espíritu Santo — Los discípulos son bautizados y reciben el Espíritu Santo y la ministración de ángeles — Jesús ora, con palabras que no se pueden escribir — Él da testimonio de la fe extremadamente grande de esos nefitas. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Y sucedió que cuando Jesús hubo ascendido al cielo, se dispersó la multitud, y todo hombre tomó a su esposa y sus hijos, y volvió a su propia casa.
 

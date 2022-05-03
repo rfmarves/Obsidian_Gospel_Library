@@ -1,10 +1,11 @@
 ---
 title: sw James 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw James 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/james/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Misery awaits the wanton rich—Await the Lord’s coming with patience—The elders are to anoint and heal the sick.
 
----
 ###### 1 
 Go to now,  rich men, weep and howl for your miseries that shall come upon 
 

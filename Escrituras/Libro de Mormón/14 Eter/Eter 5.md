@@ -1,22 +1,21 @@
 ---
 title: Eter 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eter 5
 [[Eter 4| <-- Eter 4]] | [[Eter]] | [[Eter 6|Eter 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Tres testigos y la obra misma constituirán un testimonio de la veracidad del Libro de Mormón.
 
----
 ###### 1 
 Y yo, Moroni, he escrito las palabras que se me mandaron, según mi memoria; y te he dicho las cosas que he sellado; por tanto, no las toques con el fin de traducirlas; porque esto te está prohibido, a menos que en lo futuro Dios lo juzgue prudente.
 

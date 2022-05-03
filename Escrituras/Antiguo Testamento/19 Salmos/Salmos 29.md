@@ -1,27 +1,25 @@
 ---
 title: Salmos 29
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 29
 [[Salmos 28| <-- Salmos 28]] | [[Salmos]] | [[Salmos 30|Salmos 30 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/29?lang=spa)
 
----
+```
 Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David aconseja: Adorad a Jehová en la hermosura de la santidad — David describe la majestuosidad y el poder de la voz de Jehová.
 
----
 ###### 1 
 
 

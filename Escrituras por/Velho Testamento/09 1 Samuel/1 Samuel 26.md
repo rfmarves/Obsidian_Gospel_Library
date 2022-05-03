@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 26
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 26
 [[1 Samuel 25| <-- 1 Samuel 25]] | [[1 Samuel]] | [[1 Samuel 27|1 Samuel 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi poupa mais uma vez a vida de Saul — Novamente se recusa a estender a mão contra o ungido do Senhor — Saul e Davi se separam.
 
----
 ###### 1 
 E foram os zifeus a Saul, a Gibeá, dizendo: Não está Davi escondido no outeiro de Haquilá, à entrada de Jesimom?
 

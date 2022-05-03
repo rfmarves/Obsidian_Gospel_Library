@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 11
 [[2 Samuel 10| <-- 2 Samuel 10]] | [[2 Samuel]] | [[2 Samuel 12|2 Samuel 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David se acuesta con Betsabé y ella concibe — Entonces David hace los preparativos para que Urías, marido de ella, muera en batalla.
 
----
 ###### 1 
 Y aconteció al año siguiente, en el tiempo en que salen los reyes  que David envió a Joab, y a sus siervos con él y a todo Israel, y destruyeron a los amonitas y sitiaron a Rabá, pero David se quedó en Jerusalén.
 

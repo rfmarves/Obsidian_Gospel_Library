@@ -1,22 +1,21 @@
 ---
 title: DeC 70
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 70
 [[DeC 69| <-- DeC 69]] | [[DeC]] | [[DeC 71|DeC 71 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/70?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/70?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, São designados mordomos para publicarem as revelações; 6–13, Os que trabalham em coisas espirituais são dignos de seu salário; 14–18, Os santos devem ser iguais nas coisas materiais.
 
----
 ###### 1 
 Vede e escutai, ó habitantes de Sião, e todos vós, povo de minha igreja, que estais longe, e ouvi a palavra do Senhor, que dou a meu servo Joseph Smith Júnior; e também a meu servo Martin Harris e também a meu servo Oliver Cowdery e também a meu servo John Whitmer e também a meu servo Sidney Rigdon e também a meu servo William W. Phelps, como mandamento.
 

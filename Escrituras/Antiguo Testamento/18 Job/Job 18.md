@@ -1,22 +1,21 @@
 ---
 title: Job 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 18
 [[Job 17| <-- Job 17]] | [[Job]] | [[Job 19|Job 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Bildad describe el estado de condenación de los malvados que no conocen a Dios.
 
----
 ###### 1 
 Y respondió Bildad, el suhita, y dijo:
 

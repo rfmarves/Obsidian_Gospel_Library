@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 16
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 16
 [[1 Coríntios 15| <-- 1 Coríntios 15]] | [[1 Coríntios]] | [[2 Coríntios 1|2 Coríntios 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo aconselha: Permanecei firmes na fé; que todas as coisas sejam feitas com caridade.
 
----
 ###### 1 
 Ora, quanto à coleta que se faz para os santos, fazei vós também como ordenei às igrejas da Galácia.
 

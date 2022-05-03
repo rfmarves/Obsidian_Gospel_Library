@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 20
 [[Deuteronômio 19| <-- Deuteronômio 19]] | [[Deuteronômio]] | [[Deuteronômio 21|Deuteronômio 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 São reveladas leis para escolher soldados e fazer guerra — Os heteus, os amorreus, os cananeus, os perizeus, os heveus e os jebuseus serão completamente destruídos.
 
----
 ###### 1 
 Quando saires à peleja contra teus inimigos, e vires cavalos, e carros, e povo maior em número do que tu, deles não terás temor; pois o  teu Deus, que te tirou da terra do Egito,  contigo.
 

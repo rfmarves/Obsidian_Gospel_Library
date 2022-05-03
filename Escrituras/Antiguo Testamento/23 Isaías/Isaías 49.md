@@ -1,22 +1,21 @@
 ---
 title: Isaías 49
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 49
 [[Isaías 48| <-- Isaías 48]] | [[Isaías]] | [[Isaías 50|Isaías 50 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Mesías será una luz para las naciones y pondrá en libertad a los cautivos — Israel será recogido con poder en los últimos días — Reyes serán los ayos de Israel — Compárese con 1 Nefi 21.
 
----
 ###### 1 
 Oídme, oh islas, y escuchad, pueblos lejanos: Jehová me llamó desde el vientre; desde las entrañas de mi madre tuvo mi nombre en memoria.
 

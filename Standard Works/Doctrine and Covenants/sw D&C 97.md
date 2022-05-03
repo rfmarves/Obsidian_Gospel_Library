@@ -1,10 +1,11 @@
 ---
 title: sw D&C 97
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 97
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–2, Many of the Saints in Zion (Jackson County, Missouri) are blessed for their faithfulness; 3–5, Parley P. Pratt is commended for his labors in the school in Zion; 6–9, Those who observe their covenants are accepted by the Lord; 10–17, A house is to be built in Zion in which the pure in heart will see God; 18–21, Zion is the pure in heart; 22–28, Zion will escape the Lord’s scourge if she is faithful.
 
----
 ###### 1 
 Verily I say unto you my friends, I speak unto you with my voice, even the voice of my Spirit, that I may show unto you my will concerning your brethren in the land of Zion, many of whom are truly humble and are seeking diligently to learn wisdom and to find truth.
 

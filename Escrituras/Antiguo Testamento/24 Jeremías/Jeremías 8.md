@@ -1,22 +1,21 @@
 ---
 title: Jeremías 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 8
 [[Jeremías 7| <-- Jeremías 7]] | [[Jeremías]] | [[Jeremías 9|Jeremías 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Sobrevendrán calamidades a los habitantes de Jerusalén — Para ellos, pasó la siega, terminó el verano y no han sido salvos.
 
----
 ###### 1 
 En aquel tiempo, dice Jehová, sacarán fuera de sus sepulcros los huesos de los reyes de Judá, y los huesos de sus príncipes, y los huesos de los sacerdotes, y los huesos de los profetas y los huesos de los moradores de Jerusalén;
 

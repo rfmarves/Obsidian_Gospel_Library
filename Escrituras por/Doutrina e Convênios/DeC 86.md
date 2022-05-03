@@ -1,22 +1,21 @@
 ---
 title: DeC 86
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 86
 [[DeC 85| <-- DeC 85]] | [[DeC]] | [[DeC 87|DeC 87 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/86?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/86?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–7, O Senhor explica o significado da parábola do trigo e do joio; 8–11, Ele explica a bênção do sacerdócio para os que são herdeiros legais segundo a carne.
 
----
 ###### 1 
 Em verdade, assim diz o Senhor a vós, meus servos, em relação à parábola do trigo e do joio:
 

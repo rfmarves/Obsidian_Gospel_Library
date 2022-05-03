@@ -1,10 +1,11 @@
 ---
 title: sw Judges 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 All Israel arises against the Benjamites, who refuse to deliver up the men of Gibeah—The Benjamites are smitten and destroyed.
 
----
 ###### 1 
 Then all the children of Israel went out, and the congregation was gathered together as one man, from Dan even to Beer-sheba, with the land of Gilead, unto the  in Mizpeh.
 

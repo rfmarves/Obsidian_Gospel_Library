@@ -1,22 +1,21 @@
 ---
 title: Números 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 5
 [[Números 4| <-- Números 4]] | [[Números]] | [[Números 6|Números 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se pone a los leprosos fuera del campamento — Los pecadores deben confesar su falta y hacer restitución para obtener el perdón — Las mujeres de las que se sospeche que sean inmorales deberán pasar por la prueba de los celos ante los sacerdotes.
 
----
 ###### 1 
 Y Jehová habló a Moisés, diciendo:
 

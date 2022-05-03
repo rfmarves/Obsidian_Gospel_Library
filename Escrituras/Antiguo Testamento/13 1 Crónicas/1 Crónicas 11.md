@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 11
 [[1 Crónicas 10| <-- 1 Crónicas 10]] | [[1 Crónicas]] | [[1 Crónicas 12|1 Crónicas 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David es ungido rey en Hebrón — Él toma Sion, la ciudad de David — Se nombran sus guerreros valientes y se narran sus obras.
 
----
 ###### 1 
 Entonces todo Israel se congregó en torno a David en Hebrón, diciendo: He aquí nosotros somos tu hueso y tu carne.
 

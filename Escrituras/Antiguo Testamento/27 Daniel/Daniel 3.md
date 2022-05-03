@@ -1,22 +1,21 @@
 ---
 title: Daniel 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 3
 [[Daniel 2| <-- Daniel 2]] | [[Daniel]] | [[Daniel 4|Daniel 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nabucodonosor manda hacer una estatua de oro y manda a todos los hombres que la adoren — Sadrac, Mesac y Abed-nego se niegan a hacerlo y son echados a un horno ardiente — Son protegidos y salen ilesos.
 
----
 ###### 1 
 El rey Nabucodonosor hizo una estatua de oro cuya altura era de sesenta codos  su anchura de seis codos; la levantó en la llanura de Dura, en la provincia de Babilonia.
 

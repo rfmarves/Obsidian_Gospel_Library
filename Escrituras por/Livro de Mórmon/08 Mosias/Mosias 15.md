@@ -1,22 +1,21 @@
 ---
 title: Mosias 15
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 15
 [[Mosias 14| <-- Mosias 14]] | [[Mosias]] | [[Mosias 16|Mosias 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Como Cristo é tanto o Pai como o Filho — Ele intercederá por Seu povo e tomará sobre Si as transgressões deles — Eles e todos os santos profetas são Sua semente — Ele efetua a Ressurreição — As criancinhas têm vida eterna. Aproximadamente 148 a.C.
 
----
 ###### 1 
 E então Abinádi lhes disse: Quisera que compreendêsseis que o próprio Deus descerá entre os filhos dos homens e redimirá seu povo.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Reis 24
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reis 24
 [[2 Reis 23| <-- 2 Reis 23]] | [[2 Reis]] | [[2 Reis 25|2 Reis 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jerusalém é sitiada e tomada por Nabucodonosor — Muitos do povo de Judá são levados cativos para a Babilônia — Zedequias se torna rei em Jerusalém — Ele se rebela contra a Babilônia.
 
----
 ###### 1 
 Nos seus dias subiu Nabucodonosor, rei de Babilônia, e Joaquim ficou três anos seu servo;  se voltou, e se rebelou contra ele.
 

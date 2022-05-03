@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Laws, rites, and sacrifices are revealed for cleansing lepers, their garments, and leprous houses.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

@@ -1,22 +1,21 @@
 ---
 title: Mateus 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 4
 [[Mateus 3| <-- Mateus 3]] | [[Mateus]] | [[Mateus 5|Mateus 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus jejua por quarenta dias e é tentado — Ele inicia Seu ministério, chama discípulos e cura os enfermos.
 
----
 ###### 1 
 Então foi conduzido Jesus pelo Espírito ao deserto, para ser tentado pelo diabo.
 

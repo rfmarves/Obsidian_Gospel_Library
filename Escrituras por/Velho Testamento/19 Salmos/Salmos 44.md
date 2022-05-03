@@ -1,27 +1,25 @@
 ---
 title: Salmos 44
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 44
 [[Salmos 43| <-- Salmos 43]] | [[Salmos]] | [[Salmos 45|Salmos 45 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/44?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/44?lang=por)
 
----
+```
 Masquil para o músico-mor, entre os filhos de Coré.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Os santos louvam ao Senhor e se gloriam em Seu nome para sempre — Eles são perseguidos, difamados e considerados como ovelhas para o matadouro.
 
----
 ###### 1 
 Ó Deus, nós ouvimos com os nossos ouvidos, e nossos pais nos contaram a obra  fizeste em seus dias, nos tempos da antiguidade.
 

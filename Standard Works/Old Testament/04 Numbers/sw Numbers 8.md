@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Levites are washed, consecrated, and set apart by the laying on of hands—They are the Lord’s in place of the firstborn of every family—They are a gift to Aaron and his sons to do the service of the tabernacle.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

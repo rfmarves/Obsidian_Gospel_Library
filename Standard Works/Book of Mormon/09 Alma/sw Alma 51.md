@@ -1,10 +1,11 @@
 ---
 title: sw Alma 51
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 51
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/51?lang=eng)
 
----
-__Summary__
+> __Summary__
 The king-men seek to change the law and set up a king—Pahoran and the freemen are supported by the voice of the people—Moroni compels the king-men to defend their country or be put to death—Amalickiah and the Lamanites capture many fortified cities—Teancum repels the Lamanite invasion and slays Amalickiah in his tent. About 67–66 B.C.
 
----
 ###### 1 
 And now it came to pass in the commencement of the twenty and fifth year of the reign of the judges over the people of Nephi, they having established peace between the people of Lehi and the people of Morianton concerning their lands, and having commenced the twenty and fifth year in peace;
 

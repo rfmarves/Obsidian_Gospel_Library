@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 13
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abinadi is protected by divine power—He teaches the Ten Commandments—Salvation does not come by the law of Moses alone—God Himself will make an atonement and redeem His people. About 148 B.C.
 
----
 ###### 1 
 And now when the king had heard these words, he said unto his priests: Away with this fellow, and slay him; for what have we to do with him, for he is mad.
 

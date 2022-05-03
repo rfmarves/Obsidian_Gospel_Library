@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joab rebukes David for favoring his enemies instead of his friends—David replaces Joab with Amasa—Shimei, who cursed David, is pardoned—Mephibosheth pledges allegiance to David—The men of Judah take David back to Jerusalem.
 
----
 ###### 1 
 And it was told Joab, Behold, the king weepeth and mourneth for Absalom.
 

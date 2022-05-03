@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The order and leaders of the tribes and armies of Israel in their tents are given.
 
----
 ###### 1 
 And the  spake unto Moses and unto Aaron, saying,
 

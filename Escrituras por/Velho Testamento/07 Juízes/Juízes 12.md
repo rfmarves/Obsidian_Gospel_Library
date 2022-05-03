@@ -1,22 +1,21 @@
 ---
 title: Juízes 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 12
 [[Juízes 11| <-- Juízes 11]] | [[Juízes]] | [[Juízes 13|Juízes 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os gileaditas matam 42.000 efraimitas — Jefté, Ibzã, Elom e Abdom julgam Israel consecutivamente.
 
----
 ###### 1 
 Então se convocaram os homens de Efraim, e passaram para o norte, e disseram a Jefté: Por que passaste para combater contra os filhos de Amom, e não nos chamaste para ir contigo? Queimaremos a fogo a tua casa contigo.
 

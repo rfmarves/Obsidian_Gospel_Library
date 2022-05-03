@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 13
 [[1 Samuel 12| <-- 1 Samuel 12]] | [[1 Samuel]] | [[1 Samuel 14|1 Samuel 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Saúl ofrece un holocausto — Jehová lo rechaza y pone a otro príncipe sobre Su pueblo.
 
----
 ###### 1 
 Había ya Saúl reinado un año, y cuando hubo reinado dos años sobre Israel,
 

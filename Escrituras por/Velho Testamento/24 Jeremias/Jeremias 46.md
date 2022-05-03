@@ -1,22 +1,21 @@
 ---
 title: Jeremias 46
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 46
 [[Jeremias 45| <-- Jeremias 45]] | [[Jeremias]] | [[Jeremias 47|Jeremias 47 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/46?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/46?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias profetiza que Babilônia conquistará o Egito — Jacó será salvo e retornará à sua própria terra.
 
----
 ###### 1 
 A palavra do , que veio a Jeremias, o profeta, contra as nações;
 

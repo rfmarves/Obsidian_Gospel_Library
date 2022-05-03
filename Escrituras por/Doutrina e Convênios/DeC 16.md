@@ -1,22 +1,21 @@
 ---
 title: DeC 16
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 16
 [[DeC 15| <-- DeC 15]] | [[DeC]] | [[DeC 17|DeC 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–2, O braço do Senhor está sobre toda a Terra; 3–6, Pregar o evangelho e salvar almas é a coisa de maior valor.
 
----
 ###### 1 
 Escuta, meu servo Peter, e dá ouvidos às palavras de Jesus Cristo, teu Senhor e teu Redentor.
 

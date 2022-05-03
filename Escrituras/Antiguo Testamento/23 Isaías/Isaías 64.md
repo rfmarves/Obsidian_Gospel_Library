@@ -1,22 +1,21 @@
 ---
 title: Isaías 64
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 64
 [[Isaías 63| <-- Isaías 63]] | [[Isaías]] | [[Isaías 65|Isaías 65 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/64?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/64?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los del pueblo de Jehová piden en oración que lleguen la Segunda Venida y la salvación que entonces será de ellos.
 
----
 ###### 1 
 ¡Oh si rasgases los cielos  descendieras,  ante tu presencia se derritieran los montes,
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 11
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, Laborers in the vineyard will gain salvation; 7–14, Seek wisdom, cry repentance, trust in the Spirit; 15–22, Keep the commandments, and study the Lord’s word; 23–27, Deny not the spirit of revelation and of prophecy; 28–30, Those who receive Christ become the sons of God.
 
----
 ###### 1 
 A great and marvelous work is about to come forth among the children of men.
 

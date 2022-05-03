@@ -1,22 +1,21 @@
 ---
 title: Alma 32
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 32
 [[Alma 31| <-- Alma 31]] | [[Alma]] | [[Alma 33|Alma 33 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Alma ensina os pobres, cujas aflições os haviam tornado humildes — Fé é uma esperança naquilo que não se vê e que é verdadeiro — Alma testifica que anjos ministram entre homens, mulheres e crianças — Alma compara a palavra a uma semente — Ela deve ser plantada e cuidada — Então se transforma em uma árvore da qual se colhe o fruto da vida eterna. Aproximadamente 74 a.C.
 
----
 ###### 1 
 E aconteceu que saíram e começaram a pregar a palavra de Deus ao povo, entrando em suas sinagogas e em suas casas; sim, e até pregavam a palavra nas ruas.
 

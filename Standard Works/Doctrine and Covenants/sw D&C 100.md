@@ -1,10 +1,11 @@
 ---
 title: sw D&C 100
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 100
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/100?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, Joseph and Sidney to preach the gospel for the salvation of souls; 5–8, It will be given them in the very hour what they should say; 9–12, Sidney is to be a spokesman and Joseph is to be a revelator and mighty in testimony; 13–17, The Lord will raise up a pure people, and the obedient will be saved.
 
----
 ###### 1 
 Verily, thus saith the Lord unto you, my friends Sidney and Joseph, your families are well; they are in mine hands, and I will do with them as seemeth me good; for in me there is all power.
 

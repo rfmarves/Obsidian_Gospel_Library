@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 6
 [[2 Crônicas 5| <-- 2 Crônicas 5]] | [[2 Crônicas]] | [[2 Crônicas 7|2 Crônicas 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Salomão abençoa a congregação de Israel — Ele profere a oração dedicatória do templo — Ora pedindo misericórdia e bênçãos para o Israel penitente.
 
----
 ###### 1 
 Então disse Salomão: O  disse que habitaria na densa nuvem.
 

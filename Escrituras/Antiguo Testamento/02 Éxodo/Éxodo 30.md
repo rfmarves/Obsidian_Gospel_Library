@@ -1,22 +1,21 @@
 ---
 title: Éxodo 30
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 30
 [[Éxodo 29| <-- Éxodo 29]] | [[Éxodo]] | [[Éxodo 31|Éxodo 31 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/30?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/30?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se pondrá un altar de incienso delante del velo — Se hará una expiación con la sangre de la ofrenda por el pecado — El dinero de la expiación se pagará en rescate de todo varón — Los sacerdotes usarán el aceite de la santa unción y el incienso.
 
----
 ###### 1 
 Harás asimismo un altar para quemar incienso; de madera de acacia lo harás.
 

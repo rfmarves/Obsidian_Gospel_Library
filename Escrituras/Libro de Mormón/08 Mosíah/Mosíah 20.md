@@ -1,22 +1,21 @@
 ---
 title: Mosíah 20
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 20
 [[Mosíah 19| <-- Mosíah 19]] | [[Mosíah]] | [[Mosíah 21|Mosíah 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los sacerdotes del rey Noé raptan a algunas de las hijas de los lamanitas — Los lamanitas emprenden la guerra contra Limhi y su pueblo — Los lamanitas son rechazados y pacificados. Aproximadamente 145–123 a.C.
 
----
 ###### 1 
 Y había en Shemlón un paraje donde las hijas de los lamanitas se reunían para cantar, para bailar y para divertirse.
 

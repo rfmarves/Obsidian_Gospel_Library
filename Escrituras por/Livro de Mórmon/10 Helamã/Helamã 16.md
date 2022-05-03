@@ -1,22 +1,21 @@
 ---
 title: Helamã 16
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamã 16
 [[Helamã 15| <-- Helamã 15]] | [[Helamã]] | [[3 Néfi 1|3 Néfi 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os nefitas que acreditam em Samuel são batizados por Néfi — Samuel não pode ser morto com as flechas e pedras dos nefitas que não se arrependeram — Alguns endurecem o coração e outros veem anjos — Os incrédulos dizem que não é sensato crer em Cristo nem na Sua vinda a Jerusalém. Aproximadamente 6–1 a.C.
 
----
 ###### 1 
 E então aconteceu que muitos ouviram as palavras de Samuel, o lamanita, proferidas de cima das muralhas da cidade. E todos os que acreditaram em suas palavras saíram à procura de Néfi; e quando o encontraram, confessaram-lhe seus pecados e não os negaram, desejando ser batizados no Senhor.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Acts 19
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul confers the gift of the Holy Ghost by the laying on of hands—He preaches and works many miracles—The sons of Sceva fail to cast out devils by exorcism—The worshippers of Diana (Artemis) raise a tumult against Paul.
 
----
 ###### 1 
 And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,
 

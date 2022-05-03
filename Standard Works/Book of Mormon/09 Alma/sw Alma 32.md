@@ -1,10 +1,11 @@
 ---
 title: sw Alma 32
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 32
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng)
 
----
-__Summary__
+> __Summary__
 Alma teaches the poor whose afflictions had humbled them—Faith is a hope in that which is not seen which is true—Alma testifies that angels minister to men, women, and children—Alma compares the word unto a seed—It must be planted and nourished—Then it grows into a tree from which the fruit of eternal life is picked. About 74 B.C.
 
----
 ###### 1 
 And it came to pass that they did go forth, and began to preach the word of God unto the people, entering into their synagogues, and into their houses; yea, and even they did preach the word in their streets.
 

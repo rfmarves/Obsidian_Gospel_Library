@@ -1,22 +1,21 @@
 ---
 title: Génesis 44
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 44
 [[Génesis 43| <-- Génesis 43]] | [[Génesis]] | [[Génesis 45|Génesis 45 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/44?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/44?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 José dispone las cosas para detener el regreso de sus hermanos a Canaán — Judá se ofrece para tomar el lugar de Benjamín por causa de su padre.
 
----
 ###### 1 
 Y mandó José al mayordomo de su casa, diciendo: Llena de alimento los costales de estos hombres, cuanto puedan llevar, y pon el dinero de cada uno en la boca de su costal.
 

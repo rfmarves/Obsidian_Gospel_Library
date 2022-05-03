@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 1
 [[Lamentaciones 5| <-- Lamentaciones 5]] | [[Ezequiel]] | [[Ezequiel 2|Ezequiel 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequiel ve en visión cuatro seres vivientes, cuatro ruedas y la gloria de Jehová sobre Su trono.
 
----
 ###### 1 
 Y aconteció en el año treinta, en el  cuarto, a los cinco  del mes, que, estando yo en medio de los cautivos, junto al río Quebar, los cielos se abrieron y vi visiones de Dios.
 

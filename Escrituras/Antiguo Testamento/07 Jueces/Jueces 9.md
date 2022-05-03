@@ -1,22 +1,21 @@
 ---
 title: Jueces 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 9
 [[Jueces 8| <-- Jueces 8]] | [[Jueces]] | [[Jueces 10|Jueces 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Abimelec hijo de Gedeón es hecho rey — Abimelec mata a sus setenta hermanos — Jotam cuenta una fábula de árboles que escogen un rey — Los hombres de Siquem conspiran en contra de Abimelec — Matan a Abimelec en Tebes.
 
----
 ###### 1 
 Y fue Abimelec hijo de Jerobaal a Siquem, a los hermanos de su madre, y habló con ellos y con toda la familia de la casa del padre de su madre, diciendo:
 

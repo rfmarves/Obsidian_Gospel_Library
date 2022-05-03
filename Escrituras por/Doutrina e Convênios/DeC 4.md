@@ -1,22 +1,21 @@
 ---
 title: DeC 4
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 4
 [[DeC 3| <-- DeC 3]] | [[DeC]] | [[DeC 5|DeC 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, O serviço devotado salva os ministros do Senhor; 5–6, Qualificam-se para o ministério por meio de atributos divinos; 7, É preciso buscar as coisas de Deus.
 
----
 ###### 1 
 Agora eis que uma obra maravilhosa está para iniciar-se entre os filhos dos homens.
 

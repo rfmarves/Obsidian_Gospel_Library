@@ -1,22 +1,21 @@
 ---
 title: Lamentaciones 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lamentaciones 5
 [[Lamentaciones 4| <-- Lamentaciones 4]] | [[Lamentaciones]] | [[Ezequiel 1|Ezequiel 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lam/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lam/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías recita en una oración el triste estado de Sion.
 
----
 ###### 1 
 
 

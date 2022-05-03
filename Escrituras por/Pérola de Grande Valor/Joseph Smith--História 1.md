@@ -1,25 +1,24 @@
 ---
 title: Joseph Smith--História 1
-tags: #Escrituras\PdGV
+tags: Escrituras\PdGV
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Joseph Smith--História 1
 [[Joseph Smith--Mateus 1| <-- Joseph Smith--Mateus 1]] | [[Joseph Smith--História]] | [[Regras de Fé 1|Regras de Fé 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=por)
 
 Joseph Smith--História
 Extratos da História de Joseph Smith, o Profeta
 
----
-__Resumo__
+> __Resumo__
 Joseph Smith fala sobre seus antepassados, seus familiares e os lugares onde moravam — Há uma agitação incomum a respeito de religião no oeste do Estado de Nova York — Ele decide buscar sabedoria, como sugerido por Tiago — O Pai e o Filho aparecem e Joseph é chamado ao seu ministério profético. (Versículos 1–20)
 
----
 Joseph Smith fala sobre seus antepassados, seus familiares e os lugares onde moravam — Há uma agitação incomum a respeito de religião no oeste do Estado de Nova York — Ele decide buscar sabedoria, como sugerido por Tiago — O Pai e o Filho aparecem e Joseph é chamado ao seu ministério profético. (Versículos 1–20)
 
 ###### 1 

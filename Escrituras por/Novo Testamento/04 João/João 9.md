@@ -1,22 +1,21 @@
 ---
 title: João 9
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 9
 [[João 8| <-- João 8]] | [[João]] | [[João 10|João 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus, no Sábado, cura um homem cego de nascença — Os judeus O acusam de violar o Sábado — Ele prega a eles sobre a cegueira espiritual.
 
----
 ###### 1 
 E passando  viu um homem cego de nascença.
 

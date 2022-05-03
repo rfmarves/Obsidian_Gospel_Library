@@ -1,22 +1,21 @@
 ---
 title: Jeremias 29
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 29
 [[Jeremias 28| <-- Jeremias 28]] | [[Jeremias]] | [[Jeremias 30|Jeremias 30 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/29?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/29?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias diz aos judeus que estão na Babilônia que se preparem para setenta anos de cativeiro — Os que permaneceram em Jerusalém serão dispersos — Semaías profetiza falsamente e é amaldiçoado.
 
----
 ###### 1 
 E estas  as palavras da carta que Jeremias, o profeta, enviou de Jerusalém, ao restante dos anciãos no cativeiro, como também aos sacerdotes, e aos profetas, e a todo o povo que Nabucodonosor havia transportado de Jerusalém a Babilônia;
 

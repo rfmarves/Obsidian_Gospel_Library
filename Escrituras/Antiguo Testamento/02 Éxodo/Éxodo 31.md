@@ -1,22 +1,21 @@
 ---
 title: Éxodo 31
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 31
 [[Éxodo 30| <-- Éxodo 30]] | [[Éxodo]] | [[Éxodo 32|Éxodo 32 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/31?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/31?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los artesanos son inspirados al construir y amueblar el tabernáculo — Se manda a Israel guardar los días de reposo de Jehová — Se decreta la pena de muerte por profanar el día de reposo — Moisés recibe las tablas de piedra.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

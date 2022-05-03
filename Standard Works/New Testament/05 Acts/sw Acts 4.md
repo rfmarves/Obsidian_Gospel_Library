@@ -1,10 +1,11 @@
 ---
 title: sw Acts 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Peter and John are arrested and brought before the council—Peter testifies that salvation comes because of Christ—The Sadducees strive to silence Peter and John—The Saints glory in the testimony of Jesus—They have all things in common.
 
----
 ###### 1 
 And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them,
 

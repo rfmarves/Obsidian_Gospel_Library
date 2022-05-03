@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 6
 [[2 Crónicas 5| <-- 2 Crónicas 5]] | [[2 Crónicas]] | [[2 Crónicas 7|2 Crónicas 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Salomón bendice a la congregación de Israel — Ofrece la oración dedicatoria para el templo — Suplica en oración misericordia y bendiciones para el Israel arrepentido.
 
----
 ###### 1 
 Entonces dijo Salomón: Jehová ha dicho que él habitaría en la densa nube.
 

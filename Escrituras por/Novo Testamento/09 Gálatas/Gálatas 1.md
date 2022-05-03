@@ -1,22 +1,21 @@
 ---
 title: Gálatas 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gálatas 1
 [[2 Coríntios 13| <-- 2 Coríntios 13]] | [[Gálatas]] | [[Gálatas 2|Gálatas 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/gal/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/gal/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Aqueles que pregam falsos evangelhos são amaldiçoados — Paulo recebeu o evangelho por revelação — Ele acreditou, foi ensinado e pregou aos gentios.
 
----
 ###### 1 
 Paulo, apóstolo, (não  dos homens, nem por homem  mas por Jesus Cristo, e por Deus Pai, que o ressuscitou dos mortos)
 

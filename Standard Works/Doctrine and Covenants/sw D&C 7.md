@@ -1,10 +1,11 @@
 ---
 title: sw D&C 7
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, John the Beloved will live until the Lord comes; 4–8, Peter, James, and John hold gospel keys.
 
----
 ###### 1 
 And the Lord said unto me: John, my beloved, what desirest thou? For if you shall ask what you will, it shall be granted unto you.
 

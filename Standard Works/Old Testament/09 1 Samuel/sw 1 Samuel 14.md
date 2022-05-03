@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jonathan smites the garrison of the Philistines—Saul instructs the people to eat no food until evening—Unaware of the oath, Jonathan eats, and Saul decrees his death—He is rescued by the people—Saul vexes his enemies on every hand.
 
----
 ###### 1 
 Now it came to pass upon a day, that Jonathan the son of Saul said unto the young man that bare his armour, Come, and let us go over to the Philistines’ garrison, that  on the other side. But he told not his father.
 

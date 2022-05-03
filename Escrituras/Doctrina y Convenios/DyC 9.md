@@ -1,22 +1,21 @@
 ---
 title: DyC 9
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 9
 [[DyC 8| <-- DyC 8]] | [[DyC]] | [[DyC 10|DyC 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–6, Todavía han de traducirse otros anales antiguos; 7–14, El Libro de Mormón se traduce por el estudio y por la confirmación espiritual.
 
----
 ###### 1 
 He aquí, hijo mío, te digo que a causa de no haber traducido conforme a lo que deseaste de mí, y de haber empezado de nuevo a escribir por mi siervo José Smith, hijo, así quisiera yo que continuases hasta concluir estos anales que le he confiado a él.
 

@@ -1,22 +1,21 @@
 ---
 title: Mosíah 16
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 16
 [[Mosíah 15| <-- Mosíah 15]] | [[Mosíah]] | [[Mosíah 17|Mosíah 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dios redime a los hombres de su estado caído y perdido — Los que son de naturaleza carnal permanecen como si no hubiera habido redención — Cristo hace posible la resurrección a la vida sin fin o a la condenación sin fin. Aproximadamente 148 a.C.
 
----
 ###### 1 
 Y ahora bien, aconteció que después que Abinadí hubo hablado estas palabras, extendió la mano y dijo: Vendrá el día en que todos verán la salvación del Señor; en que toda nación, tribu, lengua y pueblo verán ojo a ojo, y confesarán ante Dios que sus juicios son justos.
 

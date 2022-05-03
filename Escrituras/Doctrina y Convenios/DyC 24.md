@@ -1,22 +1,21 @@
 ---
 title: DyC 24
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 24
 [[DyC 23| <-- DyC 23]] | [[DyC]] | [[DyC 25|DyC 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–9, José Smith es llamado a traducir, predicar y explicar las Escrituras; 10–12, Oliver Cowdery es llamado a predicar el Evangelio; 13–19, Se revela la ley concerniente a los milagros, a las maldiciones, al sacudir el polvo de los pies de uno y a salir sin bolsa ni alforja.
 
----
 ###### 1 
 He aquí, fuiste llamado y escogido para escribir el Libro de Mormón, y a mi ministerio; y te he elevado de tus aflicciones y te he aconsejado, de manera que has sido librado de todos tus enemigos, y de los poderes de Satanás y de las tinieblas.
 

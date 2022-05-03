@@ -1,22 +1,21 @@
 ---
 title: Proverbios 14
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 14
 [[Proverbios 13| <-- Proverbios 13]] | [[Proverbios]] | [[Proverbios 15|Proverbios 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Apártate de la presencia del hombre insensato — El testigo veraz libera las almas — La justicia engrandece a la nación.
 
----
 ###### 1 
 
 

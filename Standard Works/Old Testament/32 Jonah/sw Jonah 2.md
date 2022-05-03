@@ -1,10 +1,11 @@
 ---
 title: sw Jonah 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jonah 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jonah/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jonah prays to the Lord, and the fish vomits him out on dry ground.
 
----
 ###### 1 
 Then Jonah prayed unto the  his God out of the fish’s belly,
 

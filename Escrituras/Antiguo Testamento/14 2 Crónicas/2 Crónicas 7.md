@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 7
 [[2 Crónicas 6| <-- 2 Crónicas 6]] | [[2 Crónicas]] | [[2 Crónicas 8|2 Crónicas 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Desciende fuego del cielo que consume los sacrificios y los holocaustos — Jehová se le aparece a Salomón y promete bendecir al pueblo — Si los israelitas guardan los mandamientos, prosperarán.
 
----
 ###### 1 
 Y cuando Salomón acabó de orar, descendió fuego de los cielos y consumió el holocausto y los sacrificios; y la gloria de Jehová llenó la casa.
 

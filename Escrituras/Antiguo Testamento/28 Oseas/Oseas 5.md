@@ -1,22 +1,21 @@
 ---
 title: Oseas 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseas 5
 [[Oseas 4| <-- Oseas 4]] | [[Oseas]] | [[Oseas 6|Oseas 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/hosea/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los reinos de Judá y de Israel caerán por causa de sus iniquidades.
 
----
 ###### 1 
 Sacerdotes, oíd esto; y estad atentos, casa de Israel; y casa del rey, escuchad. Porque contra vosotros es el juicio, pues habéis sido trampa en Mizpa y red tendida sobre Tabor.
 

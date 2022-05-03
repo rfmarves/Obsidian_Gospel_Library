@@ -1,22 +1,21 @@
 ---
 title: Isaías 55
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 55
 [[Isaías 54| <-- Isaías 54]] | [[Isaías]] | [[Isaías 56|Isaías 56 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/55?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/55?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Venid y bebed, porque la salvación es gratuita — Jehová hará un convenio sempiterno con Israel — Buscad a Jehová mientras está cerca.
 
----
 ###### 1 
 Oh los sedientos, ¡venid a las aguas! Y los que no tienen dinero, ¡venid, comprad y comed! Venid, comprad sin dinero y sin precio, vino y leche.
 

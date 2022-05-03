@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 82
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 82
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/82?lang=eng)
 
----
+```
 A Psalm of Asaph.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Thus says the Lord, Ye are gods and children of the Most High.
 
----
 ###### 1 
 God standeth in the congregation of the mighty; he judgeth among the gods.
 

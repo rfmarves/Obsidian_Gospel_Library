@@ -1,27 +1,25 @@
 ---
 title: Salmos 46
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 46
 [[Salmos 45| <-- Salmos 45]] | [[Salmos]] | [[Salmos 47|Salmos 47 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/46?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/46?lang=por)
 
----
+```
 Cântico sobre Alamote, para o músico-mor entre os filhos de Coré.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Deus é nosso refúgio e fortaleza — Ele habita em Sua cidade, realiza coisas maravilhosas e diz: Aquietai-vos e sabei que Eu sou Deus.
 
----
 ###### 1 
 Deus  o nosso refúgio e fortaleza, socorro bem presente na angústia.
 

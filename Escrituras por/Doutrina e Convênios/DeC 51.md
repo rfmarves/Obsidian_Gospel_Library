@@ -1,22 +1,21 @@
 ---
 title: DeC 51
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 51
 [[DeC 50| <-- DeC 50]] | [[DeC]] | [[DeC 52|DeC 52 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/51?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/51?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–8, Edward Partridge é designado para regulamentar as mordomias e propriedades; 9–12, Os santos devem agir com honestidade e receber partes iguais; 13–15, Devem ter um armazém do bispo e organizar as propriedades de acordo com a lei do Senhor; 16–20, Ohio deve ser um lugar provisório de reunião.
 
----
 ###### 1 
 Escutai-me, diz o Senhor vosso Deus, e falarei a meu servo Edward Partridge e dar-lhe-ei instruções; porque é necessário que receba instruções sobre como organizar este povo.
 

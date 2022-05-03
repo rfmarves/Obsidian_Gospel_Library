@@ -1,22 +1,21 @@
 ---
 title: Alma 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 2
 [[Alma 1| <-- Alma 1]] | [[Alma]] | [[Alma 3|Alma 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Amlici intenta hacerse rey y lo rechaza la voz del pueblo — Sus partidarios lo hacen rey — Los amlicitas combaten contra los nefitas y son derrotados — Los lamanitas y los amlicitas unen sus fuerzas y son vencidos — Alma mata a Amlici. Aproximadamente 87 a.C.
 
----
 ###### 1 
 Y aconteció que al principio del quinto año de su gobierno, empezó a surgir la contención entre el pueblo, pues cierto hombre llamado Amlici —hombre muy astuto, sí, versado en la sabiduría del mundo, siendo de la orden del hombre que asesinó a Gedeón con la espada, y que fue ejecutado según la ley—
 

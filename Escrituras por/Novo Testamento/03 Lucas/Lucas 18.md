@@ -1,22 +1,21 @@
 ---
 title: Lucas 18
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 18
 [[Lucas 17| <-- Lucas 17]] | [[Lucas]] | [[Lucas 19|Lucas 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus conta a parábola do juiz injusto e a do fariseu e o publicano — Ele convida as crianças a se achegarem a Ele e ensina como alcançamos a vida eterna — Ele fala de Sua morte e ressurreição que se aproximam e concede visão a um homem cego.
 
----
 ###### 1 
 E contou-lhes também uma parábola  do dever de orar sempre, e nunca desfalecer,
 

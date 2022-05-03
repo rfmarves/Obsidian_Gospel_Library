@@ -1,22 +1,21 @@
 ---
 title: Palavras de Mórmon 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Palavras de Mórmon 1
 [[Ômni 1| <-- Ômni 1]] | [[Palavras de Mórmon]] | [[Mosias 1|Mosias 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/w-of-m/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/w-of-m/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mórmon resume as placas maiores de Néfi — Ele põe as placas menores com as outras placas — O rei Benjamim estabelece paz na terra. Aproximadamente 385 d.C.
 
----
 ###### 1 
 E agora eu, Mórmon, estando para entregar nas mãos de meu filho Morôni o registro que estive fazendo, eis que testemunhei quase toda a destruição de meu povo, os nefitas.
 

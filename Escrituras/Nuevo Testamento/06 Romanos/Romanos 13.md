@@ -1,22 +1,21 @@
 ---
 title: Romanos 13
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 13
 [[Romanos 12| <-- Romanos 12]] | [[Romanos]] | [[Romanos 14|Romanos 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo aconseja: Someteos a los siervos de Dios; guardad los mandamientos; amaos unos a otros; la rectitud conduce a la salvación.
 
----
 ###### 1 
 Sométase toda alma a las autoridades superiores, porque no hay autoridad sino de parte de Dios, y las que hay, por Dios son ordenadas.
 

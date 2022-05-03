@@ -1,22 +1,21 @@
 ---
 title: Mateo 26
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 26
 [[Mateo 25| <-- Mateo 25]] | [[Mateo]] | [[Mateo 27|Mateo 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús es ungido — Jesús celebra la Pascua e instituye la Santa Cena — Padece en Getsemaní; es entregado por Judas y llevado ante Caifás — Pedro niega conocer a Jesús.
 
----
 ###### 1 
 Y aconteció que, cuando Jesús hubo acabado todas estas palabras, dijo a sus discípulos:
 

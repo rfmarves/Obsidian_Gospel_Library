@@ -1,10 +1,11 @@
 ---
 title: sw Mormon 9
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mormon 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moroni calls upon those who do not believe in Christ to repent—He proclaims a God of miracles, who gives revelations and pours out gifts and signs upon the faithful—Miracles cease because of unbelief—Signs follow those who believe—Men are exhorted to be wise and keep the commandments. About A.D. 401–21.
 
----
 ###### 1 
 And now, I speak also concerning those who do not believe in Christ.
 

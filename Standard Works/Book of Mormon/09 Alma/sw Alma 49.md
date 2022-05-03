@@ -1,10 +1,11 @@
 ---
 title: sw Alma 49
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 49
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/49?lang=eng)
 
----
-__Summary__
+> __Summary__
 The invading Lamanites are unable to take the fortified cities of Ammonihah and Noah—Amalickiah curses God and swears to drink the blood of Moroni—Helaman and his brethren continue to strengthen the Church. About 72 B.C.
 
----
 ###### 1 
 And now it came to pass in the eleventh month of the nineteenth year, on the tenth day of the month, the armies of the Lamanites were seen approaching towards the land of Ammonihah.
 

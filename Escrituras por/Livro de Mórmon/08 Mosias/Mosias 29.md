@@ -1,22 +1,21 @@
 ---
 title: Mosias 29
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 29
 [[Mosias 28| <-- Mosias 28]] | [[Mosias]] | [[Alma 1|Alma 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/29?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/29?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mosias propõe que sejam escolhidos juízes em lugar de um rei — Reis injustos levam o povo ao pecado — Alma, o filho, é escolhido como juiz supremo pela voz do povo — Ele também é o sumo sacerdote da igreja — Alma, o pai, e Mosias morrem. Aproximadamente 92–91 a.C.
 
----
 ###### 1 
 Ora, tendo Mosias feito isto, mandou averiguar por toda a terra, entre todo o povo, qual a sua vontade concernente a quem deveria ser o rei.
 

@@ -1,22 +1,21 @@
 ---
 title: Isaías 39
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 39
 [[Isaías 38| <-- Isaías 38]] | [[Isaías]] | [[Isaías 40|Isaías 40 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/39?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/39?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequías muestra sus riquezas a Babilonia — Isaías profetiza el cautiverio en Babilonia.
 
----
 ###### 1 
 En aquel tiempo Merodac-baladán hijo de Baladán, rey de Babilonia, envió cartas y un presente a Ezequías, porque había oído que Ezequías había estado enfermo y que había convalecido.
 

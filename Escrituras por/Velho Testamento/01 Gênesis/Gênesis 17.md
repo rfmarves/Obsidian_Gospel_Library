@@ -1,22 +1,21 @@
 ---
 title: Gênesis 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 17
 [[Gênesis 16| <-- Gênesis 16]] | [[Gênesis]] | [[Gênesis 18|Gênesis 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 É ordenado a Abrão que seja perfeito — Ele será pai de muitas nações — Seu nome é mudado para Abraão — O Senhor faz convênio de ser o Deus de Abraão e de sua semente para sempre — Também lhe dá a terra de Canaã em perpétua possessão — A circuncisão se torna um sinal do convênio eterno entre Deus e Abraão — O nome de Sarai é mudado para Sara — Ela dará à luz Isaque, com quem o Senhor estabelecerá Seu convênio — Abraão e todos os homens de sua casa são circuncidados.
 
----
 ###### 1 
 Sendo, pois, Abrão da idade de noventa e nove anos, apareceu o  a Abrão, e disse-lhe: Eu  o Deus Todo-Poderoso, anda em minha presença e sê perfeito.
 

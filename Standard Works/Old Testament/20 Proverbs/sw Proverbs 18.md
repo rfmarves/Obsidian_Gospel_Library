@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 A fool’s mouth is his destruction—Whoever obtains a wife obtains a good thing—A man who has friends must show himself friendly.
 
----
 ###### 1 
 Through desire a man, having separated himself, seeketh  intermeddleth with all wisdom.
 

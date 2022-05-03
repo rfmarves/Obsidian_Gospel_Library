@@ -1,22 +1,21 @@
 ---
 title: Lamentações 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lamentações 3
 [[Lamentações 2| <-- Lamentações 2]] | [[Lamentações]] | [[Lamentações 4|Lamentações 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lam/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lam/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias, falando em nome de Judá, lamenta a calamidade, mas confia no Senhor e ora pedindo libertação.
 
----
 ###### 1 
 Eu sou aquele homem  viu a aflição pela vara do seu furor.
 

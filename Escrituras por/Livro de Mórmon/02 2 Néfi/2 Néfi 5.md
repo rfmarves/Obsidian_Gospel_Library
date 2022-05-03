@@ -1,22 +1,21 @@
 ---
 title: 2 Néfi 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Néfi 5
 [[2 Néfi 4| <-- 2 Néfi 4]] | [[2 Néfi]] | [[2 Néfi 6|2 Néfi 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os nefitas separam-se dos lamanitas, guardam a lei de Moisés e constroem um templo — Por causa de sua incredulidade, os lamanitas são afastados da presença do Senhor e tornam-se um flagelo para os nefitas. Aproximadamente 588–559 a.C.
 
----
 ###### 1 
 Eis que aconteceu que eu, Néfi, muito clamei ao Senhor meu Deus por causa da ira de meus irmãos.
 

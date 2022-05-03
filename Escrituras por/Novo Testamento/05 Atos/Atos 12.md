@@ -1,22 +1,21 @@
 ---
 title: Atos 12
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 12
 [[Atos 11| <-- Atos 11]] | [[Atos]] | [[Atos 13|Atos 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Descreve-se o martírio de Tiago — Um anjo liberta Pedro da prisão — O Senhor mata Herodes com uma doença — A Igreja cresce.
 
----
 ###### 1 
 E por aquele mesmo tempo o rei Herodes estendeu as mãos sobre alguns da igreja, para os maltratar;
 

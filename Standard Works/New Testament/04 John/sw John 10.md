@@ -1,10 +1,11 @@
 ---
 title: sw John 10
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus is the Good Shepherd—He gained power over death from His Father—He promises to visit His other sheep—He proclaims, I am the Son of God.
 
----
 ###### 1 
 Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.
 

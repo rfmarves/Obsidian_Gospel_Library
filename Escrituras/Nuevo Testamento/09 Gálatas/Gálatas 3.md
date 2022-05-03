@@ -1,22 +1,21 @@
 ---
 title: Gálatas 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gálatas 3
 [[Gálatas 2| <-- Gálatas 2]] | [[Gálatas]] | [[Gálatas 4|Gálatas 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/gal/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/gal/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dios dio el Evangelio a Abraham — La ley de Moisés se añadió por causa de las transgresiones — La ley fue un ayo hasta Cristo — Los santos son hijos de Dios por la fe — Todos los que son de la fe y son bautizados en Cristo llegan a ser descendencia de Abraham.
 
----
 ###### 1 
 ¡Oh gálatas insensatos! ¿Quién os fascinó, para no obedecer la verdad, a vosotros, ante cuyos ojos Jesucristo fue ya presentado claramente  crucificado?
 

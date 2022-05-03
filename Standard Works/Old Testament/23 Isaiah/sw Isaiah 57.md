@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 57
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 57
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/57?lang=eng)
 
----
-__Summary__
+> __Summary__
 When the righteous die, they enter into peace—Mercy is promised to the penitent—There is no peace for the wicked.
 
----
 ###### 1 
 The righteous perisheth, and no man layeth  to heart: and merciful men  taken away, none considering that the righteous is taken away from the evil 
 

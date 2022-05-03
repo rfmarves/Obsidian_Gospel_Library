@@ -1,22 +1,21 @@
 ---
 title: Salmos 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 1
 [[Jó 42| <-- Jó 42]] | [[Salmos]] | [[Salmos 2|Salmos 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Bem-aventurados são os justos — Os ímpios perecerão.
 
----
 ###### 1 
 Bem-aventurado o homem que não anda no conselho dos ímpios, nem está no caminho dos pecadores, nem se assenta na roda dos escarnecedores.
 

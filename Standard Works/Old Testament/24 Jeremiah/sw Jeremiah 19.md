@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord will bring evil upon Judah—They sacrifice their children to Baal—In the siege they will eat the flesh of their sons and daughters.
 
----
 ###### 1 
 Thus saith the , Go and get a potter’s earthen bottle, and  of the ancients of the people, and of the ancients of the priests;
 

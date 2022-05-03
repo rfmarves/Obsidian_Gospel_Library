@@ -1,27 +1,25 @@
 ---
 title: Salmos 39
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 39
 [[Salmos 38| <-- Salmos 38]] | [[Salmos]] | [[Salmos 40|Salmos 40 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/39?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/39?lang=spa)
 
----
+```
 Al músico principal: a Jedutún. Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David procura dominar su lengua — El hombre no es más que vanidad — David es extranjero y peregrino en la tierra.
 
----
 ###### 1 
 
 

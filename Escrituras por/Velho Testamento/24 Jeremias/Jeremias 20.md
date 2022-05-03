@@ -1,22 +1,21 @@
 ---
 title: Jeremias 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 20
 [[Jeremias 19| <-- Jeremias 19]] | [[Jeremias]] | [[Jeremias 21|Jeremias 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias é ferido e colocado no cepo — Ele profetiza que todos de Judá serão levados cativos para Babilônia.
 
----
 ###### 1 
 E Pasur, filho de Imer, o sacerdote, que havia sido nomeado presidente na casa do , ouviu a Jeremias, que profetizava estas palavras.
 

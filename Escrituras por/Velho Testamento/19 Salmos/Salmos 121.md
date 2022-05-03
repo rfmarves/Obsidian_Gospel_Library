@@ -1,27 +1,25 @@
 ---
 title: Salmos 121
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 121
 [[Salmos 120| <-- Salmos 120]] | [[Salmos]] | [[Salmos 122|Salmos 122 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/121?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/121?lang=por)
 
----
+```
 Cântico das subidas.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 O socorro vem do Senhor — Ele é o guardião de Israel.
 
----
 ###### 1 
 Levantarei os meus olhos para os montes, de onde vem a minha salvação.
 

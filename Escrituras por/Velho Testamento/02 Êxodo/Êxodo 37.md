@@ -1,22 +1,21 @@
 ---
 title: Êxodo 37
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 37
 [[Êxodo 36| <-- Êxodo 36]] | [[Êxodo]] | [[Êxodo 38|Êxodo 38 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/37?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/37?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Bezalel faz a arca, o propiciatório e os querubins — Ele faz a mesa, os utensílios, o candelabro, o altar do incenso, o azeite santo da unção e o incenso aromático.
 
----
 ###### 1 
 Fez também Bezalel a arca de madeira  acácia; o seu comprimento  de dois côvados e meio; e a sua largura de um côvado e meio; e a sua altura de um côvado e meio.
 

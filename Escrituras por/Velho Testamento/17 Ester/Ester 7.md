@@ -1,22 +1,21 @@
 ---
 title: Ester 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 7
 [[Ester 6| <-- Ester 6]] | [[Ester]] | [[Ester 8|Ester 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/esth/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ester revela o complô de Hamã para destruir os judeus — Ele é enforcado em sua própria forca.
 
----
 ###### 1 
 Indo, pois, o rei com Hamã, para beber com a rainha Ester,
 

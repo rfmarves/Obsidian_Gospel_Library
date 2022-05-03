@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 2
 [[2 Samuel 1| <-- 2 Samuel 1]] | [[2 Samuel]] | [[2 Samuel 3|2 Samuel 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi é ungido rei sobre a casa de Judá — Is-Bosete torna-se rei de Israel — Os seguidores de Davi derrotam Abner e os homens de Israel.
 
----
 ###### 1 
 E sucedeu depois disso que Davi consultou ao , dizendo: Subirei a alguma das cidades de Judá? E disse-lhe o : Sobe. E disse Davi: Para onde subirei? E disse: Para Hebrom.
 

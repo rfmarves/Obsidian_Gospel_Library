@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 14
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 14
 [[1 Nefi 13| <-- 1 Nefi 13]] | [[1 Nefi]] | [[1 Nefi 15|1 Nefi 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Un ángel le informa a Nefi acerca de las bendiciones y las maldiciones que caerán sobre los gentiles — Solamente hay dos iglesias: la Iglesia del Cordero de Dios y la iglesia del diablo — Los santos de Dios son perseguidos en todas las naciones por la iglesia grande y abominable — El apóstol Juan escribirá tocante al fin del mundo. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 Y sucederá que si los gentiles escucharen al Cordero de Dios el día en que él mismo se manifieste a ellos, tanto en palabra, como también en poder, real y verdaderamente, para quitar sus tropiezos,
 

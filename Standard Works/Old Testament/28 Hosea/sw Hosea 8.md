@@ -1,10 +1,11 @@
 ---
 title: sw Hosea 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hosea 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Both Israel and Judah have forsaken the Lord—The Lord has written the great things of His law to Ephraim.
 
----
 ###### 1 
  the trumpet to thy mouth.  as an eagle against the house of the , because they have transgressed my covenant, and trespassed against my law.
 

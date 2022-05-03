@@ -1,22 +1,21 @@
 ---
 title: Josué 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 19
 [[Josué 18| <-- Josué 18]] | [[Josué]] | [[Josué 20|Josué 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Simeão, Zebulom, Issacar, Aser, Naftali e Dã recebem sua herança por sorteio.
 
----
 ###### 1 
 E saiu a segunda sorte para Simeão, para a tribo dos filhos de Simeão, segundo as suas famílias; e foi a sua herança no meio da herança dos filhos de Judá.
 

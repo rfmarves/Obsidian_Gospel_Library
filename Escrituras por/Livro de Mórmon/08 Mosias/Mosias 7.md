@@ -1,22 +1,21 @@
 ---
 title: Mosias 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 7
 [[Mosias 6| <-- Mosias 6]] | [[Mosias]] | [[Mosias 8|Mosias 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amon descobre a terra de Leí-Néfi, onde Lími é rei — O povo de Lími está sob o jugo dos lamanitas — Lími relata a história deles — Um profeta (Abinádi) testificara que Cristo é o Deus e Pai de todas as coisas — Aqueles que semeiam imundície colhem vendaval; e aqueles que põem sua confiança no Senhor serão libertados. Aproximadamente 121 a.C.
 
----
 ###### 1 
 Ora, aconteceu que depois de haver o rei Mosias tido paz contínua pelo espaço de três anos, desejou saber sobre o povo que subira para habitar na terra de Leí-Néfi, ou seja, na cidade de Leí-Néfi; porque seu povo nada soubera deles desde a época em que haviam deixado a terra de Zaraenla; portanto, importunavam-no com sua insistência.
 

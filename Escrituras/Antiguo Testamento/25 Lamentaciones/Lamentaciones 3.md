@@ -1,22 +1,21 @@
 ---
 title: Lamentaciones 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lamentaciones 3
 [[Lamentaciones 2| <-- Lamentaciones 2]] | [[Lamentaciones]] | [[Lamentaciones 4|Lamentaciones 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lam/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lam/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías, hablando por Judá, lamenta la calamidad, pero confía en Jehová y ora, suplicando la liberación.
 
----
 ###### 1 
 
 

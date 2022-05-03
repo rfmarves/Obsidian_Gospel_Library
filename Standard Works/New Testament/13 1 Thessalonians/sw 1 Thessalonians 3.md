@@ -1,10 +1,11 @@
 ---
 title: sw 1 Thessalonians 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Thessalonians 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Saints are told to perfect that which is lacking in their faith.
 
----
 ###### 1 
 Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;
 

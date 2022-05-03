@@ -1,22 +1,21 @@
 ---
 title: 2 João 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 João 1
 [[1 João 5| <-- 1 João 5]] | [[2 João]] | [[3 João 1|3 João 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-jn/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-jn/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 João se regozija porque os filhos da senhora eleita são leais e fiéis.
 
----
 ###### 1 
 O ancião à senhora eleita, e a seus filhos, os quais eu amo na verdade, e não somente eu, mas também todos os que conhecem a verdade,
 

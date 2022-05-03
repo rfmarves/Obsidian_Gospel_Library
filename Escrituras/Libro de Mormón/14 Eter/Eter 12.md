@@ -1,22 +1,21 @@
 ---
 title: Eter 12
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eter 12
 [[Eter 11| <-- Eter 11]] | [[Eter]] | [[Eter 13|Eter 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El profeta Éter exhorta al pueblo a creer en Dios — Moroni relata las maravillas y los milagros que se efectúan por medio de la fe — La fe permitió al hermano de Jared ver a Cristo — El Señor da debilidad a los hombres para que sean humildes — Por medio de la fe, el hermano de Jared causó que el monte de Zerín se apartara — La fe, la esperanza y la caridad son esenciales para la salvación — Moroni vio a Jesús cara a cara.
 
----
 ###### 1 
 Y sucedió que Éter vivió en los días de Coriántumr; y Coriántumr era rey de toda la tierra.
 

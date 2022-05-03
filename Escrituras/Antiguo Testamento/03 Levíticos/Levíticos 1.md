@@ -1,22 +1,21 @@
 ---
 title: Levíticos 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 1
 [[Éxodo 40| <-- Éxodo 40]] | [[Levíticos]] | [[Levíticos 2|Levíticos 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se sacrifican animales sin defecto como expiación por los pecados — Los holocaustos son ofrenda de olor grato a Jehová.
 
----
 ###### 1 
 Y llamó Jehová a Moisés y habló con él desde el tabernáculo de reunión, diciendo:
 

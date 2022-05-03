@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 27
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 The children of Israel are to cross the Jordan, build an altar, and worship the Lord—They are the Lord’s people but will be cursed if they do not obey Him.
 
----
 ###### 1 
 And Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The law of the Nazarite is explained, whereby the children of Israel may consecrate themselves to the Lord by a vow—They drink no wine nor strong drink and if defiled must shave their heads—The Lord reveals the blessing to be used by Aaron and his sons in blessing Israel.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

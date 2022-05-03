@@ -1,22 +1,21 @@
 ---
 title: Hebreus 4
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreus 4
 [[Hebreus 3| <-- Hebreus 3]] | [[Hebreus]] | [[Hebreus 5|Hebreus 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O evangelho foi oferecido à antiga Israel — Os santos entram no repouso do Senhor — Embora tentado em todos os aspectos, Jesus permaneceu sem pecado.
 
----
 ###### 1 
 Temamos, pois, que, porventura sendo-nos deixada a promessa de entrar no seu repouso, pareça que algum de vós fique para trás.
 

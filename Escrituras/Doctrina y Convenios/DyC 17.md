@@ -1,22 +1,21 @@
 ---
 title: DyC 17
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 17
 [[DyC 16| <-- DyC 16]] | [[DyC]] | [[DyC 18|DyC 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, Por medio de la fe, los Tres Testigos verán las planchas y otros objetos sagrados; 5–9, Cristo da testimonio de la divinidad del Libro de Mormón.
 
----
 ###### 1 
 He aquí, os digo que tenéis que confiar en mi palabra, y si lo hacéis con íntegro propósito de corazón, veréis las planchas, y también el pectoral, la espada de Labán, el Urim y Tumim que le fue dado al hermano de Jared en el monte, cuando habló cara a cara con el Señor, así como los directores milagrosos que recibió Lehi mientras se hallaba en el desierto, en las inmediaciones del mar Rojo.
 

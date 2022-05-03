@@ -1,22 +1,21 @@
 ---
 title: Mateus 11
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 11
 [[Mateus 10| <-- Mateus 10]] | [[Mateus]] | [[Mateus 12|Mateus 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus declara que João é mais do que um profeta — As cidades de Corazim, Betsaida e Cafarnaum são repreendidas por sua incredulidade — O Filho revela o Pai — O jugo de Cristo é suave, e o Seu fardo é leve.
 
----
 ###### 1 
 E aconteceu que, acabando Jesus de instruir seus doze discípulos, partiu dali a ensinar e a pregar nas cidades deles.
 

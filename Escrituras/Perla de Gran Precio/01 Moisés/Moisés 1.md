@@ -1,25 +1,24 @@
 ---
 title: Moisés 1
-tags: #Escrituras\PdGP
+tags: Escrituras\PdGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moisés 1
 | [[Moisés]] | [[Moisés 2|Moisés 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=spa)
 
 Moisés
 (Junio de 1830)
 
----
-__Resumen__
+> __Resumen__
 Dios se revela a Moisés — Este es transfigurado — Moisés tiene una confrontación con Satanás — Moisés ve muchos mundos habitados — El Hijo ha creado mundos sin número — La obra y la gloria de Dios es llevar a cabo la inmortalidad y la vida eterna del hombre.
 
----
 ###### 1 
 Las palabras de Dios, las cuales habló a Moisés en una ocasión en que Moisés fue arrebatado a una montaña extremadamente alta,
 

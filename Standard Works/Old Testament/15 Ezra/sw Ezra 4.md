@@ -1,10 +1,11 @@
 ---
 title: sw Ezra 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezra 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Samaritans offer help, then hinder the work—The building of the temple and of the walls of Jerusalem ceases.
 
----
 ###### 1 
 Now when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple unto the  God of Israel;
 

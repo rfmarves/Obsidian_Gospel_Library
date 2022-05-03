@@ -1,10 +1,11 @@
 ---
 title: sw James 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw James 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/james/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Wars are born of lusts—The friends of the world are the enemies of God—Sin is failure to walk in the light we have received.
 
----
 ###### 1 
 From whence  wars and fightings among you?  not hence,  of your lusts that war in your members?
 

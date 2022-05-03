@@ -1,10 +1,11 @@
 ---
 title: sw 2 Timothy 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Timothy 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ brings immortality and eternal life through the gospel—Be strong in the faith.
 
----
 ###### 1 
 Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,
 

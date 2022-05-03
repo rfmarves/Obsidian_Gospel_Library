@@ -1,22 +1,21 @@
 ---
 title: Lucas 9
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 9
 [[Lucas 8| <-- Lucas 8]] | [[Lucas]] | [[Lucas 10|Lucas 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se envía a los Doce a predicar — Jesús alimenta a cinco mil — Pedro testifica de Cristo — Jesús predice Su muerte y Su resurrección — Se transfigura en el monte — Sana y enseña.
 
----
 ###### 1 
 Y reuniendo a sus doce discípulos, les dio poder y autoridad sobre todos los demonios y para sanar enfermedades.
 

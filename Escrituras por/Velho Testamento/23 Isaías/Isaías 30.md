@@ -1,22 +1,21 @@
 ---
 title: Isaías 30
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 30
 [[Isaías 29| <-- Isaías 29]] | [[Isaías]] | [[Isaías 31|Isaías 31 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/30?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/30?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel é dispersa por rejeitar seus videntes e profetas — O povo de Israel será reunido e abençoado temporal e espiritualmente — O Senhor virá num dia de apostasia para julgar e destruir os iníquos.
 
----
 ###### 1 
 Ai dos filhos que se rebelam, diz o , que tomam conselho, mas não de mim; e que se cobrem com uma cobertura, mas não  do meu espírito; para  acrescentarem pecado sobre pecado,
 

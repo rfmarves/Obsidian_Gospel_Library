@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 41
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 41
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/41?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A messianic psalm of David—Blessed is he who considers the poor—The treachery of Judas is foretold.
 
----
 ###### 1 
 Blessed  he that considereth the poor: the  will deliver him in time of trouble.
 

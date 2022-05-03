@@ -1,22 +1,21 @@
 ---
 title: Tito 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Tito 1
 [[2 Timoteo 4| <-- 2 Timoteo 4]] | [[Tito]] | [[Tito 2|Tito 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/titus/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/titus/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La vida eterna se prometió antes del principio de los tiempos — Se dan los requisitos que deben cumplir los obispos — Todas las cosas son puras para los puros.
 
----
 ###### 1 
 Pablo, siervo de Dios y apóstol de Jesucristo, según la fe de los escogidos de Dios, y el pleno conocimiento de la verdad que es según la piedad,
 

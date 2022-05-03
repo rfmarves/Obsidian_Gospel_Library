@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Go from the presence of a foolish man—A true witness delivers souls—Righteousness exalts a nation.
 
----
 ###### 1 
 Every wise woman buildeth her house: but the foolish plucketh it down with her hands.
 

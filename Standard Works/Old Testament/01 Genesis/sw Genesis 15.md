@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abram desires offspring—The Lord promises him seed in number as the stars—Abram believes the promise—His seed will be strangers in Egypt—Then, after four generations, they will inherit Canaan.
 
----
 ###### 1 
 After these things the word of the  came unto Abram in a vision, saying, Fear not, Abram: I  thy shield,  thy exceeding great reward.
 

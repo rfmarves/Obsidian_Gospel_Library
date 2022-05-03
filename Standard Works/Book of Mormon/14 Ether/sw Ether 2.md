@@ -1,10 +1,11 @@
 ---
 title: sw Ether 2
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ether 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Jaredites prepare for their journey to a promised land—It is a choice land whereon men must serve Christ or be swept off—The Lord talks to the brother of Jared for three hours—The Jaredites build barges—The Lord asks the brother of Jared to propose how the barges will be lighted.
 
----
 ###### 1 
 And it came to pass that Jared and his brother, and their families, and also the friends of Jared and his brother and their families, went down into the valley which was northward, (and the name of the valley was Nimrod, being called after the mighty hunter) with their flocks which they had gathered together, male and female, of every kind.
 

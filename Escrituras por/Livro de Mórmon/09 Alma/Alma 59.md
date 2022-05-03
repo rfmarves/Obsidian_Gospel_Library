@@ -1,22 +1,21 @@
 ---
 title: Alma 59
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 59
 [[Alma 58| <-- Alma 58]] | [[Alma]] | [[Alma 60|Alma 60 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/59?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/59?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Morôni pede a Paorã que reforce as tropas de Helamã — Os lamanitas tomam a cidade de Nefia — Morôni irrita-se com o governo. Aproximadamente 62 a.C.
 
----
 ###### 1 
 Ora, aconteceu que no trigésimo ano em que os juízes governaram o povo de Néfi, depois de haver recebido e lido a epístola de Helamã, Morôni alegrou-se imensamente em virtude do bem-estar, sim, do grande êxito de Helamã, reconquistando aquelas terras que haviam sido perdidas.
 

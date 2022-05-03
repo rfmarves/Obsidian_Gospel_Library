@@ -1,22 +1,21 @@
 ---
 title: Salmos 118
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 118
 [[Salmos 117| <-- Salmos 117]] | [[Salmos]] | [[Salmos 119|Salmos 119 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/118?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/118?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Salmo mesiánico — Diga todo Israel de Jehová: Su misericordia es para siempre — La Piedra que desecharon los edificadores ha venido a ser la cabeza del ángulo — Bendito el que viene en el nombre de Jehová.
 
----
 ###### 1 
 
 

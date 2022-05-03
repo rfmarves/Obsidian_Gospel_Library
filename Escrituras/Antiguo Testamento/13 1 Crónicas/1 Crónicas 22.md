@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 22
 [[1 Crónicas 21| <-- 1 Crónicas 21]] | [[1 Crónicas]] | [[1 Crónicas 23|1 Crónicas 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David prepara oro, plata, bronce, hierro, piedra y madera de cedro para el templo — Encomienda a Salomón que lleve a cabo la obra de construirlo.
 
----
 ###### 1 
 Y dijo David: Esta es la casa de Jehová Dios, y este es el altar del holocausto para Israel.
 

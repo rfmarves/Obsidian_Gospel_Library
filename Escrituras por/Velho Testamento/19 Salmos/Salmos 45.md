@@ -1,27 +1,25 @@
 ---
 title: Salmos 45
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 45
 [[Salmos 44| <-- Salmos 44]] | [[Salmos]] | [[Salmos 46|Salmos 46 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/45?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/45?lang=por)
 
----
+```
 Masquil, cântico de amor, para o músico-mor, entre os filhos de Coré, sobre Shoshanim.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo messiânico — O Messias é mais formoso do que os filhos dos homens — Ele é ungido com óleo de alegria mais do que Seus companheiros — Seu nome será lembrado de geração em geração.
 
----
 ###### 1 
 O meu coração ferve com palavras boas, falo do que tenho feito no tocante ao Rei; a minha língua  a pena de um destro escritor.
 

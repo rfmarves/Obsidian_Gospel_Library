@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 27
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 27
 [[Deuteronômio 26| <-- Deuteronômio 26]] | [[Deuteronômio]] | [[Deuteronômio 28|Deuteronômio 28 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/27?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Israel cruzarão o Jordão, edificarão um altar e adorarão o Senhor — Eles são o povo do Senhor, mas serão amaldiçoados se não obedecerem a Ele.
 
----
 ###### 1 
 E deram ordem, Moisés e os anciãos, ao povo de Israel, dizendo: Guardai todos estes mandamentos que hoje vos ordeno.
 

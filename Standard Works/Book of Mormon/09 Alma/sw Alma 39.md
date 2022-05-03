@@ -1,10 +1,11 @@
 ---
 title: sw Alma 39
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 39
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/39?lang=eng)
 
----
+```
 The commandments of Alma to his son Corianton.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Sexual sin is an abomination—Corianton’s sins kept the Zoramites from receiving the word—Christ’s redemption is retroactive in saving the faithful who preceded it. About 74 B.C.
 
----
 ###### 1 
 And now, my son, I have somewhat more to say unto thee than what I said unto thy brother; for behold, have ye not observed the steadiness of thy brother, his faithfulness, and his diligence in keeping the commandments of God? Behold, has he not set a good example for thee?
 

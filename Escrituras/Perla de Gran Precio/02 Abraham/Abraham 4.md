@@ -1,22 +1,21 @@
 ---
 title: Abraham 4
-tags: #Escrituras\PdGP
+tags: Escrituras\PdGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Abraham 4
 [[Abraham 3| <-- Abraham 3]] | [[Abraham]] | [[Abraham 5|Abraham 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/pgp/abr/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/pgp/abr/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los Dioses proyectan la creación de la tierra y toda vida sobre ella — Se exponen los planes de los seis días de la creación.
 
----
 ###### 1 
 Entonces el Señor dijo: Descendamos. Y descendieron en el principio, y ellos, esto es, los Dioses, organizaron y formaron los cielos y la tierra.
 

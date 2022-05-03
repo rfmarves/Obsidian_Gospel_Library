@@ -1,22 +1,21 @@
 ---
 title: 1 Reyes 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reyes 19
 [[1 Reyes 18| <-- 1 Reyes 18]] | [[1 Reyes]] | [[1 Reyes 20|1 Reyes 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jezabel procura matar a Elías el Profeta — Un ángel envía a Elías a Horeb — Jehová habla a Elías, no en el viento, ni en el terremoto, ni en el fuego, sino con voz apacible y delicada — Eliseo se une a Elías el Profeta.
 
----
 ###### 1 
 Y Acab dio la nueva a Jezabel de todo lo que Elías había hecho y de cómo había matado a espada a todos los profetas.
 

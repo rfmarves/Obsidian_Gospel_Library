@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 19
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/19?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David testifies, The heavens declare the glory of God, the law of the Lord is perfect, and the judgments of the Lord are true and righteous altogether.
 
----
 ###### 1 
 The heavens declare the glory of God; and the firmament sheweth his handywork.
 

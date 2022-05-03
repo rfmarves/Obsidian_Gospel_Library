@@ -1,22 +1,21 @@
 ---
 title: Jeremias 39
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 39
 [[Jeremias 38| <-- Jeremias 38]] | [[Jeremias]] | [[Jeremias 40|Jeremias 40 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/39?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/39?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jerusalém é tomada, e o povo é levado cativo — Jeremias e Ebede-Meleque, o etíope, são preservados.
 
----
 ###### 1 
 No ano nono de Zedequias, rei de Judá, no mês décimo, veio Nabucodonosor, rei de Babilônia, e todo o seu exército, contra Jerusalém, e a cercaram.
 

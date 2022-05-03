@@ -1,27 +1,25 @@
 ---
 title: Salmos 82
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 82
 [[Salmos 81| <-- Salmos 81]] | [[Salmos]] | [[Salmos 83|Salmos 83 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/82?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/82?lang=por)
 
----
+```
 Salmo de Asafe.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Assim diz o Senhor: Vós sois deuses e filhos do Altíssimo.
 
----
 ###### 1 
 Deus está na congregação dos poderosos; julga no meio dos deuses.
 

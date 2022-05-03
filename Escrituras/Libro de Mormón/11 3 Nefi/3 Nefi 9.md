@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 9
 [[3 Nefi 8| <-- 3 Nefi 8]] | [[3 Nefi]] | [[3 Nefi 10|3 Nefi 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En medio de las tinieblas, la voz de Cristo proclama la destrucción de muchas personas y ciudades por motivo de sus iniquidades — Cristo también proclama Su divinidad, anuncia que la ley de Moisés se ha cumplido e invita a los hombres a venir a Él y ser salvos. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Y sucedió que se oyó una voz entre todos los habitantes de la tierra, por toda la superficie de esta tierra, clamando:
 

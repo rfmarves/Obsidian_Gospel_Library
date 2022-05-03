@@ -1,22 +1,21 @@
 ---
 title: Êxodo 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 12
 [[Êxodo 11| <-- Êxodo 11]] | [[Êxodo]] | [[Êxodo 13|Êxodo 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor institui a Páscoa e a Festa dos Pães Ázimos — São mortos cordeiros sem defeito — Israel é salvo pelo sangue deles — Todos os primogênitos dos egípcios são mortos — Israel é expulso do Egito após quatrocentos e trinta anos — Nenhum osso do cordeiro pascal será quebrado.
 
----
 ###### 1 
 E falou o  a Moisés e a Aarão na terra do Egito, dizendo:
 

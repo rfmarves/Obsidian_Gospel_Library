@@ -1,22 +1,21 @@
 ---
 title: Zacarías 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarías 4
 [[Zacarías 3| <-- Zacarías 3]] | [[Zacarías]] | [[Zacarías 5|Zacarías 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Zorobabel echará los cimientos de la casa de Jehová y la acabará: El templo de Zorobabel.
 
----
 ###### 1 
 Y volvió el ángel que hablaba conmigo y me despertó, como a un hombre que es despertado de su sueño.
 

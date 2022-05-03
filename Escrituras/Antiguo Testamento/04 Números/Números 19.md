@@ -1,22 +1,21 @@
 ---
 title: Números 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 19
 [[Números 18| <-- Números 18]] | [[Números]] | [[Números 20|Números 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se dan indicaciones para el sacrificio de la vaca de pelo rojizo — Se usa el agua para la purificación de la impureza a fin de limpiar el pecado — Las personas impuras son rociadas con el agua de la purificación.
 
----
 ###### 1 
 Y Jehová habló a Moisés y a Aarón, diciendo:
 

@@ -1,22 +1,21 @@
 ---
 title: Lucas 8
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 8
 [[Lucas 7| <-- Lucas 7]] | [[Lucas]] | [[Lucas 9|Lucas 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus conta e interpreta a parábola do semeador — Ele acalma a tempestade; expulsa uma legião de demônios, que entram em porcos; cura uma mulher de um fluxo de sangue; e revive a filha de Jairo.
 
----
 ###### 1 
 E aconteceu, depois disto, que andava de cidade em cidade, e de aldeia em aldeia, pregando e anunciando o evangelho do reino de Deus; e os doze  com ele,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 36
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 36
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/36?lang=eng)
 
----
-__Summary__
+> __Summary__
 Baruch writes the prophecies of Jeremiah and reads them in the house of the Lord—Jehoiakim, the king, burns the book, and judgment comes upon him—Jeremiah dictates the prophecies again and adds many more.
 
----
 ###### 1 
 And it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah,  this word came unto Jeremiah from the , saying,
 

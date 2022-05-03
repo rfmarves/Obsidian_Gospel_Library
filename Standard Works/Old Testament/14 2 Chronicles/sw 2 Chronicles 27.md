@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 27
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jotham reigns, builds up the kingdom, and subdues the Ammonites.
 
----
 ###### 1 
 Jotham  twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name also  Jerushah, the daughter of Zadok.
 

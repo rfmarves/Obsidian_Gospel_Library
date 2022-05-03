@@ -1,22 +1,21 @@
 ---
 title: Hebreos 6
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreos 6
 [[Hebreos 5| <-- Hebreos 5]] | [[Hebreos]] | [[Hebreos 7|Hebreos 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Sigamos adelante a la perfección — Los hijos de perdición crucifican a Cristo de nuevo — Dios confirma con juramento que los fieles serán salvos.
 
----
 ###### 1 
 Por tanto, dejando el comienzo de la doctrina de Cristo, vamos adelante a la perfección, no echando otra vez el fundamento del arrepentimiento de obras muertas, y de la fe en Dios,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ezra 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezra 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Haggai and Zechariah prophesy—Zerubbabel renews the building of the temple—The Samaritans challenge the Jews’ right to continue their building work.
 
----
 ###### 1 
 Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that  in Judah and Jerusalem in the name of the God of Israel,  unto them.
 

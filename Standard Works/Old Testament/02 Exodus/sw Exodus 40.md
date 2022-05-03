@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 40
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 40
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/40?lang=eng)
 
----
-__Summary__
+> __Summary__
 The tabernacle is reared—Aaron and his sons are washed and anointed and given an everlasting priesthood—The glory of the Lord fills the tabernacle—A cloud covers the tabernacle by day, and fire rests on it by night.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

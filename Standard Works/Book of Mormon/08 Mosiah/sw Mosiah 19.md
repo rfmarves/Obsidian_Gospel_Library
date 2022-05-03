@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 19
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Gideon seeks to slay King Noah—The Lamanites invade the land—King Noah suffers death by fire—Limhi rules as a tributary monarch. About 145–121 B.C.
 
----
 ###### 1 
 And it came to pass that the army of the king returned, having searched in vain for the people of the Lord.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 16
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 God pours out plagues upon the wicked—The nations assemble for Armageddon—Christ comes, islands flee, and mountains cease.
 
----
 ###### 1 
 And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth.
 

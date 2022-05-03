@@ -1,22 +1,21 @@
 ---
 title: 1 Tessalonicenses 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Tessalonicenses 1
 [[Colossenses 4| <-- Colossenses 4]] | [[1 Tessalonicenses]] | [[1 Tessalonicenses 2|1 Tessalonicenses 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O evangelho vem tanto pela palavra quanto pelo poder.
 
----
 ###### 1 
 Paulo, e Silvano, e Timóteo, à igreja dos tessalonicenses em Deus, o Pai, e  Senhor Jesus Cristo: Graça e paz tenhais de Deus, nosso Pai, e do Senhor Jesus Cristo.
 

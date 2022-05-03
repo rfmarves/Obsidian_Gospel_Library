@@ -1,22 +1,21 @@
 ---
 title: Génesis 30
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 30
 [[Génesis 29| <-- Génesis 29]] | [[Génesis]] | [[Génesis 31|Génesis 31 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/30?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/30?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob se casa con Bilha, y ella da a luz a Dan y a Neftalí — Jacob se casa con Zilpa, y ella da a luz a Gad y a Aser — Lea da a luz a Isacar y a Zabulón y a una hija, Dina — Entonces Raquel concibe y da a luz a José — Jacob trabaja para Labán a cambio de ganado y de ovejas como salario.
 
----
 ###### 1 
 Y viendo Raquel que no daba hijos a Jacob, tuvo envidia de su hermana y decía a Jacob: Dame hijos, o si no, me muero.
 

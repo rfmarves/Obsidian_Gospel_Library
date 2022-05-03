@@ -1,22 +1,21 @@
 ---
 title: Isaías 33
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 33
 [[Isaías 32| <-- Isaías 32]] | [[Isaías]] | [[Isaías 34|Isaías 34 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/33?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/33?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Apostasía e iniquidad precederán a la Segunda Venida — Jehová vendrá con fuego consumidor — Sion y sus estacas serán perfeccionadas — Jehová es nuestro Juez, Legislador y Rey.
 
----
 ###### 1 
 ¡Ay de ti, que saqueas y nunca fuiste saqueado; que cometes traición, cuando nadie a ti te ha traicionado! Cuando acabes de saquear, serás tú saqueado;  cuando acabes de cometer traición, te traicionarán a ti.
 

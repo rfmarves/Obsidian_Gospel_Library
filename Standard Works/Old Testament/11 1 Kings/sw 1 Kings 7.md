@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Solomon builds himself a house—Hiram of Tyre makes the two pillars, the molten sea, the ten bases, the ten lavers, and all the vessels for the temple—The molten sea (baptismal font) rests on the backs of twelve oxen.
 
----
 ###### 1 
 But Solomon was building his own house thirteen years, and he finished all his house.
 

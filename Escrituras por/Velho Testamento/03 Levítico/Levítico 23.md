@@ -1,22 +1,21 @@
 ---
 title: Levítico 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 23
 [[Levítico 22| <-- Levítico 22]] | [[Levítico]] | [[Levítico 24|Levítico 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel deve fazer uma santa convocação a cada dia do Sábado — Israel deve comemorar a Festa da Páscoa, dos Pães Ázimos, de Pentecostes ou das Primícias, das Trombetas, do Dia da Expiação e dos Tabernáculos.
 
----
 ###### 1 
 Falou mais o  a Moisés, dizendo:
 

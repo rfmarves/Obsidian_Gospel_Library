@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saul offers a burnt offering—The Lord rejects him and chooses another captain over His people.
 
----
 ###### 1 
 Saul reigned one year; and when he had reigned two years over Israel,
 

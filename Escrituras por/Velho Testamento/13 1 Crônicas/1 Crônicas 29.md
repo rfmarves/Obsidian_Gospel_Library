@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 29
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 29
 [[1 Crônicas 28| <-- 1 Crônicas 28]] | [[1 Crônicas]] | [[2 Crônicas 1|2 Crônicas 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/29?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/29?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Todo o Israel faz uma oferta generosa para o templo — Davi abençoa e louva o Senhor e instrui o povo — Davi morre — Salomão governa como rei — São mencionados os livros de Natã e de Gade.
 
----
 ###### 1 
 Disse mais o rei Davi a toda a congregação: Salomão, meu filho, o único a quem Deus escolheu,  moço e tenro, e esta obra  grande; porque não  o palácio para homem, senão para o  Deus.
 

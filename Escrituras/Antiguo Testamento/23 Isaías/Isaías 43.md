@@ -1,22 +1,21 @@
 ---
 title: Isaías 43
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 43
 [[Isaías 42| <-- Isaías 42]] | [[Isaías]] | [[Isaías 44|Isaías 44 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/43?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/43?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová dice a Israel: Yo soy tu Dios; recogeré tu descendencia; aparte de Mí no hay Salvador; vosotros sois Mis testigos.
 
----
 ###### 1 
 Y ahora, así dice Jehová, Creador tuyo, oh Jacob, y Formador tuyo, oh Israel: No temas, porque yo te he redimido; te puse nombre; mío eres tú.
 

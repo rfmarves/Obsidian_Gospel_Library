@@ -1,10 +1,11 @@
 ---
 title: sw D&C 18
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, Scriptures show how to build up the Church; 6–8, The world is ripening in iniquity; 9–16, The worth of souls is great; 17–25, To gain salvation, men must take upon themselves the name of Christ; 26–36, The calling and mission of the Twelve are revealed; 37–39, Oliver Cowdery and David Whitmer are to search out the Twelve; 40–47, To gain salvation, men must repent, be baptized, and keep the commandments.
 
----
 ###### 1 
 Now, behold, because of the thing which you, my servant Oliver Cowdery, have desired to know of me, I give unto you these words:
 

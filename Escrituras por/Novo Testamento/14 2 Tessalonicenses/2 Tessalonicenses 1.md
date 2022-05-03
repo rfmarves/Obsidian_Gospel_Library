@@ -1,22 +1,21 @@
 ---
 title: 2 Tessalonicenses 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Tessalonicenses 1
 [[1 Tessalonicenses 5| <-- 1 Tessalonicenses 5]] | [[2 Tessalonicenses]] | [[2 Tessalonicenses 2|2 Tessalonicenses 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-thes/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/2-thes/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Em Sua Segunda Vinda, o Senhor Jesus se vingará dos ímpios.
 
----
 ###### 1 
 Paulo, e Silvano, e Timóteo, à igreja dos tessalonicenses, em Deus, nosso Pai, e no Senhor Jesus Cristo:
 

@@ -1,22 +1,21 @@
 ---
 title: DeC 14
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 14
 [[DeC 13| <-- DeC 13]] | [[DeC]] | [[DeC 15|DeC 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–6, Os que trabalham na vinha irão alcançar salvação; 7–8, A vida eterna é o maior dos dons de Deus; 9–11, Cristo criou os céus e a Terra.
 
----
 ###### 1 
 Uma obra grande e maravilhosa está para iniciar-se entre os filhos dos homens.
 

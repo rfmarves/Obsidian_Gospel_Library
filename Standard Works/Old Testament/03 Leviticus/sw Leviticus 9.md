@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Aaron makes an atonement by sacrifice for himself and all Israel—He and his sons offer sacrifices—The glory of the Lord appears to all—Fire from the Lord consumes the offerings on the altar.
 
----
 ###### 1 
 And it came to pass on the eighth day,  Moses called Aaron and his sons, and the elders of Israel;
 

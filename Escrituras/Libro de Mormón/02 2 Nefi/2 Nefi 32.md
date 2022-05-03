@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 32
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 32
 [[2 Nefi 31| <-- 2 Nefi 31]] | [[2 Nefi]] | [[2 Nefi 33|2 Nefi 33 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los ángeles hablan por el poder del Espíritu Santo — Los hombres deben orar y adquirir así el conocimiento que imparte el Espíritu Santo. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Y ahora bien, he aquí, amados hermanos míos, supongo que estaréis meditando en vuestros corazones en cuanto a lo que debéis hacer después que hayáis entrado en la senda. Mas he aquí, ¿por qué meditáis estas cosas en vuestros corazones?
 

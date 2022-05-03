@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah foretells the siege, captivity, and destruction of Jerusalem—Zedekiah is to be taken captive by Nebuchadrezzar.
 
----
 ###### 1 
 The word which came unto Jeremiah from the , when king Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the son of Maaseiah the priest, saying,
 

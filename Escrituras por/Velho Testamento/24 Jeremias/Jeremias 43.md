@@ -1,22 +1,21 @@
 ---
 title: Jeremias 43
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 43
 [[Jeremias 42| <-- Jeremias 42]] | [[Jeremias]] | [[Jeremias 44|Jeremias 44 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/43?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/43?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Joanã leva Jeremias e os remanescentes de Judá para o Egito — Jeremias profetiza que Babilônia conquistará o Egito.
 
----
 ###### 1 
 E sucedeu que, acabando Jeremias de falar a todo o povo todas as palavras do  seu Deus, com as quais o  seu Deus lho havia enviado,  todas essas palavras,
 

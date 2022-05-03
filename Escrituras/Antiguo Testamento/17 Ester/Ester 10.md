@@ -1,22 +1,21 @@
 ---
 title: Ester 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 10
 [[Ester 9| <-- Ester 9]] | [[Ester]] | [[Job 1|Job 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El judío Mardoqueo es segundo en poder y autoridad después del rey Asuero.
 
----
 ###### 1 
 Y el rey Asuero impuso tributo sobre la tierra y sobre las islas del mar.
 

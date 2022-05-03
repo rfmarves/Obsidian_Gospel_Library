@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is to keep the Passover, the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Tabernacles—All males are to appear annually before the Lord at these three feasts—Judges are not to make dishonest judgments nor take gifts.
 
----
 ###### 1 
 Observe the month of Abib, and keep the passover unto the  thy God: for in the month of Abib the  thy God brought thee forth out of Egypt by night.
 

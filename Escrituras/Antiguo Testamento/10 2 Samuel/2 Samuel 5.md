@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 5
 [[2 Samuel 4| <-- 2 Samuel 4]] | [[2 Samuel]] | [[2 Samuel 6|2 Samuel 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Todo Israel unge a David como rey — David toma Jerusalén y Jehová le bendice — Conquista a los filisteos.
 
----
 ###### 1 
 Y vinieron todas las tribus de Israel a David en Hebrón y hablaron, diciendo: He aquí, nosotros somos hueso tuyo y carne tuya.
 

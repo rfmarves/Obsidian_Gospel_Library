@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 8
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 8
 [[1 Coríntios 7| <-- 1 Coríntios 7]] | [[1 Coríntios]] | [[1 Coríntios 9|1 Coríntios 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Há muitos deuses e muitos senhores — Para nós, há um só Deus (o Pai) e um só Senhor, que é Cristo.
 
----
 ###### 1 
 Ora, no tocante às coisas sacrificadas aos ídolos, sabemos que todos temos conhecimento. O conhecimento ensoberbece, mas o amor edifica.
 

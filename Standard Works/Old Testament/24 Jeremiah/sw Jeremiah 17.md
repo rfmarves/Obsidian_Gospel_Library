@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 The captivity of Judah comes because of sin and forsaking the Lord—Hallow the Sabbath day; doing so will save the people; otherwise they will be destroyed.
 
----
 ###### 1 
 The sin of Judah  written with a pen of iron,  with the point of a diamond:  graven upon the table of their heart, and upon the horns of your altars;
 

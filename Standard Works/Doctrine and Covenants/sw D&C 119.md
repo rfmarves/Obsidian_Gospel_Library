@@ -1,10 +1,11 @@
 ---
 title: sw D&C 119
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 119
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/119?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, The Saints are to pay their surplus property and then give, as tithing, one-tenth of their interest annually; 6–7, Such a course will sanctify the land of Zion.
 
----
 ###### 1 
 Verily, thus saith the Lord, I require all their surplus property to be put into the hands of the bishop of my church in Zion,
 

@@ -1,22 +1,21 @@
 ---
 title: Juan 13
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 13
 [[Juan 12| <-- Juan 12]] | [[Juan]] | [[Juan 14|Juan 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús lava los pies de los Doce — Señala a Judas como el que le iba a entregar — Manda a los Doce amarse los unos a los otros.
 
----
 ###### 1 
 Antes de la fiesta de la Pascua, sabiendo Jesús que su hora había llegado para que pasase de este mundo al Padre, como había amado a los suyos que estaban en el mundo, los amó hasta el fin.
 

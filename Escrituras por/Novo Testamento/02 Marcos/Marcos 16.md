@@ -1,22 +1,21 @@
 ---
 title: Marcos 16
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 16
 [[Marcos 15| <-- Marcos 15]] | [[Marcos]] | [[Lucas 1|Lucas 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo ressuscita — Ele aparece a Maria Madalena, depois a outros — Ele envia os Apóstolos para pregar e promete que sinais seguirão a fé — Ele ascende aos céus.
 
----
 ###### 1 
 E passado o sábado, Maria Madalena, e Maria,  de Tiago, e Salomé compraram aromas para irem ungi-lo.
 

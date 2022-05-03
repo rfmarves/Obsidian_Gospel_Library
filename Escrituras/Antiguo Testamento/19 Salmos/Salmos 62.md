@@ -1,27 +1,25 @@
 ---
 title: Salmos 62
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 62
 [[Salmos 61| <-- Salmos 61]] | [[Salmos]] | [[Salmos 63|Salmos 63 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/62?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/62?lang=spa)
 
----
+```
 Al músico principal: a Jedutún. Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David alaba a Dios y manifiesta que es su refugio, su roca y su salvación — El Señor juzga a los hombres conforme a sus obras.
 
----
 ###### 1 
 
 

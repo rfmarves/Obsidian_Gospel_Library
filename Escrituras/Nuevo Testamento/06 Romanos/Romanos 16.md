@@ -1,22 +1,21 @@
 ---
 title: Romanos 16
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 16
 [[Romanos 15| <-- Romanos 15]] | [[Romanos]] | [[1 Corintios 1|1 Corintios 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo envía saludos a varios de los santos — Aconseja a los santos evitar a aquellos que causan disensión — Los santos deben ser sabios con respecto al bien e inocentes con respecto al mal.
 
----
 ###### 1 
 Os encomiendo a Febe, nuestra hermana, quien está al servicio de la iglesia que está en Cencrea;
 

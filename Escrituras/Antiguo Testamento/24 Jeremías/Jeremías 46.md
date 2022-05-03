@@ -1,22 +1,21 @@
 ---
 title: Jeremías 46
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 46
 [[Jeremías 45| <-- Jeremías 45]] | [[Jeremías]] | [[Jeremías 47|Jeremías 47 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/46?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/46?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías profetiza la conquista de Egipto por Babilonia — Jacob será salvo y volverá a su propia tierra.
 
----
 ###### 1 
 La palabra de Jehová que vino al profeta Jeremías contra las naciones.
 

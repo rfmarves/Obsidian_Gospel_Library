@@ -1,27 +1,25 @@
 ---
 title: Salmos 78
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 78
 [[Salmos 77| <-- Salmos 77]] | [[Salmos]] | [[Salmos 79|Salmos 79 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/78?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/78?lang=por)
 
----
+```
 Masquil de Asafe.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Os israelitas devem ensinar a lei do Senhor para seus filhos — O Israel desobediente provocou o Senhor no deserto — Recapitulam-se as pragas do Egito — O Senhor escolhe e abençoa Judá e Davi.
 
----
 ###### 1 
 Escutai a minha lei, povo meu; inclinai os vossos ouvidos às palavras da minha boca.
 

@@ -1,22 +1,21 @@
 ---
 title: Joel 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Joel 2
 [[Joel 1| <-- Joel 1]] | [[Joel]] | [[Joel 3|Joel 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/joel/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/joel/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Guerra y desolación precederán a la Segunda Venida — El sol y la luna se oscurecerán — Jehová derramará Su Espíritu sobre toda carne — Habrá sueños y visiones.
 
----
 ###### 1 
 Tocad trompeta en Sion y dad alarma en mi santo monte; tiemblen todos los moradores de la tierra, porque viene el día de Jehová, porque está cercano,
 

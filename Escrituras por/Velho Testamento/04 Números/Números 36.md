@@ -1,22 +1,21 @@
 ---
 title: Números 36
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 36
 [[Números 35| <-- Números 35]] | [[Números]] | [[Deuteronômio 1|Deuteronômio 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/36?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/36?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Algumas das filhas de Israel recebem o mandamento de casar-se dentro da própria tribo — As heranças não serão passadas de uma tribo a outra.
 
----
 ###### 1 
 E chegaram os cabeças dos pais das famílias dos filhos de Gileade, filho de Maquir, filho de Manassés, das famílias dos filhos de José, e falaram diante de Moisés, e diante dos príncipes, cabeças dos pais dos filhos de Israel;
 

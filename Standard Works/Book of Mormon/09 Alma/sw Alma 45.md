@@ -1,10 +1,11 @@
 ---
 title: sw Alma 45
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 45
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/45?lang=eng)
 
----
+```
 The account of the people of Nephi, and their wars and dissensions, in the days of Helaman, according to the record of Helaman, which he kept in his days.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Helaman believes the words of Alma—Alma prophesies the destruction of the Nephites—He blesses and curses the land—Alma may have been taken up by the Spirit, even as Moses—Dissension grows in the Church. About 73 B.C.
 
----
 ###### 1 
 Behold, now it came to pass that the people of Nephi were exceedingly rejoiced, because the Lord had again delivered them out of the hands of their enemies; therefore they gave thanks unto the Lord their God; yea, and they did fast much and pray much, and they did worship God with exceedingly great joy.
 

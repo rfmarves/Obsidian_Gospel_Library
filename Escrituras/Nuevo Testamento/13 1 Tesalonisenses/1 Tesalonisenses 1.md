@@ -1,22 +1,21 @@
 ---
 title: 1 Tesalonisenses 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Tesalonisenses 1
 [[Colosenses 4| <-- Colosenses 4]] | [[1 Tesalonisenses]] | [[1 Tesalonisenses 2|1 Tesalonisenses 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Evangelio llega tanto en palabra como en poder.
 
----
 ###### 1 
 Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios el Padre y en el Señor Jesucristo: Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo.
 

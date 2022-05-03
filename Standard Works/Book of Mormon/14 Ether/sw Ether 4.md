@@ -1,10 +1,11 @@
 ---
 title: sw Ether 4
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ether 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moroni is commanded to seal up the writings of the brother of Jared—They will not be revealed until men have faith even as the brother of Jared—Christ commands men to believe His words and those of His disciples—Men are commanded to repent, believe the gospel, and be saved.
 
----
 ###### 1 
 And the Lord commanded the brother of Jared to go down out of the mount from the presence of the Lord, and write the things which he had seen; and they were forbidden to come unto the children of men until after that he should be lifted up upon the cross; and for this cause did king Mosiah keep them, that they should not come unto the world until after Christ should show himself unto his people.
 

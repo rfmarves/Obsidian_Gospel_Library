@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 25
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 25
 [[Deuteronomio 24| <-- Deuteronomio 24]] | [[Deuteronomio]] | [[Deuteronomio 26|Deuteronomio 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los jueces prescriben el castigo para los inicuos — Se expone la ley del matrimonio con respecto a la viuda de un hermano — Se requieren pesas y medidas justas — Se manda a Israel raer de debajo del cielo a los amalecitas.
 
----
 ###### 1 
 Si hay pleito entre algunos, y van a juicio y los juzgan  estos absolverán al justo y condenarán al inicuo.
 

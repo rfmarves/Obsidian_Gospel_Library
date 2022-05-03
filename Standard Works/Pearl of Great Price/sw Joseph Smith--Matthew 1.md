@@ -1,10 +1,11 @@
 ---
 title: sw Joseph Smith--Matthew 1
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joseph Smith--Matthew 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/js-m/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus foretells the impending destruction of Jerusalem—He also discourses on the Second Coming of the Son of Man, and the destruction of the wicked.
 
----
 ###### 1 
 For I say unto you, that ye shall not see me henceforth and know that I am he of whom it is written by the prophets, until ye shall say: Blessed is he who cometh in the name of the Lord, in the clouds of heaven, and all the holy angels with him. Then understood his disciples that he should come again on the earth, after that he was glorified and crowned on the right hand of God.
 

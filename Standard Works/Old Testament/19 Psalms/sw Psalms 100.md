@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 100
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 100
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/100?lang=eng)
 
----
+```
 A Psalm of praise.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Serve the Lord with gladness, all who are His people—Be thankful unto Him and bless His name.
 
----
 ###### 1 
 Make a joyful noise unto the , all ye lands.
 

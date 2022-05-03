@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Miriam dies—Moses smites a rock at Meribah and brings forth water—The king of Edom refuses to let Israel pass peacefully through his land—Aaron dies, and Eleazar becomes the high priest.
 
----
 ###### 1 
 Then came the children of Israel,  the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there.
 

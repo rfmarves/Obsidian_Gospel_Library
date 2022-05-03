@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 3
 [[Apocalipse 2| <-- Apocalipse 2]] | [[Apocalipse]] | [[Apocalipse 4|Apocalipse 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Aquele que vencer manterá seu nome no livro da vida, alcançará a divindade e estará com Jesus assim como Ele está com o Pai.
 
----
 ###### 1 
 E ao anjo da igreja que está em Sardes, escreve: Isto diz o que tem os sete espíritos de Deus, e as sete estrelas: Eu conheço as tuas obras, que tens nome de que vives, e estás morto.
 

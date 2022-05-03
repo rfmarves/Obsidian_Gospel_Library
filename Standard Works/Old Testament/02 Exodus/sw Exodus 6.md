@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord identifies Himself as Jehovah—The genealogies of Reuben, Simeon, and Levi are listed.
 
----
 ###### 1 
 Then the  said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land.
 

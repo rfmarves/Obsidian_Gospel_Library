@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 22
 [[1 Samuel 21| <-- 1 Samuel 21]] | [[1 Samuel]] | [[1 Samuel 23|1 Samuel 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David gana seguidores — Va de un lugar a otro huyendo de Saúl — Saúl mata a los sacerdotes que fueron bondadosos con David.
 
----
 ###### 1 
 Y David se fue de allí y escapó a la cueva de Adulam; y cuando lo oyeron sus hermanos y toda la casa de su padre, descendieron allá a él.
 

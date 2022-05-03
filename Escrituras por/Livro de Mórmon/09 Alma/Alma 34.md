@@ -1,22 +1,21 @@
 ---
 title: Alma 34
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 34
 [[Alma 33| <-- Alma 33]] | [[Alma]] | [[Alma 35|Alma 35 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amuleque testifica que a palavra que leva à salvação está em Cristo — A não ser que haja uma expiação, toda a humanidade perecerá — A totalidade da lei de Moisés aponta para o sacrifício do Filho de Deus — O plano eterno de redenção fundamenta-se na fé e no arrependimento — Orai por bênçãos materiais e espirituais — Esta vida é o tempo para os homens prepararem-se para o encontro com Deus — Operai a vossa salvação com temor perante Deus. Aproximadamente 74 a.C.
 
----
 ###### 1 
 E então aconteceu que Alma, tendo proferido estas palavras, sentou-se no chão; e Amuleque levantou-se e começou a ensinar-lhes, dizendo:
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 123
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 123
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/123?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, The Saints should collect and publish an account of their sufferings and persecutions; 7–10, The same spirit that established the false creeds also leads to persecution of the Saints; 11–17, Many among all sects will yet receive the truth.
 
----
 ###### 1 
 And again, we would suggest for your consideration the propriety of all the saints gathering up a knowledge of all the facts, and sufferings and abuses put upon them by the people of this State;
 

@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 29
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 A people (the Nephites) will speak as a voice from the dust—The Apostasy, restoration of the gospel, and coming forth of a sealed book (the Book of Mormon) are foretold—Compare 2 Nephi 27.
 
----
 ###### 1 
 Woe to Ariel, to Ariel, the city  David dwelt! add ye year to year; let them kill sacrifices.
 

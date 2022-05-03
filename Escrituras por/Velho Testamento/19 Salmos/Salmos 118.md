@@ -1,22 +1,21 @@
 ---
 title: Salmos 118
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 118
 [[Salmos 117| <-- Salmos 117]] | [[Salmos]] | [[Salmos 119|Salmos 119 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/118?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/118?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Salmo messiânico — Diga todo o Israel sobre o Senhor: Sua benignidade dura para sempre — A Pedra que os edificadores rejeitaram tornou-se a cabeça da esquina — Bendito aquele que vem em nome do Senhor.
 
----
 ###### 1 
 Louvai ao , porque ele é bom, porque a sua benignidade  para sempre.
 

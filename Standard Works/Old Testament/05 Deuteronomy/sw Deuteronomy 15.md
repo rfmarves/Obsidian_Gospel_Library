@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Every seven years, all debts are to be released—The people are admonished to care for the poor—Hebrew servants are to be released and given gifts during the seventh year—The firstling males of herds and flocks are the Lord’s.
 
----
 ###### 1 
 At the end of  seven years thou shalt make a release.
 

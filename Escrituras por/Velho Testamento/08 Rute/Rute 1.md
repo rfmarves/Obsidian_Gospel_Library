@@ -1,22 +1,21 @@
 ---
 title: Rute 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Rute 1
 [[Juízes 21| <-- Juízes 21]] | [[Rute]] | [[Rute 2|Rute 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ruth/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ruth/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Elimeleque vai com a família para Moabe devido à fome — Seus filhos se casam — Morrem pai e filhos — Rute, a moabita, depois da morte do marido, permanece fiel a Noemi — Elas vão para Belém.
 
----
 ###### 1 
 E sucedeu que, nos dias em que os juízes julgavam, houve uma fome na terra; pelo que um homem de Belém de Judá saiu a peregrinar nos campos de Moabe, ele e a sua mulher, e seus dois filhos.
 

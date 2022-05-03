@@ -1,10 +1,11 @@
 ---
 title: sw Acts 10
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 An angel ministers to Cornelius—Peter, in a vision, is commanded to take the gospel to the Gentiles—The gospel is taught by witnesses—The Holy Ghost falls upon the Gentiles.
 
----
 ###### 1 
 There was a certain man in Cæsarea called Cornelius, a centurion of the band called the Italian 
 

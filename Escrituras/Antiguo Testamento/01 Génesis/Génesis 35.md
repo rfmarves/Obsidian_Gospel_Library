@@ -1,22 +1,21 @@
 ---
 title: Génesis 35
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 35
 [[Génesis 34| <-- Génesis 34]] | [[Génesis]] | [[Génesis 36|Génesis 36 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/35?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/35?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dios envía a Jacob a Bet-el, donde este construye un altar y Dios se le aparece — Dios renueva la promesa de que Jacob será una gran nación y vuelve a decir que su nombre será Israel — Jacob erige un altar y derrama libación — Raquel da a luz a Benjamín, muere en el parto y es sepultada cerca de Belén — Rubén peca con Bilha — Isaac muere y Jacob y Esaú lo sepultan.
 
----
 ###### 1 
 Y dijo Dios a Jacob: Levántate, sube a Bet-el y habita allí; y haz allí un altar al Dios que se te apareció cuando huías de la presencia de tu hermano Esaú.
 

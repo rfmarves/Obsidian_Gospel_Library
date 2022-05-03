@@ -1,10 +1,11 @@
 ---
 title: sw 2 Corinthians 12
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Corinthians 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul is caught up to the third heaven—The Lord gives men weaknesses that they may triumph over them—Paul manifests the signs of an Apostle.
 
----
 ###### 1 
 It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.
 

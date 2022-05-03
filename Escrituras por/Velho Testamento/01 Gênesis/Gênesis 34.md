@@ -1,22 +1,21 @@
 ---
 title: Gênesis 34
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 34
 [[Gênesis 33| <-- Gênesis 33]] | [[Gênesis]] | [[Gênesis 35|Gênesis 35 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/34?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/34?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Siquém desonra Diná — Os heveus procuram fazer acordos matrimoniais com a família de Jacó — Muitos, após terem sido circuncidados, são mortos por Simeão e Levi — Jacó repreende seus filhos.
 
----
 ###### 1 
 E saiu Diná, filha de Lia, que esta dera a Jacó, para ver as filhas da terra.
 

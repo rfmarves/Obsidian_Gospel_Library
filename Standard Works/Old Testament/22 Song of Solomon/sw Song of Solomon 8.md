@@ -1,10 +1,11 @@
 ---
 title: sw Song of Solomon 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Song of Solomon 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Many waters cannot quench love.
 
----
 ###### 1 
 O that thou  as my brother, that sucked the breasts of my mother!  I should find thee without, I would kiss thee; yea, I should not be despised.
 

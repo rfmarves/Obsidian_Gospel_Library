@@ -1,10 +1,11 @@
 ---
 title: sw Acts 12
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 The martyrdom of James is described—An angel frees Peter from prison—The Lord slays Herod by disease—The Church grows.
 
----
 ###### 1 
 Now about that time Herod the king stretched forth  hands to vex certain of the church.
 

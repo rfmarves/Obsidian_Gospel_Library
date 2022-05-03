@@ -1,27 +1,25 @@
 ---
 title: Salmos 68
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 68
 [[Salmos 67| <-- Salmos 67]] | [[Salmos]] | [[Salmos 69|Salmos 69 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/68?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/68?lang=spa)
 
----
+```
 Al músico principal. Salmo de David. Cántico.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Salmo mesiánico de David — David ensalza a Jah — El Señor daba la palabra — Él toma cautiva a la cautividad — Él nos libra de la muerte — Cantad alabanzas a Dios.
 
----
 ###### 1 
 
 

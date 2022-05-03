@@ -1,22 +1,21 @@
 ---
 title: 2 Juan 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Juan 1
 [[1 Juan 5| <-- 1 Juan 5]] | [[2 Juan]] | [[3 Juan 1|3 Juan 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-jn/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-jn/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Juan se regocija porque los hijos de la señora elegida son leales y fieles.
 
----
 ###### 1 
 El anciano a la señora elegida y a sus hijos, a quienes yo amo en la verdad, y no solo yo, sino también todos los que han conocido la verdad,
 

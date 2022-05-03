@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 1
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 1
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/1?lang=eng)
 
----
+```
 And Helaman was the son of Helaman, who was the son of Alma, who was the son of Alma, being a descendant of Nephi who was the son of Lehi, who came out of Jerusalem in the first year of the reign of Zedekiah, the king of Judah.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Nephi, the son of Helaman, departs out of the land, and his son Nephi keeps the records—Though signs and wonders abound, the wicked plan to slay the righteous—The night of Christ’s birth arrives—The sign is given, and a new star arises—Lyings and deceivings increase, and the Gadianton robbers slaughter many. About A.D. 1–4.
 
----
 ###### 1 
 Now it came to pass that the ninety and first year had passed away and it was six hundred years from the time that Lehi left Jerusalem; and it was in the year that Lachoneus was the chief judge and the governor over the land.
 

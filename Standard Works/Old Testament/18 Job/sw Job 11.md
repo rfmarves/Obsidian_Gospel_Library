@@ -1,10 +1,11 @@
 ---
 title: sw Job 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Zophar asks, Canst thou by searching find out God?—Zophar says that the hope of the wicked will fade away as though it had died.
 
----
 ###### 1 
 Then answered Zophar the Naamathite, and said,
 

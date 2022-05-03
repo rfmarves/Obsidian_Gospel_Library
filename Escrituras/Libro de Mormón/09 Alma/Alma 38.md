@@ -1,27 +1,25 @@
 ---
 title: Alma 38
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 38
 [[Alma 37| <-- Alma 37]] | [[Alma]] | [[Alma 39|Alma 39 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/38?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/38?lang=spa)
 
----
+```
 Los mandamientos de Alma a su hijo Shiblón.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Shiblón fue perseguido por causa de la rectitud — La salvación está en Cristo, el cual es la vida y la luz del mundo — Refrena todas tus pasiones. Aproximadamente 74 a.C.
 
----
 ###### 1 
 Hijo mío, da oído a mis palabras, porque te digo, como dije a Helamán, que al grado que guardes los mandamientos de Dios, prosperarás en la tierra; y si no guardas los mandamientos de Dios, serás separado de su presencia.
 

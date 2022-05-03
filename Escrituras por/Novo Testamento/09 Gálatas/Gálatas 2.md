@@ -1,22 +1,21 @@
 ---
 title: Gálatas 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gálatas 2
 [[Gálatas 1| <-- Gálatas 1]] | [[Gálatas]] | [[Gálatas 3|Gálatas 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/gal/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/gal/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo vai a Jerusalém — Ele contende pelo evangelho verdadeiro — A salvação vem por meio de Cristo.
 
----
 ###### 1 
 Depois, passados quatorze anos, subi outra vez a Jerusalém com Barnabé, levando também comigo Tito.
 

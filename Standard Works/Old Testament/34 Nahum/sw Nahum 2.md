@@ -1,10 +1,11 @@
 ---
 title: sw Nahum 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nahum 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/nahum/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nineveh will be destroyed, which is a symbol of what will be in the latter days.
 
----
 ###### 1 
 He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make  loins strong, fortify  power mightily.
 

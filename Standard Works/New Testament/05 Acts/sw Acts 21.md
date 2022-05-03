@@ -1,10 +1,11 @@
 ---
 title: sw Acts 21
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul journeys to Jerusalem—He is persecuted, arrested, and bound.
 
----
 ###### 1 
 And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the  following unto Rhodes, and from thence unto Patara:
 

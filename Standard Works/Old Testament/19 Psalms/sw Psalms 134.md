@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 134
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 134
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/134?lang=eng)
 
----
+```
 A Song of degrees.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Bless the Lord, and He will bless you.
 
----
 ###### 1 
 Behold, bless ye the , all  servants of the , which by night stand in the house of the .
 

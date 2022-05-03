@@ -1,27 +1,25 @@
 ---
 title: Salmos 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 17
 [[Salmos 16| <-- Salmos 16]] | [[Salmos]] | [[Salmos 18|Salmos 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/17?lang=por)
 
----
+```
 Oração de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi suplica ao Senhor que ouça a sua voz e que o proteja dos homens do mundo — Davi tem esperança de ver a face de Deus em retidão.
 
----
 ###### 1 
 Ouve, , a justiça, atende ao meu clamor; dá ouvidos à minha oração, que não  com lábios enganosos.
 

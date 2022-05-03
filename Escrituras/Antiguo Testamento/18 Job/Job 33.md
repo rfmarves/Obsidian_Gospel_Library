@@ -1,22 +1,21 @@
 ---
 title: Job 33
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 33
 [[Job 32| <-- Job 32]] | [[Job]] | [[Job 34|Job 34 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/33?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/33?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Eliú dice: Dios es mayor que el hombre — Dios habla al hombre en sueños y visiones — Él rescata a los que han sido echados en la fosa — Redime sus almas y les da vida.
 
----
 ###### 1 
 
 

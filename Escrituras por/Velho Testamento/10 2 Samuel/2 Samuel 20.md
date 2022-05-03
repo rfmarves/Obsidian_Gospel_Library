@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 20
 [[2 Samuel 19| <-- 2 Samuel 19]] | [[2 Samuel]] | [[2 Samuel 21|2 Samuel 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Seba faz com que as tribos de Israel abandonem Davi — Joabe mata Amasa e persegue Seba — Uma mulher sábia intercede — A morte de Seba põe fim à insurreição.
 
----
 ###### 1 
 Então se achou ali por acaso um homem de Belial, cujo nome era Seba, filho de Bicri, homem de Benjamim, o qual tocou a buzina, e disse: Não temos parte em Davi, nem herança no filho de Jessé; cada um às suas tendas, ó Israel.
 

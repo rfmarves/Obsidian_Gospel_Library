@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 1
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 1
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/1?lang=eng)
 
----
+```
 An account of the death of Lehi. Nephi’s brethren rebel against him. The Lord warns Nephi to depart into the wilderness. His journeyings in the wilderness, and so forth.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Lehi prophesies of a land of liberty—His seed will be scattered and smitten if they reject the Holy One of Israel—He exhorts his sons to put on the armor of righteousness. About 588–570 B.C.
 
----
 ###### 1 
 And now it came to pass that after I, Nephi, had made an end of teaching my brethren, our father, Lehi, also spake many things unto them, and rehearsed unto them, how great things the Lord had done for them in bringing them out of the land of Jerusalem.
 

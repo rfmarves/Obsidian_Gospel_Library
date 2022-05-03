@@ -1,22 +1,21 @@
 ---
 title: Isaías 54
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 54
 [[Isaías 53| <-- Isaías 53]] | [[Isaías]] | [[Isaías 55|Isaías 55 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/54?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/54?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los últimos días, Sion y sus estacas serán establecidas, e Israel será recogido con misericordia y compasión — Israel triunfará — Compárese con 3 Nefi 22.
 
----
 ###### 1 
 Regocíjate, oh estéril, la que no daba a luz; prorrumpe en cánticos y da voces de júbilo, la que nunca ha estado de parto, porque más son los hijos de la desolada que los de la casada, ha dicho Jehová.
 

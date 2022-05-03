@@ -1,22 +1,21 @@
 ---
 title: Proverbios 23
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 23
 [[Proverbios 22| <-- Proverbios 22]] | [[Proverbios]] | [[Proverbios 24|Proverbios 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 No te afanes por hacerte rico — Así como el hombre piensa en su corazón, tal es él — No rehúses corregir al muchacho — No estés con los bebedores de vino que se embriagan.
 
----
 ###### 1 
 
 

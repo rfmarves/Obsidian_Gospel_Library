@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 94
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 94
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/94?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord will judge the earth and all men—Blessed is he whom the Lord teaches and chastens—The Lord will not forsake His people, but He will cut off the wicked.
 
----
 ###### 1 
 O  God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself.
 

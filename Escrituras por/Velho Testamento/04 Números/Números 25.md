@@ -1,22 +1,21 @@
 ---
 title: Números 25
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 25
 [[Números 24| <-- Números 24]] | [[Números]] | [[Números 26|Números 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os israelitas que adoram deuses falsos são mortos — Fineias mata os adúlteros e põe fim à praga — Israel recebe o mandamento de afligir os midianitas que os enganaram.
 
----
 ###### 1 
 E Israel deteve-se em Sitim, e o povo começou a prostituir-se com as filhas dos moabitas.
 

@@ -1,22 +1,21 @@
 ---
 title: Zacarías 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarías 10
 [[Zacarías 9| <-- Zacarías 9]] | [[Zacarías]] | [[Zacarías 11|Zacarías 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los de la casa de Judá y los de la casa de José serán dispersados entre los pueblos de países lejanos — Jehová los llamará con un silbido, los congregará y los redimirá.
 
----
 ###### 1 
 Pedid a Jehová lluvia en el tiempo de la lluvia tardía; Jehová hará nubes de tormenta, y os dará lluvia abundante y hierba en el campo a cada uno.
 

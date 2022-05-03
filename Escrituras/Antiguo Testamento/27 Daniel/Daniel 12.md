@@ -1,22 +1,21 @@
 ---
 title: Daniel 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 12
 [[Daniel 11| <-- Daniel 11]] | [[Daniel]] | [[Oseas 1|Oseas 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los últimos días, Miguel liberará a Israel de sus angustias — Daniel habla de las dos resurrecciones — Los entendidos conocerán los tiempos y los significados de sus visiones.
 
----
 ###### 1 
 Y en aquel tiempo se levantará Miguel, el gran príncipe que está a favor de los hijos de tu pueblo; y será tiempo de angustia, cual nunca fue desde que existen las naciones hasta entonces; pero en aquel tiempo será liberado tu pueblo, todos los que se hallen inscritos en el libro.
 

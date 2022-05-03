@@ -1,22 +1,21 @@
 ---
 title: Job 36
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 36
 [[Job 35| <-- Job 35]] | [[Job]] | [[Job 37|Job 37 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/36?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/36?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Eliú dice: Los que son rectos son prosperados — Los inicuos perecen y mueren sin conocimiento — Eliú alaba la grandeza de Dios.
 
----
 ###### 1 
 Y añadió Eliú y dijo:
 

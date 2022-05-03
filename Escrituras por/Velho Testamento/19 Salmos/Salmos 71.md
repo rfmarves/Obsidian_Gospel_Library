@@ -1,22 +1,21 @@
 ---
 title: Salmos 71
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 71
 [[Salmos 70| <-- Salmos 70]] | [[Salmos]] | [[Salmos 72|Salmos 72 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/71?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/71?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi louva a Deus com ação de graças — Quem é semelhante ao Senhor?
 
----
 ###### 1 
 Em ti, , confio; nunca seja eu envergonhado.
 

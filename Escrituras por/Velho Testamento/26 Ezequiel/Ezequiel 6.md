@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 6
 [[Ezequiel 5| <-- Ezequiel 5]] | [[Ezequiel]] | [[Ezequiel 7|Ezequiel 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo de Israel será destruído por sua idolatria — Somente alguns remanescentes serão salvos e dispersos.
 
----
 ###### 1 
 E veio a mim a palavra do , dizendo:
 

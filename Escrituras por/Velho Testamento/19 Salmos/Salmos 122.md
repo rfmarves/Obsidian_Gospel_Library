@@ -1,27 +1,25 @@
 ---
 title: Salmos 122
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 122
 [[Salmos 121| <-- Salmos 121]] | [[Salmos]] | [[Salmos 123|Salmos 123 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/122?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/122?lang=por)
 
----
+```
 Cântico das subidas, de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi declara: Ide à casa do Senhor — Dai graças a Ele.
 
----
 ###### 1 
 Alegrei-me quando me disseram: Vamos à casa do .
 

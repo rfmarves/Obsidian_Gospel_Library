@@ -1,22 +1,21 @@
 ---
 title: Enós 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Enós 1
 [[Jacob 7| <-- Jacob 7]] | [[Enós]] | [[Jarom 1|Jarom 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/enos/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/enos/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Enós ora con potente oración y logra el perdón de sus pecados — La voz del Señor penetra su mente, y le promete salvación para los lamanitas en un día futuro — Los nefitas procuran restaurar a los lamanitas — Enós se regocija en su Redentor. Aproximadamente 420 a.C.
 
----
 ###### 1 
 He aquí, aconteció que yo, Enós, sabía que mi padre era un varón justo, pues me instruyó en su idioma y también me crio en disciplina y amonestación del Señor —y bendito sea el nombre de mi Dios por ello—
 

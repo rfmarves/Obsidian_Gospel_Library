@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 16
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ahaz reigns in wickedness in Judah—He offers his son in heathen sacrifice—He makes a new altar, destroys the brazen sea, and changes the method for sacrificing in the temple.
 
----
 ###### 1 
 In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign.
 

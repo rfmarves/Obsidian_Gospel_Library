@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Elisha and the prophets know that Elijah is to be translated—Elijah divides the waters of the Jordan and is taken up into heaven in a whirlwind—The mantle of Elijah falls on Elisha, who also divides the waters of the Jordan—Elisha heals the waters of Jericho—Youths are torn by bears for mocking Elisha.
 
----
 ###### 1 
 And it came to pass, when the  would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal.
 

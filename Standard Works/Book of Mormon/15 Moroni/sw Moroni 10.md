@@ -1,10 +1,11 @@
 ---
 title: sw Moroni 10
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moroni 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 A testimony of the Book of Mormon comes by the power of the Holy Ghost—The gifts of the Spirit are dispensed to the faithful—Spiritual gifts always accompany faith—Moroni’s words speak from the dust—Come unto Christ, be perfected in Him, and sanctify your souls. About A.D. 421.
 
----
 ###### 1 
 Now I, Moroni, write somewhat as seemeth me good; and I write unto my brethren, the Lamanites; and I would that they should know that more than four hundred and twenty years have passed away since the sign was given of the coming of Christ.
 

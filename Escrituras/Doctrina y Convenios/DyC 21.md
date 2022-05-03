@@ -1,22 +1,21 @@
 ---
 title: DyC 21
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 21
 [[DyC 20| <-- DyC 20]] | [[DyC]] | [[DyC 22|DyC 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–3, José Smith es llamado para ser vidente, traductor, profeta, apóstol y élder; 4–8, Su palabra dirigirá la causa de Sion; 9–12, Los santos creerán en sus palabras al hablar él por la inspiración del Consolador.
 
----
 ###### 1 
 He aquí, se llevará entre vosotros una historia; y en ella serás llamado vidente, traductor, profeta, apóstol de Jesucristo, élder de la iglesia por la voluntad de Dios el Padre, y la gracia de tu Señor Jesucristo,
 

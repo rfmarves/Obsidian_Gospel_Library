@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 20
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Satan is bound during the Millennium—The Saints will then live and reign with Christ—The dead stand before God and are judged out of the books according to their works.
 
----
 ###### 1 
 And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.
 

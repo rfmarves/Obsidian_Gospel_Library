@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 9
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nephi makes two sets of records—Each is called the plates of Nephi—The larger plates contain a secular history; the smaller ones deal primarily with sacred things. About 600–592 B.C.
 
----
 ###### 1 
 And all these things did my father see, and hear, and speak, as he dwelt in a tent, in the valley of Lemuel, and also a great many more things, which cannot be written upon these plates.
 

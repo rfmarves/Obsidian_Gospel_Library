@@ -1,22 +1,21 @@
 ---
 title: Mosíah 25
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 25
 [[Mosíah 24| <-- Mosíah 24]] | [[Mosíah]] | [[Mosíah 26|Mosíah 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los del pueblo de Zarahemla (mulekitas) se convierten en nefitas — Se enteran de la gente de Alma y de la de Zeniff — Alma bautiza a Limhi y a todo su pueblo — Mosíah autoriza a Alma para que organice la Iglesia de Dios. Aproximadamente 120 a.C.
 
----
 ###### 1 
 Entonces el rey Mosíah hizo que se congregase todo el pueblo.
 

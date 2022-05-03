@@ -1,10 +1,11 @@
 ---
 title: sw Job 34
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 34
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/34?lang=eng)
 
----
-__Summary__
+> __Summary__
 Elihu teaches, God cannot be unjust, commit iniquity, pervert judgment, or respect persons—Man should bear chastisement and do iniquity no more.
 
----
 ###### 1 
 Furthermore Elihu answered and said,
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 19
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nephi makes plates of ore and records the history of his people—The God of Israel will come six hundred years from the time Lehi left Jerusalem—Nephi tells of His sufferings and crucifixion—The Jews will be despised and scattered until the latter days, when they will return unto the Lord. About 588–570 B.C.
 
----
 ###### 1 
 And it came to pass that the Lord commanded me, wherefore I did make plates of ore that I might engraven upon them the record of my people. And upon the plates which I made I did engraven the record of my father, and also our journeyings in the wilderness, and the prophecies of my father; and also many of mine own prophecies have I engraven upon them.
 

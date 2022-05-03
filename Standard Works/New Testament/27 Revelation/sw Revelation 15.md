@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 15
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Exalted Saints praise God in celestial glory forever.
 
----
 ###### 1 
 And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God.
 

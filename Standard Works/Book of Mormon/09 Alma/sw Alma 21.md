@@ -1,10 +1,11 @@
 ---
 title: sw Alma 21
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 21
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/21?lang=eng)
 
----
+```
 An account of the preaching of Aaron, and Muloki, and their brethren, to the Lamanites.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Aaron teaches the Amalekites about Christ and His Atonement—Aaron and his brethren are imprisoned in Middoni—After their deliverance, they teach in the synagogues and make many converts—Lamoni grants religious freedom to the people in the land of Ishmael. About 90–77 B.C.
 
----
 ###### 1 
 Now when Ammon and his brethren separated themselves in the borders of the land of the Lamanites, behold Aaron took his journey towards the land which was called by the Lamanites, Jerusalem, calling it after the land of their fathers’ nativity; and it was away joining the borders of Mormon.
 

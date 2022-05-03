@@ -1,27 +1,25 @@
 ---
 title: Salmos 30
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 30
 [[Salmos 29| <-- Salmos 29]] | [[Salmos]] | [[Salmos 31|Salmos 31 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/30?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/30?lang=por)
 
----
+```
 Salmo e canção de dedicação da casa de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi canta louvores e agradece ao Senhor — Davi implora misericórdia.
 
----
 ###### 1 
 Exaltar-te-ei, ó , porque tu me exaltaste, e não fizeste com que meus inimigos se alegrassem sobre mim.
 

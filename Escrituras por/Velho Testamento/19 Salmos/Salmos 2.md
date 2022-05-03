@@ -1,22 +1,21 @@
 ---
 title: Salmos 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 2
 [[Salmos 1| <-- Salmos 1]] | [[Salmos]] | [[Salmos 3|Salmos 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Salmo messiânico — Os pagãos se amotinarão contra o ungido do Senhor — O Senhor fala de Seu Filho, que Ele gerou.
 
----
 ###### 1 
 Por que se amotinam as nações, e os povos imaginam coisas vãs?
 

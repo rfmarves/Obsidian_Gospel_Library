@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel defeats the Amorites and their allies, and the Lord casts stones from heaven upon them—The sun and moon stand still—Many kings and cities are destroyed—The Lord fought for Israel.
 
----
 ###### 1 
 Now it came to pass, when Adoni-zedek king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them;
 

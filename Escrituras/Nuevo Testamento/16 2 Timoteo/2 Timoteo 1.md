@@ -1,22 +1,21 @@
 ---
 title: 2 Timoteo 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Timoteo 1
 [[1 Timoteo 6| <-- 1 Timoteo 6]] | [[2 Timoteo]] | [[2 Timoteo 2|2 Timoteo 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cristo brinda inmortalidad y vida eterna mediante el Evangelio — Permaneced firmes en la fe.
 
----
 ###### 1 
 Pablo, apóstol de Jesucristo por la voluntad de Dios, según la promesa de la vida que es en Cristo Jesús,
 

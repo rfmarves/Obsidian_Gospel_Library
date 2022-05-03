@@ -1,22 +1,21 @@
 ---
 title: Génesis 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 6
 [[Génesis 5| <-- Génesis 5]] | [[Génesis]] | [[Génesis 7|Génesis 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de Dios se casan con las hijas de los hombres — Los hombres se vuelven inicuos; la tierra se llena de violencia y toda carne se corrompe — Se anuncia el Diluvio — Dios establece Su convenio con Noé, quien construye un arca para salvar a su familia y a diversos seres vivientes.
 
----
 ###### 1 
 Y acaeció que cuando comenzaron los hombres a multiplicarse sobre la faz de la tierra y les nacieron hijas,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Judges 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Samson burns the grain of the Philistines—They burn his wife and father-in-law—Samson slays a thousand Philistines at Lehi with the jawbone of an ass.
 
----
 ###### 1 
 But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in.
 

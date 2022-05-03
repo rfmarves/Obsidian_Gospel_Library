@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 18
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 18
 [[2 Nefi 17| <-- 2 Nefi 17]] | [[2 Nefi]] | [[2 Nefi 19|2 Nefi 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cristo será por tropezadero y piedra de tropiezo — Buscad al Señor y no a los adivinos que atisban — Volveos a la ley y al testimonio para recibir orientación — Compárese con Isaías 8. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Además, la palabra del Señor me dijo: Toma una tabla grande, y escribe en ella con caracteres de hombre tocante a Maher-shalal-hash-baz.
 

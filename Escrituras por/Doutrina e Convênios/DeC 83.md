@@ -1,22 +1,21 @@
 ---
 title: DeC 83
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 83
 [[DeC 82| <-- DeC 82]] | [[DeC]] | [[DeC 84|DeC 84 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/83?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/83?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, As mulheres e as crianças têm o direito de receber de seus maridos e de seus pais o seu sustento; 5–6, As viúvas e os órfãos têm o direito de receber da Igreja o seu sustento.
 
----
 ###### 1 
 Em verdade assim diz o Senhor, como acréscimo às leis da igreja concernentes às mulheres e crianças que pertencem à igreja e que perderam seus maridos ou pais:
 

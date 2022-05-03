@@ -1,10 +1,11 @@
 ---
 title: sw 1 Peter 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Peter 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The elders are to feed the flock of God—Humility and godly graces lead to perfection.
 
----
 ###### 1 
 The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:
 

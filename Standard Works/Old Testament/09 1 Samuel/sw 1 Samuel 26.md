@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 26
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 David again spares Saul’s life—He again refuses to stretch forth his hand against the Lord’s anointed—Saul and David separate.
 
----
 ###### 1 
 And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah,  before Jeshimon?
 

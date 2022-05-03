@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 22
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 22
 [[2 Samuel 21| <-- 2 Samuel 21]] | [[2 Samuel]] | [[2 Samuel 23|2 Samuel 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi louva o Senhor em salmo de ação de graças — O Senhor é sua fortaleza e seu salvador, Ele é forte e poderoso para libertar, Ele recompensa os homens de acordo com a retidão deles, mostra misericórdia aos misericordiosos, Seu caminho é perfeito, Ele vive, e é bendito.
 
----
 ###### 1 
 E falou Davi ao  as palavras deste cântico, no dia em que o  o livrou das mãos de todos os seus inimigos e das mãos de Saul.
 

@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 5
 [[Deuteronomio 4| <-- Deuteronomio 4]] | [[Deuteronomio]] | [[Deuteronomio 6|Deuteronomio 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moisés habla del convenio que Dios hizo con Israel en Horeb — Reitera los Diez Mandamientos — La observancia del día de reposo conmemora también la liberación de Israel del yugo de Egipto — Dios habla al hombre — Las bendiciones provienen de la obediencia.
 
----
 ###### 1 
 Y llamó Moisés a todo Israel y les dijo: Oye, Israel, los estatutos y decretos que yo pronuncio hoy en vuestros oídos; aprendedlos y guardadlos para ponerlos por obra.
 

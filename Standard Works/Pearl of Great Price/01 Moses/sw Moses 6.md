@@ -1,10 +1,11 @@
 ---
 title: sw Moses 6
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moses 6
@@ -15,11 +16,9 @@ people:
 Moses
 (November–December 1830)
 
----
-__Summary__
+> __Summary__
 Adam’s seed keep a book of remembrance—His righteous posterity preach repentance—God reveals Himself to Enoch—Enoch preaches the gospel—The plan of salvation was revealed to Adam—He received baptism and the priesthood.
 
----
 ###### 1 
 And Adam hearkened unto the voice of God, and called upon his sons to repent.
 

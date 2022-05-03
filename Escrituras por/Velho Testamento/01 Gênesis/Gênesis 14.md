@@ -1,22 +1,21 @@
 ---
 title: Gênesis 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 14
 [[Gênesis 13| <-- Gênesis 13]] | [[Gênesis]] | [[Gênesis 15|Gênesis 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ló é capturado nas batalhas dos reis — Ele é resgatado por Abrão — Melquisedeque administra o pão e o vinho, e abençoa Abrão — Abrão paga o dízimo — Ele se recusa a aceitar os espólios da conquista.
 
----
 ###### 1 
 E aconteceu nos dias de Anrafel, rei de Sinear, Arioque, rei de Elasar, Quedorlaomer, rei de Elão, e Tidal, rei de Goim,
 

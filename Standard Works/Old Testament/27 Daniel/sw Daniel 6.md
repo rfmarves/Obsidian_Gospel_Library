@@ -1,10 +1,11 @@
 ---
 title: sw Daniel 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Daniel 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Darius makes Daniel the first of his presidents—Daniel worships the Lord in defiance of a decree of Darius—He is cast into the den of lions—His faith saves him, and Darius decrees that all people are to revere the God of Daniel.
 
----
 ###### 1 
 It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;
 

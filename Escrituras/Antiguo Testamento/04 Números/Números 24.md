@@ -1,22 +1,21 @@
 ---
 title: Números 24
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 24
 [[Números 23| <-- Números 23]] | [[Números]] | [[Números 25|Números 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Balaam ve en visión el destino de Israel y profetiza sobre él — Profetiza acerca del Mesías: Saldrá una Estrella de Jacob y se levantará un cetro de entre Israel.
 
----
 ###### 1 
 Y cuando vio Balaam que le parecía bien a Jehová que él bendijese a Israel, no fue, como la primera y la segunda vez, en busca de agüeros, sino que puso su rostro hacia el desierto;
 

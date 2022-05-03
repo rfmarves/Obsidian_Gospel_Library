@@ -1,22 +1,21 @@
 ---
 title: Gênesis 44
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 44
 [[Gênesis 43| <-- Gênesis 43]] | [[Gênesis]] | [[Gênesis 45|Gênesis 45 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/44?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/44?lang=por)
 
----
-__Resumo__
+> __Resumo__
 José toma providências para impedir o regresso dos seus irmãos a Canaã — Judá se oferece em lugar de Benjamim por causa de seu pai.
 
----
 ###### 1 
 E deu ordem ao que estava sobre a sua casa, dizendo: Enche de mantimento os sacos destes homens, quanto puderem levar, e põe o dinheiro de cada um na boca do seu saco.
 

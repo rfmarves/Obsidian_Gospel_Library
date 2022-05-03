@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 26
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 Temporal and spiritual blessings will abound in Israel if the people keep the commandments—Cursing, scourging, and desolation will be theirs if they disobey the Lord—When His people repent, the Lord will show mercy unto them.
 
----
 ###### 1 
 Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up  image of stone in your land, to bow down unto it: for I  the  your God.
 

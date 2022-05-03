@@ -1,22 +1,21 @@
 ---
 title: Mateo 19
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateo 19
 [[Mateo 18| <-- Mateo 18]] | [[Mateo]] | [[Mateo 20|Mateo 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/matt/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús enseña acerca del matrimonio y del divorcio — La vida eterna es para los que guardan los mandamientos — Los Doce Apóstoles juzgarán a la casa de Israel.
 
----
 ###### 1 
 Y aconteció que cuando acabó Jesús estas palabras, salió de Galilea y fue a la región de Judea, al otro lado del Jordán.
 

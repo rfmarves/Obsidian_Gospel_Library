@@ -1,22 +1,21 @@
 ---
 title: Hebreus 10
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreus 10
 [[Hebreus 9| <-- Hebreus 9]] | [[Hebreus]] | [[Hebreus 11|Hebreus 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Somos santificados pelo derramamento do sangue de Cristo — Explica-se a superioridade de Seu sacrifício — Aqueles que caem da graça por pecado intencional são condenados — O justo viverá pela fé.
 
----
 ###### 1 
 Porque, tendo a lei a sombra dos bens futuros, e não a imagem exata das coisas, nunca, pelos mesmos sacrifícios que continuamente se oferecem cada ano, pode aperfeiçoar os que a eles se chegam.
 

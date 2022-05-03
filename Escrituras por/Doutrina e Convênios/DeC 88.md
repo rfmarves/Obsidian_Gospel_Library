@@ -1,22 +1,21 @@
 ---
 title: DeC 88
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 88
 [[DeC 87| <-- DeC 87]] | [[DeC]] | [[DeC 89|DeC 89 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, Os santos fiéis recebem aquele Consolador, que é a promessa de vida eterna; 6–13, Todas as coisas são controladas e governadas pela Luz de Cristo; 14–16, A Ressurreição vem por meio da Redenção; 17–31, A obediência à lei celestial, terrestre ou telestial prepara os homens para os reinos e glórias respectivos; 32–35, Os que desejarem permanecer no pecado continuarão imundos; 36–41, Todos os reinos são governados por lei; 42–45, Deus deu uma lei para todas as coisas; 46–50, O homem compreenderá até o próprio Deus; 51–61, A parábola do homem que enviou seus servos para o campo e depois os visitou, um por um; 62–73, Aproximai-vos do Senhor e vereis a Sua face; 74–80, Santificai-vos e ensinai-vos uns aos outros as doutrinas do reino; 81–85, Todo homem que tiver sido advertido deverá advertir seu próximo; 86–94, Sinais, convulsão dos elementos e anjos preparam o caminho para a vinda do Senhor; 95–102, Trombetas de anjos chamam os mortos na sua ordem; 103–116, Trombetas de anjos proclamam a restauração do evangelho, a queda de Babilônia e a batalha do grande Deus; 117–126, Buscai conhecimento, estabelecei uma casa de Deus (um templo) e revesti-vos do vínculo da caridade; 127–141, É estabelecida a ordem da Escola dos Profetas, inclusive a ordenança de lava-pés.
 
----
 ###### 1 
 Em verdade assim vos diz o Senhor, a vós que vos reunistes para saber a sua vontade quanto a vós:
 

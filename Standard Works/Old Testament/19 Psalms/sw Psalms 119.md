@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 119
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 119
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/119?lang=eng)
 
----
-__Summary__
+> __Summary__
 Blessed are they who keep the commandments.
 
----
 Blessed are they who keep the commandments.
 
 ###### 1 

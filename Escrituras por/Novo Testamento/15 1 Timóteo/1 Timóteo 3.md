@@ -1,22 +1,21 @@
 ---
 title: 1 Timóteo 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Timóteo 3
 [[1 Timóteo 2| <-- 1 Timóteo 2]] | [[1 Timóteo]] | [[1 Timóteo 4|1 Timóteo 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Enumeram-se as qualificações dos bispos e diáconos — Grande é o mistério da piedade.
 
----
 ###### 1 
 Esta  palavra fiel: Se alguém deseja o episcopado, excelente obra deseja.
 

@@ -1,22 +1,21 @@
 ---
 title: Gênesis 40
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 40
 [[Gênesis 39| <-- Gênesis 39]] | [[Gênesis]] | [[Gênesis 41|Gênesis 41 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/40?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/40?lang=por)
 
----
-__Resumo__
+> __Resumo__
 José interpreta o sonho do copeiro-mor e do padeiro-mor — O copeiro-mor esquece de falar de José a Faraó.
 
----
 ###### 1 
 E aconteceu, depois dessas coisas, que o copeiro do rei do Egito e o padeiro ofenderam o seu senhor, o rei do Egito.
 

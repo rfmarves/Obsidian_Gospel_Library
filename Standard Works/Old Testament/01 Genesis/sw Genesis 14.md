@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Lot is captured in the battles of the kings—He is rescued by Abram—Melchizedek administers bread and wine and blesses Abram—Abram pays tithes—He declines to accept the spoils of conquest.
 
----
 ###### 1 
 And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;
 

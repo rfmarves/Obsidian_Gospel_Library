@@ -1,22 +1,21 @@
 ---
 title: Hechos 5
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 5
 [[Hechos 4| <-- Hechos 4]] | [[Hechos]] | [[Hechos 6|Hechos 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ananías y Safira mienten al Señor y pierden la vida — Los apóstoles continúan efectuando los milagros de Jesús — Se arresta a Pedro y a Juan; un ángel los libera de la prisión y testifican de Cristo — Gamaliel aconseja prudencia.
 
----
 ###### 1 
 Pero un hombre llamado Ananías, con Safira, su esposa, vendió una propiedad
 

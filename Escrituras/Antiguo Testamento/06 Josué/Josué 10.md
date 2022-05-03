@@ -1,22 +1,21 @@
 ---
 title: Josué 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 10
 [[Josué 9| <-- Josué 9]] | [[Josué]] | [[Josué 11|Josué 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel derrota a los amorreos y a sus aliados, y Jehová arroja piedras del cielo sobre ellos — El sol y la luna se detienen — Muchos reyes y ciudades son destruidos — Jehová peleó por Israel.
 
----
 ###### 1 
 Y aconteció que cuando Adonisedec, rey de Jerusalén, oyó que Josué había tomado Hai, y que la había asolado (como había hecho a Jericó y a su rey, así le hizo a Hai y a su rey), y que los moradores de Gabaón habían hecho la paz con los israelitas, y que estaban entre ellos,
 

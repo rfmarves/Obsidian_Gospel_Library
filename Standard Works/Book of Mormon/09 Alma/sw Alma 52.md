@@ -1,10 +1,11 @@
 ---
 title: sw Alma 52
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 52
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/52?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ammoron succeeds Amalickiah as king of the Lamanites—Moroni, Teancum, and Lehi lead the Nephites in a victorious war against the Lamanites—The city of Mulek is retaken, and Jacob the Zoramite is slain. About 66–64 B.C.
 
----
 ###### 1 
 And now, it came to pass in the twenty and sixth year of the reign of the judges over the people of Nephi, behold, when the Lamanites awoke on the first morning of the first month, behold, they found Amalickiah was dead in his own tent; and they also saw that Teancum was ready to give them battle on that day.
 

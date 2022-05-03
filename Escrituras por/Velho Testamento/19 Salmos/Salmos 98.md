@@ -1,27 +1,25 @@
 ---
 title: Salmos 98
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 98
 [[Salmos 97| <-- Salmos 97]] | [[Salmos]] | [[Salmos 99|Salmos 99 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/98?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/98?lang=por)
 
----
+```
 Salmo.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Cantai ao Senhor — Todas as extremidades da Terra verão Sua salvação — Ele vem para julgar todos os homens com equidade e retidão.
 
----
 ###### 1 
 Cantai ao   cântico novo, porque fez maravilhas; a sua destra e o seu braço santo lhe alcançaram a salvação.
 

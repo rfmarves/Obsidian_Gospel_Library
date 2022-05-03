@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 26
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 Many members of the Church are led into sin by unbelievers—Alma is promised eternal life—Those who repent and are baptized gain forgiveness—Church members in sin who repent and confess to Alma and to the Lord will be forgiven; otherwise, they will not be numbered among the people of the Church. About 120–100 B.C.
 
----
 ###### 1 
 Now it came to pass that there were many of the rising generation that could not understand the words of king Benjamin, being little children at the time he spake unto his people; and they did not believe the tradition of their fathers.
 

@@ -1,22 +1,21 @@
 ---
 title: Juízes 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 8
 [[Juízes 7| <-- Juízes 7]] | [[Juízes]] | [[Juízes 9|Juízes 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Gideão persegue e destrói os midianitas — Ele liberta os filhos de Israel mas recusa seu convite para reinar sobre eles — Gideão morre, e Israel retorna à idolatria.
 
----
 ###### 1 
 Então os homens de Efraim lhes disseram: Que é isto que nos fizeste, que não nos chamaste, quando foste pelejar contra os midianitas? E contenderam com ele fortemente.
 

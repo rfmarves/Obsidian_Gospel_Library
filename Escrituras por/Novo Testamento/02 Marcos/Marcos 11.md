@@ -1,22 +1,21 @@
 ---
 title: Marcos 11
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 11
 [[Marcos 10| <-- Marcos 10]] | [[Marcos]] | [[Marcos 12|Marcos 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus entra em Jerusalém em meio a brados de hosana — Ele amaldiçoa uma figueira, expulsa os cambistas do templo e confunde os escribas no tocante à questão da autoridade.
 
----
 ###### 1 
 E logo que se aproximaram de Jerusalém, de Betfagé e de Betânia, junto do Monte das Oliveiras, enviou dois dos seus discípulos,
 

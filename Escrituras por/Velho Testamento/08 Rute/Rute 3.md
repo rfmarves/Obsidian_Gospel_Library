@@ -1,22 +1,21 @@
 ---
 title: Rute 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Rute 3
 [[Rute 2| <-- Rute 2]] | [[Rute]] | [[Rute 4|Rute 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ruth/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ruth/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Instruída por Noemi, Rute se deita aos pés de Boaz — Ele promete, como parente, tomá-la por esposa.
 
----
 ###### 1 
 E disse-lhe Noemi, sua sogra: Minha filha, não hei eu de buscar descanso, para que fiques bem?
 

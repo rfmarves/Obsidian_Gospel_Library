@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 113
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 113
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/113?lang=eng)
 
----
-__Summary__
+> __Summary__
 Blessed be the name of the Lord—Who is like unto the Lord our God?
 
----
 ###### 1 
 Praise ye the . Praise, O ye servants of the , praise the name of the .
 

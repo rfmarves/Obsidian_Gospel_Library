@@ -1,22 +1,21 @@
 ---
 title: Isaías 52
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 52
 [[Isaías 51| <-- Isaías 51]] | [[Isaías]] | [[Isaías 53|Isaías 53 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/52?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/52?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los últimos días, Sion volverá e Israel será redimido — El Mesías actuará con prudencia y será exaltado.
 
----
 ###### 1 
 ¡Despierta, despierta, vístete de tu poder, oh Sion! ¡Vístete de tus ropas hermosas, oh Jerusalén, ciudad santa! Porque nunca más vendrá a ti el incircunciso ni el impuro.
 

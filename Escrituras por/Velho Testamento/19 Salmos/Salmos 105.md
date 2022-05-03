@@ -1,22 +1,21 @@
 ---
 title: Salmos 105
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 105
 [[Salmos 104| <-- Salmos 104]] | [[Salmos]] | [[Salmos 106|Salmos 106 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/105?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/105?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Fazei conhecidos os feitos do Senhor entre todos os homens — Mostrai o convênio que Ele fez com Abraão e como agiu em relação a Israel — Não toqueis os Seus ungidos e não maltrateis os Seus profetas — Israel deve observar Seus estatutos e guardar Suas leis.
 
----
 ###### 1 
 Louvai ao ,  invocai o seu nome; fazei conhecidas as suas obras entre os povos.
 

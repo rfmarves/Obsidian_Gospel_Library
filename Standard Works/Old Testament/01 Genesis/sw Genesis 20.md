@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abimelech desires Sarah, who is preserved by the Lord—Abraham prays for Abimelech, and the Lord blesses him and his household.
 
----
 ###### 1 
 And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.
 

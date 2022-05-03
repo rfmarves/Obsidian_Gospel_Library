@@ -1,10 +1,11 @@
 ---
 title: sw Job 29
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job recalls his former prosperity and greatness—He was blessed because of his righteousness, his charity, and his good deeds.
 
----
 ###### 1 
 Moreover Job continued his parable, and said,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Judges 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel is in bondage to the Midianites—An angel appears to Gideon and calls him to deliver Israel—He overthrows the altar of Baal, the Spirit of the Lord rests upon him, and the Lord gives him a sign to show he is called to deliver Israel.
 
----
 ###### 1 
 And the children of Israel did evil in the sight of the : and the  delivered them into the hand of Midian seven years.
 

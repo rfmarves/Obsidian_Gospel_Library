@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 13
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 13
 [[2 Nefi 12| <-- 2 Nefi 12]] | [[2 Nefi]] | [[2 Nefi 14|2 Nefi 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Judá y Jerusalén serán castigadas por su desobediencia — El Señor litiga con Su pueblo y lo juzga — Las hijas de Sion son maldecidas y atormentadas por sus costumbres mundanas — Compárese con Isaías 3. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Porque he aquí que el Señor, el Señor de los Ejércitos, quita de Jerusalén y de Judá el apoyo y el sostén; todo sustento de pan, y todo socorro de agua;
 

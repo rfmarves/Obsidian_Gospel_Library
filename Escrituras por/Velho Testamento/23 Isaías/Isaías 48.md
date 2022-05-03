@@ -1,22 +1,21 @@
 ---
 title: Isaías 48
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 48
 [[Isaías 47| <-- Isaías 47]] | [[Isaías]] | [[Isaías 49|Isaías 49 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/48?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/48?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor revela Seus propósitos a Israel — Israel foi escolhida na fornalha da aflição e há de sair da Babilônia — Comparar com 1 Néfi 20.
 
----
 ###### 1 
 Ouvi isto, casa de Jacó, que sois chamados pelo nome de Israel, e saístes das águas de Judá, que jurais pelo nome do , e fazeis menção do Deus de Israel,  não em verdade nem em justiça.
 

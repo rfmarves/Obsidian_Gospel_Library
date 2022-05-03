@@ -1,22 +1,21 @@
 ---
 title: Provérbios 30
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 30
 [[Provérbios 29| <-- Provérbios 29]] | [[Provérbios]] | [[Provérbios 31|Provérbios 31 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/30?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/30?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Toda palavra de Deus é pura — Não me dês nem a pobreza nem a riqueza.
 
----
 ###### 1 
 Palavras de Agur, filho de Jaque, a profecia; disse este homem a Itiel; a Itiel e a Ucal:
 

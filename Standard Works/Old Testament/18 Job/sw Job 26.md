@@ -1,10 +1,11 @@
 ---
 title: sw Job 26
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job reproves Bildad’s lack of empathy—He extols the power, greatness, and strength of the Lord.
 
----
 ###### 1 
 But Job answered and said,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 48
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 48
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/48?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord reveals His purposes to Israel—Israel has been chosen in the furnace of affliction and is to depart from Babylon—Compare 1 Nephi 20.
 
----
 ###### 1 
 Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the , and make mention of the God of Israel,  not in truth, nor in righteousness.
 

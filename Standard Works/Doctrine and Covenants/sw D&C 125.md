@@ -1,10 +1,11 @@
 ---
 title: sw D&C 125
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 125
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/125?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, The Saints are to build cities and to gather to the stakes of Zion.
 
----
 ###### 1 
 What is the will of the Lord concerning the saints in the Territory of Iowa?
 

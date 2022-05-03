@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 58
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 58
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=eng)
 
----
-__Summary__
+> __Summary__
 The true law of the fast, with its purposes and attendant blessings, is set forth—The commandment to keep the Sabbath is given.
 
----
 ###### 1 
 Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins.
 

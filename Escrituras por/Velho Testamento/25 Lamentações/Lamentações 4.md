@@ -1,22 +1,21 @@
 ---
 title: Lamentações 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lamentações 4
 [[Lamentações 3| <-- Lamentações 3]] | [[Lamentações]] | [[Lamentações 5|Lamentações 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lam/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lam/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A situação de Sião é lastimável por causa do pecado e da iniquidade.
 
----
 ###### 1 
 Como se escureceu o ouro!  se mudou o ouro fino e bom!  estão espalhadas as pedras do santuário pelas esquinas de todas as ruas!
 

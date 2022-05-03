@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses and the princes in Israel count from each tribe (except Levi) those males twenty years of age and older—They total 603,550—The Levites are appointed to attend the tabernacle.
 
----
 ###### 1 
 And the  spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first  of the second month, in the second year after they were come out of the land of Egypt, saying,
 

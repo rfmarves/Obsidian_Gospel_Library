@@ -1,22 +1,21 @@
 ---
 title: Josué 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 16
 [[Josué 15| <-- Josué 15]] | [[Josué]] | [[Josué 17|Josué 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de José (Efraim e Manassés) recebem sua herança — Alguns cananeus continuam a habitar entre os efraimitas.
 
----
 ###### 1 
 Saiu depois a sorte dos filhos de José, desde o Jordão, na altura de Jericó, às águas de Jericó, para o oriente, subindo ao deserto de Jericó pelas montanhas de Betel;
 

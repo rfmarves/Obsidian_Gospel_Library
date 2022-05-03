@@ -1,22 +1,21 @@
 ---
 title: DeC 84
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 84
 [[DeC 83| <-- DeC 83]] | [[DeC]] | [[DeC 85|DeC 85 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, A Nova Jerusalém e o templo serão construídos no Estado de Missouri; 6–17, Dá-se a linha do sacerdócio, de Moisés a Adão; 18–25, O sacerdócio maior contém a chave do conhecimento de Deus; 26–32, O sacerdócio menor contém a chave do ministério de anjos e do evangelho preparatório; 33–44, Os homens ganham vida eterna por meio do juramento e convênio do sacerdócio; 45–53, O Espírito de Cristo ilumina os homens e o mundo encontra-se em pecado; 54–61, Os santos devem testificar a respeito das coisas que receberam; 62–76, Devem pregar o evangelho e sinais suceder-se-ão; 77–91, Os élderes deverão sair sem bolsa nem alforje e o Senhor cuidará de suas necessidades; 92–97, Pragas e maldições aguardam os que rejeitam o evangelho; 98–102, Dá-se o novo cântico da redenção de Sião; 103–110, Que cada homem ocupe seu cargo e trabalhe em seu próprio chamado; 111–120, Os servos do Senhor devem anunciar a abominação da desolação dos últimos dias.
 
----
 ###### 1 
 Uma revelação de Jesus Cristo a seu servo Joseph Smith Júnior e seis élderes, ao unirem o coração e erguerem a voz ao céu.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ether 8
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ether 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 There is strife and contention over the kingdom—Akish forms an oath-bound secret combination to slay the king—Secret combinations are of the devil and result in the destruction of nations—Modern Gentiles are warned against the secret combination that will seek to overthrow the freedom of all lands, nations, and countries.
 
----
 ###### 1 
 And it came to pass that he begat Omer, and Omer reigned in his stead. And Omer begat Jared; and Jared begat sons and daughters.
 

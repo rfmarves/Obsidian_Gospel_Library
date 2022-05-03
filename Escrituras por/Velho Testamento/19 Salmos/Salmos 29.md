@@ -1,27 +1,25 @@
 ---
 title: Salmos 29
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 29
 [[Salmos 28| <-- Salmos 28]] | [[Salmos]] | [[Salmos 30|Salmos 30 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/29?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/29?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi aconselha: Adorai ao Senhor na beleza da santidade — Davi descreve a majestade e o poder da voz do Senhor.
 
----
 ###### 1 
 Dai ao , ó filhos dos poderosos, dai ao  glória e força.
 

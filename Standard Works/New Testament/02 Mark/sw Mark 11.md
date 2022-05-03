@@ -1,10 +1,11 @@
 ---
 title: sw Mark 11
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus rides into Jerusalem amid shouts of hosanna—He curses a fig tree, drives the money changers from the temple, and confounds the scribes on the matter of authority.
 
----
 ###### 1 
 And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples,
 

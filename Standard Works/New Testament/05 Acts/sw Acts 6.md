@@ -1,10 +1,11 @@
 ---
 title: sw Acts 6
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Apostles choose seven to assist them—Stephen is tried before the council.
 
----
 ###### 1 
 And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.
 

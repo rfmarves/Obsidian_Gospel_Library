@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 24
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 24
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/24?lang=eng)
 
----
-__Summary__
+> __Summary__
 Men will transgress the law and break the everlasting covenant—At the Second Coming, they will be burned, the earth will reel, and the sun will be ashamed—Then the Lord will reign in Zion and in Jerusalem.
 
----
 ###### 1 
 Behold, the  maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof.
 

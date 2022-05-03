@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 7
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 John also sees in the sixth seal the Restoration of the gospel, the sealing of the 144,000, and the hosts of the exalted from all nations.
 
----
 ###### 1 
 And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.
 

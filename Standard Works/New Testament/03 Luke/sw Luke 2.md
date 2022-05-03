@@ -1,10 +1,11 @@
 ---
 title: sw Luke 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Heavenly messengers herald the birth of Jesus in Bethlehem—He is circumcised, and Simeon and Anna prophesy of His mission—At twelve years of age, He goes about His Father’s business.
 
----
 ###### 1 
 And it came to pass in those days, that there went out a decree from Cæsar Augustus, that all the world should be taxed.
 

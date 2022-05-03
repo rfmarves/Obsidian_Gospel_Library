@@ -1,10 +1,11 @@
 ---
 title: sw Acts 11
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 God grants the gift of repentance to the Gentiles—The disciples are first called Christians at Antioch—The Church is guided by revelation.
 
----
 ###### 1 
 And the apostles and brethren that were in Judæa heard that the Gentiles had also received the word of God.
 

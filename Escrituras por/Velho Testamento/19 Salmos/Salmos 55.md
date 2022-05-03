@@ -1,27 +1,25 @@
 ---
 title: Salmos 55
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 55
 [[Salmos 54| <-- Salmos 54]] | [[Salmos]] | [[Salmos 56|Salmos 56 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/55?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/55?lang=por)
 
----
+```
 Masquil de Davi para o músico-mor, sobre Neginote.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi ora pela manhã, ao meio-dia e à noite — Ele busca proteção e ajuda contra seus inimigos.
 
----
 ###### 1 
 Inclina, ó Deus, os  ouvidos à minha oração, e não te escondas da minha súplica.
 

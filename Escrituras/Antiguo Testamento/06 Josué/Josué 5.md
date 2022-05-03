@@ -1,22 +1,21 @@
 ---
 title: Josué 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 5
 [[Josué 4| <-- Josué 4]] | [[Josué]] | [[Josué 6|Josué 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los habitantes de Canaán temen a Israel — Los varones de Israel son circuncidados — Israel guarda la Pascua y come del fruto de la tierra; cesa el maná — El Príncipe del ejército de Jehová se le aparece a Josué.
 
----
 ###### 1 
 Y cuando todos los reyes de los amorreos, que estaban al otro lado del Jordán, al occidente, y todos los reyes de los cananeos que estaban cerca del mar, oyeron cómo Jehová había secado las aguas del Jordán delante de los hijos de Israel hasta que hubieron pasado, desfalleció su corazón, y no hubo más ánimo en ellos por causa de los hijos de Israel.
 

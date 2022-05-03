@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord again appears to Solomon—The Lord promises great blessings if the Israelites are obedient and great cursings if they forsake Him—Solomon reigns in splendor, levies tribute upon the non-Israelites, and builds a navy of ships.
 
----
 ###### 1 
 And it came to pass, when Solomon had finished the building of the house of the , and the king’s house, and all Solomon’s desire which he was pleased to do,
 

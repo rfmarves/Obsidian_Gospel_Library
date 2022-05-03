@@ -1,27 +1,25 @@
 ---
 title: Salmos 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 20
 [[Salmos 19| <-- Salmos 19]] | [[Salmos]] | [[Salmos 21|Salmos 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/20?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi ora pedindo que o Senhor ouça nos momentos de provação — O Senhor salva Seu ungido.
 
----
 ###### 1 
 O  te ouça no dia da angústia; o nome do Deus de Jacó te proteja.
 

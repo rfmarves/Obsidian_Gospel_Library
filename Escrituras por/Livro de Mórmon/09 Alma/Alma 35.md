@@ -1,22 +1,21 @@
 ---
 title: Alma 35
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 35
 [[Alma 34| <-- Alma 34]] | [[Alma]] | [[Alma 36|Alma 36 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/35?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/35?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A pregação da palavra destrói a astúcia dos zoramitas — Eles expulsam os conversos, que então se juntam ao povo de Amon em Jérson — Alma entristece-se por causa da iniquidade do povo. Aproximadamente 74 a.C.
 
----
 ###### 1 
 Ora, aconteceu que tendo Amuleque acabado de dizer essas palavras, eles se afastaram da multidão e dirigiram-se à terra de Jérson.
 

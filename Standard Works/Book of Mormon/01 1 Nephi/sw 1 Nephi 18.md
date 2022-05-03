@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 18
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 The ship is finished—The births of Jacob and Joseph are mentioned—The company embarks for the promised land—The sons of Ishmael and their wives join in revelry and rebellion—Nephi is bound, and the ship is driven back by a terrible tempest—Nephi is freed, and by his prayer the storm ceases—The people arrive in the promised land. About 591–589 B.C.
 
----
 ###### 1 
 And it came to pass that they did worship the Lord, and did go forth with me; and we did work timbers of curious workmanship. And the Lord did show me from time to time after what manner I should work the timbers of the ship.
 

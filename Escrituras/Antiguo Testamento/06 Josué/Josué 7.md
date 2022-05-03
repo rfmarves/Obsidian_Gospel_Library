@@ -1,22 +1,21 @@
 ---
 title: Josué 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 7
 [[Josué 6| <-- Josué 6]] | [[Josué]] | [[Josué 8|Josué 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel es derrotado por el pueblo de Hai — Josué se queja a Jehová — Acán y los de su casa son destruidos porque este desobedeció a Jehová al tomar de los despojos de Jericó.
 
----
 ###### 1 
 Pero los hijos de Israel cometieron una infidelidad con respecto al anatema, porque Acán hijo de Carmi, hijo de Zabdi, hijo de Zera, de la tribu de Judá, tomó del anatema, y la ira de Jehová se encendió contra los hijos de Israel.
 

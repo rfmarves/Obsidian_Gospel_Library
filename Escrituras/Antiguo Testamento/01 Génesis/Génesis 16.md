@@ -1,22 +1,21 @@
 ---
 title: Génesis 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 16
 [[Génesis 15| <-- Génesis 15]] | [[Génesis]] | [[Génesis 17|Génesis 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Sarai da su sierva Agar por esposa a Abram — Agar huye de Sarai — Un ángel manda a Agar que vuelva y sea sumisa a Sarai — Agar da a luz a Ismael.
 
----
 ###### 1 
 Y Sarai, esposa de Abram, no le daba hijos; y ella tenía una sierva egipcia que se llamaba Agar.
 

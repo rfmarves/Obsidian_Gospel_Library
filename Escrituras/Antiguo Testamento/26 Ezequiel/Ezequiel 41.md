@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 41
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 41
 [[Ezequiel 40| <-- Ezequiel 40]] | [[Ezequiel]] | [[Ezequiel 42|Ezequiel 42 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/41?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/41?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequiel ve el interior del templo y el Lugar Santísimo, y se le muestran su forma y tamaño.
 
----
 ###### 1 
 Me llevó luego al templo y midió las pilastras, siendo el ancho seis codos de un lado y seis codos del otro, que era la anchura del tabernáculo.
 

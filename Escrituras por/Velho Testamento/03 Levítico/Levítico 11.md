@@ -1,22 +1,21 @@
 ---
 title: Levítico 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 11
 [[Levítico 10| <-- Levítico 10]] | [[Levítico]] | [[Levítico 12|Levítico 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor revela as criaturas vivas que podem e as que não podem ser comidas; e quais são as limpas e quais são as imundas — Ele ordena a Israel: Sereis santos, porque eu sou santo.
 
----
 ###### 1 
 E falou o  a Moisés e a Aarão, dizendo-lhes:
 

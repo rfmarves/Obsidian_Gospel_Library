@@ -1,22 +1,21 @@
 ---
 title: Génesis 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 1
 | [[Génesis]] | [[Génesis 2|Génesis 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dios crea esta tierra y su cielo y todas las formas de vida en seis días — Se describen los hechos de cada día de la Creación — Dios crea al hombre, varón y hembra, a Su propia imagen — Se da dominio al hombre sobre todas las cosas, y se le manda multiplicarse y henchir la tierra.
 
----
 ###### 1 
 En el principio creó Dios los cielos y la tierra.
 

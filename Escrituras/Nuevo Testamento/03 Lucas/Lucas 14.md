@@ -1,22 +1,21 @@
 ---
 title: Lucas 14
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 14
 [[Lucas 13| <-- Lucas 13]] | [[Lucas]] | [[Lucas 15|Lucas 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús vuelve a sanar en el día de reposo — Enseña acerca de la humildad y enseña la parábola de la gran cena — Quienes le sigan deben renunciar a todo.
 
----
 ###### 1 
 Y aconteció un día de reposo que, habiendo entrado en casa de un principal de los fariseos a comer pan, ellos le acechaban.
 

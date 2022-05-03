@@ -1,22 +1,21 @@
 ---
 title: 3 Néfi 3
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Néfi 3
 [[3 Néfi 2| <-- 3 Néfi 2]] | [[3 Néfi]] | [[3 Néfi 4|3 Néfi 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Gidiâni, chefe do bando de Gadiânton, exige que Laconeu e os nefitas se rendam e entreguem suas terras — Laconeu nomeia Gidgidôni capitão-chefe dos exércitos — Os nefitas reúnem-se em Zaraenla e Abundância para defenderem-se. Aproximadamente 16–18 d.C.
 
----
 ###### 1 
 E então aconteceu que no décimo sexto ano depois da vinda de Cristo, Laconeu, governador da terra, recebeu uma epístola do chefe e governador desse bando de ladrões; e estas foram as palavras escritas, dizendo:
 

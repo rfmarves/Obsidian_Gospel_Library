@@ -1,10 +1,11 @@
 ---
 title: sw Acts 18
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Being rejected by the Jews, Paul turns to the Gentiles—He preaches, ministers, and travels—Apollos also preaches with power.
 
----
 ###### 1 
 After these things Paul departed from Athens, and came to Corinth;
 

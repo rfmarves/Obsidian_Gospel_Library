@@ -1,10 +1,11 @@
 ---
 title: sw Romans 15
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 True Saints fellowship one another—Paul recounts his diligence in preaching the gospel—The gifts of the Spirit are poured out upon the Gentiles.
 
----
 ###### 1 
 We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.
 

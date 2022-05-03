@@ -1,22 +1,21 @@
 ---
 title: Salmos 106
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 106
 [[Salmos 105| <-- Salmos 105]] | [[Salmos]] | [[Salmos 107|Salmos 107 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/106?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/106?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Louvai ao Senhor por Sua misericórdia e obras poderosas — Israel rebelou-se e cometeu iniquidade — Moisés intercedeu por Israel perante o Senhor — Israel foi dispersa e morta por adorar deuses falsos.
 
----
 ###### 1 
 Louvai ao . Louvai ao , porque ele é bom, porque a sua misericórdia  para sempre.
 

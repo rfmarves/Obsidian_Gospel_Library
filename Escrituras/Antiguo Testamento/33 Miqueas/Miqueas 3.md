@@ -1,22 +1,21 @@
 ---
 title: Miqueas 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Miqueas 3
 [[Miqueas 2| <-- Miqueas 2]] | [[Miqueas]] | [[Miqueas 4|Miqueas 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/micah/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/micah/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los sacerdotes que enseñan por precio y los profetas que adivinan por dinero traen maldición sobre el pueblo.
 
----
 ###### 1 
 Y dije: Oíd ahora, oh gobernantes de Jacob y jefes de la casa de Israel: ¿No os corresponde a vosotros saber lo que es justo?
 

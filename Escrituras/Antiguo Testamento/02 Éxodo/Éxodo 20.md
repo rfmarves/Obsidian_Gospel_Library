@@ -1,22 +1,21 @@
 ---
 title: Éxodo 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 20
 [[Éxodo 19| <-- Éxodo 19]] | [[Éxodo]] | [[Éxodo 21|Éxodo 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová revela los Diez Mandamientos — Israel debe testificar que Jehová ha hablado desde el cielo — Se prohíbe a los hijos de Israel hacer dioses de plata o de oro — Deben hacer altares de piedras sin labrar y hacer sacrificios a Jehová.
 
----
 ###### 1 
 Y habló Dios todas estas palabras, diciendo:
 

@@ -1,10 +1,11 @@
 ---
 title: sw Alma 59
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 59
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/59?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moroni asks Pahoran to strengthen the forces of Helaman—The Lamanites take the city of Nephihah—Moroni is angry with the government. About 62 B.C.
 
----
 ###### 1 
 Now it came to pass in the thirtieth year of the reign of the judges over the people of Nephi, after Moroni had received and had read Helaman’s epistle, he was exceedingly rejoiced because of the welfare, yea, the exceeding success which Helaman had had, in obtaining those lands which were lost.
 

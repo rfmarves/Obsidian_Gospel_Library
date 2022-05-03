@@ -1,22 +1,21 @@
 ---
 title: João 6
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 6
 [[João 5| <-- João 5]] | [[João]] | [[João 7|João 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus alimenta cinco mil — Ele caminha sobre o mar — Ele é o maná vivo enviado de Deus — A salvação é alcançada comendo-se o pão da vida — Jesus explica como os homens comem Sua carne e bebem Seu sangue — Pedro testifica que Jesus é o Messias.
 
----
 ###### 1 
 Depois disso Jesus partiu para o outro lado do mar da Galileia, que é  de Tiberíades.
 

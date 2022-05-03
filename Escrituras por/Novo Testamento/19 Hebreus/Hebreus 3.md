@@ -1,22 +1,21 @@
 ---
 title: Hebreus 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreus 3
 [[Hebreus 2| <-- Hebreus 2]] | [[Hebreus]] | [[Hebreus 4|Hebreus 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo é o Apóstolo e Sumo Sacerdote da fé que professamos — Jesus, sendo o Filho, é mais do que um servo — Agora é a hora e o dia de nossa salvação.
 
----
 ###### 1 
 Pelo que, irmãos santos, participantes da vocação celestial, considerai atentamente Jesus Cristo, apóstolo e sumo sacerdote da fé que professamos,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 47
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 47
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/47?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah foretells desolation and destruction upon the Philistines.
 
----
 ###### 1 
 The word of the  that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza.
 

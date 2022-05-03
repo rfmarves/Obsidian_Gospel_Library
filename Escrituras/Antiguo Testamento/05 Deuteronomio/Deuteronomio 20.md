@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 20
 [[Deuteronomio 19| <-- Deuteronomio 19]] | [[Deuteronomio]] | [[Deuteronomio 21|Deuteronomio 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se revelan las leyes para la selección de soldados y para hacer la guerra — Los heteos, amorreos, cananeos, ferezeos, heveos y jebuseos serán destruidos completamente.
 
----
 ###### 1 
 Cuando salgas a la guerra contra tus enemigos y veas caballos y carros, y un pueblo más numeroso que tú, no tengas temor de ellos, porque Jehová tu Dios está contigo, quien te sacó de la tierra de Egipto.
 

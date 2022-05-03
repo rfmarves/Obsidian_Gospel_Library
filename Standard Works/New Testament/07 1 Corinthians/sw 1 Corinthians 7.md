@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 7
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul answers special questions about marriage among those called on missions—Paul praises self-discipline.
 
----
 ###### 1 
 Now concerning the things whereof ye wrote unto me:  good for a man not to touch a woman.
 

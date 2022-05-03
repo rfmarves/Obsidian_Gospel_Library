@@ -1,22 +1,21 @@
 ---
 title: Levíticos 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 2
 [[Levíticos 1| <-- Levíticos 1]] | [[Levíticos]] | [[Levíticos 3|Levíticos 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La forma en que deben hacerse las ofrendas de grano con aceite e incienso.
 
----
 ###### 1 
 Y cuando alguna persona ofrezca una ofrenda de grano a Jehová, su ofrenda será de flor de harina, sobre la cual echará aceite y pondrá sobre ella incienso;
 

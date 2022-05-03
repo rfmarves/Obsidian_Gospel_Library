@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 96
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 96
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/96?lang=eng)
 
----
-__Summary__
+> __Summary__
 Sing praises unto the Lord—Declare His name among the nations—Worship the Lord in the beauty of holiness—He comes to judge His people and the world.
 
----
 ###### 1 
 O sing unto the  a new song: sing unto the , all the earth.
 

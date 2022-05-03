@@ -1,22 +1,21 @@
 ---
 title: Josué 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 21
 [[Josué 20| <-- Josué 20]] | [[Josué]] | [[Josué 22|Josué 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los levitas reciben cuarenta y ocho ciudades con sus aldeas — Jehová cumple todas Sus promesas y da reposo a Israel.
 
----
 ###### 1 
 Y los jefes de las casas paternas de los levitas vinieron a Eleazar, el sacerdote, y a Josué hijo de Nun, y a los jefes de las casas paternas de las tribus de los hijos de Israel;
 

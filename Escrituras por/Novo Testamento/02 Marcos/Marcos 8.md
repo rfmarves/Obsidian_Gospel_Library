@@ -1,22 +1,21 @@
 ---
 title: Marcos 8
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 8
 [[Marcos 7| <-- Marcos 7]] | [[Marcos]] | [[Marcos 9|Marcos 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus alimenta quatro mil — Ele aconselha: Guardai-vos do fermento dos fariseus — Ele cura um homem cego em Betsaida — Pedro testifica que Jesus é o Cristo.
 
----
 ###### 1 
 Naqueles dias, havendo outra vez uma grande multidão, e não tendo o que comer, Jesus chamou a si os seus discípulos, e disse-lhes:
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 10
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jacob explains that the Jews will crucify their God—They will be scattered until they begin to believe in Him—America will be a land of liberty where no king will rule—Reconcile yourselves to God and gain salvation through His grace. About 559–545 B.C.
 
----
 ###### 1 
 And now I, Jacob, speak unto you again, my beloved brethren, concerning this righteous branch of which I have spoken.
 

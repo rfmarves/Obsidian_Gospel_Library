@@ -1,22 +1,21 @@
 ---
 title: Alma 52
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 52
 [[Alma 51| <-- Alma 51]] | [[Alma]] | [[Alma 53|Alma 53 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/52?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/52?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amoron sucede a Amaliquias como rei dos lamanitas — Morôni, Teâncum e Leí guiam os nefitas em uma guerra vitoriosa contra os lamanitas — A cidade de Muleque é retomada e Jacó, o zoramita, é morto. Aproximadamente 66–64 a.C.
 
----
 ###### 1 
 E então aconteceu, no vigésimo sexto ano em que os juízes governaram o povo de Néfi, que quando despertaram na primeira manhã do primeiro mês, eis que os lamanitas descobriram que Amaliquias estava morto em sua tenda; e também viram que Teâncum estava pronto para atacá-los naquele dia.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Abraham 4
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Abraham 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/abr/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Gods plan the creation of the earth and all life thereon—Their plans for the six days of creation are set forth.
 
----
 ###### 1 
 And then the Lord said: Let us go down. And they went down at the beginning, and they, that is the Gods, organized and formed the heavens and the earth.
 

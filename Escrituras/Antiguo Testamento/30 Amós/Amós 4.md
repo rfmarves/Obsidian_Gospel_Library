@@ -1,22 +1,21 @@
 ---
 title: Amós 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 4
 [[Amós 3| <-- Amós 3]] | [[Amós]] | [[Amós 5|Amós 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová retiene la lluvia, envía hambre y pestilencia, y destruye huertos y viñas como juicios sobre los de Su pueblo, pero aun así, estos no se vuelven a Él.
 
----
 ###### 1 
 Oíd esta palabra, vacas de Basán, que estáis en el monte de Samaria, que oprimís a los pobres, que quebrantáis a los menesterosos, que decís a vuestros señores: Traed, y beberemos.
 

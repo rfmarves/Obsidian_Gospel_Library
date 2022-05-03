@@ -1,22 +1,21 @@
 ---
 title: Isaías 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 21
 [[Isaías 20| <-- Isaías 20]] | [[Isaías]] | [[Isaías 22|Isaías 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 ¡Ha caído, ha caído Babilonia! — Otras naciones también son destruidas.
 
----
 ###### 1 
 Profecía sobre el desierto del mar: Como los torbellinos que pasan por la región del sur,  viene del desierto, de la tierra horrenda.
 

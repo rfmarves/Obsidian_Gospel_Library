@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 7
 [[2 Nefi 6| <-- 2 Nefi 6]] | [[2 Nefi]] | [[2 Nefi 8|2 Nefi 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob continúa leyendo en Isaías: Isaías habla en lenguaje mesiánico — El Mesías tendrá lengua de sabios — Entregará Sus espaldas al heridor — No será confundido — Compárese con Isaías 50. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Sí, porque esto dice el Señor: ¿Te he repudiado yo, o te he echado de mi lado para siempre? Pues así dice el Señor: ¿Dónde está la carta de divorcio de tu madre? ¿A quién te he abandonado, o a cuál de mis acreedores te he vendido? Sí, ¿a quién te he vendido? He aquí, por vuestras maldades os habéis vendido, y por vuestras iniquidades es repudiada vuestra madre.
 

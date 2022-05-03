@@ -1,10 +1,11 @@
 ---
 title: sw Daniel 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Daniel 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, Michael will deliver Israel from their troubles—Daniel tells of the two resurrections—The wise will know the times and meanings of his visions.
 
----
 ###### 1 
 And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation  to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.
 

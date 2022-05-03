@@ -1,22 +1,21 @@
 ---
 title: 1 Juan 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Juan 3
 [[1 Juan 2| <-- 1 Juan 2]] | [[1 Juan]] | [[1 Juan 4|1 Juan 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hijos de Dios llegarán a ser como Cristo — Es necesario amar a nuestros semejantes para obtener la vida eterna — La obediencia nos asegura la respuesta a nuestras oraciones.
 
----
 ###### 1 
 ¡Mirad cuán gran amor nos ha dado el Padre para que seamos llamados hijos de Dios! Por esto el mundo no nos conoce, porque no le conoció a él.
 

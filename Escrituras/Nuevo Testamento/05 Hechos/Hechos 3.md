@@ -1,22 +1,21 @@
 ---
 title: Hechos 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 3
 [[Hechos 2| <-- Hechos 2]] | [[Hechos]] | [[Hechos 4|Hechos 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pedro y Juan sanan a un hombre cojo de nacimiento — Pedro predica el arrepentimiento — Habla también de la época de restauración que precederá a la Segunda Venida — Indica que Cristo es el profeta del que habló Moisés.
 
----
 ###### 1 
 Pedro y Juan subían juntos al templo a la hora de la oración, la hora novena.
 

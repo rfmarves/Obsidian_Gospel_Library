@@ -1,22 +1,21 @@
 ---
 title: Génesis 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 7
 [[Génesis 6| <-- Génesis 6]] | [[Génesis]] | [[Génesis 8|Génesis 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La familia de Noé y diversos animales y aves entran en el arca — Llega el Diluvio y las aguas cubren toda la tierra — Todos los demás seres vivientes son destruidos.
 
----
 ###### 1 
 Y Jehová dijo a Noé: Entra tú y toda tu casa en el arca, porque he visto que tú eres justo delante de mí en esta generación.
 

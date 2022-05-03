@@ -1,10 +1,11 @@
 ---
 title: sw Moroni 6
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moroni 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Repentant persons are baptized and fellowshipped—Church members who repent are forgiven—Meetings are conducted by the power of the Holy Ghost. About A.D. 401–21.
 
----
 ###### 1 
 And now I speak concerning baptism. Behold, elders, priests, and teachers were baptized; and they were not baptized save they brought forth fruit meet that they were worthy of it.
 

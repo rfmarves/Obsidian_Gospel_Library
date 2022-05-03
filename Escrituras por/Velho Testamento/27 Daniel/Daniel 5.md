@@ -1,22 +1,21 @@
 ---
 title: Daniel 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 5
 [[Daniel 4| <-- Daniel 4]] | [[Daniel]] | [[Daniel 6|Daniel 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/dan/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Belsazar e seus foliões bebem nos vasos do templo — Uma mão escreve na parede, predizendo a queda de Belsazar — Daniel interpreta as palavras e repreende o rei por seu orgulho e idolatria — Na mesma noite, Babilônia é conquistada.
 
----
 ###### 1 
 O rei Belsazar deu um grande banquete a mil dos seus nobres, e bebeu vinho na presença dos mil.
 

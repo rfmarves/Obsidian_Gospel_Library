@@ -1,22 +1,21 @@
 ---
 title: Marcos 12
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Marcos 12
 [[Marcos 11| <-- Marcos 11]] | [[Marcos]] | [[Marcos 13|Marcos 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/mark/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus conta a parábola dos lavradores maus — Ele fala do pagamento de impostos, do casamento celestial, dos dois grandes mandamentos, da filiação divina de Cristo e das moedas da viúva.
 
----
 ###### 1 
 E começou a falar-lhes por parábolas: Um homem plantou uma vinha, e cercou- de  valado, e fundou  um lagar, e edificou  torre, e arrendou-a a uns lavradores, e partiu para fora da terra;
 

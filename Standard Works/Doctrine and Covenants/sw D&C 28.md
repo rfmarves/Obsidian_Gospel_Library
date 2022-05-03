@@ -1,10 +1,11 @@
 ---
 title: sw D&C 28
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–7, Joseph Smith holds the keys of the mysteries, and only he receives revelations for the Church; 8–10, Oliver Cowdery is to preach to the Lamanites; 11–16, Satan deceived Hiram Page and gave him false revelations.
 
----
 ###### 1 
 Behold, I say unto thee, Oliver, that it shall be given unto thee that thou shalt be heard by the church in all things whatsoever thou shalt teach them by the Comforter, concerning the revelations and commandments which I have given.
 

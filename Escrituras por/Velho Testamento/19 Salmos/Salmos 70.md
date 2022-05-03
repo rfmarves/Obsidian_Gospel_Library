@@ -1,27 +1,25 @@
 ---
 title: Salmos 70
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 70
 [[Salmos 69| <-- Salmos 69]] | [[Salmos]] | [[Salmos 71|Salmos 71 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/70?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/70?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor, para lembrança.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi proclama: Engrandecido seja Deus.
 
----
 ###### 1 
 Apressa-te, ó Deus, em me livrar; ,  em ajudar-me.
 

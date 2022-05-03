@@ -1,22 +1,21 @@
 ---
 title: DyC 93
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 93
 [[DyC 92| <-- DyC 92]] | [[DyC]] | [[DyC 94|DyC 94 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, Todos los que son fieles verán al Señor; 6–18, Juan dio testimonio de que el Hijo de Dios recibió gracia sobre gracia hasta que recibió la plenitud de la gloria del Padre; 19–20, Los hombres fieles que progresen de gracia en gracia también recibirán de Su plenitud; 21–22, Aquellos que son engendrados por medio de Cristo constituyen la Iglesia del Primogénito; 23–28, Cristo recibió la plenitud de toda la verdad y, por medio de la obediencia, el hombre también puede lograrlo; 29–32, El hombre fue en el principio con Dios; 33–35, Los elementos son eternos y el hombre puede recibir una plenitud de gozo en la Resurrección; 36–37, La gloria de Dios es la inteligencia; 38–40, Los niños son inocentes ante Dios por motivo de la redención de Cristo; 41–53, Se manda a los hermanos que están a la cabeza de la Iglesia poner en orden a sus familias.
 
----
 ###### 1 
 De cierto, así dice el Señor: Acontecerá que toda alma que deseche sus pecados y venga a mí, invoque mi nombre, obedezca mi voz y guarde mis mandamientos, verá mi faz y sabrá que yo soy;
 

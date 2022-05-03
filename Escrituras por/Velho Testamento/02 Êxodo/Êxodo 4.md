@@ -1,22 +1,21 @@
 ---
 title: Êxodo 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 4
 [[Êxodo 3| <-- Êxodo 3]] | [[Êxodo]] | [[Êxodo 5|Êxodo 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor dá sinais a Moisés — Aarão é escolhido como porta-voz — Israel é o primogênito do Senhor e precisa ser libertado para servi-Lo — O filho de Moisés é circuncidado — Moisés e Aarão lideram Israel em adoração.
 
----
 ###### 1 
 Então respondeu Moisés, e disse: Mas eis que não crerão em mim, nem ouvirão a minha voz, porque dirão: O  não te apareceu.
 

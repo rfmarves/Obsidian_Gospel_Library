@@ -1,10 +1,11 @@
 ---
 title: sw Job 33
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 33
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/33?lang=eng)
 
----
-__Summary__
+> __Summary__
 Elihu says, God is greater than man, He speaks to man in dreams and visions, He ransoms those cast into the pit, and He delivers their souls and gives them life.
 
----
 ###### 1 
 Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words.
 

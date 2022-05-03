@@ -1,22 +1,21 @@
 ---
 title: Números 29
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 29
 [[Números 28| <-- Números 28]] | [[Números]] | [[Números 30|Números 30 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/29?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se han de ofrecer sacrificios durante el séptimo mes, incluso en la Fiesta de las Trompetas y en la Fiesta de los Tabernáculos.
 
----
 ###### 1 
 Y en el séptimo mes, el primer día del mes, tendréis santa convocación; ningún trabajo servil haréis; os será día de tocar las trompetas.
 

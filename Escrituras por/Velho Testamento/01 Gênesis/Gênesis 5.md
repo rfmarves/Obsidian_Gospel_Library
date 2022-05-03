@@ -1,22 +1,21 @@
 ---
 title: Gênesis 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 5
 [[Gênesis 4| <-- Gênesis 4]] | [[Gênesis]] | [[Gênesis 6|Gênesis 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 As gerações de Adão são: Adão, Sete, Enos, Cainã, Maalalel, Jarede, Enoque (que andou com Deus), Matusalém, Lameque e Noé (que gerou Sem, Cão e Jafé).
 
----
 ###### 1 
 Este é o livro das gerações de Adão. No dia em que Deus criou o homem, à semelhança de Deus o fez;
 

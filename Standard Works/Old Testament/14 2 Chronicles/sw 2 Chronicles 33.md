@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 33
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 33
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/33?lang=eng)
 
----
-__Summary__
+> __Summary__
 Manasseh reigns in wickedness and worships false gods—He is taken captive into Assyria—He repents and serves the Lord—Amon reigns in unrighteousness and is slain.
 
----
 ###### 1 
 Manasseh  twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:
 

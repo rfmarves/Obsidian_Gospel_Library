@@ -1,22 +1,21 @@
 ---
 title: Alma 8
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 8
 [[Alma 7| <-- Alma 7]] | [[Alma]] | [[Alma 9|Alma 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Alma prega e batiza em Meleque — Ele é rejeitado em Amonia e parte — Um anjo ordena-lhe que volte e proclame arrependimento ao povo — Ele é recebido por Amuleque e os dois pregam em Amonia. Aproximadamente 82 a.C.
 
----
 ###### 1 
 E então aconteceu que Alma voltou da terra de Gideão depois de haver ensinado ao povo de Gideão muitas coisas que não podem ser escritas, tendo estabelecido a ordem da igreja como fizera anteriormente na terra de Zaraenla; sim, voltou para sua própria casa em Zaraenla, a fim de descansar dos labores que havia executado.
 

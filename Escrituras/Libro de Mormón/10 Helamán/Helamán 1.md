@@ -1,27 +1,25 @@
 ---
 title: Helamán 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 1
 [[Alma 63| <-- Alma 63]] | [[Helamán]] | [[Helamán 2|Helamán 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/1?lang=spa)
 
----
+```
 Un relato de los nefitas. Sus guerras, contiendas y disensiones. También las profecías de muchos santos profetas, antes de la venida de Cristo, según los anales de Helamán, que era hijo de Helamán, y también según los anales de sus hijos, hasta la venida de Cristo. Además, se convierten muchos lamanitas. Un relato de la conversión de estos. Un relato de la rectitud de los lamanitas y de las iniquidades y las abominaciones de los nefitas, según los anales de Helamán y de sus hijos, hasta la venida de Cristo, relato que se llama el Libro de Helamán.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Pahorán, hijo, llega a ser el juez superior y es asesinado por Kishkumen — Pacumeni ocupa el asiento judicial — Coriántumr dirige los ejércitos lamanitas, se apodera de Zarahemla y mata a Pacumeni — Moroníah derrota a los lamanitas y se vuelve a apoderar de Zarahemla; Coriántumr es muerto. Aproximadamente 52–50 a.C.
 
----
 ###### 1 
 Y he aquí, aconteció que al principiar el año cuarenta del gobierno de los jueces sobre el pueblo de Nefi, empezó a surgir una grave dificultad entre el pueblo nefita.
 

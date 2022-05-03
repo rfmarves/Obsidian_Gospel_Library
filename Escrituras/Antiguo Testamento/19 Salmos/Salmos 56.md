@@ -1,27 +1,25 @@
 ---
 title: Salmos 56
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 56
 [[Salmos 55| <-- Salmos 55]] | [[Salmos]] | [[Salmos 57|Salmos 57 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/56?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/56?lang=spa)
 
----
+```
 Al músico principal: al son de aJonat-elem-recoquim. bMictam de David, cuando los filisteos le prendieron en Gat.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David busca misericordia, confía en Dios, lo alaba y le agradece su liberación.
 
----
 ###### 1 
 
 

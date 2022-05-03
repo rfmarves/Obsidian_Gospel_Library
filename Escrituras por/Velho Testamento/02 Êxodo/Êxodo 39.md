@@ -1,22 +1,21 @@
 ---
 title: Êxodo 39
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 39
 [[Êxodo 38| <-- Êxodo 38]] | [[Êxodo]] | [[Êxodo 40|Êxodo 40 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/39?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/39?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Fazem-se vestes santas para Aarão e os sacerdotes — Faz-se o peitoral — O tabernáculo da congregação é concluído — Moisés abençoa o povo.
 
----
 ###### 1 
 Fizeram também as vestes do ministério, para ministrar no santuário, de azul, e de púrpura, e de carmesim; também fizeram as vestes santas para Aarão, como o  ordenara a Moisés.
 

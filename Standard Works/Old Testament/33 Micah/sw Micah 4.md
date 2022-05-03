@@ -1,10 +1,11 @@
 ---
 title: sw Micah 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Micah 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/micah/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, the temple will be built, Israel will gather to it, the millennial era will commence, and the Lord will reign in Zion.
 
----
 ###### 1 
 But in the last days it shall come to pass,  the mountain of the house of the  shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it.
 

@@ -1,22 +1,21 @@
 ---
 title: João 10
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 10
 [[João 9| <-- João 9]] | [[João]] | [[João 11|João 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus é o Bom Pastor — Ele recebeu de Seu Pai poder sobre a morte — Ele promete visitar Suas outras ovelhas — Ele proclama: Eu sou o Filho de Deus.
 
----
 ###### 1 
 Na verdade, na verdade vos digo que aquele que não entra pela porta no curral das ovelhas, mas sobe por outra parte, é ladrão e salteador.
 

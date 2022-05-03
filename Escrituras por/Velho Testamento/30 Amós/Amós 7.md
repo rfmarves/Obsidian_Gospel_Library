@@ -1,22 +1,21 @@
 ---
 title: Amós 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 7
 [[Amós 6| <-- Amós 6]] | [[Amós]] | [[Amós 8|Amós 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/amos/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amós relata como ele foi chamado por Deus para ser profeta — Ele profetiza o cativeiro de Israel.
 
----
 ###### 1 
 O Senhor  assim me fez ver, e eis que formava gafanhotos no princípio do rebento da erva serôdia, e eis que havia a erva serôdia depois da ceifa do rei.
 

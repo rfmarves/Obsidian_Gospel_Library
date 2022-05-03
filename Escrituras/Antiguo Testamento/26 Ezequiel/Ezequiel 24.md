@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 24
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 24
 [[Ezequiel 23| <-- Ezequiel 23]] | [[Ezequiel]] | [[Ezequiel 25|Ezequiel 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se predice el juicio irrevocable sobre Jerusalén — Como señal a los judíos, Ezequiel no llora por la muerte de su esposa.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová en el año noveno, en el mes décimo, a los diez  del mes, diciendo:
 

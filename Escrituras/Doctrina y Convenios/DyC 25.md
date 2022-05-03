@@ -1,22 +1,21 @@
 ---
 title: DyC 25
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 25
 [[DyC 24| <-- DyC 24]] | [[DyC]] | [[DyC 26|DyC 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–6, Emma Smith, dama elegida, es llamada a ayudar y a consolar a su esposo; 7–11, También es llamada a servir de escribiente, a explicar las Escrituras y a seleccionar himnos; 12–14, La canción de los justos es una oración al Señor; 15–16, Los principios de la obediencia que se mencionan en esta revelación se aplican a todos.
 
----
 ###### 1 
 Escucha la voz del Señor tu Dios mientras te hablo, Emma Smith, hija mía, porque de cierto te digo que todos los que reciben mi evangelio son hijos e hijas en mi reino.
 

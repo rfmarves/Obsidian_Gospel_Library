@@ -1,22 +1,21 @@
 ---
 title: Alma 52
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 52
 [[Alma 51| <-- Alma 51]] | [[Alma]] | [[Alma 53|Alma 53 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/52?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/52?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ammorón sucede a Amalickíah como rey de los lamanitas — Moroni, Teáncum y Lehi dirigen a los nefitas en una guerra victoriosa contra los lamanitas — Se vuelve a tomar la ciudad de Mulek, y Jacob el zoramita cae muerto. Aproximadamente 66–64 a.C.
 
----
 ###### 1 
 Y sucedió que en el año veintiséis del gobierno de los jueces sobre el pueblo de Nefi, he aquí, cuando despertaron los lamanitas en la primera mañana del primer mes, he aquí, descubrieron que Amalickíah yacía muerto en su propia tienda; y vieron también que Teáncum estaba listo para combatirlos ese día.
 

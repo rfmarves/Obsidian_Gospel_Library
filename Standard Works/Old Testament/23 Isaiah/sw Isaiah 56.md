@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 56
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 56
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/56?lang=eng)
 
----
-__Summary__
+> __Summary__
 All who keep the commandments will be exalted—Other people will join Israel—The Lord will gather others to the house of Israel.
 
----
 ###### 1 
 Thus saith the , Keep ye judgment, and do justice: for my salvation  near to come, and my righteousness to be revealed.
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 118
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 118
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/118?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–3, The Lord will provide for the families of the Twelve; 4–6, Vacancies in the Twelve are filled.
 
----
 ###### 1 
 Verily, thus saith the Lord: Let a conference be held immediately; let the Twelve be organized; and let men be appointed to supply the place of those who are fallen.
 

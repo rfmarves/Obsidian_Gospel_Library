@@ -1,22 +1,21 @@
 ---
 title: Josué 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 6
 [[Josué 5| <-- Josué 5]] | [[Josué]] | [[Josué 7|Josué 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jericó é tomada e destruída — Somente Raabe e sua família são salvos.
 
----
 ###### 1 
 Ora, Jericó fechou-se, e estava fechada por causa dos filhos de Israel; ninguém saía nem entrava.
 

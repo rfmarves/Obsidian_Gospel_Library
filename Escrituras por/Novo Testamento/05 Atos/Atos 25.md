@@ -1,22 +1,21 @@
 ---
 title: Atos 25
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 25
 [[Atos 24| <-- Atos 24]] | [[Atos]] | [[Atos 26|Atos 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo, perante Festo, apela a César — Agripa deseja ouvir Paulo.
 
----
 ###### 1 
 Entrando, pois, Festo na província, subiu dali a três dias de Cesareia a Jerusalém.
 

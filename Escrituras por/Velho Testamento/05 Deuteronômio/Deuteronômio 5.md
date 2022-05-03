@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 5
 [[Deuteronômio 4| <-- Deuteronômio 4]] | [[Deuteronômio]] | [[Deuteronômio 6|Deuteronômio 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés fala do convênio que Deus fez com Israel em Horebe — Ele recapitula os Dez Mandamentos — O cumprimento do dia do Sábado comemora também a libertação do Egito — Deus fala ao homem — A obediência resulta em bênçãos.
 
----
 ###### 1 
 E Moisés chamou todo o Israel, e disse-lhes: Ouve, ó Israel, os estatutos e juízos que hoje vos falo aos ouvidos; e aprendê-los-eis, e guardá-los-eis, para os cumprir.
 

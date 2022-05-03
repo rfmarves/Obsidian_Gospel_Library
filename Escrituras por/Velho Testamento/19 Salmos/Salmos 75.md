@@ -1,27 +1,25 @@
 ---
 title: Salmos 75
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 75
 [[Salmos 74| <-- Salmos 74]] | [[Salmos]] | [[Salmos 76|Salmos 76 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/75?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/75?lang=por)
 
----
+```
 Para o músico-mor, Al-Tachete. Salmo e cântico de Asafe.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Os justos louvam e dão graças ao Deus de Jacó — Eles serão exaltados — Deus é o juiz, e os iníquos serão condenados.
 
----
 ###### 1 
 A ti, ó Deus, glorificamos,  damos louvor, pois o teu nome  perto, as tuas maravilhas o declaram.
 

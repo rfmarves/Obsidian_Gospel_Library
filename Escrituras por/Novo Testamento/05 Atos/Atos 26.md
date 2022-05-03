@@ -1,22 +1,21 @@
 ---
 title: Atos 26
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 26
 [[Atos 25| <-- Atos 25]] | [[Atos]] | [[Atos 27|Atos 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo relata que havia perseguido os santos quando era fariseu — Ele testifica a respeito da aparição de Jesus na estrada de Damasco — Paulo presta seu testemunho ao rei Agripa.
 
----
 ###### 1 
 Depois Agripa disse a Paulo: Permite-se-te falar por ti mesmo. Então Paulo, estendendo a mão em sua defesa, respondeu:
 

@@ -1,22 +1,21 @@
 ---
 title: Romanos 11
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 11
 [[Romanos 10| <-- Romanos 10]] | [[Romanos]] | [[Romanos 12|Romanos 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Israel fue escogido (preordenado) según la elección por gracia — Algunos endurecen el corazón contra esto — Los gentiles son adoptados en la casa de Israel — El Evangelio va preferentemente a los gentiles hasta que se cumpla la plenitud de estos.
 
----
 ###### 1 
 Digo pues: ¿Ha desechado Dios a su pueblo? ¡De ninguna manera! Porque también yo soy israelita, descendiente de Abraham, de la tribu de Benjamín.
 

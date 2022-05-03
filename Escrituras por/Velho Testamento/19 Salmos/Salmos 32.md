@@ -1,27 +1,25 @@
 ---
 title: Salmos 32
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 32
 [[Salmos 31| <-- Salmos 31]] | [[Salmos]] | [[Salmos 33|Salmos 33 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/32?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/32?lang=por)
 
----
+```
 Masquil de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi declara: Bem-aventurado o homem a quem o Senhor não imputa maldade — Davi reconhece seu pecado — Ele recomenda que os justos se alegrem no Senhor e se regozijem.
 
----
 ###### 1 
 Bem-aventurado  transgressão  perdoada,  pecado  coberto.
 

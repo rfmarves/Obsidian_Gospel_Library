@@ -1,22 +1,21 @@
 ---
 title: Levíticos 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 10
 [[Levíticos 9| <-- Levíticos 9]] | [[Levíticos]] | [[Levíticos 11|Levíticos 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nadab y Abiú efectúan sacrificios desautorizados y son muertos por fuego proveniente de Jehová — Se prohíbe a Aarón y a sus demás hijos lamentarse por ellos — Aarón y sus hijos deben abstenerse de vino y de sidra — Deben enseñar todo lo que Jehová enseñó a Moisés.
 
----
 ###### 1 
 Y Nadab y Abiú, hijos de Aarón, tomaron cada uno su incensario y pusieron fuego en ellos, sobre el cual pusieron incienso y ofrecieron delante de Jehová fuego extraño, que él nunca les había mandado.
 

@@ -1,22 +1,21 @@
 ---
 title: Romanos 6
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 6
 [[Romanos 5| <-- Romanos 5]] | [[Romanos]] | [[Romanos 7|Romanos 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rom/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O batismo é à semelhança da morte, sepultamento e ressurreição de Cristo — O salário do pecado é a morte — Cristo traz a vida eterna.
 
----
 ###### 1 
 Que diremos, pois? Permaneceremos no pecado, para que a graça abunde?
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 92
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 92
 [[Salmos 91| <-- Salmos 91]] | [[Salmos]] | [[Salmos 93|Salmos 93 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/92?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/92?lang=por)
 
----
+```
 Salmo e cântico para o dia do sábado.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo ou cântico para o dia do Sábado — Dai graças ao Senhor — Seus inimigos perecerão — O justo florescerá — Não há injustiça no Senhor.
 
----
 ###### 1 
 Bom  louvar ao , e cantar louvores ao teu nome, ó Altíssimo,
 

@@ -1,22 +1,21 @@
 ---
 title: Números 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 4
 [[Números 3| <-- Números 3]] | [[Números]] | [[Números 5|Números 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Quando os acampamentos de Israel se mudam, Aarão e seus filhos cobrem os objetos sagrados no tabernáculo — Os levitas das famílias de Coate, Gérson e Merari levam a carga do tabernáculo.
 
----
 ###### 1 
 E falou o  a Moisés e a Aarão, dizendo:
 

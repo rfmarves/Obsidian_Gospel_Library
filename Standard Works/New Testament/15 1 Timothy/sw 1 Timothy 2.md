@@ -1,10 +1,11 @@
 ---
 title: sw 1 Timothy 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Timothy 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 We should pray for all people—Christ is our Mediator—Women should dress modestly—Women are blessed in childbearing and are admonished to continue in faith, charity, and holiness.
 
----
 ###### 1 
 I exhort therefore, that, first of all, supplications, prayers, intercessions,  giving of thanks, be made for all men;
 

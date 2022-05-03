@@ -1,22 +1,21 @@
 ---
 title: Números 32
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 32
 [[Números 31| <-- Números 31]] | [[Números]] | [[Números 33|Números 33 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/32?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/32?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Rúben e Gade e metade da tribo de Manassés recebem a sua herança a leste do Jordão — Eles fazem convênio de unir-se às outras tribos na conquista de Canaã.
 
----
 ###### 1 
 E os filhos de Rúben e os filhos de Gade tinham muito gado, em grande quantidade; e viram a terra de Jazer, e a terra de Gileade, e eis que o lugar  lugar de gado.
 

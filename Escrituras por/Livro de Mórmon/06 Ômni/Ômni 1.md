@@ -1,22 +1,21 @@
 ---
 title: Ômni 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ômni 1
 [[Jarom 1| <-- Jarom 1]] | [[Ômni]] | [[Palavras de Mórmon 1|Palavras de Mórmon 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/omni/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/omni/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ômni, Amaron, Quêmis, Abinadom e Amaléqui, cada um, por sua vez, escreve os registros — Mosias descobre o povo de Zaraenla, que viera de Jerusalém nos dias de Zedequias — Mosias é proclamado rei — Os mulequitas haviam descoberto Coriântumr, o último dos jareditas — O rei Benjamim sucede a Mosias — Os homens devem oferecer sua alma como dádiva a Cristo. Aproximadamente 323–130 a.C.
 
----
 ###### 1 
 Eis que aconteceu que eu, Ômni, sendo ordenado por meu pai, Jarom, a escrever algo nestas placas, a fim de conservar a nossa genealogia —
 

@@ -1,22 +1,21 @@
 ---
 title: João 8
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 8
 [[João 7| <-- João 7]] | [[João]] | [[João 9|João 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Uma mulher apanhada em adultério é levada perante Cristo — Cristo é a Luz do mundo — Ele novamente proclama ser o Messias — Os verdadeiros filhos de Abraão creem em Cristo — Jesus diz: Antes de Abraão existia Eu, Jeová.
 
----
 ###### 1 
 Porém Jesus foi para o Monte das Oliveiras;
 

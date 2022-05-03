@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 17
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 17
 [[Apocalipsis 16| <-- Apocalipsis 16]] | [[Apocalipsis]] | [[Apocalipsis 18|Apocalipsis 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se muestra a Juan que Babilonia la grande, la madre de las rameras y de las abominaciones, se ha establecido por toda la tierra.
 
----
 ###### 1 
 Y vino uno de los siete ángeles que tenían las siete copas, y habló conmigo, diciendo: Ven acá, y te mostraré la condenación de la gran ramera, la cual está sentada sobre muchas aguas,
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 17
 [[2 Samuel 16| <-- 2 Samuel 16]] | [[2 Samuel]] | [[2 Samuel 18|2 Samuel 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se rechaza el consejo de Ahitofel y se acepta el de Husai — Se da una advertencia a David y este huye, pasando el Jordán — Ahitofel se ahorca — El pueblo se prepara para la guerra.
 
----
 ###### 1 
 Entonces Ahitofel dijo a Absalón: Yo escogeré ahora doce mil hombres, y me levantaré y perseguiré a David esta noche.
 

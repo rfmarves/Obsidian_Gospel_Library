@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 12
 [[1 Crónicas 11| <-- 1 Crónicas 11]] | [[1 Crónicas]] | [[1 Crónicas 13|1 Crónicas 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se describe a los valientes de David — Los ejércitos de las tribus de Israel se unen a David en Hebrón — Israel se regocija por causa del rey David.
 
----
 ###### 1 
 Y estos son los que fueron adonde estaba David en Siclag, mientras él aún se mantenía oculto de la presencia de Saúl hijo de Cis; y eran de los valientes que le ayudaron en la guerra.
 

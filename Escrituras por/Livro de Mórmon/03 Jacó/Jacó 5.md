@@ -1,22 +1,21 @@
 ---
 title: Jacó 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jacó 5
 [[Jacó 4| <-- Jacó 4]] | [[Jacó]] | [[Jacó 6|Jacó 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó cita Zenos com referência à alegoria das oliveiras boas e das oliveiras bravas — Elas simbolizam Israel e os gentios — A dispersão e a coligação de Israel são prefiguradas — Alusões feitas aos nefitas e lamanitas e a toda a casa de Israel — Os gentios serão enxertados em Israel — No final, a vinha será queimada. Aproximadamente 544–421 a.C.
 
----
 ###### 1 
 Eis que, meus irmãos, não vos lembrais de haverdes lido as palavras do profeta Zenos à casa de Israel, quando disse:
 

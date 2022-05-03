@@ -1,10 +1,11 @@
 ---
 title: sw Alma 44
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 44
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/44?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moroni commands the Lamanites to make a covenant of peace or be destroyed—Zerahemnah rejects the offer, and the battle resumes—Moroni’s armies defeat the Lamanites. About 74–73 B.C.
 
----
 ###### 1 
 And it came to pass that they did stop and withdrew a pace from them. And Moroni said unto Zerahemnah: Behold, Zerahemnah, that we do not desire to be men of blood. Ye know that ye are in our hands, yet we do not desire to slay you.
 

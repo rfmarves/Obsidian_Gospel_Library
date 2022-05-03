@@ -1,22 +1,21 @@
 ---
 title: 1 Timóteo 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Timóteo 2
 [[1 Timóteo 1| <-- 1 Timóteo 1]] | [[1 Timóteo]] | [[1 Timóteo 3|1 Timóteo 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Devemos orar por todas as pessoas — Cristo é nosso Mediador — As mulheres devem se vestir com recato — As mulheres são abençoadas ao ter filhos, e admoesta-se que elas permaneçam na fé, caridade e santidade.
 
----
 ###### 1 
 Admoesto-te, pois, antes de tudo, que se façam súplicas, orações, intercessões, e ações de graças por todos os homens;
 

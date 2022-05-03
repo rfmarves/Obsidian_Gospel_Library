@@ -1,22 +1,21 @@
 ---
 title: Hebreus 7
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreus 7
 [[Hebreus 6| <-- Hebreus 6]] | [[Hebreus]] | [[Hebreus 8|Hebreus 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Sacerdócio de Melquisedeque traz a exaltação e administra o evangelho — Ele é recebido com um juramento e convênio — Explica-se a superioridade do Sacerdócio de Melquisedeque em relação ao Sacerdócio Aarônico — A salvação vem por meio da intercessão de Cristo.
 
----
 ###### 1 
 Porque este Melquisedeque era rei de Salém, sacerdote do Deus Altíssimo, o qual saiu ao encontro de Abraão, quando ele regressava da matança dos reis, e o abençoou;
 

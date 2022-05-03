@@ -1,22 +1,21 @@
 ---
 title: Jueces 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jueces 2
 [[Jueces 1| <-- Jueces 1]] | [[Jueces]] | [[Jueces 3|Jueces 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/judg/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Un ángel amonesta a Israel por no servir a Jehová — Como ejemplo de acontecimientos futuros se levanta una nueva generación que rechaza a Jehová y sirve a Baal y a Astarot — Jehová se enoja con los hijos de Israel y deja de ampararlos — Levanta jueces para guiarlos y dirigirlos — Los cananeos se quedan en la tierra para poner a prueba a Israel.
 
----
 ###### 1 
 Y el ángel de Jehová subió de Gilgal a Boquim y dijo: Yo os saqué de Egipto, y os introduje en la tierra que había jurado dar a vuestros padres y dije: No quebrantaré jamás mi convenio con vosotros,
 

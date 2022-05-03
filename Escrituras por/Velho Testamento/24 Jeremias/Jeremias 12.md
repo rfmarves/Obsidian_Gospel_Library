@@ -1,22 +1,21 @@
 ---
 title: Jeremias 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 12
 [[Jeremias 11| <-- Jeremias 11]] | [[Jeremias]] | [[Jeremias 13|Jeremias 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias reclama da prosperidade dos iníquos — Se outras nações aprenderem os caminhos de Israel, elas serão contadas com Israel.
 
----
 ###### 1 
 Justo serias, ó , ainda que  contendesse contra ti; contudo falarei contigo  juízos. Por que prospera o caminho dos ímpios,  vivem em paz todos os que procedem traiçoeiramente?
 

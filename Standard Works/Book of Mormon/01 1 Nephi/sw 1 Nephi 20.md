@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 20
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord reveals His purposes to Israel—Israel has been chosen in the furnace of affliction and is to go forth from Babylon—Compare Isaiah 48. About 588–570 B.C.
 
----
 ###### 1 
 Hearken and hear this, O house of Jacob, who are called by the name of Israel, and are come forth out of the waters of Judah, or out of the waters of baptism, who swear by the name of the Lord, and make mention of the God of Israel, yet they swear not in truth nor in righteousness.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 128
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 128
 [[Salmos 127| <-- Salmos 127]] | [[Salmos]] | [[Salmos 129|Salmos 129 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/128?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/128?lang=por)
 
----
+```
 Cântico das subidas.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Bem-aventurado aquele que teme ao Senhor e anda nos Seus caminhos.
 
----
 ###### 1 
 Bem-aventurado aquele que teme ao  e anda nos seus caminhos.
 

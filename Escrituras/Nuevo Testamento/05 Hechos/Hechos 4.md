@@ -1,22 +1,21 @@
 ---
 title: Hechos 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 4
 [[Hechos 3| <-- Hechos 3]] | [[Hechos]] | [[Hechos 5|Hechos 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pedro y Juan son arrestados y llevados ante el concilio — Pedro testifica que la salvación viene por medio de Cristo — Los saduceos se esfuerzan por silenciar a Pedro y a Juan — Los santos se glorían en el testimonio de Jesús — Tienen todas las cosas en común.
 
----
 ###### 1 
 Y hablando ellos al pueblo, vinieron los sacerdotes, y el jefe de la guardia del templo y los saduceos,
 

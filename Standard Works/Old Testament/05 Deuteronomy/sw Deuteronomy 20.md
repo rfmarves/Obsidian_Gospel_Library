@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Laws are revealed for selecting soldiers and making war—Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites will be utterly destroyed.
 
----
 ###### 1 
 When thou goest out to battle against thine enemies, and seest horses, and chariots,  a people more than thou, be not afraid of them: for the  thy God  with thee, which brought thee up out of the land of Egypt.
 

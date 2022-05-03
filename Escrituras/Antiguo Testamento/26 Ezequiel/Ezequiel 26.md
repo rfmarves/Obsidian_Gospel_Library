@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 26
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 26
 [[Ezequiel 25| <-- Ezequiel 25]] | [[Ezequiel]] | [[Ezequiel 27|Ezequiel 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Tiro será destruida por haberse regocijado en los dolores y en la caída de Jerusalén.
 
----
 ###### 1 
 Y aconteció en el undécimo año, en el  primero del mes, que vino a mí la palabra de Jehová, diciendo:
 

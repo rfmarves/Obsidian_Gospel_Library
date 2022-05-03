@@ -1,22 +1,21 @@
 ---
 title: Abraham 3
-tags: #Escrituras\PdGP
+tags: Escrituras\PdGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Abraham 3
 [[Abraham 2| <-- Abraham 2]] | [[Abraham]] | [[Abraham 4|Abraham 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Abraham aprende acerca del sol, la luna y las estrellas por medio del Urim y Tumim — El Señor le revela la naturaleza eterna de los espíritus — Se entera de la vida preterrenal, así como de la preordenación, de la Creación, de la selección de un Redentor y del segundo estado del hombre.
 
----
 ###### 1 
 Y yo, Abraham, tenía el Urim y Tumim, que el Señor mi Dios me había dado en Ur de los caldeos;
 

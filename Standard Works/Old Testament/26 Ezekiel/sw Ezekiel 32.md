@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 32
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 32
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/32?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel laments for the fearful fall of Pharaoh and of Egypt.
 
----
 ###### 1 
 And it came to pass in the twelfth year, in the twelfth month, in the first  of the month,  the word of the  came unto me, saying,
 

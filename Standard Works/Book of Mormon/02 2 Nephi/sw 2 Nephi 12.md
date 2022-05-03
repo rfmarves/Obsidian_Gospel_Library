@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 12
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Isaiah sees the latter-day temple, gathering of Israel, and millennial judgment and peace—The proud and wicked will be brought low at the Second Coming—Compare Isaiah 2. About 559–545 B.C.
 
----
 ###### 1 
 The word that Isaiah, the son of Amoz, saw concerning Judah and Jerusalem:
 

@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 32
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 32
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/32?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah is imprisoned by Zedekiah—The prophet purchases land to symbolize the return of Israel to their land—The Lord will gather Israel and make an everlasting covenant with them.
 
----
 ###### 1 
 The word that came to Jeremiah from the  in the tenth year of Zedekiah king of Judah, which  the eighteenth year of Nebuchadrezzar.
 

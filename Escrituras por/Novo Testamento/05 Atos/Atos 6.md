@@ -1,22 +1,21 @@
 ---
 title: Atos 6
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 6
 [[Atos 5| <-- Atos 5]] | [[Atos]] | [[Atos 7|Atos 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os Apóstolos escolhem sete homens para ajudá-los — Estevão é julgado perante o conselho.
 
----
 ###### 1 
 Ora, naqueles dias, crescendo o número dos discípulos, houve uma murmuração dos gregos contra os hebreus, porque as suas viúvas eram desprezadas no ministério quotidiano.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Moroni 3
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Moroni 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Elders ordain priests and teachers by the laying on of hands. About A.D. 401–21.
 
----
 ###### 1 
 The manner which the disciples, who were called the elders of the church, ordained priests and teachers—
 

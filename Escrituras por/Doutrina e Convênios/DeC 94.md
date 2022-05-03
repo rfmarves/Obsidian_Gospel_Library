@@ -1,22 +1,21 @@
 ---
 title: DeC 94
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 94
 [[DeC 93| <-- DeC 93]] | [[DeC]] | [[DeC 95|DeC 95 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/94?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/94?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–9, O Senhor dá um mandamento referente à construção de uma casa para o trabalho da Presidência; 10–12, Deve-se construir uma tipografia; 13–17, Designam-se certas heranças.
 
----
 ###### 1 
 E também, em verdade vos digo, meus amigos: Um mandamento vos dou, de que comeceis a projetar e preparar o início e o alicerce da cidade da estaca de Sião, aqui na terra de Kirtland, começando pela minha casa.
 

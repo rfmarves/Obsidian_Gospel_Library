@@ -1,27 +1,25 @@
 ---
 title: Alma 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 1
 [[Mosias 29| <-- Mosias 29]] | [[Alma]] | [[Alma 2|Alma 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=por)
 
----
+```
 Relato de Alma, que era filho de Alma e o primeiro juiz supremo do povo de Néfi e também o sumo sacerdote da Igreja. Um relato do governo dos juízes e das guerras e contendas do povo. E também o relato de uma guerra entre nefitas e lamanitas, segundo o registro de Alma, o primeiro juiz supremo.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Neor ensina falsas doutrinas, organiza uma igreja, introduz artimanhas sacerdotais e mata Gideão — Neor é executado por seus crimes — Artimanhas sacerdotais e perseguições propagam-se entre o povo — Os sacerdotes trabalham para seu próprio sustento, o povo cuida dos pobres e a Igreja prospera. Aproximadamente 91–88 a.C.
 
----
 ###### 1 
 Ora, aconteceu que no primeiro ano em que os juízes governaram o povo de Néfi, e daí em diante, tendo o rei Mosias ido pelo caminho de toda a Terra, combatido um bom combate, andado retamente diante de Deus, não tendo deixado ninguém para reinar em seu lugar; não obstante, ele estabelecera leis e elas eram reconhecidas pelo povo; portanto, tinham a obrigação de submeter-se às leis que ele havia formulado.
 

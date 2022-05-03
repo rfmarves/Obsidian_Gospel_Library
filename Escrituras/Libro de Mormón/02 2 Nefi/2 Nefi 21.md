@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 21
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 21
 [[2 Nefi 20| <-- 2 Nefi 20]] | [[2 Nefi]] | [[2 Nefi 22|2 Nefi 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La vara del tronco de Isaí (Cristo) juzgará con justicia — En el Milenio, el conocimiento de Dios cubrirá la tierra — El Señor levantará estandarte a las naciones y recogerá a Israel — Compárese con Isaías 11. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Y saldrá una vara del tronco de Isaí, y un vástago retoñará de sus raíces.
 

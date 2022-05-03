@@ -1,22 +1,21 @@
 ---
 title: João 17
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 17
 [[João 16| <-- João 16]] | [[João]] | [[João 18|João 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus profere a grande Oração Intercessória — Ele é glorificado por alcançar a vida eterna — Ele ora por Seus Apóstolos e por todos os santos — Ele explica como o Pai e o Filho são um.
 
----
 ###### 1 
 Jesus disse essas  e levantou seus olhos ao céu, e disse: Pai, é chegada a hora; glorifica teu Filho, para que também o teu Filho te glorifique a ti;
 

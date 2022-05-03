@@ -1,22 +1,21 @@
 ---
 title: Lucas 7
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 7
 [[Lucas 6| <-- Lucas 6]] | [[Lucas]] | [[Lucas 8|Lucas 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus cura o servo do centurião — Jesus levanta da morte o filho da viúva de Naim — Ele louva João Batista como mais do que um profeta — Uma mulher unge os pés de Jesus, e Ele perdoa seus pecados.
 
----
 ###### 1 
 E depois de concluir todas essas palavras aos ouvidos do povo, entrou em Cafarnaum.
 

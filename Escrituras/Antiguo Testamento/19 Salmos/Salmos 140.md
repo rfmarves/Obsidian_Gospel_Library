@@ -1,27 +1,25 @@
 ---
 title: Salmos 140
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 140
 [[Salmos 139| <-- Salmos 139]] | [[Salmos]] | [[Salmos 141|Salmos 141 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/140?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/140?lang=spa)
 
----
+```
 Al músico principal. Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David ora para ser librado de sus enemigos — Jehová sustentará la causa del afligido y del menesteroso.
 
----
 ###### 1 
 
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 75
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 75
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/75?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, Faithful elders who preach the gospel will gain eternal life; 6–12, Pray to receive the Comforter, who teaches all things; 13–22, Elders will sit in judgment on those who reject their message; 23–36, Families of missionaries are to receive help from the Church.
 
----
 ###### 1 
 Verily, verily, I say unto you, I who speak even by the voice of my Spirit, even Alpha and Omega, your Lord and your God—
 

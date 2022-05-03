@@ -1,22 +1,21 @@
 ---
 title: Job 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 20
 [[Job 19| <-- Job 19]] | [[Job]] | [[Job 21|Job 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Zofar expone las condiciones de los inicuos — Él dice: El júbilo de los malvados es breve, y el gozo del impío solo dura un momento.
 
----
 ###### 1 
 Y respondió Zofar, el naamatita, y dijo:
 

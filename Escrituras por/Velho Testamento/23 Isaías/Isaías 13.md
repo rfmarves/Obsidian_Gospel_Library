@@ -1,22 +1,21 @@
 ---
 title: Isaías 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 13
 [[Isaías 12| <-- Isaías 12]] | [[Isaías]] | [[Isaías 14|Isaías 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A destruição da Babilônia é um símbolo da destruição que ocorrerá na Segunda Vinda — Será um dia de ira e vingança — A Babilônia (o mundo) cairá para sempre — Comparar com 2 Néfi 23.
 
----
 ###### 1 
 Peso de Babilônia, que viu Isaías, filho de Amós.
 

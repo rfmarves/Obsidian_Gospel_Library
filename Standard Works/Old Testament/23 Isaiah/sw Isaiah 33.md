@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 33
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 33
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/33?lang=eng)
 
----
-__Summary__
+> __Summary__
 Apostasy and wickedness will precede the Second Coming—The Lord will come with devouring fire—Zion and its stakes will be perfected—The Lord is our Judge, Lawgiver, and King.
 
----
 ###### 1 
 Woe to thee that spoilest, and thou  not spoiled; and dealest treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled;  when thou shalt make an end to deal treacherously, they shall deal treacherously with thee.
 

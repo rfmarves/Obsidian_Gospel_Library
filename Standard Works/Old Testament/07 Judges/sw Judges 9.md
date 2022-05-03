@@ -1,10 +1,11 @@
 ---
 title: sw Judges 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Gideon’s son Abimelech is made king—He slays his seventy brothers—Jotham tells a fable of trees choosing a king—The Shechemites conspire against Abimelech—He is slain at Thebez.
 
----
 ###### 1 
 And Abimelech the son of Jerubbaal went to Shechem unto his mother’s brethren, and communed with them, and with all the family of the house of his mother’s father, saying,
 

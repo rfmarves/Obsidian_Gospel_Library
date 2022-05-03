@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 27
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus is accused and condemned before Pilate—Barabbas is released—Jesus is mocked, crucified, and buried in the tomb of Joseph of Arimathæa.
 
----
 ###### 1 
 When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 10
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ is the God of Israel and the spiritual Rock that guided them—Ancient Israel rebelled against Christ—Paul contrasts true and false sacraments.
 
----
 ###### 1 
 Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
 

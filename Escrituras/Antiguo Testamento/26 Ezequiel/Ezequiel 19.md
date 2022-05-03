@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 19
 [[Ezequiel 18| <-- Ezequiel 18]] | [[Ezequiel]] | [[Ezequiel 20|Ezequiel 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequiel se lamenta porque Israel ha sido llevado cautivo por otras naciones y ha llegado a ser como la vid plantada en tierra seca y árida.
 
----
 ###### 1 
 Y tú, levanta una lamentación por los príncipes de Israel.
 

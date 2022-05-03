@@ -1,27 +1,25 @@
 ---
 title: Salmos 89
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 89
 [[Salmos 88| <-- Salmos 88]] | [[Salmos]] | [[Salmos 90|Salmos 90 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/89?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/89?lang=por)
 
----
+```
 Masquil de Etã, o ezraíta.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo messiânico — Cântico que narra a misericórdia, a grandeza, a justiça e a retidão do Santo de Israel — O Senhor estabelecerá a semente e o trono de Davi para sempre — Deus fará com que Seu Primogênito seja maior que os reis da Terra.
 
----
 ###### 1 
 As benignidades do  cantarei perpetuamente; com a minha boca manifestarei a tua fidelidade de geração em geração.
 

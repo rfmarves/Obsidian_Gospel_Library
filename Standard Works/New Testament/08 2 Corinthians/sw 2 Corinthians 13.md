@@ -1,10 +1,11 @@
 ---
 title: sw 2 Corinthians 13
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Corinthians 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saints should test themselves as to righteousness—Be perfect and of one mind; live in peace.
 
----
 ###### 1 
 This  the third  I am coming to you. In the mouth of two or three witnesses shall every word be established.
 

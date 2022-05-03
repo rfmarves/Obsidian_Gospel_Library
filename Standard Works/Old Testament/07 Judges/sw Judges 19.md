@@ -1,10 +1,11 @@
 ---
 title: sw Judges 19
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 A Levite’s concubine returns to her father—Her husband takes her back, and they lodge overnight in Gibeah—The men of Gibeah abuse the concubine and she dies—The Levite husband cuts her into twelve pieces and sends them to the tribes of Israel.
 
----
 ###### 1 
 And it came to pass in those days, when  no king in Israel, that there was a certain Levite sojourning on the side of mount Ephraim, who took to him a concubine out of Beth-lehem-judah.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ether 6
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ether 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Jaredite barges are driven by the winds to the promised land—The people praise the Lord for His goodness—Orihah is appointed king over them—Jared and his brother die.
 
----
 ###### 1 
 And now I, Moroni, proceed to give the record of Jared and his brother.
 

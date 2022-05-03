@@ -1,27 +1,25 @@
 ---
 title: Salmos 79
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 79
 [[Salmos 78| <-- Salmos 78]] | [[Salmos]] | [[Salmos 80|Salmos 80 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/79?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/79?lang=spa)
 
----
+```
 Salmo de Asaf.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Las naciones gentiles destruyen Jerusalén y profanan el templo — Israel suplica perdón y liberación.
 
----
 ###### 1 
 
 

@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 50
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 50
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/50?lang=eng)
 
----
-__Summary__
+> __Summary__
 Babylon will be destroyed and never rise again—The scattered people of Israel will be brought again into the lands of their inheritance.
 
----
 ###### 1 
 The word that the  spake against Babylon  against the land of the Chaldeans by Jeremiah the prophet.
 

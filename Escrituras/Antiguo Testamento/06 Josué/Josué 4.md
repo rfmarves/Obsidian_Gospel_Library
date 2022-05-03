@@ -1,22 +1,21 @@
 ---
 title: Josué 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 4
 [[Josué 3| <-- Josué 3]] | [[Josué]] | [[Josué 5|Josué 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Josué coloca doce piedras para conmemorar el haber cruzado el Jordán — Josué es engrandecido ante los hijos de Israel al cruzar el Jordán — Después que los sacerdotes que llevan el arca cruzan el río, este vuelve a su curso.
 
----
 ###### 1 
 Y cuando toda la gente hubo acabado de pasar el Jordán, Jehová habló a Josué, diciendo:
 

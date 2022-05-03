@@ -1,22 +1,21 @@
 ---
 title: Hebreos 13
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreos 13
 [[Hebreos 12| <-- Hebreos 12]] | [[Hebreos]] | [[Santiago 1|Santiago 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El matrimonio es honroso — Cristo es el mismo eternamente — Pablo explica cómo deben los santos ofrecer sacrificios aceptables.
 
----
 ###### 1 
 Permanezca el amor fraternal.
 

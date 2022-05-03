@@ -1,22 +1,21 @@
 ---
 title: Esdras 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 7
 [[Esdras 6| <-- Esdras 6]] | [[Esdras]] | [[Esdras 8|Esdras 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezra/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezra/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Esdras sube a Jerusalén — Artajerjes proporciona lo necesario para el embellecimiento del templo y apoya a los judíos en su adoración.
 
----
 ###### 1 
 Pasadas estas cosas, en el reinado de Artajerjes, rey de Persia, Esdras hijo de Seraías, hijo de Azarías, hijo de Hilcías,
 

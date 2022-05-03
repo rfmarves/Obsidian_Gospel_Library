@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 24
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 24
 [[2 Crônicas 23| <-- 2 Crônicas 23]] | [[2 Crônicas]] | [[2 Crônicas 25|2 Crônicas 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Joás e Joiada recebem contribuições e reparam a casa do Senhor — Joiada morre — Joás cai em idolatria, mata um profeta chamado Zacarias, e ele próprio é morto em uma conspiração.
 
----
 ###### 1 
 Tinha Joás sete anos de idade quando começou a reinar, e quarenta anos reinou em Jerusalém; e  o nome de sua mãe Zíbia, de Berseba.
 

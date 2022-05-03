@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 63
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 63
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/63?lang=eng)
 
----
+```
 A Psalm of David, when he was in the wilderness of Judah.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David thirsts for God, whom he praises with joyful lips.
 
----
 ###### 1 
 O God, thou  my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;
 

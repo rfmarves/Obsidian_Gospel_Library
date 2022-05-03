@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 7
 [[1 Samuel 6| <-- 1 Samuel 6]] | [[1 Samuel]] | [[1 Samuel 8|1 Samuel 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Samuel exorta Israel a abandonar os astarotes e baalins e a servir ao Senhor — Israel jejua e busca o Senhor — Os filisteus são subjugados — Samuel julga Israel.
 
----
 ###### 1 
 Então foram os homens de Quiriate-Jearim, e fizeram subir a arca do , e a levaram à casa de Abinadabe no outeiro; e consagraram Eleazar, seu filho, para que guardasse a arca do .
 

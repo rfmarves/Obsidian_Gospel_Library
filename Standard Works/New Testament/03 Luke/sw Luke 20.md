@@ -1,10 +1,11 @@
 ---
 title: sw Luke 20
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 The chief priests oppose Jesus—He gives the parable of the wicked husbandmen—Render unto Cæsar and God that which is theirs—Jesus teaches the law of marriage.
 
----
 ###### 1 
 And it came to pass,  on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon  with the elders,
 

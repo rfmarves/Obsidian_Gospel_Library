@@ -1,22 +1,21 @@
 ---
 title: Mosias 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 4
 [[Mosias 3| <-- Mosias 3]] | [[Mosias]] | [[Mosias 5|Mosias 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O rei Benjamim continua seu discurso — A salvação é concedida por causa da Expiação — Crede em Deus para serdes salvos — Continuai fiéis para conservardes a remissão de vossos pecados — Reparti vosso sustento com os pobres — Fazei todas as coisas com sabedoria e ordem. Aproximadamente 124 a.C.
 
----
 ###### 1 
 E então aconteceu que após ter dito as palavras que lhe haviam sido transmitidas pelo anjo do Senhor, o rei Benjamim olhou para a multidão ao redor e eis que haviam caído por terra, porque o temor do Senhor se havia apoderado deles.
 

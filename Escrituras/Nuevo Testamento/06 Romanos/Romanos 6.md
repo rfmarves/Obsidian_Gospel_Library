@@ -1,22 +1,21 @@
 ---
 title: Romanos 6
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 6
 [[Romanos 5| <-- Romanos 5]] | [[Romanos]] | [[Romanos 7|Romanos 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El bautismo es a semejanza de la muerte, de la sepultura y de la resurrección de Cristo — La muerte es el pago por el pecado — Cristo brinda vida eterna.
 
----
 ###### 1 
 ¿Qué, pues, diremos? ¿Continuaremos en el pecado para que abunde la gracia?
 

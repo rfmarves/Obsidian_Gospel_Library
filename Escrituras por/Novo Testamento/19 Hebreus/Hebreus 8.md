@@ -1,22 +1,21 @@
 ---
 title: Hebreus 8
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreus 8
 [[Hebreus 7| <-- Hebreus 7]] | [[Hebreus]] | [[Hebreus 9|Hebreus 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo ofereceu a Si mesmo como sacrifício pelo pecado — Deus prometeu fazer um novo convênio com Israel.
 
----
 ###### 1 
 Ora, o resumo do que dissemos é  temos um sumo sacerdote tal, que está assentado nos céus, à destra do trono da majestade,
 

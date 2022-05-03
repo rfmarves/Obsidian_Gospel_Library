@@ -1,22 +1,21 @@
 ---
 title: Esdras 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 10
 [[Esdras 9| <-- Esdras 9]] | [[Esdras]] | [[Neemias 1|Neemias 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os judeus fazem convênio de mandar embora as esposas tomadas dos cananeus e de outros povos — Esdras reúne o povo em Jerusalém — Os levitas que se casaram com mulheres não israelitas são enumerados.
 
----
 ###### 1 
 E orando Esdras assim, e fazendo essa confissão, chorando, e prostrando-se diante da casa de Deus, ajuntou-se a ele de Israel uma congregação muito grande, de homens e de mulheres, e de crianças; porque o povo chorava com grande choro.
 

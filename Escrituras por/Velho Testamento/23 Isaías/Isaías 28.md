@@ -1,22 +1,21 @@
 ---
 title: Isaías 28
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 28
 [[Isaías 27| <-- Isaías 27]] | [[Isaías]] | [[Isaías 29|Isaías 29 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/28?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/28?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ai dos bêbados de Efraim! — A revelação vem linha sobre linha, preceito sobre preceito — É prometida a vinda de Cristo, o alicerce seguro.
 
----
 ###### 1 
 Ai da coroa de soberba dos bêbados de Efraim, cujo glorioso ornamento  a flor que cai, que  sobre a cabeça do fértil vale dos aturdidos pelo vinho!
 

@@ -1,22 +1,21 @@
 ---
 title: Provérbios 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 23
 [[Provérbios 22| <-- Provérbios 22]] | [[Provérbios]] | [[Provérbios 24|Provérbios 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Não te fatigues para enriquecer — Como o homem imagina no seu coração, assim ele é — Não retires a disciplina da criança — Não estejas entre os beberrões.
 
----
 ###### 1 
 Quando te assentares a comer com  governador, atenta bem para o que  diante de ti,
 

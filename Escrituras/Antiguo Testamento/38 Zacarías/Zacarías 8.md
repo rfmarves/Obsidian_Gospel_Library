@@ -1,22 +1,21 @@
 ---
 title: Zacarías 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarías 8
 [[Zacarías 7| <-- Zacarías 7]] | [[Zacarías]] | [[Zacarías 9|Zacarías 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los últimos días se restablecerá Jerusalén, se recogerá a Judá y Jehová bendecirá a Su pueblo mucho más que en el pasado.
 
----
 ###### 1 
 Y vino  la palabra de Jehová de los ejércitos, diciendo:
 

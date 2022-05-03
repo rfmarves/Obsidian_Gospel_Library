@@ -1,22 +1,21 @@
 ---
 title: Salmos 91
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 91
 [[Salmos 90| <-- Salmos 90]] | [[Salmos]] | [[Salmos 92|Salmos 92 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/91?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/91?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Salmo mesiánico — Dios librará al Mesías del terror, de la pestilencia y de la guerra — Dios a Sus ángeles mandará por el Mesías y lo librará y honrará.
 
----
 ###### 1 
 
 

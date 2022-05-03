@@ -1,22 +1,21 @@
 ---
 title: Helamã 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamã 2
 [[Helamã 1| <-- Helamã 1]] | [[Helamã]] | [[Helamã 3|Helamã 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Helamã, filho de Helamã, torna-se juiz supremo — Gadiânton lidera o bando de Quiscúmen — O servo de Helamã mata Quiscúmen e o bando de Gadiânton foge para o deserto. Aproximadamente 50–49 a.C.
 
----
 ###### 1 
 E aconteceu que no quadragésimo segundo ano do governo dos juízes, depois de Moronia haver restabelecido a paz entre os nefitas e lamanitas, eis que ninguém havia para ocupar a cadeira de juiz; portanto, o povo começou novamente a contender a respeito de quem deveria ocupar a cadeira de juiz.
 

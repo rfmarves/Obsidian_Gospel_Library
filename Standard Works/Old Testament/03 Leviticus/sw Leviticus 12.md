@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord reveals the law of purification of women after childbirth, including a sin offering.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

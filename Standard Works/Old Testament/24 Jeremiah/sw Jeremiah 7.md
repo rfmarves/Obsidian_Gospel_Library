@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 If the people of Judah repent, they will be preserved—The temple has become a den of robbers—The Lord rejects that generation of the people of Judah for their idolatries—They offer their children as sacrifices.
 
----
 ###### 1 
 The word that came to Jeremiah from the , saying,
 

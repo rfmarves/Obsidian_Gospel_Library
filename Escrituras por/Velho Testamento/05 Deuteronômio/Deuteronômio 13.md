@@ -1,22 +1,21 @@
 ---
 title: Deuteronômio 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronômio 13
 [[Deuteronômio 12| <-- Deuteronômio 12]] | [[Deuteronômio]] | [[Deuteronômio 14|Deuteronômio 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/deut/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor põe o Seu povo à prova para ver se adorarão deuses falsos — Os profetas, sonhadores, parentes ou amigos que pregarem a adoração de deuses falsos serão mortos — As cidades idólatras serão destruídas.
 
----
 ###### 1 
 Quando profeta ou sonhador de sonhos se levantar em teu meio, e te der um sinal ou um prodígio,
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 52
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 52
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/52?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–2, The next conference is designated to be held in Missouri; 3–8, Appointments of certain elders to travel together are made; 9–11, The elders are to teach what the apostles and prophets have written; 12–21, Those enlightened by the Spirit bring forth fruits of praise and wisdom; 22–44, Various elders are appointed to go forth preaching the gospel while traveling to Missouri for the conference.
 
----
 ###### 1 
 Behold, thus saith the Lord unto the elders whom he hath called and chosen in these last days, by the voice of his Spirit—
 

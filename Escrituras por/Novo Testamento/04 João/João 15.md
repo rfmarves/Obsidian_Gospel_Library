@@ -1,22 +1,21 @@
 ---
 title: João 15
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # João 15
 [[João 14| <-- João 14]] | [[João]] | [[João 16|João 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/john/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus é a videira; Seus discípulos são os ramos — Ele discursa sobre a lei perfeita do amor — Seus servos foram escolhidos e ordenados por Ele — O mundo odeia e combate a verdadeira religião — Ele promete o Consolador, o Espírito da Verdade.
 
----
 ###### 1 
 Eu sou a videira verdadeira, e meu Pai é o lavrador.
 

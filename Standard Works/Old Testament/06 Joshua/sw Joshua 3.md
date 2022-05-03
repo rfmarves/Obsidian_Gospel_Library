@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joshua leads Israel to the Jordan—The Lord cuts off the water of the Jordan; it stands up as a heap, and Israel passes over on dry ground.
 
----
 ###### 1 
 And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over.
 

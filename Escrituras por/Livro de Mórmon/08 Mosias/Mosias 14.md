@@ -1,22 +1,21 @@
 ---
 title: Mosias 14
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 14
 [[Mosias 13| <-- Mosias 13]] | [[Mosias]] | [[Mosias 15|Mosias 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Isaías fala sobre o Messias — Menciona-se a humilhação e os sofrimentos do Messias — Ele faz de Sua alma uma oferta pelo pecado e intercede pelos transgressores — Comparar com Isaías 53. Aproximadamente 148 a.C.
 
----
 ###### 1 
 Sim, e não diz Isaías: Quem acreditou em nossas palavras e a quem se manifestou o braço do Senhor?
 

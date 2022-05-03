@@ -1,22 +1,21 @@
 ---
 title: Éxodo 35
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 35
 [[Éxodo 34| <-- Éxodo 34]] | [[Éxodo]] | [[Éxodo 36|Éxodo 36 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/35?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/35?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se manda a Israel observar el día de reposo — Se ofrecen ofrendas voluntarias para el tabernáculo — Se confirma el llamamiento e inspiración de algunos artesanos.
 
----
 ###### 1 
 Y Moisés hizo reunir a toda la congregación de los hijos de Israel y les dijo: Estas son las cosas que Jehová ha mandado hacer:
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Néfi 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Néfi 5
 [[1 Néfi 4| <-- 1 Néfi 4]] | [[1 Néfi]] | [[1 Néfi 6|1 Néfi 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Saria queixa-se de Leí — Ambos se regozijam com o retorno de seus filhos — Eles oferecem sacrifícios — As placas de latão contêm escritos de Moisés e dos profetas — As placas identificam Leí como descendente de José — Leí profetiza a respeito de sua semente e da preservação das placas. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 E aconteceu que depois de havermos descido para o deserto até nosso pai, eis que ele se encheu de alegria; e minha mãe, Saria, também se alegrou muito, pois verdadeiramente havia pranteado por nossa causa.
 

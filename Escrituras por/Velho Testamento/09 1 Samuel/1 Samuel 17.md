@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 17
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 17
 [[1 Samuel 16| <-- 1 Samuel 16]] | [[1 Samuel]] | [[1 Samuel 18|1 Samuel 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel e os filisteus se enfrentam em guerra — Golias de Gate, um gigante, afronta Israel e desafia qualquer israelita para um combate pessoal — Davi o enfrenta em nome do Senhor — Davi mata Golias com pedra e funda — Israel derrota os filisteus.
 
----
 ###### 1 
 E os filisteus ajuntaram os seus exércitos para a guerra e congregaram-se em Socó, que  em Judá, e acamparam-se entre Socó e Azeca, em Efes-Damim.
 

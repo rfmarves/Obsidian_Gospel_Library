@@ -1,27 +1,25 @@
 ---
 title: Alma 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 1
 [[Mosíah 29| <-- Mosíah 29]] | [[Alma]] | [[Alma 2|Alma 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=spa)
 
----
+```
 La narración de Alma, que era hijo de Alma, y el primer juez superior del pueblo de Nefi, y también el sumo sacerdote que presidía la Iglesia. Una relación del gobierno de los jueces y de las guerras y contenciones que hubo entre el pueblo. Además, la narración de una guerra entre los nefitas y los lamanitas, según los anales de Alma, el primer juez superior.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Nehor enseña doctrinas falsas, establece una iglesia, introduce la superchería sacerdotal y mata a Gedeón — Nehor es ejecutado por motivo de sus crímenes — Se difunden entre el pueblo la superchería sacerdotal y las persecuciones — Los sacerdotes se sostienen con su propio trabajo, el pueblo cuida de los pobres y la Iglesia prospera. Aproximadamente 91–88 a.C.
 
----
 ###### 1 
 Ahora bien, sucedió que en el primer año del gobierno de los jueces, que de allí en adelante continuó sobre el pueblo de Nefi, pues el rey Mosíah se había ido por la vía de toda la tierra, habiendo peleado la buena batalla, andando rectamente ante Dios, no dejando quien reinara en su lugar; sin embargo, había establecido leyes que el pueblo reconocía; por tanto, tenían la obligación de someterse a las leyes que él había formulado.
 

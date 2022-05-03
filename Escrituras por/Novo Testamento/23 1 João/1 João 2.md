@@ -1,22 +1,21 @@
 ---
 title: 1 João 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 João 2
 [[1 João 1| <-- 1 João 1]] | [[1 João]] | [[1 João 3|1 João 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cristo é nosso Advogado junto ao Pai — Conhecemos a Deus pela obediência — Não ameis o mundo — Surgirão anticristos nos últimos dias.
 
----
 ###### 1 
 Meus filhinhos, estas  vos escrevo, para que não pequeis; e se alguém pecar, temos um Advogado para com o Pai, Jesus Cristo, o justo.
 

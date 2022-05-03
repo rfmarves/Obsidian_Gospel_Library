@@ -1,22 +1,21 @@
 ---
 title: Salmos 115
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 115
 [[Salmos 114| <-- Salmos 114]] | [[Salmos]] | [[Salmos 116|Salmos 116 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/115?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/115?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nuestro Dios está en los cielos — Los ídolos son dioses falsos — Confiad en Jehová.
 
----
 ###### 1 
 
 

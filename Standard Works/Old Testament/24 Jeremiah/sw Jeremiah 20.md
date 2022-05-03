@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah is smitten and put in the stocks—He prophesies that all Judah will be taken captive by Babylon.
 
----
 ###### 1 
 Now Pashur the son of Immer the priest, who  also chief governor in the house of the , heard that Jeremiah prophesied these things.
 

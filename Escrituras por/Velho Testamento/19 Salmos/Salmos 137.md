@@ -1,22 +1,21 @@
 ---
 title: Salmos 137
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 137
 [[Salmos 136| <-- Salmos 136]] | [[Salmos]] | [[Salmos 138|Salmos 138 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/137?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/137?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Quando estavam no cativeiro, os judeus choraram junto aos rios da Babilônia — Devido à tristeza, não conseguiam cantar os hinos de Sião.
 
----
 ###### 1 
 Junto dos rios de Babilônia, ali nos assentamos e choramos, quando nos lembramos de Sião.
 

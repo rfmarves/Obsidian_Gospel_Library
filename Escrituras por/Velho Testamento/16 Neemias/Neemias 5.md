@@ -1,22 +1,21 @@
 ---
 title: Neemias 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Neemias 5
 [[Neemias 4| <-- Neemias 4]] | [[Neemias]] | [[Neemias 6|Neemias 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Muitos judeus estão sob o jugo de outros judeus — Por ordem de Neemias, eles são libertados, suas terras são restituídas, e a prática da usura é abolida.
 
----
 ###### 1 
 Foi, porém, grande o clamor do povo e de suas mulheres contra os judeus, seus irmãos.
 

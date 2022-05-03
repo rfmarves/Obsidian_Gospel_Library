@@ -1,22 +1,21 @@
 ---
 title: Mateus 13
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 13
 [[Mateus 12| <-- Mateus 12]] | [[Mateus]] | [[Mateus 14|Mateus 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus explica por que Ele ensina com parábolas — Ele conta a parábola do semeador, a do trigo e do joio, a do grão de mostarda, a do fermento, a do tesouro escondido no campo, a da pérola de grande valor e a da rede lançada ao mar — Um profeta não é honrado por seu próprio povo.
 
----
 ###### 1 
 E Jesus, tendo saído da casa naquele dia, estava assentado junto ao mar;
 

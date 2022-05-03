@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abram will become a great nation—He and his seed will bless all the families of the earth—He travels from Haran to the land of Canaan—Because of famine, he goes down into Egypt—Abram and Sarai are tested in Pharaoh’s court.
 
----
 ###### 1 
 Now the  had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:
 

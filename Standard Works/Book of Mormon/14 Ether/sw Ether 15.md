@@ -1,10 +1,11 @@
 ---
 title: sw Ether 15
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ether 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Millions of the Jaredites are slain in battle—Shiz and Coriantumr assemble all the people to mortal combat—The Spirit of the Lord ceases to strive with them—The Jaredite nation is utterly destroyed—Only Coriantumr remains.
 
----
 ###### 1 
 And it came to pass when Coriantumr had recovered of his wounds, he began to remember the words which Ether had spoken unto him.
 

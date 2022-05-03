@@ -1,22 +1,21 @@
 ---
 title: Hechos 13
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 13
 [[Hechos 12| <-- Hechos 12]] | [[Hechos]] | [[Hechos 14|Hechos 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se llama a Saulo y a Bernabé al servicio misional — Saulo, ahora llamado Pablo, maldice a un hechicero — Cristo es descendiente de David — Pablo ofrece el Evangelio primero a Israel y luego a los gentiles.
 
----
 ###### 1 
 Había entonces en la iglesia que estaba en Antioquía profetas y maestros: Bernabé; y Simón, el que se llamaba Niger y Lucio cireneo; y Manaén, que se había criado con Herodes, el tetrarca, y Saulo.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 14
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 14
 [[1 Samuel 13| <-- 1 Samuel 13]] | [[1 Samuel]] | [[1 Samuel 15|1 Samuel 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jonatán hiere la guarnición de los filisteos — Saúl instruye al pueblo a no tomar alimento sino hasta la noche — Inadvertido del juramento, Jonatán come y Saúl decreta su muerte — El pueblo lo rescata — Saúl aflige a sus enemigos por todos lados.
 
----
 ###### 1 
 Y aconteció un día, que Jonatán hijo de Saúl dijo al joven que le llevaba las armas: Ven y pasemos a la guarnición de los filisteos que está de aquel lado. Pero no  hizo saber a su padre.
 

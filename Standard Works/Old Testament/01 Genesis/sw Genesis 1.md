@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 God creates this earth and its heaven and all forms of life in six days—The creative acts of each day are described—God creates man, both male and female, in His own image—Man is given dominion over all things and is commanded to multiply and fill the earth.
 
----
 ###### 1 
 In the beginning God created the heaven and the earth.
 

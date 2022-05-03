@@ -1,10 +1,11 @@
 ---
 title: sw D&C 95
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 95
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/95?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–6, The Saints are chastened for their failure to build the house of the Lord; 7–10, The Lord desires to use His house to endow His people with power from on high; 11–17, The house is to be dedicated as a place of worship and for the school of the Apostles.
 
----
 ###### 1 
 Verily, thus saith the Lord unto you whom I love, and whom I love I also chasten that their sins may be forgiven, for with the chastisement I prepare a way for their deliverance in all things out of temptation, and I have loved you—
 

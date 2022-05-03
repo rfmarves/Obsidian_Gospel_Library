@@ -1,10 +1,11 @@
 ---
 title: sw Job 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Bildad asks, Doth God pervert judgment?—Bildad says, Our days upon earth are a shadow, and God will not cast away a perfect man.
 
----
 ###### 1 
 Then answered Bildad the Shuhite, and said,
 

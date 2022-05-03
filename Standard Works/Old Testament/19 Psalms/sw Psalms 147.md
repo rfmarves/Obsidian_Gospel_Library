@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 147
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 147
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/147?lang=eng)
 
----
-__Summary__
+> __Summary__
 Praise the Lord for His power—His understanding is infinite—He sends His commandments, His word, His statutes, and His judgments unto Israel.
 
----
 ###### 1 
 Praise ye the : for  good to sing praises unto our God; for  pleasant;  praise is comely.
 

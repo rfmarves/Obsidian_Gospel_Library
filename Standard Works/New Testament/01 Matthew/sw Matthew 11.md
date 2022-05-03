@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 11
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus acclaims John as more than a prophet—The cities of Chorazin, Bethsaida, and Capernaum are rebuked for unbelief—The Son reveals the Father—The yoke of Christ is easy, and His burden is light.
 
----
 ###### 1 
 And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities.
 

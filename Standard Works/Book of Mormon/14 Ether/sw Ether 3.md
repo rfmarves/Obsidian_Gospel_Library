@@ -1,10 +1,11 @@
 ---
 title: sw Ether 3
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ether 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The brother of Jared sees the finger of the Lord as He touches sixteen stones—Christ shows His spirit body to the brother of Jared—Those who have a perfect knowledge cannot be kept from within the veil—Interpreters are provided to bring the Jaredite record to light.
 
----
 ###### 1 
 And it came to pass that the brother of Jared, (now the number of the vessels which had been prepared was eight) went forth unto the mount, which they called the mount Shelem, because of its exceeding height, and did molten out of a rock sixteen small stones; and they were white and clear, even as transparent glass; and he did carry them in his hands upon the top of the mount, and cried again unto the Lord, saying:
 

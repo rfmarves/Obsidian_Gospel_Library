@@ -1,27 +1,25 @@
 ---
 title: Salmos 38
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 38
 [[Salmos 37| <-- Salmos 37]] | [[Salmos]] | [[Salmos 39|Salmos 39 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/38?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/38?lang=por)
 
----
+```
 Salmo de Davi para lembrança.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi se entristece por seus pecados — Eles jazem como uma enfermidade sobre ele — Ele pede ao Senhor que seja compassivo.
 
----
 ###### 1 
 Ah, , não me repreendas na tua ira, nem me castigues no teu furor!
 

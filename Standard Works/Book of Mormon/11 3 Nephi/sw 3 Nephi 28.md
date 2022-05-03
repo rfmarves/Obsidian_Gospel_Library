@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 28
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nine of the twelve disciples desire and are promised an inheritance in Christ’s kingdom when they die—The Three Nephites desire and are given power over death so as to remain on the earth until Jesus comes again—They are translated and see things not lawful to utter, and they are now ministering among men. About A.D. 34–35.
 
----
 ###### 1 
 And it came to pass when Jesus had said these words, he spake unto his disciples, one by one, saying unto them: What is it that ye desire of me, after that I am gone to the Father?
 

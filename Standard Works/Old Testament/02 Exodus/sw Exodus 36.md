@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 36
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 36
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/36?lang=eng)
 
----
-__Summary__
+> __Summary__
 Wise-hearted men are chosen to work on the tabernacle—Moses restrains the people from donating any more material.
 
----
 ###### 1 
 Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the  put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the  had commanded.
 

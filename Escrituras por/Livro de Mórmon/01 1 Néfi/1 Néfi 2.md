@@ -1,22 +1,21 @@
 ---
 title: 1 Néfi 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Néfi 2
 [[1 Néfi 1| <-- 1 Néfi 1]] | [[1 Néfi]] | [[1 Néfi 3|1 Néfi 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Leí leva a família para o deserto junto ao Mar Vermelho — Abandonam seus bens — Leí oferece um sacrifício ao Senhor e ensina os filhos a guardarem os mandamentos — Lamã e Lemuel murmuram contra o pai — Néfi é obediente e ora com fé; o Senhor fala com ele e escolhe-o para governar os irmãos. Aproximadamente 600 a.C.
 
----
 ###### 1 
 Pois eis que aconteceu ter o Senhor falado a meu pai, sim, num sonho, dizendo: Bendito és tu, Leí, pelas coisas que fizeste; e porque foste fiel e declaraste a este povo as coisas que te ordenei, eis que procuram tirar-te a vida.
 

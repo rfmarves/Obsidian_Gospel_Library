@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 14
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 14
 [[3 Nefi 13| <-- 3 Nefi 13]] | [[3 Nefi]] | [[3 Nefi 15|3 Nefi 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús manda: No juzguéis; pedid a Dios; guardaos de los falsos profetas — Él promete la salvación a aquellos que hagan la voluntad del Padre — Compárese con Mateo 7. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Y aconteció que cuando Jesús hubo hablado estas palabras, se volvió de nuevo hacia la multitud y abrió otra vez su boca, diciendo: De cierto, de cierto os digo: No juzguéis, para que no seáis juzgados.
 

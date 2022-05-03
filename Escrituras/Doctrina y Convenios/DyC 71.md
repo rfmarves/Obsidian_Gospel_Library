@@ -1,22 +1,21 @@
 ---
 title: DyC 71
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 71
 [[DyC 70| <-- DyC 70]] | [[DyC]] | [[DyC 72|DyC 72 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/71?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/71?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, José Smith y Sidney Rigdon son enviados a proclamar el Evangelio; 5–11, Los enemigos de los santos serán confundidos.
 
----
 ###### 1 
 He aquí, así os dice el Señor a vosotros, mis siervos José Smith, hijo, y Sidney Rigdon: Ciertamente ha llegado el tiempo en que es necesario y oportuno que abráis vuestra boca para proclamar mi evangelio, las cosas del reino, explicando sus misterios por medio de las Escrituras, de acuerdo con la porción del Espíritu y del poder que se os dará según mi voluntad.
 

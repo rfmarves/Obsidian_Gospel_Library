@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 38
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 38
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/38?lang=eng)
 
----
-__Summary__
+> __Summary__
 The rulers cast Jeremiah into a muddy dungeon—He is freed by Ebed-melech, an Ethiopian, and put in the court of the prison—Jeremiah counsels Zedekiah concerning the war.
 
----
 ###### 1 
 Then Shephatiah the son of Mattan, and Gedaliah the son of Pashur, and Jucal the son of Shelemiah, and Pashur the son of Malchiah, heard the words that Jeremiah had spoken unto all the people, saying,
 

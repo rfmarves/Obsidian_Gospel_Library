@@ -1,22 +1,21 @@
 ---
 title: Isaías 51
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 51
 [[Isaías 50| <-- Isaías 50]] | [[Isaías]] | [[Isaías 52|Isaías 52 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/51?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/51?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Nos últimos dias, o Senhor consolará Sião e reunirá Israel — Os resgatados irão a Sião em meio a grande alegria — Comparar com 2 Néfi 8.
 
----
 ###### 1 
 Ouvi-me vós, os que seguis a justiça, os que buscais ao ; olhai para a rocha  fostes cortados, e para a caverna do poço  fostes cavados.
 

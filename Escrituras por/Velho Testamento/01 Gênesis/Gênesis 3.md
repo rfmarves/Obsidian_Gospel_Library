@@ -1,22 +1,21 @@
 ---
 title: Gênesis 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 3
 [[Gênesis 2| <-- Gênesis 2]] | [[Gênesis]] | [[Gênesis 4|Gênesis 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A serpente (Lúcifer) engana Eva — Eva e depois Adão comem do fruto proibido — A Semente da mulher (Cristo) ferirá a cabeça da serpente — Explica-se o papel da mulher e o do homem — Adão e Eva são expulsos do Jardim do Éden — Adão preside — Eva torna-se a mãe de todos os viventes.
 
----
 ###### 1 
 Ora, a serpente era mais astuta que todos os animais do campo que o  Deus tinha feito. E esta disse à mulher: É assim que Deus disse: Não comereis de toda a árvore do jardim?
 

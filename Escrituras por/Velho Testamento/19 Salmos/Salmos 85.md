@@ -1,27 +1,25 @@
 ---
 title: Salmos 85
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 85
 [[Salmos 84| <-- Salmos 84]] | [[Salmos]] | [[Salmos 86|Salmos 86 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/85?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/85?lang=por)
 
----
+```
 Salmo para o músico-mor, entre os filhos de Coré.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 O Senhor fala de paz a Seu povo — A verdade brotará da Terra (o Livro de Mórmon), e a retidão olhará desde o céu.
 
----
 ###### 1 
 Abençoaste, , a tua terra; fizeste voltar o cativeiro de Jacó.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 5
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 5
 [[Salmos 4| <-- Salmos 4]] | [[Salmos]] | [[Salmos 6|Salmos 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/5?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor, sobre aNeilote.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi pede ao Senhor que atenda à sua voz — O Senhor odeia os que praticam a maldade — Ele abençoa e protege os justos.
 
----
 ###### 1 
 Dá ouvidos às minhas palavras, ó , atenta para a minha meditação.
 

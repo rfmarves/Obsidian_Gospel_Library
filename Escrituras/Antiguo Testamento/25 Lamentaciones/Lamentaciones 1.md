@@ -1,22 +1,21 @@
 ---
 title: Lamentaciones 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lamentaciones 1
 [[Jeremías 52| <-- Jeremías 52]] | [[Lamentaciones]] | [[Lamentaciones 2|Lamentaciones 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lam/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lam/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías lamenta la condición deplorable de Jerusalén — Aun Jerusalén se queja de su profundo dolor.
 
----
 ###### 1 
 
 

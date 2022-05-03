@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 22
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel will be scattered upon all the face of the earth—The Gentiles will nurse and nourish Israel with the gospel in the last days—Israel will be gathered and saved, and the wicked will burn as stubble—The kingdom of the devil will be destroyed, and Satan will be bound. About 588–570 B.C.
 
----
 ###### 1 
 And now it came to pass that after I, Nephi, had read these things which were engraven upon the plates of brass, my brethren came unto me and said unto me: What meaneth these things which ye have read? Behold, are they to be understood according to things which are spiritual, which shall come to pass according to the spirit and not the flesh?
 

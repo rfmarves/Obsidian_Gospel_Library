@@ -1,22 +1,21 @@
 ---
 title: Mosias 27
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 27
 [[Mosias 26| <-- Mosias 26]] | [[Mosias]] | [[Mosias 28|Mosias 28 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mosias proíbe a perseguição e ordena a igualdade — Alma, o filho, e os quatro filhos de Mosias procuram destruir a igreja — Um anjo aparece e ordena-lhes que abandonem o mau caminho — Alma perde a fala — Toda a humanidade deve nascer de novo para obter salvação — Alma e os filhos de Mosias declaram boas novas. Aproximadamente 100–92 a.C.
 
----
 ###### 1 
 E então aconteceu que as perseguições que eram infligidas à igreja pelos incrédulos tornaram-se tão grandes que a igreja começou a murmurar e a queixar-se, aos que os dirigiam, a respeito do assunto; e queixaram-se a Alma. E Alma expôs o caso diante do rei Mosias e Mosias consultou seus sacerdotes.
 

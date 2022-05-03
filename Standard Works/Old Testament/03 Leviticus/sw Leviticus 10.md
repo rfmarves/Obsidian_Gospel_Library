@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Nadab and Abihu perform unauthorized sacrifices and are slain by a fire from the Lord—Aaron and his other sons are forbidden to mourn for them—Aaron and his sons are to abstain from wine and strong drink—They are to teach all that the Lord revealed to Moses.
 
----
 ###### 1 
 And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the , which he commanded them not.
 

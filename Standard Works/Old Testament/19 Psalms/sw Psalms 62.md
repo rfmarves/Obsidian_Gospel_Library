@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 62
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 62
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/62?lang=eng)
 
----
+```
 To the chief Musician, to Jeduthun, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David praises God as his defense, his rock, and his salvation—The Lord judges men according to their works.
 
----
 ###### 1 
 Truly my soul waiteth upon God: from him  my salvation.
 

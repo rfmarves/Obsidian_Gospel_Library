@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 26
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses and Eleazar count the Israelites on the plains of Moab near Jericho—The males twenty years and older, excluding Levites, total 601,730—Only Caleb and Joshua remain from those numbered at Sinai.
 
----
 ###### 1 
 And it came to pass after the plague, that the  spake unto Moses and unto Eleazar the son of Aaron the priest, saying,
 

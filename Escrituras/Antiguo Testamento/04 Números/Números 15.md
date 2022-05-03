@@ -1,22 +1,21 @@
 ---
 title: Números 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 15
 [[Números 14| <-- Números 14]] | [[Números]] | [[Números 16|Números 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Varias ordenanzas de sacrificio traen el perdón al Israel arrepentido — Aquellos que pecan voluntariamente son desarraigados de entre el pueblo — Un hombre es apedreado por recoger leña en el día de reposo — Los israelitas deben mirar los bordes de sus vestidos y recordar los mandamientos.
 
----
 ###### 1 
 Y Jehová habló a Moisés, diciendo:
 

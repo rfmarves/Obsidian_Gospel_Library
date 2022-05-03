@@ -1,22 +1,21 @@
 ---
 title: Esdras 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 3
 [[Esdras 2| <-- Esdras 2]] | [[Esdras]] | [[Esdras 4|Esdras 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezra/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezra/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se reconstruye el altar — Se instituyen nuevamente los sacrificios regulares — Con gran júbilo se ponen los cimientos del templo.
 
----
 ###### 1 
 Y cuando llegó el mes séptimo, y  establecidos los hijos de Israel en las ciudades, se congregó el pueblo como un solo hombre en Jerusalén.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 9
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 9
 [[1 Coríntios 8| <-- 1 Coríntios 8]] | [[1 Coríntios]] | [[1 Coríntios 10|1 Coríntios 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo se regozija em sua liberdade cristã — Ele prega gratuitamente o evangelho a todos — Ele se tornou tudo para todos os homens a fim de conseguir conversos.
 
----
 ###### 1 
 Não sou eu apóstolo? Não sou livre? Não vi eu a Jesus Cristo, Senhor nosso? Não sois vós a minha obra no Senhor?
 

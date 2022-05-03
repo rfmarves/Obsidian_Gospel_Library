@@ -1,22 +1,21 @@
 ---
 title: DeC 43
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 43
 [[DeC 42| <-- DeC 42]] | [[DeC]] | [[DeC 44|DeC 44 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/43?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/43?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–7, Revelações e mandamentos são dados somente por meio da pessoa designada; 8–14, Os santos são santificados agindo com toda santidade perante o Senhor; 15–22, Os élderes são enviados para clamar arrependimento e preparar os homens para o grande dia do Senhor; 23–28, O Senhor chama os homens por Sua própria voz e por meio das forças da natureza; 29–35, Virá o Milênio e o tempo em que Satanás será amarrado.
 
----
 ###### 1 
 Escutai, ó élderes de minha igreja, e dai ouvidos às palavras que vos direi.
 

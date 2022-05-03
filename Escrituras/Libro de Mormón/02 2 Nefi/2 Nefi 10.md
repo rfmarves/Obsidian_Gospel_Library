@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 10
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 10
 [[2 Nefi 9| <-- 2 Nefi 9]] | [[2 Nefi]] | [[2 Nefi 11|2 Nefi 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob explica que los judíos crucificarán a su Dios — Serán dispersados hasta que empiecen a creer en Él — América será una tierra de libertad donde ningún rey gobernará — Reconciliaos con Dios y lograd la salvación por medio de Su gracia. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Y ahora bien, yo, Jacob, os hablo otra vez, amados hermanos míos, concerniente a esta rama justa de la cual he hablado.
 

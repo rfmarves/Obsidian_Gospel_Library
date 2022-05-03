@@ -1,22 +1,21 @@
 ---
 title: Alma 40
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 40
 [[Alma 39| <-- Alma 39]] | [[Alma]] | [[Alma 41|Alma 41 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Cristo lleva a cabo la resurrección de todos los hombres — Los muertos que han sido justos van al paraíso y los malvados a las tinieblas de afuera para esperar el tiempo de su resurrección — Todo será restablecido a su propia y perfecta forma en la Resurrección. Aproximadamente 74 a.C.
 
----
 ###### 1 
 Y ahora bien, hijo mío, he aquí algo más que quisiera decirte, porque veo que tu mente está preocupada con respecto a la resurrección de los muertos.
 

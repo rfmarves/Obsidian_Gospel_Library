@@ -1,22 +1,21 @@
 ---
 title: Provérbios 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 11
 [[Provérbios 10| <-- Provérbios 10]] | [[Provérbios]] | [[Provérbios 12|Provérbios 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Contrastam-se as condições e as recompensas dos justos com as dos iníquos — Morrendo o homem perverso perece sua esperança — O que ganha almas é sábio.
 
----
 ###### 1 
 Balança enganosa  abominação ao , mas o peso justo  o seu prazer.
 

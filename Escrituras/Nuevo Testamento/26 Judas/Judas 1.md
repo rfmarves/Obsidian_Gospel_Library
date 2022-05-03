@@ -1,22 +1,21 @@
 ---
 title: Judas 1
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Judas 1
 [[3 Juan 1| <-- 3 Juan 1]] | [[Judas]] | [[Apocalipsis 1|Apocalipsis 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/jude/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/jude/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Luchad por la fe — Hubo ángeles que no guardaron su primer estado — Miguel discutió con el diablo, disputándole el cuerpo de Moisés — Enoc profetizó acerca de la Segunda Venida — En los últimos días habrá burladores.
 
----
 ###### 1 
 Judas, siervo de Jesucristo y hermano de Jacobo, a los llamados, santificados en Dios el Padre, y guardados para Jesucristo:
 

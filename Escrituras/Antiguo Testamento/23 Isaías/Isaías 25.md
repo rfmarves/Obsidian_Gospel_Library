@@ -1,22 +1,21 @@
 ---
 title: Isaías 25
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 25
 [[Isaías 24| <-- Isaías 24]] | [[Isaías]] | [[Isaías 26|Isaías 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová preparará un banquete de manjares suculentos del Evangelio en el monte Sion — Destruirá a la muerte para siempre — Se dirá: He aquí, este es nuestro Dios.
 
----
 ###### 1 
 Jehová, tú eres mi Dios; te exaltaré; alabaré tu nombre, porque has hecho maravillas, tus consejos antiguos son verdad y fidelidad.
 

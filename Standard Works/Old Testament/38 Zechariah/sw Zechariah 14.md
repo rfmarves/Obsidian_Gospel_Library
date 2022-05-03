@@ -1,10 +1,11 @@
 ---
 title: sw Zechariah 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zechariah 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 At His Second Coming, the Lord will fight for Israel—His feet will stand upon the Mount of Olives—He will be King over all the earth—Plagues will destroy the wicked.
 
----
 ###### 1 
 Behold, the day of the  cometh, and thy spoil shall be divided in the midst of thee.
 

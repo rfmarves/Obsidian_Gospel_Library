@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Assyria will overrun Egypt and make her ashamed.
 
----
 ###### 1 
 In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;
 

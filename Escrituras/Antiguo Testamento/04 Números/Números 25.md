@@ -1,22 +1,21 @@
 ---
 title: Números 25
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 25
 [[Números 24| <-- Números 24]] | [[Números]] | [[Números 26|Números 26 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/25?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/25?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los israelitas que adoran dioses falsos son muertos — Finees mata a los adúlteros y detiene la mortandad — Se manda a los del pueblo de Israel hostigar a los madianitas que los habían engañado.
 
----
 ###### 1 
 Y acampaba Israel en Sitim, y el pueblo empezó a fornicar con las hijas de Moab,
 

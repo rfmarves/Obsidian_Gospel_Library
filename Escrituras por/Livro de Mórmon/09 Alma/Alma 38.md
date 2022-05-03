@@ -1,27 +1,25 @@
 ---
 title: Alma 38
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 38
 [[Alma 37| <-- Alma 37]] | [[Alma]] | [[Alma 39|Alma 39 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/38?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/38?lang=por)
 
----
+```
 Os mandamentos de Alma a seu filho Siblon.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Siblon foi perseguido por causa da retidão — A salvação está em Cristo, que é a vida e a luz do mundo — Refreai todas as vossas paixões. Aproximadamente 74 a.C.
 
----
 ###### 1 
 Meu filho, ouve minhas palavras, pois digo-te, como disse a Helamã, que, se guardares os mandamentos de Deus, prosperarás na terra; e se não guardares os mandamentos de Deus, serás afastado de sua presença.
 

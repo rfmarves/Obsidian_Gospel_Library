@@ -1,22 +1,21 @@
 ---
 title: Helamán 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 4
 [[Helamán 3| <-- Helamán 3]] | [[Helamán]] | [[Helamán 5|Helamán 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los disidentes nefitas y los lamanitas unen sus fuerzas y se apoderan de la tierra de Zarahemla — Las derrotas les sobrevienen a los nefitas por motivo de su maldad — La Iglesia decae, y el pueblo se vuelve débil, igual que los lamanitas. Aproximadamente 38–30 a.C.
 
----
 ###### 1 
 Y sucedió que en el año cincuenta y cuatro hubo muchas disensiones en la iglesia, y también hubo una contienda entre el pueblo, al grado de que se derramó mucha sangre.
 

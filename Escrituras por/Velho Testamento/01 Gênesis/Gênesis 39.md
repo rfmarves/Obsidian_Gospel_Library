@@ -1,22 +1,21 @@
 ---
 title: Gênesis 39
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 39
 [[Gênesis 38| <-- Gênesis 38]] | [[Gênesis]] | [[Gênesis 40|Gênesis 40 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/39?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/39?lang=por)
 
----
-__Resumo__
+> __Resumo__
 José, que o Senhor fez prosperar, torna-se mordomo da casa de Potifar — José resiste à sedução da mulher de Potifar, é acusado falsamente e colocado na prisão — O carcereiro-mor entrega nas mãos de José os assuntos da prisão.
 
----
 ###### 1 
 E José foi levado ao Egito, e Potifar, eunuco de Faraó, capitão da guarda, homem egípcio, comprou-o da mão dos ismaelitas que o tinham levado para lá.
 

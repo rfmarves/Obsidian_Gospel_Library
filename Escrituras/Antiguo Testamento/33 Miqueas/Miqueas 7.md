@@ -1,22 +1,21 @@
 ---
 title: Miqueas 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Miqueas 7
 [[Miqueas 6| <-- Miqueas 6]] | [[Miqueas]] | [[Nahúm 1|Nahúm 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/micah/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/micah/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Aunque el pueblo de Israel se ha rebelado, en los últimos días Jehová tendrá misericordia de él — Tendrá compasión y perdonará sus iniquidades.
 
----
 ###### 1 
 ¡Ay de mí!, porque he venido a ser como cuando han recogido los frutos del verano, como cuando han rebuscado después de la vendimia  no  racimo para comer; mi alma deseó los primeros frutos.
 

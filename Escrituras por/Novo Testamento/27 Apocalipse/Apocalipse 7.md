@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 7
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 7
 [[Apocalipse 6| <-- Apocalipse 6]] | [[Apocalipse]] | [[Apocalipse 8|Apocalipse 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 João também vê no sexto selo a Restauração do evangelho, o selamento dos 144.000 e as hostes dos exaltados de todas as nações.
 
----
 ###### 1 
 E depois dessas coisas vi quatro anjos que estavam sobre os quatro cantos da terra, que retinham os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem contra árvore alguma.
 

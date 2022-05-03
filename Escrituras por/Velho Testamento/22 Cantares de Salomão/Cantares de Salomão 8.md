@@ -1,22 +1,21 @@
 ---
 title: Cantares de Salomão 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Cantares de Salomão 8
 [[Cantares de Salomão 7| <-- Cantares de Salomão 7]] | [[Cantares de Salomão]] | [[Isaías 1|Isaías 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/song/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 As muitas águas não podem apagar o amor.
 
----
 ###### 1 
 Ah! Quem  dera que me  como irmão,  mamou nos peitos de minha mãe! Quando te achasse na rua, te beijaria, e não me desprezariam!
 

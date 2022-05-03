@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 8
 [[1 Crónicas 7| <-- 1 Crónicas 7]] | [[1 Crónicas]] | [[1 Crónicas 9|1 Crónicas 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se enumeran los hijos y los jefes principales de Benjamín.
 
----
 ###### 1 
 Y Benjamín engendró a Bela, su primogénito, a Asbel el segundo, y a Ahara el tercero,
 

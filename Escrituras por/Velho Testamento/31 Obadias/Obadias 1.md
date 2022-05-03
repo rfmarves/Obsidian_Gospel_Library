@@ -1,22 +1,21 @@
 ---
 title: Obadias 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Obadias 1
 [[Amós 9| <-- Amós 9]] | [[Obadias]] | [[Jonas 1|Jonas 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/obad/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/obad/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Obadias profetiza a queda de Edom — Haverá salvadores sobre o Monte Sião.
 
----
 ###### 1 
 Visão de Obadias: Assim diz o Senhor  a Edom: Ouvimos a pregação do , e foi enviado entre as nações um embaixador; levantai-vos, e levantemo-nos contra ela para a guerra.
 

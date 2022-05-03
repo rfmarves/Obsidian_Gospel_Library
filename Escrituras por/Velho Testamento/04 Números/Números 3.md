@@ -1,22 +1,21 @@
 ---
 title: Números 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 3
 [[Números 2| <-- Números 2]] | [[Números]] | [[Números 4|Números 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Aarão e seus filhos ministram no ofício de sacerdote — Os levitas são escolhidos para realizar o serviço do tabernáculo — Eles são do Senhor, em lugar dos primogênitos de todas as famílias de Israel — Seu número, encargo e serviço são determinados.
 
----
 ###### 1 
 E estas  as gerações de Aarão e de Moisés, no dia  o  falou com Moisés no monte Sinai.
 

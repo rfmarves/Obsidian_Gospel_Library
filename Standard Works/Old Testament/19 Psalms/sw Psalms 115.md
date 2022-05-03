@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 115
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 115
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/115?lang=eng)
 
----
-__Summary__
+> __Summary__
 Our God is in the heavens—Idols are false gods—Trust in the Lord.
 
----
 ###### 1 
 Not unto us, O , not unto us, but unto thy name give glory, for thy mercy,  for thy truth’s sake.
 

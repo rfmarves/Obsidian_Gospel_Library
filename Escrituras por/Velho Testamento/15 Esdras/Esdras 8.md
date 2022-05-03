@@ -1,22 +1,21 @@
 ---
 title: Esdras 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 8
 [[Esdras 7| <-- Esdras 7]] | [[Esdras]] | [[Esdras 9|Esdras 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Enumeram-se os que sobem da Babilônia para Jerusalém — Os levitas são chamados para acompanhá-los — Esdras e o povo jejuam e oram e obtêm orientação e proteção para ir a Jerusalém.
 
----
 ###### 1 
 Estes, pois,  os chefes de seus pais, com as suas genealogias, dos que subiram comigo de Babilônia no reinado do rei Artaxerxes:
 

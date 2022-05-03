@@ -1,22 +1,21 @@
 ---
 title: Habacuque 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Habacuque 1
 [[Naum 3| <-- Naum 3]] | [[Habacuque]] | [[Habacuque 2|Habacuque 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hab/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hab/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Quando Habacuque fica sabendo que o Senhor suscitará os caldeus para invadir a terra de Israel, ele fica perturbado com o fato de que os ímpios possam ser empregados dessa forma.
 
----
 ###### 1 
 O peso que viu o profeta Habacuque.
 

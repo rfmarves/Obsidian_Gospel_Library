@@ -1,22 +1,21 @@
 ---
 title: Nehemías 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nehemías 3
 [[Nehemías 2| <-- Nehemías 2]] | [[Nehemías]] | [[Nehemías 4|Nehemías 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se dan los nombres y las asignaciones de aquellos que reconstruyeron los muros y las puertas de Jerusalén.
 
----
 ###### 1 
 Y se levantó el sumo sacerdote Eliasib con sus hermanos los sacerdotes, y edificaron la puerta de las Ovejas. Ellos consagraron y colocaron sus puertas hasta la torre de Hamea; la consagraron hasta la torre de Hananeel.
 

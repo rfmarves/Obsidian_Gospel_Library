@@ -1,27 +1,25 @@
 ---
 title: Salmos 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 21
 [[Salmos 20| <-- Salmos 20]] | [[Salmos]] | [[Salmos 22|Salmos 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/21?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo messiânico de Davi — Ele descreve a glória do grande Rei — O Rei triunfará sobre todos os Seus inimigos — Os desígnios malignos deles fracassarão.
 
----
 ###### 1 
 O rei se alegra em tua força, ó , e na tua salvação grandemente se regozija!
 

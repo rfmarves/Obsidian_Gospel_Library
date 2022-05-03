@@ -1,22 +1,21 @@
 ---
 title: DyC 36
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 36
 [[DyC 35| <-- DyC 35]] | [[DyC]] | [[DyC 37|DyC 37 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/36?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/36?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–3, El Señor pone Su mano sobre Edward Partridge por conducto de las manos de Sidney Rigdon; 4–8, Todo hombre que recibe el Evangelio y el sacerdocio es llamado a salir a predicar.
 
----
 ###### 1 
 Así dice el Señor Dios, el Fuerte de Israel: He aquí, te digo, mi siervo Edward, bendito eres, y te son perdonados tus pecados, y eres llamado a predicar mi evangelio como con voz de trompeta;
 

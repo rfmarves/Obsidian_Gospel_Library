@@ -1,22 +1,21 @@
 ---
 title: DeC 52
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 52
 [[DeC 51| <-- DeC 51]] | [[DeC]] | [[DeC 53|DeC 53 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/52?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/52?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–2, Decide-se que a conferência seguinte será realizada no Estado de Missouri; 3–8, Designados certos élderes para viajar juntos; 9–11, Os élderes devem ensinar o que os apóstolos e profetas escreveram; 12–21, Os que são iluminados pelo Espírito produzem frutos de louvor e sabedoria; 22–44, Vários élderes são designados para pregar o evangelho enquanto viajam ao Missouri para a conferência.
 
----
 ###### 1 
 Eis que assim diz o Senhor aos élderes que chamou e escolheu nestes últimos dias pela voz de seu Espírito —
 

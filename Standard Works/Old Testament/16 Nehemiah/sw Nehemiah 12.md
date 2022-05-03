@@ -1,10 +1,11 @@
 ---
 title: sw Nehemiah 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Nehemiah 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 The priests and Levites who came up from Babylon are named—The walls of Jerusalem are dedicated—The offices of priests and Levites are appointed in the temple.
 
----
 ###### 1 
 Now these  the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,
 

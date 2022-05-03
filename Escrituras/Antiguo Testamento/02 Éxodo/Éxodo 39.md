@@ -1,22 +1,21 @@
 ---
 title: Éxodo 39
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 39
 [[Éxodo 38| <-- Éxodo 38]] | [[Éxodo]] | [[Éxodo 40|Éxodo 40 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/39?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/39?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se hacen las vestiduras sagradas para Aarón y los sacerdotes — Se hace el pectoral — Se termina el tabernáculo de reunión — Moisés bendice al pueblo.
 
----
 ###### 1 
 Y del azul, y púrpura y carmesí, hicieron las vestiduras del ministerio para servir en el santuario, y asimismo hicieron las vestiduras sagradas para Aarón, como Jehová lo había mandado a Moisés.
 

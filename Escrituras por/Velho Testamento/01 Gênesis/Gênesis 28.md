@@ -1,22 +1,21 @@
 ---
 title: Gênesis 28
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 28
 [[Gênesis 27| <-- Gênesis 27]] | [[Gênesis]] | [[Gênesis 29|Gênesis 29 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/28?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/28?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Isaque proíbe Jacó de casar-se com uma mulher cananeia — Ele abençoa Jacó e sua semente com as bênçãos de Abraão — Esaú se casa com uma das filhas de Ismael — Jacó tem a visão de uma escada que chega até o céu — O Senhor promete que sua semente será tão numerosa quanto o pó da terra — O Senhor também promete a Jacó que nele e em sua semente serão abençoadas todas as famílias da Terra — Jacó faz convênio de pagar o dízimo.
 
----
 ###### 1 
 E Isaque chamou Jacó, e abençoou-o, e ordenou-lhe, e disse-lhe: Não tomes mulher dentre as filhas de Canaã.
 

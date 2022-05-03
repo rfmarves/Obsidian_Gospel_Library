@@ -1,10 +1,11 @@
 ---
 title: sw Ezra 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezra 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Darius renews the decree of Cyrus to build the temple—It is finished and dedicated, and sacrifices and feasts commence again.
 
----
 ###### 1 
 Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon.
 

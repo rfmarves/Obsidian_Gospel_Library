@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 108
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 108
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/108?lang=eng)
 
----
+```
 A Song or Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David praises and exalts God—Judah is the Lord’s lawgiver.
 
----
 ###### 1 
 O God, my heart is fixed; I will sing and give praise, even with my glory.
 

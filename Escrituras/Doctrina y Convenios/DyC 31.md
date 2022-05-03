@@ -1,22 +1,21 @@
 ---
 title: DyC 31
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 31
 [[DyC 30| <-- DyC 30]] | [[DyC]] | [[DyC 32|DyC 32 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/31?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/31?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–6, Thomas B. Marsh es llamado a predicar el Evangelio y se le asegura el bienestar de su familia; 7–13, Se le aconseja que sea paciente, que ore siempre y que siga lo que le indique el Consolador.
 
----
 ###### 1 
 Thomas, hijo mío, bendito eres por motivo de tu fe en mi obra.
 

@@ -1,10 +1,11 @@
 ---
 title: sw John 21
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus appears to the disciples at the sea of Tiberias—He says, Feed my sheep—He foretells Peter’s martyrdom and that John will not die.
 
----
 ###### 1 
 After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he 
 

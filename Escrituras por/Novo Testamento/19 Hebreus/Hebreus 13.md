@@ -1,22 +1,21 @@
 ---
 title: Hebreus 13
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreus 13
 [[Hebreus 12| <-- Hebreus 12]] | [[Hebreus]] | [[Tiago 1|Tiago 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/heb/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O casamento é honroso — Cristo é o mesmo eternamente — Paulo explica como os santos devem oferecer sacrifícios aceitáveis.
 
----
 ###### 1 
 Permaneça a caridade fraternal.
 

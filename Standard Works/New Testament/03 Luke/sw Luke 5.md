@@ -1,10 +1,11 @@
 ---
 title: sw Luke 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Peter, the fisherman, is called to catch men—Jesus heals a leper—He forgives sins and heals a paralytic—Matthew is called—The sick need a physician—New wine must be put in new bottles.
 
----
 ###### 1 
 And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,
 

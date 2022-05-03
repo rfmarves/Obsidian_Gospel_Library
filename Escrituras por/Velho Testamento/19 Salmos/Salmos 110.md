@@ -1,27 +1,25 @@
 ---
 title: Salmos 110
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 110
 [[Salmos 109| <-- Salmos 109]] | [[Salmos]] | [[Salmos 111|Salmos 111 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/110?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/110?lang=por)
 
----
+```
 Salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo messiânico de Davi — Cristo se sentará à direita do Senhor — Ele será sacerdote para sempre segundo a ordem de Melquisedeque.
 
----
 ###### 1 
 Disse o  ao meu senhor: Assenta-te à minha mão direita, até que ponha os teus inimigos  escabelo dos teus pés.
 

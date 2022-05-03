@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Elisha prophesies a seven-year famine—The Shunammite woman is preserved through the famine—Jehoram and then Ahaziah reign in wickedness in Judah.
 
----
 ###### 1 
 Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the  hath called for a famine; and it shall also come upon the land seven years.
 

@@ -1,22 +1,21 @@
 ---
 title: Eclesiastes 10
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastes 10
 [[Eclesiastes 9| <-- Eclesiastes 9]] | [[Eclesiastes]] | [[Eclesiastes 11|Eclesiastes 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/eccl/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Um pouco de estultícia destrói a reputação dos sábios e honrados — As palavras da boca do sábio agradam — O tolo multiplica as palavras.
 
----
 ###### 1 
 Assim como a mosca morta faz exalar mau cheiro e evaporar o unguento do perfumista,  pouco de estultícia ao famoso em sabedoria e em honra.
 

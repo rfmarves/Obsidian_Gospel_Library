@@ -1,10 +1,11 @@
 ---
 title: sw Hosea 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hosea 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel loses all truth, mercy, and knowledge of God and goes whoring after false gods.
 
----
 ###### 1 
 Hear the word of the , ye children of Israel: for the  hath a controversy with the inhabitants of the land, because  no truth, nor mercy, nor knowledge of God in the land.
 

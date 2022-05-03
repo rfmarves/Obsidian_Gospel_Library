@@ -1,22 +1,21 @@
 ---
 title: Isaías 31
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 31
 [[Isaías 30| <-- Isaías 30]] | [[Isaías]] | [[Isaías 32|Isaías 32 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/31?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/31?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel é repreendida por buscar ajuda no Egito — Quando o Senhor vier, Ele defenderá e preservará Seu povo.
 
----
 ###### 1 
 Ai dos que descem ao Egito para  socorro, e se estribam em cavalos; e têm confiança em carros, porque  muitos, e nos cavaleiros, porque são poderosíssimos, e não atentam para o Santo de Israel, e não buscam ao !
 

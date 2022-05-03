@@ -1,10 +1,11 @@
 ---
 title: sw D&C 69
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 69
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/69?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–2, John Whitmer is to accompany Oliver Cowdery to Missouri; 3–8, He is also to preach and to collect, record, and write historical data.
 
----
 ###### 1 
 Hearken unto me, saith the Lord your God, for my servant Oliver Cowdery’s sake. It is not wisdom in me that he should be entrusted with the commandments and the moneys which he shall carry unto the land of Zion, except one go with him who will be true and faithful.
 

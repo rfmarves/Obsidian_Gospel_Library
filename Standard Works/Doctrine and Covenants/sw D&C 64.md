@@ -1,10 +1,11 @@
 ---
 title: sw D&C 64
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 64
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–11, The Saints are commanded to forgive one another, lest there remain in them the greater sin; 12–22, The unrepentant are to be brought before the Church; 23–25, He that is tithed will not be burned at the Lord’s coming; 26–32, The Saints are warned against debt; 33–36, The rebellious will be cut off out of Zion; 37–40, The Church will judge the nations; 41–43, Zion will flourish.
 
----
 ###### 1 
 Behold, thus saith the Lord your God unto you, O ye elders of my church, hearken ye and hear, and receive my will concerning you.
 

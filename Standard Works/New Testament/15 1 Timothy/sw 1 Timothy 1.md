@@ -1,10 +1,11 @@
 ---
 title: sw 1 Timothy 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Timothy 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Counsel is given to teach true doctrine only—Christ came to save repentant sinners.
 
----
 ###### 1 
 Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ,  our hope;
 

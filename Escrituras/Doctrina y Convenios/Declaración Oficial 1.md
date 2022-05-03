@@ -1,16 +1,17 @@
 ---
 title: Declaración Oficial 1
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Declaración Oficial 1
 [[DyC 138| <-- DyC 138]] | [[Declaración Oficial]] | [[Declaración Oficial 2|Declaración Oficial 2 --> ]]
 
-[En línea](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/1?lang=spa)
+[en línea](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/1?lang=spa)
 
 A quien corresponda:
 

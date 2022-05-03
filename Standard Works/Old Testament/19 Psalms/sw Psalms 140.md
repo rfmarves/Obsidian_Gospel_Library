@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 140
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 140
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/140?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David prays for deliverance from his enemies—The Lord maintains the cause of the poor and afflicted.
 
----
 ###### 1 
 Deliver me, O , from the evil man: preserve me from the violent man;
 

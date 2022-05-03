@@ -1,22 +1,21 @@
 ---
 title: Jeremias 28
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 28
 [[Jeremias 27| <-- Jeremias 27]] | [[Jeremias]] | [[Jeremias 29|Jeremias 29 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/28?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/28?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Hananias profetiza falsamente que o jugo babilônico será quebrado.
 
----
 ###### 1 
 E sucedeu no mesmo ano, no princípio do reinado de Zedequias, rei de Judá, no ano quarto, no mês quinto,  me falou Hananias, filho de Azur, o profeta que  de Gibeom, na casa do , perante os olhos dos sacerdotes e de todo o povo, dizendo:
 

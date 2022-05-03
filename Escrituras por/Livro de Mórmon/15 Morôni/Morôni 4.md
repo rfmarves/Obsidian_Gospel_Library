@@ -1,22 +1,21 @@
 ---
 title: Morôni 4
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Morôni 4
 [[Morôni 3| <-- Morôni 3]] | [[Morôni]] | [[Morôni 5|Morôni 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Explica-se como élderes e sacerdotes administram o pão sacramental. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 Maneira pela qual seus élderes e sacerdotes administravam a carne e o sangue de Cristo à igreja; e eles administravam-nos de acordo com os mandamentos de Cristo. Sabemos, portanto, que esta maneira é correta; e o élder ou o sacerdote ministrava-os —
 

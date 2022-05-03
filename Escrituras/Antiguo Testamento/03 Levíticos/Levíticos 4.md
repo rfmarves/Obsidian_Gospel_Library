@@ -1,22 +1,21 @@
 ---
 title: Levíticos 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 4
 [[Levíticos 3| <-- Levíticos 3]] | [[Levíticos]] | [[Levíticos 5|Levíticos 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los pecadores son perdonados mediante el sacrificio de animales sin defecto como ofrendas por el pecado — Por medio de estos sacrificios, los sacerdotes hacen una ofrenda de expiación por los pecados del pueblo.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

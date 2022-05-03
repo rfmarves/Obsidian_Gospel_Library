@@ -1,22 +1,21 @@
 ---
 title: DyC 88
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 88
 [[DyC 87| <-- DyC 87]] | [[DyC]] | [[DyC 89|DyC 89 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–5, Los santos fieles reciben ese Consolador que es la promesa de vida eterna; 6–13, La Luz de Cristo dirige y gobierna todas las cosas; 14–16, La Resurrección viene por medio de la Redención; 17–31, La obediencia a la ley celestial, terrestre o telestial prepara a los hombres para esos reinos y glorias respectivos; 32–35, Aquellos que disponen permanecer en el pecado permanecen sucios aún; 36–41, Todos los reinos son gobernados por la ley; 42–45, Dios ha dado una ley a todas las cosas; 46–50, El hombre comprenderá aun a Dios; 51–61, La parábola del hombre que envía a sus siervos al campo y los visita por turno; 62–73, Allegaos al Señor y veréis Su faz; 74–80, Santificaos y enseñaos unos a otros la doctrina del reino; 81–85, Todo hombre que ha sido amonestado debe amonestar a su prójimo; 86–94, Señales, conmociones de los elementos y ángeles preparan el camino para la venida del Señor; 95–102, Trompetas angelicales llaman a los muertos a levantarse según su orden; 103–116, Trompetas angelicales proclaman la restauración del Evangelio, la caída de Babilonia y la batalla del gran Dios; 117–126, Buscad conocimiento, estableced una casa de Dios [un templo] y vestíos con el vínculo de la caridad; 127–141, Se establece el orden de la Escuela de los Profetas, incluso la ordenanza del lavamiento de los pies.
 
----
 ###### 1 
 De cierto, así dice el Señor a los que os habéis reunido para recibir su voluntad concerniente a vosotros:
 

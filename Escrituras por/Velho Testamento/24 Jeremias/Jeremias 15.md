@@ -1,22 +1,21 @@
 ---
 title: Jeremias 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 15
 [[Jeremias 14| <-- Jeremias 14]] | [[Jeremias]] | [[Jeremias 16|Jeremias 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo de Judá padecerá a morte, a espada, a fome e o cativeiro — Eles serão dispersos por todos os reinos da Terra — Jerusalém será destruída.
 
----
 ###### 1 
 Disse-me, porém, o : Ainda que Moisés e Samuel se pusessem diante de mim, não  a minha alma com este povo; lança-os de diante da minha face, e saiam.
 

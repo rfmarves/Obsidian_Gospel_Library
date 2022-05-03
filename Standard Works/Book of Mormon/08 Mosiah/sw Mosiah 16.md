@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 16
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 God redeems men from their lost and fallen state—Those who are carnal remain as though there were no redemption—Christ brings to pass a resurrection to endless life or to endless damnation. About 148 B.C.
 
----
 ###### 1 
 And now, it came to pass that after Abinadi had spoken these words he stretched forth his hand and said: The time shall come when all shall see the salvation of the Lord; when every nation, kindred, tongue, and people shall see eye to eye and shall confess before God that his judgments are just.
 

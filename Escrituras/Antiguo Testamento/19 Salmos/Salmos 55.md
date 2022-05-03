@@ -1,27 +1,25 @@
 ---
 title: Salmos 55
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 55
 [[Salmos 54| <-- Salmos 54]] | [[Salmos]] | [[Salmos 56|Salmos 56 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/55?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/55?lang=spa)
 
----
+```
 Al músico principal: con aNeginot. Masquil de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David ora por la mañana, al mediodía y al atardecer — Busca protección y ayuda en la lucha contra sus enemigos.
 
----
 ###### 1 
 
 

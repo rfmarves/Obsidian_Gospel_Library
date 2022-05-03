@@ -1,10 +1,11 @@
 ---
 title: sw Habakkuk 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Habakkuk 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hab/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 When Habakkuk learns that the Lord will raise up the Chaldeans to overrun the land of Israel, he is troubled that the wicked can be thus employed.
 
----
 ###### 1 
 The burden which Habakkuk the prophet did see.
 

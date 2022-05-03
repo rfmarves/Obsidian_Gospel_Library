@@ -1,22 +1,21 @@
 ---
 title: Naum 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Naum 3
 [[Naum 2| <-- Naum 2]] | [[Naum]] | [[Habacuque 1|Habacuque 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/nahum/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/nahum/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A trágica queda de Nínive é predita.
 
----
 ###### 1 
 Ai da cidade ensanguentada,  toda cheia de mentiras  de rapina! Não se aparta dela o roubo.
 

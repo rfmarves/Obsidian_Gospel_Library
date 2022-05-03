@@ -1,22 +1,21 @@
 ---
 title: Mormón 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mormón 7
 [[Mormón 6| <-- Mormón 6]] | [[Mormón]] | [[Mormón 8|Mormón 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/morm/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Mormón invita a los lamanitas de los postreros días a creer en Cristo, aceptar Su Evangelio y ser salvos — Todos los que crean en la Biblia creerán también en el Libro de Mormón. Aproximadamente 385 d.C.
 
----
 ###### 1 
 Y ahora bien, he aquí, quisiera hablar un poco al resto de este pueblo que ha sido preservado, si es que Dios les concede mis palabras, para que sepan acerca de las cosas de sus padres; sí, os hablo a vosotros, un resto de la casa de Israel, y estas son las palabras que yo hablo:
 

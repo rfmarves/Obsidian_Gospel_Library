@@ -1,22 +1,21 @@
 ---
 title: Êxodo 29
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 29
 [[Êxodo 28| <-- Êxodo 28]] | [[Êxodo]] | [[Êxodo 30|Êxodo 30 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/29?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/29?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Aarão e seus filhos serão lavados, ungidos e consagrados — Várias cerimônias de sacrifício serão realizadas — Será feita expiação pelos pecados do povo — O Senhor promete habitar entre eles.
 
----
 ###### 1 
 Isto  o que lhes hás de fazer, para os santificar, para que me sirvam como sacerdotes: Toma um novilho, e dois carneiros sem mácula,
 

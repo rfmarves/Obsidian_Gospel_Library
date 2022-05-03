@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 David smites the Philistines and saves Keilah—He continues to flee from Saul—Jonathan comforts him in Ziph.
 
----
 ###### 1 
 Then they told David, saying, Behold, the Philistines fight against Keilah, and they rob the threshingfloors.
 

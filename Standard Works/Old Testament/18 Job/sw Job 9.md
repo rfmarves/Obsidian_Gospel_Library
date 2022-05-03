@@ -1,10 +1,11 @@
 ---
 title: sw Job 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job acknowledges the justice and greatness of God and concludes that man cannot contend against Him.
 
----
 ###### 1 
 Then Job answered and said,
 

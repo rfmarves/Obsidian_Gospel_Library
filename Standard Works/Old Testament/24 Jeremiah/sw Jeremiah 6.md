@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jerusalem will be destroyed because of her iniquity—She will be overrun by a great and cruel nation.
 
----
 ###### 1 
 O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Beth-haccerem: for evil appeareth out of the north, and great destruction.
 

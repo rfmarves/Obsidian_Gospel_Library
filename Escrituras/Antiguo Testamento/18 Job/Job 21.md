@@ -1,22 +1,21 @@
 ---
 title: Job 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 21
 [[Job 20| <-- Job 20]] | [[Job]] | [[Job 22|Job 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Job admite que a veces los inicuos prosperan en esta vida — Luego testifica que el juicio de ellos será después de esta vida, en el día de la ira y de la destrucción.
 
----
 ###### 1 
 Entonces respondió Job y dijo:
 

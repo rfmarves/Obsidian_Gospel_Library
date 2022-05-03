@@ -1,10 +1,11 @@
 ---
 title: sw D&C 43
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 43
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/43?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–7, Revelations and commandments come only through the one appointed; 8–14, The Saints are sanctified by acting in all holiness before the Lord; 15–22, Elders are sent forth to cry repentance and prepare men for the great day of the Lord; 23–28, The Lord calls upon men by His own voice and through the forces of nature; 29–35, The Millennium and the binding of Satan will come.
 
----
 ###### 1 
 O hearken, ye elders of my church, and give ear to the words which I shall speak unto you.
 

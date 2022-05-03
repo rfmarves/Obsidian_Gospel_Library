@@ -1,22 +1,21 @@
 ---
 title: Salmos 106
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 106
 [[Salmos 105| <-- Salmos 105]] | [[Salmos]] | [[Salmos 107|Salmos 107 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/106?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/106?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Alabad a Jehová por Su misericordia y obras poderosas — Israel se rebeló e hizo iniquidad — Moisés intercedió por Israel ante Jehová — Israel fue esparcido y muerto por adorar dioses falsos.
 
----
 ###### 1 
 
 

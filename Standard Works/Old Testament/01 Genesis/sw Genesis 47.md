@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 47
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 47
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/47?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Israelites settle in Goshen—Jacob blesses Pharaoh—Joseph sells grain to the Egyptians—Pharaoh receives the Egyptians’ cattle and lands—Jacob desires to be buried with his fathers in Canaan.
 
----
 ###### 1 
 Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they  in the land of Goshen.
 

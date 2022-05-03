@@ -1,27 +1,25 @@
 ---
 title: Salmos 108
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 108
 [[Salmos 107| <-- Salmos 107]] | [[Salmos]] | [[Salmos 109|Salmos 109 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/108?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/108?lang=por)
 
----
+```
 Cântico e salmo de Davi.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi louva e exalta a Deus — Judá é o legislador do Senhor.
 
----
 ###### 1 
 Preparado está o meu coração, ó Deus; cantarei e entoarei salmos até com a minha glória.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 10
 [[2 Samuel 9| <-- 2 Samuel 9]] | [[2 Samuel]] | [[2 Samuel 11|2 Samuel 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los amonitas maltratan a los mensajeros de David — Israel derrota a los amonitas y a los sirios.
 
----
 ###### 1 
 Después de esto, aconteció que murió el rey de los hijos de Amón, y reinó su hijo Hanún en su lugar.
 

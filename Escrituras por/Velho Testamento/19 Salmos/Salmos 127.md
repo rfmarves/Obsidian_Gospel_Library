@@ -1,27 +1,25 @@
 ---
 title: Salmos 127
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 127
 [[Salmos 126| <-- Salmos 126]] | [[Salmos]] | [[Salmos 128|Salmos 128 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/127?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/127?lang=por)
 
----
+```
 Cântico das subidas, de Salomão.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Os filhos são herança do Senhor.
 
----
 ###### 1 
 Se o  não edificar a casa, em vão trabalham os que a edificam; se o  não guardar a cidade, em vão vigia a sentinela.
 

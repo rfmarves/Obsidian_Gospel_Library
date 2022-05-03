@@ -1,22 +1,21 @@
 ---
 title: Lucas 21
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 21
 [[Lucas 20| <-- Lucas 20]] | [[Lucas]] | [[Lucas 22|Lucas 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús predice la destrucción del templo y de Jerusalén — Habla de las señales que precederán a Su segunda venida y enseña la parábola de la higuera.
 
----
 ###### 1 
 Y mirando,  vio a los ricos que echaban sus ofrendas en el arca del tesoro.
 

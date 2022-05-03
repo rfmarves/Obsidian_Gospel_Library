@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 31
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 31
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/31?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord commands Jacob to return to Canaan, and Jacob departs secretly—Laban pursues him; they resolve their differences and make a covenant of peace—Laban blesses his descendants, and he and Jacob part company.
 
----
 ###### 1 
 And he heard the words of Laban’s sons, saying, Jacob hath taken away all that  our father’s; and of  which  our father’s hath he gotten all this glory.
 

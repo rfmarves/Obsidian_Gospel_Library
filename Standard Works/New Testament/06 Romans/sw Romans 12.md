@@ -1,10 +1,11 @@
 ---
 title: sw Romans 12
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul counsels the Saints to present their bodies as a living sacrifice, to use their own grace-given gifts, and to live as Saints should live.
 
----
 ###### 1 
 I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God,  your reasonable service.
 

@@ -1,22 +1,21 @@
 ---
 title: Cantares 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Cantares 2
 [[Cantares 1| <-- Cantares 1]] | [[Cantares]] | [[Cantares 3|Cantares 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/song/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/song/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se alaba y se describe a los amantes.
 
----
 ###### 1 
 
 

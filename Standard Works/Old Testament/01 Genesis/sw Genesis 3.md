@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The serpent (Lucifer) deceives Eve—She and then Adam partake of the forbidden fruit—Her Seed (Christ) will bruise the serpent’s head—The roles of woman and of man are explained—Adam and Eve are cast out of the Garden of Eden—Adam presides—Eve becomes the mother of all living.
 
----
 ###### 1 
 Now the serpent was more subtil than any beast of the field which the  God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
 

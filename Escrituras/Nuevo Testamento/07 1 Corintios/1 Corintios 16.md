@@ -1,22 +1,21 @@
 ---
 title: 1 Corintios 16
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Corintios 16
 [[1 Corintios 15| <-- 1 Corintios 15]] | [[1 Corintios]] | [[2 Corintios 1|2 Corintios 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo aconseja: “Permaneced firmes en la fe; todas vuestras cosas sean hechas con caridad”.
 
----
 ###### 1 
 En cuanto a la ofrenda para los santos, haced vosotros también de la manera que ordené en las iglesias de Galacia.
 

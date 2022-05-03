@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Isaiah sees the Lord—His sins are forgiven—He is called to prophesy—He prophesies of the Jews’ rejection of Christ’s teachings—A remnant will return—Compare 2 Nephi 16.
 
----
 ###### 1 
 In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.
 

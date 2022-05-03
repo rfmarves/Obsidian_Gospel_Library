@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Write mercy and truth upon the tablet of your heart—Trust in the Lord—Honor Him with your substance—Whom the Lord loves He corrects—Happy is the man who finds wisdom.
 
----
 ###### 1 
 My son, forget not my law; but let thine heart keep my commandments:
 

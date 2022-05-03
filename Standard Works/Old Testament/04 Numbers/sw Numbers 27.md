@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 27
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 The law of inheritances to sons, daughters, and kinsmen is explained—Moses will see but not enter the promised land—Joshua is called and set apart to lead Israel.
 
----
 ###### 1 
 Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these  the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.
 

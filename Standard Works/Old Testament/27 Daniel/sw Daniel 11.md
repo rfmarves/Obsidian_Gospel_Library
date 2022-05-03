@@ -1,10 +1,11 @@
 ---
 title: sw Daniel 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Daniel 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Daniel sees the successive kings and their wars, leagues, and conflicts that lead up to the Second Coming of Christ.
 
----
 ###### 1 
 Also I in the first year of Darius the Mede,  I, stood to confirm and to strengthen him.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 79
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 79
 [[Salmos 78| <-- Salmos 78]] | [[Salmos]] | [[Salmos 80|Salmos 80 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/79?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/79?lang=por)
 
----
+```
 Salmo de Asafe.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 As nações dos gentios destroem Jerusalém e profanam o templo — Israel roga perdão e libertação.
 
----
 ###### 1 
 Ó Deus, os gentios vieram à tua herança; contaminaram o teu santo templo; reduziram Jerusalém a montões de pedras.
 

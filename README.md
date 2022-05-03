@@ -6,6 +6,9 @@ Inspirado por otros repositorios en Github (sólo en inglés), empecé a hacer e
 
 1.  Descarga las carpetas que quieras agregar a tu repositorio
 2.  Agrégalas a tu biblioteca en Obsidian
+3.  Copia el archivo css a tu carpeta de snippets de css para que el formato de la biblioteca se vea mejor. Recuerda activar el snippet después de agregarlo.
+
+El formato de las notas está arreglado para funcionar con el plugin “FORCE NOTE VIEW MODE BY FRONT MATTER”, haciendo que los archivos de la biblioteca automáticamente se desplieguen en modo de vista previa si tiene el plugin instalado.
 
 ## Cómo crear un nuevo idioma o darle tu propio formato:
 
@@ -44,6 +47,9 @@ Inspired by other repositories found in GitHub (only in English) I started to ge
 
 1.  Download the folders you want added to your repository
 2.  Add them to your Obsidian Library
+3.  Copy the css file to the css snippets folder so the library pages look better. Remember to activate the snippet after adding it.
+
+The library notes are configured to use the “FORCE NOTE VIEW MODE BY FRONT MATTER” plugin, forcing them to display in preview mode if you have the plugin installed.
 
 ## How to create a new language or reformat for your own version:
 

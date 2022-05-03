@@ -1,22 +1,21 @@
 ---
 title: Alma 20
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 20
 [[Alma 19| <-- Alma 19]] | [[Alma]] | [[Alma 21|Alma 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor envia Amon a Midôni para libertar seus irmãos aprisionados — Amon e Lamôni encontram o pai de Lamôni, que é rei de toda aquela terra — Amon compele o velho rei a aprovar a libertação de seus irmãos. Aproximadamente 90 a.C.
 
----
 ###### 1 
 E aconteceu que depois de haverem eles organizado uma igreja naquela terra, o rei Lamôni desejou que Amon fosse com ele à terra de Néfi para apresentá-lo a seu pai.
 

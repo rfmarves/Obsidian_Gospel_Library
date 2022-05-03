@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 112
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 112
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/112?lang=eng)
 
----
-__Summary__
+> __Summary__
 Blessed is the man who fears the Lord—The righteous will be remembered always.
 
----
 ###### 1 
 Praise ye the . Blessed  the man  feareth the ,  delighteth greatly in his commandments.
 

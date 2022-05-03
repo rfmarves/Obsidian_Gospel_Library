@@ -1,22 +1,21 @@
 ---
 title: Êxodo 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 15
 [[Êxodo 14| <-- Êxodo 14]] | [[Êxodo]] | [[Êxodo 16|Êxodo 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Israel cantam o cântico de Moisés — Eles exaltam o Senhor como homem de guerra e regozijam-se em sua libertação do Egito — As águas de Mara são sanadas — O Senhor promete livrar Israel das doenças do Egito.
 
----
 ###### 1 
 Então cantaram Moisés e os filhos de Israel este cântico ao , e falaram, dizendo: Cantarei ao , porque sumamente se exaltou; lançou no mar o cavalo e o seu cavaleiro.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 The inhabitants of Jerusalem are listed—The responsibilities of the Levites and the areas where they are to serve are listed—The family of Saul is named.
 
----
 ###### 1 
 So all Israel were reckoned by genealogies; and, behold, they  written in the book of the kings of Israel and Judah,  were carried away to Babylon for their transgression.
 

@@ -1,22 +1,21 @@
 ---
 title: Gênesis 29
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 29
 [[Gênesis 28| <-- Gênesis 28]] | [[Gênesis]] | [[Gênesis 30|Gênesis 30 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/29?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/29?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó se encontra com Raquel junto ao poço — Por ela, Jacó serve Labão sete anos — Labão dá primeiro Lia em matrimônio a Jacó e depois, Raquel — Jacó serve mais sete anos — Lia dá à luz Rúben, Simeão, Levi e Judá.
 
----
 ###### 1 
 Então, pôs-se Jacó a caminho, e foi à terra dos filhos do oriente;
 

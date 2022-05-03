@@ -1,22 +1,21 @@
 ---
 title: Judas 1
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Judas 1
 [[3 João 1| <-- 3 João 1]] | [[Judas]] | [[Apocalipse 1|Apocalipse 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/jude/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/jude/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Batalhai pela fé — Alguns anjos não guardaram seu primeiro estado — Miguel disputou a respeito do corpo de Moisés — Enoque profetizou a Segunda Vinda — Aparecerão escarnecedores nos últimos dias.
 
----
 ###### 1 
 Judas, servo de Jesus Cristo, e irmão de Tiago, aos chamados, santificados pelo Deus Pai, e preservados por Jesus Cristo:
 

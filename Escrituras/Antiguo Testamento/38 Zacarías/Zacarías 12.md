@@ -1,22 +1,21 @@
 ---
 title: Zacarías 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Zacarías 12
 [[Zacarías 11| <-- Zacarías 11]] | [[Zacarías]] | [[Zacarías 13|Zacarías 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/zech/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En la gran guerra final, todas las naciones se juntarán contra Jerusalén, pero Jehová defenderá a Su pueblo — Entonces, los judíos mirarán al Señor, a quien ellos crucificaron, y habrá gran llanto.
 
----
 ###### 1 
 Profecía de la palabra de Jehová acerca de Israel. Jehová, que extiende los cielos, y funda la tierra y forma el espíritu del hombre dentro de él, ha dicho:
 

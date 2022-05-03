@@ -1,10 +1,11 @@
 ---
 title: sw Alma 18
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 King Lamoni supposes that Ammon is the Great Spirit—Ammon teaches the king about the Creation, God’s dealings with men, and the redemption that comes through Christ—Lamoni believes and falls to the earth as if dead. About 90 B.C.
 
----
 ###### 1 
 And it came to pass that king Lamoni caused that his servants should stand forth and testify to all the things which they had seen concerning the matter.
 

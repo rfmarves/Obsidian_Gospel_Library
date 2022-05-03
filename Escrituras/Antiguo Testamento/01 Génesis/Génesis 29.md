@@ -1,22 +1,21 @@
 ---
 title: Génesis 29
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 29
 [[Génesis 28| <-- Génesis 28]] | [[Génesis]] | [[Génesis 30|Génesis 30 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/29?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jacob se encuentra con Raquel junto al pozo — Jacob sirve a Labán siete años por ella — Labán da en matrimonio a Jacob primero a Lea y luego a Raquel — Jacob sirve otros siete años — Lea da a luz a Rubén, a Simeón, a Leví y a Judá.
 
----
 ###### 1 
 Y siguió Jacob su camino y fue a la tierra de los orientales.
 

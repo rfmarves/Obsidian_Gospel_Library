@@ -1,22 +1,21 @@
 ---
 title: Isaías 18
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 18
 [[Isaías 17| <-- Isaías 17]] | [[Isaías]] | [[Isaías 19|Isaías 19 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/18?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/18?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor erguerá o estandarte do evangelho, enviará mensageiros para Seu povo disperso e os reunirá no Monte Sião.
 
----
 ###### 1 
 Ai da terra que ensombreia com as suas asas, que  além dos rios da Cuxe,
 

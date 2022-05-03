@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 31
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 31
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/31?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moses sends forth 12,000 warriors who destroy the Midianites—The prey is divided in Israel—None in the armies of Israel are lost.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

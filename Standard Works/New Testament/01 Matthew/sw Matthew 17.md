@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 17
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus is transfigured before Peter, James, and John on the mount—Jesus heals a lunatic, tells of His coming death, and pays taxes in a miraculous manner.
 
----
 ###### 1 
 And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,
 

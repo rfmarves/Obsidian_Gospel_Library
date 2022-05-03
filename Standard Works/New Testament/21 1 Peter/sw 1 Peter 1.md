@@ -1,10 +1,11 @@
 ---
 title: sw 1 Peter 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Peter 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The trial of our faith precedes salvation—Christ was foreordained to be the Redeemer.
 
----
 ###### 1 
 Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 

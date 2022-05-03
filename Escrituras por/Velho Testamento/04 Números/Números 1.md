@@ -1,22 +1,21 @@
 ---
 title: Números 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 1
 [[Levítico 27| <-- Levítico 27]] | [[Números]] | [[Números 2|Números 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moisés e os príncipes de Israel contam todos os homens de vinte anos ou mais de cada tribo (exceto os da tribo de Levi) — Seu total é de seiscentos e três mil e quinhentos e cinquenta — Os levitas recebem o encargo de cuidar do tabernáculo.
 
----
 ###### 1 
 Falou mais o  a Moisés no deserto de Sinai, na tenda da congregação, no primeiro  do mês segundo, no segundo ano da sua saída da terra do Egito, dizendo:
 

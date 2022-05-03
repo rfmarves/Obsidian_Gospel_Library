@@ -1,22 +1,21 @@
 ---
 title: Jeremías 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 4
 [[Jeremías 3| <-- Jeremías 3]] | [[Jeremías]] | [[Jeremías 5|Jeremías 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se llama a Israel y a Judá al arrepentimiento — Jeremías se lamenta por los padecimientos de Judá.
 
----
 ###### 1 
 Si te has de volver, oh Israel, dice Jehová, vuélvete a mí. Y si quitas de delante de mí tus abominaciones y no andas de acá para allá,
 

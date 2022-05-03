@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 68
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 68
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/68?lang=eng)
 
----
+```
 To the chief Musician, A Psalm or Song of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A messianic psalm of David—He extols Jah—The Lord gave the word—He takes captivity captive—He delivers us from death—Sing praises unto the Lord.
 
----
 ###### 1 
 Let God arise, let his enemies be scattered: let them also that hate him flee before him.
 

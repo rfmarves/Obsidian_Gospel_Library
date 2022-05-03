@@ -1,10 +1,11 @@
 ---
 title: sw Collosians 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Collosians 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/col/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Some lives are hidden with God in Christ—The Saints are told to be holy and to serve the Lord Jesus Christ.
 
----
 ###### 1 
 If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.
 

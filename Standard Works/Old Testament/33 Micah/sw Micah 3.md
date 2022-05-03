@@ -1,10 +1,11 @@
 ---
 title: sw Micah 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Micah 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/micah/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Priests who teach for hire and prophets who divine for money bring a curse upon the people.
 
----
 ###### 1 
 And I said, Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel;  not for you to know judgment?
 

@@ -1,22 +1,21 @@
 ---
 title: Jeremías 6
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 6
 [[Jeremías 5| <-- Jeremías 5]] | [[Jeremías]] | [[Jeremías 7|Jeremías 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jerusalén será destruida a causa de su iniquidad — Será invadida por una nación grande y cruel.
 
----
 ###### 1 
 Huid, hijos de Benjamín, de en medio de Jerusalén, y tocad trompeta en Tecoa y alzad señal sobre Bet-haquerem, porque del norte se asoma el mal, un gran quebrantamiento.
 

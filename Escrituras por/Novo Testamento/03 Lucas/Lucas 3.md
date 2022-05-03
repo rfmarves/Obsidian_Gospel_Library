@@ -1,22 +1,21 @@
 ---
 title: Lucas 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 3
 [[Lucas 2| <-- Lucas 2]] | [[Lucas]] | [[Lucas 4|Lucas 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 João Batista prega e batiza — Jesus é batizado, e Deus O proclama como Seu Filho — Declara-se a genealogia de Jesus desde Adão.
 
----
 ###### 1 
 E no ano quinze do império de Tibério César, sendo Pôncio Pilatos governador da Judeia, e Herodes, tetrarca da Galileia, e seu irmão Filipe, tetrarca da Itureia e da província de Traconites, e Lisânias, tetrarca de Abilene,
 

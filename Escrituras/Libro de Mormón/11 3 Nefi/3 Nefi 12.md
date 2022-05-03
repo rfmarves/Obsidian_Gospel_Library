@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 12
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 12
 [[3 Nefi 11| <-- 3 Nefi 11]] | [[3 Nefi]] | [[3 Nefi 13|3 Nefi 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús llama a los doce discípulos y los comisiona — Pronuncia ante los nefitas un discurso semejante al Sermón del Monte — Expone las Bienaventuranzas — Sus enseñanzas superan la ley de Moisés y tienen precedencia sobre ella — Manda a los hombres que sean perfectos, así como Él y Su Padre son perfectos — Compárese con Mateo 5. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Y aconteció que cuando Jesús hubo hablado estas palabras a Nefi y a los que habían sido llamados (y llegaba a doce el número de los que habían sido llamados, y recibieron el poder y la autoridad para bautizar), he aquí, él extendió la mano hacia la multitud, y les proclamó, diciendo: Bienaventurados sois si prestáis atención a las palabras de estos doce que yo he escogido de entre vosotros para ejercer su ministerio en bien de vosotros y ser vuestros siervos; y a ellos les he dado poder para que os bauticen en el agua; y después que seáis bautizados en el agua, he aquí, os bautizaré con fuego y con el Espíritu Santo. Por tanto, bienaventurados sois si creéis en mí y sois bautizados, después que me habéis visto y sabéis que yo soy.
 

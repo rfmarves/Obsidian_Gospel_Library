@@ -1,10 +1,11 @@
 ---
 title: sw Joel 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joel 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/joel/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 War and desolation will precede the Second Coming—The sun and the moon will be darkened—The Lord will pour out His Spirit upon all flesh—There will be dreams and visions.
 
----
 ###### 1 
 Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the  cometh, for  nigh at hand;
 

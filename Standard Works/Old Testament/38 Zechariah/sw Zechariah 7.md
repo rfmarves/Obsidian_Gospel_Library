@@ -1,10 +1,11 @@
 ---
 title: sw Zechariah 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zechariah 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord reproves hypocrisy in fasts—He calls upon the people to show mercy and compassion and to live godly lives.
 
----
 ###### 1 
 And it came to pass in the fourth year of king Darius,  the word of the  came unto Zechariah in the fourth  of the ninth month,  in Chisleu;
 

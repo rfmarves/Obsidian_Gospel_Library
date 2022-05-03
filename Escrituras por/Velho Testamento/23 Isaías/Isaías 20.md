@@ -1,22 +1,21 @@
 ---
 title: Isaías 20
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 20
 [[Isaías 19| <-- Isaías 19]] | [[Isaías]] | [[Isaías 21|Isaías 21 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/20?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/20?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A Assíria invadirá e envergonhará o Egito.
 
----
 ###### 1 
 No ano em que foi Tartã a Asdode, enviando-o Sargom, rei da Assíria, e guerreou contra Asdode, e a tomou,
 

@@ -1,22 +1,21 @@
 ---
 title: Jeremias 41
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 41
 [[Jeremias 40| <-- Jeremias 40]] | [[Jeremias]] | [[Jeremias 42|Jeremias 42 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/41?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/41?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ismael mata Gedalias e leva cativo o povo de Mizpá — Eles são resgatados por Joanã.
 
----
 ###### 1 
 Sucedeu, porém, no mês sétimo,  veio Ismael, filho de Netanias, filho de Elisama, de sangue real, e os capitães do rei, a saber, dez homens com ele, a Gedalias, filho de Aicão, a Mizpá; e comeram ali pão juntamente em Mizpá.
 

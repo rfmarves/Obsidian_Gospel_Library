@@ -1,22 +1,21 @@
 ---
 title: 2 Corintios 12
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Corintios 12
 [[2 Corintios 11| <-- 2 Corintios 11]] | [[2 Corintios]] | [[2 Corintios 13|2 Corintios 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pablo es arrebatado hasta el tercer cielo — El Señor da debilidades a los hombres para que triunfen sobre ellas — Pablo describe las señales de un Apóstol.
 
----
 ###### 1 
 Ciertamente no me es conveniente gloriarme; pasaré entonces a las visiones y a las revelaciones del Señor.
 

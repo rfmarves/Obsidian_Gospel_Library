@@ -1,10 +1,11 @@
 ---
 title: sw Song of Solomon 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Song of Solomon 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The song of love and affection continues.
 
----
 ###### 1 
 I am come into my garden, my sister,  spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.
 

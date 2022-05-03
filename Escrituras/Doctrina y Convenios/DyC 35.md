@@ -1,22 +1,21 @@
 ---
 title: DyC 35
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 35
 [[DyC 34| <-- DyC 34]] | [[DyC]] | [[DyC 36|DyC 36 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/35?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/35?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–2, El modo como pueden los hombres llegar a ser los hijos de Dios; 3–7, Sidney Rigdon es llamado para bautizar y conferir el Espíritu Santo; 8–12, Las señales y los milagros se efectúan por la fe; 13–16, Los siervos del Señor trillarán a las naciones por el poder del Espíritu; 17–19, José Smith posee las llaves de los misterios; 20–21, Los elegidos soportarán el día de la venida del Señor; 22–27, Israel será salvo.
 
----
 ###### 1 
 Escuchad la voz del Señor vuestro Dios, el Alfa y la Omega, el principio y el fin, cuya vía es un giro eterno, el mismo hoy que ayer y para siempre.
 

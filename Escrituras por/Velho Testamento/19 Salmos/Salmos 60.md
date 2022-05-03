@@ -1,27 +1,25 @@
 ---
 title: Salmos 60
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 60
 [[Salmos 59| <-- Salmos 59]] | [[Salmos]] | [[Salmos 61|Salmos 61 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/60?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/60?lang=por)
 
----
+```
 Para o músico-mor, sobre Susã-Edute. Mictão de Davi, de doutrina, quando pelejou com os sírios de Mesopotâmia, e com os sírios de Zoba, e quando Joabe, ao retornar, matou no Vale do Sal doze mil dos edomitas.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi diz que o Senhor dispersou Seu povo — O Senhor coloca Efraim à testa e faz de Judá Seu legislador.
 
----
 ###### 1 
 Ó Deus, tu nos rejeitaste, tu nos espalhaste, tu te indignaste; oh, volta-te para nós.
 

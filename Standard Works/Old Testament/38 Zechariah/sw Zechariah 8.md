@@ -1,10 +1,11 @@
 ---
 title: sw Zechariah 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zechariah 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, Jerusalem will be restored, Judah will be gathered, and the Lord will bless His people beyond anything in the past.
 
----
 ###### 1 
 Again the word of the  of hosts came  saying,
 

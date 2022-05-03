@@ -1,22 +1,21 @@
 ---
 title: Juízes 21
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 21
 [[Juízes 20| <-- Juízes 20]] | [[Juízes]] | [[Rute 1|Rute 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo pranteia a desolação de Benjamim — Os habitantes de Jabes-Gileade são destruídos por não terem participado da guerra contra Benjamim — Proveem-se mulheres para os remanescentes de Benjamim.
 
----
 ###### 1 
 Ora, tinham jurado os homens de Israel em Mizpá, dizendo: Nenhum de nós dará sua filha por mulher aos benjamitas.
 

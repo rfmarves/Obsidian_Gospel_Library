@@ -1,22 +1,21 @@
 ---
 title: Éter 10
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éter 10
 [[Éter 9| <-- Éter 9]] | [[Éter]] | [[Éter 11|Éter 11 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/10?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/10?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Um rei sucede a outro — Alguns dos reis são justos, outros são iníquos — Quando a retidão prevalece, o povo é abençoado e o Senhor o faz prosperar.
 
----
 ###### 1 
 E aconteceu que Sez, que era descendente de Hete — pois Hete havia perecido por causa da fome com toda a sua casa, exceto Sez — Sez começou, portanto, a reedificar um povo destruído.
 

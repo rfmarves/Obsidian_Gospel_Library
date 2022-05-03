@@ -1,27 +1,25 @@
 ---
 title: Salmos 73
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 73
 [[Salmos 72| <-- Salmos 72]] | [[Salmos]] | [[Salmos 74|Salmos 74 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/73?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/73?lang=por)
 
----
+```
 Salmo de Asafe.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Deus é bom para Israel — Os iníquos e os ímpios prosperam neste mundo — Eles serão consumidos de terrores na vida futura — Aqueles que confiam no Senhor serão recebidos em glória.
 
----
 ###### 1 
 Verdadeiramente bom  Deus para com Israel, para com os limpos de coração.
 

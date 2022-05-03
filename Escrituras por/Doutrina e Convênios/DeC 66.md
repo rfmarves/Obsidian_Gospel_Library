@@ -1,22 +1,21 @@
 ---
 title: DeC 66
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 66
 [[DeC 65| <-- DeC 65]] | [[DeC]] | [[DeC 67|DeC 67 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/66?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/66?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–4, O convênio eterno é a plenitude do evangelho; 5–8, Os élderes devem pregar, testificar e arrazoar com o povo; 9–13, O trabalho fiel no ministério garante a herança da vida eterna.
 
----
 ###### 1 
 Eis que assim diz o Senhor a meu servo William E. McLellin: Bem-aventurado és, visto que te afastaste de tuas iniquidades e recebeste minhas verdades, diz o Senhor teu Redentor, o Salvador do mundo, sim, de todos os que creem em meu nome.
 

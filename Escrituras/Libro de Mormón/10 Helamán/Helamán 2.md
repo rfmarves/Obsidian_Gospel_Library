@@ -1,22 +1,21 @@
 ---
 title: Helamán 2
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 2
 [[Helamán 1| <-- Helamán 1]] | [[Helamán]] | [[Helamán 3|Helamán 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Helamán hijo de Helamán, llega a ser juez superior — Gadiantón dirige la banda de Kishkumen — Un siervo de Helamán mata a Kishkumen y la banda de Gadiantón huye al desierto. Aproximadamente 50–49 a.C.
 
----
 ###### 1 
 Y aconteció que en el año cuarenta y dos del gobierno de los jueces, después que Moroníah hubo restablecido la paz entre los nefitas y los lamanitas, he aquí que no había quien ocupase el asiento judicial; por tanto, empezó a haber de nuevo una contención entre el pueblo concerniente a quién debía ocupar el puesto.
 

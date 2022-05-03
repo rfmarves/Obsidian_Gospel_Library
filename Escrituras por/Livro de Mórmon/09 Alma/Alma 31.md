@@ -1,22 +1,21 @@
 ---
 title: Alma 31
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 31
 [[Alma 30| <-- Alma 30]] | [[Alma]] | [[Alma 32|Alma 32 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/31?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/31?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Alma chefia uma missão para recuperar os zoramitas apóstatas — Os zoramitas negam a Cristo, creem num falso conceito de eleição e adoram com orações preestabelecidas — Os missionários ficam cheios do Santo Espírito — Suas aflições são sobrepujadas pela alegria em Cristo. Aproximadamente 74 a.C.
 
----
 ###### 1 
 Ora, aconteceu que depois do fim de Corior, tendo Alma recebido notícia de que os zoramitas estavam pervertendo os caminhos do Senhor e de que Zorã, que era seu chefe, estava induzindo o coração do povo a curvar-se diante de ídolos mudos, seu coração começou a afligir-se novamente por causa da iniquidade do povo.
 

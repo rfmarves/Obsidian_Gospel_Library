@@ -1,10 +1,11 @@
 ---
 title: sw Zechariah 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zechariah 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Judah and Joseph will be scattered among the people in far countries—The Lord will hiss for them, gather them, and redeem them.
 
----
 ###### 1 
 Ask ye of the  rain in the time of the latter rain;  the  shall make bright clouds, and give them showers of rain, to every one grass in the field.
 

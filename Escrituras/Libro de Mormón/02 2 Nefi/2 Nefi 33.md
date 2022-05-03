@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 33
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 33
 [[2 Nefi 32| <-- 2 Nefi 32]] | [[2 Nefi]] | [[Jacob 1|Jacob 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/33?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/33?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Las palabras de Nefi son verdaderas — Estas testifican de Cristo — Aquellos que crean en Cristo creerán en las palabras de Nefi, las cuales se presentarán como testimonio ante el tribunal del juicio. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Y ahora bien, yo, Nefi, no puedo escribir todas las cosas que se enseñaron entre mi pueblo; ni soy tan poderoso para escribir como para hablar; porque cuando un hombre habla por el poder del Santo Espíritu, el poder del Espíritu Santo lo lleva al corazón de los hijos de los hombres.
 

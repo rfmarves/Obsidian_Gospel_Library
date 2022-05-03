@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 3
 [[Ezequiel 2| <-- Ezequiel 2]] | [[Ezequiel]] | [[Ezequiel 4|Ezequiel 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequiel es nombrado atalaya de la casa de Israel — La sangre de Israel se requiere de Su mano a menos que él levante la voz de amonestación.
 
----
 ###### 1 
 Y me dijo: Hijo de hombre, come lo que hallas; come este rollo, y ve y habla a la casa de Israel.
 

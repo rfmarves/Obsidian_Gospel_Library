@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 23
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 23
 [[1 Samuel 22| <-- 1 Samuel 22]] | [[1 Samuel]] | [[1 Samuel 24|1 Samuel 24 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/23?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/23?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David mata a los filisteos y salva a Keila — Continúa huyendo de Saúl — Jonatán le consuela en Zif.
 
----
 ###### 1 
 Y dieron aviso a David, diciendo: He aquí que los filisteos combaten contra Keila y roban las eras.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Job 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Job testifies of the shortness of life, the certainty of death, and the guarantee of a resurrection—He asks, If a man die, will he live again?—Job answers that he will await the Lord’s call to come forth from the grave.
 
----
 ###### 1 
 Man  born of a woman  of few days, and full of trouble.
 

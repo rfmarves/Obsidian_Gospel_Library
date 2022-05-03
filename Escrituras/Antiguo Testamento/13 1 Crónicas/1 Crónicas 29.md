@@ -1,22 +1,21 @@
 ---
 title: 1 Crónicas 29
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crónicas 29
 [[1 Crónicas 28| <-- 1 Crónicas 28]] | [[1 Crónicas]] | [[2 Crónicas 1|2 Crónicas 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/29?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Todo Israel hace una ofrenda voluntaria para el templo — David bendice y alaba a Jehová, e instruye al pueblo — Muere David — Salomón gobierna como rey — Se mencionan los libros de Natán y de Gad.
 
----
 ###### 1 
 Después dijo el rey David a toda la congregación: Solamente a Salomón mi hijo ha elegido Dios; él es joven y tierno de edad, y la obra es grande; porque el palacio no es para hombre, sino para Jehová Dios.
 

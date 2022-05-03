@@ -1,22 +1,21 @@
 ---
 title: Neemias 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Neemias 11
 [[Neemias 10| <-- Neemias 10]] | [[Neemias]] | [[Neemias 12|Neemias 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/neh/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O povo e seus governadores são designados por sorteio para morar em Jerusalém e nas outras cidades.
 
----
 ###### 1 
 E os príncipes do povo habitaram em Jerusalém, porém o restante do povo lançou sortes, para tirar um de dez, que habitasse na santa cidade de Jerusalém, e as nove partes nas  cidades.
 

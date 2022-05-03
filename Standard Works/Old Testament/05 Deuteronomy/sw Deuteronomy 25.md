@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 Judges prescribe punishment for the wicked—The marriage law provides for a brother’s widow—Just weights and measures are required—Israel is commanded to blot out the Amalekites from under heaven.
 
----
 ###### 1 
 If there be a controversy between men, and they come unto judgment, that  may judge them; then they shall justify the righteous, and condemn the wicked.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 19
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 19
 [[2 Reyes 18| <-- 2 Reyes 18]] | [[2 Reyes]] | [[2 Reyes 20|2 Reyes 20 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/19?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/19?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ezequías busca consejo de Isaías para salvar a Jerusalén — Isaías profetiza la derrota de los asirios y la muerte de Senaquerib — Ezequías ruega suplicando liberación — Senaquerib envía una carta blasfema — Isaías profetiza que los asirios serán destruidos y que un remanente de Judá florecerá — Un ángel mata a ciento ochenta y cinco mil asirios — Senaquerib muere a manos de sus hijos.
 
----
 ###### 1 
 Y aconteció que cuando el rey Ezequías lo oyó, rasgó sus vestidos, y se cubrió de cilicio y entró en la casa de Jehová.
 

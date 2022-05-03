@@ -1,22 +1,21 @@
 ---
 title: Números 30
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 30
 [[Números 29| <-- Números 29]] | [[Números]] | [[Números 31|Números 31 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/30?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/30?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los votos y los juramentos deben cumplirse — El padre puede anular los votos de las hijas y el marido puede anular los votos de su esposa.
 
----
 ###### 1 
 Y habló Moisés a los príncipes de las tribus de los hijos de Israel, diciendo: Esto es lo que Jehová ha mandado:
 

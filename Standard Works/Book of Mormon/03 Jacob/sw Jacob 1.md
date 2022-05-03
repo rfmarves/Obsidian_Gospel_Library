@@ -1,10 +1,11 @@
 ---
 title: sw Jacob 1
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jacob 1
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/1?lang=eng)
 
----
+```
 The words of his preaching unto his brethren. He confoundeth a man who seeketh to overthrow the doctrine of Christ. A few words concerning the history of the people of Nephi.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Jacob and Joseph seek to persuade men to believe in Christ and keep His commandments—Nephi dies—Wickedness prevails among the Nephites. About 544–421 B.C.
 
----
 ###### 1 
 For behold, it came to pass that fifty and five years had passed away from the time that Lehi left Jerusalem; wherefore, Nephi gave me, Jacob, a commandment concerning the small plates, upon which these things are engraven.
 

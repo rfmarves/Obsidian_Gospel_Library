@@ -1,22 +1,21 @@
 ---
 title: Filipenses 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Filipenses 2
 [[Filipenses 1| <-- Filipenses 1]] | [[Filipenses]] | [[Filipenses 3|Filipenses 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/philip/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/philip/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los santos deben ser uno en propósito y en espíritu — Toda rodilla se doblará ante Cristo — Los santos deben labrar su propia salvación — Pablo afronta el martirio con gozo.
 
----
 ###### 1 
 Por tanto, si hay alguna consolación en Cristo, si algún consuelo de amor, si alguna comunión del Espíritu, si algún afecto entrañable y algunas misericordias,
 

@@ -1,10 +1,11 @@
 ---
 title: sw Hosea 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hosea 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Worshipping false gods brings severe judgments upon Israel—In the last days, Israel will be reconciled to God and become His people.
 
----
 ###### 1 
 Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.
 

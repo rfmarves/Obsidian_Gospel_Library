@@ -1,22 +1,21 @@
 ---
 title: Tito 2
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Tito 2
 [[Tito 1| <-- Tito 1]] | [[Tito]] | [[Tito 3|Tito 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/titus/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/titus/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os santos devem viver retamente, renunciar à impiedade e buscar ao Senhor.
 
----
 ###### 1 
 Tu, porém, fala o que convém à sã doutrina:
 

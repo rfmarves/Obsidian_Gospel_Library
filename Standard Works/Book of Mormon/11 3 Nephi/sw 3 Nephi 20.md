@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 20
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus provides bread and wine miraculously and again administers the sacrament unto the people—The remnant of Jacob will come to the knowledge of the Lord their God and will inherit the Americas—Jesus is the prophet like unto Moses, and the Nephites are children of the prophets—Others of the Lord’s people will be gathered to Jerusalem. About A.D. 34.
 
----
 ###### 1 
 And it came to pass that he commanded the multitude that they should cease to pray, and also his disciples. And he commanded them that they should not cease to pray in their hearts.
 

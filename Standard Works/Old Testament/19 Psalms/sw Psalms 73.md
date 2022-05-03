@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 73
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 73
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/73?lang=eng)
 
----
+```
 A Psalm of Asaph.
+```
 
----
-
----
-__Summary__
+> __Summary__
 God is good to Israel—The wicked and ungodly prosper in this world—They will be consumed with terrors hereafter—Those who trust in the Lord will be received up unto glory.
 
----
 ###### 1 
 Truly God  good to Israel,  to such as are of a clean heart.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Romans 13
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul counsels, Be subject unto God’s ministers; keep the commandments; love one another; righteousness leads to salvation.
 
----
 ###### 1 
 Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
 

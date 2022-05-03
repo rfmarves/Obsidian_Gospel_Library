@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 12
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Rehoboam forsakes the law of the Lord—The Egyptians plunder Jerusalem and take the treasures of the house of the Lord—The people repent and receive partial deliverance—Rehoboam dies.
 
----
 ###### 1 
 And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the , and all Israel with him.
 

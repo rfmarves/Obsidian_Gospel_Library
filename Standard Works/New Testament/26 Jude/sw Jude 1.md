@@ -1,10 +1,11 @@
 ---
 title: sw Jude 1
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jude 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/jude/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Contend for the faith—Some angels kept not their first estate—Michael disputed about the body of Moses—Enoch prophesied of the Second Coming—Mockers will come in the last days.
 
----
 ###### 1 
 Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ,  called:
 

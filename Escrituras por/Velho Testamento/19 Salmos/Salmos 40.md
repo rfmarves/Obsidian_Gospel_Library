@@ -1,27 +1,25 @@
 ---
 title: Salmos 40
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 40
 [[Salmos 39| <-- Salmos 39]] | [[Salmos]] | [[Salmos 41|Salmos 41 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/40?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/40?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Salmo messiânico de Davi — O Messias virá e pregará retidão — Ele declarará salvação — Os justos dirão: Magnificado seja o Senhor.
 
----
 ###### 1 
 Esperei pacientemente no , e ele se inclinou para mim, e ouviu o meu clamor.
 

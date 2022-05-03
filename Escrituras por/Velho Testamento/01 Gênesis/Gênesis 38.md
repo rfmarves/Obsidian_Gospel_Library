@@ -1,22 +1,21 @@
 ---
 title: Gênesis 38
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 38
 [[Gênesis 37| <-- Gênesis 37]] | [[Gênesis]] | [[Gênesis 39|Gênesis 39 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/38?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/38?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Judá tem três filhos com uma mulher cananeia — Er e Onã são mortos pelo Senhor — Tamar, disfarçada de meretriz, dá à luz gêmeos de Judá.
 
----
 ###### 1 
 E aconteceu, naquele mesmo tempo, que Judá desceu de entre seus irmãos, e entrou  um homem de Adulão, cujo nome  Hira.
 

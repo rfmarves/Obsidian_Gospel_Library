@@ -1,22 +1,21 @@
 ---
 title: Lucas 13
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 13
 [[Lucas 12| <-- Lucas 12]] | [[Lucas]] | [[Lucas 14|Lucas 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus ensina: Arrependei-vos ou perecereis — Ele conta a parábola da figueira estéril, cura uma mulher no Sábado e compara o reino de Deus a um grão de mostarda — Ele discute se são muitos ou poucos os que serão salvos e pranteia sobre Jerusalém.
 
----
 ###### 1 
 E naquele mesmo tempo estavam presentes ali alguns que lhe falavam dos galileus, cujo sangue Pilatos misturara com os seus sacrifícios.
 

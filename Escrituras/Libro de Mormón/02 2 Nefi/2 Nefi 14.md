@@ -1,22 +1,21 @@
 ---
 title: 2 Nefi 14
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Nefi 14
 [[2 Nefi 13| <-- 2 Nefi 13]] | [[2 Nefi]] | [[2 Nefi 15|2 Nefi 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Sion y sus hijas serán redimidas y purificadas en el día milenario — Compárese con Isaías 4. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 Y en aquel día siete mujeres echarán mano de un hombre, diciendo: Nuestro propio pan comeremos, y con nuestra propia ropa nos vestiremos; tan solo déjanos llevar tu nombre para quitar nuestro oprobio.
 

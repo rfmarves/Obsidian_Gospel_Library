@@ -1,10 +1,11 @@
 ---
 title: sw John 16
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus discourses on the mission of the Holy Ghost—He tells of His death and resurrection, announces that He is the Son of God, and says that He has overcome the world.
 
----
 ###### 1 
 These things have I spoken unto you, that ye should not be offended.
 

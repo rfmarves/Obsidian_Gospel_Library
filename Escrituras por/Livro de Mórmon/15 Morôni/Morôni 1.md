@@ -1,22 +1,21 @@
 ---
 title: Morôni 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Morôni 1
 [[Éter 15| <-- Éter 15]] | [[Morôni]] | [[Morôni 2|Morôni 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/moro/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Morôni escreve para benefício dos lamanitas — Os nefitas que não negam a Cristo são mortos. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 Ora, eu, Morôni, após haver terminado o resumo do relato do povo de Jarede, pensei em não mais escrever; entretanto ainda não pereci; e não me dou a conhecer aos lamanitas, para que não me matem.
 

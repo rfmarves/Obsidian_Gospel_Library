@@ -1,22 +1,21 @@
 ---
 title: Apocalipse 17
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipse 17
 [[Apocalipse 16| <-- Apocalipse 16]] | [[Apocalipse]] | [[Apocalipse 18|Apocalipse 18 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/17?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/rev/17?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Mostra-se a João que a grande Babilônia, a mãe das meretrizes e abominações, foi estabelecida por toda a Terra.
 
----
 ###### 1 
 E veio um dos sete anjos que tinham as sete taças, e falou comigo, dizendo-me: Vem, mostrar-te-ei a condenação da grande prostituta que está assentada sobre muitas águas;
 

@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ will be as a stone of stumbling and a rock of offense—Seek the Lord, not muttering wizards—Turn to the law and to the testimony for guidance—Compare 2 Nephi 18.
 
----
 ###### 1 
 Moreover the  said unto me, Take thee a great roll, and write in it with a man’s pen concerning Maher-shalal-hash-baz.
 

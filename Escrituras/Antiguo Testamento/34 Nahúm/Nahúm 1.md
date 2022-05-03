@@ -1,22 +1,21 @@
 ---
 title: Nahúm 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nahúm 1
 [[Miqueas 7| <-- Miqueas 7]] | [[Nahúm]] | [[Nahúm 2|Nahúm 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/nahum/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/nahum/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nahúm declara que la tierra será quemada en la Segunda Venida y habla de la misericordia y del poder de Jehová.
 
----
 ###### 1 
 Profecía acerca de Nínive. Libro de la visión de Nahúm de Elcos.
 

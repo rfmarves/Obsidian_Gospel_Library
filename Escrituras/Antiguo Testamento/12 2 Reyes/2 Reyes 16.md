@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 16
 [[2 Reyes 15| <-- 2 Reyes 15]] | [[2 Reyes]] | [[2 Reyes 17|2 Reyes 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Acaz reina con iniquidad en Judá — Ofrece a su hijo en sacrificio pagano — Hace un nuevo altar, destruye el mar de bronce y cambia la manera de efectuar sacrificios en el templo.
 
----
 ###### 1 
 En el año diecisiete de Peka hijo de Remalías, comenzó a reinar Acaz hijo de Jotam, rey de Judá.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 35
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 35
 [[Salmos 34| <-- Salmos 34]] | [[Salmos]] | [[Salmos 36|Salmos 36 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/35?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/35?lang=spa)
 
----
+```
 Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David se queja de sus enemigos y de los malos tratos de estos — Pide a Jehová que le juzgue conforme a Su perfecta justicia.
 
----
 ###### 1 
 
 

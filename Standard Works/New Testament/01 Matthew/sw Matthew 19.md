@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 19
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus teaches about marriage and divorce—Eternal life is for those who keep the commandments—The Twelve Apostles will judge the house of Israel.
 
----
 ###### 1 
 And it came to pass,  when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judæa beyond Jordan;
 

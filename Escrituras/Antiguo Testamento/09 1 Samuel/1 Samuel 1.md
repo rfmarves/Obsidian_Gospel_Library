@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 1
 [[Rut 4| <-- Rut 4]] | [[1 Samuel]] | [[1 Samuel 2|1 Samuel 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ana pide en oración un hijo y hace voto de entregarlo a Jehová — Elí el sacerdote la bendice — Nace Samuel — Ana lo dedica a Jehová.
 
----
 ###### 1 
 Hubo un hombre de Ramataim de Zofim, de los montes de Efraín, que se llamaba Elcana hijo de Jeroham, hijo de Eliú, hijo de Tohu, hijo de Zuf, efrateo.
 

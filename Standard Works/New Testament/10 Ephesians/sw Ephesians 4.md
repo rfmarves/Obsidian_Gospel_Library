@@ -1,10 +1,11 @@
 ---
 title: sw Ephesians 4
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ephesians 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 There is one Lord, one faith, and one baptism—Apostles and prophets are essential to the Church—The Saints are exhorted to live righteously—They are sealed unto the day of redemption.
 
----
 ###### 1 
 I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,
 

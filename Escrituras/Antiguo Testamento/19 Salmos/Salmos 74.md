@@ -1,27 +1,25 @@
 ---
 title: Salmos 74
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 74
 [[Salmos 73| <-- Salmos 73]] | [[Salmos]] | [[Salmos 75|Salmos 75 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/74?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/74?lang=spa)
 
----
+```
 aMasquil de Asaf.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Oh Dios, acuérdate de Tu congregación escogida — Los inicuos destruyen el santuario y queman las sinagogas — Oh Dios, acuérdate de ellos por sus obras y salva a Tu pueblo.
 
----
 ###### 1 
 
 

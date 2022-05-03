@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Noah’s family and various beasts and fowl enter the ark—The Flood comes, and water covers the whole earth—All other life that breathes is destroyed.
 
----
 ###### 1 
 And the  said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.
 

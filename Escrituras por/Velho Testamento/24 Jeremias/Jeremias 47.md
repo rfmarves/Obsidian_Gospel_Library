@@ -1,22 +1,21 @@
 ---
 title: Jeremias 47
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 47
 [[Jeremias 46| <-- Jeremias 46]] | [[Jeremias]] | [[Jeremias 48|Jeremias 48 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/47?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/47?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeremias prediz desolação e destruição sobre os filisteus.
 
----
 ###### 1 
 A palavra do , que veio a Jeremias, o profeta, contra os filisteus, antes que Faraó ferisse Gaza.
 

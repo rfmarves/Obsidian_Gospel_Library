@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 104
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 104
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/104?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord is clothed with honor and majesty—He makes His angels spirits and His ministers a flaming fire—Through His providence He sustains all forms of life—His glory endures forever.
 
----
 ###### 1 
 Bless the , O my soul. O  my God, thou art very great; thou art clothed with honour and majesty.
 

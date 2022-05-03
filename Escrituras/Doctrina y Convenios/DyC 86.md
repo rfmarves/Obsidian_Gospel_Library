@@ -1,22 +1,21 @@
 ---
 title: DyC 86
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 86
 [[DyC 85| <-- DyC 85]] | [[DyC]] | [[DyC 87|DyC 87 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/86?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/86?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–7, El Señor explica el significado de la parábola del trigo y la cizaña; 8–11, También explica las bendiciones del sacerdocio para aquellos que son herederos legítimos según la carne.
 
----
 ###### 1 
 De cierto, así dice el Señor a vosotros mis siervos, concerniente a la parábola del trigo y la cizaña:
 

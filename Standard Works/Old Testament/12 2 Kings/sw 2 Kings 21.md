@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Manasseh turns Judah to idolatry, even sacrificing a son to a heathen god—Prophets foretell the destruction of Judah and Jerusalem—Wickedness continues under Amon.
 
----
 ###### 1 
 Manasseh  twelve years old when he began to reign, and reigned fifty and five years in Jerusalem. And his mother’s name  Hephzi-bah.
 

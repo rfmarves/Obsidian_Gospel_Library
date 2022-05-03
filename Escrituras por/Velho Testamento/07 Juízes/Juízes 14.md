@@ -1,22 +1,21 @@
 ---
 title: Juízes 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 14
 [[Juízes 13| <-- Juízes 13]] | [[Juízes]] | [[Juízes 15|Juízes 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sansão mata um leão novo com as próprias mãos — Ele se casa com uma mulher filisteia, propõe um enigma, é enganado por sua mulher e mata trinta filisteus.
 
----
 ###### 1 
 E desceu Sansão a Timnate; e vendo em Timnate uma mulher das filhas dos filisteus,
 

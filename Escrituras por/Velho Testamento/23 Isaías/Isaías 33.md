@@ -1,22 +1,21 @@
 ---
 title: Isaías 33
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 33
 [[Isaías 32| <-- Isaías 32]] | [[Isaías]] | [[Isaías 34|Isaías 34 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/33?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/33?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Apostasia e iniquidade precederão a Segunda Vinda — O Senhor virá com fogo devorador — Sião e suas estacas serão aperfeiçoadas — O Senhor é nosso Juiz, Legislador e Rei.
 
----
 ###### 1 
 Ai de ti despojador, que não foste despojado, e que ages perfidamente  que não agiram perfidamente contra ti! Acabando tu de despojar, serás despojado;  acabando tu de agir perfidamente, eles agirão perfidamente contra ti.
 

@@ -1,22 +1,21 @@
 ---
 title: Esdras 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Esdras 9
 [[Esdras 8| <-- Esdras 8]] | [[Esdras]] | [[Esdras 10|Esdras 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezra/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Muitos judeus se casam com cananeus e outros estrangeiros e seguem as suas abominações — Esdras ora e confessa os pecados de todo o povo.
 
----
 ###### 1 
 Acabadas, pois, essas coisas, chegaram-se a mim os príncipes, dizendo: O povo de Israel, e os sacerdotes, e os levitas, não se separaram dos povos destas terras, segundo as suas abominações,  dos cananeus, dos heteus, dos perizeus, dos jebuseus, dos amonitas, dos moabitas, dos egípcios, e dos amorreus.
 

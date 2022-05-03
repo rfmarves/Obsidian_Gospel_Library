@@ -1,22 +1,21 @@
 ---
 title: Provérbios 27
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Provérbios 27
 [[Provérbios 26| <-- Provérbios 26]] | [[Provérbios]] | [[Provérbios 28|Provérbios 28 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/27?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/prov/27?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Que o estranho te louve — O homem prudente prevê o mal — O inferno e a perdição nunca se fartam.
 
----
 ###### 1 
 Não te glories do dia de amanhã, porque não sabes o que ele trará à luz.
 

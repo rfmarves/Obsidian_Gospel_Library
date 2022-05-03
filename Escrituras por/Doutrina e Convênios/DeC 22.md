@@ -1,22 +1,21 @@
 ---
 title: DeC 22
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 22
 [[DeC 21| <-- DeC 21]] | [[DeC]] | [[DeC 23|DeC 23 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/22?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/22?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1, O batismo é um novo e eterno convênio; 2–4, Requer-se o batismo feito com autoridade.
 
----
 ###### 1 
 Eis que vos digo que todos os convênios antigos fiz eu com que neste fossem invalidados; e este é um novo e eterno convênio, que era desde o princípio.
 

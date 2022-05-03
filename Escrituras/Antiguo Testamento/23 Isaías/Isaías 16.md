@@ -1,22 +1,21 @@
 ---
 title: Isaías 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 16
 [[Isaías 15| <-- Isaías 15]] | [[Isaías]] | [[Isaías 17|Isaías 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moab es condenado y su pueblo sufrirá — El Mesías se sentará en el trono de David, buscando juicio y apresurando la justicia.
 
----
 ###### 1 
 Enviad cordero al gobernante de la tierra, desde Sela hacia el desierto hasta el monte de la hija de Sion.
 

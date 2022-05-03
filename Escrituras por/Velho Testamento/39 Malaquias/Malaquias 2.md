@@ -1,22 +1,21 @@
 ---
 title: Malaquias 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Malaquias 2
 [[Malaquias 1| <-- Malaquias 1]] | [[Malaquias]] | [[Malaquias 3|Malaquias 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os sacerdotes são reprovados por não guardarem seus convênios e por não ensinarem o povo — Os judeus são condenados por lidarem de maneira desleal uns com os outros e com suas esposas.
 
----
 ###### 1 
 Agora, pois, ó sacerdotes, este mandamento é para vós.
 

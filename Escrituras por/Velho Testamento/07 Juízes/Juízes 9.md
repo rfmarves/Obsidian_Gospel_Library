@@ -1,22 +1,21 @@
 ---
 title: Juízes 9
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juízes 9
 [[Juízes 8| <-- Juízes 8]] | [[Juízes]] | [[Juízes 10|Juízes 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/judg/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Abimeleque, filho de Gideão, torna-se rei — Ele mata seus setenta irmãos — Jotão conta uma fábula sobre árvores que escolhem um rei — Os siquemitas conspiram contra Abimeleque — Ele é morto em Tebes.
 
----
 ###### 1 
 E Abimeleque, filho de Jerubaal, foi a Siquém, aos irmãos de sua mãe, e falou-lhes e a toda a família da casa do pai de sua mãe, dizendo:
 

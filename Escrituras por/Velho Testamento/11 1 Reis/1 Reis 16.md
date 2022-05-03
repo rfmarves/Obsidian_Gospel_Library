@@ -1,22 +1,21 @@
 ---
 title: 1 Reis 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Reis 16
 [[1 Reis 15| <-- 1 Reis 15]] | [[1 Reis]] | [[1 Reis 17|1 Reis 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jeú profetiza o mal sobre Baasa e sua casa — Elá, Zinri, Onri e Acabe reinam iniquamente — Zinri destrói a casa de Baasa — Acabe se casa com Jezabel, adora Baal e provoca a ira do Senhor.
 
----
 ###### 1 
 Então veio a palavra do  a Jeú, filho de Hanani, contra Baasa, dizendo:
 

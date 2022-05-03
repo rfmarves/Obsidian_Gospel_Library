@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 3
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ezekiel is made a watchman unto the house of Israel—The blood of Israel is required at his hand unless he raises the warning voice.
 
----
 ###### 1 
 Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel.
 

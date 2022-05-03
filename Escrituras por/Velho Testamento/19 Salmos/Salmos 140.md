@@ -1,27 +1,25 @@
 ---
 title: Salmos 140
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 140
 [[Salmos 139| <-- Salmos 139]] | [[Salmos]] | [[Salmos 141|Salmos 141 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/140?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/140?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi ora pedindo que seja livrado de seus inimigos — O Senhor sustenta a causa do oprimido e do necessitado.
 
----
 ###### 1 
 Livra-me, ó , do homem mau; guarda-me do homem violento,
 

@@ -1,22 +1,21 @@
 ---
 title: Amós 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Amós 2
 [[Amós 1| <-- Amós 1]] | [[Amós]] | [[Amós 3|Amós 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/amos/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová derramará Sus juicios sobre Moab, sobre Judá y sobre Israel a causa de sus iniquidades.
 
----
 ###### 1 
 Así ha dicho Jehová: Por tres transgresiones de Moab, y por la cuarta, no revocaré su castigo, porque quemó los huesos del rey de Edom  calcinarlos.
 

@@ -1,22 +1,21 @@
 ---
 title: Atos 7
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 7
 [[Atos 6| <-- Atos 6]] | [[Atos]] | [[Atos 8|Atos 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Estevão conta a história de Israel e cita Moisés como um protótipo de Cristo — Ele testifica a respeito da apostasia em Israel — Ele vê Jesus à mão direita de Deus — O testemunho de Estevão é rejeitado, e ele é apedrejado até a morte.
 
----
 ###### 1 
 E disse o sumo sacerdote: Porventura é isto assim?
 

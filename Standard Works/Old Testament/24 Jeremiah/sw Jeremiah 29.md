@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 29
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 29
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/29?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah tells the Jews in Babylon to prepare for seventy years of captivity—Those remaining in Jerusalem will yet be scattered—Shemaiah prophesies falsely and is cursed.
 
----
 ###### 1 
 Now these  the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon;
 

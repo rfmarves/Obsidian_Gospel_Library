@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 Various sacrificial ordinances bring forgiveness to repentant Israel—Those who sin willfully are cut off from among the people—A man is stoned for gathering sticks on the Sabbath day—The Israelites are to look on the fringes of their garments and remember the commandments.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

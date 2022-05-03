@@ -1,22 +1,21 @@
 ---
 title: 2 Crónicas 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crónicas 22
 [[2 Crónicas 21| <-- 2 Crónicas 21]] | [[2 Crónicas]] | [[2 Crónicas 23|2 Crónicas 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/22?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ocozías reina con iniquidad y es asesinado por Jehú; su madre Atalía reina en su lugar.
 
----
 ###### 1 
 Y los habitantes de Jerusalén hicieron rey en su lugar a Ocozías, su hijo menor, porque la banda de hombres que vinieron con los árabes al campamento había matado a todos los mayores, por lo cual reinó Ocozías hijo de Joram, rey de Judá.
 

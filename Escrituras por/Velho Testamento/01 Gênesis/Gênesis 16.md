@@ -1,22 +1,21 @@
 ---
 title: Gênesis 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 16
 [[Gênesis 15| <-- Gênesis 15]] | [[Gênesis]] | [[Gênesis 17|Gênesis 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Sarai dá Agar por mulher a Abrão — Agar foge de Sarai — Um anjo ordena que Agar volte e seja submissa a Sarai — Agar dá à luz Ismael.
 
----
 ###### 1 
 Ora, Sarai, mulher de Abrão, não lhe gerava filhos, e ela tinha uma serva egípcia, cujo nome  Agar.
 

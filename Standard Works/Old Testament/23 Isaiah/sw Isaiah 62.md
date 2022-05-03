@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 62
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 62
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/62?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, Israel will be gathered—Zion will be established—Her watchmen will teach about the Lord—The gospel standard will be lifted up—The people will be called holy, the redeemed of the Lord.
 
----
 ###### 1 
 For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp  burneth.
 

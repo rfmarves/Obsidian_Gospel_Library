@@ -1,10 +1,11 @@
 ---
 title: sw Mark 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus heals on the Sabbath day—He chooses and ordains the Twelve Apostles—He asks, Can Satan cast out Satan?—Jesus speaks of blasphemy against the Holy Ghost and identifies those who believe as being members of His family.
 
----
 ###### 1 
 And he entered again into the synagogue; and there was a man there which had a withered hand.
 

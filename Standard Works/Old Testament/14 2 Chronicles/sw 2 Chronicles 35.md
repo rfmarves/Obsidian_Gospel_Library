@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 35
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 35
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/35?lang=eng)
 
----
-__Summary__
+> __Summary__
 Josiah and all Judah keep a most solemn Passover—Josiah is mortally wounded by the Egyptians at Megiddo.
 
----
 ###### 1 
 Moreover Josiah kept a passover unto the  in Jerusalem: and they killed the passover on the fourteenth  of the first month.
 

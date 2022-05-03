@@ -1,22 +1,21 @@
 ---
 title: Ester 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 4
 [[Ester 3| <-- Ester 3]] | [[Ester]] | [[Ester 5|Ester 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Mardoqueo y los judíos lloran y ayunan debido al decreto del rey — Ester, arriesgando su vida, se prepara para entrar a ver al rey.
 
----
 ###### 1 
 Cuando supo Mardoqueo todo lo que se había hecho, rasgó sus vestidos, y se vistió de cilicio y de ceniza, y se fue por en medio de la ciudad clamando con grande y amargo clamor.
 

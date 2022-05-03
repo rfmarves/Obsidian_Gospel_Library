@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 20
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 20
 [[3 Nefi 19| <-- 3 Nefi 19]] | [[3 Nefi]] | [[3 Nefi 21|3 Nefi 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús proporciona milagrosamente pan y vino, y de nuevo administra el sacramento a los del pueblo — El resto de Jacob será llevado al conocimiento del Señor su Dios y heredará las Américas — Jesús es el profeta semejante a Moisés, y los nefitas son hijos de los profetas — Otros de los del pueblo del Señor serán recogidos en Jerusalén. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Y sucedió que mandó a la multitud y también a sus discípulos que dejasen de orar; y les mandó que no cesaran de orar en sus corazones.
 

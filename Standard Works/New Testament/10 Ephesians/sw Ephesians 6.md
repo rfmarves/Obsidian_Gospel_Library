@@ -1,10 +1,11 @@
 ---
 title: sw Ephesians 6
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ephesians 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/eph/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Children should honor their parents—Servants and masters are judged by the same law—Saints should put on the whole armor of God.
 
----
 ###### 1 
 Children, obey your parents in the Lord: for this is right.
 

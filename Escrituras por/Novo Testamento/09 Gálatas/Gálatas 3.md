@@ -1,22 +1,21 @@
 ---
 title: Gálatas 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gálatas 3
 [[Gálatas 2| <-- Gálatas 2]] | [[Gálatas]] | [[Gálatas 4|Gálatas 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/gal/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/gal/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Deus deu o evangelho a Abraão — A lei mosaica foi acrescentada por causa de transgressões — A lei foi um aio até Cristo — Os santos são filhos de Deus pela fé — Todos os que são da fé e são batizados em Cristo se tornam a semente de Abraão.
 
----
 ###### 1 
 Ó insensatos gálatas! quem vos fascinou para não obedecerdes à verdade, — vós, perante os olhos de quem Jesus Cristo foi  exposto entre vós  crucificado?
 

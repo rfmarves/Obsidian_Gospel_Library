@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 30
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 30
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/30?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, Judah and Israel will be gathered to their own lands—David, their king (the Messiah), will reign over them.
 
----
 ###### 1 
 The word that came to Jeremiah from the , saying,
 

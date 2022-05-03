@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 33
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 33
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/33?lang=eng)
 
----
-__Summary__
+> __Summary__
 Rejoice in the Lord—Sing unto Him a new song—He loves righteousness and judgment—Blessed is the nation whose God is the Lord.
 
----
 ###### 1 
 Rejoice in the , O ye righteous:  praise is comely for the upright.
 

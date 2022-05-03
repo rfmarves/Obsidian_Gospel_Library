@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Samuel’s sons take bribes and pervert judgment—The Israelites seek for a king to rule over them—Samuel rehearses the nature and evils of kingly rule—The Lord consents to give them a king.
 
----
 ###### 1 
 And it came to pass, when Samuel was old, that he made his sons judges over Israel.
 

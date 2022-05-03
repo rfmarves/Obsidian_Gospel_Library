@@ -1,10 +1,11 @@
 ---
 title: sw Judges 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 An angel rebukes Israel for not serving the Lord—As a pattern of future events, a new generation arises that forsakes the Lord and serves Baal and Ashtaroth—The Lord is angry with the children of Israel and ceases to preserve them—He raises up judges to guide and lead them—The Canaanites are left in the land to test Israel.
 
----
 ###### 1 
 And an angel of the  came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you.
 

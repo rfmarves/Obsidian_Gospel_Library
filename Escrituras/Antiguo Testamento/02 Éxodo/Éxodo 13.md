@@ -1,22 +1,21 @@
 ---
 title: Éxodo 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 13
 [[Éxodo 12| <-- Éxodo 12]] | [[Éxodo]] | [[Éxodo 14|Éxodo 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Todo primogénito de hombre o de bestias será consagrado a Jehová — La fiesta de los Panes sin Levadura ha de guardarse en la tierra de Canaán — Moisés saca de Egipto los huesos de José — Jehová guía a Israel en una columna de nube durante el día y en una columna de fuego durante la noche.
 
----
 ###### 1 
 Y Jehová habló a Moisés, diciendo:
 

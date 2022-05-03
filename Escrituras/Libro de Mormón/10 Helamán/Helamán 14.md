@@ -1,22 +1,21 @@
 ---
 title: Helamán 14
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 14
 [[Helamán 13| <-- Helamán 13]] | [[Helamán]] | [[Helamán 15|Helamán 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Samuel predice que habrá luz durante la noche y que aparecerá una estrella nueva cuando nazca Cristo — Cristo redime al género humano de la muerte temporal y de la espiritual — Entre las señales de Su muerte, habrá tres días de tinieblas, se partirán las rocas y habrá grandes cataclismos. Aproximadamente 6 a.C.
 
----
 ###### 1 
 Y aconteció que Samuel el Lamanita profetizó muchísimas otras cosas que no pueden escribirse.
 

@@ -1,22 +1,21 @@
 ---
 title: Mosias 11
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosias 11
 [[Mosias 10| <-- Mosias 10]] | [[Mosias]] | [[Mosias 12|Mosias 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O rei Noé governa iniquamente — Deleita-se numa vida devassa com suas esposas e concubinas — Abinádi profetiza que o povo cairá em cativeiro — O rei Noé procura tirar-lhe a vida. Aproximadamente 160–150 a.C.
 
----
 ###### 1 
 E então aconteceu que Zênife conferiu o reino a Noé, um de seus filhos; portanto, Noé começou a reinar em seu lugar; e ele não seguiu os caminhos de seu pai.
 

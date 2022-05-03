@@ -1,22 +1,21 @@
 ---
 title: Lucas 11
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 11
 [[Lucas 10| <-- Lucas 10]] | [[Lucas]] | [[Lucas 12|Lucas 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/luke/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jesus profere a oração do Pai Nosso — Ele fala sobre a expulsão de demônios — Ele Se proclama como maior do que Jonas e Salomão — Ele repreende os fariseus e diz que o sangue dos justos será requerido da geração deles.
 
----
 ###### 1 
 E aconteceu que, estando ele a orar num certo lugar, quando acabou, disse-lhe um dos seus discípulos: Senhor, ensina-nos a orar, como também João ensinou aos seus discípulos.
 

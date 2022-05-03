@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 21
 [[Deuteronomio 20| <-- Deuteronomio 20]] | [[Deuteronomio]] | [[Deuteronomio 22|Deuteronomio 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La manera de absolver de la culpa con respecto a los asesinatos cuyo autor se desconozca — Debe haber equidad en el trato para con las esposas e hijos — Los hijos contumaces y rebeldes han de morir.
 
----
 ###### 1 
 Si en la tierra que Jehová tu Dios te da para que la poseas es hallado algún muerto, tendido en el campo, y no se sabe quién lo mató,
 

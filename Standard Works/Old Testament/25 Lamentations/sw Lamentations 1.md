@@ -1,10 +1,11 @@
 ---
 title: sw Lamentations 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Lamentations 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lam/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jeremiah laments the miserable condition of Jerusalem—Jerusalem herself complains of her deep sorrow.
 
----
 ###### 1 
 How doth the city sit solitary,  full of people!  is she become as a widow! she  great among the nations,  princess among the provinces,  is she become tributary!
 

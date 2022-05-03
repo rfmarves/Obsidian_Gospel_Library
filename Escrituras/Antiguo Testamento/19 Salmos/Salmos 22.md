@@ -1,27 +1,25 @@
 ---
 title: Salmos 22
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 22
 [[Salmos 21| <-- Salmos 21]] | [[Salmos]] | [[Salmos 23|Salmos 23 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/22?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/22?lang=spa)
 
----
+```
 Al músico principal: al son de aAjelet-sahar. Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Salmo mesiánico de David — Este predice acontecimientos de la vida del Mesías — El Mesías dirá: Dios mío, Dios mío, ¿por qué me has desamparado? — Le traspasarán las manos y los pies — Aún se enseñoreará de todas las naciones.
 
----
 ###### 1 
 
 

@@ -1,22 +1,21 @@
 ---
 title: Hechos 6
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hechos 6
 [[Hechos 5| <-- Hechos 5]] | [[Hechos]] | [[Hechos 7|Hechos 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/acts/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los Apóstoles escogen a siete para que les ayuden — Esteban es puesto a prueba ante el concilio.
 
----
 ###### 1 
 En aquellos días, como crecía el número de los discípulos, hubo murmuración de los griegos contra los hebreos de que las viudas de aquellos eran desatendidas en la distribución diaria.
 

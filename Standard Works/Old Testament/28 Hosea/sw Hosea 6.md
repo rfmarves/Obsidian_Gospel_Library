@@ -1,10 +1,11 @@
 ---
 title: sw Hosea 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hosea 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Hosea calls Israel to return and serve the Lord—The mercy and knowledge of God are more important than ritualistic sacrifices.
 
----
 ###### 1 
 Come, and let us return unto the : for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
 

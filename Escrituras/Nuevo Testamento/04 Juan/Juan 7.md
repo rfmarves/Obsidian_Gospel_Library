@@ -1,22 +1,21 @@
 ---
 title: Juan 7
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 7
 [[Juan 6| <-- Juan 6]] | [[Juan]] | [[Juan 8|Juan 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hermanos de Jesús no creen en Él — Él enseña la doctrina de Su Padre y proclama Su origen divino — La verdad llega a saberse mediante la obediencia — Jesús ofrece agua viva a todos los hombres — La gente tiene opiniones diversas acerca de Él.
 
----
 ###### 1 
 Y después de estas cosas, andaba Jesús por Galilea, pues no quería andar en Judea, porque los judíos procuraban matarle.
 

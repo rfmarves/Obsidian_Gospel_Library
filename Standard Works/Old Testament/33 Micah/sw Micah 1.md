@@ -1,10 +1,11 @@
 ---
 title: sw Micah 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Micah 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/micah/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Micah prophesies the downfall of Samaria and Jerusalem.
 
----
 ###### 1 
 The word of the  that came to Micah the Morasthite in the days of Jotham, Ahaz,  Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
 

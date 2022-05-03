@@ -1,22 +1,21 @@
 ---
 title: Êxodo 32
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 32
 [[Êxodo 31| <-- Êxodo 31]] | [[Êxodo]] | [[Êxodo 33|Êxodo 33 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/32?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/32?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Aarão faz um bezerro de ouro, que é adorado por Israel — Moisés serve de mediador entre Deus e o Israel rebelde — Moisés quebra as tábuas de pedra — Os levitas matam cerca de 3.000 rebeldes — Moisés roga e intercede pelo povo.
 
----
 ###### 1 
 Mas, vendo o povo que Moisés tardava em descer do monte, ajuntou-se o povo a Aarão, e disseram-lhe: Levanta-te, faze-nos deuses, que vão adiante de nós, porque quanto  esse Moisés,  esse homem que nos tirou da terra do Egito, não sabemos o que lhe sucedeu.
 

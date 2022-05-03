@@ -1,22 +1,21 @@
 ---
 title: Salmos 93
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 93
 [[Salmos 92| <-- Salmos 92]] | [[Salmos]] | [[Salmos 94|Salmos 94 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/93?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/93?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor reina — Ele é desde a eternidade — A santidade adorna a casa do Senhor para sempre.
 
----
 ###### 1 
 O  reina; está vestido de majestade; o  está vestido, cingiu-se de fortaleza; o mundo também está firmado,  não pode ser abalado.
 

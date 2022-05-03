@@ -1,22 +1,21 @@
 ---
 title: Mosíah 13
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 13
 [[Mosíah 12| <-- Mosíah 12]] | [[Mosíah]] | [[Mosíah 14|Mosíah 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Abinadí es protegido por poder divino — Enseña los Diez Mandamientos — La salvación no viene por la ley de Moisés únicamente — Dios mismo efectuará la Expiación y redimirá a Su pueblo. Aproximadamente 148 a.C.
 
----
 ###### 1 
 Y ahora bien, cuando el rey hubo oído estas palabras, dijo a sus sacerdotes: Llevaos a este individuo, y matadlo; porque, ¿qué tenemos que ver con él? Pues está loco.
 

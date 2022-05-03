@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 The gospel is preached by the power of the Spirit—The Spirit reveals all things to the Saints—The unrepentant natural man cannot receive the things of the Spirit of God.
 
----
 ###### 1 
 And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Zechariah 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zechariah 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Zechariah speaks about the Messiah—The Messiah will be betrayed for thirty pieces of silver—They will be cast to the potter in the house of the Lord.
 
----
 ###### 1 
 Open thy doors, O Lebanon, that the fire may devour thy cedars.
 

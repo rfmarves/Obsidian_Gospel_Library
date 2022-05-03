@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 11
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 11
 [[Apocalipsis 10| <-- Apocalipsis 10]] | [[Apocalipsis]] | [[Apocalipsis 12|Apocalipsis 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 En los últimos días dos profetas serán muertos en Jerusalén — Estos resucitarán al cabo de tres días y medio — Cristo reinará sobre toda la tierra.
 
----
 ###### 1 
 Entonces me fue dada una caña semejante a una vara  y se me dijo: Levántate, y mide el templo de Dios, y el altar y a los que adoran en él.
 

@@ -1,10 +1,11 @@
 ---
 title: sw D&C 27
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, The emblems to be used in partaking of the sacrament are set forth; 5–14, Christ and His servants from all dispensations are to partake of the sacrament; 15–18, Put on the whole armor of God.
 
----
 ###### 1 
 Listen to the voice of Jesus Christ, your Lord, your God, and your Redeemer, whose word is quick and powerful.
 

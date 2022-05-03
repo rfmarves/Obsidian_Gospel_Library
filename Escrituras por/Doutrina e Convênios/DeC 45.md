@@ -1,22 +1,21 @@
 ---
 title: DeC 45
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 45
 [[DeC 44| <-- DeC 44]] | [[DeC]] | [[DeC 46|DeC 46 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–5, Cristo é nosso advogado junto ao Pai; 6–10, O evangelho é um mensageiro para preparar o caminho diante do Senhor; 11–15, Enoque e seus Irmãos foram recebidos pelo Senhor; 16–23, Cristo revelou os sinais da Sua vinda como dados no Monte das Oliveiras; 24–38, O evangelho será restaurado, cumprir-se-ão os tempos dos gentios e uma enfermidade desoladora cobrirá a terra; 39–47, Sinais, maravilhas e a Ressurreição acompanharão a Segunda Vinda; 48–53, Cristo aparecerá sobre o Monte das Oliveiras e os judeus verão as feridas em Suas mãos e em Seus pés; 54–59, O Senhor reinará durante o Milênio; 60–62, O Profeta recebe instrução para iniciar a tradução do Novo Testamento, por meio da qual importantes informações tornar-se-iam conhecidas; 63–75, Ordena-se que os santos se reúnam e construam a Nova Jerusalém, para onde acorrerão pessoas de todas as nações.
 
----
 ###### 1 
 Escutai, ó povo de minha igreja, a quem foi dado o reino; escutai e dai ouvidos àquele que estabeleceu os fundamentos da Terra, que fez os céus e todas as suas hostes, e por quem foram feitas todas as coisas que vivem e se movem e têm seu ser.
 

@@ -1,22 +1,21 @@
 ---
 title: Atos 21
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 21
 [[Atos 20| <-- Atos 20]] | [[Atos]] | [[Atos 22|Atos 22 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/21?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/21?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Paulo viaja para Jerusalém — Ele é perseguido, preso e acorrentado.
 
----
 ###### 1 
 E aconteceu que, separando-nos deles, navegamos em linha reta, e chegamos a Cós, e no dia seguinte a Rodes, de onde passamos a Pátara.
 

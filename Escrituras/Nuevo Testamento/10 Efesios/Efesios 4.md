@@ -1,22 +1,21 @@
 ---
 title: Efesios 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Efesios 4
 [[Efesios 3| <-- Efesios 3]] | [[Efesios]] | [[Efesios 5|Efesios 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Hay un Señor, una fe y un bautismo — Los apóstoles y los profetas son esenciales para la Iglesia — Se exhorta a los santos a vivir rectamente — Ellos son sellados para el día de la redención.
 
----
 ###### 1 
 Yo, pues, preso en el Señor, os ruego que andéis como es digno de la vocación con que habéis sido llamados,
 

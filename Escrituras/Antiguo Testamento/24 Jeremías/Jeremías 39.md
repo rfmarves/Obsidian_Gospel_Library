@@ -1,22 +1,21 @@
 ---
 title: Jeremías 39
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 39
 [[Jeremías 38| <-- Jeremías 38]] | [[Jeremías]] | [[Jeremías 40|Jeremías 40 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/39?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/39?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jerusalén es tomada y los del pueblo son llevados cautivos — Jeremías y Ebed-melec, el etíope, son librados.
 
----
 ###### 1 
 En el noveno año de Sedequías, rey de Judá, en el mes décimo, vino Nabucodonosor, rey de Babilonia, con todo su ejército contra Jerusalén, y la sitiaron.
 

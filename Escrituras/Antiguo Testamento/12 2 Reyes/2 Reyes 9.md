@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 9
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 9
 [[2 Reyes 8| <-- 2 Reyes 8]] | [[2 Reyes]] | [[2 Reyes 10|2 Reyes 10 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/9?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/9?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Un profeta unge a Jehú como rey sobre Israel y profetiza la destrucción de la casa de Acab y la muerte de Jezabel — Jehú mata a Joram en el campo de Nabot — Jehú mata a Jezabel, y la devoran los perros.
 
----
 ###### 1 
 Entonces el profeta Eliseo llamó a uno de los hijos de los profetas y le dijo: Ciñe tus lomos, y toma este recipiente de aceite en tu mano y ve a Ramot de Galaad.
 

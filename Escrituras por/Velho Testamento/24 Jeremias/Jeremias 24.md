@@ -1,22 +1,21 @@
 ---
 title: Jeremias 24
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremias 24
 [[Jeremias 23| <-- Jeremias 23]] | [[Jeremias]] | [[Jeremias 25|Jeremias 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jer/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Zedequias e o povo de Judá serão amaldiçoados e dispersos — Alguns serão reunidos de volta da Caldeia para servir ao Senhor.
 
----
 ###### 1 
 Fez-me o  ver, e eis aqui dois cestos de figos, postos diante do templo do , depois que Nabucodonosor, rei de Babilônia, levou em cativeiro Jeconias, filho de Joaquim, rei de Judá, e os príncipes de Judá, e os carpinteiros, e os ferreiros de Jerusalém, e os levou a Babilônia.
 

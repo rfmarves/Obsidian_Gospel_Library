@@ -1,10 +1,11 @@
 ---
 title: sw Luke 16
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Luke 16
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/16?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus gives the parable of the unjust steward—He teaches of service and condemns divorce—He gives the parable of the rich man and Lazarus.
 
----
 ###### 1 
 And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods.
 

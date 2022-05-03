@@ -1,22 +1,21 @@
 ---
 title: DyC 67
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 67
 [[DyC 66| <-- DyC 66]] | [[DyC]] | [[DyC 68|DyC 68 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/67?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/67?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–3, El Señor escucha las oraciones de Sus élderes y vela por ellos; 4–9, Desafía a la persona más sabia a reproducir la menor de Sus revelaciones; 10–14, Los élderes fieles serán vivificados por el Espíritu y verán la faz de Dios.
 
----
 ###### 1 
 He aquí, escuchad, oh élderes de mi iglesia que os habéis congregado, cuyas oraciones he oído, cuyos corazones conozco y cuyos deseos han ascendido a mí.
 

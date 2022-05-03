@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 8
 [[1 Samuel 7| <-- 1 Samuel 7]] | [[1 Samuel]] | [[1 Samuel 9|1 Samuel 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos de Samuel aceitam suborno e pervertem a justiça — Os israelitas desejam um rei para governá-los — Samuel adverte sobre a natureza e os males do governo de reis — O Senhor consente em dar-lhes um rei.
 
----
 ###### 1 
 E sucedeu que, tendo Samuel envelhecido, constituiu seus filhos por juízes sobre Israel.
 

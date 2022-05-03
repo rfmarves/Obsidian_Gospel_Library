@@ -1,22 +1,21 @@
 ---
 title: Cantares 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Cantares 7
 [[Cantares 6| <-- Cantares 6]] | [[Cantares]] | [[Cantares 8|Cantares 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/song/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/song/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La canción de amor continúa.
 
----
 ###### 1 
 
 

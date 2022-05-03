@@ -1,22 +1,21 @@
 ---
 title: Génesis 10
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 10
 [[Génesis 9| <-- Génesis 9]] | [[Génesis]] | [[Génesis 11|Génesis 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los descendientes de Noé son: Jafet, cuyos descendientes son los gentiles; Cam, cuyos descendientes incluyen a los cananeos; y Sem, de quien vino Peleg, en cuyos días se dividió la tierra.
 
----
 ###### 1 
 Estas son las generaciones de los hijos de Noé: Sem, Cam y Jafet, a quienes nacieron hijos después del diluvio.
 

@@ -1,22 +1,21 @@
 ---
 title: Alma 24
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 24
 [[Alma 23| <-- Alma 23]] | [[Alma]] | [[Alma 25|Alma 25 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/24?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/24?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os lamanitas avançam contra o povo de Deus — Os ânti-néfi-leítas regozijam-se em Cristo e são visitados por anjos — Eles preferem morrer a defenderem-se — Mais lamanitas são convertidos. Aproximadamente 90–77 a.C.
 
----
 ###### 1 
 E aconteceu que os amalequitas e os amulonitas e os lamanitas que estavam na terra de Amulon e também na terra de Helã; e os que estavam na terra de Jerusalém e, resumindo, em todas as terras circunvizinhas, que não se haviam convertido nem adotado o nome de Ânti-Néfi-Leí, foram instigados pelos amalequitas e pelos amulonitas a irarem-se contra seus irmãos.
 

@@ -1,22 +1,21 @@
 ---
 title: Gênesis 1
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 1
 | [[Gênesis]] | [[Gênesis 2|Gênesis 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Deus cria esta Terra e seu céu e todas as formas de vida em seis dias — Descrevem-se os atos de criação de cada dia — Deus cria o homem, macho e fêmea, à Sua própria imagem — Ao homem é dado domínio sobre todas as coisas e ele recebe mandamento de se multiplicar e de encher a Terra.
 
----
 ###### 1 
 No princípio, Deus criou os céus e a terra.
 

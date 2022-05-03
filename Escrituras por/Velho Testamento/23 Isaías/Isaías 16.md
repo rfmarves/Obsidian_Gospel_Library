@@ -1,22 +1,21 @@
 ---
 title: Isaías 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 16
 [[Isaías 15| <-- Isaías 15]] | [[Isaías]] | [[Isaías 17|Isaías 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/isa/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Moabe é condenada, e seu povo sofrerá tristezas — O Messias se assentará no trono de Davi, buscando a justiça e apressando a retidão.
 
----
 ###### 1 
 Enviai o cordeiro ao que domina a terra desde Sela, no deserto, até o monte da filha de Sião.
 

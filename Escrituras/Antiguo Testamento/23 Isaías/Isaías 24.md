@@ -1,22 +1,21 @@
 ---
 title: Isaías 24
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 24
 [[Isaías 23| <-- Isaías 23]] | [[Isaías]] | [[Isaías 25|Isaías 25 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hombres transgredirán la ley y quebrantarán el convenio sempiterno — En la Segunda Venida, ellos serán quemados, la tierra se tambaleará y el sol se avergonzará — Entonces, Jehová reinará en Sion y en Jerusalén.
 
----
 ###### 1 
 He aquí que Jehová vacía la tierra, y la devasta, y trastorna su faz y dispersa a sus moradores.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Judges 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Judges 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Deborah and Barak sing a song of praise because Israel is delivered from Canaanite bondage.
 
----
 ###### 1 
 Then sang Deborah and Barak the son of Abinoam on that day, saying,
 

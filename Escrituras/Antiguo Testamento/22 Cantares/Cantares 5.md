@@ -1,22 +1,21 @@
 ---
 title: Cantares 5
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Cantares 5
 [[Cantares 4| <-- Cantares 4]] | [[Cantares]] | [[Cantares 6|Cantares 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/song/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/song/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Continúa la canción de amor y de afecto.
 
----
 ###### 1 
 
 

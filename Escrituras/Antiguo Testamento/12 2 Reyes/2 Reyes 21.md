@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 21
 [[2 Reyes 20| <-- 2 Reyes 20]] | [[2 Reyes]] | [[2 Reyes 22|2 Reyes 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Manasés hace volver a Judá a la idolatría y llega al punto de hacer sacrificar a un hijo suyo a un dios pagano — Los profetas predicen la destrucción de Judá y de Jerusalén — La iniquidad continúa bajo Amón.
 
----
 ###### 1 
 Manasés tenía doce años cuando comenzó a reinar, y reinó en Jerusalén cincuenta y cinco años; el nombre de su madre era Hepsiba.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 28
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saul inquires of the witch of Endor for revelation—She foretells his death, the death of his sons, and the defeat of Israel by the Philistines.
 
----
 ###### 1 
 And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men.
 

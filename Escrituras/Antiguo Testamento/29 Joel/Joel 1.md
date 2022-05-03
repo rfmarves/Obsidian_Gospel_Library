@@ -1,22 +1,21 @@
 ---
 title: Joel 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Joel 1
 [[Oseas 14| <-- Oseas 14]] | [[Joel]] | [[Joel 2|Joel 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/joel/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/joel/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Convocad una asamblea solemne y congregaos en la casa de Jehová, porque el día de Jehová está cerca.
 
----
 ###### 1 
 La palabra de Jehová que vino a Joel hijo de Petuel.
 

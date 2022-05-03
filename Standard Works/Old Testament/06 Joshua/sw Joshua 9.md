@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Gibeonites by craft obtain a league with Israel—Joshua makes them servants to the congregation of Israel.
 
----
 ###### 1 
 And it came to pass, when all the kings which  on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard 
 

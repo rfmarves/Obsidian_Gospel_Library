@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 38
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 38
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/38?lang=eng)
 
----
-__Summary__
+> __Summary__
 Hezekiah’s life is lengthened fifteen years—The sun goes back ten degrees as a sign—Hezekiah praises and thanks the Lord.
 
----
 ###### 1 
 In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the , Set thine house in order: for thou shalt die, and not live.
 

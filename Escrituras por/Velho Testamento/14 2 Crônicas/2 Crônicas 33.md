@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 33
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 33
 [[2 Crônicas 32| <-- 2 Crônicas 32]] | [[2 Crônicas]] | [[2 Crônicas 34|2 Crônicas 34 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/33?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/33?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Manassés reina iniquamente e adora deuses falsos — Ele é levado cativo para a Assíria — Ele se arrepende e serve ao Senhor — Amom reina iniquamente e é morto.
 
----
 ###### 1 
 Tinha Manassés doze anos de idade quando começou a reinar, e cinquenta e cinco anos reinou em Jerusalém.
 

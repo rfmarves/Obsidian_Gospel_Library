@@ -1,22 +1,21 @@
 ---
 title: Génesis 11
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 11
 [[Génesis 10| <-- Génesis 10]] | [[Génesis]] | [[Génesis 12|Génesis 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Todos los hombres hablan el mismo lenguaje — Ellos construyen la torre de Babel — Jehová confunde su lenguaje y los dispersa sobre toda la tierra — Entre las generaciones de Sem, se cuenta a Abram, cuya esposa fue Sarai — Abram sale de Ur y se establece en Harán.
 
----
 ###### 1 
 Tenía entonces toda la tierra una sola lengua y unas mismas palabras.
 

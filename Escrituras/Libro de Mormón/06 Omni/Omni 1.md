@@ -1,22 +1,21 @@
 ---
 title: Omni 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Omni 1
 [[Jarom 1| <-- Jarom 1]] | [[Omni]] | [[Palabras de Mormón 1|Palabras de Mormón 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/omni/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/omni/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Omni, Amarón, Quemis, Abinadom y Amalekí, cada uno, a su vez, llevan los anales — Mosíah descubre el pueblo de Zarahemla, el cual había llegado de Jerusalén en la época de Sedequías — Mosíah es nombrado rey — Los mulekitas habían descubierto a Coriántumr, el último de los jareditas — El rey Benjamín sucede a Mosíah — Los hombres deben ofrecer su alma como ofrenda a Cristo. Aproximadamente 323–130 a.C.
 
----
 ###### 1 
 He aquí, sucedió que yo, Omni, habiéndome mandado mi padre Jarom que escribiera algo sobre estas planchas, para preservar nuestra genealogía,
 

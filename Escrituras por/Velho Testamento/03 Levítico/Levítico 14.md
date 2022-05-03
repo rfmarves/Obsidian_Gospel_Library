@@ -1,22 +1,21 @@
 ---
 title: Levítico 14
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levítico 14
 [[Levítico 13| <-- Levítico 13]] | [[Levítico]] | [[Levítico 15|Levítico 15 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/14?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/lev/14?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Revelam-se leis, ritos e sacrifícios para purificação dos leprosos, das suas roupas e das casas infectadas pela lepra.
 
----
 ###### 1 
 Falou mais o  a Moisés, dizendo:
 

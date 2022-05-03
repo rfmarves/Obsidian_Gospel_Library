@@ -1,22 +1,21 @@
 ---
 title: Jonas 4
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jonas 4
 [[Jonas 3| <-- Jonas 3]] | [[Jonas]] | [[Miqueias 1|Miqueias 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/jonah/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/jonah/4?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jonas fica descontente com o Senhor por Sua misericórdia para com o povo — O Senhor o repreende.
 
----
 ###### 1 
 E desagradou-se Jonas extremamente disso, e ficou irado.
 

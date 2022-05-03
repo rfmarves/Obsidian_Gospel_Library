@@ -1,10 +1,11 @@
 ---
 title: sw D&C 80
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 80
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/80?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–5, Stephen Burnett and Eden Smith are called to preach in whatever place they choose.
 
----
 ###### 1 
 Verily, thus saith the Lord unto you my servant Stephen Burnett: Go ye, go ye into the world and preach the gospel to every creature that cometh under the sound of your voice.
 

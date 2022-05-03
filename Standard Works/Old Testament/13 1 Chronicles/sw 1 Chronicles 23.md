@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 23
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 Solomon is made king—The Levites are numbered and assigned their various religious duties.
 
----
 ###### 1 
 So when David was old and full of days, he made Solomon his son king over Israel.
 

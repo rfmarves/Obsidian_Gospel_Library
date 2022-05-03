@@ -1,22 +1,21 @@
 ---
 title: Job 34
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Job 34
 [[Job 33| <-- Job 33]] | [[Job]] | [[Job 35|Job 35 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/job/34?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/job/34?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Eliú enseña: Dios no puede ser injusto, ni cometer iniquidad, ni pervertir el juicio ni hacer acepción de personas — El hombre debe llevar el castigo y no hacer más el mal.
 
----
 ###### 1 
 Además respondió Eliú y dijo:
 

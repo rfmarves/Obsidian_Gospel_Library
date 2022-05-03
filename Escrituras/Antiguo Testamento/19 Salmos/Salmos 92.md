@@ -1,27 +1,25 @@
 ---
 title: Salmos 92
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 92
 [[Salmos 91| <-- Salmos 91]] | [[Salmos]] | [[Salmos 93|Salmos 93 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/92?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/92?lang=spa)
 
----
+```
 Salmo. Cántico para el día de reposo.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 Salmo o cántico para el día de reposo — Alabad a Jehová — Sus enemigos perecerán — El justo florecerá — No hay injusticia en Jehová.
 
----
 ###### 1 
 
 

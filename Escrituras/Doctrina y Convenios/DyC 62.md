@@ -1,22 +1,21 @@
 ---
 title: DyC 62
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 62
 [[DyC 61| <-- DyC 61]] | [[DyC]] | [[DyC 63|DyC 63 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/62?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/62?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–3, Los testimonios quedan escritos en los cielos; 4–9, Los élderes deben viajar y predicar según su juicio y conforme los dirija el Espíritu.
 
----
 ###### 1 
 He aquí, escuchad, oh élderes de mi iglesia, dice el Señor, vuestro Dios, sí, Jesucristo, vuestro intercesor, que conoce las flaquezas del hombre y sabe cómo socorrer a los que son tentados.
 

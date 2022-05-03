@@ -1,10 +1,11 @@
 ---
 title: sw Jarom 1
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jarom 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/jarom/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Nephites keep the law of Moses, look forward to the coming of Christ, and prosper in the land—Many prophets labor to keep the people in the way of truth. About 399–361 B.C.
 
----
 ###### 1 
 Now behold, I, Jarom, write a few words according to the commandment of my father, Enos, that our genealogy may be kept.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 17
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 17
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/17?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel was scattered because she forgot God—Yet the nations that plunder her will be destroyed.
 
----
 ###### 1 
 The burden of Damascus. Behold, Damascus is taken away from  a city, and it shall be a ruinous heap.
 

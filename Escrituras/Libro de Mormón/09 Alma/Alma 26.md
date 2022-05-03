@@ -1,22 +1,21 @@
 ---
 title: Alma 26
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 26
 [[Alma 25| <-- Alma 25]] | [[Alma]] | [[Alma 27|Alma 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ammón se gloría en el Señor — El Señor fortalece a los fieles y les da conocimiento — Por medio de la fe, los hombres pueden llevar a miles de almas al arrepentimiento — Dios tiene todo poder y comprende todas las cosas. Aproximadamente 90–77 a.C.
 
----
 ###### 1 
 Y estas son las palabras de Ammón a sus hermanos, las cuales dicen así: Mis hermanos, y hermanos míos en la fe, he aquí, os digo, cuán gran motivo tenemos para regocijarnos, porque, ¿pudimos habernos imaginado, cuando salimos de la tierra de Zarahemla, que Dios nos concedería tan grandes bendiciones?
 

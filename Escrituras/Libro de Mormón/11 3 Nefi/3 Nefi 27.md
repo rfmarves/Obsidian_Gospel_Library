@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 27
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 27
 [[3 Nefi 26| <-- 3 Nefi 26]] | [[3 Nefi]] | [[3 Nefi 28|3 Nefi 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús les manda que den el nombre de Él a la Iglesia — Su misión y su sacrificio expiatorio constituyen Su Evangelio — Se manda a los hombres que se arrepientan y sean bautizados para que sean santificados por el Espíritu Santo — Ellos han de ser aun como Jesús. Aproximadamente 34–35 d.C.
 
----
 ###### 1 
 Y sucedió que mientras los discípulos de Jesús andaban viajando y predicando las cosas que habían oído y visto, y bautizando en el nombre de Jesús, sucedió que se hallaban congregados los discípulos y unidos en poderosa oración y ayuno.
 

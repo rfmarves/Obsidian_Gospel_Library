@@ -1,25 +1,24 @@
 ---
 title: Moisés 6
-tags: #Escrituras\PdGV
+tags: Escrituras\PdGV
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moisés 6
 [[Moisés 5| <-- Moisés 5]] | [[Moisés]] | [[Moisés 7|Moisés 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=por)
 
 Moisés
 (Novembro a dezembro de 1830)
 
----
-__Resumo__
+> __Resumo__
 A semente de Adão escreve um livro de recordações — Sua posteridade justa prega o arrependimento — Deus revela-Se a Enoque — Enoque prega o evangelho — O plano de salvação foi revelado a Adão — Ele recebeu o batismo e o sacerdócio.
 
----
 ###### 1 
 E Adão deu ouvidos à voz de Deus e exortou seus filhos a se arrependerem.
 

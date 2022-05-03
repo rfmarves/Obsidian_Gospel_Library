@@ -1,22 +1,21 @@
 ---
 title: Jeremías 49
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 49
 [[Jeremías 48| <-- Jeremías 48]] | [[Jeremías]] | [[Jeremías 50|Jeremías 50 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/49?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/49?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Juicio y destrucción vendrán sobre los pueblos de Amón, de Edom, de Cedar, de Hazor y de Elam.
 
----
 ###### 1 
 Acerca de los hijos de Amón. Así ha dicho Jehová: ¿No tiene hijos Israel? ¿No tiene heredero? ¿Por qué Milcom ha tomado como heredad a Gad, y su pueblo habita en sus ciudades?
 

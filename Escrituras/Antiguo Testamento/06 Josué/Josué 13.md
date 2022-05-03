@@ -1,22 +1,21 @@
 ---
 title: Josué 13
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 13
 [[Josué 12| <-- Josué 12]] | [[Josué]] | [[Josué 14|Josué 14 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/13?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/13?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Todavía quedan tierras no conquistadas — Algunos habitantes no han sido expulsados — Se confirman las heredades de Rubén, de Gad y de la mitad de la tribu de Manasés.
 
----
 ###### 1 
 Y era Josué ya viejo, entrado en años, cuando Jehová le dijo: Tú eres ya viejo, de edad avanzada, y queda aún mucha tierra por conquistar.
 

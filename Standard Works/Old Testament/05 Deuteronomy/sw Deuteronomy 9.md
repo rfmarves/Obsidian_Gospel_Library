@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Other nations are driven out of Canaan because of their wickedness—Moses rehearses the rebellions of Israel and tells how he mediated between the people and the Lord—On two occasions he went without food and water for forty days.
 
----
 ###### 1 
 Hear, O Israel: Thou  to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,
 

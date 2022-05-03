@@ -1,22 +1,21 @@
 ---
 title: Hebreos 4
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreos 4
 [[Hebreos 3| <-- Hebreos 3]] | [[Hebreos]] | [[Hebreos 5|Hebreos 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se ofreció el Evangelio al antiguo Israel — Los santos entran en el reposo del Señor — Aunque tentado en todo aspecto, Jesús no tuvo pecado.
 
----
 ###### 1 
 Temamos, pues, no sea que estando vigente aún la promesa de entrar en su reposo, alguno de vosotros parezca no haberlo alcanzado.
 

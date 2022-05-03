@@ -1,22 +1,21 @@
 ---
 title: Génesis 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 3
 [[Génesis 2| <-- Génesis 2]] | [[Génesis]] | [[Génesis 4|Génesis 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La serpiente (Lucifer) engaña a Eva — Ella y después Adán participan del fruto prohibido — Su Simiente (Cristo) herirá la cabeza de la serpiente — Se explica el papel de la mujer y el del hombre — Adán y Eva son echados del Jardín de Edén — Adán preside — Eva llega a ser la madre de todos los vivientes.
 
----
 ###### 1 
 Ahora bien, la serpiente era astuta, más que todos los animales del campo que Jehová Dios había hecho, la cual dijo a la mujer: ¿Conque Dios os ha dicho: No comáis de ningún árbol del huerto?
 

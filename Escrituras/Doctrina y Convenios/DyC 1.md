@@ -1,22 +1,21 @@
 ---
 title: DyC 1
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 1
 | [[DyC]] | [[DyC 2|DyC 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–7, La voz de amonestación se dirige a todo pueblo; 8–16, La apostasía y la maldad preceden a la Segunda Venida; 17–23, José Smith es llamado para restaurar en la tierra las verdades y los poderes del Señor; 24–33, Sale a luz el Libro de Mormón y se establece la Iglesia verdadera; 34–36, La paz será quitada de la tierra; 37–39, Escudriñad estos mandamientos.
 
----
 ###### 1 
 Escuchad, oh pueblo de mi iglesia, dice la voz de aquel que mora en las alturas, y cuyos ojos están sobre todos los hombres; sí, de cierto digo: Escuchad, pueblos lejanos; y vosotros los que estáis sobre las islas del mar, oíd juntamente.
 

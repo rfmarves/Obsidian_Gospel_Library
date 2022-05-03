@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 16
 [[Ezequiel 15| <-- Ezequiel 15]] | [[Ezequiel]] | [[Ezequiel 17|Ezequiel 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jerusalém se tornou uma prostituta, deleitando-se em seus ídolos e adorando falsos deuses — Ela partilhou de todos os pecados do Egito e das nações a seu redor, e foi rejeitada — No entanto, nos últimos dias o Senhor estabelecerá novamente Seu convênio com ela.
 
----
 ###### 1 
 E veio a mim a palavra do , dizendo:
 

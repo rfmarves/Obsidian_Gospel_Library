@@ -1,22 +1,21 @@
 ---
 title: Salmos 91
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 91
 [[Salmos 90| <-- Salmos 90]] | [[Salmos]] | [[Salmos 92|Salmos 92 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/91?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/91?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Salmo messiânico — O Senhor libertará o Messias do terror, da peste e da guerra — O Senhor dará ordem aos Seus anjos de protegerem o Messias e O libertará e honrará.
 
----
 ###### 1 
 Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.
 

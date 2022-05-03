@@ -1,22 +1,21 @@
 ---
 title: Jeremías 40
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 40
 [[Jeremías 39| <-- Jeremías 39]] | [[Jeremías]] | [[Jeremías 41|Jeremías 41 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/40?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/40?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El rey de Babilonia nombra a Gedalías gobernador del remanente que había quedado en Judá — Jeremías es liberado y mora entre ellos.
 
----
 ###### 1 
 La palabra que vino a Jeremías de parte de Jehová, después que Nabuzaradán, capitán de la guardia, le envió desde Ramá, cuando le tomó estando atado con cadenas entre todos los cautivos de Jerusalén y de Judá que eran llevados cautivos a Babilonia.
 

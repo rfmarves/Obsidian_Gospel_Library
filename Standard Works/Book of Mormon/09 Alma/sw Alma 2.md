@@ -1,10 +1,11 @@
 ---
 title: sw Alma 2
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Amlici seeks to be king and is rejected by the voice of the people—His followers make him king—The Amlicites make war on the Nephites and are defeated—The Lamanites and Amlicites join forces and are defeated—Alma slays Amlici. About 87 B.C.
 
----
 ###### 1 
 And it came to pass in the commencement of the fifth year of their reign there began to be a contention among the people; for a certain man, being called Amlici, he being a very cunning man, yea, a wise man as to the wisdom of the world, he being after the order of the man that slew Gideon by the sword, who was executed according to the law—
 

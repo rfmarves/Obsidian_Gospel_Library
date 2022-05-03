@@ -1,10 +1,11 @@
 ---
 title: sw 1 Peter 3
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Peter 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Husbands and wives should honor each other—Saints should live by gospel standards—Christ preached to the spirits in prison.
 
----
 ###### 1 
 Likewise, ye wives,  in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
 

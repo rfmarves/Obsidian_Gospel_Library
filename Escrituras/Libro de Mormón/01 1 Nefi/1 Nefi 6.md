@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 6
 [[1 Nefi 5| <-- 1 Nefi 5]] | [[1 Nefi]] | [[1 Nefi 7|1 Nefi 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Nefi escribe acerca de las cosas de Dios — El propósito de Nefi es persuadir a los hombres a venir al Dios de Abraham y ser salvos. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 Ahora bien, yo, Nefi, no doy la genealogía de mis padres en esta parte de mis anales; ni tampoco la daré en ningún otro momento sobre estas planchas que estoy escribiendo, porque se halla en los anales que mi padre ha llevado, y por eso no la escribo en esta obra.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Titus 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Titus 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/titus/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Saints should live righteously, deny ungodliness, and seek the Lord.
 
----
 ###### 1 
 But speak thou the things which become sound doctrine:
 

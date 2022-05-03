@@ -1,10 +1,11 @@
 ---
 title: sw Song of Solomon 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Song of Solomon 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The song of love continues.
 
----
 ###### 1 
 Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee.
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 17
 [[2 Reyes 16| <-- 2 Reyes 16]] | [[2 Reyes]] | [[2 Reyes 18|2 Reyes 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Oseas reina en Israel y es sometido por los asirios — Los israelitas se apartan de Jehová, adoran ídolos, sirven a Baal y desprecian todo lo que Jehová les ha dado — Las diez tribus son llevadas cautivas por los reyes de Asiria — La tierra de Israel (Samaria) es repoblada por otros pueblos — Surgen entre los samaritanos muchas formas de adoración falsa.
 
----
 ###### 1 
 En el año duodécimo de Acaz, rey de Judá, comenzó a reinar Oseas hijo de Ela en Samaria sobre Israel,  nueve años.
 

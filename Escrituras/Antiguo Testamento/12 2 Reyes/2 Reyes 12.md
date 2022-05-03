@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 12
 [[2 Reyes 11| <-- 2 Reyes 11]] | [[2 Reyes]] | [[2 Reyes 13|2 Reyes 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Joás reina con rectitud — Se reparan los daños del templo — Se compra la protección de Jerusalén con las cosas sagradas del templo — Matan a Joás y Amasías reina en su lugar.
 
----
 ###### 1 
 En el séptimo año de Jehú comenzó a reinar Joás, y reinó cuarenta años en Jerusalén. El nombre de su madre era Sibia, de Beerseba.
 

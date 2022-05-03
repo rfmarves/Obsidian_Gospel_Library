@@ -1,22 +1,21 @@
 ---
 title: Nehemías 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Nehemías 2
 [[Nehemías 1| <-- Nehemías 1]] | [[Nehemías]] | [[Nehemías 3|Nehemías 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/neh/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Artajerjes envía a Nehemías a Jerusalén — Sanbalat y otros se oponen a que Nehemías reconstruya los muros y las puertas de Jerusalén.
 
----
 ###### 1 
 Y sucedió que en el mes de Nisán, en el año veinte del rey Artajerjes, estando ya el vino delante de él, tomé el vino y lo serví al rey. Y como yo no había estado  triste en su presencia,
 

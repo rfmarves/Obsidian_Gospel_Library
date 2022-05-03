@@ -1,25 +1,24 @@
 ---
 title: Abraham 1
-tags: #Escrituras\PdGP
+tags: Escrituras\PdGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Abraham 1
 [[Moisés 8| <-- Moisés 8]] | [[Abraham]] | [[Abraham 2|Abraham 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/pgp/abr/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/pgp/abr/1?lang=spa)
 
 Abraham
 Traducido del papiro por José Smith
 
----
-__Resumen__
+> __Resumen__
 Abraham busca las bendiciones del orden patriarcal — Es perseguido, en Caldea, por sacerdotes falsos — Jehová lo salva — Se hace una reseña de los orígenes de Egipto y del gobierno de este.
 
----
 ###### 1 
 En la tierra de los caldeos, en la morada de mi padre, yo, Abraham, vi que me era necesario buscar otro lugar donde morar;
 

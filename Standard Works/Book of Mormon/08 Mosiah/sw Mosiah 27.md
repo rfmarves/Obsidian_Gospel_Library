@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 27
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 Mosiah forbids persecution and enjoins equality—Alma the younger and the four sons of Mosiah seek to destroy the Church—An angel appears and commands them to cease their evil course—Alma is struck dumb—All mankind must be born again to gain salvation—Alma and the sons of Mosiah declare glad tidings. About 100–92 B.C.
 
----
 ###### 1 
 And now it came to pass that the persecutions which were inflicted on the church by the unbelievers became so great that the church began to murmur, and complain to their leaders concerning the matter; and they did complain to Alma. And Alma laid the case before their king, Mosiah. And Mosiah consulted with his priests.
 

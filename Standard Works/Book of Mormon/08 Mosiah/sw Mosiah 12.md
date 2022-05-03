@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 12
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abinadi is imprisoned for prophesying the destruction of the people and the death of King Noah—The false priests quote the scriptures and pretend to keep the law of Moses—Abinadi begins to teach them the Ten Commandments. About 148 B.C.
 
----
 ###### 1 
 And it came to pass that after the space of two years that Abinadi came among them in disguise, that they knew him not, and began to prophesy among them, saying: Thus has the Lord commanded me, saying—Abinadi, go and prophesy unto this my people, for they have hardened their hearts against my words; they have repented not of their evil doings; therefore, I will visit them in my anger, yea, in my fierce anger will I visit them in their iniquities and abominations.
 

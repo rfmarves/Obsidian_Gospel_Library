@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 7
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 7
 [[1 Crônicas 6| <-- 1 Crônicas 6]] | [[1 Crônicas]] | [[1 Crônicas 8|1 Crônicas 8 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/7?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/7?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os filhos e as famílias de Issacar, de Benjamim, de Naftali, de Manassés, de Efraim e de Aser são citados pelo nome.
 
----
 ###### 1 
 E quanto aos filhos de Issacar,  Tola, e Puá, Jasube, e Sinrom, quatro.
 

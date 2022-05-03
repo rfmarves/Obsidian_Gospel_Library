@@ -1,10 +1,11 @@
 ---
 title: sw Esther 7
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Esther 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Esther reveals Haman’s plot to destroy the Jews—He is hanged on his own gallows.
 
----
 ###### 1 
 So the king and Haman came to banquet with Esther the queen.
 

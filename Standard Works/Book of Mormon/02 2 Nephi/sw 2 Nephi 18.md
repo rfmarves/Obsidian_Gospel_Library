@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 18
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ will be as a stone of stumbling and a rock of offense—Seek the Lord, not peeping wizards—Turn to the law and to the testimony for guidance—Compare Isaiah 8. About 559–545 B.C.
 
----
 ###### 1 
 Moreover, the word of the Lord said unto me: Take thee a great roll, and write in it with a man’s pen, concerning Maher-shalal-hash-baz.
 

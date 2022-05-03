@@ -1,22 +1,21 @@
 ---
 title: Salmos 33
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 33
 [[Salmos 32| <-- Salmos 32]] | [[Salmos]] | [[Salmos 34|Salmos 34 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/33?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/33?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Regozijai-vos no Senhor — Cantai-Lhe um cântico novo — Ele ama a justiça e o juízo — Bem-aventurada é a nação cujo Deus é o Senhor.
 
----
 ###### 1 
 Regozijai-vos no , vós, justos,  aos retos convém o louvor.
 

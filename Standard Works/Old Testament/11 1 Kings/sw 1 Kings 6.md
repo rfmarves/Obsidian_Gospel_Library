@@ -1,10 +1,11 @@
 ---
 title: sw 1 Kings 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Kings 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Solomon builds the temple—The Lord promises to dwell among the Israelites if they are obedient—The ornaments of the temple are described.
 
----
 ###### 1 
 And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Zif, which  the second month, that he began to build the house of the .
 

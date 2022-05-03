@@ -1,22 +1,21 @@
 ---
 title: Gênesis 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 13
 [[Gênesis 12| <-- Gênesis 12]] | [[Gênesis]] | [[Gênesis 14|Gênesis 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Abrão volta do Egito — Ele e Ló se separam — O Senhor fará com que a semente de Abrão seja tão numerosa quanto o pó da terra — Abrão se estabelece em Hebrom.
 
----
 ###### 1 
 Subiu, pois, Abrão do Egito para o sul, ele e sua mulher, e tudo o que tinha, e com ele Ló.
 

@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 26
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 26
 [[3 Nefi 25| <-- 3 Nefi 25]] | [[3 Nefi]] | [[3 Nefi 27|3 Nefi 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jesús explica todas las cosas desde el principio hasta el fin — Los niños, aun los más pequeñitos, hablan cosas maravillosas que no se pueden escribir — Los de la Iglesia de Cristo tienen todas las cosas en común. Aproximadamente 34 d.C.
 
----
 ###### 1 
 Y acaeció que cuando Jesús hubo declarado estas cosas, las explicó a la multitud; y les explicó todas las cosas, grandes así como pequeñas.
 

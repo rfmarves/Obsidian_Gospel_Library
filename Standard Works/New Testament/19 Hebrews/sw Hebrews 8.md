@@ -1,10 +1,11 @@
 ---
 title: sw Hebrews 8
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hebrews 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Christ offered Himself as a sacrifice for sin—God promised to make a new covenant with Israel.
 
----
 ###### 1 
 Now of the things which we have spoken  the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;
 

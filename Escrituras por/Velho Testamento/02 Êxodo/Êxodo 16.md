@@ -1,22 +1,21 @@
 ---
 title: Êxodo 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 16
 [[Êxodo 15| <-- Êxodo 15]] | [[Êxodo]] | [[Êxodo 17|Êxodo 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel murmura por falta de pão e cobiça as panelas de carne do Egito — O Senhor faz chover pão dos céus e envia codornizes para lhes fornecer carne — Israel recebe maná todos os dias, exceto no Sábado, por quarenta anos.
 
----
 ###### 1 
 E partindo de Elim, toda a congregação dos filhos de Israel chegou ao deserto de Sim, que  entre Elim e Sinai, aos quinze dias do mês segundo, depois que saíram da terra do Egito.
 

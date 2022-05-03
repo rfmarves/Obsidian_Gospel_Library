@@ -1,22 +1,21 @@
 ---
 title: Daniel 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Daniel 7
 [[Daniel 6| <-- Daniel 6]] | [[Daniel]] | [[Daniel 8|Daniel 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/dan/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Daniel ve cuatro bestias que representan los reinos de los hombres — Ve al Anciano de Días (Adán) a quien vendrá el Hijo del Hombre (Cristo) — El reino será dado a los santos para siempre.
 
----
 ###### 1 
 En el primer año de Belsasar, rey de Babilonia, tuvo Daniel un sueño y visiones de su cabeza estando en su cama; luego escribió el sueño y relató lo principal del asunto.
 

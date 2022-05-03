@@ -1,22 +1,21 @@
 ---
 title: Levíticos 20
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 20
 [[Levíticos 19| <-- Levíticos 19]] | [[Levíticos]] | [[Levíticos 21|Levíticos 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se prescribe la pena de muerte por sacrificar hijos a Moloc, por maldecir a padre o a madre, por cometer adulterio, por conducta homosexual, por bestialismo, por espiritismo y por otras abominaciones — Se establecen diversas leyes y ordenanzas.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

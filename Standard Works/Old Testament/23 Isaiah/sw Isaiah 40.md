@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 40
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 40
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=eng)
 
----
-__Summary__
+> __Summary__
 Isaiah speaks about the Messiah—Prepare ye the way of the Lord—He will feed His flock like a shepherd—Israel’s God is incomparably great.
 
----
 ###### 1 
 Comfort ye, comfort ye my people, saith your God.
 

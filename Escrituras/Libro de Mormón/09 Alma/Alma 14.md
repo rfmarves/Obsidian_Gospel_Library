@@ -1,22 +1,21 @@
 ---
 title: Alma 14
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 14
 [[Alma 13| <-- Alma 13]] | [[Alma]] | [[Alma 15|Alma 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Alma y Amulek son encarcelados y golpeados — Los creyentes y sus Santas Escrituras son echados al fuego — El Señor recibe a estos mártires en gloria — Los muros de la cárcel se parten y caen — Alma y Amulek son liberados, y sus perseguidores son muertos. Aproximadamente 82–81 a.C.
 
----
 ###### 1 
 Y sucedió que después que Alma concluyó de hablar a los del pueblo, muchos de ellos creyeron en sus palabras, y empezaron a arrepentirse y a escudriñar las Escrituras.
 

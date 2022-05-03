@@ -1,10 +1,11 @@
 ---
 title: sw Ruth 2
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ruth 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ruth/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ruth gleans in the fields of Boaz, a near relative of Naomi—He treats Ruth kindly.
 
----
 ###### 1 
 And Naomi had a kinsman of her husband’s, a mighty man of wealth, of the family of Elimelech; and his name  Boaz.
 

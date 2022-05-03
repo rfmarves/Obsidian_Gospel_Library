@@ -1,22 +1,21 @@
 ---
 title: Jeremías 42
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 42
 [[Jeremías 41| <-- Jeremías 41]] | [[Jeremías]] | [[Jeremías 43|Jeremías 43 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/42?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/42?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías promete a Johanán y al remanente de Judá paz y seguridad si se quedan en Judá, pero la espada, el hambre y la pestilencia si se van a Egipto.
 
----
 ###### 1 
 Y se acercaron todos los jefes de la gente de guerra, y Johanán hijo de Carea, y Jezanías hijo de Osaías y todo el pueblo desde el menor hasta el mayor,
 

@@ -1,22 +1,21 @@
 ---
 title: Mosíah 7
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mosíah 7
 [[Mosíah 6| <-- Mosíah 6]] | [[Mosíah]] | [[Mosíah 8|Mosíah 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ammón descubre la tierra de Lehi-Nefi, donde reina Limhi — El pueblo de Limhi se halla bajo el yugo de los lamanitas — Limhi relata la historia de ellos — Un profeta (Abinadí) había testificado que Cristo es el Dios y el Padre de todas las cosas — Aquellos que siembren inmundicia segarán el torbellino, y aquellos que depositen su confianza en el Señor serán librados. Aproximadamente 121 a.C.
 
----
 ###### 1 
 Y ahora bien, aconteció que después que hubo tenido paz continua por el término de tres años, el rey Mosíah tuvo deseos de saber de la gente que fue a morar a la tierra de Lehi-Nefi, o sea, a la ciudad de Lehi-Nefi; porque su pueblo nada había sabido de ellos desde la ocasión en que salieron de la tierra de Zarahemla; de modo que lo importunaban con su insistencia.
 

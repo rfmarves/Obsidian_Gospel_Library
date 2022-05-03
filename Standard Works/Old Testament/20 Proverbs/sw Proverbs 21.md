@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 Do righteousness and justice—Follow after righteousness and mercy—Safety comes from the Lord.
 
----
 ###### 1 
 The king’s heart  in the hand of the ,  the rivers of water: he turneth it whithersoever he will.
 

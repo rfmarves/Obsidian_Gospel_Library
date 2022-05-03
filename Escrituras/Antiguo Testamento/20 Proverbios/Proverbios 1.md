@@ -1,22 +1,21 @@
 ---
 title: Proverbios 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 1
 [[Salmos 150| <-- Salmos 150]] | [[Proverbios]] | [[Proverbios 2|Proverbios 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El principio de la sabiduría es el temor de Jehová — Si los pecadores te quieren tentar, no consientas — Los que escuchan la voz de la sabiduría habitarán con seguridad.
 
----
 ###### 1 
 Los proverbios de Salomón hijo de David, rey de Israel:
 

@@ -1,22 +1,21 @@
 ---
 title: Josué 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 23
 [[Josué 22| <-- Josué 22]] | [[Josué]] | [[Josué 24|Josué 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/josh/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Josué exorta Israel a ter coragem, a guardar os mandamentos, a amar o Senhor e a não se casar com os remanescentes dos cananeus que permanecem na terra, nem se apegar a eles — Quando os filhos de Israel servirem outros deuses, serão amaldiçoados e desapossados.
 
----
 ###### 1 
 E sucedeu  muitos dias depois que o  dera repouso a Israel de todos os seus inimigos em redor, e Josué  sendo velho  avançado em dias,
 

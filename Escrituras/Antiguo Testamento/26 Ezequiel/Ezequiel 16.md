@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 16
 [[Ezequiel 15| <-- Ezequiel 15]] | [[Ezequiel]] | [[Ezequiel 17|Ezequiel 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jerusalén se ha convertido en una ramera, deleitándose en sus ídolos y adorando dioses falsos — Ha participado de todos los pecados de Egipto y de los de las naciones colindantes y es desechada — No obstante, en los últimos días, Jehová volverá a establecer Su convenio con ella.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

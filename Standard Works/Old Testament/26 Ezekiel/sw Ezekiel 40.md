@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 40
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 40
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/40?lang=eng)
 
----
-__Summary__
+> __Summary__
 A heavenly messenger shows Ezekiel in vision a city where the temple is located—Ezekiel is shown the form and size of the temple and its courts.
 
----
 ###### 1 
 In the five and twentieth year of our captivity, in the beginning of the year, in the tenth  of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the  was upon me, and brought me thither.
 

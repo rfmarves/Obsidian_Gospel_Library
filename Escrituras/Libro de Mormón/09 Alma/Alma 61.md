@@ -1,22 +1,21 @@
 ---
 title: Alma 61
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 61
 [[Alma 60| <-- Alma 60]] | [[Alma]] | [[Alma 62|Alma 62 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/61?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/61?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Pahorán informa a Moroni de la insurrección y rebelión contra el gobierno — Los realistas se apoderan de Zarahemla y conciertan una alianza con los lamanitas — Pahorán solicita ayuda militar contra los rebeldes. Aproximadamente 62 a.C.
 
----
 ###### 1 
 Y he aquí, aconteció que poco después que hubo enviado su epístola al gobernador del país, Moroni recibió una epístola de Pahorán, el gobernador. Y estas son las palabras que recibió:
 

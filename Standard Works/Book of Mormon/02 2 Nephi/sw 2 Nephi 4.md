@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 4
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Lehi counsels and blesses his posterity—He dies and is buried—Nephi glories in the goodness of God—Nephi puts his trust in the Lord forever. About 588–570 B.C.
 
----
 ###### 1 
 And now, I, Nephi, speak concerning the prophecies of which my father hath spoken, concerning Joseph, who was carried into Egypt.
 

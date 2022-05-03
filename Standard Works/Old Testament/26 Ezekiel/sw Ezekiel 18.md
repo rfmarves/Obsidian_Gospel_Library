@@ -1,10 +1,11 @@
 ---
 title: sw Ezekiel 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ezekiel 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Men will be punished for their own sins—Sinners will die, and the righteous will surely live—A righteous man who sins will be damned, and a sinner who repents will be saved.
 
----
 ###### 1 
 The word of the  came unto me again, saying,
 

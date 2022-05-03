@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Amnon desires Tamar, his sister, and forces her—He is slain by Absalom’s command—Absalom flees to Geshur.
 
----
 ###### 1 
 And it came to pass after this, that Absalom the son of David had a fair sister, whose name  Tamar; and Amnon the son of David loved her.
 

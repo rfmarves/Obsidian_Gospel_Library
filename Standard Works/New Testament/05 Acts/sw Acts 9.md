@@ -1,10 +1,11 @@
 ---
 title: sw Acts 9
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus appears to Saul—Saul is a chosen vessel—Ananias restores Saul’s sight—Saul is baptized and begins his ministry—Peter heals Æneas and raises Dorcas from death.
 
----
 ###### 1 
 And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,
 

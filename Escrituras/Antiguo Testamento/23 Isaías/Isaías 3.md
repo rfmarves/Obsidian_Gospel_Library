@@ -1,22 +1,21 @@
 ---
 title: Isaías 3
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 3
 [[Isaías 2| <-- Isaías 2]] | [[Isaías]] | [[Isaías 4|Isaías 4 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Judá y Jerusalén serán castigadas por su desobediencia — Jehová litiga con Su pueblo y lo juzga — Las hijas de Sion son maldecidas y atormentadas por sus costumbres mundanas — Compárese con 2 Nefi 13.
 
----
 ###### 1 
 Porque he aquí, Jehová, el Señor de los ejércitos quita de Jerusalén y de Judá el sustento y el socorro, todo sustento de pan y todo socorro de agua;
 

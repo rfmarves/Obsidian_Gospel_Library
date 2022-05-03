@@ -1,22 +1,21 @@
 ---
 title: Levíticos 16
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Levíticos 16
 [[Levíticos 15| <-- Levíticos 15]] | [[Levíticos]] | [[Levíticos 17|Levíticos 17 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/16?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/lev/16?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se explica cómo y cuándo debe Aarón entrar en el lugar santo — Los sacrificios se ofrecen para reconciliar a Israel con Dios — El macho cabrío llevará sobre sí los pecados del pueblo — Se perdonan los pecados de todo Israel en el Día de la Expiación.
 
----
 ###### 1 
 Y habló Jehová a Moisés, después de la muerte de los dos hijos de Aarón, cuando estos se acercaron delante de Jehová y murieron.
 

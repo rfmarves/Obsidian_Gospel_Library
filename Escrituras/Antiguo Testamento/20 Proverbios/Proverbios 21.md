@@ -1,22 +1,21 @@
 ---
 title: Proverbios 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 21
 [[Proverbios 20| <-- Proverbios 20]] | [[Proverbios]] | [[Proverbios 22|Proverbios 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Haz justicia y juicio — Sigue la justicia y la misericordia — La salvación viene de Jehová.
 
----
 ###### 1 
 
 

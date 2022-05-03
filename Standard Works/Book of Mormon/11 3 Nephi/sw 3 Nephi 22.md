@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 22
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 In the last days, Zion and her stakes will be established, and Israel will be gathered in mercy and tenderness—They will triumph—Compare Isaiah 54. About A.D. 34.
 
----
 ###### 1 
 And then shall that which is written come to pass: Sing, O barren, thou that didst not bear; break forth into singing, and cry aloud, thou that didst not travail with child; for more are the children of the desolate than the children of the married wife, saith the Lord.
 

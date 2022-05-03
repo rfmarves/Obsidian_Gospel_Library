@@ -1,10 +1,11 @@
 ---
 title: sw D&C 42
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 42
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–10, The elders are called to preach the gospel, baptize converts, and build up the Church; 11–12, They must be called and ordained and are to teach the principles of the gospel found in the scriptures; 13–17, They are to teach and prophesy by the power of the Spirit; 18–29, The Saints are commanded not to kill, steal, lie, lust, commit adultery, or speak evil against others; 30–39, Laws governing the consecration of properties are set forth; 40–42, Pride and idleness are condemned; 43–52, The sick are to be healed through administrations and by faith; 53–60, The scriptures govern the Church and are to be proclaimed to the world; 61–69, The site of the New Jerusalem and the mysteries of the kingdom will be revealed; 70–73, Consecrated properties are to be used to support Church officers; 74–93, Laws governing fornication, adultery, killing, stealing, and confession of sins are set forth.
 
----
 ###### 1 
 Hearken, O ye elders of my church, who have assembled yourselves together in my name, even Jesus Christ the Son of the living God, the Savior of the world; inasmuch as ye believe on my name and keep my commandments.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 26
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 26
 [[1 Samuel 25| <-- 1 Samuel 25]] | [[1 Samuel]] | [[1 Samuel 27|1 Samuel 27 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/26?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/26?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David perdona otra vez la vida de Saúl — De nuevo rehúsa extender su mano en contra del ungido de Jehová — Saúl y David se separan.
 
----
 ###### 1 
 Y vinieron los zifeos a Saúl, en Gabaa, diciendo: ¿No está David escondido en el collado de Haquila, delante de Jesimón?
 

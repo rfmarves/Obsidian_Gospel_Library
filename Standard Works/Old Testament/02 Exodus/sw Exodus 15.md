@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 15
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 The children of Israel sing the song of Moses—They extol the Lord as a man of war and rejoice in their deliverance from Egypt—The waters of Marah are healed—The Lord promises to free Israel from the diseases of Egypt.
 
----
 ###### 1 
 Then sang Moses and the children of Israel this song unto the , and spake, saying, I will sing unto the , for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.
 

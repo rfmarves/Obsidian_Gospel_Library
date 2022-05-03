@@ -1,10 +1,11 @@
 ---
 title: sw Revelation 19
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Revelation 19
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/19?lang=eng)
 
----
-__Summary__
+> __Summary__
 The marriage supper of the Lamb is made ready—The testimony of Jesus is the spirit of prophecy—Christ is King of Kings and Lord of Lords.
 
----
 ###### 1 
 And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:
 

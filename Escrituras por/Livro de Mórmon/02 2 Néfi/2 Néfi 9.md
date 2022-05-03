@@ -1,22 +1,21 @@
 ---
 title: 2 Néfi 9
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Néfi 9
 [[2 Néfi 8| <-- 2 Néfi 8]] | [[2 Néfi]] | [[2 Néfi 10|2 Néfi 10 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó explica que os judeus serão coligados em todas as suas terras de promissão — A expiação resgata o homem da queda — Os corpos dos mortos sairão da sepultura e seus espíritos, do inferno e do paraíso — Eles serão julgados — A expiação salva da morte, do inferno, do diabo e do tormento eterno — Os justos serão salvos no reino de Deus — Declaradas as penalidades para os pecados — O Santo de Israel é o guardião da porta. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 E agora, meus amados irmãos, eu vos li estas coisas para que tenhais conhecimento dos convênios que o Senhor fez com toda a casa de Israel —
 

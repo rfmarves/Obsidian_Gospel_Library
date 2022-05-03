@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 15
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 15
 [[2 Samuel 14| <-- 2 Samuel 14]] | [[2 Samuel]] | [[2 Samuel 16|2 Samuel 16 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/15?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/15?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Absalão conspira contra Davi e consegue o apoio do povo — Davi foge, e Absalão entra em Jerusalém.
 
----
 ###### 1 
 E aconteceu depois disso que Absalão fez  carros e cavalos, e cinquenta homens que corressem adiante dele.
 

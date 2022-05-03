@@ -1,10 +1,11 @@
 ---
 title: sw Ether 11
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ether 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 Wars, dissensions, and wickedness dominate Jaredite life—Prophets predict the utter destruction of the Jaredites unless they repent—The people reject the words of the prophets.
 
----
 ###### 1 
 And there came also in the days of Com many prophets, and prophesied of the destruction of that great people except they should repent, and turn unto the Lord, and forsake their murders and wickedness.
 

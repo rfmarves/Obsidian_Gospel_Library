@@ -1,22 +1,21 @@
 ---
 title: Salmos 117
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 117
 [[Salmos 116| <-- Salmos 116]] | [[Salmos]] | [[Salmos 118|Salmos 118 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/117?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/117?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Louvai ao Senhor por Sua misericórdia e verdade.
 
----
 ###### 1 
 Louvai ao  todas as nações, louvai-o todos os povos.
 

@@ -1,22 +1,21 @@
 ---
 title: Números 6
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 6
 [[Números 5| <-- Números 5]] | [[Números]] | [[Números 7|Números 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Explica-se a lei do nazireado, pela qual os filhos de Israel podem consagrar-se ao Senhor por meio de um voto — Eles não bebem vinho nem bebida forte, e se vierem a contaminar-se devem rapar a cabeça — O Senhor revela a bênção que Aarão e seus filhos devem usar para abençoar Israel.
 
----
 ###### 1 
 E falou o  a Moisés, dizendo:
 

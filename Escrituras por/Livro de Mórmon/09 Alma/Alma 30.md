@@ -1,22 +1,21 @@
 ---
 title: Alma 30
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 30
 [[Alma 29| <-- Alma 29]] | [[Alma]] | [[Alma 31|Alma 31 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Corior, o anticristo, ridiculariza Cristo, a expiação e o espírito de profecia — Ele ensina que não existe Deus nem queda do homem nem penalidade para o pecado nem Cristo — Alma testifica que Cristo virá e que todas as coisas indicam que existe um Deus — Corior exige um sinal e fica mudo — O diabo havia aparecido a Corior como um anjo e ensinara-lhe o que dizer — Corior é pisado e morre. Aproximadamente 76–74 a.C.
 
----
 ###### 1 
 Eis então que aconteceu que após o povo de Amon se estabelecer na terra de Jérson, sim, e também depois que os lamanitas foram expulsos da terra e seus mortos enterrados pelo povo da terra —
 

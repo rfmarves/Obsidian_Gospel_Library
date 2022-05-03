@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 34
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 34
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/34?lang=eng)
 
----
+```
 A Psalm of David, when he changed his behaviour before Abimelech; who drove him away, and he departed.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David blesses the Lord at all times—He counsels, Keep your tongue from evil; do good and seek peace—He says that not one of the Messiah’s bones will be broken.
 
----
 ###### 1 
 I will bless the  at all times: his praise  continually  in my mouth.
 

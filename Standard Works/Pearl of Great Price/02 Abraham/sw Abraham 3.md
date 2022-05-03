@@ -1,10 +1,11 @@
 ---
 title: sw Abraham 3
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Abraham 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abraham learns about the sun, moon, and stars by means of the Urim and Thummim—The Lord reveals to him the eternal nature of spirits—He learns of pre-earth life, foreordination, the Creation, the choosing of a Redeemer, and the second estate of man.
 
----
 ###### 1 
 And I, Abraham, had the Urim and Thummim, which the Lord my God had given unto me, in Ur of the Chaldees;
 

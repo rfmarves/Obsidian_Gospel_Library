@@ -1,22 +1,21 @@
 ---
 title: DyC 37
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 37
 [[DyC 36| <-- DyC 36]] | [[DyC]] | [[DyC 38|DyC 38 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/37?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/37?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–4, Se convoca a los santos a congregarse en Ohio.
 
----
 ###### 1 
 He aquí, os digo que no es prudente que traduzcáis más hasta que os trasladéis a Ohio, y esto a causa del enemigo y para vuestro bienestar.
 

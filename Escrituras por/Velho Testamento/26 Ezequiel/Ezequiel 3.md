@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 3
 [[Ezequiel 2| <-- Ezequiel 2]] | [[Ezequiel]] | [[Ezequiel 4|Ezequiel 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ezequiel é nomeado atalaia da casa de Israel — O sangue de Israel será requerido de sua mão, a menos que ele erga a voz de advertência.
 
----
 ###### 1 
 Depois me disse: Filho do homem, come o que achares; come este rolo, e vai, fala à casa de Israel.
 

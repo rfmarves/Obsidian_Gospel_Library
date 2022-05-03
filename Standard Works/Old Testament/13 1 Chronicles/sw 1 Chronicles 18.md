@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 David subdues all the adversaries of Israel and reigns in justice over the people.
 
----
 ###### 1 
 Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines.
 

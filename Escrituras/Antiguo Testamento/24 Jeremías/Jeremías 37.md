@@ -1,22 +1,21 @@
 ---
 title: Jeremías 37
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 37
 [[Jeremías 36| <-- Jeremías 36]] | [[Jeremías]] | [[Jeremías 38|Jeremías 38 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/37?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/37?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jeremías profetiza que Egipto no salvará a Judá de Babilonia — Echan a Jeremías a la cárcel — Sedequías lo traslada al patio de la cárcel.
 
----
 ###### 1 
 Y reinó el rey Sedequías hijo de Josías en lugar de Conías hijo de Joacim, a quien Nabucodonosor, rey de Babilonia, había puesto como rey en la tierra de Judá.
 

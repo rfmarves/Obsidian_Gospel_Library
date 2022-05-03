@@ -1,10 +1,11 @@
 ---
 title: sw Acts 7
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Acts 7
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/7?lang=eng)
 
----
-__Summary__
+> __Summary__
 Stephen recounts the history of Israel and names Moses as a prototype of Christ—He testifies of the apostasy in Israel—He sees Jesus on the right hand of God—Stephen’s testimony is rejected, and he is stoned to death.
 
----
 ###### 1 
 Then said the high priest, Are these things so?
 

@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 32
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 32
 [[2 Crônicas 31| <-- 2 Crônicas 31]] | [[2 Crônicas]] | [[2 Crônicas 33|2 Crônicas 33 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/32?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/32?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Senaqueribe invade Judá e sitia as cidades — Ele afronta o Senhor — Isaías e Ezequias oram, e um anjo destrói os líderes dos exércitos assírios — Ezequias reina em retidão, apesar de ter certo orgulho no coração.
 
----
 ###### 1 
 Depois dessas coisas e dessa fidelidade, chegou Senaqueribe, rei da Assíria, e entrou em Judá, e acampou contra as cidades fortificadas, e intentou conquistá-las para si.
 

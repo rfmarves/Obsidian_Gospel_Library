@@ -1,22 +1,21 @@
 ---
 title: Josué 18
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Josué 18
 [[Josué 17| <-- Josué 17]] | [[Josué]] | [[Josué 19|Josué 19 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/18?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/josh/18?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se asienta el tabernáculo de reunión en Silo — Benjamín recibe heredad por sorteo.
 
----
 ###### 1 
 Y toda la congregación de los hijos de Israel se reunió en Silo, y asentaron allí el tabernáculo de reunión, después que hubieron sometido la tierra.
 

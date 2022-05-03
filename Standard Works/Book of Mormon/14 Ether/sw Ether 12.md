@@ -1,10 +1,11 @@
 ---
 title: sw Ether 12
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ether 12
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=eng)
 
----
-__Summary__
+> __Summary__
 The prophet Ether exhorts the people to believe in God—Moroni recounts the wonders and marvels done by faith—Faith enabled the brother of Jared to see Christ—The Lord gives men weakness that they may be humble—The brother of Jared moved Mount Zerin by faith—Faith, hope, and charity are essential to salvation—Moroni saw Jesus face to face.
 
----
 ###### 1 
 And it came to pass that the days of Ether were in the days of Coriantumr; and Coriantumr was king over all the land.
 

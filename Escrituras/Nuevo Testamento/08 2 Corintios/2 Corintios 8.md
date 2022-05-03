@@ -1,22 +1,21 @@
 ---
 title: 2 Corintios 8
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Corintios 8
 [[2 Corintios 7| <-- 2 Corintios 7]] | [[2 Corintios]] | [[2 Corintios 9|2 Corintios 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los verdaderos santos imparten de su sustento a los pobres — Cristo, de Su pobreza, trajo riquezas eternas.
 
----
 ###### 1 
 Asimismo, hermanos, os hacemos saber la gracia de Dios que se ha dado a las iglesias de Macedonia,
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Corintios 6
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Corintios 6
 [[1 Corintios 5| <-- 1 Corintios 5]] | [[1 Corintios]] | [[1 Corintios 7|1 Corintios 7 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/6?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/6?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los miembros de la Iglesia no deben litigar unos con otros ante los tribunales — Los injustos no serán salvos — Los verdaderos santos constituyen el templo del Espíritu Santo.
 
----
 ###### 1 
 ¿Se atreve alguno de vosotros, cuando tiene algo contra otro, ir a juicio delante de los injustos, y no delante de los santos?
 

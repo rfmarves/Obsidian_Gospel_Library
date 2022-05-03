@@ -1,10 +1,11 @@
 ---
 title: sw Galatians 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Galatians 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/gal/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Paul goes to Jerusalem—He contends for the true gospel—Salvation comes through Christ.
 
----
 ###### 1 
 Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with  also.
 

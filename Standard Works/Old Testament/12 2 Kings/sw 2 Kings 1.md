@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 1
@@ -15,11 +16,9 @@ people:
 2 Kings
 Commonly Called the Fourth Book of the Kings
 
----
-__Summary__
+> __Summary__
 Ahaziah turns to Baalzebub to learn if he will live—Elijah prophesies Ahaziah’s death—Elijah calls down fire from heaven to consume the soldiers sent to apprehend him.
 
----
 ###### 1 
 Then Moab rebelled against Israel after the death of Ahab.
 

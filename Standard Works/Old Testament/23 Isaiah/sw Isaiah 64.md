@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 64
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 64
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/64?lang=eng)
 
----
-__Summary__
+> __Summary__
 The people of the Lord pray for the Second Coming and for the salvation that will then be theirs.
 
----
 ###### 1 
 Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,
 

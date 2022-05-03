@@ -1,22 +1,21 @@
 ---
 title: Apocalipsis 20
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Apocalipsis 20
 [[Apocalipsis 19| <-- Apocalipsis 19]] | [[Apocalipsis]] | [[Apocalipsis 21|Apocalipsis 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rev/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Satanás es atado durante el Milenio — Entonces, los santos vivirán y reinarán con Cristo — Los muertos comparecen ante Dios y son juzgados por lo que está escrito en los libros según sus obras.
 
----
 ###### 1 
 Y vi a un ángel descender del cielo, que tenía la llave del abismo y una gran cadena en la mano.
 

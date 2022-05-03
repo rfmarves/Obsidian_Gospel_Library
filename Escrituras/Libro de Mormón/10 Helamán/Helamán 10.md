@@ -1,22 +1,21 @@
 ---
 title: Helamán 10
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 10
 [[Helamán 9| <-- Helamán 9]] | [[Helamán]] | [[Helamán 11|Helamán 11 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 El Señor da a Nefi el poder para sellar — Recibe el poder para atar y desatar en la tierra y en el cielo — Manda al pueblo que se arrepienta, o si no, perecerá — El Espíritu lo lleva de multitud en multitud. Aproximadamente 21–20 a.C.
 
----
 ###### 1 
 Y aconteció que surgió una división entre el pueblo, de tal modo que se separaron, unos por un lado y otros por otro, y siguieron sus caminos, dejando a Nefi solo mientras se hallaba en medio de ellos.
 

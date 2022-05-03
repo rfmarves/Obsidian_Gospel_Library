@@ -1,22 +1,21 @@
 ---
 title: Éxodo 21
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éxodo 21
 [[Éxodo 20| <-- Éxodo 20]] | [[Éxodo]] | [[Éxodo 22|Éxodo 22 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/21?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ex/21?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jehová revela Sus leyes concernientes a los siervos, al matrimonio, a la pena de muerte por diversas ofensas, al dar ojo por ojo y diente por diente, y a los daños causados por bueyes.
 
----
 ###### 1 
 Y estos son los estatutos que les propondrás:
 

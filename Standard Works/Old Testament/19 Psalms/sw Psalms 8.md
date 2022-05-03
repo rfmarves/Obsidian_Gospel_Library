@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 8
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/8?lang=eng)
 
----
+```
 To the chief Musician upon Gittith, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 A messianic psalm of David—He says that babes and children praise the Lord—He asks, What is man, that Thou art mindful of him?
 
----
 ###### 1 
 O  our Lord, how excellent  thy name in all the earth! who hast set thy glory above the heavens.
 

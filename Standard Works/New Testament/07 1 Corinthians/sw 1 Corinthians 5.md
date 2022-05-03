@@ -1,10 +1,11 @@
 ---
 title: sw 1 Corinthians 5
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Corinthians 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Church cannot fellowship sinners—Christ, our passover, was sacrificed for us.
 
----
 ###### 1 
 It is reported commonly  fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife.
 

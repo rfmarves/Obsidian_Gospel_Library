@@ -1,22 +1,21 @@
 ---
 title: Helamã 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamã 5
 [[Helamã 4| <-- Helamã 4]] | [[Helamã]] | [[Helamã 6|Helamã 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Néfi e Leí dedicam-se a pregar — Seus nomes levam-nos a moldar a vida pela de seus antepassados — Cristo redime aqueles que se arrependem — Néfi e Leí convertem muitos e são aprisionados e fogo circunda-os — Uma nuvem de escuridão encobre trezentas pessoas — A terra treme e uma voz ordena aos homens que se arrependam — Néfi e Leí conversam com anjos e a multidão é circundada por fogo. Aproximadamente 30 a.C.
 
----
 ###### 1 
 E aconteceu que, nesse mesmo ano, eis que Néfi entregou a cadeira de juiz a um homem chamado Cezorã.
 

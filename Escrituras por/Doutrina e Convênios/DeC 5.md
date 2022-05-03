@@ -1,22 +1,21 @@
 ---
 title: DeC 5
-tags: #Escrituras\DeC
+tags: Escrituras\DeC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DeC 5
 [[DeC 4| <-- DeC 4]] | [[DeC]] | [[DeC 6|DeC 6 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/5?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/5?lang=por)
 
----
-__Resumo__
+> __Resumo__
 1–10, Esta geração receberá a palavra do Senhor por intermédio de Joseph Smith; 11–18, Três testemunhas testificarão sobre o Livro de Mórmon; 19–20, A palavra do Senhor será confirmada, como nos tempos antigos; 21–35, Martin Harris poderá arrepender-se e ser uma das testemunhas.
 
----
 ###### 1 
 Eis que te digo que como o meu servo Martin Harris desejou receber de minhas mãos um testemunho de que tu, meu servo Joseph Smith Júnior, possuis as placas sobre as quais testemunhaste e que afirmaste teres recebido de mim;
 

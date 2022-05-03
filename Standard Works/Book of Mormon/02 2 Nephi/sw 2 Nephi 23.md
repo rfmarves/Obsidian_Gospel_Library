@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 23
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 23
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/23?lang=eng)
 
----
-__Summary__
+> __Summary__
 The destruction of Babylon is a type of the destruction at the Second Coming—It will be a day of wrath and vengeance—Babylon (the world) will fall forever—Compare Isaiah 13. About 559–545 B.C.
 
----
 ###### 1 
 The burden of Babylon, which Isaiah the son of Amoz did see.
 

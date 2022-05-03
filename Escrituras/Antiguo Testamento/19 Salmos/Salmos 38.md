@@ -1,27 +1,25 @@
 ---
 title: Salmos 38
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 38
 [[Salmos 37| <-- Salmos 37]] | [[Salmos]] | [[Salmos 39|Salmos 39 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/38?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/38?lang=spa)
 
----
+```
 Salmo de David, para recordar.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David se entristece por sus pecados — Sus pecados yacen sobre él como una enfermedad — David pide a Jehová que tenga compasión.
 
----
 ###### 1 
 
 

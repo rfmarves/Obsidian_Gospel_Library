@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 11
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/11?lang=eng)
 
----
-__Summary__
+> __Summary__
 David lies with Bathsheba, and she conceives—He then arranges for the death in battle of her husband, Uriah.
 
----
 ###### 1 
 And it came to pass, after the year was expired, at the time when kings go forth  that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried still at Jerusalem.
 

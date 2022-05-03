@@ -1,22 +1,21 @@
 ---
 title: Números 34
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 34
 [[Números 33| <-- Números 33]] | [[Números]] | [[Números 35|Números 35 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/34?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/34?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moisés especifica los límites de la heredad de Israel en Canaán y nombra a los príncipes de las tribus que repartirán la tierra.
 
----
 ###### 1 
 Y Jehová habló a Moisés, diciendo:
 

@@ -1,22 +1,21 @@
 ---
 title: Helamán 12
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Helamán 12
 [[Helamán 11| <-- Helamán 11]] | [[Helamán]] | [[Helamán 13|Helamán 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/hel/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los hombres son inconstantes, insensatos y prontos a cometer iniquidad — El Señor disciplina a Su pueblo — La insignificancia de los hombres se compara con el poder de Dios — En el día del juicio, los hombres tendrán la vida sempiterna o la condenación sempiterna. Aproximadamente 6 a.C.
 
----
 ###### 1 
 Y así podemos ver cuán falso e inconstante es el corazón de los hijos de los hombres; sí, podemos ver que el Señor en su grande e infinita bondad bendice y hace prosperar a aquellos que en él ponen su confianza.
 

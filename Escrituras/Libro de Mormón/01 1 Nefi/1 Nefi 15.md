@@ -1,22 +1,21 @@
 ---
 title: 1 Nefi 15
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Nefi 15
 [[1 Nefi 14| <-- 1 Nefi 14]] | [[1 Nefi]] | [[1 Nefi 16|1 Nefi 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los de la posteridad de Lehi recibirán de los gentiles el Evangelio en los postreros días — El recogimiento de Israel se compara a un olivo cuyas ramas naturales serán injertadas nuevamente — Nefi interpreta la visión del árbol de la vida y dice que la justicia de Dios separa a los malos de los justos. Aproximadamente 600–592 a.C.
 
----
 ###### 1 
 Y ocurrió que después que yo, Nefi, hube sido arrebatado en el Espíritu, y hube visto todas estas cosas, volví a la tienda de mi padre.
 

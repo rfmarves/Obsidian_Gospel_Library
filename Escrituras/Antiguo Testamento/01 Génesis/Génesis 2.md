@@ -1,22 +1,21 @@
 ---
 title: Génesis 2
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Génesis 2
 [[Génesis 1| <-- Génesis 1]] | [[Génesis]] | [[Génesis 3|Génesis 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/gen/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se termina la Creación — Dios descansa el séptimo día — Se explica la creación espiritual previa — Adán y Eva son puestos en el Jardín de Edén — Se les prohíbe comer del árbol de la ciencia del bien y del mal — Adán da nombre a toda criatura viviente — Jehová Dios une a Adán y a Eva en matrimonio.
 
----
 ###### 1 
 Y fueron acabados los cielos y la tierra, y todas las huestes de ellos.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Mark 14
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mark 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus is anointed with oil—He eats the Passover, institutes the sacrament, suffers in Gethsemane, and is betrayed by Judas—Jesus is falsely accused, and Peter denies that he knows Him.
 
----
 ###### 1 
 After two days was  the passover, and of unleavened bread: and the chief priests and the scribes sought how they might take him by craft, and put  to death.
 

@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 28
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 28
 [[1 Samuel 27| <-- 1 Samuel 27]] | [[1 Samuel]] | [[1 Samuel 29|1 Samuel 29 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/28?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/28?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Saúl pide revelación a la adivina de Endor — Ella predice la muerte de él, la muerte de sus hijos y la derrota de Israel a manos de los filisteos.
 
----
 ###### 1 
 Y aconteció que en aquellos días los filisteos reunieron sus fuerzas para la guerra a fin de pelear contra Israel. Y dijo Aquis a David: Bien sabes que has de salir conmigo a campaña, tú y tus hombres.
 

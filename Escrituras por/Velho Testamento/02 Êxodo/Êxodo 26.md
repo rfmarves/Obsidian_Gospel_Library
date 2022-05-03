@@ -1,22 +1,21 @@
 ---
 title: Êxodo 26
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 26
 [[Êxodo 25| <-- Êxodo 25]] | [[Êxodo]] | [[Êxodo 27|Êxodo 27 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/26?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/26?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O tabernáculo será construído com dez cortinas e com tábuas — Um véu separará o santuário do lugar santíssimo — A arca do testemunho (com o propiciatório) será colocada no lugar santíssimo.
 
----
 ###### 1 
 E o tabernáculo farás  dez cortinas  linho fino torcido, e azul, e púrpura, e carmesim;  querubins as farás de obra esmerada.
 

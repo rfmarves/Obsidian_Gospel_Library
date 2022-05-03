@@ -1,22 +1,21 @@
 ---
 title: Romanos 2
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Romanos 2
 [[Romanos 1| <-- Romanos 1]] | [[Romanos]] | [[Romanos 3|Romanos 3 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/2?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/rom/2?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Dios dará a cada persona según sus obras — Tanto los judíos como los gentiles serán juzgados por las leyes del Evangelio.
 
----
 ###### 1 
 Por lo cual no tienes excusa, oh hombre, quienquiera que seas tú que juzgas; pues en lo que juzgas a otro, te condenas a ti mismo, porque lo mismo haces, tú que juzgas.
 

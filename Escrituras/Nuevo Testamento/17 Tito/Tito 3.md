@@ -1,22 +1,21 @@
 ---
 title: Tito 3
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Tito 3
 [[Tito 2| <-- Tito 2]] | [[Tito]] | [[Filemón 1|Filemón 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/titus/3?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/titus/3?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los santos deben vivir rectamente después del bautismo.
 
----
 ###### 1 
 Recuérdales que se sujeten a los gobernantes y a las autoridades, que obedezcan, que estén dispuestos para toda buena obra.
 

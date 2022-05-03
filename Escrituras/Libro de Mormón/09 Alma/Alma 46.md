@@ -1,22 +1,21 @@
 ---
 title: Alma 46
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 46
 [[Alma 45| <-- Alma 45]] | [[Alma]] | [[Alma 47|Alma 47 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/46?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/46?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Amalickíah conspira para hacerse rey — Moroni levanta el estandarte de la libertad — Anima al pueblo a defender su religión — Los creyentes verdaderos son llamados cristianos — Se preservará un resto de la posteridad de José — Amalickíah y los disidentes huyen a la tierra de Nefi — Los que no sostienen la causa de la libertad son ejecutados. Aproximadamente 73–72 a.C.
 
----
 ###### 1 
 Y aconteció que cuantos no quisieron escuchar las palabras de Helamán y sus hermanos se unieron contra ellos.
 

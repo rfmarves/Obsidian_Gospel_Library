@@ -1,10 +1,11 @@
 ---
 title: sw Jeremiah 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Jeremiah 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Judgments will be poured out upon the people of Judah because of their sins—Their iniquities cause blessings to be withheld from them.
 
----
 ###### 1 
 Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be  that executeth judgment, that seeketh the truth; and I will pardon it.
 

@@ -1,22 +1,21 @@
 ---
 title: Gênesis 33
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 33
 [[Gênesis 32| <-- Gênesis 32]] | [[Gênesis]] | [[Gênesis 34|Gênesis 34 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/33?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/33?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó e Esaú se encontram e se reconciliam — Esaú recebe os presentes de Jacó — Jacó se estabelece em Canaã, onde edifica um altar.
 
----
 ###### 1 
 E levantou Jacó os seus olhos, e olhou, e eis que vinha Esaú, e quatrocentos homens com ele. Então repartiu os filhos entre Lia e Raquel, e as duas servas.
 

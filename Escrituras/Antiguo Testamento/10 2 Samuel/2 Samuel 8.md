@@ -1,22 +1,21 @@
 ---
 title: 2 Samuel 8
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Samuel 8
 [[2 Samuel 7| <-- 2 Samuel 7]] | [[2 Samuel]] | [[2 Samuel 9|2 Samuel 9 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/8?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/8?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 David derrota a muchas naciones y las somete — Jehová está con él — David administra justicia y equidad a todo su pueblo.
 
----
 ###### 1 
 Después de esto, aconteció que David derrotó a los filisteos y los sometió; y tomó David Meteg-ama de manos de los filisteos.
 

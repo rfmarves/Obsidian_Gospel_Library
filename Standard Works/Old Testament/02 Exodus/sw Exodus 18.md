@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jethro comes to Moses bringing Moses’ wife and sons and offers sacrifices to the Lord—Moses sits in the judgment seat and hears all cases—Jethro counsels Moses to teach the law, to appoint lesser judges, and to delegate power to them.
 
----
 ###### 1 
 When Jethro, the priest of Midian, Moses’ father in law, heard of all that God had done for Moses, and for Israel his people,  that the  had brought Israel out of Egypt;
 

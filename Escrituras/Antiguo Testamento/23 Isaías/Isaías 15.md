@@ -1,22 +1,21 @@
 ---
 title: Isaías 15
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 15
 [[Isaías 14| <-- Isaías 14]] | [[Isaías]] | [[Isaías 16|Isaías 16 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/15?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/15?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moab será destruida y su pueblo aullará y llorará.
 
----
 ###### 1 
 Profecía sobre Moab: Porque de noche fue destruida Ar de Moab, fue talada; porque de noche fue destruida Kir de Moab, fue talada.
 

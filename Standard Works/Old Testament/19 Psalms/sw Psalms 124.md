@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 124
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 124
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/124?lang=eng)
 
----
+```
 A Song of degrees of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David says, Israel’s help is in the name of the Lord.
 
----
 ###### 1 
 If  not  the  who was on our side, now may Israel say;
 

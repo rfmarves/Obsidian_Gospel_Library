@@ -1,22 +1,21 @@
 ---
 title: 1 Coríntios 12
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Coríntios 12
 [[1 Coríntios 11| <-- 1 Coríntios 11]] | [[1 Coríntios]] | [[1 Coríntios 13|1 Coríntios 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Espírito Santo revela que Jesus é o Cristo — Os dons espirituais estão presentes entre os santos — Apóstolos, profetas e milagres são encontrados na Igreja verdadeira.
 
----
 ###### 1 
 Acerca dos  espirituais, não quero, irmãos, que sejais ignorantes.
 

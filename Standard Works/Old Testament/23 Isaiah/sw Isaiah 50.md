@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 50
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 50
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/50?lang=eng)
 
----
-__Summary__
+> __Summary__
 Isaiah speaks as the Messiah—He will have the tongue of the learned—He will give His back to the smiters—He will not be confounded—Compare 2 Nephi 7.
 
----
 ###### 1 
 Thus saith the , Where  the bill of your mother’s divorcement, whom I have put away? or which of my creditors  to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.
 

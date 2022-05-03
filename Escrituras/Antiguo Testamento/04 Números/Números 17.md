@@ -1,22 +1,21 @@
 ---
 title: Números 17
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 17
 [[Números 16| <-- Números 16]] | [[Números]] | [[Números 18|Números 18 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/17?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/17?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se coloca en el tabernáculo de reunión como prueba una vara por cada tribu — La vara de Aarón brota, florece y produce almendras — Se guarda la vara como señal en contra de los rebeldes.
 
----
 ###### 1 
 Y habló Jehová a Moisés, diciendo:
 

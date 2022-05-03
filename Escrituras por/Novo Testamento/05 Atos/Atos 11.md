@@ -1,22 +1,21 @@
 ---
 title: Atos 11
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Atos 11
 [[Atos 10| <-- Atos 10]] | [[Atos]] | [[Atos 12|Atos 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/acts/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Deus concede o dom do arrependimento aos gentios — Em Antioquia os discípulos são chamados de cristãos pela primeira vez — A Igreja é guiada por revelação.
 
----
 ###### 1 
 E ouviram os apóstolos, e os irmãos que estavam na Judeia, que também os gentios receberam a palavra de Deus.
 

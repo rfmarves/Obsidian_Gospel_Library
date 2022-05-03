@@ -1,22 +1,21 @@
 ---
 title: Jeremías 52
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Jeremías 52
 [[Jeremías 51| <-- Jeremías 51]] | [[Jeremías]] | [[Lamentaciones 1|Lamentaciones 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/52?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/jer/52?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Jerusalén es sitiada y tomada por los caldeos — Mucha gente, así como los utensilios de la casa de Jehová, son llevados a Babilonia.
 
----
 ###### 1 
 Sedequías tenía veintiún años cuando comenzó a reinar, y reinó once años en Jerusalén. Y su madre se llamaba Hamutal hija de Jeremías de Libna.
 

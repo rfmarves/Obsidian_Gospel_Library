@@ -1,22 +1,21 @@
 ---
 title: Lucas 24
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Lucas 24
 [[Lucas 23| <-- Lucas 23]] | [[Lucas]] | [[Juan 1|Juan 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/24?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/luke/24?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los ángeles anuncian la resurrección de Cristo — Jesús anda por el camino a Emaús — Se aparece en Su cuerpo resucitado de carne y hueso, come, testifica de Su divinidad y promete el Espíritu Santo — Asciende al cielo.
 
----
 ###### 1 
 Y el primer  de la semana, muy de mañana, ellas fueron al sepulcro, llevando las  aromáticas que habían preparado, y algunas  con ellas.
 

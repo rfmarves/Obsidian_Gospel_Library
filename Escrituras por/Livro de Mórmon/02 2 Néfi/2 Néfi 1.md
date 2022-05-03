@@ -1,27 +1,25 @@
 ---
 title: 2 Néfi 1
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Néfi 1
 [[1 Néfi 22| <-- 1 Néfi 22]] | [[2 Néfi]] | [[2 Néfi 2|2 Néfi 2 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/1?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/1?lang=por)
 
----
+```
 Um relato da morte de Leí. Os irmãos de Néfi rebelam-se contra ele. O Senhor adverte a Néfi que parta para o deserto. Suas viagens no deserto e outros relatos.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Leí profetiza acerca de uma terra de liberdade — Sua semente será dispersa e ferida se rejeitar o Santo de Israel — Ele exorta os filhos a vestirem a armadura da retidão. Aproximadamente 588–570 a.C.
 
----
 ###### 1 
 E então aconteceu que depois de eu, Néfi, haver acabado de ensinar meus irmãos, nosso pai, Leí, também lhes disse muitas coisas e narrou-lhes as grandiosas coisas que o Senhor fizera por eles ao tirá-los da terra de Jerusalém.
 

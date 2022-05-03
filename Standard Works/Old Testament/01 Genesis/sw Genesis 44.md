@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 44
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 44
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/44?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joseph arranges to stop the return of his brothers to Canaan—Judah offers himself in place of Benjamin for their father’s sake.
 
----
 ###### 1 
 And he commanded the steward of his house, saying, Fill the men’s sacks  food, as much as they can carry, and put every man’s money in his sack’s mouth.
 

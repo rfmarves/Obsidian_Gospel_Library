@@ -1,10 +1,11 @@
 ---
 title: sw Alma 17
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 17
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=eng)
 
----
+```
 An account of the sons of Mosiah, who rejected their rights to the kingdom for the word of God, and went up to the land of Nephi to preach to the Lamanites; their sufferings and deliverance—according to the record of Alma.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The sons of Mosiah have the spirit of prophecy and of revelation—They go their several ways to declare the word to the Lamanites—Ammon goes to the land of Ishmael and becomes the servant of King Lamoni—Ammon saves the king’s flocks and slays his enemies at the water of Sebus. Verses 1–3, about 77 B.C.; verse 4, about 91–77 B.C.; and verses 5–39, about 91 B.C.
 
----
 ###### 1 
 And now it came to pass that as Alma was journeying from the land of Gideon southward, away to the land of Manti, behold, to his astonishment, he met with the sons of Mosiah journeying towards the land of Zarahemla.
 

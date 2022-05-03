@@ -1,22 +1,21 @@
 ---
 title: Miqueas 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Miqueas 1
 [[Jonás 4| <-- Jonás 4]] | [[Miqueas]] | [[Miqueas 2|Miqueas 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/micah/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/micah/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Miqueas profetiza la caída de Samaria y la de Jerusalén.
 
----
 ###### 1 
 La palabra de Jehová que vino a Miqueas de Moreset en los días de Jotam, de Acaz  de Ezequías, reyes de Judá; lo que vio sobre Samaria y Jerusalén.
 

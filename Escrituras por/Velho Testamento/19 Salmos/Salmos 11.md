@@ -1,27 +1,25 @@
 ---
 title: Salmos 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 11
 [[Salmos 10| <-- Salmos 10]] | [[Salmos]] | [[Salmos 12|Salmos 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ps/11?lang=por)
 
----
+```
 Salmo de Davi para o músico-mor.
+```
 
----
-
----
-__Resumo__
+> __Resumo__
 Davi se regozija pelo fato de o Senhor estar em Seu santo templo — O Senhor testa os justos e odeia os iníquos.
 
----
 ###### 1 
 No  confio; como dizeis à minha alma: Fugi para a vossa montanha  um pássaro?
 

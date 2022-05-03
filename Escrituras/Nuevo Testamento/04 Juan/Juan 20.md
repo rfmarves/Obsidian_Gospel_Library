@@ -1,22 +1,21 @@
 ---
 title: Juan 20
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Juan 20
 [[Juan 19| <-- Juan 19]] | [[Juan]] | [[Juan 21|Juan 21 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/john/20?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/john/20?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 María Magdalena, Pedro y Juan hallan la tumba vacía — El Cristo resucitado se aparece a María Magdalena en el huerto — Se aparece también a los discípulos y muestra Su cuerpo resucitado — Tomás toca las heridas en las manos, en los pies y en el costado de Jesús — Jesús es el Cristo, el Hijo de Dios.
 
----
 ###### 1 
 Y el primer  de la semana, María Magdalena fue de mañana al sepulcro, siendo aún oscuro; y vio quitada la piedra del sepulcro.
 

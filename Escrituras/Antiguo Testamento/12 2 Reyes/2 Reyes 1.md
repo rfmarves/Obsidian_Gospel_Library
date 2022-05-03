@@ -1,22 +1,21 @@
 ---
 title: 2 Reyes 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Reyes 1
 [[1 Reyes 22| <-- 1 Reyes 22]] | [[2 Reyes]] | [[2 Reyes 2|2 Reyes 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Ocozías acude a Baal-zebub para saber si vivirá — Elías profetiza la muerte de Ocozías — Elías hace descender fuego del cielo para consumir a los soldados que son enviados para aprehenderle.
 
----
 ###### 1 
 Después de la muerte de Acab, se rebeló Moab contra Israel.
 

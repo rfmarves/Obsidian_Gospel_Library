@@ -1,22 +1,21 @@
 ---
 title: Proverbios 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Proverbios 12
 [[Proverbios 11| <-- Proverbios 11]] | [[Proverbios]] | [[Proverbios 13|Proverbios 13 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/prov/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La mujer virtuosa es corona de su marido — El camino del necio es recto ante sus propios ojos — Los labios mentirosos son abominación a Jehová.
 
----
 ###### 1 
 
 

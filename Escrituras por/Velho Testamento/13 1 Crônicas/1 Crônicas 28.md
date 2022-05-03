@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 28
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 28
 [[1 Crônicas 27| <-- 1 Crônicas 27]] | [[1 Crônicas]] | [[1 Crônicas 29|1 Crônicas 29 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/28?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/28?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi reúne os líderes de Israel — Salomão é nomeado para construir o templo — Davi exorta Salomão e o povo a guardar os mandamentos — Davi entrega a Salomão a planta e os materiais do templo.
 
----
 ###### 1 
 Então Davi convocou em Jerusalém todos os príncipes de Israel, os príncipes das tribos, e os capitães dos turnos, que serviam ao rei, e os capitães de mil, e os capitães de cem, e os administradores de todos os bens e possessões do rei, e de seus filhos, como também os eunucos e homens, e todo o homem valente.
 

@@ -1,27 +1,25 @@
 ---
 title: Salmos 138
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Salmos 138
 [[Salmos 137| <-- Salmos 137]] | [[Salmos]] | [[Salmos 139|Salmos 139 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/138?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ps/138?lang=spa)
 
----
+```
 Salmo de David.
+```
 
----
-
----
-__Resumen__
+> __Resumen__
 David alaba a Jehová por Su misericordia y verdad — David se postra en dirección hacia el santo templo.
 
----
 ###### 1 
 
 

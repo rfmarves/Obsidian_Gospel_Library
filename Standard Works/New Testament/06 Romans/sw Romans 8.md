@@ -1,10 +1,11 @@
 ---
 title: sw Romans 8
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Romans 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 The law of Christ brings life and peace—Those adopted as children of God become joint heirs with Christ—God’s elect are foreordained to eternal life—Christ makes intercession for man.
 
----
 ###### 1 
  therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
 

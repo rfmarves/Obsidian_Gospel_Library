@@ -1,22 +1,21 @@
 ---
 title: DyC 14
-tags: #Escrituras\DyC
+tags: Escrituras\DyC
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # DyC 14
 [[DyC 13| <-- DyC 13]] | [[DyC]] | [[DyC 15|DyC 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 1–6, Los obreros de la viña lograrán la salvación; 7–8, La vida eterna es el mayor de los dones de Dios; 9–11, Cristo creó los cielos y la tierra.
 
----
 ###### 1 
 Una obra grande y maravillosa está a punto de aparecer entre los hijos de los hombres.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Alma 60
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 60
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/60?lang=eng)
 
----
-__Summary__
+> __Summary__
 Moroni complains to Pahoran of the government’s neglect of the armies—The Lord suffers the righteous to be slain—The Nephites must use all of their power and means to deliver themselves from their enemies—Moroni threatens to fight against the government unless help is supplied to his armies. About 62 B.C.
 
----
 ###### 1 
 And it came to pass that he wrote again to the governor of the land, who was Pahoran, and these are the words which he wrote, saying: Behold, I direct mine epistle to Pahoran, in the city of Zarahemla, who is the chief judge and the governor over the land, and also to all those who have been chosen by this people to govern and manage the affairs of this war.
 

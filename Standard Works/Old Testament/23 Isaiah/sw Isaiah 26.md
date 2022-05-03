@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 26
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 Trust in the Lord forever—Jehovah will die and be resurrected—All men will rise in the Resurrection.
 
----
 ###### 1 
 In that day shall this song be sung in the land of Judah; We have a strong city; salvation will  appoint  walls and bulwarks.
 

@@ -1,22 +1,21 @@
 ---
 title: Gênesis 8
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Gênesis 8
 [[Gênesis 7| <-- Gênesis 7]] | [[Gênesis]] | [[Gênesis 9|Gênesis 9 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/8?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/gen/8?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Cessa o dilúvio — Noé solta uma pomba, que retorna com uma folha de oliveira — Ele faz todos os seres viventes saírem da arca — Oferece sacrifícios — Asseguram-se a semeadura, a ceifa e as estações.
 
----
 ###### 1 
 E lembrou-se Deus de Noé, e de todo animal, e de todo o gado que com ele  na arca; e Deus fez passar um vento sobre a terra, e aquietaram-se as águas.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Samuel 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Samuel 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 David’s messengers are abused by the Ammonites—Israel defeats the Ammonites and Syrians.
 
----
 ###### 1 
 And it came to pass after this, that the king of the children of Ammon died, and Hanun his son reigned in his stead.
 

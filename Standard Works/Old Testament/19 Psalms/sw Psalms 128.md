@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 128
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 128
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/128?lang=eng)
 
----
+```
 A Song of degrees.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Blessed are those who fear the Lord and walk in His ways.
 
----
 ###### 1 
 Blessed  every one that feareth the ; that walketh in his ways.
 

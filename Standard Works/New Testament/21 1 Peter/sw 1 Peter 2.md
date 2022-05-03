@@ -1,10 +1,11 @@
 ---
 title: sw 1 Peter 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Peter 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Converts are newborn babes in Christ—He is the chief cornerstone—Saints hold a royal priesthood and are a peculiar people—Saints are in subjection to the laws of man.
 
----
 ###### 1 
 Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,
 

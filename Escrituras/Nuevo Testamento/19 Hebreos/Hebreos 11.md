@@ -1,22 +1,21 @@
 ---
 title: Hebreos 11
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Hebreos 11
 [[Hebreos 10| <-- Hebreos 10]] | [[Hebreos]] | [[Hebreos 12|Hebreos 12 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/11?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/heb/11?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Por medio de la fe, entendemos la palabra y la obra de Dios — La fe de los antiguos estaba centrada en Cristo — Por medio de la fe, los hombres conquistaron reinos, actuaron con rectitud y efectuaron milagros.
 
----
 ###### 1 
 Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve.
 

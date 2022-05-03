@@ -1,22 +1,21 @@
 ---
 title: 2 Crônicas 25
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Crônicas 25
 [[2 Crônicas 24| <-- 2 Crônicas 24]] | [[2 Crônicas]] | [[2 Crônicas 26|2 Crônicas 26 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/25?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/25?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Amazias reina, mata os edomitas e adora deuses falsos — Um profeta prediz a destruição de Amazias — Judá é derrotada por Israel, e Amazias é morto em uma conspiração.
 
----
 ###### 1 
 Era Amazias da idade de vinte e cinco anos quando começou a reinar, e reinou vinte e nove anos em Jerusalém; e  o nome de sua mãe Joadã, de Jerusalém.
 

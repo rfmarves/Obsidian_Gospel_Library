@@ -1,10 +1,11 @@
 ---
 title: sw Leviticus 22
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Leviticus 22
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/22?lang=eng)
 
----
-__Summary__
+> __Summary__
 Those of the priests and their families who may eat of the holy things are described—Sacrificial animals are to be perfect and without blemish.
 
----
 ###### 1 
 And the  spake unto Moses, saying,
 

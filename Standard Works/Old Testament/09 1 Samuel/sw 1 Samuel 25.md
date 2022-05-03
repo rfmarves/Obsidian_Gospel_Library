@@ -1,10 +1,11 @@
 ---
 title: sw 1 Samuel 25
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Samuel 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 Samuel dies—Nabal rebuffs David and refuses to give him food—Abigail intercedes, saves Nabal, and gives David a present—David is pacified, Nabal dies, and David marries Abigail.
 
----
 ###### 1 
 And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran.
 

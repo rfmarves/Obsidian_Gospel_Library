@@ -1,10 +1,11 @@
 ---
 title: sw John 13
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw John 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus washes the feet of the Twelve—He identifies Judas as His betrayer—He commands them to love one another.
 
----
 ###### 1 
 Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.
 

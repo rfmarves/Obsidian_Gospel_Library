@@ -1,22 +1,21 @@
 ---
 title: Números 19
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 19
 [[Números 18| <-- Números 18]] | [[Números]] | [[Números 20|Números 20 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/19?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/19?lang=por)
 
----
-__Resumo__
+> __Resumo__
 São dadas instruções para o sacrifício de uma novilha vermelha — A água da separação é usada para purificação do pecado — As pessoas cerimonialmente imundas são espargidas com a água da separação.
 
----
 ###### 1 
 Falou mais o  a Moisés e a Aarão, dizendo:
 

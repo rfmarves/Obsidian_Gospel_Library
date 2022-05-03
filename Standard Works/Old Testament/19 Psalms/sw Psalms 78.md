@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 78
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 78
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/78?lang=eng)
 
----
+```
 Maschil of Asaph.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The Israelites are to teach the Lord’s law to their children—Disobedient Israel provoked the Lord in the wilderness—The Egyptian plagues are recounted—The Lord chooses and blesses Judah and David.
 
----
 ###### 1 
 Give ear, O my people,  my law: incline your ears to the words of my mouth.
 

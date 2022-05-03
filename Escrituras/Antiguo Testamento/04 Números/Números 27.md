@@ -1,22 +1,21 @@
 ---
 title: Números 27
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 27
 [[Números 26| <-- Números 26]] | [[Números]] | [[Números 28|Números 28 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/num/27?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/num/27?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se explica la ley de las heredades tanto para los hijos como para las hijas y para los parientes — Moisés verá la tierra prometida, pero no entrará en ella — Josué es llamado y apartado para dirigir a Israel.
 
----
 ###### 1 
 Y vinieron las hijas de Zelofehad hijo de Hefer, hijo de Galaad, hijo de Maquir, hijo de Manasés, de las familias de Manasés hijo de José, los nombres de las cuales eran Maala, y Noa, y Hogla, y Milca y Tirsa;
 

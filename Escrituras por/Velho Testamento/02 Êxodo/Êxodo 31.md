@@ -1,22 +1,21 @@
 ---
 title: Êxodo 31
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Êxodo 31
 [[Êxodo 30| <-- Êxodo 30]] | [[Êxodo]] | [[Êxodo 32|Êxodo 32 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/31?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ex/31?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os artífices são inspirados a construir e mobiliar o tabernáculo — Ordena-se a Israel que guarde os Sábados do Senhor — É decretada a pena de morte para a profanação do Sábado — Moisés recebe as tábuas de pedra.
 
----
 ###### 1 
 Depois falou o  a Moisés, dizendo:
 

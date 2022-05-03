@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 8
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 8
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/8?lang=eng)
 
----
-__Summary__
+> __Summary__
 Solomon builds cities—He offers sacrifices according to the law of Moses—Priests and Levites are appointed to serve the Lord.
 
----
 ###### 1 
 And it came to pass at the end of twenty years, wherein Solomon had built the house of the , and his own house,
 

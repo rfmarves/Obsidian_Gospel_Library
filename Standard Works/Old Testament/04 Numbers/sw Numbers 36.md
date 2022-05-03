@@ -1,10 +1,11 @@
 ---
 title: sw Numbers 36
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Numbers 36
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/36?lang=eng)
 
----
-__Summary__
+> __Summary__
 Some daughters in Israel are directed to marry within their own tribe—Inheritances are not to move from tribe to tribe.
 
----
 ###### 1 
 And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:
 

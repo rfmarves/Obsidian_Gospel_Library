@@ -1,10 +1,11 @@
 ---
 title: sw Job 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Job 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 Eliphaz counsels Job: Man is born unto trouble, seek unto God, and happy is the man whom God corrects.
 
----
 ###### 1 
 Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?
 

@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 7
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 7
 [[Ezequiel 6| <-- Ezequiel 6]] | [[Ezequiel]] | [[Ezequiel 8|Ezequiel 8 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/7?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/ezek/7?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Desolación, guerra, pestilencia y destrucción arrasarán la tierra de Israel — Se presagia la desolación del pueblo.
 
----
 ###### 1 
 Y vino a mí la palabra de Jehová, diciendo:
 

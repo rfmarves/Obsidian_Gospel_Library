@@ -1,22 +1,21 @@
 ---
 title: Eclesiastés 12
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Eclesiastés 12
 [[Eclesiastés 11| <-- Eclesiastés 11]] | [[Eclesiastés]] | [[Cantares 1|Cantares 1 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/12?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/eccl/12?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Al morir, el espíritu vuelve a Dios, quien lo dio — Las palabras de los sabios son como aguijones — Todo el deber del hombre es temer a Dios y guardar Sus mandamientos.
 
----
 ###### 1 
 Acuérdate de tu Creador en los días de tu juventud, antes que vengan los días malos, y lleguen los años de los cuales digas: No tengo en ellos contentamiento;
 

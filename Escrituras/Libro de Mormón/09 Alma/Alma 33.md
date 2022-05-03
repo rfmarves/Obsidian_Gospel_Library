@@ -1,22 +1,21 @@
 ---
 title: Alma 33
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 33
 [[Alma 32| <-- Alma 32]] | [[Alma]] | [[Alma 34|Alma 34 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/33?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/alma/33?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Zenós enseñó que los hombres deben orar y adorar en todo lugar, y que los juicios se apartan a causa del Hijo — Zenoc enseñó que la misericordia se concede a causa del Hijo — Moisés levantó en el desierto un símbolo del Hijo de Dios. Aproximadamente 74 a.C.
 
----
 ###### 1 
 Y después que Alma hubo hablado estas palabras, le mandaron preguntar si habían de creer en un Dios para obtener este fruto del cual había hablado, o cómo debían sembrar la semilla, o sea, la palabra a que se había referido, la cual él dijo que debía sembrarse en sus corazones, o de qué manera debían empezar a ejercitar su fe.
 

@@ -1,22 +1,21 @@
 ---
 title: Oseias 11
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Oseias 11
 [[Oseias 10| <-- Oseias 10]] | [[Oseias]] | [[Oseias 12|Oseias 12 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/11?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hosea/11?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Israel, como uma criança, foi chamado para fora do Egito, à semelhança de como o nosso Senhor, quando criança, saiu do Egito — Efraim, porém, se afasta do Senhor.
 
----
 ###### 1 
 Quando Israel  menino, eu o amei; e do Egito chamei meu filho.
 

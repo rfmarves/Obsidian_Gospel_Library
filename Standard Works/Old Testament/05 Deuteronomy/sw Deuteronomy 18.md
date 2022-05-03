@@ -1,10 +1,11 @@
 ---
 title: sw Deuteronomy 18
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Deuteronomy 18
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/18?lang=eng)
 
----
-__Summary__
+> __Summary__
 How priests are supported—Divination, spiritualism, and the like are abominations—A Prophet (Christ) will arise like unto Moses.
 
----
 ###### 1 
 The priests the Levites,  all the tribe of Levi, shall have no part nor inheritance with Israel: they shall eat the offerings of the  made by fire, and his inheritance.
 

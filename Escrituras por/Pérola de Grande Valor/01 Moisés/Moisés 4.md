@@ -1,25 +1,24 @@
 ---
 title: Moisés 4
-tags: #Escrituras\PdGV
+tags: Escrituras\PdGV
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moisés 4
 [[Moisés 3| <-- Moisés 3]] | [[Moisés]] | [[Moisés 5|Moisés 5 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/pgp/moses/4?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/pgp/moses/4?lang=por)
 
 Moisés
 (Junho a outubro de 1830)
 
----
-__Resumo__
+> __Resumo__
 Como Satanás se tornou o diabo — Ele tenta Eva — Adão e Eva caem e a morte entra no mundo.
 
----
 ###### 1 
 E eu, o Senhor Deus, falei a Moisés, dizendo: Aquele Satanás a quem tu deste ordem em nome de meu Unigênito é o mesmo que existiu desde o princípio; e ele apresentou-se perante mim, dizendo: Eis-me aqui, envia-me; serei teu filho e redimirei a humanidade toda, de modo que nenhuma alma se perca; e sem dúvida eu o farei; portanto, dá-me a tua honra.
 

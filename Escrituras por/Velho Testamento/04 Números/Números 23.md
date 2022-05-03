@@ -1,22 +1,21 @@
 ---
 title: Números 23
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Números 23
 [[Números 22| <-- Números 22]] | [[Números]] | [[Números 24|Números 24 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/23?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/num/23?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor ordena que Balaão abençoe Israel — Ele o faz, dizendo: Quem contará o pó de Jacó? e Que coisas Deus realizou!
 
----
 ###### 1 
 Então Balaão disse a Balaque: Edifica-me aqui sete altares, e prepara-me aqui sete bezerros e sete carneiros.
 

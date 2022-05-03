@@ -1,22 +1,21 @@
 ---
 title: Isaías 46
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Isaías 46
 [[Isaías 45| <-- Isaías 45]] | [[Isaías]] | [[Isaías 47|Isaías 47 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/46?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/isa/46?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Los ídolos no se deben comparar con el Señor — Solo Él es Dios y salvará a Israel.
 
----
 ###### 1 
 Se postró Bel, se doblegó Nebo; sus imágenes fueron  sobre bestias y sobre animales, carga pesada para vuestras bestias fatigadas.
 

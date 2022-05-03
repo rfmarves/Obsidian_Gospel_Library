@@ -1,22 +1,21 @@
 ---
 title: Alma 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Alma 6
 [[Alma 5| <-- Alma 5]] | [[Alma]] | [[Alma 7|Alma 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/alma/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 A Igreja em Zaraenla é purificada e posta em ordem — Alma vai a Gideão para pregar. Aproximadamente 83 a.C.
 
----
 ###### 1 
 E então aconteceu que depois de haver acabado de falar ao povo da igreja que estava estabelecida na cidade de Zaraenla, Alma ordenou sacerdotes e élderes pela imposição de mãos, segundo a ordem de Deus, para presidirem a igreja e cuidarem dela.
 

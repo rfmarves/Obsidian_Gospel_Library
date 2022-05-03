@@ -1,10 +1,11 @@
 ---
 title: sw 2 Chronicles 6
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Chronicles 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 Solomon blesses the congregation of Israel—He offers the dedicatory prayer for the temple—He prays for mercy and blessings for penitent Israel.
 
----
 ###### 1 
 Then said Solomon, The  hath said that he would dwell in the thick darkness.
 

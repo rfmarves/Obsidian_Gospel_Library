@@ -1,10 +1,11 @@
 ---
 title: sw 1 Nephi 2
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Nephi 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Lehi takes his family into the wilderness by the Red Sea—They leave their property—Lehi offers a sacrifice to the Lord and teaches his sons to keep the commandments—Laman and Lemuel murmur against their father—Nephi is obedient and prays in faith; the Lord speaks to him, and he is chosen to rule over his brethren. About 600 B.C.
 
----
 ###### 1 
 For behold, it came to pass that the Lord spake unto my father, yea, even in a dream, and said unto him: Blessed art thou Lehi, because of the things which thou hast done; and because thou hast been faithful and declared unto this people the things which I commanded thee, behold, they seek to take away thy life.
 

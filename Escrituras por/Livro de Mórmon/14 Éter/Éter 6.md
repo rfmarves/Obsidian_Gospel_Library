@@ -1,22 +1,21 @@
 ---
 title: Éter 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Éter 6
 [[Éter 5| <-- Éter 5]] | [[Éter]] | [[Éter 7|Éter 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/ether/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Os barcos jareditas são conduzidos pelos ventos para a terra prometida — O povo louva ao Senhor por Sua bondade — Oria é designado como seu rei — Morrem Jarede e seu irmão.
 
----
 ###### 1 
 E agora eu, Morôni, continuo a escrever o registro de Jarede e seu irmão.
 

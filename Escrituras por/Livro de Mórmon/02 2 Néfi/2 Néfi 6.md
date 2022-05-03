@@ -1,22 +1,21 @@
 ---
 title: 2 Néfi 6
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 2 Néfi 6
 [[2 Néfi 5| <-- 2 Néfi 5]] | [[2 Néfi]] | [[2 Néfi 7|2 Néfi 7 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/6?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/6?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Jacó relata novamente a história judaica: O cativeiro babilônico e o retorno; o ministério e a crucificação do Santo de Israel; a ajuda recebida dos gentios e a restauração dos judeus nos últimos dias, quando acreditarem no Messias. Aproximadamente 559–545 a.C.
 
----
 ###### 1 
 As palavras de Jacó, irmão de Néfi, dirigidas ao povo de Néfi:
 

@@ -1,22 +1,21 @@
 ---
 title: Habacuque 2
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Habacuque 2
 [[Habacuque 1| <-- Habacuque 1]] | [[Habacuque]] | [[Habacuque 3|Habacuque 3 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/hab/2?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/hab/2?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor admoesta paciência e promete que o justo viverá pela fé — A Terra se encherá do conhecimento de Deus — Os ídolos não têm poder.
 
----
 ###### 1 
 Sobre a minha guarda estarei, e sobre a fortaleza me apresentarei e vigiarei, para ver o que ele me dirá, e o que eu responderei, quando eu for arguido.
 

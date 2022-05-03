@@ -1,22 +1,21 @@
 ---
 title: 1 Samuel 16
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Samuel 16
 [[1 Samuel 15| <-- 1 Samuel 15]] | [[1 Samuel]] | [[1 Samuel 17|1 Samuel 17 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/16?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/16?lang=por)
 
----
-__Resumo__
+> __Resumo__
 O Senhor escolhe Davi de Belém como rei — Ele é ungido por Samuel — Saul escolhe Davi como seu acompanhante e pajem de armas.
 
----
 ###### 1 
 Então disse o  a Samuel: Até quando terás dó de Saul, havendo-o eu rejeitado, para que não reine sobre Israel? Enche um chifre de azeite, e vai, enviar-te-ei a Jessé, o belemita; porque dentre os seus filhos me provi de  rei.
 

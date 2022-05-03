@@ -1,10 +1,11 @@
 ---
 title: sw Zechariah 5
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zechariah 5
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/5?lang=eng)
 
----
-__Summary__
+> __Summary__
 An angel reveals truths to Zechariah by the use of symbolic representations.
 
----
 ###### 1 
 Then I turned, and lifted up mine eyes, and looked, and behold a flying roll.
 

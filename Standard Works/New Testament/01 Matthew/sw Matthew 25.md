@@ -1,10 +1,11 @@
 ---
 title: sw Matthew 25
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Matthew 25
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus gives the parables of the ten virgins, the talents, and the sheep and the goats.
 
----
 ###### 1 
 Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.
 

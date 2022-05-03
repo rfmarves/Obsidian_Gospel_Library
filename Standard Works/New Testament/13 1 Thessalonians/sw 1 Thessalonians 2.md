@@ -1,10 +1,11 @@
 ---
 title: sw 1 Thessalonians 2
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Thessalonians 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 True ministers preach in a godly manner—Converts are the glory and joy of missionaries.
 
----
 ###### 1 
 For yourselves, brethren, know our entrance in unto you, that it was not in vain:
 

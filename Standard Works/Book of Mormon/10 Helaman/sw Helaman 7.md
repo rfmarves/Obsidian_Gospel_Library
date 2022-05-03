@@ -1,10 +1,11 @@
 ---
 title: sw Helaman 7
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Helaman 7
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/7?lang=eng)
 
----
+```
 The Prophecy of Nephi, the Son of Helaman—God threatens the people of Nephi that he will visit them in his anger, to their utter destruction except they repent of their wickedness. God smiteth the people of Nephi with pestilence; they repent and turn unto him. Samuel, a Lamanite, prophesies unto the Nephites.
+```
 
----
-
----
-__Summary__
+> __Summary__
 Nephi is rejected in the north and returns to Zarahemla—He prays upon his garden tower and then calls upon the people to repent or perish. About 23–21 B.C.
 
----
 ###### 1 
 Behold, now it came to pass in the sixty and ninth year of the reign of the judges over the people of the Nephites, that Nephi, the son of Helaman, returned to the land of Zarahemla from the land northward.
 

@@ -1,10 +1,11 @@
 ---
 title: sw 2 Nephi 15
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Nephi 15
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/15?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord’s vineyard (Israel) will become desolate, and His people will be scattered—Woes will come upon them in their apostate and scattered state—The Lord will lift an ensign and gather Israel—Compare Isaiah 5. About 559–545 B.C.
 
----
 ###### 1 
 And then will I sing to my well-beloved a song of my beloved, touching his vineyard. My well-beloved hath a vineyard in a very fruitful hill.
 

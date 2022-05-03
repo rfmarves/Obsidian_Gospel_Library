@@ -1,10 +1,11 @@
 ---
 title: sw Alma 26
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 26
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ammon glories in the Lord—The faithful are strengthened by the Lord and are given knowledge—By faith men may bring thousands of souls unto repentance—God has all power and comprehends all things. About 90–77 B.C.
 
----
 ###### 1 
 And now, these are the words of Ammon to his brethren, which say thus: My brothers and my brethren, behold I say unto you, how great reason have we to rejoice; for could we have supposed when we started from the land of Zarahemla that God would have granted unto us such great blessings?
 

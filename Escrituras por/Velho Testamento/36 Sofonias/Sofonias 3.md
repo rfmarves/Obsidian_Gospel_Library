@@ -1,22 +1,21 @@
 ---
 title: Sofonias 3
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Sofonias 3
 [[Sofonias 2| <-- Sofonias 2]] | [[Sofonias]] | [[Ageu 1|Ageu 1 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/zeph/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/zeph/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Na Segunda Vinda, todas as nações se reunirão para combate — Os homens terão uma linguagem pura — O Senhor reinará em seu meio.
 
----
 ###### 1 
 Ai da rebelde e da contaminada, da cidade opressora!
 

@@ -1,10 +1,11 @@
 ---
 title: sw Genesis 45
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Genesis 45
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/45?lang=eng)
 
----
-__Summary__
+> __Summary__
 Joseph makes himself known to his brothers—They rejoice together—Pharaoh invites Jacob and his family to dwell in Egypt and eat the fat of the land.
 
----
 ###### 1 
 Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.
 

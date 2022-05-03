@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 9
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 9
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/9?lang=eng)
 
----
-__Summary__
+> __Summary__
 Isaiah speaks about the Messiah—The people in darkness will see a great Light—Unto us a Child is born—He will be the Prince of Peace and reign on David’s throne—Compare 2 Nephi 19.
 
----
 ###### 1 
 Nevertheless the dimness  not  such as  in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict  the way of the sea, beyond Jordan, in Galilee of the nations.
 

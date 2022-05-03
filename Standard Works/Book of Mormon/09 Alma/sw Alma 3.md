@@ -1,10 +1,11 @@
 ---
 title: sw Alma 3
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Alma 3
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/3?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Amlicites had marked themselves according to the prophetic word—The Lamanites had been cursed for their rebellion—Men bring their own curses upon themselves—The Nephites defeat another Lamanite army. About 87–86 B.C.
 
----
 ###### 1 
 And it came to pass that the Nephites who were not slain by the weapons of war, after having buried those who had been slain—now the number of the slain were not numbered, because of the greatness of their number—after they had finished burying their dead they all returned to their lands, and to their houses, and their wives, and their children.
 

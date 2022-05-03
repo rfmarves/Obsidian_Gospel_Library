@@ -1,22 +1,21 @@
 ---
 title: Ezequiel 12
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ezequiel 12
 [[Ezequiel 11| <-- Ezequiel 11]] | [[Ezequiel]] | [[Ezequiel 13|Ezequiel 13 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/12?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/ezek/12?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Ezequiel faz de si mesmo um símbolo da dispersão do povo de Judá a partir de Jerusalém — Ele então profetiza a dispersão deles entre todas as nações.
 
----
 ###### 1 
 E veio a mim a palavra do , dizendo:
 

@@ -1,10 +1,11 @@
 ---
 title: sw Ecclesiastes 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Ecclesiastes 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Everything under the sun is vanity and vexation of spirit—He who increases in knowledge increases in sorrow.
 
----
 ###### 1 
 The words of the Preacher, the son of David, king in Jerusalem.
 

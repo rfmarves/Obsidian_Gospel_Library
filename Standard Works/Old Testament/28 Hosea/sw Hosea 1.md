@@ -1,10 +1,11 @@
 ---
 title: sw Hosea 1
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Hosea 1
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/1?lang=eng)
 
----
-__Summary__
+> __Summary__
 Hosea and his family are a sign unto Israel—In the day of gathering, the people of Israel will become the sons of the living God.
 
----
 ###### 1 
 The word of the  that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz,  Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
 

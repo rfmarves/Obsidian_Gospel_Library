@@ -1,10 +1,11 @@
 ---
 title: sw 2 Kings 10
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 2 Kings 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 Ahab’s seventy sons are slain—Jehu destroys the house of Ahab and all the worshippers of Baal, but he continues to worship the golden calves in Bethel and Dan.
 
----
 ###### 1 
 And Ahab had seventy sons in Samaria. And Jehu wrote letters, and sent to Samaria, unto the rulers of Jezreel, to the elders, and to them that brought up Ahab’s  saying,
 

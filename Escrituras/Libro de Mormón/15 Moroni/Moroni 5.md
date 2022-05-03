@@ -1,22 +1,21 @@
 ---
 title: Moroni 5
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Moroni 5
 [[Moroni 4| <-- Moroni 4]] | [[Moroni]] | [[Moroni 6|Moroni 6 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/5?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/moro/5?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Se expone la forma de administrar el vino sacramental. Aproximadamente 401–421 d.C.
 
----
 ###### 1 
 La manera de administrar el vino. He aquí, tomaban la copa y decían:
 

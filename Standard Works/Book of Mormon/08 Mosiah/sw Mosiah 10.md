@@ -1,10 +1,11 @@
 ---
 title: sw Mosiah 10
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Mosiah 10
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/10?lang=eng)
 
----
-__Summary__
+> __Summary__
 King Laman dies—His people are wild and ferocious and believe in false traditions—Zeniff and his people prevail against them. About 187–160 B.C.
 
----
 ###### 1 
 And it came to pass that we again began to establish the kingdom and we again began to possess the land in peace. And I caused that there should be weapons of war made of every kind, that thereby I might have weapons for my people against the time the Lamanites should come up again to war against my people.
 

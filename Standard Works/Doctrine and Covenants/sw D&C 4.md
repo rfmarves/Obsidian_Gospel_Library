@@ -1,10 +1,11 @@
 ---
 title: sw D&C 4
-tags: #Scriptures\D&C
+tags: Scriptures\D&C
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw D&C 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 1–4, Valiant service saves the Lord’s ministers; 5–6, Godly attributes qualify them for the ministry; 7, The things of God must be sought after.
 
----
 ###### 1 
 Now behold, a marvelous work is about to come forth among the children of men.
 

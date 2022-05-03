@@ -1,22 +1,21 @@
 ---
 title: Ester 1
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Ester 1
 [[Nehemías 13| <-- Nehemías 13]] | [[Ester]] | [[Ester 2|Ester 2 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/1?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/esth/1?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Asuero de Persia y de Media hace fiestas reales — La reina Vasti desobedece al rey y es destituida.
 
----
 ###### 1 
 Y aconteció en los días de Asuero (el Asuero que reinó desde la India hasta Etiopía sobre ciento veintisiete provincias)
 

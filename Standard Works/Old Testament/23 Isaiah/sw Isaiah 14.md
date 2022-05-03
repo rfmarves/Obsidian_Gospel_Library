@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 14
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 14
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/14?lang=eng)
 
----
-__Summary__
+> __Summary__
 Israel will be gathered and enjoy millennial rest—Lucifer was cast out of heaven for rebellion—Israel will triumph over Babylon (the world)—Compare 2 Nephi 24.
 
----
 ###### 1 
 For the  will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
 

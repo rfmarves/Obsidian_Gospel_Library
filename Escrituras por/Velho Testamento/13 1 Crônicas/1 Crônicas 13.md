@@ -1,22 +1,21 @@
 ---
 title: 1 Crônicas 13
-tags: #Escrituras\VelhoT
+tags: Escrituras\VelhoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Crônicas 13
 [[1 Crônicas 12| <-- 1 Crônicas 12]] | [[1 Crônicas]] | [[1 Crônicas 14|1 Crônicas 14 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/13?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/13?lang=por)
 
----
-__Resumo__
+> __Resumo__
 Davi manda buscar a arca em Quiriate-Jearim — Uzá é morto pelo Senhor ao segurar a arca — A casa de Obede-Edom prospera porque eles cuidam da arca.
 
----
 ###### 1 
 E teve Davi conselho com os capitães de mil, e de cem,  com todos os chefes.
 

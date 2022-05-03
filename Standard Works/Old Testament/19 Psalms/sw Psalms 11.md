@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 11
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 11
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/11?lang=eng)
 
----
+```
 To the chief Musician, A Psalm of David.
+```
 
----
-
----
-__Summary__
+> __Summary__
 David rejoices that the Lord is in His holy temple—The Lord tests the righteous and hates the wicked.
 
----
 ###### 1 
 In the  put I my trust: how say ye to my soul, Flee  a bird to your mountain?
 

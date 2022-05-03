@@ -1,10 +1,11 @@
 ---
 title: sw Proverbs 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Proverbs 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Keep the commandments and live—With all your getting, get understanding—Go not in the way of evil men.
 
----
 ###### 1 
 Hear, ye children, the instruction of a father, and attend to know understanding.
 

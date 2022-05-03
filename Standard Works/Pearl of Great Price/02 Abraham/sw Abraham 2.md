@@ -1,10 +1,11 @@
 ---
 title: sw Abraham 2
-tags: #Scriptures\PoGP
+tags: Scriptures\PoGP
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Abraham 2
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=eng)
 
----
-__Summary__
+> __Summary__
 Abraham leaves Ur to go to Canaan—Jehovah appears to him at Haran—All gospel blessings are promised to his seed and through his seed to all—He goes to Canaan and on to Egypt.
 
----
 ###### 1 
 Now the Lord God caused the famine to wax sore in the land of Ur, insomuch that Haran, my brother, died; but Terah, my father, yet lived in the land of Ur, of the Chaldees.
 

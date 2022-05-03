@@ -1,22 +1,21 @@
 ---
 title: 1 Corintios 14
-tags: #Escrituras\NuevoT
+tags: Escrituras\NuevoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 1 Corintios 14
 [[1 Corintios 13| <-- 1 Corintios 13]] | [[1 Corintios]] | [[1 Corintios 15|1 Corintios 15 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/14?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/14?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Las personas deben desear dones espirituales — Se compara el don de lenguas con el de profecía — El de profecía es el mayor de esos dones — Pablo dice: Podéis todos profetizar. Procurad profetizar.
 
----
 ###### 1 
 Seguid la caridad y procurad los  espirituales, pero sobre todo, que profeticéis.
 

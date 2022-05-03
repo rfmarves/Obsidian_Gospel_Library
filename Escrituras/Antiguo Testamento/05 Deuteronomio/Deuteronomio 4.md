@@ -1,22 +1,21 @@
 ---
 title: Deuteronomio 4
-tags: #Escrituras\AntiguoT
+tags: Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Deuteronomio 4
 [[Deuteronomio 3| <-- Deuteronomio 3]] | [[Deuteronomio]] | [[Deuteronomio 5|Deuteronomio 5 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/4?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/ot/deut/4?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 Moisés exhorta a los hijos de Israel a guardar los mandamientos, a enseñárselos a sus hijos y a ser un ejemplo ante todas las naciones — Se les prohíbe hacer imágenes y adorar otros dioses — Deben testificar que han oído la voz de Dios — Si Israel adora otros dioses, será esparcido entre todas las naciones — Serán recogidos de nuevo en los últimos días cuando busquen a Jehová su Dios — Moisés alaba ante el pueblo la misericordia y la bondad de Dios para con Israel.
 
----
 ###### 1 
 Ahora, pues, oh Israel, escucha los estatutos y decretos que yo os enseño, para que los ejecutéis y viváis, y entréis a tomar posesión de la tierra que Jehová, el Dios de vuestros padres, os da.
 

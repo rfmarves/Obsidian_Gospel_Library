@@ -1,10 +1,11 @@
 ---
 title: sw 1 Chronicles 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Chronicles 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Ammonites are overcome—Israel defeats the Philistines.
 
----
 ###### 1 
 And it came to pass, that after the year was expired, at the time that kings go out  Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it.
 

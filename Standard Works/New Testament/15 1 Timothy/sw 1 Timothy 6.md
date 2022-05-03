@@ -1,10 +1,11 @@
 ---
 title: sw 1 Timothy 6
-tags: #Scriptures\NewT
+tags: Scriptures\NewT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 1 Timothy 6
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/6?lang=eng)
 
----
-__Summary__
+> __Summary__
 The love of money is the root of all evil—Fight the good fight of faith—Do not trust in worldly riches.
 
----
 ###### 1 
 Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and  doctrine be not blasphemed.
 

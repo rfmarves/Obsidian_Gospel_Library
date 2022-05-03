@@ -1,22 +1,21 @@
 ---
 title: Mateus 3
-tags: #Escrituras\NovoT
+tags: Escrituras\NovoT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # Mateus 3
 [[Mateus 2| <-- Mateus 2]] | [[Mateus]] | [[Mateus 4|Mateus 4 --> ]]
 
-[Em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/3?lang=por)
+[em linha](https://churchofjesuschrist.org/study/scriptures/nt/matt/3?lang=por)
 
----
-__Resumo__
+> __Resumo__
 João Batista prega na Judeia — Jesus é batizado, e o Pai O proclama como Seu Filho Amado.
 
----
 ###### 1 
 E naqueles dias, apareceu João Batista pregando no deserto da Judeia,
 

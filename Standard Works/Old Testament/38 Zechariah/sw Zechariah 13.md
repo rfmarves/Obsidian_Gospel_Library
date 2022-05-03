@@ -1,10 +1,11 @@
 ---
 title: sw Zechariah 13
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Zechariah 13
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/13?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Jews will gain forgiveness at the Second Coming—They will ask the Lord, What are these wounds in Thine hands?—The remnant, tried and refined, will be His people.
 
----
 ###### 1 
 In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.
 

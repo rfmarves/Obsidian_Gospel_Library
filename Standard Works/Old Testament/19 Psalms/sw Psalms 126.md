@@ -1,10 +1,11 @@
 ---
 title: sw Psalms 126
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Psalms 126
@@ -12,16 +13,13 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/126?lang=eng)
 
----
+```
 A Song of degrees.
+```
 
----
-
----
-__Summary__
+> __Summary__
 The Lord has done great things for His people, Israel.
 
----
 ###### 1 
 When the  turned again the captivity of Zion, we were like them that dream.
 

@@ -1,10 +1,11 @@
 ---
 title: sw Daniel 4
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Daniel 4
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/4?lang=eng)
 
----
-__Summary__
+> __Summary__
 Daniel interprets Nebuchadnezzar’s dream of the great tree, describing the king’s fall and madness—The king learns that the Most High rules and sets the basest of men over earthly kingdoms.
 
----
 ###### 1 
 Nebuchadnezzar the king, unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.
 

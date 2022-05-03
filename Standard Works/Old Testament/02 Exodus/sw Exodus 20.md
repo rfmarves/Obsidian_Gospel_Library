@@ -1,10 +1,11 @@
 ---
 title: sw Exodus 20
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Exodus 20
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Lord reveals the Ten Commandments—Israel is to bear witness that the Lord has spoken from heaven—The children of Israel are forbidden to make gods of silver or gold—They are to make altars of unhewn stones and sacrifice to the Lord thereon.
 
----
 ###### 1 
 And God spake all these words, saying,
 

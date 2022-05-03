@@ -1,10 +1,11 @@
 ---
 title: sw Joshua 21
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Joshua 21
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/21?lang=eng)
 
----
-__Summary__
+> __Summary__
 The Levites receive forty-eight cities with their suburbs—The Lord fulfills all His promises and gives Israel rest.
 
----
 ###### 1 
 Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;
 

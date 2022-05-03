@@ -1,10 +1,11 @@
 ---
 title: sw 3 Nephi 27
-tags: #Scriptures\BoM
+tags: Scriptures\BoM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw 3 Nephi 27
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=eng)
 
----
-__Summary__
+> __Summary__
 Jesus commands that the Church be called in His name—His mission and atoning sacrifice constitute His gospel—Men are commanded to repent and be baptized that they may be sanctified by the Holy Ghost—They are to be even as Jesus is. About A.D. 34–35.
 
----
 ###### 1 
 And it came to pass that as the disciples of Jesus were journeying and were preaching the things which they had both heard and seen, and were baptizing in the name of Jesus, it came to pass that the disciples were gathered together and were united in mighty prayer and fasting.
 

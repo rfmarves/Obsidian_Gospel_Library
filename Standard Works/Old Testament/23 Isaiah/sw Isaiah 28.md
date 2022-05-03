@@ -1,10 +1,11 @@
 ---
 title: sw Isaiah 28
-tags: #Scriptures\OldT
+tags: Scriptures\OldT
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # sw Isaiah 28
@@ -12,11 +13,9 @@ people:
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/28?lang=eng)
 
----
-__Summary__
+> __Summary__
 Woe to the drunkards of Ephraim!—Revelation comes line upon line and precept upon precept—Christ, the sure foundation, is promised.
 
----
 ###### 1 
 Woe to the crown of pride, to the drunkards of Ephraim, whose glorious beauty  a fading flower, which  on the head of the fat valleys of them that are overcome with wine!
 

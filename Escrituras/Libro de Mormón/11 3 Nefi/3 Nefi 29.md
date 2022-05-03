@@ -1,22 +1,21 @@
 ---
 title: 3 Nefi 29
-tags: #Escrituras\LdM
+tags: Escrituras\LdM
 
 cssclass: scriptures
 publish: false
 people:
+obsidianUIMode: preview
 ---
 
 # 3 Nefi 29
 [[3 Nefi 28| <-- 3 Nefi 28]] | [[3 Nefi]] | [[3 Nefi 30|3 Nefi 30 --> ]]
 
-[En línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/29?lang=spa)
+[en línea](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/29?lang=spa)
 
----
-__Resumen__
+> __Resumen__
 La aparición del Libro de Mormón es una señal de que el Señor ha empezado a recoger a Israel y a cumplir Sus convenios — Los que rechacen Sus revelaciones y dones de los postreros días serán maldecidos. Aproximadamente 34–35 d.C.
 
----
 ###### 1 
 Y ahora bien, he aquí os digo que cuando el Señor, en su sabiduría, juzgue prudente que lleguen estas cosas a los gentiles, según su palabra, entonces sabréis que ya empieza a cumplirse el convenio que el Padre ha hecho con los hijos de Israel, concerniente a su restauración a las tierras de su herencia.
 
