@@ -1,6 +1,6 @@
 ---
 title: Salmos 117
-tags: Escrituras\AntiguoT
+tags: #Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
@@ -17,8 +17,13 @@ obsidianUIMode: preview
 Alabad a Jehová por Su misericordia y verdad.
 
 ###### 1 
-
+¡Alabad a Jehová, naciones todas!
+¡Pueblos todos, alabadle!
 
 ###### 2 
-
+Porque ha engrandecido sobre nosotros su misericordia,
+y la 
+verdad
+ de Jehová es para siempre.
+¡Aleluya!
 

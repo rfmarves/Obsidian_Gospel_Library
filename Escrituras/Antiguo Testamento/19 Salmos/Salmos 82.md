@@ -1,6 +1,6 @@
 ---
 title: Salmos 82
-tags: Escrituras\AntiguoT
+tags: #Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
@@ -21,26 +21,41 @@ Salmo de Asaf.
 Así dice Dios: Vosotros sois dioses e hijos del Altísimo.
 
 ###### 1 
-
+Dios está en la reunión de los dioses;
+en medio de los dioses juzga.
 
 ###### 2 
-
+¿Hasta cuándo juzgaréis injustamente
+y favoreceréis a los malvados? 
+Selah
 
 ###### 3 
-
+Defended al pobre y al huérfano;
+haced justicia al afligido y al menesteroso.
 
 ###### 4 
-
+Librad al pobre y al necesitado;
+libradlo de manos de los malvados.
 
 ###### 5 
-
+No saben ni entienden;
+andan
+ en tinieblas.
+Tiemblan todos los cimientos de la tierra.
 
 ###### 6 
-
+Yo dije: Vosotros sois dioses,
+y todos vosotros 
+hijos
+ del Altísimo.
 
 ###### 7 
-
+Pero como hombres moriréis,
+y caeréis como cualquiera de los príncipes.
 
 ###### 8 
-
+Levántate, oh Dios; 
+juzga
+ la tierra,
+porque tú heredarás todas las naciones.
 

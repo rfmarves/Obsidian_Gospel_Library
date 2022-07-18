@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 # Set this to your root Obisidian library folder
 # use forward slash and end in a forward slash (no backslashes)
 #### CHANGE THIS LINE BEFORE USING ####
-LibraryPath = "C:/Users/[your user here]/Notes/Library/"
+LibraryPath = "C:/Users/rfmar/Notes/Library/"
 
 # Gets URL from clipboard
 win32clipboard.OpenClipboard()
@@ -16,7 +16,7 @@ lang_code = url[-3:]
 OnlineText = "Online"
 if lang_code == "spa":
     OnlineText = "En línea"
-elif lang_code == "por"
+elif lang_code == "por":
     OnlineText = "em linha"
 
 # validates clipboard data, quits if not a Gospel Library address

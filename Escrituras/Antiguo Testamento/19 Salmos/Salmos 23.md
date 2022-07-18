@@ -1,6 +1,6 @@
 ---
 title: Salmos 23
-tags: Escrituras\AntiguoT
+tags: #Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
@@ -21,20 +21,44 @@ Salmo de David.
 David declara: Jehová es mi pastor.
 
 ###### 1 
-
+Jehová es mi 
+pastor
+; nada me 
+faltará
+.
 
 ###### 2 
-
+En lugares de delicados pastos me hará descansar;
+junto a aguas de reposo me pastoreará.
 
 ###### 3 
-
+Confortará
+ mi alma;
+me guiará por sendas de justicia por amor de su 
+nombre
+.
 
 ###### 4 
-
+Aunque ande en 
+valle
+ de sombra de 
+muerte
+,
+no temeré 
+mal
+ alguno, porque 
+tú
+ estarás conmigo;
+tu vara y tu cayado me infundirán aliento.
 
 ###### 5 
-
+Aderezas mesa delante de mí en presencia de mis angustiadores;
+unges
+ mi cabeza con aceite; mi copa está rebosando.
 
 ###### 6 
-
+Ciertamente el bien y la 
+misericordia
+ me seguirán todos los días de mi vida,
+y en la casa de Jehová moraré por largos días.
 

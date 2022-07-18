@@ -1,6 +1,6 @@
 ---
 title: Salmos 120
-tags: Escrituras\AntiguoT
+tags: #Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
@@ -21,23 +21,37 @@ Cántico de aascenso gradual.
 Clamad a Jehová en los momentos de angustia.
 
 ###### 1 
-
+A Jehová clamé estando en angustia,
+y él me respondió.
 
 ###### 2 
-
+Libra mi alma, oh Jehová, del labio mentiroso,
+de la 
+lengua
+ engañosa.
 
 ###### 3 
-
+¿Qué se te dará o qué se te añadirá,
+oh lengua engañosa?
 
 ###### 4 
-
+Agudas saetas de valiente,
+con brasas de enebro.
 
 ###### 5 
-
+¡Ay de mí, que peregrino en Mesec
+y
+ habito entre las tiendas de Cedar!
 
 ###### 6 
-
+Mucho tiempo ha morado mi alma
+con los que aborrecen la paz.
 
 ###### 7 
-
+Yo soy 
+pacífico
+,
+mas ellos, apenas hablo, 
+me
+ hacen la guerra.
 

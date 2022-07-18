@@ -1,8 +1,10 @@
 import os, requests
 from bs4 import BeautifulSoup
+from selenium.webdriver import Chrome
+from selenium.webdriver.chrome.options import Options
 
 # Configuration parameters
-filename = 'list.txt' #Change to file created with data list, using Excel workbook
+filename = 'listTEST.txt' #Change to file created with data list, using Excel workbook
 
 LangList = ["eng", "spa", "por"]                        #Language Code list
 SummaryTextList = ["Summary", "Resumen", "Resumo"]      #Text to use for each chapter summary
@@ -10,8 +12,12 @@ OnlineTextList = [ "Online", "en línea", "em linha"]    #Text to use for web pa
 
 # DO NOT CHANGE BELOW THIS LINE UNLESS YOU KNOW WHAT YOU'RE DOING
 counter = 0
+headers = {
+    'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0',
+    'X-Requested-With': 'XMLHttpRequest',
+}
 # Loads data list file.
-datalist = open(filename, 'r',encoding='utf8').readlines()
+datalist = open(filename, 'r', encoding='utf8').readlines()
 
 # Loops through all the files
 for line in datalist:
@@ -31,22 +37,35 @@ for line in datalist:
     SummaryText = SummaryTextList[LangCode]
     OnlineText = OnlineTextList[LangCode]
 
+    chrome_options = Options()
+    chrome_options.add_argument("--headless") # Opens the browser up in background
+
     #get web data
     outputfilename = (FolderPath + '/' + ChapterName).strip() + '.md'
     print(str(counter) + ":Getting " + outputfilename)
-    AttemptCount = 0
-    while True:
-        AttemptCount += 1
-        wp = requests.get(url)
-        if wp.ok:
-            break
-        if AttemptCount > 11:
-            print("Failed dowloading after 10 attempts")
-            break
-        if AttemptCount > 1:
-            print("Download attempt " + str(AttemptCount))
 
-    soup = BeautifulSoup(wp.content, 'html.parser')
+    with Chrome(options=chrome_options) as browser:
+        browser.get(url)
+        wp = browser.page_source
+
+##    AttemptCount = 0
+##    while True:
+##        AttemptCount += 1
+##
+##        with Chrome(options=chrome_options) as browser:
+##            browser.get(url)
+##            wp = browser.page_source
+##        print(wp)    
+##        #wp = requests.get(url, headers=headers)
+##        if wp.ok:
+##            break
+##        if AttemptCount > 11:
+##            print("Failed dowloading after 10 attempts")
+##            break
+##        if AttemptCount > 1:
+##            print("Download attempt " + str(AttemptCount))
+
+    soup = BeautifulSoup(wp, 'html.parser')
 
     #Construct YAML heading for each md file
     mdFile = "---"  + "\n"
@@ -96,11 +115,13 @@ for line in datalist:
         verseNum = verse.find('span', class_='verse-number')
         if verseNum != None:
             mdFile += "###### " + verseNum.text + "\n"
-        for TextToRemove in verse.find_all(['span', 'sup']):
+            for TextToRemove in verse.find_all('span', class_='verse-number'):
+                TextToRemove.clear()
+        for TextToRemove in verse.find_all(['sup']):
             TextToRemove.clear()
-        mdFile += verse.text  + "\n" + "\n"
+        mdFile += verse.get_text("\n")  + "\n" + "\n"
 
-    # Used in debugging
+    # Used in debuggingr
     #print(mdFile)
 
     # writes file

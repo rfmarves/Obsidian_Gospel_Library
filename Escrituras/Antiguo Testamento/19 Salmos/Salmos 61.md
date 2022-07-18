@@ -1,6 +1,6 @@
 ---
 title: Salmos 61
-tags: Escrituras\AntiguoT
+tags: #Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
@@ -21,26 +21,39 @@ Al músico principal: con aNeginot. Salmo de David.
 David halla refugio en Dios, habita en Su presencia y guarda los votos que había hecho.
 
 ###### 1 
-
+Oye, oh Dios, mi clamor; atiende a mi oración.
 
 ###### 2 
-
+Desde el extremo de la tierra clamaré a ti cuando mi corazón desmaye.
+Condúceme a la peña que es más alta que yo,
 
 ###### 3 
-
+porque tú has sido mi refugio,
+y
+ 
+torre
+ fuerte delante del enemigo.
 
 ###### 4 
-
+Yo habitaré en tu tabernáculo para siempre;
+estaré seguro bajo la cubierta de tus alas. 
+Selah
 
 ###### 5 
-
+Porque tú, oh Dios, has oído mis 
+votos
+;
+me has dado la heredad de los que temen tu nombre.
 
 ###### 6 
-
+Días sobre días añadirás al rey;
+sus años serán como generación tras generación.
 
 ###### 7 
-
+Estará para siempre delante de Dios;
+prepara misericordia y verdad para que lo conserven.
 
 ###### 8 
-
+Así cantaré alabanzas a tu nombre para siempre,
+cumpliendo mis votos día tras día.
 

@@ -1,6 +1,6 @@
 ---
 title: Salmos 134
-tags: Escrituras\AntiguoT
+tags: #Escrituras\AntiguoT
 
 cssclass: scriptures
 publish: false
@@ -21,11 +21,19 @@ Cántico de aascenso gradual.
 Bendecid a Jehová y Él os bendecirá.
 
 ###### 1 
-
+Mirad, bendecid a Jehová,
+vosotros todos los siervos de Jehová,
+los que en la casa de Jehová estáis por las 
+noches
+.
 
 ###### 2 
-
+Alzad vuestras 
+manos
+ al santuario
+y bendecid a Jehová.
 
 ###### 3 
-
+Desde Sion te bendiga Jehová,
+quien ha hecho los cielos y la tierra.
 
